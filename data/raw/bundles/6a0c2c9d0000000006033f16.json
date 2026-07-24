@@ -1,0 +1,39 @@
+{
+  "note_id": "6a0c2c9d0000000006033f16",
+  "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+  "fetched_at": 1784874041.0631373,
+  "course_codes": [
+    "CS5188",
+    "CS5281",
+    "CS5491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城课程体验",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "SemB\n\t\nCS5491 Artificial Intelligence\nlu老师完全大好人，老师的口音很好懂，课程主要是参考人工智能现代化第四版这本书，课程的日常作业量不大，项目可以1-3人，可选范围很广，老师说优秀的项目有投稿的可能，如果有想法的同学可以好好做项目或者提前和老师了解一下（个人没有尝试，未知可行度），期中考试和期末考试基本都是基于tutorial 的例题进行理解然后稍作变动，都是开卷，总体不是很困难\n\t\nCS6493 Natural Language Model\nSong老师和Ma老师共同授课，两位老师的课堂口音都属于很正的比较好懂的口音，课程会包含bert、transformer、llm、rag等内容，对于想要入门了解这方面内容的同学来说还挺不错的，总共有两次作业，每次assignment 是几道大题然后每个大题会有3-5个小题，project 是1-8人自由组队，没有期中考试，期末考试闭卷，一些概念理解题主要是某个技术的优缺点之类的，两道计算题，两道代码题，还有个应用类题\n\t\nCS5188 Virtual Reality Tech & Apns\n老师感觉是香港本地人，我有时会听不太懂老师讲课发音，没有平时作业，一个1-3人的project 和期中期末，期中期末都是闭卷，如果没有ue5基础的不建议选，不然做项目就很耗时间，期中是选择加概念题，期末是选择加简答加综合，都是考ppt里面的内容，但是ppt复习起来要记忆的太多了，很耗时间\n\t\nCS5281 Internet Application Dev\n老师讲课会进行首先实现演示，然后过一下ppt，会有线上zoom，日常也没有考勤，主要就是html、css、JavaScript相关知识点，期中期末开卷，考试内容都是课程讲义里面的，但是题量不算少，课程project 最多8人组队，平时作业也很简单\n\t\n#cityu[话题]# #选课[话题]# #香港城市大学[话题]# #留学课程[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢主包分享，想请问下nlp的概念理解题是这种直接问一个模型让咱说说它的优缺点，还是说给一个情景让去分析这个模型的作用、是不是解决的最优模型、为什么这种？",
+      "sourceRef": "comment:6a108d1a000000002b02975c",
+      "commentId": "6a108d1a000000002b02975c",
+      "likes": "0",
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "前面的简答题就是直接给出优缺点或者不同比如Bert和GPT的两个不同之类的，后面的应用类题目会结合一个实际场景然后说明，比如给出了一个agent实际，中间的某一步应该用什么东西实现，其优缺点之类的",
+      "sourceRef": "comment:6a1106fd0000000029034458",
+      "commentId": "6a1106fd0000000029034458",
+      "likes": "0",
+      "author": "dancostar"
+    }
+  ]
+}

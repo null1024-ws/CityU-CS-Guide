@@ -1,0 +1,114 @@
+{
+  "note_id": "677c9dc2000000002002f260",
+  "url": "https://www.xiaohongshu.com/explore/677c9dc2000000002002f260?xsec_token=ABby7d7HufFJH_libkZTv0t5I9WJE5wSeHf7tZPIe4mtE=",
+  "fetched_at": 1784874010.7187617,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Msc CS SemA选课体验与攻略",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1.Vision and Image\n伟大无需多言，报就是了。老师是一位大佬，讲课方式很棒也比较幽默。成绩构成为两个作业（一个占10%）一个单人项目（占30%）加上期末考试（占50%），老师考前会划重点，考试和作业真的非常非常非常友好没有太大难度（期末考试的计算题小学生都能做），不管你之前有没有接触过计算机视觉我都推荐你选这个课。\n2.Machine learning:Principle and Practice\n最难的课，我每周除了上课还要花6-8小时来学习，编程作业容量非常大一个作业可以做10天，而且这个课需要很好的数学基础。期末考试非常难，我感觉自己数学算不错的，就这样也只能拿个B+。上课就是推一节课数学公式，数学不太好的千万别选。\n但是这个课真的让我这个之前对机器学习一窍不通的人学会了基本的几类机器学习算法。成绩构成是编程作业两个（一个占10%），每周有个课后作业（证明题，共占10%），期中（占10%），小组项目（2人小组，占30%），期末考试（占30%）。\n3.Computer Network and Internets\n必修课，和本科学的计算机网络差不多。但是老师改作业非常非常严，很多作业题相对教材会有改动，直接抄答案会得0分。考试题量很大，不过是开卷就还好，考前复习每节课的tutorial很有用。成绩构成是平时作业（占30%）和期末考试（占70%）\n4.Data Engineering\n必修课，和vision and image一样也是很不错的课，从数据爬虫到数据管理各种数据工程知识都有讲，上课强度也不大，老师一节课也讲不了几个知识点。Python不熟悉的同学通过这个课也可以熟悉Python。除了小组project给分比较严，平时作业给分很不错，考试也是作业题的变形不会太难。成绩构成是两个平时作业（一个占15%），一个小组项目（占30%），期末考试（占40%）\n5.Software Engineering\n必修课，老师人很好，但是他的英语真的听不懂，课上会有很多互动，对社恐来说不太友好。上课内容和本科的软件工程完全不一样，基本上都是偏向实际工作的。这个课有个小组项目，大家一定要选好队友，我们这学期就是遇到一个混子，最后他啥也不做还能拿分。#香港城市大学[话题]##cityu[话题]# #香港城市大学选课[话题]# #香港城市大学计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "可以请问一下前辈软工期中quiz是考多久吗，会不会没有时间翻PPT呀[玫瑰R]",
+      "sourceRef": "comment:67ce6903000000001800925e",
+      "commentId": "67ce6903000000001800925e",
+      "likes": "0",
+      "author": "易昂杨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第六周左右，基本上做不完，但是老师会捞人",
+      "sourceRef": "comment:67ce6b71000000000f0331ce",
+      "commentId": "67ce6b71000000000f0331ce",
+      "likes": "0",
+      "author": "阿草"
+    },
+    {
+      "type": "comment",
+      "text": "请问ML这门课的参考书籍是什么呀？数学不好的人是不是最好别选 [哭惹R]",
+      "sourceRef": "comment:68617cc4000000002001300d",
+      "commentId": "68617cc4000000002001300d",
+      "likes": "0",
+      "author": "松子玉米"
+    },
+    {
+      "type": "sub_comment",
+      "text": "别选，否则你SemA一周有三天都在学这个[笑哭R]",
+      "sourceRef": "comment:6861ec0a000000000602d50a",
+      "commentId": "6861ec0a000000000602d50a",
+      "likes": "0",
+      "author": "阿草"
+    },
+    {
+      "type": "comment",
+      "text": "软工组队要多少个人？",
+      "sourceRef": "comment:68ae9997000000000201415f",
+      "commentId": "68ae9997000000000201415f",
+      "likes": "0",
+      "author": "我是赵凡"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢大数据让我刷到这么多大佬[睡觉R]",
+      "sourceRef": "comment:677cb325000000001b03669b",
+      "commentId": "677cb325000000001b03669b",
+      "likes": "0",
+      "author": "西柚气泡霜"
+    },
+    {
+      "type": "comment",
+      "text": "原来是你",
+      "sourceRef": "comment:677ca19d00000000220095d5",
+      "commentId": "677ca19d00000000220095d5",
+      "likes": "0",
+      "author": "长乐"
+    },
+    {
+      "type": "comment",
+      "text": "学长好，数据工程的作业是什么样子的呀？project这块会做什么内容呀",
+      "sourceRef": "comment:68674403000000000c027600",
+      "commentId": "68674403000000000c027600",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "comment",
+      "text": "group project 队友真是太重要了",
+      "sourceRef": "comment:677ca242000000002101a7b2",
+      "commentId": "677ca242000000002101a7b2",
+      "likes": "2",
+      "author": "别叫我姐妹了Orz"
+    },
+    {
+      "type": "comment",
+      "text": "学长，软件工程这门课上课讲解的是什么编程语言呀？小组project是做哪一块的东西呀？会限制语言吗？",
+      "sourceRef": "comment:68674369000000001102cf30",
+      "commentId": "68674369000000001102cf30",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "comment",
+      "text": "学长，de怎么复习啊[笑哭R]",
+      "sourceRef": "comment:69329a650000000014037f0f",
+      "commentId": "69329a650000000014037f0f",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "插眼选课指导",
+      "sourceRef": "comment:677ca1ba0000000022003799",
+      "commentId": "677ca1ba0000000022003799",
+      "likes": "0",
+      "author": "星铁领域小神"
+    }
+  ]
+}

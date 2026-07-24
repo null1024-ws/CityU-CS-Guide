@@ -1,0 +1,39 @@
+{
+  "note_id": "7e865eb6-ac47-4c02-8616-2cf19d94ea4a",
+  "url": "https://www.xiaohongshu.com/explore/7e865eb6-ac47-4c02-8616-2cf19d94ea4a?xsec_token=ABsrk_NEI18-hyPJnWPS8l6P4GHEM106pg-Tlzlbn6rBbo_WqeJAkxXqImSpsIF8hX_e_iI8LlVZ0z87TpMnNRIqqaNGhsoyFel8KLFe9AWDU=",
+  "fetched_at": 1784874297.9582114,
+  "note": {},
+  "search_query": "CS5481 CityU",
+  "search_item": {
+    "id": "7e865eb6-ac47-4c02-8616-2cf19d94ea4a#1784874295542",
+    "model_type": "rec_query",
+    "rec_query": {
+      "queries": [
+        {
+          "id": "cityu选课系统",
+          "name": "cityu选课系统",
+          "search_word": "cityu选课系统"
+        },
+        {
+          "id": "cityu奖学金申请",
+          "name": "cityu奖学金申请",
+          "search_word": "cityu奖学金申请"
+        },
+        {
+          "id": "cityu是什么大学",
+          "name": "cityu是什么大学",
+          "search_word": "cityu是什么大学"
+        },
+        {
+          "search_word": "cityu就读体验",
+          "id": "cityu就读体验",
+          "name": "cityu就读体验"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1,
+      "word_request_id": "7e865eb6-ac47-4c02-8616-2cf19d94ea4a#1784874295542"
+    },
+    "xsec_token": "ABsrk_NEI18-hyPJnWPS8l6P4GHEM106pg-Tlzlbn6rBbo_WqeJAkxXqImSpsIF8hX_e_iI8LlVZ0z87TpMnNRIqqaNGhsoyFel8KLFe9AWDU="
+  }
+}

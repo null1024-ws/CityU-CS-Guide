@@ -1,0 +1,242 @@
+{
+  "note_id": "6878c023000000002400e000",
+  "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
+  "fetched_at": 1784874032.056986,
+  "note": {
+    "current_time": 1784874033192,
+    "cursor_score": "",
+    "items": [
+      {
+        "ignore": false,
+        "id": "6878c023000000002400e000",
+        "model_type": "note",
+        "note_card": {
+          "interact_info": {
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "liked_count": "45",
+            "collected": false,
+            "share_count": "9",
+            "collected_count": "64",
+            "comment_count": "3",
+            "followed": false
+          },
+          "image_list": [
+            {
+              "live_photo": false,
+              "height": 786,
+              "width": 1179,
+              "url": "",
+              "file_id": "1040g2sg31k1itcfqj2704be2im45ei00u0i62io",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/402f73a7d5248bd1d17264a2c22e86c5/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/f18e384544b81e35a4c6872a93246fd7/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nd_dft_wgth_webp_3",
+                  "image_scene": "WB_DFT"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/402f73a7d5248bd1d17264a2c22e86c5/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/f18e384544b81e35a4c6872a93246fd7/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nd_dft_wgth_webp_3",
+              "stream": {}
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "6353a216000000000100b54d",
+              "name": "香港留学",
+              "type": "topic"
+            },
+            {
+              "id": "659a68b5000000003f02dff3",
+              "name": "cityucs",
+              "type": "topic"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "64da44ce0000000014038656",
+              "name": "cityu选课",
+              "type": "topic"
+            },
+            {
+              "id": "66f1180a000000000202c58b",
+              "name": "城大cs",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "64bd02a20000000025013849",
+              "name": "港硕选课"
+            }
+          ],
+          "at_user_list": [],
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "6878c023000000002400e000",
+          "type": "normal",
+          "time": 1752743971000,
+          "last_update_time": 1752744127000,
+          "title": "🇭🇰CityU CS SemB选课",
+          "desc": "🌟CityUHK 计算机科学授课硕士 semB 的选课汇总\n全职打工顺利毕业，在人均distinct水平的小红书里出现一个2+绩点[笑哭R]\n\t\nCS5182 Computer Graphics\n24fall semB是内地老师，上课内容不难，涉及计算机图形学经典算法。成绩构成：期中考试➕项目➕期末考试。没有作业！项目选题广泛，但深度学习是必须的，不能用传统方法水，如果没有图形学基础和深度学习基础，项目会做得非常吃力，建议早早抱大腿。考试不难（真的不难），博主拿C+纯属自己没学好，项目做得一般。\n\t\nCS5296 Cloud Computing\n云计算的基础知识及应用，有操作系统和数据库的相关内容。选这门建议提前接触AWS，没接触过tutorial部分会比较吃力。成绩构成是三次作业➕云计算项目➕期末考试。项目可自选难度，给分考虑难度系数。期末考试是和本科高年级一起考的，难度高题量大，不建议突击。\n\t\nCS5489 Machine Learning: algorithms and applications\n很好的一门课，和5487相比偏应用，数学基础弱但想学机器学习可以冲。成绩构成是十次tutorial➕两次个人作业➕小组项目➕期中考试➕期末考试。workload比较大，但绝对值得学费，课程内容非常丰富，考试无法突击，建议一定要好好学的一门课👍👍👍\n\t\nCS6290 Privacy-enhancing and Technologies\n😵‍💫区块链相关技术，适合未来想冲web3行业的同学。建议学习之前提前了解一些基础概念，熟悉专业英文词汇，不然有点像听天书。成绩构成是四次个人作业➕小组项目（期中要做开题汇报）➕期末考试。不过听今年summer term的同学反映，为了保证出勤率，增加了课堂quiz。内容对于没有接触过区块链的同学来说会比较生疏，考试难度尚可，熟悉基础概念部分已经不会挂科。\n#香港留学[话题]# #cityucs[话题]# #cityu[话题]# #cityu选课[话题]# #城大cs[话题]# #港硕选课[话题]#",
+          "user": {
+            "xsec_token": "ABXxNXjNAEovAGPKBAix_2SZvrloObU4CdVxWKnbLpyhY=",
+            "user_id": "5bc04857c06b8e0001844800",
+            "nickname": "Hanna",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t99bh9fls004be2im45ei007ccha7g"
+          }
+        }
+      }
+    ]
+  },
+  "comments": {
+    "comments": [
+      {
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "id": "68799f7300000000040142ae",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1752801140000,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "user_info": {
+                "xsec_token": "AB72HKLpRTL9je15RZ_SOD8yU8h73Rzw7yLWHL9vgBvEk=",
+                "user_id": "659040dc00000000220084c6",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4oa894gu005pcg83e8h166bkrl8co?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              },
+              "id": "6878ca6e0000000001022f0f"
+            },
+            "note_id": "6878c023000000002400e000",
+            "status": 0,
+            "content": "所以学得少，微学吧，学了40%",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t99bh9fls004be2im45ei007ccha7g?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABI1M2RGjVNdAz98wHYlUZgub1hcSHgSjGm_xqQKF0SCk=",
+              "user_id": "5bc04857c06b8e0001844800",
+              "nickname": "Hanna"
+            },
+            "invalid": false
+          }
+        ],
+        "id": "6878ca6e0000000001022f0f",
+        "liked": false,
+        "create_time": 1752746606000,
+        "sub_comment_cursor": "68799f7300000000040142ae",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "note_id": "6878c023000000002400e000",
+        "status": 0,
+        "at_users": [],
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4oa894gu005pcg83e8h166bkrl8co?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB72HKLpRTL9je15RZ_SOD8yU8h73Rzw7yLWHL9vgBvEk=",
+          "user_id": "659040dc00000000220084c6",
+          "nickname": "momo"
+        },
+        "show_tags": [],
+        "ip_location": "浙江",
+        "content": "全程在职的太强了[哭惹R]",
+        "like_count": "1"
+      },
+      {
+        "create_time": 1762131470000,
+        "sub_comment_count": "0",
+        "id": "6907fe0e000000003802719a",
+        "content": "你的作品给我带来了心灵的启迪和思考，每一次观看都能让我得到新的认知和体验，感谢你的创作，我会一直回复并关注你。",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "note_id": "6878c023000000002400e000",
+        "like_count": "0",
+        "show_tags": [],
+        "ip_location": "马来西亚",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "user_info": {
+          "xsec_token": "AB8YDt46aTuJJDKSHUoowBwlyN9C8AOBkSlSNte8otD_w=",
+          "user_id": "61210a910000000001002138",
+          "nickname": "爱睡觉",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31krmr0fniu005o911a8g889ou4bl6bo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "invalid": false,
+        "at_users": [],
+        "liked": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 2,
+    "pages_fetched": 1
+  },
+  "search_query": "城大计算机硕士 选课",
+  "search_item": {
+    "id": "6878c023000000002400e000",
+    "model_type": "note",
+    "note_card": {
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-07-17"
+        }
+      ],
+      "type": "normal",
+      "display_title": "🇭🇰CityU CS SemB选课",
+      "user": {
+        "nick_name": "Hanna",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t99bh9fls004be2im45ei007ccha7g?imageView2/2/w/80/format/jpg",
+        "user_id": "5bc04857c06b8e0001844800",
+        "nickname": "Hanna",
+        "xsec_token": "ABN0RSiNnaXug4Xr5fEIi4lwlQ8VEAu_VmptdIZOa6V9w="
+      },
+      "interact_info": {
+        "collected": false,
+        "collected_count": "64",
+        "comment_count": "3",
+        "shared_count": "9",
+        "liked": false,
+        "liked_count": "45"
+      },
+      "cover": {
+        "height": 786,
+        "width": 1179,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/9fdfc1d79dc45e03edc437c60a57084a/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/d848e03ce969ed3e67b34a4da3181892/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 786,
+          "width": 1179,
+          "info_list": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/9fdfc1d79dc45e03edc437c60a57084a/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nc_n_webp_mw_1",
+              "image_scene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/d848e03ce969ed3e67b34a4da3181892/1040g2sg31k1itcfqj2704be2im45ei00u0i62io!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            }
+          ]
+        }
+      ]
+    },
+    "xsec_token": "ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk="
+  }
+}

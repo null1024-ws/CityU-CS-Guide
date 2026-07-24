@@ -1,0 +1,90 @@
+{
+  "courseCode": "EC5001",
+  "fields": {
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
+      "value": "strict",
+      "label": "考勤严",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "676793ee000000000b00d2b1",
+      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+      "excerpt": "EC5001 Introduction to Ecommerce；这个课一看名字就水，也确实如此，纯文科，平时分由一个简单的课后作业，签到，group project构成，签到也就前8节课那个老师有要求，group project也是非常的好水，chatgtp轻轻松松。期末也全是主观题，建议多看看各种概念的对比，也是比较好过的。；另外说说其他几门；machine learing：我看选了的同学都叫苦不迭，作业一周一留，考试考的还特别难，建议没必要没苦硬吃，别选。；information security for Ecommerce：虽说没有group project，但是也是很难，看选了的同学也是各种后悔，叫苦不迭，还速成不了，没基础的期末简直是看天书，而且课还是在周五晚上就很阴间，建议是别选。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semA选课攻略（期末速成版）"
+    },
+    {
+      "noteId": "6a0c17bd000000000702ea2c",
+      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+      "excerpt": "EC5001 introduction to EC；看名字就知道这门课和5481差不多也是背书课，分两个老师，第一个老师会查出勤。类似于大学里的通识课，不追求GPA的话，这门课可以很摆。期末前一天下PPT开始看都来得及；上述课程除ec外均无考勤",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "693a7b0a000000001e00c686",
+      "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
+      "excerpt": "ec5001 introduction to e-commerce",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "缓慢记录cityu cs sem A期末考试"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "693a7b0a000000001e00c686",
+      "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
+      "excerpt": "稍微揪个虫，ec5001 tech部分第二题，准确来说问的是安卓苹果的开发语言",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "缓慢记录cityu cs sem A期末考试",
+      "commentId": "693f1ef70000000038008fa7",
+      "author": "Kiraoshi",
+      "likes": "0",
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-24"
+}

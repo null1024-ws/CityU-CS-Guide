@@ -1,0 +1,224 @@
+{
+  "note_id": "693a7b0a000000001e00c686",
+  "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
+  "fetched_at": 1784874185.4752533,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5351",
+    "CS5481",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "缓慢记录cityu cs sem A期末考试",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "记忆回放，不太准确，不负责。\ncs5481 data engineering\ncs5351 software engineering\ncs5187 vision and image\nec5001 introduction to e-commerce\ncs5222 🐔网\n#cityu[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "uu你们软工没有选择题吗？[皱眉R]",
+      "sourceRef": "comment:693c1a2e000000003800f3da",
+      "commentId": "693c1a2e000000003800f3da",
+      "likes": "0",
+      "author": "不吃猪饲料（批发版）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "🈚️ 全大题",
+      "sourceRef": "comment:693c1bd20000000006018c12",
+      "commentId": "693c1bd20000000006018c12",
+      "likes": "0",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "博主想问问5222是不是没有期末的最低分要求呀[哭惹R]是只要作业+期末总分过35就行了嘛",
+      "sourceRef": "comment:694274af0000000038011d7e",
+      "commentId": "694274af0000000038011d7e",
+      "likes": "1",
+      "author": "marin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不到 没上过课[doge]但期末占比70的话考50比较稳吧 跟着我的攻略何愁考不了50",
+      "sourceRef": "comment:694275f4000000001502fa69",
+      "commentId": "694275f4000000001502fa69",
+      "likes": "1",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "感谢博主，蹲一个5222[哭惹R]",
+      "sourceRef": "comment:693c31a9000000001601ccaa",
+      "commentId": "693c31a9000000001601ccaa",
+      "likes": "0",
+      "author": "MinaMi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我5222下周二才考",
+      "sourceRef": "comment:693c38ab000000000e035f7a",
+      "commentId": "693c38ab000000000e035f7a",
+      "likes": "1",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "稍微揪个虫，ec5001 tech部分第二题，准确来说问的是安卓苹果的开发语言",
+      "sourceRef": "comment:693f1ef70000000038008fa7",
+      "commentId": "693f1ef70000000038008fa7",
+      "likes": "0",
+      "author": "Kiraoshi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第一题dtd，形式上是\"xm内部的dtd(内联)\"，考试的时候忘了内联咋写，只能糊弄一下[笑哭R]",
+      "sourceRef": "comment:693f1f87000000003800773a",
+      "commentId": "693f1f87000000003800773a",
+      "likes": "0",
+      "author": "Kiraoshi"
+    },
+    {
+      "type": "comment",
+      "text": "为什么不是考前刷到[猪头R]",
+      "sourceRef": "comment:693c240f00000000380105d3",
+      "commentId": "693c240f00000000380105d3",
+      "likes": "0",
+      "author": "J."
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为我也刚考完呀[doge]写给下一届看",
+      "sourceRef": "comment:693c279c000000001403778f",
+      "commentId": "693c279c000000001403778f",
+      "likes": "2",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "考试前一直在小红书刷攻略，感觉还挺有用，写一下帮助后面的人吧。data engineering的话，b+树和sql还有正则感觉是必考，而且考得都不算难，比起作业来说的话，作业出的题会写，考试基本这几部分都满分。剩下的就是考概念，考前几天会给一个大纲，把里面的过一遍，就差不多了。se考试全大题，十道大题，开卷，带三张纸，建议还是把概念过一遍，不然考试的时候看cheatpaper ，现场学的话，挺吃英语的，英语不好的还是过一遍吧，q1q2同理，q2给了题型和范围，认真过一遍就没问题。",
+      "sourceRef": "comment:69435494000000003803f159",
+      "commentId": "69435494000000003803f159",
+      "likes": "0",
+      "author": "咿咿呀呀哦哦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "vision and image的话，考前啥也不会，就知道拿格子在图上移来移去的那个运算，然后打印了巨多资料，去了现场手搓，考完感觉还行，想复习的话，就重点学老师最后一节课讲的内容，计算的内容都挺简单的。计网的话，把t课的内容弄懂我感觉就行了，会在t课的内容上考察一些延伸内容，但是不多。",
+      "sourceRef": "comment:6943559a000000003802b712",
+      "commentId": "6943559a000000003802b712",
+      "likes": "0",
+      "author": "咿咿呀呀哦哦"
+    },
+    {
+      "type": "comment",
+      "text": "更新这么快",
+      "sourceRef": "comment:693d2487000000001702cab1",
+      "commentId": "693d2487000000001702cab1",
+      "likes": "0",
+      "author": "yuzi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不然就忘了题了",
+      "sourceRef": "comment:693d24ba000000001502ef67",
+      "commentId": "693d24ba000000001502ef67",
+      "likes": "0",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "今天还有vision么，还没开始看[笑哭R]",
+      "sourceRef": "comment:693afa82000000001502c73b",
+      "commentId": "693afa82000000001502c73b",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "开卷自动skip",
+      "sourceRef": "comment:693afbef000000001403dbf2",
+      "commentId": "693afbef000000001403dbf2",
+      "likes": "0",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "5351的ocp是啥呀",
+      "sourceRef": "comment:69403ba50000000038004099",
+      "commentId": "69403ba50000000038004099",
+      "likes": "0",
+      "author": "Mine Mine（见过jay版）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "开闭原则，课件里举例的salarytype",
+      "sourceRef": "comment:6940df09000000001403e01f",
+      "commentId": "6940df09000000001403e01f",
+      "likes": "0",
+      "author": "Albedo0127g"
+    },
+    {
+      "type": "comment",
+      "text": "Image今天改深了很多",
+      "sourceRef": "comment:693c414b000000001403fa0d",
+      "commentId": "693c414b000000001403fa0d",
+      "likes": "0",
+      "author": "鴻"
+    },
+    {
+      "type": "comment",
+      "text": "放心，这门课最后给分还是不错的",
+      "sourceRef": "comment:693a885f000000001702ef51",
+      "commentId": "693a885f000000001702ef51",
+      "likes": "0",
+      "author": "十一"
+    },
+    {
+      "type": "comment",
+      "text": "好奇a，a-对应百分制多少呀",
+      "sourceRef": "comment:693f4a41000000001d026f3c",
+      "commentId": "693f4a41000000001d026f3c",
+      "likes": "0",
+      "author": "但尽全力"
+    },
+    {
+      "type": "comment",
+      "text": "姐妹，同样蹲一个5222",
+      "sourceRef": "comment:693cae340000000006019cbd",
+      "commentId": "693cae340000000006019cbd",
+      "likes": "0",
+      "author": "依旧鱼忆"
+    },
+    {
+      "type": "comment",
+      "text": "前两门屁都不会，vision 带资料好歹还抄了抄[石化R]",
+      "sourceRef": "comment:693c54e90000000038011a9d",
+      "commentId": "693c54e90000000038011a9d",
+      "likes": "0",
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "姐妹，想问一下这两门课有往年的考卷供参考嘛？",
+      "sourceRef": "comment:693bf5a700000000380316bd",
+      "commentId": "693bf5a700000000380316bd",
+      "likes": "0",
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "de🈚️ se倒是有个期中卷子流出，我们今年有俩quiz",
+      "sourceRef": "comment:693c1ca8000000000e034891",
+      "commentId": "693c1ca8000000000e034891",
+      "likes": "0",
+      "author": "Albedo0127g"
+    }
+  ]
+}

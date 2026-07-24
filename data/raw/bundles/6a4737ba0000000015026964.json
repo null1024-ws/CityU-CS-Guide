@@ -1,0 +1,162 @@
+{
+  "note_id": "6a4737ba0000000015026964",
+  "url": "https://www.xiaohongshu.com/explore/6a4737ba0000000015026964?xsec_token=ABcSzOm4LPVSMoxpE9wfijPGQLcPPjY0z26YErTL-2p8c=",
+  "fetched_at": 1784873970.1210837,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CMU出新课了 Agent RL",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "课程大纲包括这些内容\n- Capabilities: tool use, context management, skills, memory, planning\n- Domains: coding, gui, deep research\n- Training: SFT, RL, and systems\n- Safety: sandboxing, adversarial defense\n- Interaction, frameworks, and search\n\t\n作业包括这些：\n- Building an agentic harness\n- Creating agentic evaluations\n- Training with RL\n- A final research project\n\t\n#大模型[话题]# #深度学习[话题]# #算法[话题]# #机器学习[话题]# #ai[话题]# #gpt[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "大家感兴趣的话 也可以看看我的cookllm哈 可把玩大模型工程指南",
+      "sourceRef": "comment:6a47dbb10000000015003fe9",
+      "commentId": "6a47dbb10000000015003fe9",
+      "likes": "0",
+      "author": "Harry"
+    },
+    {
+      "type": "comment",
+      "text": "sv校区能选吗",
+      "sourceRef": "comment:6a473bbd000000000501784f",
+      "commentId": "6a473bbd000000000501784f",
+      "likes": "0",
+      "author": "Oliver"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Sv什么课都选不上[捂脸R]",
+      "sourceRef": "comment:6a475eb100000000290263e2",
+      "commentId": "6a475eb100000000290263e2",
+      "likes": "1",
+      "author": "多肉"
+    },
+    {
+      "type": "comment",
+      "text": "期待一下新课[笑哭R]",
+      "sourceRef": "comment:6a475a1c000000000501588f",
+      "commentId": "6a475a1c000000000501588f",
+      "likes": "0",
+      "author": "管不住嘴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我也想选[皱眉R]",
+      "sourceRef": "comment:6a4780a1000000001500734b",
+      "commentId": "6a4780a1000000001500734b",
+      "likes": "0",
+      "author": "Hzhzwhy"
+    },
+    {
+      "type": "comment",
+      "text": "根本排不进",
+      "sourceRef": "comment:6a4753e3000000002902ccc5",
+      "commentId": "6a4753e3000000002902ccc5",
+      "likes": "4",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "老师 能不能贴lab github ljnk[喝奶茶R]",
+      "sourceRef": "comment:6a473f240000000029025221",
+      "commentId": "6a473f240000000029025221",
+      "likes": "3",
+      "author": "西湖美景三月天诶other candidate"
+    },
+    {
+      "type": "comment",
+      "text": "是公开课吗",
+      "sourceRef": "comment:6a473d63000000002902f67b",
+      "commentId": "6a473d63000000002902f67b",
+      "likes": "3",
+      "author": "↪小满的慢时光"
+    },
+    {
+      "type": "comment",
+      "text": "现在感觉都是wl呢",
+      "sourceRef": "comment:6a47a593000000000d023c00",
+      "commentId": "6a47a593000000000d023c00",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "选不到的",
+      "sourceRef": "comment:6a478210000000000d022802",
+      "commentId": "6a478210000000000d022802",
+      "likes": "0",
+      "author": "谢宇森"
+    },
+    {
+      "type": "comment",
+      "text": "北美计算机技专",
+      "sourceRef": "comment:6a484da00000000015012612",
+      "commentId": "6a484da00000000015012612",
+      "likes": "0",
+      "author": "小红薯6A4C7EB5"
+    },
+    {
+      "type": "comment",
+      "text": "nb哥的inference到现在都没更完[捂脸R][捂脸R]，不知道还能不能过更了",
+      "sourceRef": "comment:6a47b2ad000000002b02834f",
+      "commentId": "6a47b2ad000000002b02834f",
+      "likes": "0",
+      "author": "熹微"
+    },
+    {
+      "type": "comment",
+      "text": "想上[皱眉R][皱眉R][皱眉R]",
+      "sourceRef": "comment:6a476482000000002a02efb5",
+      "commentId": "6a476482000000002a02efb5",
+      "likes": "0",
+      "author": "momo（毕业版）"
+    },
+    {
+      "type": "comment",
+      "text": "秋季才开课吧",
+      "sourceRef": "comment:6a47c57c0000000005016f9c",
+      "commentId": "6a47c57c0000000005016f9c",
+      "likes": "0",
+      "author": "愿天堂木有刷题"
+    },
+    {
+      "type": "comment",
+      "text": "牛逼哥的课",
+      "sourceRef": "comment:6a477f3c000000002901aefd",
+      "commentId": "6a477f3c000000002901aefd",
+      "likes": "0",
+      "author": "nlper今天读paper了吗"
+    },
+    {
+      "type": "comment",
+      "text": "这课真能排的进去么[笑哭R]",
+      "sourceRef": "comment:6a4752fa000000002b026c9a",
+      "commentId": "6a4752fa000000002b026c9a",
+      "likes": "0",
+      "author": "Serendipity💫"
+    },
+    {
+      "type": "comment",
+      "text": "蹲一下[doge]",
+      "sourceRef": "comment:6a474d4f00000000150073aa",
+      "commentId": "6a474d4f00000000150073aa",
+      "likes": "0",
+      "author": "小红薯610A358E"
+    },
+    {
+      "type": "comment",
+      "text": "公开课吗",
+      "sourceRef": "comment:6a474a12000000002b02985a",
+      "commentId": "6a474a12000000002b02985a",
+      "likes": "0",
+      "author": "Loong"
+    }
+  ]
+}

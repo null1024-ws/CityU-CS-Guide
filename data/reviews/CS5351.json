@@ -1,0 +1,161 @@
+{
+  "courseCode": "CS5351",
+  "fields": {
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 4
+    },
+    "hasRecording": {
+      "value": "true",
+      "label": "有回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "disputed",
+      "sourceCount": 4,
+      "distinctSources": 3,
+      "note": "来源说法不一：繁重×2、轻松×2",
+      "variants": {
+        "heavy": 2,
+        "light": 2
+      }
+    },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "grading": {
+      "value": "harsh",
+      "label": "压分",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "我两个学期十门课这门课独一档的烦，强烈建议申请豁免"
+  ],
+  "sources": [
+    {
+      "noteId": "68345b41000000002100ef66",
+      "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+      "excerpt": "1. CS5351 Software Engineering；Lecturer: Ricky Chan(Wing Kwong CHAN)；上课体验；上课形式丰富，提供部分助于理解课程内容的小游戏，并提供线上直播。老师很友善但英语口音较重，做好自学准备；项目体验；8人项目，建议在已有开源项目上做扩展或改进，这一过程应注重软工开发流程的应用，最好使用进度记录网站如jira（但并不好用）。总体来说比较麻烦和繁琐。无需pre，只需要录讲解视频；除此之外，还有一个论文阅读分享项目，需要线下pre；作业体验：无作业，只有期中考试；考试体验；期中考试和期末考试形式几乎一样，都是大篇幅的简答题，很考验英语写作能力和瞎掰能力。期中考试开卷（甚至可带不联网电子设备），期末可带3页双面cheat sheet。给分高",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemA课程评价（上）"
+    },
+    {
+      "noteId": "695c948d000000002102ad0b",
+      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+      "excerpt": "CS5351 软件工程（必修）；两个quiz（个人感觉难），无作业，一个小组大项目，一个类似文章鉴赏的调研，无期中，三张A4的半开卷期末。；这学期上过最恶心的课，没有之一。本科学过软工，非常后悔没有免修这门课。老师的口音奇奇怪怪，完全听不懂，用了翻译软件也有时候翻译不明白。背的东西很多，虽然quiz和期末都是开卷，但是要是不太了解知识根本找不到地方。项目跟了个大佬，所以还算轻松，最后需要做线上pre和项目展示，可以一个人也可以全体讲，大佬一个人包揽了，轻松很多。建议能免修就免，去选别的课吧。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemA"
+    },
+    {
+      "noteId": "676793ee000000000b00d2b1",
+      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+      "excerpt": "CS5351 Software Engineering(必修)；虽然没去，但也不妨碍这是最抽象的一门课，内容抽象，老师的口音也很抽象…分数由group project、research paper、期中和期末构成，group project跟着大佬带飞的，researchpaper 好水的，期中可以带手机，期末只能带三张cheatsheet，全是主观题，挺抽象的，但把字都写满了，不会的就抄cheatsheet上的概念，问题也不大。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semA选课攻略（期末速成版）"
+    },
+    {
+      "noteId": "6a0c17bd000000000702ea2c",
+      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+      "excerpt": "CS5351 software engineering；课程内容主要涵盖软工开发的知识(code review，debug等)，平时包含两次quiz，大部分是场景题，加起来占比20％左右，期末考试题量大，很可能做不完; 题型大多在前两次quiz出现过。group project要求也挺多的，算是workload比较大的一节课了。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "CS5351 SE：内容很多很杂，期中期末像考软工场景+雅思阅读理解。；这俩小组作业是6～8人大组，选择大于努力！；选题最好靠一下就业方向或者复用以往经验。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5351 Software Engineering",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    },
+    {
+      "noteId": "693a7b0a000000001e00c686",
+      "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
+      "excerpt": "cs5351 software engineering",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "缓慢记录cityu cs sem A期末考试"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "69f1a339000000003601cda6",
+      "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+      "excerpt": "一点没写错，如果是真想学东西，这课上上还行。但水硕大部分人都是想水，这课几乎要素拉满了：两次quiz，大型项目，给分低，考试难。我两个学期十门课这门课独一档的烦，强烈建议申请豁免。",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityUHK CS5351 课程锐评",
+      "commentId": "69f49b60000000002803ba2f",
+      "author": "用户已注销",
+      "likes": "0",
+      "role": "supplement"
+    },
+    {
+      "noteId": "69f1a339000000003601cda6",
+      "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+      "excerpt": "比本科时候的软工轻松多了，那时候做一个项目每一步都在网上一通找",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityUHK CS5351 课程锐评",
+      "commentId": "69f1a70500000000270235bb",
+      "author": "嘻嘻哈哈",
+      "likes": "2",
+      "role": "supplement"
+    },
+    {
+      "noteId": "69f1a339000000003601cda6",
+      "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+      "excerpt": "中介和代写别来骚扰我。 同时支持付费咨询",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityUHK CS5351 课程锐评",
+      "commentId": "69f1ede80000000028030246",
+      "author": "efan404",
+      "likes": "0",
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-24"
+}

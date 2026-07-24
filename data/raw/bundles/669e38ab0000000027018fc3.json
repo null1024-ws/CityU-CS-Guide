@@ -1,0 +1,379 @@
+{
+  "note_id": "669e38ab0000000027018fc3",
+  "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+  "fetched_at": 1784874272.7830503,
+  "course_codes": [
+    "CS5182",
+    "CS5222",
+    "CS5293",
+    "CS5296",
+    "CS5351",
+    "CS5481",
+    "CS5483",
+    "CS5489"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU MSc CS选课攻略，港城计算机选课",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5222 Computer Networks and Internets\nMichael CHEUNG\n课程内容主要是计算机网络方向的各个内容，和本科计算机网络课程内容重叠较多\n课程作业不算多，考试为开卷，考试内容充实，对TCP内容考察较多，最终给分尚可。\n\t\nCS5351 Software Engineering\nRicky CHAN\n课程内容：敏捷开发过程用到的一些软件工程相关内容，上课比较发散\n课程作业不算多，有期中考（开卷，需要简单理解），考试内容充实（可带cheet sheat），给分尚可\n\t\nCS5481 Data Engineering\nLinqi SONG\n课程内容：数据工程相关内容，简单的数据结构（树、桶）\n课程作业不多，考试难度中等，给分一般\n\t\nCS5296 Cloud Computing: Theory and Practice⭐⭐⭐⭐\nLectured by LIANG, Weifa\n课程内容：Linux，云计算的一些基本原理\n课程作业难度一般，考试难度高，给分一般\n\t\nCS5489 Machine Learning: Algorithms and Applications⭐⭐⭐⭐⭐\nAntoni CHAN\n课程内容：机器学习算法的应用，课程内容主要是一些经典的机器学习算法，授课内容比较多，细节讲得不会很详细，默认大家数学基础比较好，需要花比较多的时间进行理解\n课程作业略多，有期中考试，考试难度略高（cheet sheat），给分一般\n\t\nCS5293 Topics on Information Security⭐⭐⭐⭐\nqingchuan Zhao\n课程内容:信息安全，加密理论，操作系统漏洞，Web漏洞等\n课程作业一般，无Project，考试难度略高，给分尚可\n\t\nCS5483 Data Warehousing and Data Mining⭐⭐⭐\nCHAN, Chung\n课程内容:数据挖掘的基本算法，决策树，分类聚类等基础内容，课程充实\n课程作业多，考试难度略高，给分一般\n\t\nCS5182 Computer Graphics⭐⭐⭐⭐⭐\nHOU, Junhui\n课程内容:CG经典内容，图形光栅渲染的全流程、以及光线追踪模型。\n课程作业尚可，考试难度略高，给分尚可\n\t\n以上基于自己的上课感受，仅能代表个人感觉，以你的意见为准。\n#香港城市大学[话题]#  #CityU[话题]#  #CS[话题]#  #cityucs[话题]#  #港城计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "朋友，请问下上课时间大概在什么时候啊，可以只选周末的课吗",
+      "sourceRef": "comment:66a5e2d7000000001202e990",
+      "commentId": "66a5e2d7000000001202e990",
+      "likes": "0",
+      "author": "AI安德烈"
+    },
+    {
+      "type": "sub_comment",
+      "text": "去年没有周末的课，大部分是晚上",
+      "sourceRef": "comment:66a5efc3000000001b010c95",
+      "commentId": "66a5efc3000000001b010c95",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "CS5489有人知道上课地点吗？求",
+      "sourceRef": "comment:66e2486e000000000b023022",
+      "commentId": "66e2486e000000000b023022",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "课表那都会有呀",
+      "sourceRef": "comment:671627c00000000020020e14",
+      "commentId": "671627c00000000020020e14",
+      "likes": "0",
+      "author": "CityU小粉豹"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs一般选的课最晚几点放学呀",
+      "sourceRef": "comment:680762ba000000001f0099f8",
+      "commentId": "680762ba000000001f0099f8",
+      "likes": "0",
+      "author": ".."
+    },
+    {
+      "type": "sub_comment",
+      "text": "没记错是晚7-10",
+      "sourceRef": "comment:68076650000000001f018d31",
+      "commentId": "68076650000000001f018d31",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问下uucs5182，mid和final是闭卷吗可以带cheet吗",
+      "sourceRef": "comment:66e4dce2000000000c015036",
+      "commentId": "66e4dce2000000000c015036",
+      "likes": "1",
+      "author": "易昂杨"
+    },
+    {
+      "type": "comment",
+      "text": "DE不给带cheat sheet吧",
+      "sourceRef": "comment:669ee8b400000000150107a6",
+      "commentId": "669ee8b400000000150107a6",
+      "likes": "0",
+      "author": "LRLHY"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的，已修改",
+      "sourceRef": "comment:669ef2e4000000002300f98d",
+      "commentId": "669ef2e4000000002300f98d",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "Σ( ° △ °|||)︴会有老师拉群么",
+      "sourceRef": "comment:66ab89d5000000001303f24d",
+      "commentId": "66ab89d5000000001303f24d",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "偶尔有些课会有，极少",
+      "sourceRef": "comment:66ab92f90000000023018722",
+      "commentId": "66ab92f90000000023018722",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "因为限制1000字，所以有些内容还没发出来[偷笑R]有空再更",
+      "sourceRef": "comment:669e6a3e000000001b012286",
+      "commentId": "669e6a3e000000001b012286",
+      "likes": "3",
+      "author": "wongkl"
+    },
+    {
+      "type": "sub_comment",
+      "text": "催更[喝奶茶R]",
+      "sourceRef": "comment:66aa0660000000001202c6f4",
+      "commentId": "66aa0660000000001202c6f4",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "问问想上st是啥时候选课",
+      "sourceRef": "comment:66a2fa77000000001303c360",
+      "commentId": "66a2fa77000000001303c360",
+      "likes": "1",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第二学期考完试后一两周",
+      "sourceRef": "comment:66a308ec000000002300c3fd",
+      "commentId": "66a308ec000000002300c3fd",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "同学你好，想问一下cs课程普遍课下任务重吗？即将入读，想看看有没有机会做个兼职，但是又得保一下绩点[哭惹R]",
+      "sourceRef": "comment:66a4fa1a000000002600098b",
+      "commentId": "66a4fa1a000000002600098b",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不同课要求不太一样，普遍来说内地出身的老师要求没那么多。但是不管怎样给的绩点都不算高",
+      "sourceRef": "comment:66a50574000000001303f059",
+      "commentId": "66a50574000000001303f059",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "能请问一下Topics on Information Security有 midterm 吗和日常签到吗，球球了",
+      "sourceRef": "comment:6948b8a1000000003800f786",
+      "commentId": "6948b8a1000000003800f786",
+      "likes": "0",
+      "author": "小楼昨夜又东风"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我上学那时没有",
+      "sourceRef": "comment:6948b9e2000000001403e604",
+      "commentId": "6948b9e2000000001403e604",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5293期末会考计算题吗",
+      "sourceRef": "comment:696907e6000000000800d849",
+      "commentId": "696907e6000000000800d849",
+      "likes": "0",
+      "author": "Duck"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有考简单的",
+      "sourceRef": "comment:6976cd7c000000000600a165",
+      "commentId": "6976cd7c000000000600a165",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问下CHAN,Chung老师的邮箱是什么呀[皱眉R]",
+      "sourceRef": "comment:68b7fc7500000000020020fc",
+      "commentId": "68b7fc7500000000020020fc",
+      "likes": "0",
+      "author": "橙橙玖玖"
+    },
+    {
+      "type": "sub_comment",
+      "text": "官网有的",
+      "sourceRef": "comment:68b7fcca0000000030004eb5",
+      "commentId": "68b7fcca0000000030004eb5",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问5293最后给分如何 刷到uu说期末难得离谱[石化R]",
+      "sourceRef": "comment:671a6537000000001a03079a",
+      "commentId": "671a6537000000001a03079a",
+      "likes": "0",
+      "author": "壮壮(emo版)"
+    },
+    {
+      "type": "sub_comment",
+      "text": "给分合理",
+      "sourceRef": "comment:671a6ee5000000001a03226b",
+      "commentId": "671a6ee5000000001a03226b",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "感谢哥，请问申上了cs，但本科不是计算机的，现在想先补补，需要学那些难的计算机组成原理和操作系统那些课吗？还是直接预习可以选的比如软件工程和数据工程这些知识，非常感谢！！[玫瑰R][玫瑰R][玫瑰R]",
+      "sourceRef": "comment:67fefe5c000000001f0053aa",
+      "commentId": "67fefe5c000000001f0053aa",
+      "likes": "0",
+      "author": "庸神"
+    },
+    {
+      "type": "sub_comment",
+      "text": "但是国内国外的教材/教学差挺多的，可以看看机器学习，计算机网络，llm之类的",
+      "sourceRef": "comment:67ff21a6000000001f019dfa",
+      "commentId": "67ff21a6000000001f019dfa",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问5293是开卷还是闭卷呀",
+      "sourceRef": "comment:677a8f9b000000000e00dc92",
+      "commentId": "677a8f9b000000000e00dc92",
+      "likes": "0",
+      "author": "被知满天害死的一年"
+    },
+    {
+      "type": "comment",
+      "text": "完了，看完之后，一门课都不想上[笑哭R]",
+      "sourceRef": "comment:669e663d00000000150138d1",
+      "commentId": "669e663d00000000150138d1",
+      "likes": "2",
+      "author": "绿蔷边的Anna"
+    },
+    {
+      "type": "sub_comment",
+      "text": "雀实[叹气R]都不好混",
+      "sourceRef": "comment:669e6a06000000002300f7f1",
+      "commentId": "669e6a06000000002300f7f1",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "哥，请问软工期中期末都只能是一张cheetpaper吗[哭惹R]",
+      "sourceRef": "comment:67c6aa2c000000001800ebed",
+      "commentId": "67c6aa2c000000001800ebed",
+      "likes": "0",
+      "author": "易昂杨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "期中是考多久呀",
+      "sourceRef": "comment:67ce66f100000000150296ca",
+      "commentId": "67ce66f100000000150296ca",
+      "likes": "0",
+      "author": "易昂杨"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下st的project 或者guided study是需要自己提前找教授联系的吗",
+      "sourceRef": "comment:66a9c93a0000000009002ec3",
+      "commentId": "66a9c93a0000000009002ec3",
+      "likes": "0",
+      "author": "栗子🌰"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs5351期中会根据每组各自的code project出题吗？网上搜到的19年期中要求填写小组项目地址并根据小组项目答题[哭惹R]",
+      "sourceRef": "comment:67134f4e00000000270138ed",
+      "commentId": "67134f4e00000000270138ed",
+      "likes": "0",
+      "author": "长乐"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们那年没有",
+      "sourceRef": "comment:671360af000000000e037791",
+      "commentId": "671360af000000000e037791",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "你好，请问computer graphic做project presentation的时候qa问题都是哪些方向的呀，想准备一下[笑哭R]",
+      "sourceRef": "comment:6746dd8b000000001b022f27",
+      "commentId": "6746dd8b000000001b022f27",
+      "likes": "0",
+      "author": "小红薯65DFFF4A"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会很难主要还是针对你自己的项目本身,不过老师和ta研究广告都是做point cloud，所以如果是他们方向的内容就会深入点",
+      "sourceRef": "comment:6746eabe000000003d01fead",
+      "commentId": "6746eabe000000003d01fead",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下，这个星级是推荐程度还是课程难度",
+      "sourceRef": "comment:678641840000000021019a2f",
+      "commentId": "678641840000000021019a2f",
+      "likes": "0",
+      "author": "OmO"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不负责任的推荐程度",
+      "sourceRef": "comment:678660a00000000021032707",
+      "commentId": "678660a00000000021032707",
+      "likes": "1",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs下面ai,ds,is 三个分流对后面留服认证有影响吗[吧唧R]",
+      "sourceRef": "comment:67dac085000000001502905f",
+      "commentId": "67dac085000000001502905f",
+      "likes": "0",
+      "author": "SunnyOtaku"
+    },
+    {
+      "type": "sub_comment",
+      "text": "应该不影响",
+      "sourceRef": "comment:67dac3f9000000000f039fca",
+      "commentId": "67dac3f9000000000f039fca",
+      "likes": "0",
+      "author": "wongkl"
+    },
+    {
+      "type": "comment",
+      "text": "请问5293主要考哪些内容和题型呀[哭惹R]",
+      "sourceRef": "comment:6808d3b3000000000401a2a8",
+      "commentId": "6808d3b3000000000401a2a8",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "哥 一学期可以只选2门或者3门课不[捂脸R][捂脸R][捂脸R]",
+      "sourceRef": "comment:67557e34000000000c024c49",
+      "commentId": "67557e34000000000c024c49",
+      "likes": "0",
+      "author": "小红薯60ED0EB7"
+    },
+    {
+      "type": "comment",
+      "text": "请问上过5285选5293贵好一点吗[失望R]",
+      "sourceRef": "comment:677a8f65000000000d03b229",
+      "commentId": "677a8f65000000000d03b229",
+      "likes": "0",
+      "author": "被知满天害死的一年"
+    }
+  ]
+}

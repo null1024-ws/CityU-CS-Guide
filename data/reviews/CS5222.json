@@ -1,0 +1,130 @@
+{
+  "courseCode": "CS5222",
+  "fields": {
+    "hasRecording": {
+      "value": "true",
+      "label": "有回放",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 6,
+      "distinctSources": 6
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 9,
+      "distinctSources": 5
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "grading": {
+      "value": "harsh",
+      "label": "压分",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：压分×1、给分友好×1",
+      "variants": {
+        "harsh": 1,
+        "generous": 1
+      }
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 2,
+      "distinctSources": 1,
+      "note": "同一帖子多次提及，待更多独立来源确认"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "68345b41000000002100ef66",
+      "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+      "excerpt": "3. CS5222 Computer Networks & Internets；Lecturer: Man Hon Michael CHEUNG；上课体验；课程内容完全基于黑皮书计网，并和本科计网高度重合。Turorial中老师会手把手带着做练习题，对期末考试很有帮助。提供线上课程；项目体验；非小组项目，是一个非常简单的Wireshark实验，即使是完全小白也可以靠AI辅助完成。无需pre；作业体验；基本都是对黑皮书课后题的魔改，不要直接上网查答案，应基于答案学习解法后套用。有人直接抄答案被抓住；考试体验；完全开卷，内容都在课程中覆盖，但题量非常大",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemA课程评价（上）"
+    },
+    {
+      "noteId": "695baaae000000000b00bc31",
+      "url": "https://www.xiaohongshu.com/explore/695baaae000000000b00bc31?xsec_token=ABwa4erALNUbl0wtp1mvQPTVgaffraaJGuwg1eTe3eF_4=",
+      "excerpt": "CS5222 Computer Networks and Internet；好课，至少学的东西是有点用的。三个小作业，一个研究报告，一个Wireshark作业。这课的TA在作业给分上有点严，有点小错就整题零分（还有在出分后几天又走回来扣我分数的），但研究报告和Wireshark给分还行。；重点复习所有Tutorial，开卷考试时把Tutorial的问题和答案带上就可以了。lecture notes太多太厚，酌量携带。考题里有一题需要用到高中程度的微积分，计算能力不好的人要简单复习下微分规矩和运算。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS Sem A课程评价"
+    },
+    {
+      "noteId": "695cf7a800000000220313b8",
+      "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
+      "excerpt": "1. cs5222 计网；15%: 3个作业，中等偏简单，中等量；10%: wireshark任务, 简单，指导书很详细；5%: 研究报告，随便糊弄就行；70%: 期末，开卷，不难，题量不多（甚至考场里大概4%的人提早交了），有时间翻打印的资料，其中90%以上的题目是tutorial和assignment变形，剩下的是PPT里出现的小知识点；复习建议：考前再做一遍tutorial和assignments即可；总结：无小组作业，不考勤，总体简单，必选",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU EC semA选课锐评（上）"
+    },
+    {
+      "noteId": "676793ee000000000b00d2b1",
+      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+      "excerpt": "CS5222 Computer Network(必修)；整个学期体验感最好的一门课，老师英语说的非常好，清晰且流利无口音，每节课都有zoom回放，堪称完美。平时分由三次assignment、一篇research paper和一次wireshark实验构成，共占30%。期末占70%，但是非常好速成且开卷，平时一次课没去过，期末考前跟着zoom上的tutorial过了一遍，轻轻松松。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semA选课攻略（期末速成版）"
+    },
+    {
+      "noteId": "677bef1a000000001800eca7",
+      "url": "https://www.xiaohongshu.com/explore/677bef1a000000001800eca7?xsec_token=AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs=",
+      "excerpt": "cs5222:作业占比30%，做起来难度中等，3个assignment两个额外的作业，不会太多。final占比70%，开卷，基本上都是tutorial的题目变形（考前也说明了这一点），题量较大，需要对概念真正掌握，但是考的概念不多，基本上每章都只考那些重点，不会太难到做不了。老师讲课也挺好的，基本上跟着ppt走不会上课有大问题，就算没听懂自己学也能理解。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs sem a 期末成绩评价"
+    },
+    {
+      "noteId": "695c948d000000002102ad0b",
+      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+      "excerpt": "CS5222 计算机网络（必修）；无quiz，三个作业，一个wireshark，一个类似调研的报告，（五个作业给分都很高），无期中，全开卷期末。；只要本科学过计网，基本就问题不大，和本科讲的都没啥差别，就是期末占比太高了70%。期末要把作业和tutorial的题搞明白就行，比如迪杰斯特拉算法，各种延迟计算等等。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemA"
+    },
+    {
+      "noteId": "6a0c17bd000000000702ea2c",
+      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+      "excerpt": "CS5222 computer network；内容和本科计网内容一样，从应用层讲到数据链路层，有平时作业和一个wireshark实验，但难度都不大。期末考试难度一般，仔细复习tutorial就行，我们这届是考了几道原题。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "CS5222 计网：实验要会用Wireshark，作业是自顶向下那本书课后习题，期末占比较大。；A学期 选修2门",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

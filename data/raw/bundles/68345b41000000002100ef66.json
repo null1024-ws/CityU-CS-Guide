@@ -1,0 +1,166 @@
+{
+  "note_id": "68345b41000000002100ef66",
+  "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+  "fetched_at": 1784874158.223563,
+  "course_codes": [
+    "CS5222",
+    "CS5351",
+    "CS5481"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Msc CS SemA课程评价（上）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本文主要评价SemA的课程，这一学期课程相对简单，许多内容都在本科阶段学过，比较轻松\n评价打分标准分为四个部分：上课体验、项目体验、作业体验、考试体验\n\t\n1. CS5351 Software Engineering\nLecturer: Ricky Chan(Wing Kwong CHAN)\n上课体验：🌟🌟🌟🌟\n上课形式丰富，提供部分助于理解课程内容的小游戏，并提供线上直播。老师很友善但英语口音较重，做好自学准备🤪\n项目体验：🌟🌟🌟\n8人项目，建议在已有开源项目上做扩展或改进，这一过程应注重软工开发流程的应用，最好使用进度记录网站如jira（但并不好用）。总体来说比较麻烦和繁琐。无需pre，只需要录讲解视频\n除此之外，还有一个论文阅读分享项目，需要线下pre\n作业体验：无作业，只有期中考试\n考试体验：🌟🌟🌟🌟\n期中考试和期末考试形式几乎一样，都是大篇幅的简答题，很考验英语写作能力和瞎掰能力。期中考试开卷（甚至可带不联网电子设备），期末可带3页双面cheat sheet。给分高\n\t\n2. CS5481 Data Engineering\nLecturer: Linqi SONG\n上课体验：🌟🌟🌟🌟🌟\n老师的英文发音易懂，且语速慢，上课内容不难。tutorial提供的都是可运行的代码，对理解内容很有帮助。提供线上课\n项目体验：🌟🌟🌟🌟\n老师会提供现成的选题，但选题之间难度差别较大，导致大多数小组都选择数据可视化项目，如选择该题目应做好分数一般或卷起来的准备。需要线下pre\n作业体验：🌟🌟🌟🌟\n两个assignments包含简答计算和编程，难度不小但给分极慷慨\n考试体验：🌟🌟🌟🌟\n完全闭卷。老师给出的复习PPT中覆盖大部分内容但非全覆盖，包含部分tutorial和assignment内容，甚至要默写代码。避免死记硬背复习PPT\n\t\n3. CS5222 Computer Networks & Internets\nLecturer: Man Hon Michael CHEUNG\n上课体验：🌟🌟🌟🌟🌟\n课程内容完全基于黑皮书计网，并和本科计网高度重合。Turorial中老师会手把手带着做练习题，对期末考试很有帮助。提供线上课程\n项目体验：🌟🌟🌟🌟🌟\n非小组项目，是一个非常简单的Wireshark实验，即使是完全小白也可以靠AI辅助完成。无需pre\n作业体验：🌟🌟🌟🌟\n基本都是对黑皮书课后题的魔改，不要🙅直接上网查答案，应基于答案学习解法后套用。有人直接抄答案被抓住\n考试体验：🌟🌟🌟🌟\n完全开卷，内容都在课程中覆盖，但题量非常大\n\t\n#选课[话题]# #香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "附本人自行整理复习资料",
+      "sourceRef": "comment:683462620000000003037546",
+      "commentId": "683462620000000003037546",
+      "likes": "9",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长 软工这块 用什么编程语言会有限制吗？你当时用的什么呀",
+      "sourceRef": "comment:686755ff000000001102e350",
+      "commentId": "686755ff000000001102e350",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有限制的，我们当时用的python。我上的每门课的项目都是用的python",
+      "sourceRef": "comment:68678672000000001102d7dd",
+      "commentId": "68678672000000001102d7dd",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "大佬，问一下是不是提供线上课就代表没有考勤啊",
+      "sourceRef": "comment:689ed6cf00000000300289eb",
+      "commentId": "689ed6cf00000000300289eb",
+      "likes": "0",
+      "author": "用户已注销"
+    },
+    {
+      "type": "sub_comment",
+      "text": "放心吧几乎所有课都不查考勤[捂脸R]",
+      "sourceRef": "comment:689ee629000000002700cfde",
+      "commentId": "689ee629000000002700cfde",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享，软件工程是Ricky Chan教的吗？",
+      "sourceRef": "comment:688c4045000000002b0156d6",
+      "commentId": "688c4045000000002b0156d6",
+      "likes": "0",
+      "author": "嘻嘻"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的，编辑更新了每门课的授课老师，可以之后选课时候仔细比对看看。万一换老师了我的课程测评就没有参考价值了[害羞R]",
+      "sourceRef": "comment:688c45d4000000002b00a8a7",
+      "commentId": "688c45d4000000002b00a8a7",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "请问平时上课要带着电脑去吗[害羞R]",
+      "sourceRef": "comment:68971f24000000002902b4a4",
+      "commentId": "68971f24000000002902b4a4",
+      "likes": "0",
+      "author": "高手乘低手"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不强制，想上课摸鱼的话甚至只带一台手机也没什么影响[捂脸R]",
+      "sourceRef": "comment:68973f20000000002b014a23",
+      "commentId": "68973f20000000002b014a23",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "大佬 请问SemA一周几天课呀 有上午的课嘛还是都是晚课～",
+      "sourceRef": "comment:6854d58a0000000007034eb8",
+      "commentId": "6854d58a0000000007034eb8",
+      "likes": "0",
+      "author": "EriEric"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一周去几天是根据自己选课的哦，如果SemA只打算选4节课，那应该可以去三天或四天，不过SemB应该压力会很大。没有上午的课，只有下午或晚上的",
+      "sourceRef": "comment:68550e66000000000401c496",
+      "commentId": "68550e66000000000401c496",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "请问软件工程那个项目，是要开发出一个东西吗？",
+      "sourceRef": "comment:68905fea000000002a003db9",
+      "commentId": "68905fea000000002a003db9",
+      "likes": "0",
+      "author": "小红薯6303AA7E"
+    },
+    {
+      "type": "comment",
+      "text": "不联网的电子设备 是指老师屏蔽了教室的信号，还是本身设备不能联网呢",
+      "sourceRef": "comment:68efb91f000000003302472f",
+      "commentId": "68efb91f000000003302472f",
+      "likes": "0",
+      "author": "Pupuppy"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问在哪里看A学期能选哪些课呢，是根据我这个第一张图对照第二张图里的吗，我之前看好像还有选方向，那个要怎么操作啊",
+      "sourceRef": "comment:6899d23d000000002b02d42c",
+      "commentId": "6899d23d000000002b02d42c",
+      "likes": "0",
+      "author": "J."
+    },
+    {
+      "type": "comment",
+      "text": "大佬 软工8人项目的编程语言有限制吗？",
+      "sourceRef": "comment:6867485c000000000c0259e3",
+      "commentId": "6867485c000000000c0259e3",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享[点赞R]",
+      "sourceRef": "comment:684f9279000000002002faf3",
+      "commentId": "684f9279000000002002faf3",
+      "likes": "0",
+      "author": "Mites Remover"
+    },
+    {
+      "type": "comment",
+      "text": "好帖，感谢[赞R]",
+      "sourceRef": "comment:6835169c000000000702bf6f",
+      "commentId": "6835169c000000000702bf6f",
+      "likes": "0",
+      "author": "Celts"
+    },
+    {
+      "type": "comment",
+      "text": "学长你好 请问你有认识管理创新 Management and innovation这个专业的学长和学姐吗？想问一下选课的问题",
+      "sourceRef": "comment:6895f3eb000000002b0159c6",
+      "commentId": "6895f3eb000000002b0159c6",
+      "likes": "0",
+      "author": "浅蒼小小南"
+    }
+  ]
+}

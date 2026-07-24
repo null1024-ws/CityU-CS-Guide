@@ -1,0 +1,152 @@
+{
+  "courseCode": "CS5481",
+  "fields": {
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 9,
+      "distinctSources": 4
+    },
+    "hasRecording": {
+      "value": "true",
+      "label": "有回放",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 4
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 5
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人"
+  ],
+  "sources": [
+    {
+      "noteId": "67584bb70000000002016c6b",
+      "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
+      "excerpt": "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人。讲课内容涉及的地方挺多，前半部分是数据抓取，处理，可视化，中间聊了聊大模型，后半部分讲了讲数据索引(B树B+树)，数据存储sql，nosql，以及推荐系统等等，涉及到的内容不少，每节课的tutorial基本是教授这节课涉及到的编程，比较详细，然后有两次作业，难度不高，还有一个小组合作项目，可以在老师给的题目当中选，有简单的比如数据可视化可以划水。最后一节课还有复习课，会带着你把重点过一遍然后讲讲presentation以及期末注意事项，甚至还有答疑环节。不管是想水还是深挖感觉都可以选这门课，下学期老师应该还会带nlp。哦对了，有线上直播还有录播非常棒。；期末考试难度感觉还好，基本都上课提过。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "香港城市大学CS5481 Data Engineering"
+    },
+    {
+      "noteId": "68345b41000000002100ef66",
+      "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+      "excerpt": "2. CS5481 Data Engineering；Lecturer: Linqi SONG；上课体验；老师的英文发音易懂，且语速慢，上课内容不难。tutorial提供的都是可运行的代码，对理解内容很有帮助。提供线上课；项目体验；老师会提供现成的选题，但选题之间难度差别较大，导致大多数小组都选择数据可视化项目，如选择该题目应做好分数一般或卷起来的准备。需要线下pre；作业体验；两个assignments包含简答计算和编程，难度不小但给分极慷慨；考试体验；完全闭卷。老师给出的复习PPT中覆盖大部分内容但非全覆盖，包含部分tutorial和assignment内容，甚至要默写代码。避免死记硬背复习PPT",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemA课程评价（上）"
+    },
+    {
+      "noteId": "676793ee000000000b00d2b1",
+      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+      "excerpt": "CS5481 Data Engineering(必修)；老师说的英语比较慢，也能听懂，无回放。平时分由三次assignment和一个group project 构成，作业给分很高，group project也很好水，花个一周就差不多搞定了。期末是闭卷，考前会划重点，但是不是特别完全，老师说只要别空着就会捞人。这门课速成了个B+树和简单的sql，最后也是轻轻松松。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semA选课攻略（期末速成版）"
+    },
+    {
+      "noteId": "695c948d000000002102ad0b",
+      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+      "excerpt": "CS5481数据工程（必修）；无quiz，两个作业（给分很高），一个小组大项目，无期中，闭卷期末。；这学期老师中最喜欢的一个，口音很清晰，语速也缓慢，讲课内容听的很明白，基本不用靠翻译软件。项目跟了软工的大佬，属于又是被带飞了，最后需要全体做线下pre。期末全是大题，重点复习sql、b+树、正则表达式（这三个必考）。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemA"
+    },
+    {
+      "noteId": "695cf7a800000000220313b8",
+      "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
+      "excerpt": "3. cs5481；30%两次作业，不难；30%小组项目（给了几个选题，也可以自己拟，不难，好水，最后验收可能是助教，问的问题也简单，水过去的话大概给个75-80的分，想高分可以看看别人的经验帖）；40%期末，闭卷，5道题，B树，SQL，正则必定出现，难度不超过平时作业题，必须会；总结：好课",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU EC semA选课锐评（上）"
+    },
+    {
+      "noteId": "6a0c17bd000000000702ea2c",
+      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+      "excerpt": "CS5481 data engineering；纯纯背书课，期末闭卷考PPT中的概念和理解。有平时作业和group project。老师人很不错，只要不是特别摆烂，没有挂的风险。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "CS5481 DE：记得B+树和SQL是考试重点。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5481 Data Engineering",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "67584bb70000000002016c6b",
+      "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
+      "excerpt": "前置课一般来说没法选，可以提交一个本科成绩单证明修过类似的课程豁免",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "香港城市大学CS5481 Data Engineering",
+      "commentId": "688c80fd0000000029033507",
+      "author": "Richett_L",
+      "likes": "0",
+      "role": "supplement"
+    },
+    {
+      "noteId": "67584bb70000000002016c6b",
+      "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
+      "excerpt": "因为看到有人这个课6点开始，前后两个教室",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "香港城市大学CS5481 Data Engineering",
+      "commentId": "6a4c9d22000000001500120e",
+      "author": "不错不错",
+      "likes": "0",
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-24"
+}

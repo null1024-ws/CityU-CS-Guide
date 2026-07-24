@@ -1,0 +1,338 @@
+{
+  "note_id": "68c2dbe2000000001d00a87b",
+  "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+  "fetched_at": 1784874168.822998,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "68c2dbe2000000001d00a87b",
+        "model_type": "note",
+        "note_card": {
+          "type": "normal",
+          "title": "港城计算机 CityU CS 学期A & ST 选课",
+          "desc": "之前发了学期 B 选课\n现在补一下学期A和Summer Term选课感受\n\t\n首先是学期 A 的三门必修：\nCS5481 DE：记得B+树和SQL是考试重点。\nCS5351 SE：内容很多很杂，期中期末像考软工场景+雅思阅读理解。\n这俩小组作业是6～8人大组，选择大于努力！\n选题最好靠一下就业方向或者复用以往经验。\nCS5222 计网：实验要会用Wireshark，作业是自顶向下那本书课后习题，期末占比较大。\n\t\nA学期 选修2门：\nCS5487 ML理论：25级学期 A 变成了ML实践，但形式应该还是Atoni大佬+新老师，听着费劲的可以去开小灶 -> B站白板推导。\nCS5187 CV：平时实验和Project打分很好，期末Image Alignment和相机参数是重点，开小灶 -> 油管搜索First Principles of Computer Vision内容基本涵盖了。\n\t\nST 1门：\nCS6290 Privacy：读了区块链很多论文，Proj也可以论文调研，总体给分不错。#港城[话题]# #CS[话题]# #计算机[话题]# #选课[话题]# #硕士[话题]##CityU[话题]#",
+          "user": {
+            "nickname": "芫不圆🌿荽不遂",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o",
+            "xsec_token": "ABHbDldhpvw8gYGy312uEKVWib4O6RmDOWoD4Npo_qfxE=",
+            "user_id": "641c59c50000000012013eab"
+          },
+          "interact_info": {
+            "liked_count": "59",
+            "collected_count": "99",
+            "comment_count": "9",
+            "share_count": "12",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "followed": false
+          },
+          "image_list": [
+            {
+              "file_id": "spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo",
+              "height": 922,
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/7ebb85d765409741918d530af16c7229/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/b95c3d1de0c97cdd29aab0f0da2e23c6/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/7ebb85d765409741918d530af16c7229/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/b95c3d1de0c97cdd29aab0f0da2e23c6/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nd_dft_wgth_webp_3",
+              "live_photo": false,
+              "width": 1048,
+              "stream": {}
+            }
+          ],
+          "at_user_list": [],
+          "tag_list": [
+            {
+              "id": "5d1ea316000000000e026c68",
+              "name": "港城",
+              "type": "topic"
+            },
+            {
+              "name": "CS",
+              "type": "topic",
+              "id": "5daaa91d000000000103c5a5"
+            },
+            {
+              "id": "5bfa12489c1d82000102c324",
+              "name": "计算机",
+              "type": "topic"
+            },
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "id": "5c012cbf0925450001c2d242",
+              "name": "硕士",
+              "type": "topic"
+            },
+            {
+              "id": "60a65e500000000001001ded",
+              "name": "CityU",
+              "type": "topic"
+            }
+          ],
+          "time": 1757600738000,
+          "last_update_time": 1757600738000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "68c2dbe2000000001d00a87b"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874169817
+  },
+  "comments": {
+    "comments": [
+      {
+        "invalid": false,
+        "id": "68c4521b0000000002015647",
+        "content": "学长想问问st是不是可以不选论文or实习，还是选择上一门课呢？",
+        "user_info": {
+          "xsec_token": "ABycPRn0JHu_-IaoKKBXYrObXEVwPaS0WQiAzEHoaUoYE=",
+          "user_id": "65714f920000000020033454",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3179p73ufk4005pbh9u986d2kvmlpm20?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "liked": false,
+            "create_time": 1757727073000,
+            "target_comment": {
+              "id": "68c4521b0000000002015647",
+              "user_info": {
+                "xsec_token": "ABycPRn0JHu_-IaoKKBXYrObXEVwPaS0WQiAzEHoaUoYE=",
+                "user_id": "65714f920000000020033454",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3179p73ufk4005pbh9u986d2kvmlpm20?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "invalid": false,
+            "at_users": [],
+            "like_count": "1",
+            "user_info": {
+              "user_id": "641c59c50000000012013eab",
+              "nickname": "芫不圆🌿荽不遂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB_2EDXFIL-WbGKn_xm9iMGgoKe7czZR1eGpRF8Zut22U="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东",
+            "id": "68c4c9600000000030015219",
+            "note_id": "68c2dbe2000000001d00a87b",
+            "status": 0,
+            "content": "看你们的安排吧，像我们是选上课的只开了这一个课"
+          }
+        ],
+        "liked": false,
+        "sub_comment_cursor": "68c4c9600000000030015219",
+        "sub_comment_has_more": true,
+        "note_id": "68c2dbe2000000001d00a87b",
+        "status": 0,
+        "at_users": [],
+        "create_time": 1757696539000,
+        "ip_location": "中国香港",
+        "sub_comment_count": "3",
+        "like_count": "1"
+      },
+      {
+        "at_users": [],
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0=",
+          "user_id": "5fef2397000000000101d10f",
+          "nickname": "Aurora",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1778911245000,
+        "ip_location": "广东",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "status": 0,
+        "sub_comments": [],
+        "note_id": "68c2dbe2000000001d00a87b",
+        "content": "学长您好，想问一下5188给分怎么样",
+        "liked": false,
+        "id": "6a08080d000000002803f0e9",
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false
+      },
+      {
+        "user_info": {
+          "xsec_token": "ABHUTHnB_dqUdIFpWZcdwRz0N9hOc5Iv5jbDd8oGRg7QY=",
+          "user_id": "684a8279000000001b0217ff",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "at_users": [],
+        "create_time": 1780652294000,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "note_id": "68c2dbe2000000001d00a87b",
+        "content": "学长您好，请问6290签到多嘛，可能要去实习，没办法来香港上课[捂脸R]",
+        "like_count": "0",
+        "invalid": false,
+        "id": "6a2299060000000028008160",
+        "liked": false
+      },
+      {
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "at_users": [],
+        "like_count": "0",
+        "id": "6a1aec0d000000002702b1f7",
+        "create_time": 1780149261000,
+        "sub_comment_count": "0",
+        "ip_location": "中国香港",
+        "note_id": "68c2dbe2000000001d00a87b",
+        "status": 0,
+        "content": "想问问 cs6290  第一周会有quiz吗",
+        "liked": false,
+        "user_info": {
+          "user_id": "66a6f757000000001d030c67",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321l2h8eo706g5pl6utbne33791ccl70?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABdKa2JTGlONqZDe1RDyE5nJ3gGkt8S-9ec4ZCs1vKcHI="
+        },
+        "show_tags": []
+      },
+      {
+        "invalid": false,
+        "id": "69422aef000000003801762b",
+        "note_id": "68c2dbe2000000001d00a87b",
+        "at_users": [],
+        "user_info": {
+          "nickname": "Yang11.",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jpvg15vj45g5pm5eutne5566b56qn0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABSWn6GN-aPlMUVYG4bZ2g_SJu_XhbekQlB3EzI3LUa40=",
+          "user_id": "66c577bb000000001d0314a6"
+        },
+        "show_tags": [],
+        "create_time": 1765944047000,
+        "sub_comments": [],
+        "status": 0,
+        "content": "只想混及格 这期末只学了半天或者一天 我很担心 最后算下来 总我的课程的就业分也就只有30分左右  不知道老师会不会捞[呃R]",
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "sub_comment_cursor": ""
+      },
+      {
+        "status": 0,
+        "ip_location": "美国",
+        "sub_comment_has_more": false,
+        "sub_comment_cursor": "",
+        "id": "69cd68c70000000031031e65",
+        "note_id": "68c2dbe2000000001d00a87b",
+        "show_tags": [],
+        "sub_comments": [],
+        "invalid": false,
+        "liked": false,
+        "user_info": {
+          "user_id": "5fdd86a50000000001002d23",
+          "nickname": "whileloop",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fdd86a50000000001002d23.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTM398yjkSte-s7qzng_smqsH-Yq-PIWjkgl9NORMFcY="
+        },
+        "sub_comment_count": "0",
+        "content": "学长您好，我想问一下这个summer的课是必须要选的吗，比如说我如果两个学期修够了学分是不是就不用上summer的课了",
+        "at_users": [],
+        "like_count": "0",
+        "create_time": 1775069384000
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 6,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5222 城大CS",
+  "search_item": {
+    "id": "68c2dbe2000000001d00a87b",
+    "model_type": "note",
+    "note_card": {
+      "interact_info": {
+        "liked": false,
+        "liked_count": "59",
+        "collected": false,
+        "collected_count": "99",
+        "comment_count": "9",
+        "shared_count": "12"
+      },
+      "cover": {
+        "height": 922,
+        "width": 1048,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/42d58d84b4a8cce4c34665e8ad643b51/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/581899bb4090365ff2678e440d4028e2/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 922,
+          "width": 1048,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/42d58d84b4a8cce4c34665e8ad643b51/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/581899bb4090365ff2678e440d4028e2/spectrum/1040g0k031m9u9j8152ag5p0sb72kiflbai5hjeo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-09-11"
+        }
+      ],
+      "type": "normal",
+      "display_title": "港城计算机 CityU CS 学期A & ST 选课",
+      "user": {
+        "nick_name": "芫不圆🌿荽不遂",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o?imageView2/2/w/80/format/jpg",
+        "user_id": "641c59c50000000012013eab",
+        "nickname": "芫不圆🌿荽不遂",
+        "xsec_token": "ABd_cM0NIpUX965-86N972gCrNVxFSkRMk2U5kYWpigTM="
+      }
+    },
+    "xsec_token": "AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ="
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "note_id": "682e95a7000000002301c25e",
+  "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+  "fetched_at": 1784874289.3956234,
+  "note": {
+    "items": [
+      {
+        "id": "682e95a7000000002301c25e",
+        "model_type": "note",
+        "note_card": {
+          "time": 1747883431000,
+          "image_list": [
+            {
+              "file_id": "spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0",
+              "width": 1592,
+              "url": "",
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/66b1ad30c30a270a578e08e6beea7e32/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nd_dft_wgth_webp_3",
+              "stream": {},
+              "height": 288,
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/bfc0fec9cef5a258e0a3dd9bc7b8fe67/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/66b1ad30c30a270a578e08e6beea7e32/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/bfc0fec9cef5a258e0a3dd9bc7b8fe67/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nd_prv_wgth_webp_3",
+              "live_photo": false
+            }
+          ],
+          "at_user_list": [],
+          "last_update_time": 1747883431000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "682e95a7000000002301c25e",
+          "type": "normal",
+          "title": "港城计算机 CityU CS 学期B 选课",
+          "desc": "本人这学期选了4门课，在三个维度做出个人评价\n\t\nCS5182 CG: 15%期中 25%Proj 60%期末\nworkload ⭐⭐\n难度 ⭐⭐⭐\n授课及口音 平时没作业没课程回放，考前会过一遍划重点。老师平易近人，大陆口音但很好懂。授课是经典图形学内容，Proj(可独狼最多3人)则是点云Nerual Rendering需要自己能搞到差不多的卡训练。期末的话基础的线代要会去算Matrix Transformation。\n\t\nCS5188 VR: 20%期中 30%Proj 50%期末\nworkload ⭐⭐\n难度 ⭐⭐⭐\n授课及口音 平时没作业没课程回放，考前有复习课但仅作为参考。老师做事很有原则（不能代领判完的期中），英音但会刻意用简单词汇让你理解。Proj（可独狼最多3人） 做VR的话就是UE5然后跟CS Lab借Oculus Rift 或者微软 HoloLens，不要做游戏倾向你做些有现实意义的。期末不考数学，要考察你对VR场景与VR应用的理解。选了CG会有一部分课程内容重叠有助于减小总体课程压力。\n\t\nCS5483 DM: 5%平日作业 10%个人Proj 15%小组Proj 20%期中 50%期末\nworkload ⭐⭐⭐⭐\n难度 ⭐⭐⭐⭐\n授课及口音 平时一周一次作业有课程回放，考前没复习课但提供模拟机考。老师是本硕博MIT给你美本的上课体验，教你批判思考小组作业要去评审其他小组然后挑刺。教学内容事无巨细，JupyterLab 有各种Material配置了自动评分系统、答疑AI和Ubuntu虚拟机跑Weka，平日作业和个人Proj都在这上面交。小组Proj跟Weka无关要自己选题选数据集，要录制Pre视频。期中期末都在机房机考，基本是期中考Classification和决策树期末考聚类和Apriori，信息熵计算贯穿始终。\n\t\nCS5491 AI 20%平时作业 20%期中 30%Proj 30%期末\nworkload ⭐⭐⭐\n难度 ⭐⭐⭐⭐\n授课及口音 一个月一次数学作业没有课程回放，考前无复习课但期中考前给了模拟题。老师来自Michigan State口音很纯正播音腔，很负责（看大家AlphaBeta剪枝掌握不好T课一步步手推）。教学内容很多Search、CSP、Opt、MDP、强化学习和BAYES Networks。小组Proj会给你GPT的API，会给3日宽限这期间交不扣分，放Colab。",
+          "user": {
+            "user_id": "641c59c50000000012013eab",
+            "nickname": "芫不圆🌿荽不遂",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o",
+            "xsec_token": "ABHbDldhpvw8gYGy312uEKVWib4O6RmDOWoD4Npo_qfxE="
+          },
+          "interact_info": {
+            "relation": "none",
+            "liked_count": "71",
+            "collected": false,
+            "collected_count": "76",
+            "share_count": "15",
+            "nice_count": "",
+            "liked": false,
+            "comment_count": "8",
+            "followed": false
+          },
+          "tag_list": []
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874290348,
+    "cursor_score": ""
+  },
+  "comments": {
+    "comments": [
+      {
+        "status": 0,
+        "content": "请问cs能甩一门课到第二年吗，然后1.5年毕业",
+        "liked": false,
+        "like_count": "0",
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "create_time": 1747884657000,
+            "target_comment": {
+              "id": "682e986e000000000103da4e",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/633f969f913a188ecbe0d931.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABZo-5NCYZVQYj1Vc4RNfwM5fYzFVsV0KksiMMQ8awxnY=",
+                "user_id": "623d6050000000002102ad9e",
+                "nickname": "zm"
+              }
+            },
+            "invalid": false,
+            "note_id": "682e95a7000000002301c25e",
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "xsec_token": "AB_2EDXFIL-WbGKn_xm9iMGgoKe7czZR1eGpRF8Zut22U=",
+              "user_id": "641c59c50000000012013eab",
+              "nickname": "芫不圆🌿荽不遂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "中国香港",
+            "id": "682e9a71000000000d016c81",
+            "content": "🉑，延长签证和租房处理好",
+            "liked": false
+          }
+        ],
+        "invalid": false,
+        "note_id": "682e95a7000000002301c25e",
+        "create_time": 1747884143000,
+        "ip_location": "辽宁",
+        "sub_comment_has_more": true,
+        "id": "682e986e000000000103da4e",
+        "show_tags": [],
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "682e9a71000000000d016c81",
+        "at_users": [],
+        "user_info": {
+          "user_id": "623d6050000000002102ad9e",
+          "nickname": "zm",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/633f969f913a188ecbe0d931.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABZo-5NCYZVQYj1Vc4RNfwM5fYzFVsV0KksiMMQ8awxnY="
+        }
+      },
+      {
+        "note_id": "682e95a7000000002301c25e",
+        "create_time": 1773296031000,
+        "id": "69b2599f000000001601727b",
+        "status": 0,
+        "content": "想请问学长5188期中怎么复习呢？",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "5fef2397000000000101d10f",
+          "nickname": "Aurora",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0="
+        },
+        "ip_location": "广东",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_count": "0"
+      },
+      {
+        "status": 0,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "id": "696edeb40000000008033624",
+        "content": "学长请问有5491课程资料吗ee系想去蹭课[哭惹R]",
+        "show_tags": [],
+        "create_time": 1768873652000,
+        "sub_comment_cursor": "",
+        "at_users": [],
+        "liked": false,
+        "ip_location": "广东",
+        "invalid": false,
+        "note_id": "682e95a7000000002301c25e",
+        "like_count": "0",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cmi6hjdh0605ovgh5pk3jp62f7fjf8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPir13oNOuErmv-rSbJaN_RDaXXplNIQupTrsAFlFhms=",
+          "user_id": "63f08973000000001001cf26",
+          "nickname": "小鱼干喵喵猫"
+        },
+        "sub_comments": []
+      },
+      {
+        "show_tags": [],
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5fa6491d0000000001007b30",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fcujtbmu005nt694eg8upgabulrfo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABUtuxpp1nD4Nfo_tnz3F7cR8SBo0g2f9YnkqyKXfQkLw="
+        },
+        "invalid": false,
+        "create_time": 1767607540000,
+        "id": "695b8cf30000000006019801",
+        "note_id": "682e95a7000000002301c25e",
+        "content": "求问学长5188vr是闭卷考试嘛，感谢🙏",
+        "liked": false,
+        "ip_location": "山东",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "user_id": "641c59c50000000012013eab",
+              "nickname": "芫不圆🌿荽不遂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB_2EDXFIL-WbGKn_xm9iMGgoKe7czZR1eGpRF8Zut22U="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1767881787000,
+            "ip_location": "河北",
+            "note_id": "682e95a7000000002301c25e",
+            "content": "闭卷 但是难度不难",
+            "liked": false,
+            "target_comment": {
+              "id": "695b8cf30000000006019801",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABUtuxpp1nD4Nfo_tnz3F7cR8SBo0g2f9YnkqyKXfQkLw=",
+                "user_id": "5fa6491d0000000001007b30",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fcujtbmu005nt694eg8upgabulrfo?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "invalid": false,
+            "id": "695fbc3a000000001502c5c9",
+            "status": 0
+          }
+        ],
+        "sub_comment_cursor": "695fbc3a000000001502c5c9",
+        "sub_comment_has_more": false
+      },
+      {
+        "content": "学长5188的project难度怎么样呀，没接触过UE5[哭惹R][哭惹R]",
+        "like_count": "0",
+        "invalid": false,
+        "id": "6964b3630000000018023c97",
+        "liked": false,
+        "ip_location": "中国香港",
+        "note_id": "682e95a7000000002301c25e",
+        "status": 0,
+        "at_users": [],
+        "create_time": 1768207204000,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABSVnwwZxPUyyUgUkXnlJLkERp9L-CUKW-KvTJ5l2fDzk=",
+          "user_id": "6076534f000000000100235b",
+          "nickname": "巴巴拉拉能量",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ktrf5buio6g5o3mad7g88qrpjrvasg?imageView2/2/w/120/format/jpg"
+        },
+        "show_tags": [],
+        "sub_comments": [],
+        "sub_comment_cursor": ""
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 5,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5481 城大CS",
+  "search_item": {
+    "id": "682e95a7000000002301c25e",
+    "model_type": "note",
+    "note_card": {
+      "cover": {
+        "height": 288,
+        "width": 1592,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/310ae0217068e0424553b60ad973b6fa/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/e63527e9b88a372f2e9d34288ff35326/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 288,
+          "width": 1592,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241424/310ae0217068e0424553b60ad973b6fa/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241424/e63527e9b88a372f2e9d34288ff35326/spectrum/1040g34o31hp1kuttk20g5p0sb72kiflb5rv5oe0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-22"
+        }
+      ],
+      "type": "normal",
+      "display_title": "港城计算机 CityU CS 学期B 选课",
+      "user": {
+        "user_id": "641c59c50000000012013eab",
+        "nickname": "芫不圆🌿荽不遂",
+        "xsec_token": "ABd_cM0NIpUX965-86N972gCrNVxFSkRMk2U5kYWpigTM=",
+        "nick_name": "芫不圆🌿荽不遂",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5emihhn4005p0sb72kiflbdia3h4o?imageView2/2/w/80/format/jpg"
+      },
+      "interact_info": {
+        "shared_count": "15",
+        "liked": false,
+        "liked_count": "71",
+        "collected": false,
+        "collected_count": "76",
+        "comment_count": "8"
+      }
+    },
+    "xsec_token": "AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg="
+  }
+}

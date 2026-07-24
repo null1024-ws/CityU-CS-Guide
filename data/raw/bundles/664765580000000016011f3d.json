@@ -1,0 +1,311 @@
+{
+  "note_id": "664765580000000016011f3d",
+  "url": "https://www.xiaohongshu.com/explore/664765580000000016011f3d?xsec_token=AB6dhwSlJt0n9SYU0NjlbgbuTRCkiZJ_oI1RCgr8xWPZg=",
+  "fetched_at": 1784874303.5024014,
+  "course_codes": [
+    "CS5187",
+    "CS5285",
+    "CS5481",
+    "CS6534"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城MSCS课程体验 - SemA",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#cityu[话题]# #Cityu选课[话题]#\n有问题可以在评论交流交流[赞R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问5222会挂人吗",
+      "sourceRef": "comment:675c2d34000000000d03a424",
+      "commentId": "675c2d34000000000d03a424",
+      "likes": "1",
+      "author": "被知满天害死的一年"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会[doge]",
+      "sourceRef": "comment:675c2e4c000000001101af8a",
+      "commentId": "675c2e4c000000001101af8a",
+      "likes": "1",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "同学，我是24fall的cs，请问上课的代码作业都是要求用什么编程语言呀，是自选还是老师规定呢[哭惹R]",
+      "sourceRef": "comment:6673ea99000000001701334a",
+      "commentId": "6673ea99000000001701334a",
+      "likes": "1",
+      "author": "小小小笼包"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[doge]老师定，感觉python多一点",
+      "sourceRef": "comment:6673f511000000002100d799",
+      "commentId": "6673f511000000002100d799",
+      "likes": "0",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "可以请问一下CS6534: GUIDED STUDY这门课需要去学校定期汇报嘛？",
+      "sourceRef": "comment:68960538000000002a0124b3",
+      "commentId": "68960538000000002a0124b3",
+      "likes": "0",
+      "author": "鹅不溜秋"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们那年基本上都可以在线汇报",
+      "sourceRef": "comment:68960d31000000002b02c856",
+      "commentId": "68960d31000000002b02c856",
+      "likes": "0",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "5285期中出来了，不复习导致的[哭惹R]",
+      "sourceRef": "comment:6724b7eb000000001b026396",
+      "commentId": "6724b7eb000000001b026396",
+      "likes": "0",
+      "author": "长乐"
+    },
+    {
+      "type": "sub_comment",
+      "text": "怎么看期中成绩呀",
+      "sourceRef": "comment:672a0ae3000000001702d557",
+      "commentId": "672a0ae3000000001702d557",
+      "likes": "0",
+      "author": "想喝椰云拿铁"
+    },
+    {
+      "type": "comment",
+      "text": "请问5222zoom会有回放吗！",
+      "sourceRef": "comment:68b7bac9000000003000d4b4",
+      "commentId": "68b7bac9000000003000d4b4",
+      "likes": "0",
+      "author": "ゞ灬钅誑曓美麗佾蟑螂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我记得我那年没有，不过计算机网络完全靠自己可以的[doge]",
+      "sourceRef": "comment:68b8f6e7000000000902b455",
+      "commentId": "68b8f6e7000000000902b455",
+      "likes": "0",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "5285没基础又摆烂学真的会死的",
+      "sourceRef": "comment:664830b0000000001c0356ed",
+      "commentId": "664830b0000000001c0356ed",
+      "likes": "4",
+      "author": "momomomo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "决定不选了，难顶",
+      "sourceRef": "comment:667bcd42000000001202ec3b",
+      "commentId": "667bcd42000000001202ec3b",
+      "likes": "1",
+      "author": "诸天造化道"
+    },
+    {
+      "type": "comment",
+      "text": "你好可以举个例子讲一下5481的project的具体难度吗！可以用python完成吗",
+      "sourceRef": "comment:68b6bc5b000000003001040f",
+      "commentId": "68b6bc5b000000003001040f",
+      "likes": "0",
+      "author": "醒醒"
+    },
+    {
+      "type": "sub_comment",
+      "text": "难度就是[doge]只要交了就能过",
+      "sourceRef": "comment:68b8f7cc000000000b025c46",
+      "commentId": "68b8f7cc000000000b025c46",
+      "likes": "0",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "Man!",
+      "sourceRef": "comment:66495c91000000001c00d426",
+      "commentId": "66495c91000000001c00d426",
+      "likes": "0",
+      "author": "LRLHY"
+    },
+    {
+      "type": "sub_comment",
+      "text": "What can I say!",
+      "sourceRef": "comment:66495cc50000000002001d12",
+      "commentId": "66495cc50000000002001d12",
+      "likes": "1",
+      "author": "窗紗外送 花小狗"
+    },
+    {
+      "type": "comment",
+      "text": "CS5285 - Information Security for eCommerce 地狱难度到什么程度 好吓人 但是想选这门课",
+      "sourceRef": "comment:66a9ee4b000000001202569d",
+      "commentId": "66a9ee4b000000001202569d",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我也想知道因为本科是学安全出身",
+      "sourceRef": "comment:66b2034e00000000270111df",
+      "commentId": "66b2034e00000000270111df",
+      "likes": "0",
+      "author": "想喝椰云拿铁"
+    },
+    {
+      "type": "comment",
+      "text": "刚考完5222感觉完蛋了[笑哭R]",
+      "sourceRef": "comment:675c2f34000000001102c56a",
+      "commentId": "675c2f34000000001102c56a",
+      "likes": "0",
+      "author": "与众扑通"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一样，我题号都标错了[捂脸R]",
+      "sourceRef": "comment:675c6072000000000f03171c",
+      "commentId": "675c6072000000000f03171c",
+      "likes": "1",
+      "author": "酉祺"
+    },
+    {
+      "type": "comment",
+      "text": "请问5222的考试题型是什么样的 选择题加大题还是没有选择题呢 考的题和平时的tutorial相似吗[玫瑰R][玫瑰R]",
+      "sourceRef": "comment:693d42ec0000000038027d8f",
+      "commentId": "693d42ec0000000038027d8f",
+      "likes": "0",
+      "author": "lalaland"
+    },
+    {
+      "type": "comment",
+      "text": "请问5488考试难吗[哭惹R]",
+      "sourceRef": "comment:69253a530000000006019f3d",
+      "commentId": "69253a530000000006019f3d",
+      "likes": "0",
+      "author": "小劼"
+    },
+    {
+      "type": "comment",
+      "text": "可以蹭课吗[暗中观察R]",
+      "sourceRef": "comment:68f863ad000000003800ed12",
+      "commentId": "68f863ad000000003800ed12",
+      "likes": "0",
+      "author": "流水潺潺"
+    },
+    {
+      "type": "comment",
+      "text": "请问下5285会挂人吗",
+      "sourceRef": "comment:68df6f7700000000390030e8",
+      "commentId": "68df6f7700000000390030e8",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5481的project需要pre吗？",
+      "sourceRef": "comment:68baf86b000000002400f064",
+      "commentId": "68baf86b000000002400f064",
+      "likes": "0",
+      "author": "長風"
+    },
+    {
+      "type": "comment",
+      "text": "请问信息安全cheatpaper是手写还是打印啊[微笑R]",
+      "sourceRef": "comment:675effde0000000011033207",
+      "commentId": "675effde0000000011033207",
+      "likes": "0",
+      "author": "比克提尼"
+    },
+    {
+      "type": "comment",
+      "text": "求问前辈了解5487吗[失望R]hu会挂人吗？",
+      "sourceRef": "comment:675c58a4000000000d019f23",
+      "commentId": "675c58a4000000000d019f23",
+      "likes": "0",
+      "author": "Pluto"
+    },
+    {
+      "type": "comment",
+      "text": "老哥[暗中观察R]city cs可以选外系的课做选修不",
+      "sourceRef": "comment:673980ec000000001b020ba0",
+      "commentId": "673980ec000000001b020ba0",
+      "likes": "0",
+      "author": "小红薯60ED0EB7"
+    },
+    {
+      "type": "comment",
+      "text": "mscs对申phd友好吗[皱眉R]",
+      "sourceRef": "comment:66e587bf0000000002006f95",
+      "commentId": "66e587bf0000000002006f95",
+      "likes": "0",
+      "author": "Vanilla"
+    },
+    {
+      "type": "comment",
+      "text": "蹲蹲看怎么蹭课",
+      "sourceRef": "comment:66debe54000000000b021d3c",
+      "commentId": "66debe54000000000b021d3c",
+      "likes": "0",
+      "author": "小房总~"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有master of IT经验 想来城大蹭课 有uu带吗",
+      "sourceRef": "comment:66debe870000000002004770",
+      "commentId": "66debe870000000002004770",
+      "likes": "0",
+      "author": "小房总~"
+    },
+    {
+      "type": "comment",
+      "text": "请问了解cs5187 vision and image这门课的情况吗？",
+      "sourceRef": "comment:66bca9e0000000000b00c0cf",
+      "commentId": "66bca9e0000000000b00c0cf",
+      "likes": "0",
+      "author": "ooooHao"
+    },
+    {
+      "type": "comment",
+      "text": "请问se是指定语言的开发项目吗",
+      "sourceRef": "comment:66a9a77e000000002600000d",
+      "commentId": "66a9a77e000000002600000d",
+      "likes": "0",
+      "author": "在吃西瓜的我很幸运"
+    },
+    {
+      "type": "comment",
+      "text": "学长好棒[哇R]",
+      "sourceRef": "comment:66494987000000001c00eb18",
+      "commentId": "66494987000000001c00eb18",
+      "likes": "0",
+      "author": "窗紗外送花小鹿"
+    },
+    {
+      "type": "comment",
+      "text": "模范学长",
+      "sourceRef": "comment:66486ddf000000001c03594d",
+      "commentId": "66486ddf000000001c03594d",
+      "likes": "1",
+      "author": "笑blue齿"
+    },
+    {
+      "type": "comment",
+      "text": "神！[赞R]",
+      "sourceRef": "comment:66479f79000000001c0342e7",
+      "commentId": "66479f79000000001c0342e7",
+      "likes": "0",
+      "author": "星夜寒"
+    }
+  ]
+}

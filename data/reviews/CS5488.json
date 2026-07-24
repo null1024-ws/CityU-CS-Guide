@@ -1,0 +1,63 @@
+{
+  "courseCode": "CS5488",
+  "fields": {
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "reported",
+      "sourceCount": 2,
+      "distinctSources": 1,
+      "note": "同一帖子多次提及，待更多独立来源确认"
+    },
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 1,
+      "note": "来源说法不一：较难×1、简单×1",
+      "variants": {
+        "hard": 1,
+        "easy": 1
+      }
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "695c948d000000002102ad0b",
+      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+      "excerpt": "CS5488 大数据算法与技术（选修）；无quiz，七个作业（平均1-2周就有一个），一个小组大项目，无期中，闭卷期末。；选课前就在纠结要不要选这个，小红书比较劝退，但是个人比较想学一些大数据的知识，所以还是选了。作业太多了，虽然很简单而且也都能拿满分，但是也很耗精力。项目中规中矩，可以自己选题，也可以用老师提供的题目，注意一定要用并行计算，数据量也尽量多找。期末全闭卷，记忆内容很多，复习比较痛苦，比如写出5V是什么；除了时间序列和聚类还有什么算法运用了并行计算；sql和nosql的区别",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemA"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

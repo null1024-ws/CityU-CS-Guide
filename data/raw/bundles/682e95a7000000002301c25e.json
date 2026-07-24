@@ -1,0 +1,79 @@
+{
+  "note_id": "682e95a7000000002301c25e",
+  "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+  "fetched_at": 1784874289.3956234,
+  "course_codes": [
+    "CS5182",
+    "CS5188",
+    "CS5483",
+    "CS5491"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城计算机 CityU CS 学期B 选课",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本人这学期选了4门课，在三个维度做出个人评价\n\t\nCS5182 CG: 15%期中 25%Proj 60%期末\nworkload ⭐⭐\n难度 ⭐⭐⭐\n授课及口音 平时没作业没课程回放，考前会过一遍划重点。老师平易近人，大陆口音但很好懂。授课是经典图形学内容，Proj(可独狼最多3人)则是点云Nerual Rendering需要自己能搞到差不多的卡训练。期末的话基础的线代要会去算Matrix Transformation。\n\t\nCS5188 VR: 20%期中 30%Proj 50%期末\nworkload ⭐⭐\n难度 ⭐⭐⭐\n授课及口音 平时没作业没课程回放，考前有复习课但仅作为参考。老师做事很有原则（不能代领判完的期中），英音但会刻意用简单词汇让你理解。Proj（可独狼最多3人） 做VR的话就是UE5然后跟CS Lab借Oculus Rift 或者微软 HoloLens，不要做游戏倾向你做些有现实意义的。期末不考数学，要考察你对VR场景与VR应用的理解。选了CG会有一部分课程内容重叠有助于减小总体课程压力。\n\t\nCS5483 DM: 5%平日作业 10%个人Proj 15%小组Proj 20%期中 50%期末\nworkload ⭐⭐⭐⭐\n难度 ⭐⭐⭐⭐\n授课及口音 平时一周一次作业有课程回放，考前没复习课但提供模拟机考。老师是本硕博MIT给你美本的上课体验，教你批判思考小组作业要去评审其他小组然后挑刺。教学内容事无巨细，JupyterLab 有各种Material配置了自动评分系统、答疑AI和Ubuntu虚拟机跑Weka，平日作业和个人Proj都在这上面交。小组Proj跟Weka无关要自己选题选数据集，要录制Pre视频。期中期末都在机房机考，基本是期中考Classification和决策树期末考聚类和Apriori，信息熵计算贯穿始终。\n\t\nCS5491 AI 20%平时作业 20%期中 30%Proj 30%期末\nworkload ⭐⭐⭐\n难度 ⭐⭐⭐⭐\n授课及口音 一个月一次数学作业没有课程回放，考前无复习课但期中考前给了模拟题。老师来自Michigan State口音很纯正播音腔，很负责（看大家AlphaBeta剪枝掌握不好T课一步步手推）。教学内容很多Search、CSP、Opt、MDP、强化学习和BAYES Networks。小组Proj会给你GPT的API，会给3日宽限这期间交不扣分，放Colab。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs能甩一门课到第二年吗，然后1.5年毕业",
+      "sourceRef": "comment:682e986e000000000103da4e",
+      "commentId": "682e986e000000000103da4e",
+      "likes": "0",
+      "author": "zm"
+    },
+    {
+      "type": "sub_comment",
+      "text": "🉑，延长签证和租房处理好",
+      "sourceRef": "comment:682e9a71000000000d016c81",
+      "commentId": "682e9a71000000000d016c81",
+      "likes": "0",
+      "author": "芫不圆🌿荽不遂"
+    },
+    {
+      "type": "comment",
+      "text": "想请问学长5188期中怎么复习呢？",
+      "sourceRef": "comment:69b2599f000000001601727b",
+      "commentId": "69b2599f000000001601727b",
+      "likes": "0",
+      "author": "Aurora"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问有5491课程资料吗ee系想去蹭课[哭惹R]",
+      "sourceRef": "comment:696edeb40000000008033624",
+      "commentId": "696edeb40000000008033624",
+      "likes": "0",
+      "author": "小鱼干喵喵猫"
+    },
+    {
+      "type": "comment",
+      "text": "求问学长5188vr是闭卷考试嘛，感谢🙏",
+      "sourceRef": "comment:695b8cf30000000006019801",
+      "commentId": "695b8cf30000000006019801",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "闭卷 但是难度不难",
+      "sourceRef": "comment:695fbc3a000000001502c5c9",
+      "commentId": "695fbc3a000000001502c5c9",
+      "likes": "0",
+      "author": "芫不圆🌿荽不遂"
+    },
+    {
+      "type": "comment",
+      "text": "学长5188的project难度怎么样呀，没接触过UE5[哭惹R][哭惹R]",
+      "sourceRef": "comment:6964b3630000000018023c97",
+      "commentId": "6964b3630000000018023c97",
+      "likes": "0",
+      "author": "巴巴拉拉能量"
+    }
+  ]
+}

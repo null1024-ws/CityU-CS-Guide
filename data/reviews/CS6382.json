@@ -1,0 +1,80 @@
+{
+  "courseCode": "CS6382",
+  "fields": {
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "677bef1a000000001800eca7",
+      "url": "https://www.xiaohongshu.com/explore/677bef1a000000001800eca7?xsec_token=AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs=",
+      "excerpt": "cs6382:难度较高，有期中quiz，final是开卷。推荐对算法和博弈论有一定基础的朋友学。3个assignment难度逐渐增加，题量很小但是有一定难度。期中quiz很难，只考了算法部分，但是最后quiz均分不到50。final的话老师有手下留情，3道计算题很简单，类似于送分，一道证明题可以尝试写一到两问，最后一道题地狱难度。平常上课老师很喜欢互动以及提问（不会点人），推荐提前预习一下更容易跟上老师的思路。如果你没有什么这方面的基础建议不要自找苦吃。；剩下的课都是通过型考试，按照要求进行都不会有大问题。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs sem a 期末成绩评价"
+    },
+    {
+      "noteId": "6a0be10c00000000350215c2",
+      "url": "https://www.xiaohongshu.com/explore/6a0be10c00000000350215c2?xsec_token=ABdp_KDrgAPqmbwDq_kTmXJW9QYHIUl_l9pbCSeCxYBmk=",
+      "excerpt": "CS6382 Game Theory；前半程主要讲算法，后半程讲博弈论，作业难度有递增，在我读的时候AI能辅助的有限，可能现在AI变强了不好说；本科的时候只学过很简单的算法，也学得不好，上这节课的时候完全痛苦面具，老师喜欢课堂互动，他英文讲得挺好的，和老师互动可以拿到bonus （有点社恐地狱，反正我是不行，上课回答问题压力好大；Minming还是有放水的，考试有送分题，过还是比较容易，最好英文好一点，我考试的时候就跟有阅读障碍一样，看着一页的题目我就已经晕过去了",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS PhD第一年课程评估（3节必修）"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "689598a60000000025015346",
+      "url": "https://www.xiaohongshu.com/explore/689598a60000000025015346?xsec_token=ABkcLi8vFXQUNoL1pMRAmhyFcVNVbsAU6f2APCbglVopg=",
+      "excerpt": "是这样，这门课和 CS6382 Algorithm Analysis and Game Theory 据说是为 PhD Student 开设的",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "CityU CS 选课血泪史1⃣",
+      "commentId": "6895a761000000002a01911d",
+      "author": "别叫我姐妹了Orz",
+      "likes": "0",
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-24"
+}

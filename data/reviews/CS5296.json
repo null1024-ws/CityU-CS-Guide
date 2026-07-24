@@ -1,0 +1,85 @@
+{
+  "courseCode": "CS5296",
+  "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：适中×1、较难×1",
+      "variants": {
+        "medium": 1,
+        "hard": 1
+      }
+    },
+    "grading": {
+      "value": "harsh",
+      "label": "压分",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：压分×1、给分友好×1",
+      "variants": {
+        "harsh": 1,
+        "generous": 1
+      }
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS5296 Cloud computing；三次作业+两次paper阅读，作业量还是挺大的，不过现在有了ai这些都不是大问题。平时作业和小组项目给分还是挺高的。期末考试考的非常全面(低情商:题量非常大)，在PPT上看到的画图题和有关计算的内容，(sedf，credit schedule，chord，wfq，drf，机器学习参数计算等)试卷上全出现了，除此之外还有一堆概念题，最后也是空了几道大题没写，前面写完的也不确定。考完都感觉自己要延毕了。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    },
+    {
+      "noteId": "6878c023000000002400e000",
+      "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
+      "excerpt": "CS5296 Cloud Computing；云计算的基础知识及应用，有操作系统和数据库的相关内容。选这门建议提前接触AWS，没接触过tutorial部分会比较吃力。成绩构成是三次作业云计算项目期末考试。项目可自选难度，给分考虑难度系数。期末考试是和本科高年级一起考的，难度高题量大，不建议突击。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "🇭🇰CityU CS SemB选课"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5296 Cloud Computing: Theory and Practice；Lectured by LIANG, Weifa；课程内容：Linux，云计算的一些基本原理；课程作业难度一般，考试难度高，给分一般",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

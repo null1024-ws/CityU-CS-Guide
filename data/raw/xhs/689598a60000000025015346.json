@@ -1,0 +1,567 @@
+{
+  "note_id": "689598a60000000025015346",
+  "url": "https://www.xiaohongshu.com/explore/689598a60000000025015346?xsec_token=ABkcLi8vFXQUNoL1pMRAmhyFcVNVbsAU6f2APCbglVopg=",
+  "fetched_at": 1784874333.9166253,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "note_card": {
+          "note_id": "689598a60000000025015346",
+          "title": "CityU CS 选课血泪史1️⃣",
+          "desc": "① 仅代表个人观点\n② 本人 bg：末 9 本 + 科班混子 + 一段开发工作经历 + 有过 gap + 学习能力/考试能力/代码能力都远不如年轻人的老登\n\t\nCS5487 Machine Learning: Principles and Practice\n\t\n这一年上过的最难的课，不过也是我觉得最值学费的课，除了难以外没有任何缺点，略有遗憾的是后半学期的老师不是 Antoni，上了一节课之后就再也没上过\n\t\nAntoni 的英语应该是我上过课的所有老师中最标准的，语速会稍快，但是录课能完全听懂，所以完全不用担心\n\t\n每节课会以一个引例开始，循序渐进地深入其背后的数学原理，手把手带着大家推导每一个公式，每一个细节都不会放过\n\t\n听不懂会觉得他在讲天书，听懂了就会觉得 Antoni yyds，因为他真的想把你教会（本科阶段的课堂已经杀死了我对上课的向往，懂的都懂）\n\t\n作业要花很多时间，具体难度可以参考 @Quinn 大大的帖子，在此借机给大佬磕一个 Orz\n\t\nproject 的 topic 可以自己定，范围很广，也可以选默认项目（难度尚可）\n\t\n考试会出几道大题，每道大题下面有几道小题，纯数学，没有一点水分，好在考试占比不是很高，考差了也不会太影响最后得分，期末只考了后半学期的内容\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+          "interact_info": {
+            "liked_count": "104",
+            "collected_count": "113",
+            "share_count": "29",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "comment_count": "21",
+            "followed": false
+          },
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "user": {
+            "user_id": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg",
+            "xsec_token": "ABjJXPuByLz0yOD4VieitVDumR8bzTpEejr7QfGeOiMmg="
+          },
+          "image_list": [
+            {
+              "height": 930,
+              "width": 1221,
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/3f41ae142addb18accca1299f03994be/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nd_dft_wgth_webp_3",
+              "stream": {},
+              "file_id": "1040g00831ktnub3bj6605pd6ec0242i46f3o90o",
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/f82c7932beeb761fb7c27c7a7374f8ef/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/3f41ae142addb18accca1299f03994be/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/f82c7932beeb761fb7c27c7a7374f8ef/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nd_prv_wgth_webp_3",
+              "live_photo": false
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            },
+            {
+              "id": "60a65e500000000001001ded",
+              "name": "CityU",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "5daaa91d000000000103c5a5",
+              "name": "CS"
+            }
+          ],
+          "at_user_list": [
+            {
+              "user_id": "61efc641000000001000c692",
+              "nickname": "Quinn",
+              "red_official_verify_type": 0,
+              "xsec_token": "ABrOI8dd90gYLei7uoSROp2E9EuMC41QdDMxmLGgg7aao="
+            }
+          ],
+          "time": 1754634406000,
+          "last_update_time": 1754799760000
+        },
+        "ignore": false,
+        "id": "689598a60000000025015346",
+        "model_type": "note"
+      }
+    ],
+    "current_time": 1784874334882
+  },
+  "comments": {
+    "comments": [
+      {
+        "content": "这门课 如果是读博 对于做AI相关的人来说 是非常必要的[doge]",
+        "at_users": [],
+        "like_count": "2",
+        "sub_comments": [
+          {
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "贵州",
+            "target_comment": {
+              "user_info": {
+                "user_id": "5cb5eb11000000001202e7c9",
+                "nickname": "momo🌩",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32180pant7u005n5ltc8klpu9p1rsu08?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB5J1fqSztk3RKbm0HD1mZ9TcTIlLVhwEJrtXZQlSS2q4="
+              },
+              "id": "6895a563000000002b00a2e2"
+            },
+            "id": "6895a761000000002a01911d",
+            "like_count": "0",
+            "user_info": {
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44"
+            },
+            "create_time": 1754638178000,
+            "invalid": false,
+            "note_id": "689598a60000000025015346",
+            "status": 0,
+            "content": "是这样，这门课和 CS6382 Algorithm Analysis and Game Theory 据说是为 PhD Student 开设的",
+            "at_users": [],
+            "liked": false
+          }
+        ],
+        "sub_comment_has_more": true,
+        "status": 0,
+        "sub_comment_count": "5",
+        "id": "6895a563000000002b00a2e2",
+        "note_id": "689598a60000000025015346",
+        "create_time": 1754637667000,
+        "ip_location": "广东",
+        "invalid": false,
+        "liked": false,
+        "user_info": {
+          "user_id": "5cb5eb11000000001202e7c9",
+          "nickname": "momo🌩",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32180pant7u005n5ltc8klpu9p1rsu08?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB5J1fqSztk3RKbm0HD1mZ9TcTIlLVhwEJrtXZQlSS2q4="
+        },
+        "show_tags": [],
+        "sub_comment_cursor": "6895a761000000002a01911d"
+      },
+      {
+        "id": "68a494fc000000002700e94a",
+        "liked": false,
+        "user_info": {
+          "user_id": "60eae3a9000000000101f97e",
+          "nickname": "易昂杨",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311jmfmfu6k6g5o7asekgbubum3ggcl8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB2jqe8iQ38NkHp89guB6zHfziYuWSN2X33mzrQqoGqoo="
+        },
+        "show_tags": [],
+        "ip_location": "四川",
+        "invalid": false,
+        "sub_comment_count": "2",
+        "sub_comment_has_more": true,
+        "status": 0,
+        "create_time": 1755616508000,
+        "sub_comment_cursor": "68a51b490000000030012d58",
+        "note_id": "689598a60000000025015346",
+        "content": "学长，想过得愉快一点的话，CS5487和guide study这两门课二选一应该选哪门呀[笑哭R]",
+        "at_users": [],
+        "like_count": "0",
+        "sub_comments": [
+          {
+            "create_time": 1755650889000,
+            "invalid": false,
+            "id": "68a51b490000000030012d58",
+            "note_id": "689598a60000000025015346",
+            "content": "guide study 没选过不知道，CS 的课想学明白没有愉快一说[doge]",
+            "at_users": [],
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "贵州",
+            "target_comment": {
+              "id": "68a494fc000000002700e94a",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "AB2jqe8iQ38NkHp89guB6zHfziYuWSN2X33mzrQqoGqoo=",
+                "user_id": "60eae3a9000000000101f97e",
+                "nickname": "易昂杨",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311jmfmfu6k6g5o7asekgbubum3ggcl8?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "status": 0,
+            "liked": false,
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44",
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg"
+            }
+          }
+        ]
+      },
+      {
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1754636440000,
+        "ip_location": "山西",
+        "invalid": false,
+        "user_info": {
+          "user_id": "627e901c000000002102978e",
+          "nickname": "Richett_L",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABngQ9weHIU7PF13TjzE32qTRn32sJKJcPFqJf0ay_F5c="
+        },
+        "sub_comment_count": "2",
+        "sub_comment_has_more": true,
+        "at_users": [],
+        "status": 0,
+        "liked": false,
+        "sub_comments": [
+          {
+            "invalid": false,
+            "id": "6895a12d000000002a00ec44",
+            "liked": false,
+            "user_info": {
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44",
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1754636590000,
+            "note_id": "689598a60000000025015346",
+            "status": 0,
+            "content": "当时花了一个多月把大学数学重新啃了一遍[笑哭R]",
+            "at_users": [],
+            "like_count": "1",
+            "ip_location": "贵州",
+            "target_comment": {
+              "id": "6895a0970000000029033bcc",
+              "user_info": {
+                "user_id": "627e901c000000002102978e",
+                "nickname": "Richett_L",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABngQ9weHIU7PF13TjzE32qTRn32sJKJcPFqJf0ay_F5c="
+              }
+            }
+          }
+        ],
+        "sub_comment_cursor": "6895a12d000000002a00ec44",
+        "id": "6895a0970000000029033bcc",
+        "note_id": "689598a60000000025015346",
+        "content": "还真是，好是真的好，难是真的难。本科那点数学早还给老师了，上课听天书一样[捂脸R]"
+      },
+      {
+        "note_id": "689598a60000000025015346",
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "河北",
+        "sub_comment_has_more": false,
+        "id": "689da4480000000026034700",
+        "at_users": [],
+        "invalid": false,
+        "like_count": "0",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABxnAnFuNN_Q7sEX9nWIFOK8VV3dXMTnO_UO77ak0ynZc=",
+          "user_id": "5f1a3c0100000000010009ed",
+          "nickname": "东大哈基午",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ljuqcjm5o005noq7g0g82fdc9nis4o?imageView2/2/w/120/format/jpg"
+        },
+        "sub_comments": [
+          {
+            "status": 0,
+            "content": "是的",
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "贵州",
+            "id": "689dc6960000000030012388",
+            "note_id": "689598a60000000025015346",
+            "like_count": "0",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44",
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg"
+            },
+            "create_time": 1755170454000,
+            "target_comment": {
+              "id": "689da4480000000026034700",
+              "user_info": {
+                "user_id": "5f1a3c0100000000010009ed",
+                "nickname": "东大哈基午",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ljuqcjm5o005noq7g0g82fdc9nis4o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABxnAnFuNN_Q7sEX9nWIFOK8VV3dXMTnO_UO77ak0ynZc="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "status": 0,
+        "content": "cs 是不是选课都在 8-25 呀[萌萌哒R]没有非网选课吧",
+        "create_time": 1755161672000,
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "689dc6960000000030012388"
+      },
+      {
+        "id": "689c939e0000000027002aa1",
+        "note_id": "689598a60000000025015346",
+        "at_users": [],
+        "sub_comment_count": "1",
+        "invalid": false,
+        "content": "魂游爱好者吗兄弟[doge]",
+        "like_count": "0",
+        "status": 0,
+        "user_info": {
+          "nickname": "我的梯度消失在人海",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sk496rm62605pv7oiji2kb75a7eng0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABjW9g8E6BlG1vvII2nJt-RMaeQQ7DkF8ewYCDhuK6PSI=",
+          "user_id": "67e7c4a70000000008015167"
+        },
+        "show_tags": [],
+        "ip_location": "广西",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "create_time": 1755091870000,
+        "sub_comments": [
+          {
+            "note_id": "689598a60000000025015346",
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44",
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "贵州",
+            "content": "是也不敢开二周目了[doge]",
+            "liked": false,
+            "like_count": "1",
+            "create_time": 1755092373000,
+            "target_comment": {
+              "id": "689c939e0000000027002aa1",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABjW9g8E6BlG1vvII2nJt-RMaeQQ7DkF8ewYCDhuK6PSI=",
+                "user_id": "67e7c4a70000000008015167",
+                "nickname": "我的梯度消失在人海",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sk496rm62605pv7oiji2kb75a7eng0?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "invalid": false,
+            "id": "689c95940000000030004220"
+          }
+        ],
+        "sub_comment_cursor": "689c95940000000030004220"
+      },
+      {
+        "at_users": [],
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "6896a9d0000000002a004135",
+        "sub_comment_has_more": false,
+        "note_id": "689598a60000000025015346",
+        "like_count": "0",
+        "ip_location": "广东",
+        "sub_comments": [
+          {
+            "invalid": false,
+            "note_id": "689598a60000000025015346",
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1754704337000,
+            "ip_location": "贵州",
+            "id": "6896a9d0000000002a004135",
+            "status": 0,
+            "content": "我更新了这篇帖子的图片，希望能够帮到你[doge]",
+            "like_count": "0",
+            "user_info": {
+              "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+              "user_id": "65a673000000000008020a44",
+              "nickname": "别叫我姐妹了Orz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "target_comment": {
+              "id": "68969e30000000002b008406",
+              "user_info": {
+                "user_id": "64b221f1000000001f006634",
+                "nickname": "cris",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vjos3nsm0605p5i47onophk1jgjclg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABSdBcyiAY3ZQtBOmrgU-aII78GOmx1Spkh5Ullu3obEc="
+              }
+            }
+          }
+        ],
+        "id": "68969e30000000002b008406",
+        "content": "请问这门课主要考的是数学技能还是编程技能，还是什么其他的？一般期末能考核通过吧，谢谢[吧唧R]",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABSdBcyiAY3ZQtBOmrgU-aII78GOmx1Spkh5Ullu3obEc=",
+          "user_id": "64b221f1000000001f006634",
+          "nickname": "cris",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vjos3nsm0605p5i47onophk1jgjclg?imageView2/2/w/120/format/jpg"
+        },
+        "invalid": false,
+        "status": 0,
+        "liked": false,
+        "show_tags": [],
+        "create_time": 1754701360000
+      },
+      {
+        "status": 0,
+        "user_info": {
+          "user_id": "5fa6491d0000000001007b30",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fcujtbmu005nt694eg8upgabulrfo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABUtuxpp1nD4Nfo_tnz3F7cR8SBo0g2f9YnkqyKXfQkLw="
+        },
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "note_id": "689598a60000000025015346",
+        "liked": false,
+        "like_count": "1",
+        "create_time": 1754637949000,
+        "ip_location": "山东",
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "id": "6895a67d000000002a018c78",
+        "content": "蹲蹲后续[飞吻R]",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_has_more": false
+      },
+      {
+        "note_id": "689598a60000000025015346",
+        "status": 0,
+        "liked": false,
+        "id": "6895b009000000002b01c7a3",
+        "content": "大佬semA建议选几门课啊，还得准备秋招感觉时间不够用",
+        "at_users": [],
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1754640394000,
+        "user_info": {
+          "user_id": "60d6b8460000000001007cab",
+          "nickname": "npm-i",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg="
+        },
+        "ip_location": "上海",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "invalid": false
+      },
+      {
+        "id": "6895c702000000002a0063ea",
+        "note_id": "689598a60000000025015346",
+        "status": -2,
+        "liked": false,
+        "at_users": [],
+        "user_info": {
+          "user_id": "610689250000000001008ccb",
+          "nickname": "🎄",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k1ha9aj2a005o86h4ig936b7257jqo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABqNGIPWTXkTKoZ6msEQQytJZH7CeXi5YZoTo4ouw4yfU="
+        },
+        "show_tags": [],
+        "create_time": 1754646274000,
+        "sub_comment_count": "0",
+        "content": "蹲蹲！",
+        "like_count": "0",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "ip_location": "河南",
+        "sub_comments": [],
+        "sub_comment_has_more": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 9,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5487 城大",
+  "search_item": {
+    "note_card": {
+      "type": "normal",
+      "display_title": "CityU CS 选课血泪史1️⃣",
+      "user": {
+        "nick_name": "别叫我姐妹了Orz",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/80/format/jpg",
+        "user_id": "65a673000000000008020a44",
+        "nickname": "别叫我姐妹了Orz",
+        "xsec_token": "ABBI85-KML8oII_IeyBekKkwH04uoaDMZzhe7O7rrzXx0="
+      },
+      "interact_info": {
+        "collected_count": "113",
+        "comment_count": "21",
+        "shared_count": "29",
+        "liked": false,
+        "liked_count": "104",
+        "collected": false
+      },
+      "cover": {
+        "height": 930,
+        "width": 1221,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/290871d81528f60bc303161f54f2d6e3/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/57cc8c7623503abd914a58f7452ed1d8/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 930,
+          "width": 1221,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/290871d81528f60bc303161f54f2d6e3/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/57cc8c7623503abd914a58f7452ed1d8/1040g00831ktnub3bj6605pd6ec0242i46f3o90o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-10"
+        }
+      ]
+    },
+    "xsec_token": "ABkcLi8vFXQUNoL1pMRAmhyFcVNVbsAU6f2APCbglVopg=",
+    "id": "689598a60000000025015346",
+    "model_type": "note"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "note_id": "68afc7b3000000001c01072b",
+  "url": "https://www.xiaohongshu.com/explore/68afc7b3000000001c01072b?xsec_token=ABKZfPMeirv_aDep7KtstdJUPk9RLc4-xnsZVtm4_ZgCM=",
+  "fetched_at": 1784873955.9578798,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu CS master 选课求建议",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "煮包是住在深圳港深通勤，选了 3 节课，忽然发现需要去掉一节，因为想认证 ai 并且还想走 6521 实习一年。现在在纠结是去掉周二的简单课这样 135 通勤还是去掉周一的难一点的课 1235 通勤#选课[话题]# #香港城市大学[话题]# #计算机[话题]##计算机ke[话题]# x#计算机专业[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "实习只能12 12 6，不然学签要求不满足，orientation上说了",
+      "sourceRef": "comment:68afe3c00000000030027ac8",
+      "commentId": "68afe3c00000000030027ac8",
+      "likes": "3",
+      "author": "EliUis"
+    },
+    {
+      "type": "sub_comment",
+      "text": "15  9  6 不可以是吗，他那个 visa 的学分要求是按年算的还是按学期算的啊",
+      "sourceRef": "comment:68afefbf000000000a00e57d",
+      "commentId": "68afefbf000000000a00e57d",
+      "likes": "1",
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "哈基午老师请问cs有周六的课可以选吗",
+      "sourceRef": "comment:690454aa0000000030026cea",
+      "commentId": "690454aa0000000030026cea",
+      "likes": "0",
+      "author": "Naomm"
+    },
+    {
+      "type": "sub_comment",
+      "text": "上学期好像木有",
+      "sourceRef": "comment:690455dd000000003801672f",
+      "commentId": "690455dd000000003801672f",
+      "likes": "0",
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "请问，我看有人选计网在11点的课，你的在晚上7点，这个同一个课程还有不同时间吗，我是26fall[皱眉R]",
+      "sourceRef": "comment:68d4f5a9000000003001cd65",
+      "commentId": "68d4f5a9000000003001cd65",
+      "likes": "0",
+      "author": "不错不错"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有的有的",
+      "sourceRef": "comment:690455f0000000003800ea0b",
+      "commentId": "690455f0000000003800ea0b",
+      "likes": "0",
+      "author": "东大哈基午"
+    }
+  ]
+}

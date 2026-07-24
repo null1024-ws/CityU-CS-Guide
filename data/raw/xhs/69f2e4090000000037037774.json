@@ -1,0 +1,465 @@
+{
+  "note_id": "69f2e4090000000037037774",
+  "url": "https://www.xiaohongshu.com/explore/69f2e4090000000037037774?xsec_token=ABEKzC3G6by7NX8NvlGqyTVETlMisL3ui8MHgXnSveSFA=",
+  "fetched_at": 1784874049.0195985,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "ignore": false,
+        "id": "69f2e4090000000037037774",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "height": 1600,
+              "width": 1200,
+              "trace_id": "",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28",
+              "url": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/a31d567fc98e10a79dc26db573e7e118/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nd_prv_wlteh_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/4c849d024a59be0411e60da5dabc69b6/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nd_dft_wlteh_webp_3",
+                  "image_scene": "WB_DFT"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/a31d567fc98e10a79dc26db573e7e118/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/4c849d024a59be0411e60da5dabc69b6/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nd_dft_wlteh_webp_3"
+            }
+          ],
+          "time": 1777525769000,
+          "title": "CityU CS 好课推荐",
+          "desc": "这里必须提一嘴我觉得必选的神课 Guided Study，这个课3学分，并且在 semester A/B 以及 summer term 都可以选。\n\t\n课程的形式内容是跟着 supervisor 搞一个 project，最后提交 report 以及做一个在线的 presentation。\n\t\n首先这个课是 project 导向的，没有期末考试和小组协作等环节，适合不擅长的考试或者比较 i 的同学。\n\t\n其次在 AI 时代下面，书写 Plan/ 代码实现/ report 书写/ PPT 制作 非常方便，如果你 Vibe Coding 非常熟练的话，甚至可以一周时间从0交付（当然也要看 supervisor 的意见以及 project 本身的复杂性\n\t\n不过这个课程不是让你一周赶ddl的，是拆分为了多个 stage。一般会有五个阶段：\n1. Topic selection\n2. Project Proposal [5% marks]\n3. Interim Report [10% marks]\n4. Final Report  [66% marks]\n5. Presentation [14% marks]\n\t\n必须要在规定时间内找 supervisor，讨论好你想做的 project，之后才可以选修。\n#港硕[话题]# #cityu[话题]# #选课攻略[话题]# #计算机[话题]# #vibecoding[话题]#",
+          "interact_info": {
+            "liked_count": "55",
+            "collected": false,
+            "comment_count": "18",
+            "relation": "none",
+            "liked": false,
+            "collected_count": "69",
+            "share_count": "9",
+            "followed": false,
+            "nice_count": ""
+          },
+          "tag_list": [
+            {
+              "id": "609a5fee00000000010020ea",
+              "name": "港硕",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu"
+            },
+            {
+              "id": "60f7edca000000000100584e",
+              "name": "选课攻略",
+              "type": "topic"
+            },
+            {
+              "id": "5bfa12489c1d82000102c324",
+              "name": "计算机",
+              "type": "topic"
+            },
+            {
+              "id": "67c0e68e00000000040164b0",
+              "name": "vibecoding",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "last_update_time": 1777525770000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "69f2e4090000000037037774",
+          "type": "normal",
+          "user": {
+            "user_id": "6539d1f0000000000301cfa4",
+            "nickname": "efan404",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08",
+            "xsec_token": "ABYUhobwcqS4oWZxkq8m8r2ZB2_Xua7IrzHSDJkTDa_6A="
+          }
+        }
+      }
+    ],
+    "current_time": 1784874050123
+  },
+  "comments": {
+    "comments": [
+      {
+        "status": 0,
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "show_tags": [],
+        "create_time": 1777531812000,
+        "sub_comment_cursor": "69f2fc910000000028035f6e",
+        "id": "69f2fba3000000002a005f4e",
+        "note_id": "69f2e4090000000037037774",
+        "content": "我这学期选了GD的ai。 跟老师讨论之后， 做一个vllm的推理引擎原型。 vibecoding加上实验花了六天工作量吧。还是蛮有收获的。",
+        "liked": false,
+        "like_count": "3",
+        "user_info": {
+          "user_id": "61ba1980000000001000ee42",
+          "nickname": "我是赵凡",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eggt9ligm005odq36041ri2fbgmh0o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB_yDtEuyMyacEFAJtuG8fnn42zHx_Rc0F7mt224HA3Zc="
+        },
+        "ip_location": "广东",
+        "sub_comments": [
+          {
+            "id": "69f2fc910000000028035f6e",
+            "note_id": "69f2e4090000000037037774",
+            "content": "[赞R][赞R][赞R]大佬 你这项目含金量拉满",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0=",
+              "user_id": "6539d1f0000000000301cfa4",
+              "nickname": "efan404",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1777532049000,
+            "ip_location": "中国香港",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "target_comment": {
+              "id": "69f2fba3000000002a005f4e",
+              "user_info": {
+                "user_id": "61ba1980000000001000ee42",
+                "nickname": "我是赵凡",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eggt9ligm005odq36041ri2fbgmh0o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB_yDtEuyMyacEFAJtuG8fnn42zHx_Rc0F7mt224HA3Zc="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_count": "1",
+        "invalid": false
+      },
+      {
+        "note_id": "69f2e4090000000037037774",
+        "content": "要陶瓷嘛，想请教一下[哭惹R]",
+        "sub_comments": [
+          {
+            "note_id": "69f2e4090000000037037774",
+            "content": "选课那一周会发通知的 自己联系prof 以及写proposal plan就好。[棒R]",
+            "at_users": [],
+            "like_count": "0",
+            "invalid": false,
+            "id": "69f6365b000000002803375b",
+            "status": 0,
+            "liked": false,
+            "user_info": {
+              "user_id": "6539d1f0000000000301cfa4",
+              "nickname": "efan404",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1777743452000,
+            "ip_location": "日本",
+            "target_comment": {
+              "id": "69f63512000000002803fdce",
+              "user_info": {
+                "user_id": "60c34302000000000100a816",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315hj3fb32o2g5o638c109a0m219u74g?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABIB3jOp65vZesTt6tv62TY4yxQ23HNn1fstx5_a3VgWg="
+              }
+            }
+          }
+        ],
+        "id": "69f63512000000002803fdce",
+        "liked": false,
+        "show_tags": [],
+        "sub_comment_cursor": "69f6365b000000002803375b",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "create_time": 1777743122000,
+        "ip_location": "中国香港",
+        "sub_comment_count": "1",
+        "invalid": false,
+        "status": 0,
+        "like_count": "1",
+        "user_info": {
+          "xsec_token": "ABIB3jOp65vZesTt6tv62TY4yxQ23HNn1fstx5_a3VgWg=",
+          "user_id": "60c34302000000000100a816",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315hj3fb32o2g5o638c109a0m219u74g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        }
+      },
+      {
+        "content": "想问一下主包给分如何吖？",
+        "ip_location": "广东",
+        "sub_comment_has_more": true,
+        "at_users": [],
+        "show_tags": [],
+        "create_time": 1778247509000,
+        "sub_comment_count": "6",
+        "note_id": "69f2e4090000000037037774",
+        "user_info": {
+          "user_id": "5fef2397000000000101d10f",
+          "nickname": "Aurora",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0="
+        },
+        "sub_comments": [
+          {
+            "content": "不会很高 一般很难拿a 我是打算混个毕业呢",
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "user_id": "6539d1f0000000000301cfa4",
+              "nickname": "efan404",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0="
+            },
+            "create_time": 1778254558000,
+            "target_comment": {
+              "id": "69fde7540000000028032ac6",
+              "user_info": {
+                "user_id": "5fef2397000000000101d10f",
+                "nickname": "Aurora",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0="
+              }
+            },
+            "id": "69fe02de0000000029011f13",
+            "note_id": "69f2e4090000000037037774",
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "中国香港",
+            "invalid": false,
+            "status": 0
+          }
+        ],
+        "sub_comment_cursor": "69fe02de0000000029011f13",
+        "id": "69fde7540000000028032ac6",
+        "liked": false,
+        "like_count": "0",
+        "invalid": false,
+        "status": 0
+      },
+      {
+        "content": "主包，Supervisor一般是教授还是博士生？我觉得课程里没有自己想学的方向这个study倒真是一个不错的选择[皱眉R]",
+        "liked": false,
+        "like_count": "0",
+        "sub_comments": [
+          {
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1777541140000,
+            "id": "69f32013000000002803fec0",
+            "content": "一般都是找prof呢 会给你一个可以联系的prof list的呢",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "6539d1f0000000000301cfa4",
+              "nickname": "efan404",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0="
+            },
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "69f31e6a000000002b02bd91",
+              "user_info": {
+                "user_id": "5d33efb700000000120320f3",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABK88_LuUDeLETW6WCejGaThNczEDpmjfQRIPEBzSHTA4="
+              }
+            },
+            "invalid": false,
+            "note_id": "69f2e4090000000037037774",
+            "status": 0,
+            "like_count": "0"
+          }
+        ],
+        "id": "69f31e6a000000002b02bd91",
+        "note_id": "69f2e4090000000037037774",
+        "ip_location": "上海",
+        "sub_comment_cursor": "69f32013000000002803fec0",
+        "status": 0,
+        "user_info": {
+          "xsec_token": "ABK88_LuUDeLETW6WCejGaThNczEDpmjfQRIPEBzSHTA4=",
+          "user_id": "5d33efb700000000120320f3",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "create_time": 1777540714000,
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "at_users": [],
+        "sub_comment_count": "2"
+      },
+      {
+        "note_id": "69f2e4090000000037037774",
+        "status": 0,
+        "like_count": "0",
+        "show_tags": [],
+        "invalid": false,
+        "sub_comments": [
+          {
+            "target_comment": {
+              "id": "6a5dd2aa000000002a004ce8",
+              "user_info": {
+                "user_id": "678638ee000000000803e2a7",
+                "nickname": "真宵",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322c51hrgno005ps673n27ol7iimq8dg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABHzPkQ8OLWFhDWEDW2TA-LUiRdO30W66g4uRUCfOKdlo="
+              }
+            },
+            "id": "6a5f37d2000000001403ba20",
+            "note_id": "69f2e4090000000037037774",
+            "content": "[笑哭R]这个不好在公开渠道评价，而且每个prof也不一定有时间参与这个，建议提前发email联系和询问呢",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "6539d1f0000000000301cfa4",
+              "nickname": "efan404",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0="
+            },
+            "create_time": 1784625107000,
+            "invalid": false,
+            "status": 0,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "中国香港"
+          }
+        ],
+        "at_users": [],
+        "create_time": 1784533674000,
+        "ip_location": "广东",
+        "sub_comment_count": "2",
+        "sub_comment_has_more": true,
+        "content": "主包 请问有没有推荐的导师 放养型最好 下学期sema想去外地实习 基本上不怎么来港 想混个3学分顺利毕业",
+        "liked": false,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABHzPkQ8OLWFhDWEDW2TA-LUiRdO30W66g4uRUCfOKdlo=",
+          "user_id": "678638ee000000000803e2a7",
+          "nickname": "真宵",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322c51hrgno005ps673n27ol7iimq8dg?imageView2/2/w/120/format/jpg"
+        },
+        "sub_comment_cursor": "6a5f37d2000000001403ba20",
+        "id": "6a5dd2aa000000002a004ce8"
+      },
+      {
+        "ip_location": "中国香港",
+        "sub_comment_cursor": "",
+        "id": "69f5bcb500000000270148cf",
+        "note_id": "69f2e4090000000037037774",
+        "liked": false,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "create_time": 1777712309000,
+        "sub_comments": [],
+        "invalid": false,
+        "status": 0,
+        "content": "诶，这是在哪里选？课号是多少[偷笑R]",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABnR4---fzeNsqYZpy-9vWRA7hrlzI6rEneXO05S1jo0M=",
+          "user_id": "5f2e59a20000000001001097",
+          "nickname": "TMS",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ru0ua2820005npeb6h0844noefcs4o?imageView2/2/w/120/format/jpg"
+        },
+        "show_tags": [],
+        "sub_comment_count": "0"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 6,
+    "pages_fetched": 1
+  },
+  "search_query": "香港城市大学 CS 选课",
+  "search_item": {
+    "xsec_token": "ABEKzC3G6by7NX8NvlGqyTVETlMisL3ui8MHgXnSveSFA=",
+    "id": "69f2e4090000000037037774",
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "display_title": "CityU CS 好课推荐",
+      "user": {
+        "nick_name": "efan404",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/80/format/jpg",
+        "user_id": "6539d1f0000000000301cfa4",
+        "nickname": "efan404",
+        "xsec_token": "ABfl4DnIqsvSffoF-IVuTZT_wnmZ7DCQdrqJLAE4rb33E="
+      },
+      "interact_info": {
+        "comment_count": "18",
+        "shared_count": "9",
+        "liked": false,
+        "liked_count": "55",
+        "collected": false,
+        "collected_count": "69"
+      },
+      "cover": {
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/fb039387a3f149a02ff6eb8cf9a37a92/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/e5cd40969ab289ea48ae3119570b45ce/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      },
+      "image_list": [
+        {
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/fb039387a3f149a02ff6eb8cf9a37a92/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/e5cd40969ab289ea48ae3119570b45ce/notes_pre_post/1040g3k031vi8487mia005p9pq7o0rjt4jee7n28!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "04-30"
+        }
+      ]
+    }
+  }
+}

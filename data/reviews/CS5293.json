@@ -1,0 +1,67 @@
+{
+  "courseCode": "CS5293",
+  "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "6a0f8368000000003700faf0",
+      "url": "https://www.xiaohongshu.com/explore/6a0f8368000000003700faf0?xsec_token=ABJk6pYInA2XD2gIhb6orjMubXjrHgsVSn3zl8-LlSy2g=",
+      "excerpt": "CS5293 Topics on Information Security；评分：2 (满分5)；最终分数 = 50%作业 + 50%期末；这门课讲的是计算机安全方面的内容，包括密码学、计算机网络、区块链、一些常见的计算机攻击方式等，在密码学和计网部分分别和SemesterA的CS5285和CS5222有重叠。作业一共4次，其中有一次叫做project，但是形式和其他作业没有什么区别，因此统称为作业。作业的难度不算大，但是比较繁琐，除了project外其余3次都要完成很多任务，不过给分还不错。期末考试难度比较大，考的内容杂并且有的题目需要比较深刻的理解才能完成，我也是瞎写了几道不会的题，估计没得两分。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城Msc CS SemesterB 冷门课程评价"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5293 Topics on Information Security；qingchuan Zhao；课程内容:信息安全，加密理论，操作系统漏洞，Web漏洞等；课程作业一般，无Project，考试难度略高，给分尚可",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

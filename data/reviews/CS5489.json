@@ -1,0 +1,65 @@
+{
+  "courseCode": "CS5489",
+  "fields": {
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "6878c023000000002400e000",
+      "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
+      "excerpt": "CS5489 Machine Learning: algorithms and applications；很好的一门课，和5487相比偏应用，数学基础弱但想学机器学习可以冲。成绩构成是十次tutorial两次个人作业小组项目期中考试期末考试。workload比较大，但绝对值得学费，课程内容非常丰富，考试无法突击，建议一定要好好学的一门课",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "🇭🇰CityU CS SemB选课"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5489 Machine Learning: Algorithms and Applications",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

@@ -1,0 +1,94 @@
+{
+  "courseCode": "CS6493",
+  "fields": {
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "disputed",
+      "sourceCount": 3,
+      "distinctSources": 2,
+      "note": "来源说法不一：较难×1、简单×1、适中×1",
+      "variants": {
+        "hard": 1,
+        "easy": 1,
+        "medium": 1
+      }
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS6493 NLP 必选"
+  ],
+  "sources": [
+    {
+      "noteId": "683476a700000000220270f9",
+      "url": "https://www.xiaohongshu.com/explore/683476a700000000220270f9?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjUtSareKfkE1024ASnax9kA=",
+      "excerpt": "2. CS6493 Natural Language Processing；Lecturer: Linqi SONG；课程体验；和SemA的DE是同个老师，除去课程内容外，可以看作DE Pro版。课程内容组织很有条理，定义-架构-应用循序渐进。Tutorial是TA负责，也和DE类似，会给出课程内容相关代码给大家自主运行并讲解，高情商：代码量大管饱；低情商：代码量太大我没记下来考试没写出代码题；项目体验；1-6人项目。比较看重创新，建议多放精力到实验设计以及数据分析中。大家项目分数都不怎么高，平均分数69.6。有线下pre；作业体验；两次作业，难度较大但可问AI，整体体验不错；考试体验；和DE考试风格类似，大概60%记忆，20%理解，20%代码与计算。难度较大，但给分慷慨，不会的题也尽量多写些。（我刚考完出来就知道自己被扣了12分，因为代码题一点都写不出来）；总体而言，我选的这些课都不算太折磨，可能是因为远离了ML和IS。但即使是难课，只要认真做作业和项目以及复习，想要不挂科都是很简单的，但想拿A+就没那么容易了",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemB课程评价（下）"
+    },
+    {
+      "noteId": "6a0c2c9d0000000006033f16",
+      "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+      "excerpt": "CS6493 Natural Language Model；Song老师和Ma老师共同授课，两位老师的课堂口音都属于很正的比较好懂的口音，课程会包含bert、transformer、llm、rag等内容，对于想要入门了解这方面内容的同学来说还挺不错的，总共有两次作业，每次assignment 是几道大题然后每个大题会有3-5个小题，project 是1-8人自由组队，没有期中考试，期末考试闭卷，一些概念理解题主要是某个技术的优缺点之类的，两道计算题，两道代码题，还有个应用类题",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城课程体验"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS6493 NLP 必选！基本有ai背景的就是学一学理论。；3⃣我为什么不推荐你一年速通？；不能充分利用所有的成果。对于一个不爱考试的人来说，没有办法用实习、project来抵学分实在是太难受了（这两个都要求summer term也就是10月毕业），让我第二学期必须选五门课workload 拉满。因此如果第一年春秋招没有结果的朋友千万不要担心，留一门课到summer term可以多参加一次喔",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    },
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS6493 nlp；和semA的ds一个老师，课程风格，作业量和考试也是一脉相承，期末主要靠自己看PPT。期末考试难度不大，大多是概念辨析，两道计算送分题都是作业里的知识点，两道代码填空题。和ds一样，复习了基本就不会挂；上述课程均无考勤，这一点cityu cs是真的夯，出去面试遇到其他港校的同学，很多都要打卡看出勤",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

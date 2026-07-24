@@ -1,0 +1,398 @@
+{
+  "note_id": "677bef1a000000001800eca7",
+  "url": "https://www.xiaohongshu.com/explore/677bef1a000000001800eca7?xsec_token=AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs=",
+  "fetched_at": 1784874172.6399543,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "677bef1a000000001800eca7",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "user_id": "60e2baa6000000000100a3ba",
+            "nickname": "ken",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38",
+            "xsec_token": "ABxWBAuxBVouDCZUVAstKx3Mf_wqAQJZlDFKvBV0G_xT8="
+          },
+          "tag_list": [
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "5c49e3f5000000000e00e3ed",
+              "name": "期末成绩",
+              "type": "topic"
+            },
+            {
+              "id": "659a68b5000000003f02dff3",
+              "name": "cityucs",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "title": "cityu cs sem a 期末成绩评价",
+          "interact_info": {
+            "liked": false,
+            "liked_count": "30",
+            "collected": false,
+            "comment_count": "12",
+            "share_count": "11",
+            "followed": false,
+            "collected_count": "27",
+            "relation": "none",
+            "nice_count": ""
+          },
+          "image_list": [
+            {
+              "height": 765,
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/53b18db028d47b0a61d515ef6570b724/1040g2sg31can5qls0s705o72naj098tqb2queqo!nd_dft_wgth_webp_3",
+              "file_id": "1040g2sg31can5qls0s705o72naj098tqb2queqo",
+              "width": 2318,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/fe3826dadc19063992ada15407425c83/1040g2sg31can5qls0s705o72naj098tqb2queqo!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/53b18db028d47b0a61d515ef6570b724/1040g2sg31can5qls0s705o72naj098tqb2queqo!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/fe3826dadc19063992ada15407425c83/1040g2sg31can5qls0s705o72naj098tqb2queqo!nd_prv_wgth_webp_3",
+              "stream": {},
+              "live_photo": false
+            }
+          ],
+          "time": 1736175386000,
+          "last_update_time": 1736175387000,
+          "note_id": "677bef1a000000001800eca7",
+          "desc": "cityu cs sem a 成绩，这几门课的感受如下：\ncs5222:作业占比30%，做起来难度中等，3个assignment➕两个额外的作业，不会太多。final占比70%，开卷，基本上都是tutorial的题目变形（考前也说明了这一点），题量较大，需要对概念真正掌握，但是考的概念不多，基本上每章都只考那些重点，不会太难到做不了。老师讲课也挺好的，基本上跟着ppt走不会上课有大问题，就算没听懂自己学也能理解。\ncs6382:难度较高，有期中quiz，final是开卷。推荐对算法和博弈论有一定基础的朋友学。3个assignment难度逐渐增加，题量很小但是有一定难度。期中quiz很难，只考了算法部分，但是最后quiz均分不到50。final的话老师有手下留情，3道计算题很简单，类似于送分，一道证明题可以尝试写一到两问，最后一道题地狱难度。平常上课老师很喜欢互动以及提问（不会点人），推荐提前预习一下更容易跟上老师的思路。如果你没有什么这方面的基础建议不要自找苦吃。\n剩下的课都是通过型考试，按照要求进行都不会有大问题。\n#cityu[话题]# #期末成绩[话题]# #cityucs[话题]#"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874173845
+  },
+  "comments": {
+    "comments": [
+      {
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5c4439a50000000006037fd7",
+          "nickname": "黑开水",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB7ttsJiB0IZEYHJS_Gji8d1HXkcI1i4pMsqVI5Ek3wyY="
+        },
+        "show_tags": [],
+        "invalid": false,
+        "id": "677c062e000000002101c963",
+        "status": 0,
+        "content": "请问这是本科的课程吗？",
+        "sub_comments": [
+          {
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1736183366000,
+            "target_comment": {
+              "id": "677c062e000000002101c963",
+              "user_info": {
+                "user_id": "5c4439a50000000006037fd7",
+                "nickname": "黑开水",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB7ttsJiB0IZEYHJS_Gji8d1HXkcI1i4pMsqVI5Ek3wyY="
+              }
+            },
+            "id": "677c0e46000000001b0317a3",
+            "status": 0,
+            "content": "硕博的",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "ip_location": "中国香港",
+            "invalid": false,
+            "note_id": "677bef1a000000001800eca7",
+            "user_info": {
+              "nickname": "ken",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABu-g6qMcaO11exlJdSk5z9BOzA4aiHgtIs1SmKYP7S3I=",
+              "user_id": "60e2baa6000000000100a3ba"
+            }
+          }
+        ],
+        "sub_comment_has_more": true,
+        "note_id": "677bef1a000000001800eca7",
+        "at_users": [],
+        "ip_location": "上海",
+        "sub_comment_count": "3",
+        "sub_comment_cursor": "677c0e46000000001b0317a3",
+        "create_time": 1736181294000
+      },
+      {
+        "ip_location": "内蒙古",
+        "sub_comment_count": "2",
+        "sub_comments": [
+          {
+            "id": "67809faf000000001a03a691",
+            "note_id": "677bef1a000000001800eca7",
+            "status": 0,
+            "content": "据称事情很多",
+            "user_info": {
+              "nickname": "ken",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABu-g6qMcaO11exlJdSk5z9BOzA4aiHgtIs1SmKYP7S3I=",
+              "user_id": "60e2baa6000000000100a3ba"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1736482736000,
+            "target_comment": {
+              "id": "677eadc2000000001a03a4d7",
+              "user_info": {
+                "xsec_token": "ABfbqYX67Ln5vXb3eZMJLoQkSmO4K2GsmjFPuz_8uxSGg=",
+                "user_id": "63dc7e620000000026010548",
+                "nickname": "临时抱佛脚",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vnsksuj3q6g5ousfph9i1a8e6np7qo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "ip_location": "中国香港",
+            "invalid": false
+          }
+        ],
+        "sub_comment_has_more": true,
+        "at_users": [],
+        "liked": false,
+        "show_tags": [],
+        "invalid": false,
+        "id": "677eadc2000000001a03a4d7",
+        "content": "5489怎么样，强度大吗[笑哭R]",
+        "sub_comment_cursor": "67809faf000000001a03a691",
+        "status": 0,
+        "note_id": "677bef1a000000001800eca7",
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABfbqYX67Ln5vXb3eZMJLoQkSmO4K2GsmjFPuz_8uxSGg=",
+          "user_id": "63dc7e620000000026010548",
+          "nickname": "临时抱佛脚",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vnsksuj3q6g5ousfph9i1a8e6np7qo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "create_time": 1736355266000
+      },
+      {
+        "note_id": "677bef1a000000001800eca7",
+        "create_time": 1756143411000,
+        "sub_comment_has_more": false,
+        "id": "68ac9f3300000000010130b4",
+        "status": 0,
+        "at_users": [],
+        "user_info": {
+          "xsec_token": "ABGdr_Y7cr6D53HkWWuNdHjHV4G6nCjmko7AzLaLpuXKg=",
+          "user_id": "615da55b000000000201d3de",
+          "nickname": "Quess",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "create_time": 1756181421000,
+            "status": 0,
+            "liked": false,
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "68ac9f3300000000010130b4",
+              "user_info": {
+                "user_id": "615da55b000000000201d3de",
+                "nickname": "Quess",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABGdr_Y7cr6D53HkWWuNdHjHV4G6nCjmko7AzLaLpuXKg="
+              }
+            },
+            "invalid": false,
+            "id": "68ad33ad0000000030022795",
+            "note_id": "677bef1a000000001800eca7",
+            "content": "这个是phd当ta的教学课程，算是强制的，而且似乎要先上了8002才能上这个",
+            "at_users": [],
+            "user_info": {
+              "user_id": "60e2baa6000000000100a3ba",
+              "nickname": "ken",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABu-g6qMcaO11exlJdSk5z9BOzA4aiHgtIs1SmKYP7S3I="
+            }
+          }
+        ],
+        "content": "请问sg8001是什么课呀，在哪选呢",
+        "like_count": "0",
+        "sub_comment_cursor": "68ad33ad0000000030022795",
+        "invalid": false,
+        "liked": false,
+        "ip_location": "广东",
+        "sub_comment_count": "1"
+      },
+      {
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "6522e1b4000000002b0035f9",
+          "nickname": "好热好热",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3179b86h23q6g5p92s6qaodfp2jc3dt8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABrlLcc9W6AbTLa8lXsLvSKFQrwpqLbDhv_nD9wFRySF4="
+        },
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "2",
+            "user_info": {
+              "user_id": "60e2baa6000000000100a3ba",
+              "nickname": "ken",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABu-g6qMcaO11exlJdSk5z9BOzA4aiHgtIs1SmKYP7S3I="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "id": "68ad338d0000000030021d6c",
+            "note_id": "677bef1a000000001800eca7",
+            "create_time": 1756181390000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "68ac9bbc000000002601b993",
+              "user_info": {
+                "nickname": "好热好热",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3179b86h23q6g5p92s6qaodfp2jc3dt8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABrlLcc9W6AbTLa8lXsLvSKFQrwpqLbDhv_nD9wFRySF4=",
+                "user_id": "6522e1b4000000002b0035f9"
+              }
+            },
+            "invalid": false,
+            "status": 0,
+            "content": "课难，作业难度递进，考试也难，不过老师给分很不错",
+            "at_users": []
+          }
+        ],
+        "at_users": [],
+        "create_time": 1756142525000,
+        "ip_location": "广东",
+        "sub_comment_cursor": "68ad338d0000000030021d6c",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "68ac9bbc000000002601b993",
+        "show_tags": [],
+        "note_id": "677bef1a000000001800eca7",
+        "status": 0,
+        "content": "请问CS6382难吗，博弈论没有了解，本科学过一点点算法[皱眉R]想尝试一下但是怕挂科"
+      },
+      {
+        "note_id": "677bef1a000000001800eca7",
+        "create_time": 1736214203000,
+        "invalid": false,
+        "content": "太强了😭",
+        "like_count": "1",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABisCGioO3TI7krdrJHnifopnqHZrURMTDxznIHKubfPk=",
+          "user_id": "5f0dd3a0000000000100572b",
+          "nickname": "Isabella",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d3b6654d14d06b01adcfb0.jpg?imageView2/2/w/120/format/jpg"
+        },
+        "show_tags": [],
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "status": 0,
+        "at_users": [],
+        "liked": false,
+        "sub_comment_has_more": false,
+        "id": "677c86bb000000002103e761",
+        "ip_location": "中国香港",
+        "sub_comment_count": "0"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 5,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5222 城大CS",
+  "search_item": {
+    "id": "677bef1a000000001800eca7",
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "display_title": "cityu cs sem a 期末成绩评价",
+      "user": {
+        "nick_name": "ken",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/80/format/jpg",
+        "user_id": "60e2baa6000000000100a3ba",
+        "nickname": "ken",
+        "xsec_token": "ABLKWk5zfuCfKVYeibnpZhAk5JSS-_DWLymiQ5f0gI38o="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "30",
+        "collected": false,
+        "collected_count": "27",
+        "comment_count": "12",
+        "shared_count": "11"
+      },
+      "cover": {
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/8595afcf131bc9e17d69658fdbd85d2e/1040g2sg31can5qls0s705o72naj098tqb2queqo!nc_n_webp_prv_1",
+        "height": 765,
+        "width": 2318,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/59c6f8947b69fe292de3816e12f4438a/1040g2sg31can5qls0s705o72naj098tqb2queqo!nc_n_webp_mw_1"
+      },
+      "image_list": [
+        {
+          "height": 765,
+          "width": 2318,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/59c6f8947b69fe292de3816e12f4438a/1040g2sg31can5qls0s705o72naj098tqb2queqo!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/8595afcf131bc9e17d69658fdbd85d2e/1040g2sg31can5qls0s705o72naj098tqb2queqo!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "2025-01-06",
+          "type": "publish_time"
+        }
+      ]
+    },
+    "xsec_token": "AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs="
+  }
+}

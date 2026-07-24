@@ -1,0 +1,70 @@
+{
+  "note_id": "6a0be10c00000000350215c2",
+  "url": "https://www.xiaohongshu.com/explore/6a0be10c00000000350215c2?xsec_token=ABdp_KDrgAPqmbwDq_kTmXJW9QYHIUl_l9pbCSeCxYBmk=",
+  "fetched_at": 1784874342.296893,
+  "course_codes": [
+    "CS5487",
+    "CS6382",
+    "CS6491"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS PhD第一年课程评估（3节必修）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS6382 Game Theory\n前半程主要讲算法，后半程讲博弈论，作业难度有递增，在我读的时候AI能辅助的有限，可能现在AI变强了不好说\n本科的时候只学过很简单的算法，也学得不好，上这节课的时候完全痛苦面具，老师喜欢课堂互动，他英文讲得挺好的，和老师互动可以拿到bonus （有点社恐地狱，反正我是不行，上课回答问题压力好大\nMinming还是有放水的，考试有送分题，过还是比较容易，最好英文好一点，我考试的时候就跟有阅读障碍一样，看着一页的题目我就已经晕过去了\n\t\nCS6491 Optimization\n4个需要线下交的tutorials，4个assignments，1个mid，1个final，全闭卷\n上学期学得太烂了，痛定思痛要好好学习，感觉上过的三门课里反而是这节课最好上手了，更单纯的数学，对这种课程的理解度比算法要好很多\n可以学之前复习一下微积分&导数，考前多看看past paper，这节课基本做题就可以，感觉很适合中国学生（\n\t\nCS5487 Machine Learning: Principles & Practice\n10个problem sets，2个programming assignments，1个course project（2人组队，也可以自己一个人，如果想拿好分数需要做pre），1个mid（单面cheatsheet），1个final（双面cheatsheet）\n需要有比较好的概率论&线代的基础，不然学起来会相当痛苦\n这节课的workload真的超级无敌大，还好都是soft due，在4月下旬结算之前全部写完就行；但确实好好啃下来也会很有收获，某种意义上也属于收获和痛苦成正比的课；但老师的字写得实在有点难以辨认、、、\n能做完problem set的全部题就肯定能拿很好的分数啦，不过真的特别多题，敬佩能写完的人（）\n个人体感是学这节课之前可以先接触一下优化那节课，有一些和优化相关的内容，学过优化理解起来应该会轻松点\n\t\n在小红书的Quinn老师有分享5487和6491里面的PS和tut solutions，老师们中间是不会发solutions的，所以推荐大家去参考Quinn老师的去做做题然后辅助理解",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问就只有博一要上课吗",
+      "sourceRef": "comment:6a1840650000000028036112",
+      "commentId": "6a1840650000000028036112",
+      "likes": "0",
+      "author": "小小卷"
+    },
+    {
+      "type": "sub_comment",
+      "text": "基本是的，除非自己把课排得太分散",
+      "sourceRef": "comment:6a336a62000000002701c4ae",
+      "commentId": "6a336a62000000002701c4ae",
+      "likes": "0",
+      "author": "银河尽头yu"
+    },
+    {
+      "type": "comment",
+      "text": "请问cityu博士的课是白天还是晚上呀？我是新入学的phd，怕过关来不及",
+      "sourceRef": "comment:6a4175f90000000015007a86",
+      "commentId": "6a4175f90000000015007a86",
+      "likes": "0",
+      "author": "悲伤小香草"
+    },
+    {
+      "type": "sub_comment",
+      "text": "必修课基本都在白天，选修课如果跟master一起上的话就不好说，有白天有晚上",
+      "sourceRef": "comment:6a4219010000000009017a18",
+      "commentId": "6a4219010000000009017a18",
+      "likes": "0",
+      "author": "银河尽头yu"
+    },
+    {
+      "type": "comment",
+      "text": "有没有不需要去的呀，没有签到之类的",
+      "sourceRef": "comment:6a2978b400000000280094ce",
+      "commentId": "6a2978b400000000280094ce",
+      "likes": "0",
+      "author": "胖企鹅饲养员"
+    },
+    {
+      "type": "sub_comment",
+      "text": "6382有课堂回答问题的bonus，in-class exercise就是课上老师会念几个题，如果你不要bonus，且能让认识的人告诉你那个题是啥，你就不用去啦[回招呼] 6491需要去一半的课因为要线下交tutorial",
+      "sourceRef": "comment:6a336ae7000000002701678b",
+      "commentId": "6a336ae7000000002701678b",
+      "likes": "0",
+      "author": "银河尽头yu"
+    }
+  ]
+}

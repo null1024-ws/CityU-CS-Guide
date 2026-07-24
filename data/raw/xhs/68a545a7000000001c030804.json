@@ -1,0 +1,613 @@
+{
+  "note_id": "68a545a7000000001c030804",
+  "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+  "fetched_at": 1784873930.9123745,
+  "note": {
+    "current_time": 1784873931896,
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "68a545a7000000001c030804",
+        "model_type": "note",
+        "note_card": {
+          "type": "normal",
+          "desc": "为了参加26届秋招，选了Summer term的唯一一节course\nSummer term持续时间只有大概7周，但每周会有两节课，总数量和SemA及SemB大概一致\n\t\nCS6290 Privacy-enhancing Technologies\nLecturer: Yuefeng DU\n上课体验：🌟🌟🌟🌟\n主要聚焦于区块链以及电子货币内容，与之前的安全课关联非常少。老师的英语不难听懂，但课程本身内容很多很多，再加上summer term的时长缩水，上课节奏比较快。Lecture结束之后有Tutorial，形式为老师带着一起做题，题目整体难度比最后的exam大很多，但老师会带着细致解释（不过还是未必能听懂[捂脸R]）\n作业体验：🌟🌟🌟🌟\n每三节课一次Reading Assignment，DDL那一天的课上前10分钟会有一个quiz，考察内容并非上课内容，而是阅读的论文内容，整体难度不大但如果没读过就没法做。另外，老师鼓励用AI工具辅助阅读，但要在作业中体现和AI的交互过程；严格禁止在quiz中用AI作弊，老师会认为没有线下参加quiz的人有作弊嫌疑，会要求没有线下参加的人参与补考，因此至少每三周要在课堂上露面一次。无线上课\n项目体验：🌟🌟🌟🌟🌟\n4人小组项目，可选开发或是survey，不过所有人都选了survey。具体是调研区块链领域相关内容，比如电子货币法律监管或者稳定币之类。整体项目压力很小，甚至在展示前一周紧急开始都完全来得及。最后的线下展示环节体验非常好，老师不会挑一点刺，只会友善地夸奖然后给出建议\n考试体验：🌟🌟🌟🌟\n闭卷期末考试，几乎覆盖了所有课程内容，必须要记忆和理解兼备才能游刃有余\n\t\nSt结束也就意味着我的cityu生涯结束了[失望R]，不过好在勉强拿下了Distinction（虽然没什么用）。接下来要进入紧张刺激的秋招环节了\n#香港城市大学[话题]# #选课[话题]# #计算机[话题]# #留学[话题]#",
+          "user": {
+            "user_id": "6033d8420000000001008775",
+            "nickname": "Restraint丶",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328",
+            "xsec_token": "AB7AnDXdGm-3SkgeO3vB4OerH-EUHZ4tlfT_RuZ5bVw8I="
+          },
+          "interact_info": {
+            "share_count": "13",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected_count": "49",
+            "followed": false,
+            "liked_count": "44",
+            "collected": false,
+            "comment_count": "20"
+          },
+          "image_list": [
+            {
+              "file_id": "notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440",
+              "width": 4032,
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241418/2f9ee1c38c81bab522903c6a14037132/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241418/4738519decb569495d7100cbb6595296/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241418/2f9ee1c38c81bab522903c6a14037132/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241418/4738519decb569495d7100cbb6595296/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nd_dft_wgth_webp_3",
+              "live_photo": false,
+              "height": 2688,
+              "stream": {}
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            },
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "id": "5bfa12489c1d82000102c324",
+              "name": "计算机",
+              "type": "topic"
+            },
+            {
+              "id": "5bea5e2186535d0001bf235d",
+              "name": "留学",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "title": "Cityu Msc CS St 课程评价",
+          "time": 1755661735000,
+          "last_update_time": 1755661735000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "68a545a7000000001c030804"
+        },
+        "ignore": false
+      }
+    ]
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "68a545a7000000001c030804",
+        "sub_comment_count": "4",
+        "sub_comment_cursor": "6a5d789f00000000290182c3",
+        "invalid": false,
+        "content": "你好，projec要求必须有代码吗？ 可以不用编程代码吗？但我看canvas又有个提交代码的链接",
+        "liked": false,
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "0",
+            "ip_location": "广西",
+            "target_comment": {
+              "id": "6a5c9c4e000000002b0250a2",
+              "user_info": {
+                "user_id": "5d99d4750000000001006ce6",
+                "nickname": "Enzo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABXwH2RFCp24HeMWD2iAB6nKeiUW0cvjbevSycUcB8uB4="
+              }
+            },
+            "invalid": false,
+            "note_id": "68a545a7000000001c030804",
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1784510623000,
+            "id": "6a5d789f00000000290182c3",
+            "content": "如果课程要求变化了，还是以新要求为准，我之前的经验仅供参考"
+          }
+        ],
+        "id": "6a5c9c4e000000002b0250a2",
+        "create_time": 1784454222000,
+        "ip_location": "广东",
+        "sub_comment_has_more": true,
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABXwH2RFCp24HeMWD2iAB6nKeiUW0cvjbevSycUcB8uB4=",
+          "user_id": "5d99d4750000000001006ce6",
+          "nickname": "Enzo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        }
+      },
+      {
+        "liked": false,
+        "create_time": 1756210310000,
+        "sub_comments": [
+          {
+            "content": "今年是的，容量不够的话会扩容",
+            "liked": false,
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1756212986000,
+            "target_comment": {
+              "user_info": {
+                "user_id": "615da55b000000000201d3de",
+                "nickname": "Quess",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABGdr_Y7cr6D53HkWWuNdHjHV4G6nCjmko7AzLaLpuXKg="
+              },
+              "id": "68ada48600000000010027c8"
+            },
+            "id": "68adaef90000000002000168",
+            "note_id": "68a545a7000000001c030804",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "ip_location": "广西",
+            "invalid": false
+          }
+        ],
+        "sub_comment_cursor": "68adaef90000000002000168",
+        "content": "请问summer term想选一定可以选上吗",
+        "user_info": {
+          "nickname": "Quess",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABGdr_Y7cr6D53HkWWuNdHjHV4G6nCjmko7AzLaLpuXKg=",
+          "user_id": "615da55b000000000201d3de"
+        },
+        "show_tags": [],
+        "ip_location": "北京",
+        "note_id": "68a545a7000000001c030804",
+        "status": 0,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "68ada48600000000010027c8",
+        "at_users": [],
+        "sub_comment_count": "1"
+      },
+      {
+        "note_id": "68a545a7000000001c030804",
+        "at_users": [],
+        "sub_comments": [
+          {
+            "content": "上一届是SemB结束后选，和别的选课形式上没有区别",
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1764465194000,
+            "target_comment": {
+              "id": "6925c616000000003802fcc1",
+              "user_info": {
+                "user_id": "6076534f000000000100235b",
+                "nickname": "巴巴拉拉能量",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ktrf5buio6g5o3mad7g88qrpjrvasg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABSVnwwZxPUyyUgUkXnlJLkERp9L-CUKW-KvTJ5l2fDzk="
+              }
+            },
+            "note_id": "68a545a7000000001c030804",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ=",
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg"
+            },
+            "ip_location": "广东",
+            "invalid": false,
+            "id": "692b9a2a000000003803e94c"
+          }
+        ],
+        "sub_comment_cursor": "692b9a2a000000003803e94c",
+        "status": 0,
+        "ip_location": "中国香港",
+        "sub_comment_count": "1",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "create_time": 1764083223000,
+        "id": "6925c616000000003802fcc1",
+        "content": "你好我想问一下st怎么选课呀，什么时间选呢",
+        "like_count": "0",
+        "user_info": {
+          "nickname": "巴巴拉拉能量",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ktrf5buio6g5o3mad7g88qrpjrvasg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABSVnwwZxPUyyUgUkXnlJLkERp9L-CUKW-KvTJ5l2fDzk=",
+          "user_id": "6076534f000000000100235b"
+        },
+        "show_tags": [],
+        "invalid": false
+      },
+      {
+        "status": 0,
+        "ip_location": "广东",
+        "sub_comment_cursor": "69670e6d0000000009035a35",
+        "id": "6964a51d0000000004001595",
+        "note_id": "68a545a7000000001c030804",
+        "at_users": [],
+        "liked": false,
+        "create_time": 1768203549000,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABHUTHnB_dqUdIFpWZcdwRz0N9hOc5Iv5jbDd8oGRg7QY=",
+          "user_id": "684a8279000000001b0217ff",
+          "nickname": "momo"
+        },
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "status": 0,
+            "content": "不用，直接选就行",
+            "at_users": [],
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ=",
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "6964a51d0000000004001595",
+              "user_info": {
+                "user_id": "684a8279000000001b0217ff",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABHUTHnB_dqUdIFpWZcdwRz0N9hOc5Iv5jbDd8oGRg7QY="
+              }
+            },
+            "note_id": "68a545a7000000001c030804",
+            "liked": false,
+            "like_count": "0",
+            "create_time": 1768361581000,
+            "invalid": false,
+            "id": "69670e6d0000000009035a35"
+          }
+        ],
+        "sub_comment_has_more": false,
+        "content": "学长，选这个st的课需要提前邮件联系嘛",
+        "like_count": "0",
+        "sub_comment_count": "1",
+        "invalid": false
+      },
+      {
+        "create_time": 1755664302000,
+        "ip_location": "广东",
+        "status": 0,
+        "content": "羡慕distinct，我这种混子只求及格[微笑R]",
+        "show_tags": [],
+        "invalid": false,
+        "id": "68a54fad000000002603bf9d",
+        "note_id": "68a545a7000000001c030804",
+        "liked": false,
+        "user_info": {
+          "user_id": "6048ce0a000000000101f789",
+          "nickname": "长乐",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206nn8g562605o28po50bts96qbg4jg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABAlnwXxrXkPr9-EPJLlwhET_Y_YxMMBpALNqnTsINiaU="
+        },
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "68a553f00000000026039dbc",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "like_count": "0",
+        "sub_comments": [
+          {
+            "id": "68a553f00000000026039dbc",
+            "liked": false,
+            "like_count": "2",
+            "create_time": 1755665393000,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "68a54fad000000002603bf9d",
+              "user_info": {
+                "user_id": "6048ce0a000000000101f789",
+                "nickname": "长乐",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206nn8g562605o28po50bts96qbg4jg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABAlnwXxrXkPr9-EPJLlwhET_Y_YxMMBpALNqnTsINiaU="
+              }
+            },
+            "invalid": false,
+            "note_id": "68a545a7000000001c030804",
+            "status": 0,
+            "content": "其实我现在觉得卷Distinction还不如混一混把时间空出来多敲一个项目呢[doge]",
+            "at_users": [],
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "show_tags": [
+              "is_author"
+            ]
+          }
+        ]
+      },
+      {
+        "sub_comment_count": "1",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_cursor": "68a7f1650000000026039c0c",
+        "invalid": false,
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5d5b369e000000000100340e",
+          "nickname": "offer四面八方来",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ach6v3r7c005nar6qf08d0eg8plnso?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABUqcBU5c4o2GhYyb1mj1RCBAGFKRq7duTKfYgUhxdSe8="
+        },
+        "sub_comments": [
+          {
+            "status": 0,
+            "like_count": "0",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ=",
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶"
+            },
+            "target_comment": {
+              "id": "68a7c5550000000026039bcd",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ach6v3r7c005nar6qf08d0eg8plnso?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABUqcBU5c4o2GhYyb1mj1RCBAGFKRq7duTKfYgUhxdSe8=",
+                "user_id": "5d5b369e000000000100340e",
+                "nickname": "offer四面八方来"
+              }
+            },
+            "content": "谢谢哦[偷笑R]",
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1755836774000,
+            "ip_location": "中国香港",
+            "invalid": false,
+            "id": "68a7f1650000000026039c0c",
+            "note_id": "68a545a7000000001c030804"
+          }
+        ],
+        "id": "68a7c5550000000026039bcd",
+        "note_id": "68a545a7000000001c030804",
+        "content": "恭喜恭喜，感谢学长（姐）的分享！帮助很大[哇R]",
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "create_time": 1755825493000
+      },
+      {
+        "content": "请问 summer term 是不是用来刷绩点的啊",
+        "sub_comment_cursor": "",
+        "note_id": "68a545a7000000001c030804",
+        "show_tags": [],
+        "ip_location": "广东",
+        "id": "692806dd000000003801763c",
+        "status": 0,
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1764230878000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false,
+        "at_users": [],
+        "user_info": {
+          "user_id": "6533d83c000000000d007e78",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31co60afcgm005p9jr0u38vjolttvolo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPorvgu_-V8_MYCqOI2biO3cHMRANFYaL7dFPuLf1zmc="
+        },
+        "sub_comment_has_more": false
+      },
+      {
+        "sub_comment_count": "0",
+        "note_id": "68a545a7000000001c030804",
+        "content": "主包，st能选的课是semB结束才会知道吗[合十R]",
+        "at_users": [],
+        "liked": false,
+        "create_time": 1779169929000,
+        "invalid": false,
+        "sub_comments": [],
+        "status": 0,
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_has_more": false,
+        "id": "6a0bfa88000000002902c20f",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABK88_LuUDeLETW6WCejGaThNczEDpmjfQRIPEBzSHTA4=",
+          "user_id": "5d33efb700000000120320f3",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg"
+        },
+        "ip_location": "上海",
+        "sub_comment_cursor": ""
+      },
+      {
+        "id": "68a583bc0000000030021c69",
+        "liked": false,
+        "create_time": 1755677628000,
+        "sub_comment_cursor": "",
+        "note_id": "68a545a7000000001c030804",
+        "status": 0,
+        "content": "+1",
+        "like_count": "0",
+        "invalid": false,
+        "show_tags": [],
+        "ip_location": "北京",
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "user_info": {
+          "user_id": "5dc6da37000000000100b5b3",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABoJ_MeZ3vcyMq_zt7fXfABsqS8xhubzaivAb_eRjJ4qQ="
+        },
+        "sub_comments": []
+      },
+      {
+        "id": "69eca653000000002803da3e",
+        "note_id": "68a545a7000000001c030804",
+        "content": "学长请问一下这个专业的就业情况如何啊[哭惹R]",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31voj3fr3iq005o775hh0biq5s47f0q0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABobxtR-jT1ww4Dv2NKdnEOccUZcidDEU-v5t81xBshTM=",
+          "user_id": "60e72c62000000000101cb45",
+          "nickname": "滚雪球的鹅"
+        },
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "status": 0,
+        "show_tags": [],
+        "ip_location": "湖南",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "create_time": 1777116756000
+      },
+      {
+        "liked": false,
+        "user_info": {
+          "user_id": "5a7eae0011be102c4e29de06",
+          "nickname": "Naomm",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/66af67bd02d97e414b83d742.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABqR23E2WsuxT6OF2a2zOXSC220JGbZZrgiNSq83-4mUM="
+        },
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "6904684a00000000380258a5",
+        "content": "请问summer term课是晚上还是白天呀",
+        "at_users": [],
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "note_id": "68a545a7000000001c030804",
+        "status": 0,
+        "show_tags": [],
+        "sub_comments": [],
+        "like_count": "0",
+        "create_time": 1761896523000,
+        "ip_location": "广东"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 11,
+    "pages_fetched": 2
+  },
+  "search_query": "城大 MSc CS 选课",
+  "search_item": {
+    "id": "68a545a7000000001c030804",
+    "model_type": "note",
+    "note_card": {
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-20"
+        }
+      ],
+      "type": "normal",
+      "display_title": "Cityu Msc CS St 课程评价",
+      "user": {
+        "nick_name": "Restraint丶",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/80/format/jpg",
+        "user_id": "6033d8420000000001008775",
+        "nickname": "Restraint丶",
+        "xsec_token": "ABf8FVOUXzrjoZALZDDkFkJ5oJhMdJnHtCcvo0lzJTt2E="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "44",
+        "collected": false,
+        "collected_count": "49",
+        "comment_count": "20",
+        "shared_count": "13"
+      },
+      "cover": {
+        "width": 4032,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241418/a4fa704c4400e07e6f1370665f6f95b5/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241418/783ebf1784ca3aa6806e1f27cc5a30a8/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nc_n_webp_prv_1",
+        "height": 2688
+      },
+      "image_list": [
+        {
+          "height": 2688,
+          "width": 4032,
+          "info_list": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/a4fa704c4400e07e6f1370665f6f95b5/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nc_n_webp_mw_1",
+              "image_scene": "WB_DFT"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/783ebf1784ca3aa6806e1f27cc5a30a8/notes_pre_post/1040g3k031ld252bl5m3g5o1jr11091rlfqrc440!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsec_token": "ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY="
+  }
+}

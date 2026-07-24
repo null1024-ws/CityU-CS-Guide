@@ -1,0 +1,208 @@
+{
+  "note_id": "6a0c2c9d0000000006033f16",
+  "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+  "fetched_at": 1784874041.0631373,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "note_card": {
+          "note_id": "6a0c2c9d0000000006033f16",
+          "title": "港城课程体验",
+          "desc": "SemB\n\t\nCS5491 Artificial Intelligence\nlu老师完全大好人，老师的口音很好懂，课程主要是参考人工智能现代化第四版这本书，课程的日常作业量不大，项目可以1-3人，可选范围很广，老师说优秀的项目有投稿的可能，如果有想法的同学可以好好做项目或者提前和老师了解一下（个人没有尝试，未知可行度），期中考试和期末考试基本都是基于tutorial 的例题进行理解然后稍作变动，都是开卷，总体不是很困难\n\t\nCS6493 Natural Language Model\nSong老师和Ma老师共同授课，两位老师的课堂口音都属于很正的比较好懂的口音，课程会包含bert、transformer、llm、rag等内容，对于想要入门了解这方面内容的同学来说还挺不错的，总共有两次作业，每次assignment 是几道大题然后每个大题会有3-5个小题，project 是1-8人自由组队，没有期中考试，期末考试闭卷，一些概念理解题主要是某个技术的优缺点之类的，两道计算题，两道代码题，还有个应用类题\n\t\nCS5188 Virtual Reality Tech & Apns\n老师感觉是香港本地人，我有时会听不太懂老师讲课发音，没有平时作业，一个1-3人的project 和期中期末，期中期末都是闭卷，如果没有ue5基础的不建议选，不然做项目就很耗时间，期中是选择加概念题，期末是选择加简答加综合，都是考ppt里面的内容，但是ppt复习起来要记忆的太多了，很耗时间\n\t\nCS5281 Internet Application Dev\n老师讲课会进行首先实现演示，然后过一下ppt，会有线上zoom，日常也没有考勤，主要就是html、css、JavaScript相关知识点，期中期末开卷，考试内容都是课程讲义里面的，但是题量不算少，课程project 最多8人组队，平时作业也很简单\n\t\n#cityu[话题]# #选课[话题]# #香港城市大学[话题]# #留学课程[话题]#",
+          "user": {
+            "user_id": "5b753a3ff89a9228c8d422e3",
+            "nickname": "dancostar",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6425b5ace38146c98000409e.jpg",
+            "xsec_token": "ABzqreRxIjqxPedNeNSjKTdetMhkxOgsZAEObXWKCsfyw="
+          },
+          "image_list": [
+            {
+              "live_photo": false,
+              "url": "",
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/f36c9739d4e7cb04bac5658e0b3b7b9f/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nd_dft_wgth_webp_3",
+              "file_id": "notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o",
+              "height": 404,
+              "width": 688,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/3a0099ad061a5246a9739b67d9b10b50/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/f36c9739d4e7cb04bac5658e0b3b7b9f/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nd_dft_wgth_webp_3",
+                  "image_scene": "WB_DFT"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/3a0099ad061a5246a9739b67d9b10b50/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nd_prv_wgth_webp_3",
+              "stream": {}
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            },
+            {
+              "name": "留学课程",
+              "type": "topic",
+              "id": "608b9989000000000100009d"
+            }
+          ],
+          "at_user_list": [],
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "interact_info": {
+            "liked_count": "5",
+            "collected_count": "2",
+            "comment_count": "3",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "share_count": "",
+            "followed": false
+          },
+          "time": 1779182749000,
+          "last_update_time": 1779182750000
+        },
+        "ignore": false,
+        "id": "6a0c2c9d0000000006033f16",
+        "model_type": "note"
+      }
+    ],
+    "current_time": 1784874042212
+  },
+  "comments": {
+    "comments": [
+      {
+        "user_info": {
+          "user_id": "5fef2397000000000101d10f",
+          "nickname": "Aurora",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0="
+        },
+        "create_time": 1779469594000,
+        "invalid": false,
+        "like_count": "0",
+        "sub_comment_cursor": "6a1106fd0000000029034458",
+        "sub_comment_count": "2",
+        "sub_comments": [
+          {
+            "target_comment": {
+              "id": "6a108d1a000000002b02975c",
+              "user_info": {
+                "user_id": "5fef2397000000000101d10f",
+                "nickname": "Aurora",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABf7yihj95aYahddr0p4PdmlkohRSxY1nxi-uXm5EFrP0="
+              }
+            },
+            "status": 0,
+            "content": "前面的简答题就是直接给出优缺点或者不同比如Bert和GPT的两个不同之类的，后面的应用类题目会结合一个实际场景然后说明，比如给出了一个agent实际，中间的某一步应该用什么东西实现，其优缺点之类的",
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "invalid": false,
+            "id": "6a1106fd0000000029034458",
+            "note_id": "6a0c2c9d0000000006033f16",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5b753a3ff89a9228c8d422e3",
+              "nickname": "dancostar",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6425b5ace38146c98000409e.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABwZgm4OgbgL_T17lPjK0q99HIE2qPbzxb8uIKuibyxiY="
+            },
+            "create_time": 1779500797000,
+            "ip_location": "广东"
+          }
+        ],
+        "id": "6a108d1a000000002b02975c",
+        "note_id": "6a0c2c9d0000000006033f16",
+        "status": -2,
+        "content": "谢谢主包分享，想请问下nlp的概念理解题是这种直接问一个模型让咱说说它的优缺点，还是说给一个情景让去分析这个模型的作用、是不是解决的最优模型、为什么这种？",
+        "show_tags": [],
+        "ip_location": "广东",
+        "at_users": [],
+        "liked": false,
+        "sub_comment_has_more": true
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 1,
+    "pages_fetched": 1
+  },
+  "search_query": "香港城市大学 CS 选课",
+  "search_item": {
+    "model_type": "note",
+    "note_card": {
+      "user": {
+        "nick_name": "dancostar",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6425b5ace38146c98000409e.jpg?imageView2/2/w/80/format/jpg",
+        "user_id": "5b753a3ff89a9228c8d422e3",
+        "nickname": "dancostar",
+        "xsec_token": "AB-WTdpoTXXB04KCAB9xG4rzAkdrPwlVjUoZsKd2tCYi0="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "5",
+        "collected": false,
+        "collected_count": "2",
+        "comment_count": "3",
+        "shared_count": "0"
+      },
+      "cover": {
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/8f45966168efb202b6a2429b86f42dc0/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nc_n_webp_prv_1",
+        "height": 404,
+        "width": 688,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/9738e15dd0218fdf84978867de2996e4/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nc_n_webp_mw_1"
+      },
+      "image_list": [
+        {
+          "height": 404,
+          "width": 688,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/9738e15dd0218fdf84978867de2996e4/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/8f45966168efb202b6a2429b86f42dc0/notes_pre_post/1040g3k0320bhofadm2004af3rgt3u8n3pce0b0o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "05-19"
+        }
+      ],
+      "type": "normal",
+      "display_title": "港城课程体验"
+    },
+    "xsec_token": "AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+    "id": "6a0c2c9d0000000006033f16"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "courseCode": "CS5187",
+  "fields": {
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 3
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS5187 vision and image 必选"
+  ],
+  "sources": [
+    {
+      "noteId": "695c948d000000002102ad0b",
+      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+      "excerpt": "CS5187 视觉与图像（选修）；无quiz，两个作业（给分很高），一个个人项目（给分中等），无期中，全开卷期末。；无脑选就完了，包过的，就算一节课不来也行。最后一次课有复习PPT，这节课得来，基本上总结了一大部分的重点，按照复习PPT对照往次课的PPT去复习就行了。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemA"
+    },
+    {
+      "noteId": "676793ee000000000b00d2b1",
+      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+      "excerpt": "CS5187 Vision and Image；期末出题最好的老师，巨巨巨放水，yyds，主观题基本全是送分题，平时一次课没去过，考前看了2h，轻轻松松通过，有手就行。平时分由两次assignment和一个单人project构成，也是好水的。强烈建议选！",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semA选课攻略（期末速成版）"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "CS5187 CV：平时实验和Project打分很好，期末Image Alignment和相机参数是重点，开小灶 -> 油管搜索First Principles of Computer Vision内容基本涵盖了。；ST 1门",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
+    },
+    {
+      "noteId": "6a0c17bd000000000702ea2c",
+      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+      "excerpt": "CS5187 Vision and Image；好课推荐，平时没怎么去上过课，期末考试主要是不定项选择和计算题。主要看看PPT里的题目和tutorial就OK。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS5187 vision and image 必选！事少简单开卷考",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    },
+    {
+      "noteId": "693a7b0a000000001e00c686",
+      "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
+      "excerpt": "cs5187 vision and image",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "缓慢记录cityu cs sem A期末考试"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-24"
+}

@@ -1,0 +1,85 @@
+{
+  "courseCode": "CS5285",
+  "fields": {
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 2
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "reported",
+      "sourceCount": 2,
+      "distinctSources": 1,
+      "note": "同一帖子多次提及，待更多独立来源确认"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS5285 Information Security for e-commerce 无密码学基础的慎选，不怕学不懂的话硬着头皮冲可以期末给分高"
+  ],
+  "sources": [
+    {
+      "noteId": "695cf7a800000000220313b8",
+      "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
+      "excerpt": "2.cs5285 密码学；最难的一门，不考勤，会捞人，无小组作业，tbl可以不去；20%：两份作业，给的时间很久，因为开卷所以不难；20%：期中，开卷，虽然开卷但是题量多，可能没什么时间翻/搜，不过改卷很松，期中考后的一节课课上会发试卷；60%：期末，可携带计算器，1张双面a4（可打印），题量比较大，考前建议自己再做一遍所有的练习题，考试时遇到复杂的设计协议的题目可以先跳过；总结：ec的必修课，认真学吧，虽然主播平时不学考前突击也能拿A，但希望不要模仿",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU EC semA选课锐评（上）"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS5285 Information Security for e-commerce 无密码学基础的慎选，不怕学不懂的话硬着头皮冲可以期末给分高；CS65XX Guided study 有科研背景/爱做project必选且推荐第一学期选，否则慎选，不然可能会面临0指导0资源做项目。且拿A非常难；SemB",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "664765580000000016011f3d",
+      "url": "https://www.xiaohongshu.com/explore/664765580000000016011f3d?xsec_token=AB6dhwSlJt0n9SYU0NjlbgbuTRCkiZJ_oI1RCgr8xWPZg=",
+      "excerpt": "CS5285 - Information Security for eCommerce 地狱难度到什么程度 好吓人 但是想选这门课",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "港城MSCS课程体验 - SemA",
+      "commentId": "66a9ee4b000000001202569d",
+      "author": "momo",
+      "likes": "0",
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-24"
+}

@@ -1,0 +1,206 @@
+{
+  "note_id": "683476a700000000220270f9",
+  "url": "https://www.xiaohongshu.com/explore/683476a700000000220270f9?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjUtSareKfkE1024ASnax9kA=",
+  "fetched_at": 1784873918.1435416,
+  "course_codes": [
+    "CS5491",
+    "CS6493",
+    "CS6534"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Msc CS SemB课程评价（下）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "整个SemB只选了四门课，留了一门给summer term。这篇笔记讲剩下两门\n\t\n1. CS5491 Artificial Intelligence（推荐所有人选）\nLecturer: Zhichao LU\n上课体验：🌟🌟🌟🌟🌟\n老师的口语清晰又地道，哪怕上课没学到东西也可以算是英文听力练习。上课内容深入浅出，把人工智能中非常复杂的知识提炼出简单的知识点和方法。像我这样的AI小白也能学有所得。\n项目体验：🌟🌟🌟🌟\n1-3人项目。由于该项目我负责部分不多，所以无法做出太全面评价。但总体而言工作量不会像SE项目那么大（小组人数摆在那）。没有pre\n作业体验：🌟🌟🌟🌟🌟\n作业次数不少但都很重要，几乎所有作业涉及的计算题都会在期中或期末中考到。乍一看作业会觉得一头雾水，但在作业布置之前老师会手把手带着过几道题，减少作业量的同时教大伙怎么算，认真听的话就一定没问题\n考试体验：🌟🌟🌟🌟🌟\n期中考试和期末考试都是完全开卷。考试内容都是平时作业的变化版甚至简化版，建议把平时作业答案一起打印出来带到考场上，哪怕不记得怎么算了也能现学现算。\n\t\n2. CS6493 Natural Language Processing\nLecturer: Linqi SONG\n课程体验：🌟🌟🌟🌟\n和SemA的DE是同个老师，除去课程内容外，可以看作DE Pro版。课程内容组织很有条理，定义-架构-应用循序渐进。Tutorial是TA负责，也和DE类似，会给出课程内容相关代码给大家自主运行并讲解，高情商：代码量大管饱；低情商：代码量太大我没记下来考试没写出代码题\n项目体验：🌟🌟🌟\n1-6人项目。比较看重创新，建议多放精力到实验设计以及数据分析中。大家项目分数都不怎么高，平均分数69.6。有线下pre\n作业体验：🌟🌟🌟🌟\n两次作业，难度较大但可问AI，整体体验不错\n考试体验：🌟🌟🌟🌟\n和DE考试风格类似，大概60%记忆，20%理解，20%代码与计算。难度较大，但给分慷慨，不会的题也尽量多写些。（我刚考完出来就知道自己被扣了12分，因为代码题一点都写不出来😙）\n\t\n总体而言，我选的这些课都不算太折磨，可能是因为远离了ML和IS。但即使是难课，只要认真做作业和项目以及复习，想要不挂科都是很简单的，但想拿A+就没那么容易了\n\t\n#选课[话题]# #香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "附本人自行整理复习资料",
+      "sourceRef": "comment:683476df000000000b01eafb",
+      "commentId": "683476df000000000b01eafb",
+      "likes": "3",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "sub_comment",
+      "text": "大神 我看你只是选择了9门课程 还有三个学分怎么凑够的 是guided study 么 这个在什么时候可以选择呀 还是说要选择 program",
+      "sourceRef": "comment:68677ffb000000001e035c54",
+      "commentId": "68677ffb000000001e035c54",
+      "likes": "1",
+      "author": "肥皂"
+    },
+    {
+      "type": "comment",
+      "text": "佬 想要一期社恐人士食用的课程check[萌萌哒R][萌萌哒R][萌萌哒R]",
+      "sourceRef": "comment:683e671f000000000b02da15",
+      "commentId": "683e671f000000000b02da15",
+      "likes": "0",
+      "author": "cooooo brownies"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一整年下来完全不组队或pre是不可能的哦[笑哭R]，DE和SE这两门必修课就强制要求组队。但有其他的相对友好的课\n完全无组队项目且无pre：两节安全、Vision、计网、算法（据说，不确定）\n可单人项目但必须pre：NLP、CG\n组队项目但无pre：AI、两节ML（两人项目但无线下pre，难度大）\n我接触过的大概就这些，不排除有一些我不认识的没讲全的。可以看我的其他笔记了解这些课详细信息",
+      "sourceRef": "comment:683ea154000000000a034b46",
+      "commentId": "683ea154000000000a034b46",
+      "likes": "3",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "主包，想问下大部分课是不是都在晚上6-9点[皱眉R]",
+      "sourceRef": "comment:69bb5cda000000001d00b18b",
+      "commentId": "69bb5cda000000001d00b18b",
+      "likes": "0",
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "应该说是7点到9点50",
+      "sourceRef": "comment:69c0d3ad0000000014030035",
+      "commentId": "69c0d3ad0000000014030035",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长 可以加下微信么？有些具体问题咨询",
+      "sourceRef": "comment:686748ac000000000c027389",
+      "commentId": "686748ac000000000c027389",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "直接私我就行，看到了就会回",
+      "sourceRef": "comment:686786dc000000001102fa49",
+      "commentId": "686786dc000000001102fa49",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问这些课的考勤怎么样",
+      "sourceRef": "comment:695aa3a2000000001601e1a2",
+      "commentId": "695aa3a2000000001601e1a2",
+      "likes": "0",
+      "author": "7beatz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都没考勤",
+      "sourceRef": "comment:695b891300000000090344d3",
+      "commentId": "695b891300000000090344d3",
+      "likes": "1",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长， Artificial Intelligence这门课开直播和有回放吗",
+      "sourceRef": "comment:69552f610000000016021ed9",
+      "commentId": "69552f610000000016021ed9",
+      "likes": "0",
+      "author": "小红薯_&"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有，慎重考虑",
+      "sourceRef": "comment:6956679f000000000f02cb39",
+      "commentId": "6956679f000000000f02cb39",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长[皱眉R]5491这门课有考勤吗",
+      "sourceRef": "comment:6954ca73000000001702f6cb",
+      "commentId": "6954ca73000000001702f6cb",
+      "likes": "0",
+      "author": "今晚喝椰椰"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有，但课上讲的例题很重要，慎重考虑翘课",
+      "sourceRef": "comment:695667b8000000001803b1eb",
+      "commentId": "695667b8000000001803b1eb",
+      "likes": "0",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "大神 因为我是转专业的 是不是选课的时候要注意下前置条件 要不然选不上 还是说选上了 系统老师那边会再查一遍 把我从课程里面踢出来[捂脸R]",
+      "sourceRef": "comment:686a74c2000000000400c3c5",
+      "commentId": "686a74c2000000000400c3c5",
+      "likes": "0",
+      "author": "肥皂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不至于[笑哭R]，起码SemA的课大家都是同一起跑线，不会因为本科没学过就不能选",
+      "sourceRef": "comment:686bc99a000000001102c593",
+      "commentId": "686bc99a000000001102c593",
+      "likes": "1",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "大佬，我刚期中考完，想问问您当时5491期末考的平均分大概是多少呀？还是想拿高一点的分数，现在大致算一下期末要考多少分[扯脸H][扯脸H]",
+      "sourceRef": "comment:68f39fb5000000003702515e",
+      "commentId": "68f39fb5000000003702515e",
+      "likes": "0",
+      "author": "Aurora"
+    },
+    {
+      "type": "comment",
+      "text": "学长牛逼！！！",
+      "sourceRef": "comment:697a083c000000000b034ec2",
+      "commentId": "697a083c000000000b034ec2",
+      "likes": "0",
+      "author": "小鱼干喵喵猫"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问我本科只学习了一点点计算机（还学的不是太好）可以尝试选机器学习的课吗，想以此挑战一下自己并丰富自己的技能来应对找工作，顺便还想问学长推荐summer term毕业吗[猪头R]",
+      "sourceRef": "comment:689a0bf3000000002b023c84",
+      "commentId": "689a0bf3000000002b023c84",
+      "likes": "0",
+      "author": "J."
+    },
+    {
+      "type": "sub_comment",
+      "text": "机器学习我没有选过，不过听选过课的同学说就算不怎么会也不至于挂科，可以试试看。至于summer term的问题取决于你个人规划，如果不想一进学校就忙秋招，而是想专注于第二年秋招，那就是不错的选择[害羞R]",
+      "sourceRef": "comment:689a8f5d000000002b02d8c8",
+      "commentId": "689a8f5d000000002b02d8c8",
+      "likes": "1",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "学长~我想请问一下CS6534: GUIDED STUDY这门课需要去学校定期汇报嘛？",
+      "sourceRef": "comment:6896042b000000002a014519",
+      "commentId": "6896042b000000002a014519",
+      "likes": "0",
+      "author": "鹅不溜秋"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我没选过，不太清楚[捂脸R]",
+      "sourceRef": "comment:689622f4000000002b00790f",
+      "commentId": "689622f4000000002b00790f",
+      "likes": "1",
+      "author": "Restraint丶"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[飞吻R]",
+      "sourceRef": "comment:6834f637000000000a036206",
+      "commentId": "6834f637000000000a036206",
+      "likes": "0",
+      "author": "Restraint丶"
+    }
+  ]
+}

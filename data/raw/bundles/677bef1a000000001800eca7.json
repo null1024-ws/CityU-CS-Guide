@@ -1,0 +1,85 @@
+{
+  "note_id": "677bef1a000000001800eca7",
+  "url": "https://www.xiaohongshu.com/explore/677bef1a000000001800eca7?xsec_token=AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs=",
+  "fetched_at": 1784874172.6399543,
+  "course_codes": [
+    "CS5222",
+    "CS6382"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs sem a 期末成绩评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "cityu cs sem a 成绩，这几门课的感受如下：\ncs5222:作业占比30%，做起来难度中等，3个assignment➕两个额外的作业，不会太多。final占比70%，开卷，基本上都是tutorial的题目变形（考前也说明了这一点），题量较大，需要对概念真正掌握，但是考的概念不多，基本上每章都只考那些重点，不会太难到做不了。老师讲课也挺好的，基本上跟着ppt走不会上课有大问题，就算没听懂自己学也能理解。\ncs6382:难度较高，有期中quiz，final是开卷。推荐对算法和博弈论有一定基础的朋友学。3个assignment难度逐渐增加，题量很小但是有一定难度。期中quiz很难，只考了算法部分，但是最后quiz均分不到50。final的话老师有手下留情，3道计算题很简单，类似于送分，一道证明题可以尝试写一到两问，最后一道题地狱难度。平常上课老师很喜欢互动以及提问（不会点人），推荐提前预习一下更容易跟上老师的思路。如果你没有什么这方面的基础建议不要自找苦吃。\n剩下的课都是通过型考试，按照要求进行都不会有大问题。\n#cityu[话题]# #期末成绩[话题]# #cityucs[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问这是本科的课程吗？",
+      "sourceRef": "comment:677c062e000000002101c963",
+      "commentId": "677c062e000000002101c963",
+      "likes": "0",
+      "author": "黑开水"
+    },
+    {
+      "type": "comment",
+      "text": "5489怎么样，强度大吗[笑哭R]",
+      "sourceRef": "comment:677eadc2000000001a03a4d7",
+      "commentId": "677eadc2000000001a03a4d7",
+      "likes": "0",
+      "author": "临时抱佛脚"
+    },
+    {
+      "type": "sub_comment",
+      "text": "据称事情很多",
+      "sourceRef": "comment:67809faf000000001a03a691",
+      "commentId": "67809faf000000001a03a691",
+      "likes": "0",
+      "author": "ken"
+    },
+    {
+      "type": "comment",
+      "text": "请问sg8001是什么课呀，在哪选呢",
+      "sourceRef": "comment:68ac9f3300000000010130b4",
+      "commentId": "68ac9f3300000000010130b4",
+      "likes": "0",
+      "author": "Quess"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个是phd当ta的教学课程，算是强制的，而且似乎要先上了8002才能上这个",
+      "sourceRef": "comment:68ad33ad0000000030022795",
+      "commentId": "68ad33ad0000000030022795",
+      "likes": "1",
+      "author": "ken"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS6382难吗，博弈论没有了解，本科学过一点点算法[皱眉R]想尝试一下但是怕挂科",
+      "sourceRef": "comment:68ac9bbc000000002601b993",
+      "commentId": "68ac9bbc000000002601b993",
+      "likes": "0",
+      "author": "好热好热"
+    },
+    {
+      "type": "sub_comment",
+      "text": "课难，作业难度递进，考试也难，不过老师给分很不错",
+      "sourceRef": "comment:68ad338d0000000030021d6c",
+      "commentId": "68ad338d0000000030021d6c",
+      "likes": "2",
+      "author": "ken"
+    },
+    {
+      "type": "comment",
+      "text": "太强了😭",
+      "sourceRef": "comment:677c86bb000000002103e761",
+      "commentId": "677c86bb000000002103e761",
+      "likes": "1",
+      "author": "Isabella"
+    }
+  ]
+}
