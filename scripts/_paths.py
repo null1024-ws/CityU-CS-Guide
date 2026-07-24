@@ -18,6 +18,8 @@ RAW_BUNDLES = RAW_DIR / "bundles"
 RAW_INDEX = RAW_DIR / "index.json"
 SITE_DIST = ROOT / "site" / "dist"
 
+SITE_REPO = "https://github.com/null1024-ws/CityU-CS-Guide"
+
 COURSE_CODE_RE = r"(?<![A-Za-z0-9])(CS\d{4}|EC5001)(?![A-Za-z0-9])"
 CATALOGUE_YEAR = "202627"
 CATALOGUE_BASE = f"https://www.cityu.edu.hk/catalogue/pg/{CATALOGUE_YEAR}/course"

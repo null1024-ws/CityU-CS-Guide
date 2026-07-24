@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from _paths import COURSES_JSON, REVIEWS_DIR, SITE_DIST, MSC_CURRICULUM_URL, catalogue_url, ensure_dirs, load_courses  # noqa: E402
+from _paths import COURSES_JSON, REVIEWS_DIR, SITE_DIST, MSC_CURRICULUM_URL, SITE_REPO, catalogue_url, ensure_dirs, load_courses  # noqa: E402
 from review_extract import FIELD_LABELS, clean_excerpt  # noqa: E402
 
 BASE_PATH = "/CityU-CS-Guide"
@@ -44,6 +44,9 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .site-nav{font-family:var(--latin-ui);font-size:13px;color:var(--stone);display:flex;gap:14px;align-items:center}
 .site-nav a{color:var(--stone)}.site-nav a:hover,.site-nav a[aria-current="page"]{color:var(--brand)}
 .site-nav a[aria-current="page"]{font-weight:500}
+.github-star{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;border:1px solid var(--border);background:var(--ivory);color:var(--brand);font-family:var(--latin-ui);font-size:12px;font-weight:500;border-radius:999px;white-space:nowrap;line-height:1}
+.github-star:hover{border-color:var(--brand);background:var(--brand-tint);color:var(--brand)}
+.github-star svg{width:14px;height:14px;fill:currentColor;flex-shrink:0}
 .back-link{font-family:var(--latin-ui);font-size:14px;margin:0 0 22px}
 .back-link a{color:var(--stone)}.back-link a:hover{color:var(--brand)}
 .ext-link{font-family:var(--latin-ui);font-size:12px;margin-left:6px;color:var(--stone)}
@@ -203,6 +206,13 @@ def head(title: str, desc: str) -> str:
 </head>"""
 
 
+STAR_SVG = (
+    '<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">'
+    '<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.045 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.767 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>'
+    "</svg>"
+)
+
+
 def site_header(active: str = "") -> str:
     links = [
         ("index.html", "课程列表"),
@@ -212,10 +222,14 @@ def site_header(active: str = "") -> str:
         f'<a href="{link(href)}"{" aria-current=\"page\"" if name == active else ""}>{name}</a>'
         for href, name in links
     )
+    star = (
+        f'<a class="github-star" href="{esc(SITE_REPO)}" target="_blank" rel="noopener" '
+        f'aria-label="在 GitHub 上 Star 本项目">{STAR_SVG}Star</a>'
+    )
     return (
         f'<div class="site-top">'
         f'<div class="eyebrow">CityU MSc CS · 选课参考</div>'
-        f'<nav class="site-nav">{nav}</nav>'
+        f'<nav class="site-nav">{nav}{star}</nav>'
         f"</div>"
     )
 
