@@ -1,0 +1,58 @@
+{
+  "note_id": "66e9b4f5000000002603f015",
+  "url": "https://www.xiaohongshu.com/explore/66e9b4f5000000002603f015?xsec_token=ABeTqawGwxnpNCymVOcGt0Q6E6fC5R7DNzKAULMY07rYQ=",
+  "fetched_at": 1784951572.8469536,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "uiuc学cs的建议——选课II",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "针对MCS，这里假定你有一些 CS 基础，并且目标找 SWE 相关的岗位，这里只列出本人上过感觉不错的400 Level的课，建议每学期上一门500 level的课。\n\t\n总共修够32学分，其中四个不同类别的400 Level的课，12学分500 Level的课，以及一个Additional Course. 通常第一第二学期12学分，最后一学期 underload 8学分。\n\t\n秋季：CS 425, CS 409, CS 598\n从零搭建一个分布式系统，从简单的 log grep 开始步步递进直到分布式文件系统，最终搭建一个工业级分布式系统，每个MP都基于上一个， workload 相当大，但能从中学到超多东西。\n从最基本的前端三件套到全栈 MERN:MongoDB, Express, React, Nodejs), 快速掌握全栈开发。\nps：虽然gpt时代不推荐学前端，但作为一个 CS 科班学生，多少得懂点，但全栈一定不能是你的核心技能。你的核心技能可以是：机器学习，系统 infra，操作系统等等。\n\t\n春季：CS 473, CS 483, CS 500-\n了解高级算法，探寻FFT如何用convolution 达到nlogn复杂度解决三数之和，窥探图论、随机算法、线性规划的应用，以及面对NP解决不了的问题该怎么办——Approximation。\n并行编程，初始英伟达的 CUDA GPU，探寻AI驱动引擎的魅力，全新的思考方式，各种优化方法。如何map，什么时候用share memory，怎么减少control divergence, 以及对warp里的线程手拿把掐。\n\t\n暑假：实习，希冀 return\n\t\n秋季：IE 421, CS 413, CS 500- (或coop)\n初探高频交易 HFT，了解金融基本知识，如何量化对冲，以及如何使用算法、模型、FPGA，托管服务、低延迟快速赚钱。以及一个semester-long project，含金量很高，顺便考个BMC (Bloomberg Market Concept) 证书。\n排列组合，极大提升思维，涂色问题、七桥问题、四色问题、鸽巢原理、经典数论。如果你想做quant，那么这门课帮助很大，虽然有点偏理论证明…\n\t\n#uiuc[话题]# #留学生[话题]# #呼里呼啦的日常[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问，有的课是3学分，有的是4学分。课程名都一样，有什么区别呢？[害羞R]",
+      "sourceRef": "comment:68426a0d0000000009038ccb",
+      "commentId": "68426a0d0000000009038ccb",
+      "likes": 0,
+      "author": "=_="
+    },
+    {
+      "type": "sub_comment",
+      "text": "根據你是本科生還是研究生決定學分 研究生都算4",
+      "sourceRef": "comment:68540d9d0000000020027567",
+      "commentId": "68540d9d0000000020027567",
+      "likes": 1,
+      "author": "SixerFarmer"
+    },
+    {
+      "type": "comment",
+      "text": "怎么联系。",
+      "sourceRef": "comment:68410570000000001e01bcf0",
+      "commentId": "68410570000000001e01bcf0",
+      "likes": 0,
+      "author": "旅居美学"
+    },
+    {
+      "type": "comment",
+      "text": "orcs是什么专业？",
+      "sourceRef": "comment:66eadd9c000000000f005a97",
+      "commentId": "66eadd9c000000000f005a97",
+      "likes": 0,
+      "author": "房房"
+    },
+    {
+      "type": "comment",
+      "text": "我滴个天都是大难课 @PROCLIVITAS @尼古拉斯·曲奇",
+      "sourceRef": "comment:67a11a60000000000b039db4",
+      "commentId": "67a11a60000000000b039db4",
+      "likes": 2,
+      "author": "我不是宝宝你才是"
+    }
+  ]
+}

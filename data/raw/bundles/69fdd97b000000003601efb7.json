@@ -1,0 +1,178 @@
+{
+  "note_id": "69fdd97b000000003601efb7",
+  "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+  "fetched_at": 1784874052.899424,
+  "course_codes": [
+    "CS5182",
+    "CS5187",
+    "CS5188",
+    "CS5285",
+    "CS5483",
+    "CS6290",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "为什么不推荐你速通港城cs硕（附选课攻略）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "刚刚考完最后一门出来吃饭，想想这一路被xhs攻略坑蒙拐骗的一年决定还是写写。如果你已经拿了offer并且和我一样，是一个考试无能党，project扛把子，本科偏ai背景，数学无能背书无能的话，非常欢迎看完全篇参考；如果你是想作为报考参考可以看part1我的总结和P2；如果你想看标题的答案可以直接拖到最后～那么我们就开始吧！\n1️⃣是否后悔来cityu cs？\n不后悔。这是一个可以兼顾实习、学历、香港生活和性价比为一体的选择。\n2️⃣课程介绍\n如果你已经决定要来，接下来的选课指导或许对你有帮助：\nSemA：\n必修课就没啥选课指导了，唯一的忠告就是能免修软工就免修\n选修：\nCS5187 vision and image 必选！事少简单开卷考\nCS5285 Information Security for e-commerce 无密码学基础的慎选，不怕学不懂的话硬着头皮冲可以期末给分高\nCS65XX Guided study 有科研背景/爱做project必选且推荐第一学期选，否则慎选，不然可能会面临0指导0资源做项目。且拿A非常难\nSemB：\nCS5182 Computer Graphic 必选！事少考试、project都简单\nCS5188 VR 慎选！被CG和VR一起选可以省事儿的xhs坑害了。这门课学的东西完全不是让你去解决问题的，单纯背书背单词。\nCS5483 Data Warehousing and Data Mining 可选。学的内容非常基础，平时workload高（但占比小），但考试只要复习了问题不太大，项目的自由度很高。\nCS6290 Privacy-enhancing Technology 必选！日常任务完全拥抱ai，且平时分占比高。期末考开卷且基本抄了就能会，项目自由度很高\nCS6493 NLP 必选！基本有ai背景的就是学一学理论。\n3️⃣我为什么不推荐你一年速通？\n不能充分利用所有的成果。对于一个不爱考试的人来说，没有办法用实习、project来抵学分实在是太难受了（这两个都要求summer term也就是10月毕业），让我第二学期必须选五门课workload 拉满。因此如果第一年春秋招没有结果的朋友千万不要担心，留一门课到summer term可以多参加一次喔\n#cityu[话题]# #cityucs[话题]# #港硕申请[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "嘿嘿如果有py想短租两个月的话可以看看我毕业转租好房 [派对R]香港九龙2b1b找舍友啦",
+      "sourceRef": "comment:69fdf16a000000002803e1d6",
+      "commentId": "69fdf16a000000002803e1d6",
+      "likes": 0,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐请问软工免修了要补其他的课程吗？有没有推荐的[doge]",
+      "sourceRef": "comment:69fdfe4f000000002803ffa8",
+      "commentId": "69fdfe4f000000002803ffa8",
+      "likes": 0,
+      "author": "想要躺在沙发数钱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "如果是本科课程来抵的话就要补哦，我是拿密码学补的，可以看我的正文里的评价",
+      "sourceRef": "comment:69fdfe9500000000280397bd",
+      "commentId": "69fdfe9500000000280397bd",
+      "likes": 2,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "可以问一下：选10月毕业的话，是可以参加当年的秋招和下一年的春招是不。但如果选择两年，6学分的实习，是6月毕业的话，可以参加那一年的秋招吗？（9，10月）",
+      "sourceRef": "comment:6a042bef0000000029012096",
+      "commentId": "6a042bef0000000029012096",
+      "likes": 0,
+      "author": "假的吧 AI"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不同公司对于每一年春秋招的毕业要求是不一样的，因此最重要的是要确认各家公司的情况。以入学年为基准A，一般情况下可以参加A年即入学当年秋招，若当年秋招不理想，可以选择十月毕业，即可参加A+1年秋招。毕业年份是你修完所有课程拿到毕业证的时间，拿着这个时间去对应各家公司的春秋招时间即可",
+      "sourceRef": "comment:6a042edf0000000028035954",
+      "commentId": "6a042edf0000000028035954",
+      "likes": 0,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "所以是选了两年毕业吗[皱眉R]",
+      "sourceRef": "comment:69fdddc6000000002803cb02",
+      "commentId": "69fdddc6000000002803cb02",
+      "likes": 1,
+      "author": "小邓"
+    },
+    {
+      "type": "sub_comment",
+      "text": "两个学期速通啦～感觉其实没必要所以推荐大家可以多读一个夏季学期～",
+      "sourceRef": "comment:69fdde2d0000000029011263",
+      "commentId": "69fdde2d0000000029011263",
+      "likes": 1,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "请问如果想实习是不是住深圳会更好[皱眉R]",
+      "sourceRef": "comment:69fdee6c000000002a02fec9",
+      "commentId": "69fdee6c000000002a02fec9",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "软工怎么免修[doge]",
+      "sourceRef": "comment:69fde6db000000002b024974",
+      "commentId": "69fde6db000000002b024974",
+      "likes": 1,
+      "author": "chisato"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本科如果有学过，开学之前到开学前一两周有邮件提醒你怎么申请～记得保留本科成果喔",
+      "sourceRef": "comment:69fde77b0000000028037699",
+      "commentId": "69fde77b0000000028037699",
+      "likes": 1,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "[笑哭R]可惜今年cityucs学费好像涨了",
+      "sourceRef": "comment:69fddd7c000000002b028a6e",
+      "commentId": "69fddd7c000000002b028a6e",
+      "likes": 0,
+      "author": "洛棠羽"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[捂脸R]",
+      "sourceRef": "comment:69fdde78000000002901229d",
+      "commentId": "69fdde78000000002901229d",
+      "likes": 0,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "好实在的干货",
+      "sourceRef": "comment:69fddf3e0000000028034776",
+      "commentId": "69fddf3e0000000028034776",
+      "likes": 1,
+      "author": "_KELLY_FENG_"
+    },
+    {
+      "type": "comment",
+      "text": "学姐，想问一下写代码一般是用python嘛",
+      "sourceRef": "comment:6a49f912000000000501582e",
+      "commentId": "6a49f912000000000501582e",
+      "likes": 0,
+      "author": "弗恩fern_"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢学姐分享[飞吻R]",
+      "sourceRef": "comment:69fe27780000000028037824",
+      "commentId": "69fe27780000000028037824",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "我也是。。被vr坑惨了，到底是谁说的cg和vr复习有重合。。",
+      "sourceRef": "comment:69fde455000000002a033e93",
+      "commentId": "69fde455000000002a033e93",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "semB其实有一个所有人都推荐的课：AI。但本人因为吃完饭忘了时间晚了10min所以没抢到",
+      "sourceRef": "comment:69fe10550000000029013175",
+      "commentId": "69fe10550000000029013175",
+      "likes": 0,
+      "author": "JHQY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐好[皱眉R]，CITYU CS这边是可以选两年毕业第二年刷一年实习或者去组里项目么，我看到CS网站那里写了有这个，这样的话感觉时间充裕很多，有什么条件么[哭惹R]",
+      "sourceRef": "comment:69fddfcf000000002b001944",
+      "commentId": "69fddfcf000000002b001944",
+      "likes": 1,
+      "author": "末梦.Fineam"
+    },
+    {
+      "type": "sub_comment",
+      "text": "具体条件我没有了解，但学校会在选择选修实习学分的时候发邮件说明，有意向可以在第二学期中留意或者在开学的时候询问喔～",
+      "sourceRef": "comment:69fde0b9000000002803981f",
+      "commentId": "69fde0b9000000002803981f",
+      "likes": 0,
+      "author": "JHQY"
+    }
+  ]
+}

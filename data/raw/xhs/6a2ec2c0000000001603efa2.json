@@ -1,0 +1,377 @@
+{
+  "note_id": "6a2ec2c0000000001603efa2",
+  "url": "https://www.xiaohongshu.com/explore/6a2ec2c0000000001603efa2?xsec_token=ABF4ddhMMoFiQCaumAp-1ZxW66kzIMSo4Hw2UfqiT_hEs=",
+  "fetched_at": 1784951397.8238904,
+  "note": {
+    "xsecToken": "ABF4ddhMMoFiQCaumAp-1ZxW66kzIMSo4Hw2UfqiT_hEs=",
+    "tagList": [],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a2ec2c0000000001603efa2",
+    "type": "normal",
+    "user": {
+      "nickname": "jiayou",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6467ae3567e3e0300d0ae6b6.jpg",
+      "xsecToken": "AB-0I9N4kxSVcf_7ItzfqZlfvTrwwncy9gWCPifRUJKY8=",
+      "userId": "603a42df0000000001001f39"
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "14",
+      "commentCount": "20",
+      "shareCount": "4",
+      "followed": false,
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "2",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251150/e3c6bca7f11a530928720cae098303fd/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo",
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251150/52e1cb4f2a61ec7ac4195f06fc96613e/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251150/e3c6bca7f11a530928720cae098303fd/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251150/52e1cb4f2a61ec7ac4195f06fc96613e/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "time": 1781449408000,
+    "lastUpdateTime": 1781449409000,
+    "title": "捞港城26fallcs专业",
+    "desc": ""
+  },
+  "comments": [
+    {
+      "noteId": "6a2ec2c0000000001603efa2",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6446a9b5000000001f030da0",
+        "nickname": "MM",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nbim9e66q6g5p26l6qnu3d0cg5ui38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkYQDs93q-C6EAJvLbC3pnJ0zsB2DDk_Hs9pBy1n9PnY="
+      },
+      "showTags": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a316a10000000002a005d81",
+      "content": "哇，同CS[飞吻R]",
+      "atUsers": [],
+      "createTime": 1781623312000,
+      "ipLocation": "山西",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "mememe",
+      "userInfo": {
+        "userId": "5cc14f3a0000000016037cb7",
+        "nickname": "蘑菇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dahtftv0u6g5n619st5mv5n5tn2160?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxAsCsGsl1VVoNu7FWYWlLkiHYfHZVOkmJW_RVtnPQ20="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "noteId": "6a2ec2c0000000001603efa2",
+      "invalid": false,
+      "status": 0,
+      "createTime": 1782470681000,
+      "ipLocation": "四川",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "6a3e5818000000002a025014",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "id": "6a2f6f8f000000002902ce0b",
+      "noteId": "6a2ec2c0000000001603efa2",
+      "likeCount": "0",
+      "ipLocation": "四川",
+      "subCommentCount": "0",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABlmB2Yx5ZtNcJUUQMoacMAa7BaglBWJVD_t9durhVJFY=",
+        "userId": "62892f310000000021022e4e",
+        "nickname": "1tsDon",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u0ueap4mu005ok95soocbie2tna68g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1781493647000,
+      "invalid": false,
+      "status": 0,
+      "content": "有没有ai4s的",
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a35d9600000000009016ae2",
+      "ipLocation": "四川",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "content": "Ai",
+      "userInfo": {
+        "userId": "68396f76000000001b01a774",
+        "nickname": "小红薯683A4AD8",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPtUH6NUprs8d5xJk3L2leq84PaV1dVznBiAbPyFPXG4="
+      },
+      "showTags": [],
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1781913953000,
+      "subComments": [],
+      "noteId": "6a2ec2c0000000001603efa2",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "createTime": 1782553376000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a3f9b2000000000150122e9",
+      "content": "同cs，求拉[派对R]",
+      "liked": false,
+      "ipLocation": "安徽",
+      "noteId": "6a2ec2c0000000001603efa2",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB6Mu3lGvyG94StIv2h95RtzBB6Dknhhr1N-AtLXLzvbM=",
+        "userId": "66d194ef000000001d023169",
+        "nickname": "lulu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321r5g8g8nu605pmhijnnccb9q2ai2h8?imageView2/2/w/120/format/jpg"
+      },
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "nickname": "Jiu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rm5vfg62a6g5q9os8vtotfvj5kcfv0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLiWDjIOZAnOdG5Fx6qUnK-N7zvbnND1AlVM03QM8EtY=",
+        "userId": "6938e23f00000000370075ff"
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a3e44660000000014038af5",
+      "noteId": "6a2ec2c0000000001603efa2",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1782465639000,
+      "ipLocation": "河南",
+      "subCommentCursor": "",
+      "status": 0,
+      "subComments": [],
+      "invalid": false,
+      "content": "同cs",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABVSmiJp47PmhJ9Ioo0jXo1rkMTIu9P_5oStvw_oq8sog=",
+        "userId": "66a33037000000001d0215ae",
+        "nickname": "念循",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p6le1heig6g5pl360rnc5deab8imeg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "noteId": "6a2ec2c0000000001603efa2",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "id": "6a2fcfbf0000000029011348",
+      "content": "同cs",
+      "createTime": 1781518272000,
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABw-_C9cN5X2S4RkraWKMFQnSMvOSmb7TfVgVPzkK_y10=",
+        "userId": "61bb04ba000000002102a94e",
+        "nickname": "一般路过宏伟水渠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311nfs7sjn0505odr0it8daaesmqr3ko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1782280673000,
+      "noteId": "6a2ec2c0000000001603efa2",
+      "content": "cs+1",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "贵州",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "6a3b71e10000000005009749",
+      "status": 0,
+      "atUsers": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "liked": false,
+      "ipLocation": "天津",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "content": "同cs",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "userInfo": {
+        "xsecToken": "ABa9xh8-gVBxDk3bZbO_01_GJ3x8JVxpzgbfaYzRezVmM=",
+        "userId": "6784aaf20000000008019bf1",
+        "nickname": "小红薯6784DAB5",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1784125868000,
+      "subComments": [],
+      "invalid": false,
+      "id": "6a5799ab00000000150158f5",
+      "noteId": "6a2ec2c0000000001603efa2",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "6a3b3882000000000b03b647",
+      "status": 0,
+      "content": "专业群求拉",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "643f7ec5000000000f0049df",
+        "nickname": "山雀dp5",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhR-N5yj7KO6ry0ZZnnLbR2t49s5OK4oTLkUtVOt5iGs="
+      },
+      "createTime": 1782265986000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "showTags": [],
+      "noteId": "6a2ec2c0000000001603efa2",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "四川",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 城大CS",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "捞港城26fallcs专业",
+      "user": {
+        "nickname": "jiayou",
+        "xsecToken": "ABBqFanQZF5iJTtefm6u3mUAfQjQDkWZ2u-_WagwuQUu4=",
+        "nickName": "jiayou",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6467ae3567e3e0300d0ae6b6.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "603a42df0000000001001f39"
+      },
+      "interactInfo": {
+        "collectedCount": "2",
+        "commentCount": "20",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "14",
+        "collected": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251149/f1532190b006537609b21d89a7c755e1/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251149/e85c5823d3c8df615f959c83c9848913/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251149/f1532190b006537609b21d89a7c755e1/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251149/e85c5823d3c8df615f959c83c9848913/notes_pre_post/1040g3k0321db4ihn7k005o1q8bfg87pp16mnvfo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-14"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABF4ddhMMoFiQCaumAp-1ZxW66kzIMSo4Hw2UfqiT_hEs=",
+    "id": "6a2ec2c0000000001603efa2",
+    "index": 4,
+    "exposed": true,
+    "trackId": "6a2ec2c0000000001603efa2"
+  }
+}

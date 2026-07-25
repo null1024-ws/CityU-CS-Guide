@@ -1,0 +1,250 @@
+{
+  "note_id": "695c948d000000002102ad0b",
+  "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+  "fetched_at": 1784873948.4171093,
+  "note": {
+    "current_time": 1784873949427,
+    "cursor_score": "",
+    "items": [
+      {
+        "note_card": {
+          "type": "normal",
+          "title": "CityU CS Master SemA",
+          "desc": "等了这么久终于出成绩了，水货五个B满足了。\n课程总结与推荐（所有课无考勤）\n[星R]CS5187 视觉与图像（选修）\n[红色心形R]无quiz，两个作业（给分很高），一个个人项目（给分中等），无期中，全开卷期末。\n[红色心形R]无脑选就完了，包过的，就算一节课不来也行。最后一次课有复习PPT，这节课得来，基本上总结了一大部分的重点，按照复习PPT对照往次课的PPT去复习就行了。\n[星R]CS5222 计算机网络（必修）\n[红色心形R]无quiz，三个作业，一个wireshark，一个类似调研的报告，（五个作业给分都很高），无期中，全开卷期末。\n[红色心形R]只要本科学过计网，基本就问题不大，和本科讲的都没啥差别，就是期末占比太高了70%。期末要把作业和tutorial的题搞明白就行，比如迪杰斯特拉算法，各种延迟计算等等。\n[星R] CS5351 软件工程（必修）\n[红色心形R]两个quiz（个人感觉难），无作业，一个小组大项目，一个类似文章鉴赏的调研，无期中，三张A4的半开卷期末。\n[红色心形R]这学期上过最恶心的课，没有之一。本科学过软工，非常后悔没有免修这门课。老师的口音奇奇怪怪，完全听不懂，用了翻译软件也有时候翻译不明白。背的东西很多，虽然quiz和期末都是开卷，但是要是不太了解知识根本找不到地方。项目跟了个大佬，所以还算轻松，最后需要做线上pre和项目展示，可以一个人也可以全体讲，大佬一个人包揽了，轻松很多。建议能免修就免，去选别的课吧。\n[星R] CS5481数据工程（必修）\n[红色心形R]无quiz，两个作业（给分很高），一个小组大项目，无期中，闭卷期末。\n[红色心形R]这学期老师中最喜欢的一个，口音很清晰，语速也缓慢，讲课内容听的很明白，基本不用靠翻译软件。项目跟了软工的大佬，属于又是被带飞了，最后需要全体做线下pre。期末全是大题，重点复习sql、b+树、正则表达式（这三个必考）。\n[星R]CS5488 大数据算法与技术（选修）\n[红色心形R]无quiz，七个作业（平均1-2周就有一个），一个小组大项目，无期中，闭卷期末。\n[红色心形R]选课前就在纠结要不要选这个，小红书比较劝退，但是个人比较想学一些大数据的知识，所以还是选了。作业太多了，虽然很简单而且也都能拿满分，但是也很耗精力。项目中规中矩，可以自己选题，也可以用老师提供的题目，注意一定要用并行计算，数据量也尽量多找。期末全闭卷，记忆内容很多，复习比较痛苦，比如写出5V是什么；除了时间序列和聚类还有什么算法运用了并行计算；sql和nosql的区别\n#香港城市大学[话题]#",
+          "user": {
+            "xsec_token": "ABlT1oOWNLJ9A2yFr5Ht0nVFb7YaAJCYCBqp2DOfb6TfE=",
+            "user_id": "608baa0f0000000001003b11",
+            "nickname": "Mr.J",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ekst03nedg5o4bl87g8eohql6l0ig"
+          },
+          "interact_info": {
+            "liked_count": "31",
+            "collected_count": "22",
+            "comment_count": "5",
+            "share_count": "2",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "followed": false
+          },
+          "image_list": [
+            {
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241419/64b23c7bfcf58481f48f3dcfe961b9cb/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241419/c9e2a6e970bc48944729b3ca017647cc/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241419/64b23c7bfcf58481f48f3dcfe961b9cb/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241419/c9e2a6e970bc48944729b3ca017647cc/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nd_dft_wgth_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg",
+              "width": 1209,
+              "url": "",
+              "height": 345
+            }
+          ],
+          "tag_list": [
+            {
+              "type": "topic",
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学"
+            }
+          ],
+          "note_id": "695c948d000000002102ad0b",
+          "at_user_list": [],
+          "time": 1767675021000,
+          "last_update_time": 1767675022000,
+          "share_info": {
+            "un_share": false
+          }
+        },
+        "ignore": false,
+        "id": "695c948d000000002102ad0b",
+        "model_type": "note"
+      }
+    ]
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "695c948d000000002102ad0b",
+        "user_info": {
+          "user_id": "628e1b12000000002102b497",
+          "nickname": "小红薯_&",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rg36muf7o5g5oke3c98dd4ndujd8b8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABSmM8mu5goLEU8d8f52dfSvImse7CIlh0DaIVE2O1-V8="
+        },
+        "show_tags": [],
+        "create_time": 1768055739000,
+        "sub_comments": [
+          {
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "696263ba000000001600eddd",
+              "user_info": {
+                "nickname": "小红薯_&",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rg36muf7o5g5oke3c98dd4ndujd8b8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABSmM8mu5goLEU8d8f52dfSvImse7CIlh0DaIVE2O1-V8=",
+                "user_id": "628e1b12000000002102b497"
+              }
+            },
+            "invalid": false,
+            "id": "6962f1c9000000001600cb85",
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "xsec_token": "ABRhKnlCn37DbnxQqu5IQfKS8mhh6NOLZtE6Aasj5p8o0=",
+              "user_id": "608baa0f0000000001003b11",
+              "nickname": "Mr.J",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ekst03nedg5o4bl87g8eohql6l0ig?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "note_id": "695c948d000000002102ad0b",
+            "status": 0,
+            "content": "[笑哭R][笑哭R]哈哈，老兄还没回呢",
+            "at_users": [],
+            "create_time": 1768092105000
+          }
+        ],
+        "sub_comment_cursor": "6962f1c9000000001600cb85",
+        "id": "696263ba000000001600eddd",
+        "status": 0,
+        "content": "我和你每个科目分数完全一样[笑哭R]就比你少选了最后一门。考试时答的感觉都不错，平时分也比平均高",
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_count": "2",
+        "ip_location": "北京",
+        "invalid": false,
+        "liked": false,
+        "sub_comment_has_more": true
+      },
+      {
+        "status": 0,
+        "ip_location": "吉林",
+        "sub_comment_cursor": "695c9ba0000000001602386a",
+        "sub_comment_count": "1",
+        "id": "695c9a82000000001601c1b7",
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5fab95720000000001002d12",
+          "nickname": "逸轩",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t41q0mr5s005ntbilp08b8igh2rj38?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABveOkktmxZrZ0KPCgGCowSd05tLdO0e-sOexT5IRoPBg="
+        },
+        "show_tags": [],
+        "invalid": false,
+        "sub_comment_has_more": false,
+        "create_time": 1767676547000,
+        "sub_comments": [
+          {
+            "user_info": {
+              "nickname": "Mr.J",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ekst03nedg5o4bl87g8eohql6l0ig?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABRhKnlCn37DbnxQqu5IQfKS8mhh6NOLZtE6Aasj5p8o0=",
+              "user_id": "608baa0f0000000001003b11"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1767676832000,
+            "ip_location": "吉林",
+            "invalid": false,
+            "note_id": "695c948d000000002102ad0b",
+            "status": 0,
+            "liked": false,
+            "like_count": "0",
+            "target_comment": {
+              "id": "695c9a82000000001601c1b7",
+              "user_info": {
+                "user_id": "5fab95720000000001002d12",
+                "nickname": "逸轩",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t41q0mr5s005ntbilp08b8igh2rj38?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABveOkktmxZrZ0KPCgGCowSd05tLdO0e-sOexT5IRoPBg="
+              }
+            },
+            "id": "695c9ba0000000001602386a",
+            "content": "[斜眼R]",
+            "at_users": []
+          }
+        ],
+        "note_id": "695c948d000000002102ad0b",
+        "content": "我也是4B（大概率5B还有一门没出）选手[doge]",
+        "liked": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 2,
+    "pages_fetched": 1
+  },
+  "search_query": "城市大学 计算机硕士 选课攻略",
+  "search_item": {
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "display_title": "CityU CS Master SemA",
+      "user": {
+        "nick_name": "Mr.J",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ekst03nedg5o4bl87g8eohql6l0ig?imageView2/2/w/80/format/jpg",
+        "user_id": "608baa0f0000000001003b11",
+        "nickname": "Mr.J",
+        "xsec_token": "ABHxPllO6U_LBUX-A8pbi_OFCkSTNAjTeME-mp-fg5iKA="
+      },
+      "interact_info": {
+        "collected": false,
+        "collected_count": "22",
+        "comment_count": "5",
+        "shared_count": "2",
+        "liked": false,
+        "liked_count": "31"
+      },
+      "cover": {
+        "height": 345,
+        "width": 1209,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241418/deabee3f6cdedb05f463f3fb31a89253/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241418/c52220511aefad721e5c33516a970f44/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 345,
+          "width": 1209,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/deabee3f6cdedb05f463f3fb31a89253/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/c52220511aefad721e5c33516a970f44/notes_pre_post/1040g3k831r03bapono005o4bl87g8eoh7km1bjg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "01-06",
+          "type": "publish_time"
+        }
+      ]
+    },
+    "xsec_token": "ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
+    "id": "695c948d000000002102ad0b"
+  }
+}

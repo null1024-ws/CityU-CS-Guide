@@ -1,0 +1,75 @@
+{
+  "note_id": "6a338e530000000008027ef1",
+  "url": "https://www.xiaohongshu.com/explore/6a338e530000000008027ef1?xsec_token=ABHkX21GM5nvEH6bvfeszyT7D4Rt4Z-DlEPrPQCxNn-68=",
+  "fetched_at": 1784954226.5159924,
+  "search_query": "CS6536 data science guided",
+  "search_item": {
+    "noteCard": {
+      "displayTitle": "UCSD CS75 26Winter 就读体验",
+      "user": {
+        "nickName": "一只小猪",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/80/format/jpg",
+        "userId": "64e01d9f000000000100e89f",
+        "nickname": "一只小猪",
+        "xsecToken": "ABbVrYYG7d-BB1oDXUQz2YA6-P-c8ixOUEj1ZZTTJEt08="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "27",
+        "collected": false,
+        "collectedCount": "24",
+        "commentCount": "5",
+        "sharedCount": "5"
+      },
+      "cover": {
+        "height": 1022,
+        "width": 1362,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251237/9914e507c4970847c7b23a82993ea16b/notes_pre_post/1040g3k0321i0h8mg7u1g5p703mfg9q4v3du9trg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251237/c03639a2af67e6cc72d95b475726bffd/notes_pre_post/1040g3k0321i0h8mg7u1g5p703mfg9q4v3du9trg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1022,
+          "width": 1362,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251237/9914e507c4970847c7b23a82993ea16b/notes_pre_post/1040g3k0321i0h8mg7u1g5p703mfg9q4v3du9trg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251237/c03639a2af67e6cc72d95b475726bffd/notes_pre_post/1040g3k0321i0h8mg7u1g5p703mfg9q4v3du9trg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251237/5e4079b834beea8159f95cfa0b2596ed/note_pre_post_uhdr/1040g3r8321i0k8n47o8g5p703mfg9q4vr1tht10!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251237/a2dc9c0f024bcfbe64b9d2994f30074b/note_pre_post_uhdr/1040g3r8321i0k8n47o8g5p703mfg9q4vr1tht10!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2560,
+          "width": 1920
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-18"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABHkX21GM5nvEH6bvfeszyT7D4Rt4Z-DlEPrPQCxNn-68=",
+    "id": "6a338e530000000008027ef1",
+    "modelType": "note",
+    "index": 2,
+    "exposed": true,
+    "trackId": "6a338e530000000008027ef1"
+  }
+}

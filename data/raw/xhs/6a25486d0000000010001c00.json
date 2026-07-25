@@ -1,0 +1,202 @@
+{
+  "note_id": "6a25486d0000000010001c00",
+  "url": "https://www.xiaohongshu.com/explore/6a25486d0000000010001c00?xsec_token=ABosEDI5vl_5xQP22qvyyuDd9tEmO0VWnC7YRTNFRR5go=",
+  "fetched_at": 1784955850.6180868,
+  "note": {
+    "xsecToken": "ABosEDI5vl_5xQP22qvyyuDd9tEmO0VWnC7YRTNFRR5go=",
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "userId": "62075fa5000000001000ef06",
+      "nickname": "程序dog",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0",
+      "xsecToken": "ABUDnlX2-OwjyhJfWi4sSnDvmA4rXG1kuMCSji7WirqRA="
+    },
+    "tagList": [],
+    "atUserList": [],
+    "noteId": "6a25486d0000000010001c00",
+    "title": "NUS MCOMP 选课Part 4",
+    "desc": "CS5260 (推荐指数：⭐️⭐️)\nProf You Yang 的课，因为之前上了 CS5242 才想着拿看看，结果有点失望。TA 对 Assignments 一点都不上心，问问题经常不回复，或者要等上好几天才有回应。Assignments 里也经常有mistakes, TA应该先检查清楚了才released。不过 Assignments 本身也不是非常难。Final Group Project 可以选择 submit arXiv paper 或者做一个 AI Agent Project，不过 Project 的marking scheme非常抽象。课程内容本身还是不错的，很多前沿和热门的 AI 主题都会 covered 到。\n\t\nCS5425 (推荐指数：⭐️⭐️⭐️⭐️⭐️)\n分成两个部分，由两个老师教(Prof Bingsheng 和\nAi Xin)，两位老师都很好，课程设计得十分用心。有两个 Individual Assignments，老师鼓励我们使用 AI，但会有 Interview 来确保你知道自己在做什么。Final Exam 挺容易的，而且是 Open Book，不过因为有 Bell Curve，想拿 A 还是得卷到接近满分。有人说这门课比较水，但个人觉得还是不错的，要拿A应该也是不容易。",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "18",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "22",
+      "commentCount": "5",
+      "shareCount": "3",
+      "relation": "none",
+      "liked": false
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/ff592619c31c0b401a4973ae806c9391/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/f3aa807c05df6526acd1f2516a0e4c27/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 858,
+        "traceId": "",
+        "fileId": "oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8",
+        "width": 1320,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/ff592619c31c0b401a4973ae806c9391/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/f3aa807c05df6526acd1f2516a0e4c27/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nd_dft_wgth_jpg_3"
+          }
+        ]
+      }
+    ],
+    "time": 1780828269000,
+    "lastUpdateTime": 1780880371000
+  },
+  "comments": [
+    {
+      "id": "6a2592ea000000002803a279",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "山东",
+      "invalid": false,
+      "noteId": "6a25486d0000000010001c00",
+      "createTime": 1780847339000,
+      "subComments": [
+        {
+          "id": "6a2613af000000000d023001",
+          "noteId": "6a25486d0000000010001c00",
+          "status": 0,
+          "content": "CS Spec",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a2592ea000000002803a279",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3203q1rlh2a005p775uf09gjjp0kvf58?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPzLOhsFahQYSGyWZrU9oWYeHDu_wLHJeN1csaYlLtUs=",
+              "userId": "64e72f9e000000000100c273",
+              "nickname": "aurora"
+            }
+          },
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "62075fa5000000001000ef06",
+            "nickname": "程序dog",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABwpfuQxLQqGXmVsJg0n8Q6sqON_WILtTJ8Aus0EP8Lys="
+          },
+          "createTime": 1780880303000,
+          "ipLocation": "新加坡",
+          "invalid": false
+        }
+      ],
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "aurora",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3203q1rlh2a005p775uf09gjjp0kvf58?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPzLOhsFahQYSGyWZrU9oWYeHDu_wLHJeN1csaYlLtUs=",
+        "userId": "64e72f9e000000000100c273"
+      },
+      "showTags": [],
+      "subCommentCursor": "6a2613af000000000d023001",
+      "content": "学长是MCOMP GT方向吗[萌萌哒R]",
+      "liked": false,
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "subComments": [],
+      "noteId": "6a25486d0000000010001c00",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1780832634000,
+      "invalid": false,
+      "id": "6a25597a000000002900c0ad",
+      "ipLocation": "吉林",
+      "subCommentCursor": "",
+      "content": "感谢分享[派对R]",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABXtACd1fRqXOFaEcs44IqN2DQpysnbIP4ze0xaPypRz0=",
+        "userId": "5c4da6a9000000001100fa4d",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320rbs9d462005n2dkqkk9uidg1bv2h8?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 怎么样",
+  "search_item": {
+    "id": "6a25486d0000000010001c00",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "NUS MCOMP 选课Part 4",
+      "user": {
+        "nickname": "程序dog",
+        "xsecToken": "ABgY8QUxdqAdEqfkTsCQ7bzJ-BWARQiS5gDRZjCuJO2yc=",
+        "nickName": "程序dog",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0?imageView2/2/w/80/format/jpg",
+        "userId": "62075fa5000000001000ef06"
+      },
+      "interactInfo": {
+        "collectedCount": "18",
+        "commentCount": "5",
+        "sharedCount": "3",
+        "liked": false,
+        "likedCount": "22",
+        "collected": false
+      },
+      "cover": {
+        "height": 858,
+        "width": 1320,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/4c83c0a6f6d26c1467a4ec4e47828df8/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/52850d2c392ee673466b3ddf893cad21/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/4c83c0a6f6d26c1467a4ec4e47828df8/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/52850d2c392ee673466b3ddf893cad21/oss-sg/notes/1040g3l032141dkf3ni0g5og7buik1ro6peq9cg8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 858,
+          "width": 1320
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-08"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABosEDI5vl_5xQP22qvyyuDd9tEmO0VWnC7YRTNFRR5go=",
+    "index": 4,
+    "exposed": true,
+    "trackId": "6a25486d0000000010001c00"
+  }
+}

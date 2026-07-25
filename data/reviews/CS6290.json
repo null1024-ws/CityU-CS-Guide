@@ -1,0 +1,232 @@
+{
+  "courseCode": "CS6290",
+  "fields": {
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "disputed",
+      "sourceCount": 4,
+      "distinctSources": 4,
+      "note": "来源说法不一：闭卷×2、开卷×2",
+      "variants": {
+        "closed_book": 2,
+        "open_book": 2
+      }
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "disputed",
+      "sourceCount": 3,
+      "distinctSources": 1,
+      "note": "来源说法不一：简单×1、适中×1、较难×1",
+      "variants": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 1
+      }
+    },
+    "hasRecording": {
+      "value": "false",
+      "label": "无回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
+      "value": "strict",
+      "label": "考勤严",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS6290 Privacy-enhancing Technology 必选"
+  ],
+  "sources": [
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "CS6290 Privacy-enhancing Technologies；Lecturer: Yuefeng DU；上课体验；主要聚焦于区块链以及电子货币内容，与之前的安全课关联非常少。老师的英语不难听懂，但课程本身内容很多很多，再加上summer term的时长缩水，上课节奏比较快。Lecture结束之后有Tutorial，形式为老师带着一起做题，题目整体难度比最后的exam大很多，但老师会带着细致解释（不过还是未必能听懂）；作业体验；每三节课一次Reading Assignment，DDL那一天的课上前10分钟会有一个quiz，考察内容并非上课内容，而是阅读的论文内容，整体难度不大但如果没读过就没法做。另外，老师鼓励用AI工具辅助阅读，但要在作业中体现和AI的交互过程；严格禁止在quiz中用AI作弊，老师会认为没有线下参加quiz的人有作弊嫌疑，会要求没有线下参加的人参与补考，因此至少每三周要在课堂上露面一次。无线上课；项目体验；4人小组项目，可选开发或是survey，不过所有人都选了survey。具体是调研区块链领域相关内容，比如电子货币法律监管或者稳定币之类。整体项目压力很小，甚至在展示前一周紧急开始都完全来得及。最后的线下展示环节体验非常好，老师不会挑一点刺，只会友善地夸奖然后给出建议；考试体验；闭卷期末考试，几乎覆盖了所有课程内容，必须要记忆和理解兼备才能游刃有余；St结束也就意味着我的cityu生涯结束了，不过好在勉强拿下了Distinction（虽然没什么用）。接下来要进入紧张刺激的秋招环节了",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价"
+    },
+    {
+      "noteId": "68a5b6d5000000001d00171a",
+      "url": "https://www.xiaohongshu.com/explore/68a5b6d5000000001d00171a?xsec_token=ABLbCQKSaUlLosgQZx1LBINEjZs2hLSND3wwOmdeOnIG8=",
+      "excerpt": "CS6290 Privacy-enhancing Technologies；主要讲区块链（比特币、以太坊）和 DeFi 相关的技术；老师想讲的东西肯定是好东西，但斯密马赛，您的课我是真有点上不明白，PPT 也有点看不懂（虽然每个 lecture 平均下来100多页），可能是我太菜了；Tutorial 上老师会带着大家一起读 paper，每个同学读一句，以此往复，课下提问也会被要求用英语，可能比较想练口语；作业允许使用 AI，quiz（Summer Term 新增）基于作业的阅读材料出题，quiz 当天不去上课有一定风险（第二次 quiz 那天人比较少，老师搞了一次签到，没去的人只能补考了）；project 可以选 survey，没有代码，但选题比较重要；期末题量很大，也有很多不会做的题，但好在考试占比不算很高，不会太影响最后得分",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史6⃣"
+    },
+    {
+      "noteId": "6878c023000000002400e000",
+      "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
+      "excerpt": "CS6290 Privacy-enhancing and Technologies；‍区块链相关技术，适合未来想冲web3行业的同学。建议学习之前提前了解一些基础概念，熟悉专业英文词汇，不然有点像听天书。成绩构成是四次个人作业小组项目（期中要做开题汇报）期末考试。不过听今年summer term的同学反映，为了保证出勤率，增加了课堂quiz。内容对于没有接触过区块链的同学来说会比较生疏，考试难度尚可，熟悉基础概念部分已经不会挂科。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "🇭🇰CityU CS SemB选课"
+    },
+    {
+      "noteId": "6a0be1210000000035024644",
+      "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
+      "excerpt": "CS6290 Privacy-enhancing Technologies；好课。主要探讨区块链技术和原理，平时分是四份阅读报告，四个小测，和一个小组作业。老师对AI非常包容，不要直接把AI输出交上去贴脸开大就行了。小组作业有大神队友带着拿了全班最高分，爽死了。开卷考试只能带两张A4纸，难度低但题量大。遇到有题目一分钟也想不出怎么做就要跳题，千万别犹豫，两小时不断写就完了。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS Sem B课程评价（全A上岸啦）"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS6290 Privacy-enhancing Technology 必选！日常任务完全拥抱ai，且平时分占比高。期末考开卷且基本抄了就能会，项目自由度很高",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "CS6290 Privacy：读了区块链很多论文，Proj也可以论文调研，总体给分不错。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
+    },
+    {
+      "noteId": "692ff3710000000019026fb6",
+      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
+      "excerpt": "CS6290 Privacy-enhancing Technologies",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城市26fall新增网络安全专业"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "其实我现在觉得卷Distinction还不如混一混把时间空出来多敲一个项目呢",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "68a553f00000000026039dbc",
+      "author": "Restraint丶",
+      "likes": 2,
+      "role": "correction"
+    },
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "如果课程要求变化了，还是以新要求为准，我之前的经验仅供参考",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "6a5d789f00000000290182c3",
+      "author": "Restraint丶",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "上一届是SemB结束后选，和别的选课形式上没有区别",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "692b9a2a000000003803e94c",
+      "author": "Restraint丶",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "6888c001000000000500b6a5",
+      "url": "https://www.xiaohongshu.com/explore/6888c001000000000500b6a5?xsec_token=ABk0dyRCfRGayzi-lu8c3CSg6aGJRZFzU0mnQYS0J_dik=",
+      "excerpt": "想问问 cs6290 第一周会有quiz吗",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "香港城市大学 CS6290 隐私强化技术测评",
+      "commentId": "6a1aebd10000000027015089",
+      "author": "momo",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "主包，st能选的课是semB结束才会知道吗",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "6a0bfa88000000002902c20f",
+      "author": "momo",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68c2dbe2000000001d00a87b",
+      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+      "excerpt": "想问问 cs6290 第一周会有quiz吗",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期A & ST 选课",
+      "commentId": "6a1aec0d000000002702b1f7",
+      "author": "momo",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "羡慕distinct，我这种混子只求及格",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "68a54fad000000002603bf9d",
+      "author": "长乐",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68a545a7000000001c030804",
+      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
+      "excerpt": "恭喜恭喜，感谢学长（姐）的分享！帮助很大",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "Cityu Msc CS St 课程评价",
+      "commentId": "68a7c5550000000026039bcd",
+      "author": "offer四面八方来",
+      "likes": 0,
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-25"
+}

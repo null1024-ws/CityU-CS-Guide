@@ -1,0 +1,578 @@
+{
+  "note_id": "68a82b44000000001d03af20",
+  "url": "https://www.xiaohongshu.com/explore/68a82b44000000001d03af20?xsec_token=ABRtY6HCTUCLxRJ5FKemWUKZjNoLpoU_PJVqqkLnCDc7c=",
+  "fetched_at": 1784956415.3558261,
+  "note": {
+    "xsecToken": "ABRtY6HCTUCLxRJ5FKemWUKZjNoLpoU_PJVqqkLnCDc7c=",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "68a82b44000000001d03af20",
+    "type": "video",
+    "title": "城大食堂！30秒找到不绕路💥",
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0",
+        "height": 1011,
+        "width": 758,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251313/46253bcc23119a0038d8130899038a3b/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251313/304468c8b788c0a9021eda01a18de53e/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251313/46253bcc23119a0038d8130899038a3b/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251313/304468c8b788c0a9021eda01a18de53e/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {}
+      }
+    ],
+    "video": {
+      "media": {
+        "videoId": 137544687945559090,
+        "video": {
+          "md5": "53fe21b6b9f2afc8c399822fb704102d",
+          "hdrType": 0,
+          "drmType": 0,
+          "streamTypes": [
+            114,
+            259,
+            115
+          ],
+          "bizName": 110,
+          "bizId": "281659880496410400",
+          "duration": 48
+        },
+        "stream": {
+          "EF7": [],
+          "EF4": [
+            {
+              "audioChannels": 2,
+              "psnr": 0,
+              "format": "mp4",
+              "size": 11599743,
+              "hdrType": 0,
+              "vmaf": -1,
+              "ssim": 0,
+              "weight": 62,
+              "qualityType": "HD",
+              "fps": 30,
+              "videoBitrate": 1903395,
+              "streamType": 259,
+              "streamDesc": "WM_X264_MP4_web",
+              "width": 720,
+              "avgBitrate": 1973542,
+              "audioCodec": "aac",
+              "rotate": 0,
+              "audioBitrate": 64216,
+              "audioDuration": 47020,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4?sign=e30a428e25097008b7491218366b140c&t=6a68e34a",
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4"
+              ],
+              "videoCodec": "EF4",
+              "videoDuration": 47000,
+              "defaultStream": 0,
+              "height": 1280,
+              "duration": 47021,
+              "volume": 0
+            }
+          ],
+          "EF6": [],
+          "EF5": [
+            {
+              "audioBitrate": 128315,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4?sign=9a60e73ae296e85db0f6aff457567af1&t=6a68e34a",
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4"
+              ],
+              "qualityType": "HD",
+              "streamType": 114,
+              "streamDesc": "WEB_114",
+              "defaultStream": 0,
+              "width": 720,
+              "height": 1280,
+              "size": 8178985,
+              "volume": 0,
+              "vmaf": -1,
+              "videoCodec": "EF5",
+              "videoBitrate": 1256928,
+              "audioCodec": "aac",
+              "rotate": 0,
+              "ssim": 0,
+              "fps": 30,
+              "videoDuration": 47000,
+              "format": "mp4",
+              "audioDuration": 47020,
+              "audioChannels": 2,
+              "hdrType": 0,
+              "psnr": 39.26100158691406,
+              "weight": 62,
+              "duration": 47021,
+              "avgBitrate": 1391545
+            },
+            {
+              "audioCodec": "aac",
+              "ssim": 0,
+              "streamDesc": "WEB_115",
+              "width": 1080,
+              "volume": 0,
+              "videoBitrate": 1175980,
+              "audioBitrate": 128315,
+              "rotate": 0,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4"
+              ],
+              "defaultStream": 0,
+              "size": 7703411,
+              "videoDuration": 47000,
+              "audioDuration": 47020,
+              "audioChannels": 2,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4?sign=416e1500fc3a8da4421321504674fbc8&t=6a68e34a",
+              "psnr": 38.51599884033203,
+              "weight": 70,
+              "height": 1920,
+              "videoCodec": "EF5",
+              "hdrType": 0,
+              "vmaf": -1,
+              "qualityType": "HD",
+              "streamType": 115,
+              "format": "mp4",
+              "duration": 47021,
+              "avgBitrate": 1310633,
+              "fps": 30
+            }
+          ]
+        }
+      },
+      "image": {
+        "thumbnailFileid": "frame/110/0/01e8a82a39bcac3400100000000198d0e92b9e_0.webp"
+      },
+      "capa": {
+        "duration": 47
+      },
+      "mediaV2": "{\"video_id\":\"137544687945559092\",\"video\":{\"biz_name\":110,\"biz_id\":\"281659880496410400\",\"duration\":48,\"md5\":\"53fe21b6b9f2afc8c399822fb704102d\",\"hdr_type\":0,\"drm_type\":0,\"stream_types\":[114,259,115],\"width\":1080,\"height\":1920,\"bound\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"bbox\":{\"ocr_v5\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v3\":[{\"x\":82,\"y\":1378,\"w\":907,\"h\":123}],\"ocr_v4\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v2\":[{\"x\":77,\"y\":274,\"w\":920,\"h\":1227}]},\"opaque1\":{\"bottomAvgLuma\":\"145\",\"loudnorm\":\"{\\\"lra\\\":1.2,\\\"htp\\\":-4.22,\\\"hldn\\\":-15.85,\\\"ldn\\\":-15.88,\\\"thr\\\":-25.9}\",\"hasHumanVoice\":\"true\",\"topAvgLuma\":\"160\",\"domestic\":\"1\",\"isSupportSubtitle\":\"true\",\"rightAvgLuma\":\"96\",\"videoLanguage\":\"[\\\"zh-CN\\\"]\",\"audioLevInfo\":\"{\\\"audio_quality_level\\\":\\\"E\\\",\\\"mos_overall\\\":4.1223,\\\"version\\\":\\\"3.0\\\"}\",\"weakNetUserFlag\":\"1\",\"insertSubtitleLanguages\":\"[\\\"zh-CN\\\"]\",\"audioClsInfo\":\"{\\\"music_ratio\\\":0.9802211616286439,\\\"freesound_ratio\\\":0.0,\\\"speech_ratio\\\":0.9951084433196843}\"},\"subtitles\":{\"en-US\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e8a82a39bcac340103700398d0e91890_12.srt?sign=0f05ff65b9615d4dde43ecd05dc3b089&t=6A68E34A\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"source\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e8a82a39bcac340103700398d0e91391_1.srt?sign=a8133f0d6fdcc7ffdad0c4de31564aa5&t=6A68E34A\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}],\"zh-CN\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e8a82a39bcac340103700398d0e9142f_11.srt?sign=4974e8e02aba17bb456689cf0367de87&t=6A68E34A\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}]}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WM_X264_MP4_web\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":47021,\"size\":11599743,\"volume\":0.0,\"avg_bitrate\":1973542,\"fps\":30,\"video_codec\":\"EF4\",\"video_bitrate\":1903395,\"video_duration\":47000,\"audio_codec\":\"aac\",\"audio_bitrate\":64216,\"audio_duration\":47020,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4?sign=e30a428e25097008b7491218366b140c&t=6a68e34a\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/259/01e8a82a39bcac340103700398d0e9aee1_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":114,\"stream_desc\":\"WEB_114\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":47021,\"size\":8178985,\"volume\":0.0,\"avg_bitrate\":1391545,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":1256928,\"video_duration\":47000,\"audio_codec\":\"aac\",\"audio_bitrate\":128315,\"audio_duration\":47020,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4?sign=9a60e73ae296e85db0f6aff457567af1&t=6a68e34a\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/114/01e8a82a39bcac344f03700198d0ea4aa0_114.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":39.26100158691406,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}},{\"stream_type\":115,\"stream_desc\":\"WEB_115\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1080,\"height\":1920,\"duration\":47021,\"size\":7703411,\"volume\":0.0,\"avg_bitrate\":1310633,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":1175980,\"video_duration\":47000,\"audio_codec\":\"aac\",\"audio_bitrate\":128315,\"audio_duration\":47020,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4?sign=416e1500fc3a8da4421321504674fbc8&t=6a68e34a\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/1/110/115/01e8a82a39bcac340103700198d0ea3ce7_115.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":38.51599884033203,\"ssim\":0.0,\"weight\":70,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}"
+    },
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "5dce138000000000010093da",
+        "name": "食堂打卡",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1755853404000,
+    "desc": "第一次在城大找食堂绕到晕…整理了AC1食堂超短路线！\n校门→杨建文学术楼→右拐找扶梯→上楼之后直走→再坐扶梯上楼，食堂就在眼前！\n刷学生卡点菜可以用八达通也能微信付，菜品种类巨多，性价比在城大食堂里算top！路痴宝子直接存，找食堂再也不慌～[赞R][赞R][赞R]#香港城市大学[话题]# #食堂打卡[话题]#",
+    "user": {
+      "userId": "5f3e4cc10000000001006edb",
+      "nickname": "渔溯怀夕",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g",
+      "xsecToken": "ABfQDYKcR6-PPUqEPlt0BqO9wmcjAIp23xXLS2zBiBgCg="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "93",
+      "commentCount": "18",
+      "shareCount": "104",
+      "niceCount": "",
+      "likedCount": "118",
+      "followed": false,
+      "relation": "none"
+    },
+    "time": 1755851588000
+  },
+  "comments": [
+    {
+      "id": "68b05b890000000030005f7f",
+      "status": 0,
+      "userInfo": {
+        "userId": "63aafd3a0000000027029dcc",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m9v4rjf52705otavkt9t7ec6f1gt2g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiMCURXavytv734Ugi6sDbXQ="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "68b1157a00000000300276b4",
+          "status": 0,
+          "atUsers": [],
+          "createTime": 1756435834000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "68b05b890000000030005f7f",
+            "userInfo": {
+              "userId": "63aafd3a0000000027029dcc",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m9v4rjf52705otavkt9t7ec6f1gt2g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiMCURXavytv734Ugi6sDbXQ="
+            }
+          },
+          "invalid": false,
+          "noteId": "68a82b44000000001d03af20",
+          "content": "先刷学生卡[偷笑R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5f3e4cc10000000001006edb",
+            "nickname": "渔溯怀夕",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcBmG5dI1HYy-TWKe5xHxfi76V3FFf7JIy6C2R0nRr6c="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "68b1157a00000000300276b4",
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1756388233000,
+      "subCommentCount": "3",
+      "noteId": "68a82b44000000001d03af20",
+      "content": "想请问一下ac1是先刷学生卡再点餐，还是点完餐后刷学生卡啊[捂脸R]",
+      "liked": false,
+      "invalid": false,
+      "ipLocation": "中国香港",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "68a82fb60000000027003c60",
+      "createTime": 1755852727000,
+      "subCommentCursor": "68a8319d00000000300230ff",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "3",
+      "subCommentHasMore": true,
+      "content": "AC1好走，主要是2和3远也绕",
+      "liked": false,
+      "noteId": "68a82b44000000001d03af20",
+      "status": 0,
+      "userInfo": {
+        "userId": "5ffd6f75000000000101f5f1",
+        "nickname": "小蘑菇的饲养员",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6496cea320079871330614e3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSCT97wUHSZhPv2f4vFf4ldBMMXWHuOxNXFC-jW6Sc5I="
+      },
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "likeCount": "1",
+          "createTime": 1755853214000,
+          "ipLocation": "湖南",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcBmG5dI1HYy-TWKe5xHxfi76V3FFf7JIy6C2R0nRr6c=",
+            "userId": "5f3e4cc10000000001006edb",
+            "nickname": "渔溯怀夕"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "68a82fb60000000027003c60",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABSCT97wUHSZhPv2f4vFf4ldBMMXWHuOxNXFC-jW6Sc5I=",
+              "userId": "5ffd6f75000000000101f5f1",
+              "nickname": "小蘑菇的饲养员",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6496cea320079871330614e3.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "68a8319d00000000300230ff",
+          "noteId": "68a82b44000000001d03af20",
+          "status": 0,
+          "content": "确实[doge]我到现在还没找到那两个",
+          "liked": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "68a82b44000000001d03af20",
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1755946960000,
+      "ipLocation": "山东",
+      "invalid": false,
+      "subCommentCursor": "68a9b1eb000000003001f296",
+      "subCommentHasMore": false,
+      "id": "68a99fd00000000030018328",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "1",
+      "status": 0,
+      "content": "走右边林中小道",
+      "userInfo": {
+        "userId": "5aaf78fee8ac2b198c647b97",
+        "nickname": "小菲",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sv8q44f5c004a3nhbsfsusnjm1pj78?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPVO3BPvtaampmBQaGnSgTDv55XCQWhyu1v6WRl0Z-OM="
+      },
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1755951596000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "68a99fd00000000030018328",
+            "userInfo": {
+              "xsecToken": "ABPVO3BPvtaampmBQaGnSgTDv55XCQWhyu1v6WRl0Z-OM=",
+              "userId": "5aaf78fee8ac2b198c647b97",
+              "nickname": "小菲",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sv8q44f5c004a3nhbsfsusnjm1pj78?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "68a9b1eb000000003001f296",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcBmG5dI1HYy-TWKe5xHxfi76V3FFf7JIy6C2R0nRr6c=",
+            "userId": "5f3e4cc10000000001006edb",
+            "nickname": "渔溯怀夕"
+          },
+          "noteId": "68a82b44000000001d03af20",
+          "content": "之后去看看[斜眼R][斜眼R]"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "湖北",
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1756415140000,
+      "id": "68b0c4a4000000003000f5d3",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e79b44748ac1f000150f294.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByz0Fnj9nJEpIyM8WTR4zavxKZCxWZDUasVJjffvMkvs=",
+        "userId": "55b2cf6341a2b372bd579d42",
+        "nickname": "Lily Su"
+      },
+      "noteId": "68a82b44000000001d03af20",
+      "status": 0,
+      "content": "是金龙校区吗？",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "68a82b44000000001d03af20",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1756435850000,
+          "ipLocation": "湖南",
+          "id": "68b115890000000030032aad",
+          "status": 0,
+          "content": "九龙塘",
+          "userInfo": {
+            "userId": "5f3e4cc10000000001006edb",
+            "nickname": "渔溯怀夕",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcBmG5dI1HYy-TWKe5xHxfi76V3FFf7JIy6C2R0nRr6c="
+          },
+          "targetComment": {
+            "id": "68b0c4a4000000003000f5d3",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e79b44748ac1f000150f294.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AByz0Fnj9nJEpIyM8WTR4zavxKZCxWZDUasVJjffvMkvs=",
+              "userId": "55b2cf6341a2b372bd579d42",
+              "nickname": "Lily Su"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "68b115890000000030032aad",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1756300123000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "id": "68af035b0000000030021bd9",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "noteId": "68a82b44000000001d03af20",
+      "liked": false,
+      "ipLocation": "广东",
+      "subComments": [],
+      "status": 0,
+      "content": "学生卡点餐没有优惠吗？[笑哭R]",
+      "userInfo": {
+        "userId": "5792dcdfa9b2ed03481ec144",
+        "nickname": "Axis～😀",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/615aed7731ed7d5f8b426b2c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUwz-G853k6GimH6FIzm3lgBc2_9C3jV2rXpFWSLr8gA="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68a86b50000000003001c7a4",
+      "noteId": "68a82b44000000001d03af20",
+      "content": "你熟悉的好快",
+      "likeCount": "1",
+      "createTime": 1755867985000,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "内蒙古",
+      "subCommentCount": "1",
+      "userInfo": {
+        "userId": "637f2a50000000001f01c4d5",
+        "nickname": "生活鸡飞蛋挞",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3220j8tg0no705orv5987rh6l7e734so?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEKu4JFx7g7-KX66heHEpNNJ2TK3omkQjmZaVD7p8z8Y="
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "68a86b50000000003001c7a4",
+            "userInfo": {
+              "userId": "637f2a50000000001f01c4d5",
+              "nickname": "生活鸡飞蛋挞",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3220j8tg0no705orv5987rh6l7e734so?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEKu4JFx7g7-KX66heHEpNNJ2TK3omkQjmZaVD7p8z8Y="
+            }
+          },
+          "noteId": "68a82b44000000001d03af20",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcBmG5dI1HYy-TWKe5xHxfi76V3FFf7JIy6C2R0nRr6c=",
+            "userId": "5f3e4cc10000000001006edb",
+            "nickname": "渔溯怀夕"
+          },
+          "createTime": 1755870893000,
+          "ipLocation": "湖南",
+          "invalid": false,
+          "id": "68a876ac0000000030029e0a",
+          "status": 0,
+          "content": "熟悉熟悉记录生活[萌萌哒R]",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "68a876ac0000000030029e0a",
+      "invalid": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 城大",
+  "search_item": {
+    "noteCard": {
+      "cover": {
+        "height": 1011,
+        "width": 758,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251313/6997a53bff1f90f7a5ec08704885aaa6/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251313/71696cf39b045592d4773e7d213fb6b5/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1011,
+          "width": 758,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251313/6997a53bff1f90f7a5ec08704885aaa6/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251313/71696cf39b045592d4773e7d213fb6b5/spectrum/1040g34o31lfucf6jku105npu9j0g8rmr8p9ahm0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-08-22",
+          "type": "publish_time"
+        }
+      ],
+      "type": "video",
+      "displayTitle": "城大食堂！30秒找到不绕路💥",
+      "user": {
+        "nickName": "渔溯怀夕",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l6oldis346g5npu9j0g8rmrtl1vu3g?imageView2/2/w/80/format/jpg",
+        "userId": "5f3e4cc10000000001006edb",
+        "nickname": "渔溯怀夕",
+        "xsecToken": "ABULpBa4HPJVohQ-3PJJZj9E6gDXxov4e_xkJyD5_3v2U="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "93",
+        "commentCount": "18",
+        "sharedCount": "104",
+        "liked": false,
+        "likedCount": "118"
+      }
+    },
+    "xsecToken": "ABRtY6HCTUCLxRJ5FKemWUKZjNoLpoU_PJVqqkLnCDc7c=",
+    "id": "68a82b44000000001d03af20",
+    "modelType": "note",
+    "index": 14,
+    "exposed": false,
+    "trackId": "68a82b44000000001d03af20"
+  }
+}

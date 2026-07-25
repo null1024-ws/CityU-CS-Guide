@@ -1,0 +1,63 @@
+{
+  "note_id": "6937916d000000000d03daf2",
+  "url": "https://www.xiaohongshu.com/explore/6937916d000000000d03daf2?xsec_token=ABuIXicbUfS6Qws_kqEBvYAe0Awz9rmfsBtILeil_eRqI=",
+  "fetched_at": 1784954645.2708886,
+  "course_codes": [
+    "CS8803"
+  ],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "OMSCS CS8803-O21 GPU Hardware & Software 体验\n\t\n25fall学期选的，感觉算比较新的课，希望可以帮到后面的同学\n\t\n课程内容\n这门课最需要注意的地方就是标题里的“Software and Hardware” 如果是抱着纯学CUDA programming的期待来的，可能会有点小失望。\n前半部分做完Project2之后，内容就和CUDA编程关系不大了。后半段主要聚焦硬件知识，像warp scheduling、unified CPU/GPU memory、multi-GPU、ML accelerator这些概念都会讲。不过换个角度想，如果是想积累些面试能用的概念，这部分内容还是有点帮助的。\n\t\nProject（共五个）\n先交代下我的背景：C++选手，有一点点CUDA基础。\n- Project1：主要是熟悉课程的infra，难度不算高，算是入门热身。\n- Project2：需要自己写一个并行算法，并在H100上profile，分数和occupancy、throughput这些指标挂钩。最 tricky的是scope可以很大。如果想真正debug可能得啃不少NVIDIA Nsight/compute的文档。不过如果不那么care分数，花50%时间写个baseline也能过，看个人时间安排。\n- Project3 - 5：核心是看懂老师给的infra，理解之后代码部分反而能很快搞定。这三个project主要是为了帮大家熟悉硬件概念，但平心而论质量不算高，很多代码没comment，还有和handout出入的地方，需要ed多问问题。\n\t\nExam\n可以带一张cheatsheet，但因为scope特别大以及concept很多，可能花了很多时间看的内容没考到，我个人觉得比较难。\n\t\nQuiz\n这个就比较友好，跟着slide和paper找答案就行，难度不大。\n\t\n总结\n每周大概花不到5小时，基本上周末抽一个下午就能搞定当周任务。Final exam前花1 - 2天复习下就差不多。project2需要多留点时间\n\t\n#omscs[话题]# #gatech[话题]# #佐治亚理工[话题]# #cs[话题]# #cs8803[话题]# #gpu[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问你上GPU这门课之前是不是已经上了很多基础课（Gios, hpca）？",
+      "sourceRef": "comment:696e391a00000000050306b4",
+      "commentId": "696e391a00000000050306b4",
+      "likes": 0,
+      "author": "smokeonwater"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我只上了hpc，gios和hpca应该也会有帮助",
+      "sourceRef": "comment:696ec34e000000000c016ca9",
+      "commentId": "696ec34e000000000c016ca9",
+      "likes": 0,
+      "author": "Charlie （根音战士版）"
+    },
+    {
+      "type": "comment",
+      "text": "project3-5具体是做什么的，质量不高的话，是不是工作用不上？",
+      "sourceRef": "comment:694704c600000000310039e7",
+      "commentId": "694704c600000000310039e7",
+      "likes": 0,
+      "author": "_"
+    },
+    {
+      "type": "sub_comment",
+      "text": "大概是根据老师提供的code template来simulate GPU cycle 除非是做hardware否则可能用处不大",
+      "sourceRef": "comment:694709ce000000001601f38f",
+      "commentId": "694709ce000000001601f38f",
+      "likes": 0,
+      "author": "Charlie （根音战士版）"
+    },
+    {
+      "type": "comment",
+      "text": "感觉是门硬课，不敢上",
+      "sourceRef": "comment:69631c77000000001702f65f",
+      "commentId": "69631c77000000001702f65f",
+      "likes": 0,
+      "author": "拂晓"
+    },
+    {
+      "type": "sub_comment",
+      "text": "上过hpc之类的再上这门会好很多hh",
+      "sourceRef": "comment:6963272b000000001600e88f",
+      "commentId": "6963272b000000001600e88f",
+      "likes": 0,
+      "author": "Charlie （根音战士版）"
+    }
+  ]
+}

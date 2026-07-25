@@ -1,0 +1,304 @@
+{
+  "note_id": "6a63005b000000000503831e",
+  "url": "https://www.xiaohongshu.com/explore/6a63005b000000000503831e?xsec_token=ABU9gdH9uOMWLrNRJKmKUuGZa0Jovf1T1JC13ru55laF0=",
+  "fetched_at": 1784950060.1898577,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6a63005b000000000503831e",
+        "model_type": "note",
+        "note_card": {
+          "tag_list": [
+            {
+              "name": "港城大",
+              "type": "topic",
+              "id": "601a6afb000000000101f419"
+            },
+            {
+              "type": "topic",
+              "id": "609a5fee00000000010020ea",
+              "name": "港硕"
+            },
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "id": "6281a49f0000000001007c3b",
+              "name": "hkid",
+              "type": "topic"
+            }
+          ],
+          "last_update_time": 1784944441000,
+          "ip_location": "陕西",
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "6a63005b000000000503831e",
+          "title": "",
+          "desc": "CityU CS 选课求助\n其实就是想问问港城大cs周六的课多吗，本人hkid预约在开学后的周六上午了，冲突的概率大不大？\n当然这几天也会刷一刷看能不能改到开学前[捂脸R]\n万分感谢！\n\t\n二编：改了一下预约时间，时不时登上去刷一刷，会放号的，个人感觉早上刷到概率大一些\n\t\n#港城大[话题]##港硕[话题]##选课[话题]##hkid[话题]#",
+          "user": {
+            "user_id": "64fab99b0000000004024f76",
+            "nickname": "莫山",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202gnjbgigkg5p7qn6dh4jrm5ougsb0",
+            "xsec_token": "ABQoAXmTlUu87uifeEQ189H_HUdSezPamD1nQ6iIw1hKo="
+          },
+          "interact_info": {
+            "collected": false,
+            "comment_count": "8",
+            "share_count": "2",
+            "followed": false,
+            "relation": "none",
+            "liked": false,
+            "collected_count": "1",
+            "nice_count": "",
+            "liked_count": "5"
+          },
+          "at_user_list": [],
+          "time": 1784873052000,
+          "type": "normal",
+          "image_list": [
+            {
+              "file_id": "1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg",
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/cf2ebb015c9adef0f82cfcbf1755161c/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/55e48db2b464049790a777aa753ab60a/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/cf2ebb015c9adef0f82cfcbf1755161c/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nd_prv_wlteh_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "height": 1600,
+              "width": 1200,
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/55e48db2b464049790a777aa753ab60a/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nd_dft_wlteh_webp_3"
+            }
+          ]
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784950062891
+  },
+  "comments": {
+    "comments": [
+      {
+        "at_users": [],
+        "sub_comment_count": "3",
+        "sub_comment_cursor": "6a6307270000000015004acd",
+        "content": "28号就出课表了[doge]周六感觉应该是晚上多",
+        "show_tags": [],
+        "status": 0,
+        "like_count": "2",
+        "invalid": false,
+        "liked": false,
+        "user_info": {
+          "user_id": "5d33efb700000000120320f3",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABxF_A88SsY-5zWgGma0PP0pDDBelV0cVK2Ab360M-4kc="
+        },
+        "create_time": 1784873379000,
+        "ip_location": "上海",
+        "sub_comments": [
+          {
+            "content": "OKOK，非常感谢！",
+            "ip_location": "陕西",
+            "target_comment": {
+              "id": "6a6301a20000000029037461",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABxF_A88SsY-5zWgGma0PP0pDDBelV0cVK2Ab360M-4kc=",
+                "user_id": "5d33efb700000000120320f3",
+                "nickname": "momo"
+              }
+            },
+            "invalid": false,
+            "id": "6a6307270000000015004acd",
+            "note_id": "6a63005b000000000503831e",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "64fab99b0000000004024f76",
+              "nickname": "莫山",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202gnjbgigkg5p7qn6dh4jrm5ougsb0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABeBdVXN0aQ0mm6gC7Nbwe9JTaLTzBR1clh1oGIRkeVSw="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1784874791000,
+            "status": 0
+          }
+        ],
+        "sub_comment_has_more": true,
+        "id": "6a6301a20000000029037461",
+        "note_id": "6a63005b000000000503831e"
+      },
+      {
+        "note_id": "6a63005b000000000503831e",
+        "status": 0,
+        "ip_location": "中国香港",
+        "invalid": false,
+        "id": "6a6327d10000000015016992",
+        "at_users": [],
+        "content": "基本没课 都在周一到周五",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABvPE_r-8QBXvtU4-tb_hz6fxCLEYeQ1zv9PEN7JkmUZQ=",
+          "user_id": "608baa0f0000000001003b11",
+          "nickname": "Mr.J",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ekst03nedg5o4bl87g8eohql6l0ig?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1784883153000,
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comments": []
+      },
+      {
+        "content": "CityUCS周末没课的 semA必修大部分都是工作时间 一些是晚课",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_cursor": "",
+        "id": "6a633852000000000403804b",
+        "note_id": "6a63005b000000000503831e",
+        "liked": false,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABoHICS0AKApSWX6n8C_oTQAkumVsfVPcrdPpeawRlCWQ=",
+          "user_id": "60226a3200000000010090ca",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1784887378000,
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "show_tags": []
+      },
+      {
+        "sub_comment_has_more": false,
+        "liked": false,
+        "sub_comment_count": "0",
+        "invalid": false,
+        "id": "6a63a535000000000d022000",
+        "at_users": [],
+        "note_id": "6a63005b000000000503831e",
+        "status": 0,
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1784915253000,
+        "sub_comment_cursor": "",
+        "content": "CS5187",
+        "user_info": {
+          "user_id": "664dbf540000000003030a99",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315h4c8fthe605pidnta0u2kpv6kcpmg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABBy7dAIRp9pGUdNx9wEuayBBjnMTxKF8l4NqayNQMTXA="
+        },
+        "ip_location": "中国香港",
+        "sub_comments": []
+      },
+      {
+        "sub_comment_count": "0",
+        "note_id": "6a63005b000000000503831e",
+        "user_info": {
+          "user_id": "5d52655f00000000110096ef",
+          "nickname": "夢を失った小熊",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fer5idq6i005naiclfk95nfv9ncfug?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABCnAJ1ud-KAM6TbZyGIbgAUbb8ggM3qDZft2rh3_GrJI="
+        },
+        "ip_location": "中国香港",
+        "sub_comments": [],
+        "invalid": false,
+        "sub_comment_cursor": "",
+        "status": -2,
+        "show_tags": [],
+        "sub_comment_has_more": false,
+        "id": "6a632d23000000002902499f",
+        "content": "cs一般没有周末的课吧",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1784884516000
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 5,
+    "pages_fetched": 1
+  },
+  "search_query": "城大CS5367",
+  "search_item": {
+    "id": "6a63005b000000000503831e",
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "user": {
+        "nick_name": "莫山",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202gnjbgigkg5p7qn6dh4jrm5ougsb0?imageView2/2/w/80/format/jpg",
+        "user_id": "64fab99b0000000004024f76",
+        "nickname": "莫山",
+        "xsec_token": "ABUlFs_DCSjlq9eriNSdHfb2SzpHNIGuo8oCVBZ_2QFic="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "5",
+        "collected": false,
+        "collected_count": "1",
+        "comment_count": "8",
+        "shared_count": "2"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/55b698a0fe5b111428c8b16f45168c36/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/134b1b6b94165060ce0f23655d6b295e/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/55b698a0fe5b111428c8b16f45168c36/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/134b1b6b94165060ce0f23655d6b295e/1040g2sg3230bu9c5nae05p7qn6dh4jrm5v1u1jg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "1小时前"
+        }
+      ]
+    },
+    "xsec_token": "ABU9gdH9uOMWLrNRJKmKUuGZa0Jovf1T1JC13ru55laF0="
+  }
+}

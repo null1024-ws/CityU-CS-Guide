@@ -1,0 +1,434 @@
+{
+  "note_id": "69456106000000001e032e53",
+  "url": "https://www.xiaohongshu.com/explore/69456106000000001e032e53?xsec_token=ABNi2lK3azAydSy_DqosDqjanHCLZkIAYuiQDD45nKgJI=",
+  "fetched_at": 1784952729.387371,
+  "note": {
+    "xsecToken": "ABNi2lK3azAydSy_DqosDqjanHCLZkIAYuiQDD45nKgJI=",
+    "noteId": "69456106000000001e032e53",
+    "title": "打CS2 480HZ选什么配置合适",
+    "user": {
+      "userId": "5b237744e8ac2b7e3632942c",
+      "nickname": "阿巴阿巴",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5b237744e8ac2b7e3632942c.jpg",
+      "xsecToken": "ABna_UKLQlE0kSJlIP4a1vkf1M3DkmfhV9deFIkDNNb3o="
+    },
+    "interactInfo": {
+      "likedCount": "2",
+      "collected": false,
+      "collectedCount": "",
+      "commentCount": "11",
+      "shareCount": "",
+      "followed": false,
+      "liked": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251212/adaea33c94acede0354314a8133f934d/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o",
+        "height": 2329,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251212/402be4ebb1f9b1322f5b3f24f10af107/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251212/adaea33c94acede0354314a8133f934d/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251212/402be4ebb1f9b1322f5b3f24f10af107/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nd_prv_wgth_jpg_3",
+        "width": 2560,
+        "url": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "58ad0992805d89755e4ffc78",
+        "name": "电脑装机分享",
+        "type": "topic"
+      },
+      {
+        "id": "5c14efae000000000301c18c",
+        "name": "显卡",
+        "type": "topic"
+      },
+      {
+        "id": "5d5431ea000000000f03a63b",
+        "name": "CPU",
+        "type": "topic"
+      },
+      {
+        "id": "5da93744000000000103c13a",
+        "name": "组装机",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      },
+      {
+        "id": "5497b36bb4c4d654bdd78c0d",
+        "name": "电脑",
+        "type": "topic"
+      },
+      {
+        "id": "5c872a47000000000e0164ad",
+        "name": "电脑配置",
+        "type": "topic"
+      }
+    ],
+    "time": 1766154502000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "最近为了打CS2 买了inzone m10s，才发现自己电脑带不动只能用240HZ[笑哭R][笑哭R]，有没有推荐，配置能配上显示器就行，优先N卡#电脑装机分享[话题]# #显卡[话题]# #CPU[话题]# #组装机[话题]# #CS[话题]# #电脑[话题]# #电脑配置[话题]#",
+    "atUserList": [],
+    "lastUpdateTime": 1766189926000
+  },
+  "comments": [
+    {
+      "subCommentCount": "1",
+      "id": "694600420000000038017828",
+      "noteId": "69456106000000001e032e53",
+      "content": "现在内存价格不太适合配电脑了",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1766195266000,
+      "liked": false,
+      "invalid": false,
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "694600420000000038017828",
+            "userInfo": {
+              "userId": "5b234eb34eacab50fc206d0c",
+              "nickname": "waterboy",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0ai4cr5e004a69c37b6r8c6bata3g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB3CTIiTx0cmOTPRV4ahK9nFsTI-fKIW97SxQ29J90258="
+            }
+          },
+          "invalid": false,
+          "id": "694623830000000038017c0c",
+          "noteId": "69456106000000001e032e53",
+          "status": 0,
+          "content": "年后再配[赞R]",
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABGPwk0GgxTDLNW7o7tll0zqRV1J03nWmB9vqM3D6ygMA=",
+            "userId": "5b237744e8ac2b7e3632942c",
+            "nickname": "阿巴阿巴",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5b237744e8ac2b7e3632942c.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766204292000,
+          "atUsers": []
+        }
+      ],
+      "subCommentCursor": "694623830000000038017c0c",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB3CTIiTx0cmOTPRV4ahK9nFsTI-fKIW97SxQ29J90258=",
+        "userId": "5b234eb34eacab50fc206d0c",
+        "nickname": "waterboy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0ai4cr5e004a69c37b6r8c6bata3g?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "983 3080 4070tisuper 5070 5070ti都可",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABlCWQcyPIvJpAi66PwyAABbr6ciGB_150kYlZ7ppP0bQ=",
+        "userId": "5cebb6b3000000001103cf0f",
+        "nickname": "范西斯（机情车业）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313ah520i00005n7bmqpkfjoffl9chn8?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1766715195000,
+      "liked": false,
+      "subComments": [
+        {
+          "status": 0,
+          "content": "[赞R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5b237744e8ac2b7e3632942c",
+            "nickname": "阿巴阿巴",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5b237744e8ac2b7e3632942c.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABGPwk0GgxTDLNW7o7tll0zqRV1J03nWmB9vqM3D6ygMA="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766725367000,
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "694def3a000000001d01ee83",
+            "userInfo": {
+              "nickname": "范西斯（机情车业）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313ah520i00005n7bmqpkfjoffl9chn8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlCWQcyPIvJpAi66PwyAABbr6ciGB_150kYlZ7ppP0bQ=",
+              "userId": "5cebb6b3000000001103cf0f"
+            }
+          },
+          "invalid": false,
+          "id": "694e16f60000000009037e49",
+          "noteId": "69456106000000001e032e53"
+        }
+      ],
+      "id": "694def3a000000001d01ee83",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "subCommentCursor": "694e16f60000000009037e49",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69456106000000001e032e53",
+      "status": 0,
+      "likeCount": "1",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABzs98sL_cnr8_EWgUI1MDLcIA7R6PB651ChWEaMpnmto=",
+        "userId": "60b8fcd70000000001005eac",
+        "nickname": "追忆似水年华",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t180qvclk6g5o5ovjbg8nlcho3mk1o?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "createTime": 1766236132000,
+      "subCommentCursor": "",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "江西",
+      "invalid": false,
+      "id": "69469fe3000000001702c009",
+      "noteId": "69456106000000001e032e53",
+      "content": "983+5070Ti",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "我983+3080 12G用的4比3可以满足。",
+      "atUsers": [],
+      "createTime": 1766399135000,
+      "subCommentHasMore": false,
+      "noteId": "69456106000000001e032e53",
+      "liked": false,
+      "likeCount": "1",
+      "subCommentCount": "0",
+      "userInfo": {
+        "userId": "5bc44fa91284260001415ead",
+        "nickname": "Kyle.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320276j6b2g5g5op468uovs10h4v8358?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmi4Q9Fdx37gj8318PISe0t1L8mVzr41wge7B3d3mRkM="
+      },
+      "showTags": [],
+      "ipLocation": "湖南",
+      "subComments": [],
+      "invalid": false,
+      "id": "69491c9e00000000140377ea",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69456106000000001e032e53",
+      "content": "我配的783+5070，400hz",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "id": "6945691b000000000e036000",
+      "createTime": 1766156571000,
+      "ipLocation": "湖南",
+      "subCommentCount": "0",
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "6072407c0000000001003dfb",
+        "nickname": "大红薯",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322q6icq0mu005o3i81u08ffrqdt4rfo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQrgytRoBJ6caVFG0RxcMlIrugr6R_vtBwwwiE2EYXRk="
+      },
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69456106000000001e032e53",
+      "content": "9600X+9070/9070xt",
+      "invalid": false,
+      "showTags": [],
+      "createTime": 1766173479000,
+      "subCommentCursor": "",
+      "id": "6945ab270000000038033ff0",
+      "status": -2,
+      "likeCount": "1",
+      "ipLocation": "中国香港",
+      "subCommentCount": "0",
+      "subComments": [],
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "nickname": "lakeside",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6498fcddd09ed63d7ff8a647.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABH44WPkqc3cA5u6cXjCNDDFgccqdFix_YTieEok2aKTc=",
+        "userId": "62919deb0000000021022535"
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1766154817000,
+      "ipLocation": "上海",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5e3ab8740000000001006186",
+        "nickname": "虞枫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi639927gkg5nhqn1q08oc6p4nseh8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2cb64J9kG2iDoFvMQ0oWTtZL8KQ2soh_ryD_V9LSjHE="
+      },
+      "noteId": "69456106000000001e032e53",
+      "content": "预算多少，按压力比较大的三角洲的话96x+9070或者5070应该够用，组下来9k左右，压力小的瓦的话56x+5060就行加起来6k",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "createTime": 1766154976000,
+          "ipLocation": "江苏",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "694562400000000039003964",
+            "userInfo": {
+              "xsecToken": "AB2cb64J9kG2iDoFvMQ0oWTtZL8KQ2soh_ryD_V9LSjHE=",
+              "userId": "5e3ab8740000000001006186",
+              "nickname": "虞枫",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi639927gkg5nhqn1q08oc6p4nseh8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "694562df000000003800af9c",
+          "noteId": "69456106000000001e032e53",
+          "content": "只玩CS2 一万左右吧",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5b237744e8ac2b7e3632942c",
+            "nickname": "阿巴阿巴",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5b237744e8ac2b7e3632942c.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABGPwk0GgxTDLNW7o7tll0zqRV1J03nWmB9vqM3D6ygMA="
+          }
+        }
+      ],
+      "subCommentCursor": "694562df000000003800af9c",
+      "id": "694562400000000039003964",
+      "status": -2,
+      "showTags": [],
+      "subCommentCount": "2",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5286 评价",
+  "search_item": {
+    "id": "69456106000000001e032e53",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 2329,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251212/989f1779757501999e16e007ac7d7817/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251212/1108dd2e7b6bea5acaab2a48bf7d9d88/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-20"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "打CS2 480HZ选什么配置合适",
+      "user": {
+        "nickName": "阿巴阿巴",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5b237744e8ac2b7e3632942c.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5b237744e8ac2b7e3632942c",
+        "nickname": "阿巴阿巴",
+        "xsecToken": "ABLw7cROLXDAi2-fHI1hoL_e8VMqrC6znVk4XIe4FK08Y="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "11",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "2"
+      },
+      "cover": {
+        "height": 2329,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251212/989f1779757501999e16e007ac7d7817/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251212/1108dd2e7b6bea5acaab2a48bf7d9d88/notes_pre_post/1040g3k831q9e92o70adg4a69ffrk951ce6m910o!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABNi2lK3azAydSy_DqosDqjanHCLZkIAYuiQDD45nKgJI=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "69456106000000001e032e53"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "note_id": "69610180000000002203b08b",
+  "url": "https://www.xiaohongshu.com/explore/69610180000000002203b08b?xsec_token=ABkbtixT-Doq_XcpDeiRcGbV1mohtX8ayhCJNrO2EU8MQ=",
+  "fetched_at": 1784873923.3964257,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu MSc in CS Semester A课程测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "注：疑似有水军吹捧一些课程，各位选课时一切以自己体验为准\n1.计网（必修）\n无考勤无小组作业。课程作业难度和工作量不大。期末开卷，难度不大，题量较多。\n2.软工（必修）\n无考勤无作业，有小组项目（6人）。quiz和期末半开卷，GitHub上有祖传资料，但还是建议自己过遍课件+整理一份cheat sheet。项目给分不错。\n3.数据工程（必修）\n作业给分还行，项目给分一般（6人），期末很多需要记忆。\n4.电子商务（选修）\n2个老师上，前几周IS系的有考勤，后面CS系的没有。IS每周有一个作业（总共4，5个），只用ai即可完成。cs有一个xml设计的作业。IS的大作业需做ppt和写论文。期末IS和CS部分55开，IS部分和作业关联比较大，CS考前会划重点。项目工作量：1周，期末复习时间：2-3天。推荐选\n5.大数据（选修）\n作业数量多但工作量不大（每个大概做30-60分钟），项目围绕并行计算，选题随意。小组要求3-4人。期末难度偏大（如果作业的代码都是ai写的，考场上会憋半天一行都手写不出来），需仔细通读课件和作业。但最后给分不错。项目工作量：2周。期末复习时间：3天",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "补充说明：1.计网作业大多数为教材习题，答案可搜。搜不到的，用ai也可解决。考前可以不用看ppt，把所有tutorial亲自做一遍就好。2.数据工程，2个作业里第2个是和考试相关的，考前有个答疑课但不划重点。考背诵，B+树，sql，正则，剩下的不记得了。",
+      "sourceRef": "comment:69b65633000000003103050e",
+      "commentId": "69b65633000000003103050e",
+      "likes": 1,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "大数据老师很有趣[doge]",
+      "sourceRef": "comment:6a3a2c3f000000000802d9e8",
+      "commentId": "6a3a2c3f000000000802d9e8",
+      "likes": 0,
+      "author": "山雀dp5"
+    }
+  ]
+}

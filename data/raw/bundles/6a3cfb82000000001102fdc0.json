@@ -1,0 +1,45 @@
+{
+  "note_id": "6a3cfb82000000001102fdc0",
+  "url": "https://www.xiaohongshu.com/explore/6a3cfb82000000001102fdc0?xsec_token=ABI-b2qMFHBWgAl07iaETtT8rAv8QcMPlroh96wR-SxlQ=",
+  "fetched_at": 1784874345.9608705,
+  "course_codes": [
+    "CS5487",
+    "CS6491"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityUHK CS PhD QE 2026 个人分享",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "看群里讨论和我个人的体感，似乎CS6491出的算是最温和的，重点和semB final类似， 比如判断convex，conjugate function，KKT conditions，以及找optimal solution & value\n\t\nCS5487比往年QE出的稍微复杂一些\n考了 Estimation for a Categorical Dis-tribution with a Dirichlet Prior，知识点大概集中在前面4章\n和Problem set和midterm做过的模式基本相同，log-likelihood，MLE，posterior distribution，MAP，以及对结果的一些解释\n\t\n经提醒隐藏了今年考过具体题目帖",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "qe会捞人吗，感觉计网好多拿不准",
+      "sourceRef": "comment:6a3d0e7a0000000005009dc7",
+      "commentId": "6a3d0e7a0000000005009dc7",
+      "likes": 1,
+      "author": "小红薯67DA69D7"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得会吧[哭惹R] QE卡人干啥呀",
+      "sourceRef": "comment:6a3d1cfb000000000b03b824",
+      "commentId": "6a3d1cfb000000000b03b824",
+      "likes": 1,
+      "author": "银河尽头yu"
+    },
+    {
+      "type": "comment",
+      "text": "CS5487[捂脸R]我感觉难挺多的",
+      "sourceRef": "comment:6a3d76140000000009014631",
+      "commentId": "6a3d76140000000009014631",
+      "likes": 0,
+      "author": "苍蝇崽"
+    }
+  ]
+}

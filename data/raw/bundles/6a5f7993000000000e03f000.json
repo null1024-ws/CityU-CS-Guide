@@ -1,0 +1,18 @@
+{
+  "note_id": "6a5f7993000000000e03f000",
+  "url": "https://www.xiaohongshu.com/explore/6a5f7993000000000e03f000?xsec_token=ABnkaiBnw_iDARj0k6QXJok4khWKq5N4IZrP-EQ9jqjtg=",
+  "fetched_at": 1784956381.3179038,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "轮廓效果看起来简单，其实没那么简单",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "我想给载具加一个简单的轮廓效果，结果发现事情没那么简单 😂\n最后我把整个载具单独渲染，再用它生成轮廓遮罩。现在看起来干净多了，而且移动节点也更直观！\n#unity[话题]#  #Shader[话题]#  #indiedev[话题]#  #Steam[话题]# #gamedev[话题]# #indiegame[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

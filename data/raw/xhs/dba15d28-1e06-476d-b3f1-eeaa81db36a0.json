@@ -1,0 +1,41 @@
+{
+  "note_id": "dba15d28-1e06-476d-b3f1-eeaa81db36a0",
+  "url": "https://www.xiaohongshu.com/explore/dba15d28-1e06-476d-b3f1-eeaa81db36a0?xsec_token=ABgT87pYs-NnRlvLrhHNZFrfxRrteL9C81C7sZGKu1O8hlvlxxtp5Paa5e6qZwG6LBxvrd55KqafprRRmOhR1BCk94I3QBdNk5Y_5cAtL89jo=",
+  "fetched_at": 1784953940.106066,
+  "search_query": "CityU CS6536",
+  "search_item": {
+    "xsecToken": "ABgT87pYs-NnRlvLrhHNZFrfxRrteL9C81C7sZGKu1O8hlvlxxtp5Paa5e6qZwG6LBxvrd55KqafprRRmOhR1BCk94I3QBdNk5Y_5cAtL89jo=",
+    "id": "dba15d28-1e06-476d-b3f1-eeaa81db36a0#1784953922686",
+    "modelType": "rec_query",
+    "recQuery": {
+      "source": 1,
+      "wordRequestId": "dba15d28-1e06-476d-b3f1-eeaa81db36a0#1784953922686",
+      "queries": [
+        {
+          "searchWord": "cityu cs 6491课程评价",
+          "id": "cityu cs 6491课程评价",
+          "name": "cityu cs 6491课程评价"
+        },
+        {
+          "id": "cityu ac6560课程",
+          "name": "cityu ac6560课程",
+          "searchWord": "cityu ac6560课程"
+        },
+        {
+          "name": "cityu 26fall cs",
+          "searchWord": "cityu 26fall cs",
+          "id": "cityu 26fall cs"
+        },
+        {
+          "id": "cityu cs绩点",
+          "name": "cityu cs绩点",
+          "searchWord": "cityu cs绩点"
+        }
+      ],
+      "title": "相关搜索"
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "dba15d28-1e06-476d-b3f1-eeaa81db36a0#1784953922686"
+  }
+}

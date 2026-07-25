@@ -1,0 +1,292 @@
+{
+  "note_id": "6758479a00000000020179ad",
+  "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
+  "fetched_at": 1784874327.1361096,
+  "course_codes": [
+    "CS5487"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学CS5487浅浅吐槽",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "刚考完DE，趁着其他考试在下一礼拜吐槽一下昨天考的CS5487，发发牢骚顺便讲讲这门课，希望能对之后的ec，cs，ds的学弟学妹起到一个参考作用。\n\t\n首先这门课程的主要是在讲数学，讲的是各种机器学习算法背后的数学原理推导，内容参考了prml这本书。而上课的内容分为tutorial和lecture，lecture会给你讲机器学习的一些算法和模型然后用数学手推一遍，tutorial会讲解问题集上挑选的题目，再加上Antoni老师和MA老师的流利快速的英文，上课听懂便比较困难了。\n\t\n课程的成绩构成有平时每周1-2道数学推导题，两次编程作业(默认你有一定编程基础，可以用MATLAB或者Python），一个项目(可以自由发挥选题，默认是minst项目，可以一个人做也可以找再一个人)，期中考试(占比10%)，期末考试(30%，期中考过的就没怎么出现了，今年是这样。题的难度很高，感觉只有大佬会做，我4道数学推导大题没一道是会的，写了点通用步骤混了)。这些内容量很大，选了它这学期基本不用太考虑找工作或者是玩耍的事情了。\n\t\n在听第一节课的时候，老师带着复习了高数概率论和线性代数，然而我不知道后续就没退课。本科没准备过考研，然后数学忘差不多的我前两周一直在看基础的数学部分，然后就开始讲MLE，这个还好能跟上，当讲贝叶斯MAP的时候就开始吃力了，搞明白贝叶斯后又来了重量级混合高斯模型和EM算法，然后就开始了逐渐摆烂，在听不懂，上网找相关视频看，好像有点懂了，过两天又忘了之间循环。混完了作业和编程和项目，期末留了1个多礼拜复习然后一道题也不会做的感觉确实不好受。\n\t\n总之，学弟学妹在选这门课的时候要三思，对自己的数学基础有自信并且对机器学习的数学原理有强烈兴趣而且能熬得住一心做作业编程的同学可以选，确实可以收货很多，很对得起学费，但数学编程方面偏弱一些的同学(比如我）还是要慎重一点，我要是重来一次选课我就选计网和数据工程了。\n\t\n学习建议: B站的白板机器学习，吴恩达的机器学习，小红书Quinn博主发布的问题集以及自己手写的答案(读phd大佬拯救了我这门课，就叫Quinn，也可以去测试一下你适不适合学这门课)，李航的统计机器学习书，PRML(英文好的同学可以直接开啃)，以及课后录播和老师发的手写笔记\n\t\n最后希望Antoni老师能捞一下，希望别挂[哭惹R]\n2025.1.6更新，Antoni老师捞到了B，安东尼老师我的超人，该继续5489了。\n#香港城市大学[话题]#\n#学习日常[话题]#\n#期末[话题]#\n#期末考试周[话题]#\n#机器学习[话题]#\n#CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "顺带补充一下我当时是想选5489来着(可能更偏向编程实践一点)",
+      "sourceRef": "comment:67584c9c00000000070005b5",
+      "commentId": "67584c9c00000000070005b5",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "请问港城的课可以旁听吗[害羞R]",
+      "sourceRef": "comment:68378eb1000000000b01467f",
+      "commentId": "68378eb1000000000b01467f",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以的，一般都有位置",
+      "sourceRef": "comment:6837bc8b000000001c02963f",
+      "commentId": "6837bc8b000000001c02963f",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "我室友选了5487天天都在骂[doge]",
+      "sourceRef": "comment:675859e2000000003d01d12e",
+      "commentId": "675859e2000000003d01d12e",
+      "likes": 2,
+      "author": "寒夜溯溯"
+    },
+    {
+      "type": "sub_comment",
+      "text": "数学是这样的[捂脸R]",
+      "sourceRef": "comment:67585af90000000007015db3",
+      "commentId": "67585af90000000007015db3",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问暑期的guide study是要写文章吗？",
+      "sourceRef": "comment:680e87eb0000000012001b4c",
+      "commentId": "680e87eb0000000012001b4c",
+      "likes": 1,
+      "author": "我是赵凡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ec是没暑假的guided study了，CS好像有。具体内容应该是跟着指导老师在某一方面做一做实验读一读文章然后写一篇小论文吧应该，不要求发表，应该是带的老师负责答辩。",
+      "sourceRef": "comment:680eeba60000000013010962",
+      "commentId": "680eeba60000000013010962",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "赞同...期末和期中感觉不是一个难度的 期末题问题集上也都有但是根本没时间也不会把所有都做完 同时感恩xhs的学姐不然我真作业也写不出来 编程作业也难难的。。",
+      "sourceRef": "comment:67584c63000000000c012956",
+      "commentId": "67584c63000000000c012956",
+      "likes": 8,
+      "author": "似雪生寒"
+    },
+    {
+      "type": "sub_comment",
+      "text": "请问期中考和期末考的题都是问题集上的原题吗？",
+      "sourceRef": "comment:6996f1f80000000011019cd1",
+      "commentId": "6996f1f80000000011019cd1",
+      "likes": 0,
+      "author": "小红薯652FE4A1"
+    },
+    {
+      "type": "comment",
+      "text": "求录播宝[害羞R]，没选这门课但是想听听",
+      "sourceRef": "comment:6758e909000000000b03f396",
+      "commentId": "6758e909000000000b03f396",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "录播下载不了，不过b站的白板机器学习难度我觉得和这门课差不多，但会讲的更多一些",
+      "sourceRef": "comment:6758e9af0000000007001dfe",
+      "commentId": "6758e9af0000000007001dfe",
+      "likes": 2,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "哈哈哈，我平时花了很多时间学这个课作业也是认真做的，结果考试也只能做两个题还不知道对不对，这个课感觉得本科有很好的数学和机器学习基础上着才不麻烦[微笑R]",
+      "sourceRef": "comment:675850f7000000001b003d4e",
+      "commentId": "675850f7000000001b003d4e",
+      "likes": 3,
+      "author": "阿草"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实，反正是要了老命了[笑哭R]",
+      "sourceRef": "comment:675851420000000007000273",
+      "commentId": "675851420000000007000273",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "港城ds第一届学生，目前大厂算法岗[偷笑R]",
+      "sourceRef": "comment:67586717000000000c027a63",
+      "commentId": "67586717000000000c027a63",
+      "likes": 3,
+      "author": "DDDDDD"
+    },
+    {
+      "type": "sub_comment",
+      "text": "18年？[石化R]还是生的早爽啊，现在港五一年硕进算法太难了",
+      "sourceRef": "comment:675874a20000000007000531",
+      "commentId": "675874a20000000007000531",
+      "likes": 9,
+      "author": "热辣香骨鸡"
+    },
+    {
+      "type": "comment",
+      "text": "老师捞人了[微笑R]",
+      "sourceRef": "comment:677ba57a000000001100345a",
+      "commentId": "677ba57a000000001100345a",
+      "likes": 2,
+      "author": "阿草"
+    },
+    {
+      "type": "sub_comment",
+      "text": "大爱Antoni[赞R]",
+      "sourceRef": "comment:677bac93000000001b0300ca",
+      "commentId": "677bac93000000001b0300ca",
+      "likes": 2,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "路过点个赞[捂脸R]我跟你一模一样，从贝叶斯估计开始懵逼，EM之后彻底完蛋[哭惹R]",
+      "sourceRef": "comment:6758cc900000000007002e72",
+      "commentId": "6758cc900000000007002e72",
+      "likes": 1,
+      "author": "Pluto"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得城大的课真的挺难的有一说一",
+      "sourceRef": "comment:6758fab7000000001a01bbe2",
+      "commentId": "6758fab7000000001a01bbe2",
+      "likes": 0,
+      "author": "Vivieee"
+    },
+    {
+      "type": "comment",
+      "text": "5489要更容易些吧，编代码为主，从课堂slide上都能找到源码",
+      "sourceRef": "comment:675f2652000000000f030b73",
+      "commentId": "675f2652000000000f030b73",
+      "likes": 1,
+      "author": "Leo不是莱奥"
+    },
+    {
+      "type": "comment",
+      "text": "2012fall eie路过，城大是这样的",
+      "sourceRef": "comment:67590e9c000000000d0030bf",
+      "commentId": "67590e9c000000000d0030bf",
+      "likes": 0,
+      "author": "小红薯3373FHKS"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢他捞我，我平时作业PS都没来得及交给我捞到B！",
+      "sourceRef": "comment:677bbdf2000000001102da3c",
+      "commentId": "677bbdf2000000001102da3c",
+      "likes": 2,
+      "author": "ALIFEROUS%T"
+    },
+    {
+      "type": "comment",
+      "text": "下学期有5489[笑哭R]",
+      "sourceRef": "comment:67585ea1000000001a018f6a",
+      "commentId": "67585ea1000000001a018f6a",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "作业做的人真的想鼠，但是不得不说，确实是学得最多的一门课，希望老师手下留情吧[哭惹R]",
+      "sourceRef": "comment:67587033000000001b002c58",
+      "commentId": "67587033000000001b002c58",
+      "likes": 1,
+      "author": "Mangooooo"
+    },
+    {
+      "type": "comment",
+      "text": "这个课其实就是b站的白板推导 毕竟都是prml的体系[偷笑R]数学也没很难主要是要熟悉那个套路[笑哭R][笑哭R]",
+      "sourceRef": "comment:67591a470000000007016316",
+      "commentId": "67591a470000000007016316",
+      "likes": 3,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "可能因人而异，也确实像楼主说的选之前要权衡考虑下。不过仅个人角度来看，感觉antoni的5487是我本科到phd上过的课程里，老师讲的最好的，自己也收获最多的课程。5489也不错，就是有点偏应用了，主要就是一直在写代码。功利一点的角度来看5487考试，自己认为平常认真做作业，然后考前一周花些时间回顾antoni的祖传板书以及把提供的problem set至少都过一下应该没太大问题应付期末。而且antoni给分挺nice的。另外，对于phd，5487 or 5489将是qual exam里最简单的一部分[捂脸R]",
+      "sourceRef": "comment:675c04ba000000001101b5ad",
+      "commentId": "675c04ba000000001101b5ad",
+      "likes": 5,
+      "author": "冇知道"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]这个的费劲程度 比很多博士课都高 不过老师是好老师 读博选修这个复习基础很不错",
+      "sourceRef": "comment:67586034000000000c010ab0",
+      "commentId": "67586034000000000c010ab0",
+      "likes": 3,
+      "author": "momo🌩"
+    },
+    {
+      "type": "comment",
+      "text": "还好没选[睡觉R]",
+      "sourceRef": "comment:67591ce7000000001a030ba7",
+      "commentId": "67591ce7000000001a030ba7",
+      "likes": 0,
+      "author": "Charlie丁"
+    },
+    {
+      "type": "comment",
+      "text": "当时看的是5489的经验贴选了5487，被自己笑到",
+      "sourceRef": "comment:675966cf0000000011019eb8",
+      "commentId": "675966cf0000000011019eb8",
+      "likes": 3,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "这个课如果老师捞我我寒假补补下学期还要选5489，学得稀里糊涂但也是真的很有意思[笑哭R]但我考得一塌胡涂",
+      "sourceRef": "comment:67587679000000000803e273",
+      "commentId": "67587679000000000803e273",
+      "likes": 5,
+      "author": "ALIFEROUS%T"
+    },
+    {
+      "type": "comment",
+      "text": "说得好[笑哭R]",
+      "sourceRef": "comment:6759233d000000000d0018f8",
+      "commentId": "6759233d000000000d0018f8",
+      "likes": 0,
+      "author": "Starry"
+    },
+    {
+      "type": "comment",
+      "text": "幸亏没选",
+      "sourceRef": "comment:67589e25000000000700396d",
+      "commentId": "67589e25000000000700396d",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "是只有cityu期末这么难吗[哭惹R] 其他学校告诉我一下",
+      "sourceRef": "comment:6758589c000000003d01d4ed",
+      "commentId": "6758589c000000003d01d4ed",
+      "likes": 0,
+      "author": "好运来"
+    },
+    {
+      "type": "sub_comment",
+      "text": "难爆了，事情特别多，压力很大",
+      "sourceRef": "comment:675a2e7d000000000e00ca76",
+      "commentId": "675a2e7d000000000e00ca76",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

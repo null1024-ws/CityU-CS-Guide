@@ -1,0 +1,354 @@
+{
+  "note_id": "6a57a0e0000000001503c78b",
+  "url": "https://www.xiaohongshu.com/explore/6a57a0e0000000001503c78b?xsec_token=AB3RCSpKczqJq6ftmGpMWkn4k7rvSWJvFyWrTnXdtMDnM=",
+  "fetched_at": 1784874314.9980845,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6a57a0e0000000001503c78b",
+        "model_type": "note",
+        "note_card": {
+          "last_update_time": 1784127712000,
+          "note_id": "6a57a0e0000000001503c78b",
+          "title": "CS港博第一学期还可以😌只上一门 豁免两门",
+          "desc": "26 spring 入学的\n第一学期当了两门助教 主要改作业和测验➕监考\n其余时间都用来科研 还是很爽的[派对R]\n对成绩也没有太在意 唯一那门课好好和老师每周sync并写报告就OK了\n课程豁免之前有分享经验 这里就不赘述啦\n\t\n希望第二学期能好好善待我[皱眉R][皱眉R]\n\t\n#phd[话题]# #港博[话题]# #cityu[话题]# #博一[话题]# #计算机科学[话题]#",
+          "tag_list": [
+            {
+              "name": "phd",
+              "type": "topic",
+              "id": "5c0152210e4c820001bfe972"
+            },
+            {
+              "id": "62a87d35000000000101cea7",
+              "name": "港博",
+              "type": "topic"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "6113877c0000000001004088",
+              "name": "博一",
+              "type": "topic"
+            },
+            {
+              "id": "5e4e96a7000000000100451c",
+              "name": "计算机科学",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1784127712000,
+          "ip_location": "广东",
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "user": {
+            "xsec_token": "AB3kdJsa1CIbgAJReWJ6olB02X3h1JSc-V3BU6WrKSDxU=",
+            "user_id": "617382fc000000000201a0b1",
+            "nickname": "fanfan🐰",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208"
+          },
+          "interact_info": {
+            "liked_count": "13",
+            "collected": false,
+            "comment_count": "11",
+            "followed": false,
+            "nice_count": "",
+            "liked": false,
+            "collected_count": "4",
+            "share_count": "1",
+            "relation": "none"
+          },
+          "image_list": [
+            {
+              "height": 696,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/89e742399fa6488ed9b243f5b8bb89a1/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nd_prv_wgth_webp_3"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/3f372a8844bec233914f0d6d0a9dcccc/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nd_dft_wgth_webp_3",
+                  "image_scene": "WB_DFT"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/89e742399fa6488ed9b243f5b8bb89a1/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nd_prv_wgth_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo",
+              "width": 1172,
+              "url": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/3f372a8844bec233914f0d6d0a9dcccc/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nd_dft_wgth_webp_3"
+            }
+          ]
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874315943
+  },
+  "comments": {
+    "comments": [
+      {
+        "status": 0,
+        "at_users": [],
+        "create_time": 1784128009000,
+        "sub_comment_cursor": "6a57a2320000000015017d7d",
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "上海",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "6a57a209000000002902c5d2",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "at_users": [],
+            "like_count": "1",
+            "create_time": 1784128051000,
+            "target_comment": {
+              "id": "6a57a209000000002902c5d2",
+              "user_info": {
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vb0jfepii005q2dbu8mnemljmkl3f8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABg_37HXm7wh796b75LYagLj9vKXz3CS0ODMo1d8-soro=",
+                "user_id": "684d5f91000000001a03bad5"
+              }
+            },
+            "invalid": false,
+            "id": "6a57a2320000000015017d7d",
+            "note_id": "6a57a0e0000000001503c78b",
+            "status": 0,
+            "content": "看人。我豁免了就只有几门",
+            "liked": false,
+            "user_info": {
+              "xsec_token": "ABlsqUTYA6rs3Ar00svcSEd_3PoOhYNR-XoJQ6Wkut-JI=",
+              "user_id": "617382fc000000000201a0b1",
+              "nickname": "fanfan🐰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东"
+          }
+        ],
+        "note_id": "6a57a0e0000000001503c78b",
+        "content": "港城cs博一共要修多少门课啊[偷笑R]",
+        "like_count": "1",
+        "user_info": {
+          "user_id": "684d5f91000000001a03bad5",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vb0jfepii005q2dbu8mnemljmkl3f8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABg_37HXm7wh796b75LYagLj9vKXz3CS0ODMo1d8-soro="
+        }
+      },
+      {
+        "id": "6a624ea3000000002902ce6e",
+        "status": 0,
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "id": "6a6257d40000000015005559",
+            "status": 0,
+            "content": "握手[派对R][派对R]",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "617382fc000000000201a0b1",
+              "nickname": "fanfan🐰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABlsqUTYA6rs3Ar00svcSEd_3PoOhYNR-XoJQ6Wkut-JI="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1784829908000,
+            "note_id": "6a57a0e0000000001503c78b",
+            "like_count": "0",
+            "ip_location": "广东",
+            "target_comment": {
+              "user_info": {
+                "user_id": "5b2e11ebb1da1407d54c55b5",
+                "nickname": "街角YUKI",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/64a7eb46acba9cb89dadfc9c.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABxCVwcCjnRccTHOUF86yASAVninNLbs-y4iLpusFFsUU="
+              },
+              "id": "6a624ea3000000002902ce6e"
+            },
+            "invalid": false
+          }
+        ],
+        "note_id": "6a57a0e0000000001503c78b",
+        "user_info": {
+          "user_id": "5b2e11ebb1da1407d54c55b5",
+          "nickname": "街角YUKI",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/64a7eb46acba9cb89dadfc9c.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABxCVwcCjnRccTHOUF86yASAVninNLbs-y4iLpusFFsUU="
+        },
+        "create_time": 1784827556000,
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "content": "原来我们都是26Spring入学的",
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_count": "4",
+        "liked": false,
+        "ip_location": "爱尔兰",
+        "sub_comment_cursor": "6a6257d40000000015005559"
+      },
+      {
+        "content": "请问本科生课程成绩能申请豁免吗[皱眉R]谢谢",
+        "sub_comment_count": "2",
+        "invalid": false,
+        "note_id": "6a57a0e0000000001503c78b",
+        "status": 0,
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1784163215000,
+        "ip_location": "广东",
+        "sub_comment_cursor": "6a5882bb0000000015016306",
+        "sub_comment_has_more": true,
+        "id": "6a582b8e0000000015012afb",
+        "user_info": {
+          "user_id": "62f74b33000000001e01d2fe",
+          "nickname": "Rowan",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gjqihdhji005onn9cpnjknus8j99lo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB8Hs8HxbL4mCacLwPrQuu6yBvEmFlRUqYM6pkFYl40OY="
+        },
+        "sub_comments": [
+          {
+            "note_id": "6a57a0e0000000001503c78b",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "user_id": "617382fc000000000201a0b1",
+              "nickname": "fanfan🐰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABlsqUTYA6rs3Ar00svcSEd_3PoOhYNR-XoJQ6Wkut-JI="
+            },
+            "target_comment": {
+              "user_info": {
+                "user_id": "62f74b33000000001e01d2fe",
+                "nickname": "Rowan",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gjqihdhji005onn9cpnjknus8j99lo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB8Hs8HxbL4mCacLwPrQuu6yBvEmFlRUqYM6pkFYl40OY="
+              },
+              "id": "6a582b8e0000000015012afb"
+            },
+            "invalid": false,
+            "id": "6a5882bb0000000015016306",
+            "content": "我记得好像是需要硕士的相关课程。不过你最好发邮件问问 sg 或者 cs部门",
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1784185532000,
+            "ip_location": "广东"
+          }
+        ]
+      },
+      {
+        "id": "6a57a16b0000000015012229",
+        "sub_comment_cursor": "",
+        "content": "PhD课程豁免和迟到的off...",
+        "liked": true,
+        "sub_comments": [],
+        "invalid": false,
+        "status": 0,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABlsqUTYA6rs3Ar00svcSEd_3PoOhYNR-XoJQ6Wkut-JI=",
+          "user_id": "617382fc000000000201a0b1",
+          "nickname": "fanfan🐰"
+        },
+        "show_tags": [
+          "is_author"
+        ],
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "note_id": "6a57a0e0000000001503c78b",
+        "at_users": [],
+        "like_count": "1",
+        "create_time": 1784127852000
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 4,
+    "pages_fetched": 1
+  },
+  "search_query": "城大CS5481",
+  "search_item": {
+    "id": "6a57a0e0000000001503c78b",
+    "model_type": "note",
+    "note_card": {
+      "image_list": [
+        {
+          "height": 696,
+          "width": 1172,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/7d95acc06c820af0a3c130844438b1c2/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/7fa7ed6e796de71cf0bc614e0b444803/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "07-15"
+        }
+      ],
+      "type": "normal",
+      "display_title": "CS港博第一学期还可以😌只上一门 豁免两门",
+      "user": {
+        "nick_name": "fanfan🐰",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s6ajo5s005objgbu0j85hdoio208?imageView2/2/w/80/format/jpg",
+        "user_id": "617382fc000000000201a0b1",
+        "nickname": "fanfan🐰",
+        "xsec_token": "ABLdQ8EYl5weBP6vfjcDITk14h7A4sM8tpi2e6S8puZuI="
+      },
+      "interact_info": {
+        "shared_count": "1",
+        "liked": false,
+        "liked_count": "13",
+        "collected": false,
+        "collected_count": "4",
+        "comment_count": "11"
+      },
+      "cover": {
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/7d95acc06c820af0a3c130844438b1c2/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/7fa7ed6e796de71cf0bc614e0b444803/notes_pre_post/1040g3k0322l8ff9g7o005objgbu0j85hte930lo!nc_n_webp_prv_1",
+        "height": 696,
+        "width": 1172
+      }
+    },
+    "xsec_token": "AB3RCSpKczqJq6ftmGpMWkn4k7rvSWJvFyWrTnXdtMDnM="
+  }
+}

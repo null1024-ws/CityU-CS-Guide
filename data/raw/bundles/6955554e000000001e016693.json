@@ -1,0 +1,114 @@
+{
+  "note_id": "6955554e000000001e016693",
+  "url": "https://www.xiaohongshu.com/explore/6955554e000000001e016693?xsec_token=ABaab6IFzhXBNILSuPHTNBf4CVXh5Y5LqMLodcqxocuD4=",
+  "fetched_at": 1784955677.405601,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NTU CCDS CS出分小结（就读指南",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "延续了本科时期的“优良传统”，期末前一周开始突击，但显然低估了五门课叠加的巨大workload（还有本科一点没学过网安的双重debuff，已老实）。\n\t\nSE6001 Computer Security：期中期末开卷，大作业10分。这门课对计算机组成原理和操作系统的知识有一定要求。非科班佬建议提前补充一下相关知识，而且这门是必修课，所以也没办法逃避。\nSE6002 Application Security： 这门课的期中是第一个考的，当时直接玩嗨了根本没有一点学习状态导致直接喜提F，幸好project和final拉回来一点，最终不是很难看。不过这门课虽不涉及硬核实操，难度主要在于记忆（近百页的ppt）而非理解。而且期中考砸的佬也不要害怕，期末和大作业认真写还是能拉到B以上的。\nSE6003 Cryptography： 绝世好老师，课程知识本身很难，涉及到比较深的数学知识，但是考试内容基本全部基于平时的课后题和Tutorial。考试的时候感觉像是填模版，把ppt里面的内容动手算一遍就是满分了。\nSE6011 Network Security： 新手友好课程，期中期末选择很多。其实这几门课的上限极大程度上取决于你的记忆力水平和网安功底。Project有点抽象，好像是关于ctf的，当时时间太紧没怎么研究，但是基本上做就有分。\nSE6014 Security Monitoring & Threat Detection： 比较抽象的课程，感觉对非网安背景的人不是很友好。期中闭卷答的一般，期末虽然是开卷，但是题量很大很难，延长了三次时间我还是没答完。Project没有明确的主题，应该也是写了就有分。这门课选的有点唐突其实，为了试水秋招保证1年之内能毕业所以第一学期必须选五门，而周五只剩下这一节了所以硬着头皮选了。如果只选四门开局的话，确实不建议大家轻易尝试。\n\t\n总而言之，这几门课的上限在于你能记忆多少东西，如果你能通篇背诵老师的ppt话，全部拿A也不是什么问题。对于想在一年内快速毕业的同学，提前安排好期末时间，尽量不要把project丢在期末。\n#NTU[话题]# #新加坡南洋理工大学[话题]# #CCDS[话题]# #网络安全[话题]# #留学新加坡[话题]# #读后感[话题]# #出分[话题]# #网安[话题]# #Cybersecurity[话题]# #硕士生活[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "可以问下实习学分可以找大模型算法类的吗，会被卡吗",
+      "sourceRef": "comment:6a55b0e3000000001403a21a",
+      "commentId": "6a55b0e3000000001403a21a",
+      "likes": 0,
+      "author": "Mirror"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不可以，至少描述肯定是得网安类型的",
+      "sourceRef": "comment:6a55c198000000000802d21c",
+      "commentId": "6a55c198000000000802d21c",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "A+也太耀眼了吧！！！但是monitoring这学期这么难吗？！",
+      "sourceRef": "comment:69555b47000000001d026bd8",
+      "commentId": "69555b47000000001d026bd8",
+      "likes": 0,
+      "author": "纸鸢霖"
+    },
+    {
+      "type": "sub_comment",
+      "text": "期末延长了三次吧差不多十五分钟我还空了两道大题，还是开卷结果抄都抄不完，感觉比较适合有网安基础的[捂脸R][捂脸R][捂脸R]",
+      "sourceRef": "comment:69555e35000000001d024e8f",
+      "commentId": "69555e35000000001d024e8f",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]已经被录了，想问问如果追求分数高的话推荐选哪几门课呀[派对R]",
+      "sourceRef": "comment:69f45d420000000027020fb3",
+      "commentId": "69f45d420000000027020fb3",
+      "likes": 0,
+      "author": "R"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我感觉都不太压分，我成绩不好的那两门确实没太学很长时间。",
+      "sourceRef": "comment:69f45eec000000002702be75",
+      "commentId": "69f45eec000000002702be75",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "求学长的学习资料🥹",
+      "sourceRef": "comment:69560027000000000f02a49f",
+      "commentId": "69560027000000000f02a49f",
+      "likes": 0,
+      "author": "robin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "gpt就是最好的老师[派对R][派对R][派对R]",
+      "sourceRef": "comment:695602a3000000001403f3cf",
+      "commentId": "695602a3000000001403f3cf",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "求学长的学习资料",
+      "sourceRef": "comment:695572fa000000001601e8e9",
+      "commentId": "695572fa000000001601e8e9",
+      "likes": 0,
+      "author": "雷霆嘎巴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[偷笑R][偷笑R][偷笑R]",
+      "sourceRef": "comment:6955f5810000000014036054",
+      "commentId": "6955f5810000000014036054",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "4【复制全文→返回薯队APP】 仅限2月6日内，\"NTU留学生总群\"等你很久了 CA1769 :/#p🤔🐍🐟😍🍔🥖🍔🦁😚🐯🌽🍓",
+      "sourceRef": "comment:696070b7000000001602250c",
+      "commentId": "696070b7000000001602250c",
+      "likes": 0,
+      "author": "湖水清"
+    },
+    {
+      "type": "sub_comment",
+      "text": "美女你好",
+      "sourceRef": "comment:69678f150000000005032b21",
+      "commentId": "69678f150000000005032b21",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

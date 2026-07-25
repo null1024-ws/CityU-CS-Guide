@@ -1,0 +1,20 @@
+{
+  "note_id": "6a1197040000000013020400",
+  "url": "https://www.xiaohongshu.com/explore/6a1197040000000013020400?xsec_token=AB22Vb5yKlAlxoepXRbBcPqRnTBDvQe-OSkqnN5WO4Z5Y=",
+  "fetched_at": 1784952170.1754606,
+  "course_codes": [
+    "CS6601"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS6601 AI review",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "上学期上了AI，忘了写review🤣\n言简意赅这门课很不错且并不难。\n除了min max那个project比较难，其他的我觉得都还好，而且可以drop分数最低那个project。Autograder有上传次数的限制，所以最好自己写一些unit tests在local测一下。\n考试是开卷，然而题多，多选，还是非常烧脑的。\n视频是要认真看的，ed也需要密切关注，特别是考试期间会有对一些题目的clarification和纠正。office hour是单独约，所以深度社恐的我没有去过一次🤣\n上完能学到很多东西，对于我来说code search的skill大大提高了。\n如果搭配DM，一学期两门课很可行。",
+      "sourceRef": "post"
+    }
+  ]
+}

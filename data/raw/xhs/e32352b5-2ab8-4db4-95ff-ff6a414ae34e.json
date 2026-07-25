@@ -1,0 +1,41 @@
+{
+  "note_id": "e32352b5-2ab8-4db4-95ff-ff6a414ae34e",
+  "url": "https://www.xiaohongshu.com/explore/e32352b5-2ab8-4db4-95ff-ff6a414ae34e?xsec_token=ABnbMbyi7l-wCpGwIEGrW97GlgoJlMXpHnqg2dtQfJ9BZaN2ZX5PciaVUazh5LasRIIoiNmjZd9c_yj64_tDSgDZ-bbp_xPMedWpG5rFnRTJU=",
+  "fetched_at": 1784954910.3266442,
+  "search_query": "CityU CS6537",
+  "search_item": {
+    "id": "e32352b5-2ab8-4db4-95ff-ff6a414ae34e#1784954909366",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "e32352b5-2ab8-4db4-95ff-ff6a414ae34e#1784954909366",
+      "queries": [
+        {
+          "id": "cityu cs 6491课程评价",
+          "name": "cityu cs 6491课程评价",
+          "searchWord": "cityu cs 6491课程评价"
+        },
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "cityu ac6691挂科怎么办",
+          "name": "cityu ac6691挂科怎么办",
+          "searchWord": "cityu ac6691挂科怎么办"
+        },
+        {
+          "id": "cityu com5101",
+          "name": "cityu com5101",
+          "searchWord": "cityu com5101"
+        }
+      ]
+    },
+    "xsecToken": "ABnbMbyi7l-wCpGwIEGrW97GlgoJlMXpHnqg2dtQfJ9BZaN2ZX5PciaVUazh5LasRIIoiNmjZd9c_yj64_tDSgDZ-bbp_xPMedWpG5rFnRTJU=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "e32352b5-2ab8-4db4-95ff-ff6a414ae34e#1784954909366"
+  }
+}

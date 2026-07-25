@@ -1,0 +1,180 @@
+{
+  "note_id": "69610180000000002203b08b",
+  "url": "https://www.xiaohongshu.com/explore/69610180000000002203b08b?xsec_token=ABkbtixT-Doq_XcpDeiRcGbV1mohtX8ayhCJNrO2EU8MQ=",
+  "fetched_at": 1784873923.3964257,
+  "note": {
+    "items": [
+      {
+        "ignore": false,
+        "id": "69610180000000002203b08b",
+        "model_type": "note",
+        "note_card": {
+          "type": "normal",
+          "title": "Cityu MSc in CS Semester A课程测评",
+          "user": {
+            "user_id": "61dac2d30000000010005041",
+            "nickname": "Dave",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g",
+            "xsec_token": "ABzXRl2NkYcBjoIFl3L4Sb4YpwKHOTVK51T6yIU8p3Hsw="
+          },
+          "interact_info": {
+            "collected_count": "29",
+            "comment_count": "2",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "liked_count": "19",
+            "collected": false,
+            "share_count": "6",
+            "followed": false
+          },
+          "image_list": [
+            {
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241418/ceb41eb6581924043588cad77417d8e5/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nd_dft_wgth_webp_3",
+              "stream": {},
+              "width": 1116,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241418/c70f4bb442b6cad1f71a78661c1643b5/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241418/ceb41eb6581924043588cad77417d8e5/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241418/c70f4bb442b6cad1f71a78661c1643b5/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nd_prv_wgth_webp_3",
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90",
+              "height": 275,
+              "trace_id": ""
+            }
+          ],
+          "last_update_time": 1773555665000,
+          "desc": "注：疑似有水军吹捧一些课程，各位选课时一切以自己体验为准\n1.计网（必修）\n无考勤无小组作业。课程作业难度和工作量不大。期末开卷，难度不大，题量较多。\n2.软工（必修）\n无考勤无作业，有小组项目（6人）。quiz和期末半开卷，GitHub上有祖传资料，但还是建议自己过遍课件+整理一份cheat sheet。项目给分不错。\n3.数据工程（必修）\n作业给分还行，项目给分一般（6人），期末很多需要记忆。\n4.电子商务（选修）\n2个老师上，前几周IS系的有考勤，后面CS系的没有。IS每周有一个作业（总共4，5个），只用ai即可完成。cs有一个xml设计的作业。IS的大作业需做ppt和写论文。期末IS和CS部分55开，IS部分和作业关联比较大，CS考前会划重点。项目工作量：1周，期末复习时间：2-3天。推荐选\n5.大数据（选修）\n作业数量多但工作量不大（每个大概做30-60分钟），项目围绕并行计算，选题随意。小组要求3-4人。期末难度偏大（如果作业的代码都是ai写的，考场上会憋半天一行都手写不出来），需仔细通读课件和作业。但最后给分不错。项目工作量：2周。期末复习时间：3天",
+          "tag_list": [],
+          "at_user_list": [],
+          "time": 1767965056000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "69610180000000002203b08b"
+        }
+      }
+    ],
+    "current_time": 1784873924462,
+    "cursor_score": ""
+  },
+  "comments": {
+    "comments": [
+      {
+        "status": 0,
+        "user_info": {
+          "user_id": "61dac2d30000000010005041",
+          "nickname": "Dave",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB6pdAsEplFE-88vYJ-f4jgBgZh6sr_Fv0r49ES3cL43E="
+        },
+        "create_time": 1773557299000,
+        "sub_comments": [],
+        "invalid": false,
+        "id": "69b65633000000003103050e",
+        "like_count": "1",
+        "show_tags": [
+          "is_author"
+        ],
+        "ip_location": "广东",
+        "content": "补充说明：1.计网作业大多数为教材习题，答案可搜。搜不到的，用ai也可解决。考前可以不用看ppt，把所有tutorial亲自做一遍就好。2.数据工程，2个作业里第2个是和考试相关的，考前有个答疑课但不划重点。考背诵，B+树，sql，正则，剩下的不记得了。",
+        "at_users": [],
+        "liked": false,
+        "sub_comment_has_more": false,
+        "note_id": "69610180000000002203b08b",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": ""
+      },
+      {
+        "id": "6a3a2c3f000000000802d9e8",
+        "at_users": [],
+        "liked": false,
+        "sub_comment_cursor": "",
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "invalid": false,
+        "status": 0,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "note_id": "69610180000000002203b08b",
+        "content": "大数据老师很有趣[doge]",
+        "user_info": {
+          "user_id": "643f7ec5000000000f0049df",
+          "nickname": "山雀dp5",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB8VF18f6Iq_hO2H8lVpkBeBQY3bP7AgSdI9C61RfBn7E="
+        },
+        "create_time": 1782197311000,
+        "ip_location": "四川",
+        "sub_comments": []
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 2,
+    "pages_fetched": 1
+  },
+  "search_query": "城大 MSc CS 选课",
+  "search_item": {
+    "id": "69610180000000002203b08b",
+    "model_type": "note",
+    "note_card": {
+      "image_list": [
+        {
+          "width": 1116,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/ad81f67ebea6f7bef67e483bb72350d3/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241418/63172c3df8988e05a3e40db4e4f02b0f/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 275
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "03-15"
+        }
+      ],
+      "type": "normal",
+      "display_title": "Cityu MSc in CS Semester A课程测评",
+      "user": {
+        "nick_name": "Dave",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g?imageView2/2/w/80/format/jpg",
+        "user_id": "61dac2d30000000010005041",
+        "nickname": "Dave",
+        "xsec_token": "AB8OwE_cZs_2_akJXC7B_Ny1wvKjQMWY9n0v_hMU-Mkb8="
+      },
+      "interact_info": {
+        "collected": false,
+        "collected_count": "29",
+        "comment_count": "2",
+        "shared_count": "6",
+        "liked": false,
+        "liked_count": "19"
+      },
+      "cover": {
+        "height": 275,
+        "width": 1116,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241418/ad81f67ebea6f7bef67e483bb72350d3/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241418/63172c3df8988e05a3e40db4e4f02b0f/notes_pre_post/1040g3k031r4dheffnu005oeqob9k0k21nbf4v90!nc_n_webp_prv_1"
+      }
+    },
+    "xsec_token": "ABkbtixT-Doq_XcpDeiRcGbV1mohtX8ayhCJNrO2EU8MQ="
+  }
+}

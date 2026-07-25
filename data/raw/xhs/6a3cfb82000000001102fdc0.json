@@ -1,0 +1,236 @@
+{
+  "note_id": "6a3cfb82000000001102fdc0",
+  "url": "https://www.xiaohongshu.com/explore/6a3cfb82000000001102fdc0?xsec_token=ABI-b2qMFHBWgAl07iaETtT8rAv8QcMPlroh96wR-SxlQ=",
+  "fetched_at": 1784874345.9608705,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6a3cfb82000000001102fdc0",
+        "model_type": "note",
+        "note_card": {
+          "title": "CityUHK CS PhD QE 2026 个人分享",
+          "user": {
+            "user_id": "61c736b20000000010008625",
+            "nickname": "银河尽头yu",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg",
+            "xsec_token": "AB3Kq8gn5cmoFL9DQf_3K8h9no7fvon3HrZYU0OmUy2nk="
+          },
+          "interact_info": {
+            "liked": false,
+            "liked_count": "28",
+            "share_count": "3",
+            "relation": "none",
+            "nice_count": "",
+            "collected": false,
+            "collected_count": "18",
+            "comment_count": "4",
+            "followed": false
+          },
+          "image_list": [
+            {
+              "file_id": "1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/b30b01c283a290a18c2a41000d5b0953/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/b7ff0cf7a83f0f4a222ece23f3a43d28/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nd_dft_wlteh_webp_3",
+                  "image_scene": "WB_DFT"
+                }
+              ],
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/b7ff0cf7a83f0f4a222ece23f3a43d28/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nd_dft_wlteh_webp_3",
+              "stream": {},
+              "height": 1600,
+              "width": 1200,
+              "url": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/b30b01c283a290a18c2a41000d5b0953/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nd_prv_wlteh_webp_3",
+              "live_photo": false
+            }
+          ],
+          "tag_list": [],
+          "at_user_list": [],
+          "last_update_time": 1782381442000,
+          "note_id": "6a3cfb82000000001102fdc0",
+          "desc": "看群里讨论和我个人的体感，似乎CS6491出的算是最温和的，重点和semB final类似， 比如判断convex，conjugate function，KKT conditions，以及找optimal solution & value\n\t\nCS5487比往年QE出的稍微复杂一些\n考了 Estimation for a Categorical Dis-tribution with a Dirichlet Prior，知识点大概集中在前面4章\n和Problem set和midterm做过的模式基本相同，log-likelihood，MLE，posterior distribution，MAP，以及对结果的一些解释\n\t\n经提醒隐藏了今年考过具体题目帖",
+          "time": 1782381442000,
+          "ip_location": "中国香港",
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874346909
+  },
+  "comments": {
+    "comments": [
+      {
+        "user_info": {
+          "user_id": "67d92684000000000e01f1e6",
+          "nickname": "小红薯67DA69D7",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABE0ToSOhQEWzMV533rCoBACSHRQNjw8UhQ4bhBvuo7zU="
+        },
+        "ip_location": "中国香港",
+        "id": "6a3d0e7a0000000005009dc7",
+        "status": 0,
+        "liked": false,
+        "create_time": 1782386298000,
+        "sub_comments": [
+          {
+            "note_id": "6a3cfb82000000001102fdc0",
+            "content": "我觉得会吧[哭惹R] QE卡人干啥呀",
+            "at_users": [],
+            "liked": false,
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1782390012000,
+            "target_comment": {
+              "id": "6a3d0e7a0000000005009dc7",
+              "user_info": {
+                "nickname": "小红薯67DA69D7",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABE0ToSOhQEWzMV533rCoBACSHRQNjw8UhQ4bhBvuo7zU=",
+                "user_id": "67d92684000000000e01f1e6"
+              }
+            },
+            "id": "6a3d1cfb000000000b03b824",
+            "status": 0,
+            "user_info": {
+              "user_id": "61c736b20000000010008625",
+              "nickname": "银河尽头yu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB-wqHsDyiloehzAaQaoYerVtS80F2lr7OcwUEBC11Chw="
+            },
+            "ip_location": "中国香港",
+            "invalid": false
+          }
+        ],
+        "note_id": "6a3cfb82000000001102fdc0",
+        "content": "qe会捞人吗，感觉计网好多拿不准",
+        "at_users": [],
+        "like_count": "1",
+        "invalid": false,
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "6a3d1cfb000000000b03b824",
+        "sub_comment_has_more": false
+      },
+      {
+        "id": "6a3d76140000000009014631",
+        "note_id": "6a3cfb82000000001102fdc0",
+        "status": 0,
+        "liked": false,
+        "show_tags": [],
+        "sub_comments": [],
+        "like_count": "0",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "content": "CS5487[捂脸R]我感觉难挺多的",
+        "create_time": 1782412821000,
+        "sub_comment_count": "0",
+        "at_users": [],
+        "user_info": {
+          "user_id": "673b2624000000001c0187fd",
+          "nickname": "苍蝇崽",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31indvnm6gm6g5ppr4oi731vtvrtuf68?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB2sUaKk5oI1luiH-vHTRtAWzNChOiGabq04NMx6ZNy0Y="
+        },
+        "ip_location": "广东",
+        "sub_comment_has_more": false
+      },
+      {
+        "content": "👍👍",
+        "create_time": 1782384301000,
+        "sub_comment_has_more": false,
+        "id": "6a3d06ad0000000029025327",
+        "ip_location": "英国",
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "status": 0,
+        "at_users": [],
+        "invalid": false,
+        "liked": false,
+        "like_count": "1",
+        "user_info": {
+          "user_id": "60082e86000000000100617c",
+          "nickname": "quantummomo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3213n2de2na005o085q308obsidldqug?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABLJJpfkp4p_Z74zPQoCoqBg62C57yz2u3RQ9BqMF8S14="
+        },
+        "show_tags": [],
+        "note_id": "6a3cfb82000000001102fdc0"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 3,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5487 城大CS",
+  "search_item": {
+    "id": "6a3cfb82000000001102fdc0",
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "display_title": "CityUHK CS PhD QE 2026 个人分享",
+      "user": {
+        "nick_name": "银河尽头yu",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/80/format/jpg",
+        "user_id": "61c736b20000000010008625",
+        "nickname": "银河尽头yu",
+        "xsec_token": "AB_NdkdDMQuwGLkZ6mVZd1cp9Klg3pwP8idnDAC0K3wo0="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "28",
+        "collected": false,
+        "collected_count": "18",
+        "comment_count": "4",
+        "shared_count": "3"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/92d532c5e9f30629f9e79ed63f2f703e/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/5f55f9a89dd18a38cd81b3b2ae081119/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/92d532c5e9f30629f9e79ed63f2f703e/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/5f55f9a89dd18a38cd81b3b2ae081119/1040g2sg321r3doqgn0d05oe76qp411h5u8b3nk0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "06-25"
+        }
+      ]
+    },
+    "xsec_token": "ABI-b2qMFHBWgAl07iaETtT8rAv8QcMPlroh96wR-SxlQ="
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "note_id": "695d02f8000000001a035947",
+  "url": "https://www.xiaohongshu.com/explore/695d02f8000000001a035947?xsec_token=ABGy73TvojNEVuLiIZyuM1jbJJrU_p8Jm-DmaLQGB0k3c=",
+  "fetched_at": 1784953714.9979947,
+  "course_codes": [
+    "CS2360"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu yr2 semA 课程指南",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "大二的专业课明显难了不少 但好在还是学的不错\n忘光之前先记录一波～\ncs2360记了不少笔记（为何不能直接给Googledrive链接damn）如果需要的可以dm我～",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "2508你选的那个导师，讲得好吗",
+      "sourceRef": "comment:695d256a000000001601f0ae",
+      "commentId": "695d256a000000001601f0ae",
+      "likes": 1,
+      "author": "Aya"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢女神学姐分享",
+      "sourceRef": "comment:695d0d26000000000e036c49",
+      "commentId": "695d0d26000000000e036c49",
+      "likes": 1,
+      "author": "今天"
+    }
+  ]
+}

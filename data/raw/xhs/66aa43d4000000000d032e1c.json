@@ -1,0 +1,261 @@
+{
+  "note_id": "66aa43d4000000000d032e1c",
+  "url": "https://www.xiaohongshu.com/explore/66aa43d4000000000d032e1c?xsec_token=ABR0VdCYV05FhmLOp3A6tY8uCxMbTDxwQj5b80lnVv_Ws=",
+  "fetched_at": 1784953767.5543242,
+  "note": {
+    "xsecToken": "ABR0VdCYV05FhmLOp3A6tY8uCxMbTDxwQj5b80lnVv_Ws=",
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "tutorial06，（老师要求不能跨tutorial组队）目前已有4人，还需1人，本人中下游985软件工程本科，队友一位是相关专业211本科，另2位是商科转码且擅长文书相关工作。\n\t\n还需1人，希望态度认真负责不摆烂，有事说事，不要不回消息，",
+    "user": {
+      "xsecToken": "ABaI3ghkhHdS8JuIRxd0VnB1_RwP5H0RofPXKv11kVwfE=",
+      "userId": "5fd75f8a000000000101cdf9",
+      "nickname": "不在收敛域内",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3147fb9dr1o005nunbu50bjfp17t4t88"
+    },
+    "imageList": [
+      {
+        "fileId": "1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio",
+        "height": 1762,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251229/5fb38b0c75f0a1e83cc2b976811e59c3/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "width": 1125,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251229/bdb9c932acc2dee95761ac710b825be9/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251229/5fb38b0c75f0a1e83cc2b976811e59c3/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251229/bdb9c932acc2dee95761ac710b825be9/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nd_prv_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "time": 1722434516000,
+    "lastUpdateTime": 1722921937000,
+    "noteId": "66aa43d4000000000d032e1c",
+    "type": "normal",
+    "title": "悉大CS info6007 找队友 冲HD（已满）",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "7",
+      "collectedCount": "10",
+      "commentCount": "8",
+      "relation": "none",
+      "collected": false,
+      "shareCount": "1",
+      "followed": false,
+      "niceCount": ""
+    }
+  },
+  "comments": [
+    {
+      "subCommentCount": "4",
+      "invalid": false,
+      "content": "本科南昌大学软件工程，可以加入小组吗[哇R]",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "60337c660000000001002a58",
+        "nickname": "烤馒头",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdpt7Xr8059AezhZnV1_oDILecEJCyzkmOz_f39fMkxw="
+      },
+      "createTime": 1722462057000,
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "66aa43d4000000000d032e1c",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5fd75f8a000000000101cdf9",
+            "nickname": "不在收敛域内",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3147fb9dr1o005nunbu50bjfp17t4t88?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABW0s5dpV38vlNC8I0ZeKnef6Es5vll3uKCgNRv2V-t8Y="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "66aaaf68000000000b029c90",
+            "userInfo": {
+              "xsecToken": "ABdpt7Xr8059AezhZnV1_oDILecEJCyzkmOz_f39fMkxw=",
+              "userId": "60337c660000000001002a58",
+              "nickname": "烤馒头",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "66aab210000000002600397f",
+          "status": 0,
+          "content": "好哇！[飞吻R]",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1722462736000,
+          "ipLocation": "澳大利亚"
+        }
+      ],
+      "subCommentCursor": "66aab210000000002600397f",
+      "subCommentHasMore": true,
+      "id": "66aaaf68000000000b029c90",
+      "noteId": "66aa43d4000000000d032e1c",
+      "ipLocation": "澳大利亚",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5e156a9d0000000001000e82",
+        "nickname": "焦糖布丁",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63a95101b4956e469e0dd45c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFUMLBThlZ2B-mBaqIdLseFC18eGHCdcr1yhNZubU7mU="
+      },
+      "showTags": [],
+      "createTime": 1722648038000,
+      "ipLocation": "澳大利亚",
+      "subCommentCursor": "66ad8f58000000002600338e",
+      "subCommentHasMore": false,
+      "id": "66ad85e60000000009001d0b",
+      "content": "这学期还是那个名字很长的尼日利亚的老师吗",
+      "atUsers": [],
+      "subComments": [
+        {
+          "likeCount": "0",
+          "createTime": 1722650457000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "66ad85e60000000009001d0b",
+            "userInfo": {
+              "userId": "5e156a9d0000000001000e82",
+              "nickname": "焦糖布丁",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63a95101b4956e469e0dd45c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFUMLBThlZ2B-mBaqIdLseFC18eGHCdcr1yhNZubU7mU="
+            }
+          },
+          "invalid": false,
+          "noteId": "66aa43d4000000000d032e1c",
+          "content": "好像是",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "不在收敛域内",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3147fb9dr1o005nunbu50bjfp17t4t88?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABW0s5dpV38vlNC8I0ZeKnef6Es5vll3uKCgNRv2V-t8Y=",
+            "userId": "5fd75f8a000000000101cdf9"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "id": "66ad8f58000000002600338e",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "invalid": false,
+      "noteId": "66aa43d4000000000d032e1c",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "66ee7b380000000004031c2e",
+      "content": "滴滴滴，一起一起[派对R]",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "66aa43d4000000000d032e1c",
+      "status": 0,
+      "ipLocation": "云南",
+      "subCommentCount": "0",
+      "subComments": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABBgiAGtpMtursCC0V0OfjV-wkxLE_mvevGBcgDMFDyhc=",
+        "userId": "61756b330000000002021740",
+        "nickname": "刺蒺藜",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/647ffff1146627cbecaf4d2a.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1726905145000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6536 怎么样",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "悉大CS info6007 找队友 冲HD（已满）",
+      "user": {
+        "nickname": "不在收敛域内",
+        "xsecToken": "ABsgsJhDWqgjHYdqvGEil3Kon8Zmd0cj6vkeGLs0F76Gg=",
+        "nickName": "不在收敛域内",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3147fb9dr1o005nunbu50bjfp17t4t88?imageView2/2/w/80/format/jpg",
+        "userId": "5fd75f8a000000000101cdf9"
+      },
+      "interactInfo": {
+        "collectedCount": "10",
+        "commentCount": "8",
+        "sharedCount": "1",
+        "liked": false,
+        "likedCount": "7",
+        "collected": false
+      },
+      "cover": {
+        "height": 1762,
+        "width": 1125,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251229/67e0f866ad16c08d283dc3807992afd2/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251229/ea899400fa5e386b40e41e8435fbe8a5/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1762,
+          "width": 1125,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251229/67e0f866ad16c08d283dc3807992afd2/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251229/ea899400fa5e386b40e41e8435fbe8a5/1040g2sg315tv0ogq1c705nunbu50bjfpqagvlio!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-08-06"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABR0VdCYV05FhmLOp3A6tY8uCxMbTDxwQj5b80lnVv_Ws=",
+    "id": "66aa43d4000000000d032e1c",
+    "index": 2,
+    "exposed": true,
+    "trackId": "66aa43d4000000000d032e1c"
+  }
+}

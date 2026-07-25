@@ -1,0 +1,398 @@
+{
+  "note_id": "69b623e9000000001b0023fd",
+  "url": "https://www.xiaohongshu.com/explore/69b623e9000000001b0023fd?xsec_token=ABHRTYqVsLWvaHM3WBeIU5IuyRJoZoadqVDm88GBdjD_A=",
+  "fetched_at": 1784950029.7897975,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "69b623e9000000001b0023fd",
+        "model_type": "note",
+        "note_card": {
+          "note_id": "69b623e9000000001b0023fd",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vo5sr1s486g5p74n6bga6lmvkjkup8",
+            "xsec_token": "ABl7KxRYgSnPCSzokDLEGjzc2p0AqHj6KI6QPLWmkQOgU=",
+            "user_id": "64e4b9970000000001011ab6",
+            "nickname": "织雪藏星"
+          },
+          "interact_info": {
+            "liked_count": "15",
+            "collected_count": "14",
+            "comment_count": "18",
+            "share_count": "2",
+            "followed": false,
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "relation": "none"
+          },
+          "image_list": [
+            {
+              "file_id": "notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o",
+              "height": 768,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/9ee9209174cf97ee4a2b0aced08fd42a/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/34636b9666123fde111b809f24d3e08d/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/9ee9209174cf97ee4a2b0aced08fd42a/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nd_prv_wgth_webp_3",
+              "stream": {},
+              "width": 1025,
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/34636b9666123fde111b809f24d3e08d/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nd_dft_wgth_webp_3",
+              "live_photo": false
+            }
+          ],
+          "at_user_list": [],
+          "last_update_time": 1773544425000,
+          "type": "normal",
+          "title": "cityU cs实习学分可以找内地实习吗",
+          "desc": "如图，计算机系下的cs、ai、ec应该都有这个两年的选项，拿实习抵学分\n所以关键问题是：学校认不认内地的实习？希望有选过两年毕业的前辈解答一下🙏🏻🙏🏻🙏🏻\n（对比下NTU那边的实习学分，据说强制找坡县本地的实习，有点坑）\n#26fall[话题]# #香港城市大学[话题]# #cityu[话题]# #cs[话题]# #NTU[话题]# #找实习[话题]#",
+          "tag_list": [
+            {
+              "id": "6285eb2a000000000101c6c1",
+              "name": "26fall",
+              "type": "topic"
+            },
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "5cd30b11000000000f02eeb8",
+              "name": "cs",
+              "type": "topic"
+            },
+            {
+              "id": "5f4ea74b000000000100a473",
+              "name": "NTU",
+              "type": "topic"
+            },
+            {
+              "id": "5d8984ef000000000103dbba",
+              "name": "找实习",
+              "type": "topic"
+            }
+          ],
+          "time": 1773544425000,
+          "share_info": {
+            "un_share": false
+          }
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784950032462
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "69b623e9000000001b0023fd",
+        "at_users": [],
+        "show_tags": [
+          "is_author",
+          "user_top"
+        ],
+        "ip_location": "广东",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "status": 4,
+        "user_info": {
+          "user_id": "64e4b9970000000001011ab6",
+          "nickname": "织雪藏星",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vo5sr1s486g5p74n6bga6lmvkjkup8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB6S5xCRw2VgI_1wFL2dIFpOLZLIAobRjMfIDzG_athfs="
+        },
+        "create_time": 1773546421000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false,
+        "content": "刚看了一下官网，三个专业都看不到这张图了，但是课程描述里还有实习可选",
+        "liked": false,
+        "id": "69b62bb5000000000103cb56",
+        "like_count": "3"
+      },
+      {
+        "note_id": "69b623e9000000001b0023fd",
+        "status": 0,
+        "at_users": [],
+        "show_tags": [],
+        "id": "69c7448600000000180204c7",
+        "like_count": "0",
+        "create_time": 1774666887000,
+        "sub_comment_has_more": true,
+        "content": "没法说，因为25fall才第一届实行这个政策[捂脸R]等暑假后才能反馈具体情况。",
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q9ehlj6nu505oe41qr41blpjc63kq8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPBqQ_ItQUidsL74c3CCDBQdQGNQQMfkEOnG7FTdJSHk=",
+          "user_id": "61c40eb6000000001000aeb9",
+          "nickname": "Kiraoshi"
+        },
+        "ip_location": "广东",
+        "sub_comment_count": "9",
+        "sub_comment_cursor": "69c759c80000000002028439",
+        "invalid": false,
+        "sub_comments": [
+          {
+            "create_time": 1774672329000,
+            "invalid": false,
+            "id": "69c759c80000000002028439",
+            "note_id": "69b623e9000000001b0023fd",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vo5sr1s486g5p74n6bga6lmvkjkup8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB6S5xCRw2VgI_1wFL2dIFpOLZLIAobRjMfIDzG_athfs=",
+              "user_id": "64e4b9970000000001011ab6",
+              "nickname": "织雪藏星"
+            },
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "69c7448600000000180204c7",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q9ehlj6nu505oe41qr41blpjc63kq8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABPBqQ_ItQUidsL74c3CCDBQdQGNQQMfkEOnG7FTdJSHk=",
+                "user_id": "61c40eb6000000001000aeb9",
+                "nickname": "Kiraoshi"
+              }
+            },
+            "content": "要是不行，那就st读1.5年托底了",
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ]
+          }
+        ]
+      },
+      {
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "AB2-kZAgqdBAIq5FOf2fgFaaf-xYm8jkQl6zYq2HTRwCw=",
+          "user_id": "5ca0438f00000000120109c8",
+          "nickname": "小红书",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sais57p5k005n508e7ki2e8suqb7ig?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "create_time": 1773545586000,
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "sub_comment_cursor": "69b628c80000000001005b98",
+        "note_id": "69b623e9000000001b0023fd",
+        "content": "你好，这个文件在哪看的呀？",
+        "ip_location": "山东",
+        "sub_comments": [
+          {
+            "user_info": {
+              "xsec_token": "AB6S5xCRw2VgI_1wFL2dIFpOLZLIAobRjMfIDzG_athfs=",
+              "user_id": "64e4b9970000000001011ab6",
+              "nickname": "织雪藏星",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vo5sr1s486g5p74n6bga6lmvkjkup8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "69b62872000000000f02d146",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "AB2-kZAgqdBAIq5FOf2fgFaaf-xYm8jkQl6zYq2HTRwCw=",
+                "user_id": "5ca0438f00000000120109c8",
+                "nickname": "小红书",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sais57p5k005n508e7ki2e8suqb7ig?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "id": "69b628c80000000001005b98",
+            "status": 0,
+            "content": "官网，研究生院的专业介绍",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1773545673000,
+            "invalid": false,
+            "note_id": "69b623e9000000001b0023fd",
+            "at_users": [],
+            "liked": false,
+            "like_count": "2"
+          }
+        ],
+        "sub_comment_has_more": true,
+        "id": "69b62872000000000f02d146",
+        "status": 0,
+        "sub_comment_count": "2"
+      },
+      {
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "show_tags": [],
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "sub_comments": [],
+        "id": "69b6469e000000003002798b",
+        "status": 0,
+        "user_info": {
+          "user_id": "61dac2d30000000010005041",
+          "nickname": "Dave",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB2lXF1Vp3SXizwNfrlxDMqFtbAS-UelZnd6WkmB5z8XQ="
+        },
+        "create_time": 1773553311000,
+        "note_id": "69b623e9000000001b0023fd",
+        "content": "可以",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0"
+      },
+      {
+        "content": "实习都可以去内地互联网厂的",
+        "user_info": {
+          "user_id": "660666cf000000000b00e757",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c0br9hngs605pg6cr7ippqnqt88nbg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB65w5R09Qw4Lxkwt9P1ZC_-cWEtwuu1bWlEZgfqn1fMg="
+        },
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "ip_location": "中国香港",
+        "sub_comment_cursor": "",
+        "id": "69b62612000000001400bd99",
+        "note_id": "69b623e9000000001b0023fd",
+        "status": 0,
+        "liked": false,
+        "create_time": 1773544979000,
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "invalid": false
+      },
+      {
+        "at_users": [],
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "id": "69b629c10000000002037c6d",
+        "content": "我记得有标注说内地深圳北京都可以的",
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n65i48bkq005p2nq4d3oqo33ri76co?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPtKq0aiIJcXc9FKBT5XUkqz1U-yY3cHZMtYJ506yZHY=",
+          "user_id": "6457d11a000000000f006b03",
+          "nickname": "momo"
+        },
+        "ip_location": "河南",
+        "sub_comment_has_more": false,
+        "note_id": "69b623e9000000001b0023fd",
+        "status": 0,
+        "show_tags": [],
+        "invalid": false,
+        "like_count": "1",
+        "create_time": 1773545921000,
+        "sub_comment_count": "0"
+      },
+      {
+        "id": "69b691d90000000015008f28",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "note_id": "69b623e9000000001b0023fd",
+        "status": 0,
+        "user_info": {
+          "user_id": "5de13daa00000000010059ad",
+          "nickname": "Lil-dot",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lr6v9f4lu005nf17ml08mdd5d1ibgo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABRAK6BjQ8M200-nJ_v-tbEye-jvRYmlFIYARcG7EwIvg="
+        },
+        "create_time": 1773572570000,
+        "sub_comment_cursor": "",
+        "content": "可以的",
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 7,
+    "pages_fetched": 1
+  },
+  "search_query": "城大CS6537",
+  "search_item": {
+    "id": "69b623e9000000001b0023fd",
+    "model_type": "note",
+    "note_card": {
+      "user": {
+        "nick_name": "织雪藏星",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vo5sr1s486g5p74n6bga6lmvkjkup8?imageView2/2/w/80/format/jpg",
+        "user_id": "64e4b9970000000001011ab6",
+        "nickname": "织雪藏星",
+        "xsec_token": "AB0v1PhhHwVRhwJXEJNI9_pUnn787HTRNDO3eHpYkED8w="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "15",
+        "collected": false,
+        "collected_count": "14",
+        "comment_count": "18",
+        "shared_count": "2"
+      },
+      "cover": {
+        "height": 768,
+        "width": 1025,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/98af9d3ee59331cfba9f966f720f2272/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/bb4cba24c3e14a4b1ea14e750bfe9f93/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 768,
+          "width": 1025,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/98af9d3ee59331cfba9f966f720f2272/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/bb4cba24c3e14a4b1ea14e750bfe9f93/notes_pre_post/1040g3k831tni0gkm6o005p74n6bga6lmiln451o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "03-15"
+        }
+      ],
+      "type": "normal",
+      "display_title": "cityU cs实习学分可以找内地实习吗"
+    },
+    "xsec_token": "ABHRTYqVsLWvaHM3WBeIU5IuyRJoZoadqVDm88GBdjD_A="
+  }
+}

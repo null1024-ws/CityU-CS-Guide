@@ -1,0 +1,43 @@
+{
+  "note_id": "b799d753-1c5e-4230-b831-8bbc0fa91839",
+  "url": "https://www.xiaohongshu.com/explore/b799d753-1c5e-4230-b831-8bbc0fa91839?xsec_token=AB6_SJPjJ0Bc3hbRsnB-ugQ5CxdLgmWCuZCDcDsPJ0eyQ_Ft9bjPzC6eCQdl3h6jm1thLHq6qCeptgz4NwQTdx9gaEWZiIXpJEI4xYJF41SQQ=",
+  "fetched_at": 1784952964.3782604,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS5286",
+  "search_item": {
+    "recQuery": {
+      "source": 1,
+      "wordRequestId": "b799d753-1c5e-4230-b831-8bbc0fa91839#1784952942260",
+      "queries": [
+        {
+          "id": "cityu cs 5487课程评价",
+          "name": "cityu cs 5487课程评价",
+          "searchWord": "cityu cs 5487课程评价"
+        },
+        {
+          "name": "cityu cs 6491课程体验",
+          "searchWord": "cityu cs 6491课程体验",
+          "id": "cityu cs 6491课程体验"
+        },
+        {
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project",
+          "id": "cityu cs project"
+        },
+        {
+          "searchWord": "cityu cs 6382课程",
+          "id": "cityu cs 6382课程",
+          "name": "cityu cs 6382课程"
+        }
+      ],
+      "title": "相关搜索"
+    },
+    "xsecToken": "AB6_SJPjJ0Bc3hbRsnB-ugQ5CxdLgmWCuZCDcDsPJ0eyQ_Ft9bjPzC6eCQdl3h6jm1thLHq6qCeptgz4NwQTdx9gaEWZiIXpJEI4xYJF41SQQ=",
+    "id": "b799d753-1c5e-4230-b831-8bbc0fa91839#1784952942260",
+    "modelType": "rec_query",
+    "index": 6,
+    "exposed": true,
+    "trackId": "b799d753-1c5e-4230-b831-8bbc0fa91839#1784952942260"
+  }
+}

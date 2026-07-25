@@ -1,0 +1,706 @@
+{
+  "note_id": "676793ee000000000b00d2b1",
+  "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+  "fetched_at": 1784874242.6179204,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "676793ee000000000b00d2b1",
+        "model_type": "note",
+        "note_card": {
+          "type": "normal",
+          "title": "cityu cs semA选课攻略（期末速成版）",
+          "desc": "CS5222 Computer Network(必修):\n整个学期体验感最好的一门课，老师英语说的非常好，清晰且流利无口音，每节课都有zoom回放，堪称完美。平时分由三次assignment、一篇research paper和一次wireshark实验构成，共占30%。期末占70%，但是非常好速成且开卷，平时一次课没去过，期末考前跟着zoom上的tutorial过了一遍，轻轻松松。\n\t\nCS5481 Data  Engineering(必修):\n老师说的英语比较慢，也能听懂，无回放。平时分由三次assignment和一个group project 构成，作业给分很高，group project也很好水，花个一周就差不多搞定了。期末是闭卷，考前会划重点，但是不是特别完全，老师说只要别空着就会捞人。这门课速成了个B+树和简单的sql，最后也是轻轻松松。\n\t\nCS5351 Software  Engineering(必修):\n虽然没去，但也不妨碍这是最抽象的一门课，内容抽象，老师的口音也很抽象…分数由group project、research paper、期中和期末构成，group project跟着大佬带飞的，researchpaper 好水的，期中可以带手机，期末只能带三张cheatsheet，全是主观题，挺抽象的，但把字都写满了，不会的就抄cheatsheet上的概念，问题也不大。\n\t\nCS5187 Vision and Image:\n期末出题最好的老师，巨巨巨放水，yyds，主观题基本全是送分题，平时一次课没去过，考前看了2h，轻轻松松通过，有手就行。平时分由两次assignment和一个单人project构成，也是好水的。强烈建议选！\n\t\nEC5001 Introduction to Ecommerce:\n这个课一看名字就水，也确实如此，纯文科，平时分由一个简单的课后作业，签到，group project构成，签到也就前8节课那个老师有要求，group project也是非常的好水，chatgtp轻轻松松。期末也全是主观题，建议多看看各种概念的对比，也是比较好过的。\n\t\n另外说说其他几门：\nmachine learing：我看选了的同学都叫苦不迭，作业一周一留，考试考的还特别难，建议没必要没苦硬吃，别选。\n\t\ninformation security for Ecommerce：虽说没有group project，但是也是很难，看选了的同学也是各种后悔，叫苦不迭，还速成不了，没基础的期末简直是看天书，而且课还是在周五晚上就很阴间，建议是别选。",
+          "tag_list": [],
+          "time": 1734841326000,
+          "last_update_time": 1736235685000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "676793ee000000000b00d2b1",
+          "user": {
+            "user_id": "5e465dea0000000001002bda",
+            "nickname": "cout《helloworld",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0",
+            "xsec_token": "AB4OqO1eWB9xQsZPGM1DamcRbF5zW3C_pfy54OlVdwOk8="
+          },
+          "interact_info": {
+            "comment_count": "30",
+            "share_count": "30",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "liked_count": "108",
+            "collected": false,
+            "collected_count": "134",
+            "followed": false
+          },
+          "image_list": [
+            {
+              "file_id": "1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o",
+              "height": 518,
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/0d44c722424d557fd8b4a8869f1c5e6e/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/0e465960b87bd55e9e8a902218507951/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/0d44c722424d557fd8b4a8869f1c5e6e/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nd_prv_wgth_webp_3",
+              "live_photo": false,
+              "width": 1440,
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/0e465960b87bd55e9e8a902218507951/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nd_dft_wgth_webp_3",
+              "stream": {}
+            },
+            {
+              "height": 2144,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/7bda6a2eae95ad90b5b0fa855810f2f0/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/349994affc5f08fff1eb0c1b32ea3d3b/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "live_photo": false,
+              "width": 1516,
+              "url": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/7bda6a2eae95ad90b5b0fa855810f2f0/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/349994affc5f08fff1eb0c1b32ea3d3b/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nd_dft_wlteh_webp_3",
+              "stream": {},
+              "file_id": "1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90"
+            }
+          ],
+          "at_user_list": []
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874243676
+  },
+  "comments": {
+    "comments": [
+      {
+        "sub_comment_count": "4",
+        "note_id": "676793ee000000000b00d2b1",
+        "like_count": "2",
+        "user_info": {
+          "xsec_token": "ABC-uRxtZfiBj3E_ummJLkjhK34aFCerSm2J8UADl4WOY=",
+          "user_id": "5f963db9000000000100017d",
+          "nickname": "梦想是骑车环游世界",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pkihnkkkg6g5nsm7msg80bt14hqvdg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "create_time": 1734842448000,
+        "sub_comments": [
+          {
+            "status": 0,
+            "liked": false,
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE=",
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1734842662000,
+            "ip_location": "广东",
+            "note_id": "676793ee000000000b00d2b1",
+            "content": "其他的课似乎都不用学吧 期末看一天就能过了[偷笑R]",
+            "at_users": [],
+            "like_count": "0",
+            "target_comment": {
+              "id": "67679850000000001102fab9",
+              "user_info": {
+                "user_id": "5f963db9000000000100017d",
+                "nickname": "梦想是骑车环游世界",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pkihnkkkg6g5nsm7msg80bt14hqvdg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABC-uRxtZfiBj3E_ummJLkjhK34aFCerSm2J8UADl4WOY="
+              }
+            },
+            "invalid": false,
+            "id": "67679925000000001102c112"
+          }
+        ],
+        "sub_comment_cursor": "67679925000000001102c112",
+        "content": "可能因为有挂科的原因。我学网络安全学的最认真，我觉得是这几门课里最简单的",
+        "at_users": [],
+        "liked": false,
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "id": "67679850000000001102fab9",
+        "status": 0,
+        "show_tags": [],
+        "ip_location": "广东"
+      },
+      {
+        "content": "真的轻轻松松吗",
+        "at_users": [],
+        "like_count": "1",
+        "show_tags": [],
+        "liked": false,
+        "invalid": false,
+        "note_id": "676793ee000000000b00d2b1",
+        "user_info": {
+          "nickname": "阿白",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315ta4lf3go605or33sdnraobmalr7t0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABCuyVRGMBR76umwsCvuEZJg5ZJzsia9O6Ir6SPp5KM58=",
+          "user_id": "63631f1b000000001f01ab0b"
+        },
+        "sub_comments": [
+          {
+            "invalid": false,
+            "note_id": "676793ee000000000b00d2b1",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE="
+            },
+            "create_time": 1734844571000,
+            "target_comment": {
+              "id": "67679f13000000000f0328b1",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABCuyVRGMBR76umwsCvuEZJg5ZJzsia9O6Ir6SPp5KM58=",
+                "user_id": "63631f1b000000001f01ab0b",
+                "nickname": "阿白",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315ta4lf3go605or33sdnraobmalr7t0?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "id": "6767a09a000000001200d35b",
+            "content": "考前一天速成 问题不大[doge]",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东"
+          }
+        ],
+        "create_time": 1734844180000,
+        "ip_location": "湖南",
+        "sub_comment_count": "4",
+        "sub_comment_cursor": "6767a09a000000001200d35b",
+        "sub_comment_has_more": true,
+        "id": "67679f13000000000f0328b1",
+        "status": 3
+      },
+      {
+        "status": 0,
+        "content": "学长，5222怎么速成[哭惹R]现在课没怎么上过[哭惹R][哭惹R]",
+        "liked": false,
+        "like_count": "0",
+        "ip_location": "中国香港",
+        "at_users": [],
+        "sub_comments": [
+          {
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "6911d411000000003902feac",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABNaESoDuSkqlvEiOETNjc9Q-kPNTasDkkevYaCGV19Oc=",
+                "user_id": "629a637e000000001b026f5d",
+                "nickname": "T^T",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "id": "6911d441000000003800cbc4",
+            "status": 0,
+            "content": "老师有录播的 两天就学完了 有手就行",
+            "user_info": {
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE=",
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "create_time": 1762776129000,
+            "invalid": false,
+            "note_id": "676793ee000000000b00d2b1"
+          }
+        ],
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABNaESoDuSkqlvEiOETNjc9Q-kPNTasDkkevYaCGV19Oc=",
+          "user_id": "629a637e000000001b026f5d",
+          "nickname": "T^T",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg"
+        },
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "show_tags": [],
+        "create_time": 1762776082000,
+        "sub_comment_cursor": "6911d441000000003800cbc4",
+        "sub_comment_count": "3",
+        "id": "6911d411000000003902feac",
+        "note_id": "676793ee000000000b00d2b1"
+      },
+      {
+        "id": "677e35bc0000000022008e5f",
+        "note_id": "676793ee000000000b00d2b1",
+        "content": "vision image这个课的内容是什么呀",
+        "user_info": {
+          "user_id": "60d6b8460000000001007cab",
+          "nickname": "npm-i",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg="
+        },
+        "show_tags": [],
+        "ip_location": "上海",
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "677e373d000000002200c512",
+        "at_users": [],
+        "liked": false,
+        "create_time": 1736324541000,
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "status": 0,
+        "like_count": "1",
+        "sub_comments": [
+          {
+            "create_time": 1736324925000,
+            "note_id": "676793ee000000000b00d2b1",
+            "liked": false,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "677e35bc0000000022008e5f",
+              "user_info": {
+                "nickname": "npm-i",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg=",
+                "user_id": "60d6b8460000000001007cab"
+              }
+            },
+            "invalid": false,
+            "id": "677e373d000000002200c512",
+            "status": 0,
+            "content": "都不用学 把PPT打印出来一抄就过了[偷笑R]",
+            "at_users": [],
+            "like_count": "1",
+            "user_info": {
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE="
+            },
+            "show_tags": [
+              "is_author"
+            ]
+          }
+        ]
+      },
+      {
+        "content": "蹲个semb",
+        "at_users": [],
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "liked": false,
+        "create_time": 1750763119000,
+        "sub_comment_cursor": "685a8ada0000000004015bdc",
+        "status": 3,
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "note_id": "676793ee000000000b00d2b1",
+            "status": 0,
+            "content": "vivo50[doge]",
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1750764251000,
+            "id": "685a8ada0000000004015bdc",
+            "at_users": [],
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "685a866e000000000401bf1f",
+              "user_info": {
+                "xsec_token": "ABTuWzAxSyALRpCnuDbEYMs_SaiNoTRgJjZUK4FfVr0Yk=",
+                "user_id": "57dd057550c4b45e256c3a73",
+                "nickname": "oo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s63a6v55m6048mq0l2naejjkr3o8to?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "id": "685a866e000000000401bf1f",
+        "note_id": "676793ee000000000b00d2b1",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s63a6v55m6048mq0l2naejjkr3o8to?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTuWzAxSyALRpCnuDbEYMs_SaiNoTRgJjZUK4FfVr0Yk=",
+          "user_id": "57dd057550c4b45e256c3a73",
+          "nickname": "oo"
+        }
+      },
+      {
+        "id": "67679bd3000000001003d814",
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "nickname": "D000000",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uhun5rvhu005ogaflfk188ilj2gpno?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABmLnQZXcR2Aee3ceHbVZLdYQOGn37BENTnbywyVVlq8w=",
+          "user_id": "620a7d5f000000001000a112"
+        },
+        "sub_comment_count": "1",
+        "invalid": false,
+        "sub_comments": [
+          {
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "67679bd3000000001003d814",
+              "user_info": {
+                "user_id": "620a7d5f000000001000a112",
+                "nickname": "D000000",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uhun5rvhu005ogaflfk188ilj2gpno?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABmLnQZXcR2Aee3ceHbVZLdYQOGn37BENTnbywyVVlq8w="
+              }
+            },
+            "invalid": false,
+            "id": "67679f89000000001200ab43",
+            "note_id": "676793ee000000000b00d2b1",
+            "content": "巧了嗷[doge]",
+            "liked": false,
+            "user_info": {
+              "user_id": "5e465dea0000000001002bda",
+              "nickname": "cout《helloworld",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1IQbXiSt3rqaHgfbVOCHQaI8XnI2BVIM5mTAyGEnFcE="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1734844297000,
+            "status": 0,
+            "at_users": [],
+            "like_count": "0"
+          }
+        ],
+        "note_id": "676793ee000000000b00d2b1",
+        "status": 0,
+        "at_users": [],
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "content": "成功在小红书刷到🍦哥[doge]",
+        "show_tags": [],
+        "create_time": 1734843347000,
+        "sub_comment_cursor": "67679f89000000001200ab43"
+      },
+      {
+        "content": "请问EC5001的签到一定要人当场到嘛？",
+        "show_tags": [],
+        "create_time": 1756438303000,
+        "invalid": false,
+        "note_id": "676793ee000000000b00d2b1",
+        "status": 0,
+        "at_users": [],
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "id": "68b11f1f000000002601b713",
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABvk_yfwrBADBVvCye21JdzlYDZFXa_dNMTG89lYEjF3w=",
+          "user_id": "5d0077ea000000001601d0ba",
+          "nickname": "鹅不溜秋",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315ihn3q10m005n80evl5jk5qdmvh3fg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "liked": false,
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false
+      },
+      {
+        "note_id": "676793ee000000000b00d2b1",
+        "status": 0,
+        "ip_location": "中国香港",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "content": "图里面的B+树好可爱[哇R]",
+        "liked": false,
+        "sub_comments": [],
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "id": "677118890000000011032c7b",
+        "user_info": {
+          "xsec_token": "ABkjyZ6Wp-SWc-yqT545uH3viJ2yYXy-gWrrdLd4-_tlE=",
+          "user_id": "5ff54d52000000000101d4ad",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/648702510a89c912a4248212.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "create_time": 1735465098000
+      },
+      {
+        "id": "6768360d000000000f0392fc",
+        "content": "真的轻轻松松吗😱",
+        "ip_location": "中国香港",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "note_id": "676793ee000000000b00d2b1",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1734882830000,
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "invalid": false,
+        "status": 0,
+        "user_info": {
+          "xsec_token": "ABPkZubA4RdCdnrpJQnjB6WA7jI-LrsGG19Z0CDqSKja4=",
+          "user_id": "5a7b1d6911be1003935a5b48",
+          "nickname": "很讨厌取名字",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e066fiqge004a1b27emimq8frflrto?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        }
+      },
+      {
+        "ip_location": "广东",
+        "note_id": "676793ee000000000b00d2b1",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "id": "6767d421000000000e00f7ba",
+        "status": 0,
+        "liked": false,
+        "invalid": false,
+        "content": "网络安全属实难崩",
+        "like_count": "0",
+        "user_info": {
+          "nickname": "王璐柒的日常生活",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317djles43q6g5o7g0t885u899dbdt4g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABHtlYitsKnidMr06YGEu2d5CryRH7OvQI9UsqLMBgEuU=",
+          "user_id": "60f00750000000002002f909"
+        },
+        "sub_comments": [],
+        "at_users": [],
+        "show_tags": [],
+        "create_time": 1734857761000
+      },
+      {
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1734845352000,
+        "sub_comments": [],
+        "at_users": [],
+        "user_info": {
+          "user_id": "5fad2b45000000000101c71e",
+          "nickname": "寒夜溯溯",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvs62g4go6g5ntd5d2gbhou16rjdt0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB3EZd5VQYEI8Or4KMj74NBMESa0HqVlsOWVLNNoQYaXM="
+        },
+        "ip_location": "广东",
+        "sub_comment_cursor": "",
+        "id": "6767a3a8000000000f031c53",
+        "liked": false,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "note_id": "676793ee000000000b00d2b1",
+        "status": 0,
+        "content": "5487[doge]"
+      },
+      {
+        "note_id": "676793ee000000000b00d2b1",
+        "like_count": "0",
+        "invalid": false,
+        "status": 0,
+        "at_users": [],
+        "show_tags": [],
+        "create_time": 1734844385000,
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "id": "67679fe00000000010019e78",
+        "content": "ds专业实名羡慕",
+        "user_info": {
+          "xsec_token": "ABqNGIPWTXkTKoZ6msEQQytHn6QhwanUyuIGgLh6gyE-c=",
+          "user_id": "61068379000000000101c616",
+          "nickname": "小白菜",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31797cehbgm5g5o86gdsgbhgmur0ehkg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "liked": false,
+        "sub_comments": []
+      },
+      {
+        "create_time": 1734866624000,
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "id": "6767f6c0000000001100274c",
+        "like_count": "6",
+        "show_tags": [],
+        "note_id": "676793ee000000000b00d2b1",
+        "status": -2,
+        "ip_location": "江西",
+        "sub_comment_count": "3",
+        "sub_comments": [
+          {
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABo9nylOjwMDZF9_Mjb6wMHOKLiE4NZkBumNX5meQemEk=",
+              "user_id": "612d92f0000000002002daa6",
+              "nickname": "lalaland",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ng901dq5m005o9dibo85ml6rhr9k3g?imageView2/2/w/120/format/jpg"
+            },
+            "create_time": 1757333683000,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "6767f6c0000000001100274c",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/64f5ba3ca986565a60c45f00.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB5VS_iJBOx67G3UqTWlb7QcX1qjzflpDJLriKP01Y3a0=",
+                "user_id": "64f57e0f0000000005002d49",
+                "nickname": "好运来"
+              }
+            },
+            "invalid": false,
+            "note_id": "676793ee000000000b00d2b1",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [],
+            "id": "68bec8b200000000020163c2",
+            "status": 0,
+            "content": "5187也难吗[笑哭R]"
+          }
+        ],
+        "sub_comment_cursor": "68bec8b200000000020163c2",
+        "content": "本final抱佛脚学渣表示：不要代入钟佬视角，所有的再往上加一个难度，cityu final难度不小。",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "64f57e0f0000000005002d49",
+          "nickname": "好运来",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/64f5ba3ca986565a60c45f00.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB5VS_iJBOx67G3UqTWlb7QcX1qjzflpDJLriKP01Y3a0="
+        }
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 13,
+    "pages_fetched": 2
+  },
+  "search_query": "CS5351 CityU",
+  "search_item": {
+    "model_type": "note",
+    "note_card": {
+      "type": "normal",
+      "display_title": "cityu cs semA选课攻略（期末速成版）",
+      "user": {
+        "xsec_token": "AB2KcotXhc4h1MphCpn9Q1Zejw3P-FhOK75NfjmT0phyU=",
+        "nick_name": "cout《helloworld",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311d5s20lmg6g5ni6bnl08auqu9cost0?imageView2/2/w/80/format/jpg",
+        "user_id": "5e465dea0000000001002bda",
+        "nickname": "cout《helloworld"
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "108",
+        "collected": false,
+        "collected_count": "134",
+        "comment_count": "30",
+        "shared_count": "30"
+      },
+      "cover": {
+        "height": 518,
+        "width": 1440,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241423/b7684db477f8eeab9781c0bc2f0f7337/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241423/6fad84518416c951c4b533c92d9e5a0f/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 518,
+          "width": 1440,
+          "info_list": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/b7684db477f8eeab9781c0bc2f0f7337/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nc_n_webp_mw_1",
+              "image_scene": "WB_DFT"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/6fad84518416c951c4b533c92d9e5a0f/1040g2sg31cbjtt0510dg5ni6bnl08auq5g6c09o!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2144,
+          "width": 1516,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/f375594cc5a3f0207d46cd775d82b467/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/6e63122098c8528929537d750c9fe8e3/1040g2sg31bmr1m8kgkdg5ni6bnl08auqp80bh90!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-01-07"
+        }
+      ]
+    },
+    "xsec_token": "AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+    "id": "676793ee000000000b00d2b1"
+  }
+}

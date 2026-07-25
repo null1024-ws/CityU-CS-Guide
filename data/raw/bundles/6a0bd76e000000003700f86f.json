@@ -1,0 +1,47 @@
+{
+  "note_id": "6a0bd76e000000003700f86f",
+  "url": "https://www.xiaohongshu.com/explore/6a0bd76e000000003700f86f?xsec_token=ABhbQcz06VLSSPUzCUuOMVTFnDu0p-O2fdsPAHbpU2Qn4=",
+  "fetched_at": 1784953923.8080094,
+  "course_codes": [
+    "CS5182",
+    "CS5296",
+    "CS5491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS Master SemB",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这学期根据📕推荐选了4门课，留了一门给st\n课程总结与推荐（混子版，所有课无考勤）\n[星R]CS5182 计算机图形学（选修）\n[红色心形R]想省事的话闭眼选，无quiz，无作业，一个小组项目，闭卷期中＋期末。\n[红色心形R]想不听课还拿高分慎选，期中和期末题型差不多。期末十道大题：CPU和GPU、3D转换两道计算、线性裁剪算法、平行与透视投影、光线追踪和辐射度、混叠种类和抗混叠、照明中的几个反射。基本没去过几节课，复习起来比较吃力。\n[星R]CS5296 云计算（选修）\n[红色心形R]无quiz，三个作业，两个paper review，一个小组项目，无期中，全开卷期末。\n[红色心形R]作业比较多，想省事不建议选。期末内容超多，计算也多，2小时没写完，打印了全部的PPT有时候也找不到地方，空了好几个题。\n[星R] CS5491 人工智能（选修）\n[红色心形R]不用多说无脑选，无quiz，四个作业（很简单），一个小组项目，全开卷期中＋期末。\n[红色心形R]爽课，没有之一。作业简单，虽然多但是很快就能搞定。期中和期末只需要把全部tutorial弄懂然后带着上考场就行，上课PPT完全不用看，完全根据t课出题。期末包括剪枝、强化学习、MDP、D分离\n[星R] CS6493 自然语言处理（选修）\n[红色心形R]无quiz，两个作业，一个小组项目，无期中，闭卷期末。\n[红色心形R]因为对这门课比较感兴趣所以选了，两个老师交替上课，其中一个老师是上学期数据工程的老师，比较喜欢，大部分讲的都是LLM相关。期末五道大题：NLU和NLG、F1-Score计算、BLEU计算、RAG、prompt设计、代码大题等\n#香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "更水的人来了 薛哥",
+      "sourceRef": "comment:6a0f2ef9000000002a0241c6",
+      "commentId": "6a0f2ef9000000002a0241c6",
+      "likes": 1,
+      "author": "28"
+    },
+    {
+      "type": "comment",
+      "text": "5182慎选吧只能说[doge]",
+      "sourceRef": "comment:6a0bf9bd000000002b02840a",
+      "commentId": "6a0bf9bd000000002b02840a",
+      "likes": 1,
+      "author": "🤨"
+    },
+    {
+      "type": "comment",
+      "text": "[赞R][赞R][暗中观察R]",
+      "sourceRef": "comment:6a0c24dc00000000290264a3",
+      "commentId": "6a0c24dc00000000290264a3",
+      "likes": 0,
+      "author": "Townshend"
+    }
+  ]
+}

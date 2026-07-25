@@ -1,0 +1,50 @@
+{
+  "note_id": "68c7c654000000001d029694",
+  "url": "https://www.xiaohongshu.com/explore/68c7c654000000001d029694?xsec_token=ABT6LXTRaG0NBEYI-a0jubrsQcU9ZQZqqXens1J4lKCI4=",
+  "fetched_at": 1784950065.3760762,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "城大cs的学生有问题可以去找这个",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#香港城市大学[话题]# #计算机专业[话题]#\n不知道为啥CS不像MHC一样宣传，导致都没几个人知道有这个，看他的描述还挺实用的。\n（其实就是最近真的超多人找我问各种问题[失望R][失望R]，想把工作分给本来就是干这个事的人，而且学校还会给他们工资[失望R]）\nPS：是下周才开始，现在应该没有",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这个是什么平台呀",
+      "sourceRef": "comment:68c7c7fb000000000b01e324",
+      "commentId": "68c7c7fb000000000b01e324",
+      "likes": 0,
+      "author": "Thatcher"
+    },
+    {
+      "type": "sub_comment",
+      "text": "CS Clinic",
+      "sourceRef": "comment:68c7c8470000000030032155",
+      "commentId": "68c7c8470000000030032155",
+      "likes": 0,
+      "author": "楓"
+    },
+    {
+      "type": "comment",
+      "text": "我也是几周前才知道有代码诊所",
+      "sourceRef": "comment:68c84ce6000000003001d55d",
+      "commentId": "68c84ce6000000003001d55d",
+      "likes": 1,
+      "author": "咕嘟就是叻喨"
+    },
+    {
+      "type": "comment",
+      "text": "非常感谢！",
+      "sourceRef": "comment:68c7f102000000000b02b945",
+      "commentId": "68c7f102000000000b02b945",
+      "likes": 0,
+      "author": "相遇与追及问题"
+    }
+  ]
+}

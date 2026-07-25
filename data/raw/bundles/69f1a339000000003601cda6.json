@@ -1,0 +1,44 @@
+{
+  "note_id": "69f1a339000000003601cda6",
+  "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+  "fetched_at": 1784874238.579537,
+  "course_codes": [
+    "CS5351"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityUHK CS5351 课程锐评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "免责声明： 由于课程的形式和难度每一年都会有变化，同时本人的评价带有个人主观性，以下内容仅供参考。\n\t\n首先这门课是目前 CS 专业的必修课，同时课程的评价是两极分化的，我个人觉得这门课程讲授的概念和理论是比较实用且先进的。特别是对你之后使用 AI Coding 工具有蛮大的指导意义的（例如如何有效需求分析以及拆解任务，并通过软件测试来保证产品的维护性，以及在时间有限的情况下如何在多个质量属性下做 tradeoff）\n\t\n其次这个课程的 workload 绝对是我参加的课程里面的最大的，有两次线下 quiz 测验，每个占总成绩的 10%，你可以理解为一个期中小测和期末前的小测，题量还是有的。\n\t\n同时作为重头戏的 group project 占总分 30 %，项目本身必须与软件工程相关，并且要按照敏捷开发的流程来进行。同时要交付源代码/项目Demo视频/ 演示 PPT 视频，尽管可以使用 AI，但是你会发现多人协作来开发一个软件项目是非常耗费精力的工作（不过好消息是这绝对是你上手 ai coding 的最佳机会！\n\t\n同时还有一个阅读指定论文提交 1000 words report 的作业（占总分 10%）\n\t\n期末考试占比 40 %，一共10道题目，每个题目十分。\n\t\n这里我简单描述一下大概考了什么内容\nQ1 是一个比较短的scenario 场景题目，有一个project变化太快，同时又adhoc-workflow 问题，队友说可以用incremental model，第一问问你觉得应该用什么model好，第二问回答为什么incremental不行\nQ2 描述了一个 team 为了快速修复bugs，不构建测试。问你这个TD的Intentionality/Types/Time horizon/Degree of Focus，第二问问你哪三种方法可以有效管理TD\nQ3 的scenario中存在两个问题，一是存在有冲突的需求，二是需求太多了做不完，问你应该怎么使用RE中的方法来解决。\n\t\n最后我觉得这门课程适合你有一定的项目开发经验，同时想系统学习一下 software engineering 这门课程的同学。如果你不想从事软件开发的工作只想混学分毕业的话，我建议选课期间提交申请免修这门课（前提你本科修读过类似课程\n#选课[话题]# #cityu[话题]# #计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "比本科时候的软工轻松多了，那时候做一个项目每一步都在网上一通找[笑哭R]",
+      "sourceRef": "comment:69f1a70500000000270235bb",
+      "commentId": "69f1a70500000000270235bb",
+      "likes": 2,
+      "author": "嘻嘻哈哈"
+    },
+    {
+      "type": "comment",
+      "text": "一点没写错，如果是真想学东西，这课上上还行。但水硕大部分人都是想水，这课几乎要素拉满了：两次quiz，大型项目，给分低，考试难。我两个学期十门课这门课独一档的烦，强烈建议申请豁免。",
+      "sourceRef": "comment:69f49b60000000002803ba2f",
+      "commentId": "69f49b60000000002803ba2f",
+      "likes": 0,
+      "author": "用户已注销"
+    },
+    {
+      "type": "comment",
+      "text": "[微笑R]中介和代写别来骚扰我。 同时支持付费咨询",
+      "sourceRef": "comment:69f1ede80000000028030246",
+      "commentId": "69f1ede80000000028030246",
+      "likes": 0,
+      "author": "efan404"
+    }
+  ]
+}

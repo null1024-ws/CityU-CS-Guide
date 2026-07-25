@@ -1,0 +1,39 @@
+{
+  "note_id": "67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724",
+  "url": "https://www.xiaohongshu.com/explore/67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724?xsec_token=AB36qEOjnPU6I_XuEibsPaY6SRasDFPbgdA2iAmTRhGZoOUhK_88UtpVlGF_agmJhI6Bs5o32-uON1rWX2Pj9gW5e6DTFyeVL8ZpgsrmU9ZJo=",
+  "fetched_at": 1784874058.0722132,
+  "note": {},
+  "search_query": "香港城市大学 CS 选课",
+  "search_item": {
+    "id": "67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724",
+    "model_type": "rec_query",
+    "rec_query": {
+      "title": "相关搜索",
+      "source": 1,
+      "word_request_id": "67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724",
+      "queries": [
+        {
+          "id": "cityu cs semb选课",
+          "name": "cityu cs semb选课",
+          "search_word": "cityu cs semb选课"
+        },
+        {
+          "id": "港城cs什么时候选课",
+          "name": "港城cs什么时候选课",
+          "search_word": "港城cs什么时候选课"
+        },
+        {
+          "id": "香港城市大学cs硕士选课",
+          "name": "香港城市大学cs硕士选课",
+          "search_word": "香港城市大学cs硕士选课"
+        },
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "search_word": "香港城市大学cs课程"
+        }
+      ]
+    },
+    "xsec_token": "AB36qEOjnPU6I_XuEibsPaY6SRasDFPbgdA2iAmTRhGZoOUhK_88UtpVlGF_agmJhI6Bs5o32-uON1rWX2Pj9gW5e6DTFyeVL8ZpgsrmU9ZJo="
+  }
+}

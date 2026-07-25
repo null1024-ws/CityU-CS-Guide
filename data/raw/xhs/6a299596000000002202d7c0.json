@@ -1,0 +1,816 @@
+{
+  "note_id": "6a299596000000002202d7c0",
+  "url": "https://www.xiaohongshu.com/explore/6a299596000000002202d7c0?xsec_token=ABdu2Kl4S0HnaSUYjpNAmt4J7xSgphXYuLDGsHjH2oL50=",
+  "fetched_at": 1784955870.2624762,
+  "note": {
+    "xsecToken": "ABdu2Kl4S0HnaSUYjpNAmt4J7xSgphXYuLDGsHjH2oL50=",
+    "tagList": [
+      {
+        "id": "5e7fe6610000000001009356",
+        "name": "深度学习",
+        "type": "topic"
+      },
+      {
+        "id": "66679f030000000003019af9",
+        "name": "CS336",
+        "type": "topic"
+      },
+      {
+        "id": "61a23a210000000001001ef7",
+        "name": "数据清洗",
+        "type": "topic"
+      },
+      {
+        "name": "大模型",
+        "type": "topic",
+        "id": "624d11eb000000000101e223"
+      },
+      {
+        "type": "topic",
+        "id": "664dae14000000001b02ffb5",
+        "name": "scaling_law"
+      }
+    ],
+    "atUserList": [],
+    "noteId": "6a299596000000002202d7c0",
+    "type": "normal",
+    "title": "CS336 作业4 Lec9 11 Scaling Law & Data",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "2",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "1",
+      "commentCount": "3",
+      "shareCount": "",
+      "relation": "none"
+    },
+    "time": 1781136047000,
+    "lastUpdateTime": 1781150771000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "最近听了CS336 Lecture9和11，并做了assignment 4, 初步了解了 Scaling Law和Data Filtering。\n\t\n关于Data Filtering：\nAssignment从原始Common Crawl HTML按text extraction(Unicode), language identification(fastText), personal information masking(email, phone,ip), harmful content filtering(NSFW, toxic, fastText), quality classifier, deduplication(MinHash, LSH)的顺序大致过一遍数据清晰。一些想法，\n1.  真正去扫WARC我才感到html里template materials以及黄色内容比例之高（大部分普通网站也有黄色广告），并且绝大部分内容都是低质量推文，理解了为什么早期NLP那么依赖Wiki等高质量数据。\n2. 考虑到数据规模很大，data filter必须很高效（比如MinHash、LSH算法），但是像harmful/toxic content 或者 quality control这种任务Gopher这样简单匹配又不够，fastText性能其实也不高，所以我感觉data filter最重要的是把明显无效、重复的数据给filter（事实上这占很大一部分，减少pretrain的token burden），可控性还是放在safety SFT。\n3. Transformer架构memorize和抗noise能力很强（我之前看过论文说3.6token/para.），因此不要过渡为了数据的干净而过渡压缩数据，但是删除明显noise文档对模型是有提升的（如删去短页面）\n\t\n关于Scaling Law 可以被拆成两部分：\n1. 给定 FLOPs（算力），如何权衡模型大小和数据规模？例如著名的经验公式C≈6ND，还有 kaplan/chinchilla, 更进一步的，在小模型上实验数据组合、重复次数等可以外推到大模型。\n2. 如何让batchsize,LR等超参数在scale过程中变得可迁移？比如muP 如何调整宽度、stepfun的研究。\n#深度学习[话题]# #CS336[话题]# #数据清洗[话题]# #大模型[话题]# #scaling_law[话题]#",
+    "user": {
+      "userId": "69abd8960000000032024e99",
+      "nickname": "你的大野牛来了！",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v78jsi7jq005qdbr2bckjkp8kimls0",
+      "xsecToken": "ABjmxAUvfc0Cey7hrwReJOZQYBy9M2WhQbF7fbZnwovNQ="
+    },
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368",
+        "height": 1440,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/c3dcc00364b8b596ac4985c33a4b4a4e/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/3e6a29d9a38d9a65b394cc1429ade3c7/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/c3dcc00364b8b596ac4985c33a4b4a4e/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/3e6a29d9a38d9a65b394cc1429ade3c7/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "fileId": "spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0",
+        "height": 1440,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/632a9bc4cc2add303fa8c37392c23b29/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 1080,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/632a9bc4cc2add303fa8c37392c23b29/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/e9162a8a736d642e647cdc2c365bb39d/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/e9162a8a736d642e647cdc2c365bb39d/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/794e976bfcba25932960c4e31045ffad/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/ec6a33a51c483b6b4721fcd11e3dc478/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/794e976bfcba25932960c4e31045ffad/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/ec6a33a51c483b6b4721fcd11e3dc478/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0",
+        "height": 1440
+      },
+      {
+        "width": 1080,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/939a409eacf779ce849d651da97c7167/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1440,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/baf0b0ae8d372fa4a1104ce775082972/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/939a409eacf779ce849d651da97c7167/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/baf0b0ae8d372fa4a1104ce775082972/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo"
+      },
+      {
+        "fileId": "spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18",
+        "height": 1440,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/62421d5064519cee939011c140702773/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/6e506c68925af50c00c93648cb6f5da5/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "width": 1080,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/62421d5064519cee939011c140702773/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/6e506c68925af50c00c93648cb6f5da5/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "width": 1080,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/203bac75049f29222070c5d100545e18/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/1076f753ff0eef7c44ce54b08137a782/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/1076f753ff0eef7c44ce54b08137a782/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg",
+        "height": 1440,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/203bac75049f29222070c5d100545e18/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nd_prv_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo",
+        "height": 1440,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "stream": {},
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/268976fbf213ff72c08585ef6bd03f7c/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/3ccd84149768669c1709eb8e58f7cf2b/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/268976fbf213ff72c08585ef6bd03f7c/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/3ccd84149768669c1709eb8e58f7cf2b/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "height": 1440,
+        "width": 1080,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/b6a0b3f8df6c89a7d081cb0c92930905/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/831c2eb02cb40fbd966e6e818a44792d/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/b6a0b3f8df6c89a7d081cb0c92930905/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/831c2eb02cb40fbd966e6e818a44792d/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850",
+        "url": "",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/7f61cf4f72887e9f42813e63c81e9232/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/dbd6b3185844864c6f90b1751ae6b1d9/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/7f61cf4f72887e9f42813e63c81e9232/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/dbd6b3185844864c6f90b1751ae6b1d9/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g",
+        "height": 1440,
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "width": 1080,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/5f48271237a1b4efdc9aafb821992bdb/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/4a97a6478272245a6e318fb4936aadf2/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/5f48271237a1b4efdc9aafb821992bdb/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/4a97a6478272245a6e318fb4936aadf2/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "width": 1080,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/24e5e6713413be401bb637ae69b67a4d/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/87157cf4d56611ba6cadfbba065e8a51/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/24e5e6713413be401bb637ae69b67a4d/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/87157cf4d56611ba6cadfbba065e8a51/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g",
+        "url": "",
+        "livePhoto": false,
+        "height": 1440
+      },
+      {
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60",
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/364e703662656c885a5031a869b1260b/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/04d790a9f786dcc073d7a29bcae98d31/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/364e703662656c885a5031a869b1260b/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/04d790a9f786dcc073d7a29bcae98d31/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1440,
+        "width": 1080,
+        "traceId": ""
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/4cf64ec2e1569230bb5af552f45e866b/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg",
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1440,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/443b971225d4eedfea49206bead74ba7/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/4cf64ec2e1569230bb5af552f45e866b/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/443b971225d4eedfea49206bead74ba7/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nd_prv_wlteh_jpg_3"
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/8c86d758ebb34f600876629a77bd8868/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/bf0999f4eb69ad77faff9700b968b32c/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/8c86d758ebb34f600876629a77bd8868/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/bf0999f4eb69ad77faff9700b968b32c/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0",
+        "height": 1440,
+        "width": 1080,
+        "url": "",
+        "traceId": ""
+      },
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/d5e9daa54e0e1b72988915fb4074df6f/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/a5705439e6b615739e10f980d06b5696/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "width": 1080,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/d5e9daa54e0e1b72988915fb4074df6f/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/a5705439e6b615739e10f980d06b5696/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo",
+        "height": 1440
+      },
+      {
+        "fileId": "spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg",
+        "width": 1080,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/df3f43a09e863046efe9260a6f3a7147/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/56a8b2255b5d40fe8996c3ecd7ed0809/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/df3f43a09e863046efe9260a6f3a7147/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1440,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/56a8b2255b5d40fe8996c3ecd7ed0809/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8",
+        "height": 1440,
+        "width": 1080,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/a1d10877dc69ca09a6214754f0ddeafb/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/d619db41fdc170a309a8d76d5d862b9a/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/a1d10877dc69ca09a6214754f0ddeafb/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nd_prv_wlteh_jpg_3",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/d619db41fdc170a309a8d76d5d862b9a/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "fileId": "spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg",
+        "height": 1440,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/227e11d036db2e4172d41ecb6b7cd7b7/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "width": 1080,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/227e11d036db2e4172d41ecb6b7cd7b7/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251304/8f98f76742bb20ec940662bcf53cd8d6/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/8f98f76742bb20ec940662bcf53cd8d6/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ]
+  },
+  "comments": [
+    {
+      "likeCount": "0",
+      "ipLocation": "上海",
+      "subCommentCursor": "6a602d6c0000000029026006",
+      "pictures": [
+        {
+          "width": 432,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/bd8311baea20df0ceb8123ae643a0427/comment/1040g2h0322tjom3d02505piljh90ubbjc5ivo28!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/64c0e816ad332d22ed88247fe96f2653/comment/1040g2h0322tjom3d02505piljh90ubbjc5ivo28!nd_whgt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/bd8311baea20df0ceb8123ae643a0427/comment/1040g2h0322tjom3d02505piljh90ubbjc5ivo28!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/64c0e816ad332d22ed88247fe96f2653/comment/1040g2h0322tjom3d02505piljh90ubbjc5ivo28!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 432
+        }
+      ],
+      "id": "6a602d450000000015014f54",
+      "noteId": "6a299596000000002202d7c0",
+      "status": 0,
+      "content": "",
+      "createTime": 1784687942000,
+      "atUsers": [],
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABCbhxEhPFD0zroRwymai9Z2VWnfMUux30AnjOOfQ5ATE=",
+        "userId": "66559c520000000003032d73",
+        "nickname": "气宇轩昂",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pmt236d4g6g5piljh90ubbjsa5ovu0?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "content": "[哭惹R]pku",
+          "liked": false,
+          "userInfo": {
+            "nickname": "你的大野牛来了！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v78jsi7jq005qdbr2bckjkp8kimls0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDTHms82Uyd-d3fnWyaOgC_rKGQKYf2pDoqv7n-uQjP8=",
+            "userId": "69abd8960000000032024e99"
+          },
+          "ipLocation": "安徽",
+          "targetComment": {
+            "id": "6a602d450000000015014f54",
+            "userInfo": {
+              "userId": "66559c520000000003032d73",
+              "nickname": "气宇轩昂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pmt236d4g6g5piljh90ubbjsa5ovu0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABCbhxEhPFD0zroRwymai9Z2VWnfMUux30AnjOOfQ5ATE="
+            }
+          },
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784687981000,
+          "pictures": [],
+          "invalid": false,
+          "id": "6a602d6c0000000029026006",
+          "noteId": "6a299596000000002202d7c0",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5367 怎么样",
+  "search_item": {
+    "id": "6a299596000000002202d7c0",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1440,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251304/d67407f3adcf7e868a0d690b89ca81d1/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251304/42e04bd8301f900aa554c360b72fa7e3/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/d67407f3adcf7e868a0d690b89ca81d1/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/42e04bd8301f900aa554c360b72fa7e3/spectrum/1040g34o32189nbrtn2705qdbr2bckjkpjof6368!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/140adb5df772359446ed9711bc687b8a/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/6b6de1ce10cc6a3da2c742ffb9cec949/spectrum/1040g34o32189nbrtn27g5qdbr2bckjkp74nrcl0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440,
+          "width": 1080
+        },
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/786be4ea1d1f924c603db8d215e62563/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/554f57aedb587f92a8f35d31dfa29db7/spectrum/1040g34o32189nbrtn2805qdbr2bckjkpjnd43g0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/df1225e782991053fa882375ef52045d/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/b0c2515620f6f0fda5d7dbb3cf3c0c86/spectrum/1040g34o32189nbrtn28g5qdbr2bckjkpvv11mqo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/46acb3b49e26f3c2b55b1f8596297528/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/89decef0963f9539a6442862897c70f0/spectrum/1040g34o32189nbrtn2905qdbr2bckjkp9rqme18!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/96c385be7eaa4fb47b76ab4b2a0eea77/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/95bb2ea9c1a856a8bb3a4002030618ad/spectrum/1040g34o32189nbrtn29g5qdbr2bckjkpc2gq9gg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/2c142df151a922fc156cd135489c9957/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/b38c4c0253f474516ce6cf6d55373e27/spectrum/1040g34o32189nbrtn2a05qdbr2bckjkps0rggvo!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/a34e29b16e48b327fa7c6cbf5807a1dc/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/1e0a71df627e8ae8d990f2e804e41352/spectrum/1040g34o32189nbrtn2ag5qdbr2bckjkpq5nd850!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/ff194d2a54f433717dad1625ad180a7b/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/ebb00b1b6cd202b6b455d4a9fe086c8f/spectrum/1040g34o32189nbrtn2b05qdbr2bckjkp1pmt12g!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/8511d7ad28cf7a0f9f1f86aa62029410/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/015b141ced059c968d3f674a4f076c5b/spectrum/1040g34o32189nbrtn2bg5qdbr2bckjkp2jo3pho!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/985a9f7b78621d236696267b316959a2/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/c8bb121505f18244640d7b8c7d235c66/spectrum/1040g34o32189nbrtn2c05qdbr2bckjkpfq9ia7g!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/a459ac4706d5253545d73d3a12b7fc95/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/26a7fa13e6ebf80ac836e950e47c110b/spectrum/1040g34o32189nbrtn2cg5qdbr2bckjkp1tuoa60!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/0d8940cf6833fdf4e3b6d195afc85bda/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/00ddd79b67df84cba782f5ffa49bbb87/spectrum/1040g34o32189nbrtn2d05qdbr2bckjkpm480dsg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/9ae87ff97e20dc4d7d32c78acfb7c082/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/ec61f1a79d63487a161fc5b13cd4a3ef/spectrum/1040g34o32189nbrtn2dg5qdbr2bckjkpp7i89o0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/7421b5fe0355237b22a12455dcba0e26/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/511c2c3071c445cf41955bd7e4e9be65/spectrum/1040g0k032189nbu174005qdbr2bckjkpjont0lo!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/88edd10885a565ecfb3951b5a191d948/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/86be5e8b32615e2efcd8a4099b2db38a/spectrum/1040g0k032189nbu1740g5qdbr2bckjkpsjcdcjg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/d71bff09b7251d34eef60a723277c58c/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/0123765be7bc78ae8dbdebf3588be105/spectrum/1040g0k032189nbu174105qdbr2bckjkp5ig08a8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1440
+        },
+        {
+          "height": 1440,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/68929c3ef0ff7ec9359be3174cc11300/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251304/48cbab7abfdfd6208ba862ebdf798d5f/spectrum/1040g0k032189nfjqn4005qdbr2bckjkp5fai9fg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-11"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CS336 作业4 Lec9 11 Scaling Law & Data",
+      "user": {
+        "nickName": "你的大野牛来了！",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v78jsi7jq005qdbr2bckjkp8kimls0?imageView2/2/w/80/format/jpg",
+        "userId": "69abd8960000000032024e99",
+        "nickname": "你的大野牛来了！",
+        "xsecToken": "ABwRfmA0LThmLj0pnTHvcxb31nyFlQJ2QSWQBw5KRnaWs="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "1",
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "3",
+        "sharedCount": "0"
+      }
+    },
+    "xsecToken": "ABdu2Kl4S0HnaSUYjpNAmt4J7xSgphXYuLDGsHjH2oL50=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6a299596000000002202d7c0"
+  }
+}

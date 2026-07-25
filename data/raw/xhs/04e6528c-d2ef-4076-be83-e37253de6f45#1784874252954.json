@@ -1,0 +1,39 @@
+{
+  "note_id": "04e6528c-d2ef-4076-be83-e37253de6f45",
+  "url": "https://www.xiaohongshu.com/explore/04e6528c-d2ef-4076-be83-e37253de6f45?xsec_token=AB3frqdBxRpGDcffvpO29EXHrODuSD5z2HiMJq2WeZTGlWRyBukg7sPMSUZEP47GJ4P7LWYZtbBc-aX-23cuSXCOex8xGc8Xd8bPmkvTyu6vY=",
+  "fetched_at": 1784874255.3687582,
+  "note": {},
+  "search_query": "城大CS5351",
+  "search_item": {
+    "id": "04e6528c-d2ef-4076-be83-e37253de6f45#1784874252954",
+    "model_type": "rec_query",
+    "rec_query": {
+      "title": "相关搜索",
+      "source": 1,
+      "word_request_id": "04e6528c-d2ef-4076-be83-e37253de6f45#1784874252954",
+      "queries": [
+        {
+          "id": "港城cs5351",
+          "name": "港城cs5351",
+          "search_word": "港城cs5351"
+        },
+        {
+          "name": "cityu cs选课",
+          "search_word": "cityu cs选课",
+          "id": "cityu cs选课"
+        },
+        {
+          "id": "cityu cs留位费",
+          "name": "cityu cs留位费",
+          "search_word": "cityu cs留位费"
+        },
+        {
+          "id": "cityu cs课程",
+          "name": "cityu cs课程",
+          "search_word": "cityu cs课程"
+        }
+      ]
+    },
+    "xsec_token": "AB3frqdBxRpGDcffvpO29EXHrODuSD5z2HiMJq2WeZTGlWRyBukg7sPMSUZEP47GJ4P7LWYZtbBc-aX-23cuSXCOex8xGc8Xd8bPmkvTyu6vY="
+  }
+}

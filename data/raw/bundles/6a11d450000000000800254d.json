@@ -1,0 +1,28 @@
+{
+  "note_id": "6a11d450000000000800254d",
+  "url": "https://www.xiaohongshu.com/explore/6a11d450000000000800254d?xsec_token=AB22Vb5yKlAlxoepXRbBcPqSZ5KKP1yoxIFZN5rtVyg2s=",
+  "fetched_at": 1784952482.3616872,
+  "course_codes": [
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS6493:自然语言处理",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "经过半个月的临时抱佛脚，主播这学期很幸运得拿到了3 A➕的成绩（终于爆4啦🤗\n最近闲着也是闲着，打算出几篇课程介绍给之后的同学们提供一些选课/考试参考。\n\t\n我们先从这学期比较有难度的课程说起- CS6493NLP（据说6开头的课程是研究生课程里面难度最高的😦 [5489警告🫵]）\n1️⃣课程概览：这门课由Song Linqi老师和Ma Chen老师交替教授，第一个小时tutorial会在colab上跑一些小实验介绍后面lecture的相关内容，后面两个小时lecture讲ppt。有两次home work和一个group project，期末闭卷考试，具体assessment见P3。课程没有考勤，没有zoom回放，老师给分很慷慨👍\n\t\n2️⃣课程内容：像P4展示的那样，课程覆盖了nlp的很多方面，从word embedding，到传统的LM，又到LLM基础和应用，正如Ma Chen老师所说，课程内容十分广泛，但是没有足够的时间深入。我个人感觉，课程十分适合入门，可以快速建立对语言模型的认知。但是想要了解llm的最新技术，还得自己从网上学习。虽然说适合入门，但PPT内容也是很有含金量的，经常一个PPT融合十几篇论文的成果，想要全都理解还是需要花一点时间。\n\t\n3️⃣学习建议：主播从transformer那节课开始翘课的（和好朋友去吃印度菜去了😲），后面第九节课才开始接着去上。由于之前也没做过相关工作，所以自己抽时间去看了一下transformer论文，这里推荐Jay Alammar的博客，PPT里也引用了不少他博客里的图。总体来讲最难理解的部分是self attention，其他板块还是相对容易突击的。虽然 attention 期末只考了一点点🤏，但这部分还是值得多花时间，因为它会影响后面很多内容的理解。\n\t\n4️⃣其他：我在后续图片中放了我回忆的期末试题，方便大家复习的时候掌握复习尺度（仅！供！参！考！）\n\t\n5️⃣选课tips：虽然这门课有所谓的先修课要求，但到真正选课的时候全部都会豁免。所以不要为了能在B学期选这门课，在A学期选自己不喜欢/风评不好的先修课。\n#CityU[话题]# #CS[话题]# #NLP[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "听不懂🐻博士",
+      "sourceRef": "comment:6a11e2db000000002803468f",
+      "commentId": "6a11e2db000000002803468f",
+      "likes": 0,
+      "author": "odoh"
+    }
+  ]
+}

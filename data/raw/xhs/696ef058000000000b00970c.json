@@ -1,0 +1,89 @@
+{
+  "note_id": "696ef058000000000b00970c",
+  "url": "https://www.xiaohongshu.com/explore/696ef058000000000b00970c?xsec_token=ABzO66SPkI9rv4Q0XPZRJu-gB2OCOsb848DKYHu4hDItg=",
+  "fetched_at": 1784955906.9350476,
+  "search_query": "CS5367 避雷",
+  "search_item": {
+    "id": "696ef058000000000b00970c",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-20"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "hku cs sem1出分及课程评价",
+      "user": {
+        "nickname": "🌲",
+        "xsecToken": "AB6xPs6ZqmvToTkOfXYDdDX-Ta6lMfol1njObYHDr1RnE=",
+        "nickName": "🌲",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5dbc27a400000000010041fd.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5dbc27a400000000010041fd"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "37",
+        "commentCount": "11",
+        "sharedCount": "11",
+        "liked": false,
+        "likedCount": "41"
+      },
+      "cover": {
+        "height": 4032,
+        "width": 3024,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251305/32cb3b32f309101825e91f0430c55fe0/note_pre_post_uhdr/1040g3r031ri0mk6a700g5nds4ui08gftt6fh1ho!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251305/f4c368f87c5511f5223964be9a72e09d/note_pre_post_uhdr/1040g3r031ri0mk6a700g5nds4ui08gftt6fh1ho!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/32cb3b32f309101825e91f0430c55fe0/note_pre_post_uhdr/1040g3r031ri0mk6a700g5nds4ui08gftt6fh1ho!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/f4c368f87c5511f5223964be9a72e09d/note_pre_post_uhdr/1040g3r031ri0mk6a700g5nds4ui08gftt6fh1ho!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 4032,
+          "width": 3024
+        },
+        {
+          "width": 823,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/077c63e274ba495b578dfe4735231106/notes_pre_post/1040g3k031ri0m48vhq105nds4ui08gft4krvpig!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/753025b4c189a8d3d3dc278ffbfa6cd9/notes_pre_post/1040g3k031ri0m48vhq105nds4ui08gft4krvpig!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 239
+        },
+        {
+          "height": 1683,
+          "width": 1190,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/4d4b1ea9f8853e790ee9c139df2b8d21/notes_pre_post/1040g3k031ri0m48vhq1g5nds4ui08gftne90fio!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251305/bba44d865bb28687473459cac8c39764/notes_pre_post/1040g3k031ri0m48vhq1g5nds4ui08gftne90fio!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABzO66SPkI9rv4Q0XPZRJu-gB2OCOsb848DKYHu4hDItg=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "696ef058000000000b00970c"
+  }
+}

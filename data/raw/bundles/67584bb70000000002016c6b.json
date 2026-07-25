@@ -1,0 +1,68 @@
+{
+  "note_id": "67584bb70000000002016c6b",
+  "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
+  "fetched_at": 1784874269.1158562,
+  "course_codes": [
+    "CS5481"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学CS5481 Data Engineering",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人。讲课内容涉及的地方挺多，前半部分是数据抓取，处理，可视化，中间聊了聊大模型，后半部分讲了讲数据索引(B树B+树)，数据存储sql，nosql，以及推荐系统等等，涉及到的内容不少，每节课的tutorial基本是教授这节课涉及到的编程，比较详细，然后有两次作业，难度不高，还有一个小组合作项目，可以在老师给的题目当中选，有简单的比如数据可视化可以划水。最后一节课还有复习课，会带着你把重点过一遍然后讲讲presentation以及期末注意事项，甚至还有答疑环节。不管是想水还是深挖感觉都可以选这门课，下学期老师应该还会带nlp。哦对了，有线上直播还有录播非常棒。\n期末考试难度感觉还好，基本都上课提过。\n#香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问5481有实验课吗，上课在几点呀",
+      "sourceRef": "comment:6a4c9ce50000000015000125",
+      "commentId": "6a4c9ce50000000015000125",
+      "likes": 0,
+      "author": "不错不错"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为看到有人这个课6点开始，前后两个教室",
+      "sourceRef": "comment:6a4c9d22000000001500120e",
+      "commentId": "6a4c9d22000000001500120e",
+      "likes": 0,
+      "author": "不错不错"
+    },
+    {
+      "type": "comment",
+      "text": "请问有pre吗",
+      "sourceRef": "comment:68ac337e0000000030029c9e",
+      "commentId": "68ac337e0000000030029c9e",
+      "likes": 0,
+      "author": "12Pac"
+    },
+    {
+      "type": "comment",
+      "text": "请问这门课semb开吗[哭惹R]",
+      "sourceRef": "comment:68b54ca2000000000b016a3d",
+      "commentId": "68b54ca2000000000b016a3d",
+      "likes": 0,
+      "author": "kk脆汁机"
+    },
+    {
+      "type": "comment",
+      "text": "请问这门课需要前置课程吗？今年好像有，但前置课程我们不能选，5481可以选，好奇怪[笑哭R]",
+      "sourceRef": "comment:688c7a1c000000002a00d0f1",
+      "commentId": "688c7a1c000000002a00d0f1",
+      "likes": 0,
+      "author": "去冰猫猫头"
+    },
+    {
+      "type": "sub_comment",
+      "text": "前置课一般来说没法选，可以提交一个本科成绩单证明修过类似的课程豁免",
+      "sourceRef": "comment:688c80fd0000000029033507",
+      "commentId": "688c80fd0000000029033507",
+      "likes": 0,
+      "author": "Richett_L"
+    }
+  ]
+}

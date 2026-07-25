@@ -1,0 +1,126 @@
+{
+  "courseCode": "CS5483",
+  "fields": {
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 3
+    },
+    "grading": {
+      "value": "harsh",
+      "label": "压分",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：繁重×1、轻松×1",
+      "variants": {
+        "heavy": 1,
+        "light": 1
+      }
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "68a5b6d5000000001d00171a",
+      "url": "https://www.xiaohongshu.com/explore/68a5b6d5000000001d00171a?xsec_token=ABLbCQKSaUlLosgQZx1LBINEjZs2hLSND3wwOmdeOnIG8=",
+      "excerpt": "CS5483 Data Warehousing and Data Mining；这课虽然叫 Data Warehousing and Data Mining，但 90% 的内容都是围绕数据挖掘展开的；来自 MIT 的老师，讲课不是在引导学生思考，就是在引导学生思考的路上，比较喜欢跟大家在课堂上互动；上课讲的内容比较重要，因为 PPT 上会留空，课上边讲边填，还会做一些笔记；作业可以在老师部署的 JupiterLab 环境中完成和提交，非常方便，主要用到 Python + Weka，要你补全 Pyhton 代码或者提供 Weka 截图，并回答相关问题，Weka 没用过不要紧，作业会有非常详细的引导，完全不用担心上不了手；Problem Sets 和 Project 1 的工作量并不大，主要还是在 Project 2 上；期中和期末都是线下机考，不过会提供模拟考，可以提前摸清考试内容和题型，机考会有一个 check 机制，允许独立检查每道题目是否完全做对，每次 check 失败会扣分（不会超过那道题的分数），但如果不 check 就提交，错了的题就一分没有了，个人是觉得这个 check 机制挺好的；看得出来，老师在作业和考试的设计上用心良苦",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史6⃣"
+    },
+    {
+      "noteId": "682d5b26000000000c039eaf",
+      "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+      "excerpt": "2.CS5483 Data Warehousing and Data Mining；10*tutorial5%+个人project10%+group project15%+midterm 20%+final 50%；tutorial耗时耗力难度大，性价比太低，网上也找不到答案，直接放弃了。个人project答案和期中试卷已上传github。期中期末考试都挺简单，期末考了DBSCAN，BUC两个算法排序题,DBSCAN和Optics的异同填空题，Single linkage and k-means，Apriori and association rules, FOIL and Info Gain,没考第十二章数据仓库的内容。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu cs semB 课程测评"
+    },
+    {
+      "noteId": "682e95a7000000002301c25e",
+      "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+      "excerpt": "CS5483 DM: 5%平日作业 10%个人Proj 15%小组Proj 20%期中 50%期末；workload；授课及口音 平时一周一次作业有课程回放，考前没复习课但提供模拟机考。老师是本硕博MIT给你美本的上课体验，教你批判思考小组作业要去评审其他小组然后挑刺。教学内容事无巨细，JupyterLab 有各种Material配置了自动评分系统、答疑AI和Ubuntu虚拟机跑Weka，平日作业和个人Proj都在这上面交。小组Proj跟Weka无关要自己选题选数据集，要录制Pre视频。期中期末都在机房机考，基本是期中考Classification和决策树期末考聚类和Apriori，信息熵计算贯穿始终。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期B 选课"
+    },
+    {
+      "noteId": "66bf27a800000000250322f8",
+      "url": "https://www.xiaohongshu.com/explore/66bf27a800000000250322f8?xsec_token=AB-xgSHmDbSXkGFlv0-KwRmPlRUO1Ep8Swb_ryhGds79E=",
+      "excerpt": "CS5483 Data Warehousing and Data Mining；分数构成：assignment, project, midterm, final,tutorial（附加分）；强度比ML稍低一点，教授水平非常非常高，讲课也是由浅入深，但是喜欢快节奏的人会觉得有点拖沓。难度比ML低，内容上有部分重合；midterm和final都是机答，听课或者看过课程回放，复习ppt后不难；project不需要做太难的，但是教授对于细节要求很高，针对上课讲过的，但project呈现模糊的地方，在pre的时候会提出质疑，并且要求学生在报告中研究清楚。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课2"
+    },
+    {
+      "noteId": "682dfcfd00000000120000d9",
+      "url": "https://www.xiaohongshu.com/explore/682dfcfd00000000120000d9?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXJmN-5eCm9wsW5rxrkWekUY=",
+      "excerpt": "CS5483 Data Warehousing & Data Mining；和CS5489 的很多也挂钩，设计到聚类、决策树、各种模型等等，内容总体不太，但老师讲课很详细，有Zoom和回放，非常友好的一门课。tutorial占比很少，但量很多，会用到weka。考试是半交互式的系统，需要提前熟悉，期中和期末都是这个形式，且在机房考。有个人project，也有小组作业。tutorial和个人project都是在jupyter上提交。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS SEMB"
+    },
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS5483 Data mining；个人认为是我在cityu上过最有意思的课，老师讲课质量挺高，就是PPT有点抽象。期中和期末是机考，有check机制，所以考完就能知道自己大概的分数。平时有很多tutorial作业，但一共只占5分且对考试帮助不大。不做的话，这门课性价比很高。期中主要内容是evaluation和信息熵，期末大题考了DBSCAN，optics，buc排序和evaluation",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5483 Data Warehousing and Data Mining；CHAN, Chung；课程内容:数据挖掘的基本算法，决策树，分类聚类等基础内容，课程充实；课程作业多，考试难度略高，给分一般",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS5483 Data Warehousing and Data Mining 可选。学的内容非常基础，平时workload高（但占比小），但考试只要复习了问题不太大，项目的自由度很高。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

@@ -1,0 +1,125 @@
+{
+  "courseCode": "CS5182",
+  "fields": {
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 10,
+      "distinctSources": 6
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 4
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS5182 Computer Graphic 必选"
+  ],
+  "sources": [
+    {
+      "noteId": "68980dce000000002501bcd8",
+      "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
+      "excerpt": "CS5182 Computer Graphics；最基础的 CG 理论，SemesterB 学习体验最好的一门课，每周必上；课件详略得当，不夸一夸实在说不过去，因为它几乎提供了所有关键的信息，又不像有些课随随便便就是一百多页（鼠标中键都要滚烂了哦）；HOU 老师非常关注学生的学习体验，课上会在适当的地方停下来问大家有没有听懂，课间会走下讲台跟同学聊聊天，问一问课上的内容难不难，project 的进展如何等等，可以感受得出来，老师其实是非常愿意和大家聊一聊的；老师上课偶尔会抛出一个 small question（最终会变成试卷中的题目），只要你来上课了并且理解了课件的内容，没有任何难度",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史4⃣"
+    },
+    {
+      "noteId": "66c2b41e0000000025031b7f",
+      "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
+      "excerpt": "CS5182 Computer Graphics；分数构成：midterm，final，project；教授挺好的，大陆人。课程内容就是基础知识（可以b站搜搜），tutorial是神经网络图像处理。Project对我来说有点难，对设备要求比较高，跑一次就得一晚上。另外处理图像和3D点云的内容我从来没接触过，开源代码扒过来也是一头雾水（也可以水一水，拿个现成代码跑通了交，但分数不会高。一般大家会搞个小创新）。midterm和final都不难，大部分课上讲过。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课3"
+    },
+    {
+      "noteId": "6a0f2914000000003501f1b4",
+      "url": "https://www.xiaohongshu.com/explore/6a0f2914000000003501f1b4?xsec_token=ABp3M15AaHTe7EJKyjHo9zD4bhAoAymljISCJ_zahf50Q=",
+      "excerpt": "cs5182 computer graphics：无作业，有期中（GitHub有往年题，虽然会有创新氮素还是有参考价值的），期中/期末都是闭卷，难度还行吧，大概会做矩阵transformation就挂不了（很可惜主播到最后也不太熟练）然后就是多背了，课程难度也不大，课件内容也挺好理解的。project 1-3人，主播反正是用pointcloud分类水过去的，当然大部分人也选了这个",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semb选课总结（混子版"
+    },
+    {
+      "noteId": "682e95a7000000002301c25e",
+      "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+      "excerpt": "CS5182 CG: 15%期中 25%Proj 60%期末；workload；授课及口音 平时没作业没课程回放，考前会过一遍划重点。老师平易近人，大陆口音但很好懂。授课是经典图形学内容，Proj(可独狼最多3人)则是点云Nerual Rendering需要自己能搞到差不多的卡训练。期末的话基础的线代要会去算Matrix Transformation。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期B 选课"
+    },
+    {
+      "noteId": "6878c023000000002400e000",
+      "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
+      "excerpt": "CS5182 Computer Graphics；24fall semB是内地老师，上课内容不难，涉及计算机图形学经典算法。成绩构成：期中考试项目期末考试。没有作业！项目选题广泛，但深度学习是必须的，不能用传统方法水，如果没有图形学基础和深度学习基础，项目会做得非常吃力，建议早早抱大腿。考试不难（真的不难），博主拿C+纯属自己没学好，项目做得一般。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "🇭🇰CityU CS SemB选课"
+    },
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS5182 Computer graphic；课程内容也是经典图形学内容比如transformation，shading这些，课程项目需要用深度学习，最简单的应该就是点云那个项目。有期中期末两次考试，期末考试占比60。难度适中且包含了期中考过的很多知识点，如果只是想过的话，把矩阵变换的题掌握就可以了，再看看概念，总体是不难的。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    },
+    {
+      "noteId": "6a0bd76e000000003700f86f",
+      "url": "https://www.xiaohongshu.com/explore/6a0bd76e000000003700f86f?xsec_token=ABhbQcz06VLSSPUzCUuOMVTFnDu0p-O2fdsPAHbpU2Qn4=",
+      "excerpt": "CS5182 计算机图形学（选修）；想省事的话闭眼选，无quiz，无作业，一个小组项目，闭卷期中＋期末。；想不听课还拿高分慎选，期中和期末题型差不多。期末十道大题：CPU和GPU、3D转换两道计算、线性裁剪算法、平行与透视投影、光线追踪和辐射度、混叠种类和抗混叠、照明中的几个反射。基本没去过几节课，复习起来比较吃力。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemB"
+    },
+    {
+      "noteId": "69fc8470000000003601ea02",
+      "url": "https://www.xiaohongshu.com/explore/69fc8470000000003601ea02?xsec_token=ABvm0UzM6ysaoj6vJetVWRPa4FYxEh_oK5XHoGD3LmAwc=",
+      "excerpt": "2.CS5182，图形学CG；本人背景：学过图形学；期中15，项目25，期末60；项目（1-3人）为复现+改进使用深度学习的图形学相关论文，必须pre；课程内容不涉及具体图形库，如OpenGL；不推荐选。理由：考试占比高（共75%），项目需使用GPU资源（课程不提供GPU，自己租服务器或者本地运行吧）",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu MSc in CS Semester B课程评价"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

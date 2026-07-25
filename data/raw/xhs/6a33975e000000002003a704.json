@@ -1,0 +1,480 @@
+{
+  "note_id": "6a33975e000000002003a704",
+  "url": "https://www.xiaohongshu.com/explore/6a33975e000000002003a704?xsec_token=ABHkX21GM5nvEH6bvfeszyT8W2bHPG26qhWTW31PGPBm0=",
+  "fetched_at": 1784953649.336672,
+  "note": {
+    "xsecToken": "ABHkX21GM5nvEH6bvfeszyT8W2bHPG26qhWTW31PGPBm0=",
+    "tagList": [
+      {
+        "id": "5cef4951000000000e0082fb",
+        "name": "ucsd",
+        "type": "topic"
+      },
+      {
+        "id": "65e887fa0000000002018fb2",
+        "name": "ucsdcs75",
+        "type": "topic"
+      },
+      {
+        "id": "6141df870000000001005212",
+        "name": "水硕",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "title": "UCSD CS75 26Spring 就读体验",
+    "desc": "继续补 26Spring 了[喝奶茶R]\n\t\n以下都是个人主观体验，仅供参考\nCSE 291A - Topics in AI - Machine Learning Systems - Hao Zhang\n大牛教授+知名神课，强力推荐！[赞R]\n课程内容是从计算图开始讲起的 ML systems，个人感觉和 CMU 的 dlsys 比较像[doge]\n平时可以不上课，但每周需要完成 reading report。一共三个 project 设计的都很好，认真做有很大帮助。有 final 但全是选择题，主包个人感觉很简单四十分钟交卷走人。全班基本都能能 90+，整体体验非常良好。\n值得一提的是 Hao 的人脉非常夸张，Guest Lecturer 邀请了 vLLM 的一作 Woosuk Kwon，FlashInfer 的作者 Zihao Ye 等等，去年好像还请到了 Tianqi，太有实力了[暗中观察R]\n\t\nCSE 234 - Data-Centric AI and AI Engineering - Arun Kumar\n这门课虽然挂在 Breadth 的 System 里，但课程本身是 LLM application，和 System 没啥关系。\n\t\n神人课[生气R]说神人主要是因为这门课的 logistics 简直是灾难[捂脸R] professor 一会家里水管爆了一会身体不舒服一会胃不舒服，一学期下来取消几次 lecture 了，guest lecture 还出现过嘉宾没来，大家在 zoom 里等了四十分钟的情况[生气R]\n\t\n课上有签到题需要参加，作业主要是两个简单的 project，有期中期末。期末题量非常大，很多人做了两个小时还没做完，体验相当折磨。\n教授本人开了一个 startup，两个 project 都有关他们的产品。结束的时候还宣传了实习机会（只有一个位置，不过暑假前对没找到实习的同学来说是一次宝贵的机会\n\t\n第一学年就这么马马虎虎地过去了。\n比较幸运的是被本科学长拉进 lab，然后被小伙伴们各种带飞[扯脸H] 靠着产出也顺利找到了实习，算是运气很好地混过去了（\n导师人也很 nice，还请我们吃了两次大餐，一次大龙虾，一次高级日料[得意R]幸福感直接拉满。\n希望第二年能更 productive 一点，搞点大新闻[doge]\n\t\n#ucsd[话题]# #ucsdcs75[话题]# #水硕[话题]#",
+    "user": {
+      "userId": "64e01d9f000000000100e89f",
+      "nickname": "一只小猪",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80",
+      "xsecToken": "ABiTrQgJiDVKEbDIBpjtTlbuoNyhwC5zNrw380VJuWDOM="
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "45",
+      "collected": false,
+      "collectedCount": "37",
+      "commentCount": "16",
+      "shareCount": "14",
+      "followed": false,
+      "relation": "none"
+    },
+    "time": 1781765983000,
+    "lastUpdateTime": 1781772270000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a33975e000000002003a704",
+    "type": "normal",
+    "imageList": [
+      {
+        "height": 1920,
+        "width": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251227/0aaed97d9e27b0bcaf3189bfc485ff08/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nd_prv_wgth_webp_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251227/9fba2b65ec2b1715de49cb111b3bff12/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nd_dft_wgth_webp_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251227/0aaed97d9e27b0bcaf3189bfc485ff08/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nd_prv_wgth_webp_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251227/9fba2b65ec2b1715de49cb111b3bff12/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nd_dft_wgth_webp_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto",
+        "livePhoto": false
+      }
+    ]
+  },
+  "comments": [
+    {
+      "noteId": "6a33975e000000002003a704",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1782337586000,
+      "subCommentCursor": "6a3c7b70000000002a027367",
+      "userInfo": {
+        "userId": "616ee4170000000002027cc8",
+        "nickname": "Niebieskie Migdały",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2i1herrej406g5obesgbgkv68kq9bhkg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABGmKm2ebN3TaZHBUDZJJzEjwmyjlgh0sc9B-MCDuwLUQ="
+      },
+      "subCommentCount": "3",
+      "invalid": false,
+      "status": 0,
+      "content": "我是234TA 确实logistics地狱",
+      "likeCount": "1",
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "id": "6a3c503100000000150079a0",
+      "liked": false,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "6a3c7b70000000002a027367",
+          "noteId": "6a33975e000000002003a704",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1782348656000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a3c503100000000150079a0",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2i1herrej406g5obesgbgkv68kq9bhkg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGmKm2ebN3TaZHBUDZJJzEjwmyjlgh0sc9B-MCDuwLUQ=",
+              "userId": "616ee4170000000002027cc8",
+              "nickname": "Niebieskie Migdały"
+            }
+          },
+          "status": 0,
+          "content": "希望明年有所改善[doge]主要还是prof情况太多了[笑哭R]",
+          "userInfo": {
+            "userId": "64e01d9f000000000100e89f",
+            "nickname": "一只小猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABEc57HGWSVnbnsQYndGPqYwvzVKW3Uu8-hNVd12bgmXw="
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "Hao Zhang是要去复旦当院长了那个嘛？  他是不是明年就不在sd教了呀",
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "6a33b7160000000029036201",
+      "noteId": "6a33975e000000002003a704",
+      "atUsers": [],
+      "createTime": 1781773977000,
+      "subComments": [
+        {
+          "id": "6a33b7160000000029036201",
+          "noteId": "6a33975e000000002003a704",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "64e01d9f000000000100e89f",
+            "nickname": "一只小猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABEc57HGWSVnbnsQYndGPqYwvzVKW3Uu8-hNVd12bgmXw="
+          },
+          "targetComment": {
+            "id": "6a33b698000000002a026c29",
+            "userInfo": {
+              "userId": "670554b2000000001d02176c",
+              "nickname": "Offer请吻我",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229eo580nu005po5aip7c5rcblnm2o0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIOn7z3tSzjW051pnkWEx2DuGJRI4cLAXias49O3SQmY="
+            }
+          },
+          "status": 0,
+          "content": "那个是 Hao Su 哈哈哈[笑哭R]",
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1781774102000,
+          "ipLocation": "美国",
+          "invalid": false
+        }
+      ],
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "id": "6a33b698000000002a026c29",
+      "status": 0,
+      "userInfo": {
+        "userId": "670554b2000000001d02176c",
+        "nickname": "Offer请吻我",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229eo580nu005po5aip7c5rcblnm2o0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIOn7z3tSzjW051pnkWEx2DuGJRI4cLAXias49O3SQmY="
+      },
+      "ipLocation": "河南",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "status": 0,
+      "createTime": 1781776481000,
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "已跑路[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1781808240000,
+          "targetComment": {
+            "id": "6a33c061000000002a025d96",
+            "userInfo": {
+              "xsecToken": "ABzvBhweUsb-VFmRNO07Uy3SO9HUnD0nW2tCjRDgZQL5c=",
+              "userId": "667969dc00000000030330f0",
+              "nickname": "dl",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qpns5ot7u5g5pjpd7e0uc7givafpdg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a343c6f000000002a0274f5",
+          "noteId": "6a33975e000000002003a704",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABEc57HGWSVnbnsQYndGPqYwvzVKW3Uu8-hNVd12bgmXw=",
+            "userId": "64e01d9f000000000100e89f",
+            "nickname": "一只小猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "6a343c6f000000002a0274f5",
+      "noteId": "6a33975e000000002003a704",
+      "content": "还在做cg吗[偷笑R]",
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a33c061000000002a025d96",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABzvBhweUsb-VFmRNO07Uy3SO9HUnD0nW2tCjRDgZQL5c=",
+        "userId": "667969dc00000000030330f0",
+        "nickname": "dl",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qpns5ot7u5g5pjpd7e0uc7givafpdg?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "content": "翠府吃的 吃完就倒闭了[笑哭R]",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "6a33984a000000002902712b",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "64e01d9f000000000100e89f",
+            "nickname": "一只小猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABEc57HGWSVnbnsQYndGPqYwvzVKW3Uu8-hNVd12bgmXw="
+          },
+          "createTime": 1781766219000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABh3gOibAb9LhXbH_ZlLIXDLSXSldPJ9QgbYJXtguful0=",
+              "userId": "609117860000000001006ed2",
+              "nickname": "Wwddjm",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32126j6ikno005o4h2u308rmi63tb9a0?imageView2/2/w/120/format/jpg"
+            },
+            "id": "6a3398080000000015001aa1"
+          },
+          "noteId": "6a33975e000000002003a704",
+          "status": 0
+        }
+      ],
+      "subCommentCursor": "6a33984a000000002902712b",
+      "invalid": false,
+      "ipLocation": "美国",
+      "id": "6a3398080000000015001aa1",
+      "noteId": "6a33975e000000002003a704",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32126j6ikno005o4h2u308rmi63tb9a0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABh3gOibAb9LhXbH_ZlLIXDLSXSldPJ9QgbYJXtguful0=",
+        "userId": "609117860000000001006ed2",
+        "nickname": "Wwddjm"
+      },
+      "createTime": 1781766152000,
+      "subCommentCount": "2",
+      "status": 0,
+      "content": "能不能细说一下龙虾，感觉看着很不错",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "ipLocation": "安徽",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "id": "6a392ab6000000002a02763d",
+      "content": "学长求扩列[doge]",
+      "subCommentCursor": "",
+      "noteId": "6a33975e000000002003a704",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "602fa4c50000000001003357",
+        "nickname": "Soeasy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320533mr42i005o1fkj2g8cqnamoqv28?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMiqFHLyRtLX73QLNDjN26EzB1pZggpj1Uxmx2gCqGzQ="
+      },
+      "createTime": 1782131382000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "userId": "6415abb10000000011022df6",
+        "nickname": "Flippy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNVsg42mqOYRHDW_mA56c9znmauY_xyqwretWbGnLE6g="
+      },
+      "showTags": [],
+      "subCommentCursor": "6a3445eb000000002a02e4d4",
+      "invalid": false,
+      "likeCount": "0",
+      "createTime": 1781775604000,
+      "subCommentCount": "1",
+      "id": "6a33bcf3000000002902d66d",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "ipLocation": "浙江",
+      "subComments": [
+        {
+          "content": "我身边最后找到us实习的大概有一半？剩下也基本找到国内实习了。转博这个事感觉比较看组 我们组可能比较难[皱眉R]",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "64e01d9f000000000100e89f",
+            "nickname": "一只小猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABEc57HGWSVnbnsQYndGPqYwvzVKW3Uu8-hNVd12bgmXw="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1781810668000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "noteId": "6a33975e000000002003a704",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "targetComment": {
+            "id": "6a33bcf3000000002902d66d",
+            "userInfo": {
+              "xsecToken": "ABNVsg42mqOYRHDW_mA56c9znmauY_xyqwretWbGnLE6g=",
+              "userId": "6415abb10000000011022df6",
+              "nickname": "Flippy",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a3445eb000000002a02e4d4"
+        }
+      ],
+      "noteId": "6a33975e000000002003a704",
+      "content": "请问一下找到实习概率有多少啊？还有转博情况怎么样呢？身边统计学也可以",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "createTime": 1781767368000,
+      "ipLocation": "美国",
+      "subComments": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "hao zhang么确实牛的",
+      "atUsers": [],
+      "id": "6a339cc7000000002b0012fd",
+      "noteId": "6a33975e000000002003a704",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "65d06586000000000401d930",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321j8r9o6nu0g5pegcm313m9gg9r2io8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABV8pcT8H8JXjpzBdWpLFx56SWnnoI_J8j4hD3dQXtJv0="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6536 体验",
+  "search_item": {
+    "xsecToken": "ABHkX21GM5nvEH6bvfeszyT8W2bHPG26qhWTW31PGPBm0=",
+    "id": "6a33975e000000002003a704",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q79tubgng005p703mfg9q4vcq6if80?imageView2/2/w/80/format/jpg",
+        "userId": "64e01d9f000000000100e89f",
+        "nickname": "一只小猪",
+        "xsecToken": "ABbVrYYG7d-BB1oDXUQz2YA6-P-c8ixOUEj1ZZTTJEt08=",
+        "nickName": "一只小猪"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "45",
+        "collected": false,
+        "collectedCount": "37",
+        "commentCount": "16",
+        "sharedCount": "14"
+      },
+      "cover": {
+        "height": 1920,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251227/77c27cad6166f61a01dadc5a624e4942/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251227/07e92e9e4514ac056fceff7783a62a07/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1920,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251227/77c27cad6166f61a01dadc5a624e4942/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251227/07e92e9e4514ac056fceff7783a62a07/notes_pre_post/1040g3k0321i0h8mg7u205p703mfg9q4vu5jluto!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-18"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "UCSD CS75 26Spring 就读体验"
+    },
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a33975e000000002003a704"
+  }
+}

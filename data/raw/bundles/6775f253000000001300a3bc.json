@@ -1,0 +1,190 @@
+{
+  "note_id": "6775f253000000001300a3bc",
+  "url": "https://www.xiaohongshu.com/explore/6775f253000000001300a3bc?xsec_token=ABqZVRyr5ZgXlSfm4Zc2X_XhIMrAwd4fsVRhS39FY6ISk=",
+  "fetched_at": 1784953436.6199644,
+  "course_codes": [
+    "CS4249",
+    "CS5218",
+    "CS5223",
+    "CS5228",
+    "CS5229",
+    "CS5233",
+    "CS5239",
+    "CS5250",
+    "CS5340",
+    "CS5421",
+    "CS5446"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Mcomp CS sem2选课求助（core分析）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "昨晚研究了一晚上选课，由于苯人偏向于两学期各选5门课，中间留一个学期LOA实习找工，现已进入选课困难户🤔\n\t\n两学期各5门课需要均衡core的分布，而这学期开的core实在并不好上😭初步分析如下（基于个人实力、NUSMODS以及身边统计学，参考性见仁见智）：\n\t\n1⃣️workload适中的课：CS5218，CS5228（然而这两门上课时间冲突，被迫二选一）\n2⃣️workload很大的课：CS5223，CS5250（两门都是有名的难课，只能硬着头皮二选一）［CS5340听说也很难啃，不考虑算法就业直接pass］\n3⃣️NUSMODS风评较差的课：CS4249，CS5446\n4⃣️实在不感兴趣：CS5233\n\t\n其他相对较水的core，如CS5229，CS5239，CS5421这学期都没开。\n\t\n初步选择：CS5228 + CS5223 （这很艰难😢），另尽量选3门水课（技术栈重叠+主观偏水）\n\t\n想问问上过的学长学姐有没有什么建议呢？或许存在信息差[皱眉R]\n#这样选core还科学吗？ [投票]#\n#nus[话题]# #mcomp[话题]# #cs[话题]# #选课[话题]##25spring[话题]# #24fall[话题]# #新加坡国立大学[话题]# #新加坡[话题]# #留学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问nus cs specialization可以选gt track的课吗？",
+      "sourceRef": "comment:67fe361f000000001e015a06",
+      "commentId": "67fe361f000000001e015a06",
+      "likes": 0,
+      "author": "SpeedOMG"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不可以的",
+      "sourceRef": "comment:67fe5d56000000001f007969",
+      "commentId": "67fe5d56000000001f007969",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下如果前两个学期就修完10门课是会自动毕业嘛，还会有第三个学期嘛[皱眉R]",
+      "sourceRef": "comment:686f627f0000000009015bdd",
+      "commentId": "686f627f0000000009015bdd",
+      "likes": 0,
+      "author": "Gravity"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的，不会",
+      "sourceRef": "comment:686f62a3000000000401bbc9",
+      "commentId": "686f62a3000000000401bbc9",
+      "likes": 1,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问本科没有ML或者llm相关经验，靠在mcomp cs的学习，上课，足以找到一个相关的工作吗？",
+      "sourceRef": "comment:687c448e0000000015000ae1",
+      "commentId": "687c448e0000000015000ae1",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "🈚，但建议打消靠上课就能找到工作的思维",
+      "sourceRef": "comment:687c44fb000000001a02b1e8",
+      "commentId": "687c44fb000000001a02b1e8",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "求问一下5421和5218会点到吗？",
+      "sourceRef": "comment:6953bbf7000000001d026f7b",
+      "commentId": "6953bbf7000000001d026f7b",
+      "likes": 1,
+      "author": "chp"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5218理论上没有出勤分，但是会扫码出勤，prof说可能关键时候能救命",
+      "sourceRef": "comment:6953bcce000000000f01fbcc",
+      "commentId": "6953bcce000000000f01fbcc",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "请问mcomp spec可以连着申请两学期loa嘛 14学期上课23学期loa这样",
+      "sourceRef": "comment:67ff319d000000001e03d8f9",
+      "commentId": "67ff319d000000001e03d8f9",
+      "likes": 0,
+      "author": "寻。"
+    },
+    {
+      "type": "sub_comment",
+      "text": "最后一个学期理论上不能loa，修够学分必须毕业[笑哭R]",
+      "sourceRef": "comment:67ff31d900000000120095b2",
+      "commentId": "67ff31d900000000120095b2",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "感觉cs是mcomp里面最不好选课的，list里面好几门sem2不开，还有两门是取消了？我根本搜不到开课信息。40学分里面要怎么凑出一半学分[笑哭R]",
+      "sourceRef": "comment:67775660000000000d039502",
+      "commentId": "67775660000000000d039502",
+      "likes": 2,
+      "author": "今天也要早睡早起丫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "点了[笑哭R]硬选",
+      "sourceRef": "comment:67777f66000000001101985c",
+      "commentId": "67777f66000000001101985c",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "这里面很多课感觉根本没用",
+      "sourceRef": "comment:6776192f0000000010019cc3",
+      "commentId": "6776192f0000000010019cc3",
+      "likes": 0,
+      "author": "小元jacob"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有没有用真的是玄学命题了[笑哭R]兴趣为主了只能",
+      "sourceRef": "comment:67761c540000000011030e83",
+      "commentId": "67761c540000000011030e83",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "五门课有点顶[笑哭R] 水课推荐 5425 5344 5421，我这学期也准备拿 5239",
+      "sourceRef": "comment:6775f489000000000e01cd5d",
+      "commentId": "6775f489000000000e01cd5d",
+      "likes": 6,
+      "author": "zz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5425冲突了，不然选不够2门core[哭惹R]5239和5241这学期没开叭",
+      "sourceRef": "comment:6775f60b00000000110307d8",
+      "commentId": "6775f60b00000000110307d8",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "你这样就是两个春季学期各选5门课，感觉不是很好选。开的不多呀。loa一学期以实习为理由好申请吗?",
+      "sourceRef": "comment:678e390b000000001a03adf1",
+      "commentId": "678e390b000000001a03adf1",
+      "likes": 0,
+      "author": "爱思考的快活林"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实不好选……硬着头皮上[笑哭R]loa的话还好叭，不行就再说咯",
+      "sourceRef": "comment:678e45c7000000000a034169",
+      "commentId": "678e45c7000000000a034169",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    },
+    {
+      "type": "comment",
+      "text": "听说春季学期的5223比秋季学期的好一丢丢？[笑哭R]不过你这5+5还都在春季学期也太猛了",
+      "sourceRef": "comment:6776064c000000000e01c658",
+      "commentId": "6776064c000000000e01c658",
+      "likes": 0,
+      "author": "Haku"
+    },
+    {
+      "type": "sub_comment",
+      "text": "春季学期很难顶吗[哭惹R]",
+      "sourceRef": "comment:67760e5b00000000120099f9",
+      "commentId": "67760e5b00000000120099f9",
+      "likes": 0,
+      "author": "长岛冰茶（秋招结束版）"
+    }
+  ]
+}

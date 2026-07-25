@@ -1,0 +1,290 @@
+{
+  "note_id": "6898c6be000000002502bdc8",
+  "url": "https://www.xiaohongshu.com/explore/6898c6be000000002502bdc8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FhnG-mWtr5JctUgzln6C4Jo=",
+  "fetched_at": 1784955425.8952837,
+  "note": {
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FhnG-mWtr5JctUgzln6C4Jo=",
+    "noteId": "6898c6be000000002502bdc8",
+    "title": "港大CS 硕士项目 选课推荐（下）",
+    "desc": "具体的评分细则请参照（上）的内容～\n\t\n📖COMP7404 Computing Intelligence in Machine Learning Prof. Dirk Schnieder\n课程难度：🌟🌟🌟🌟\n课程压力：🌟🌟🌟🌟\n性价比：🌟🌟🌟🌟\n非常好的强化学习入门课程，三个学期均有设置。涉及DFS BFS Q learning ML经典算法等等 coding和公式比较多 有点硬核 没有强化学习基础的同学一上来可能有点懵\n但是Prof Dirk上课非常认真且有吸引力，真把你当研究型硕士在教\n30分的coding作业共4次 难度较高，需要疯狂debug 20分的模拟学术会议 prof随机分配组员共同看一篇论文，完成poster制作和讲解 最后50分的全闭卷期末考试 每年难度波动较大\n虽然很难但整体还是很推荐 能学到很多RL的知识 毕竟来都来了也不能光学水课是吧（doge\n\t\n🧑‍💻COMP7409 Machine Learning in Trading and Finance Prof. H.F.Ting\n课程难度：🌟🌟\n课程压力：🌟\n性价比：🌟🌟🌟🌟🌟\n手把手入门python系列，从最基本的numpy和pandas用法开始讲解，后面是金融产品和ML方法的简介，Ting教授可能会在面试中见到，人非常友善，最后分给的也比较好\n25分的代码作业 40分的pre+报告（5人一组 找数据集做分析） 35分的期末考试，❗️可以带5张正反cheatsheet\n同样在三个sem均开设，综合来讲非常推荐\n\t\n💻COMP7904 Info Security: Attack and Defense Prof. S.M. Yiu\n课程难度：🌟🌟🌟\n课程压力：🌟🌟🌟\n性价比：🌟🌟🌟🌟\n一门网络安全的实战课，涉及密码爆破，sql注入，反向shell等等 老师长得像华仔\n40分的平时作业，60分期末考试❗️为长达14小时的开卷实战考试\n这门课的作业是在提示下利用攻击机黑进靶机，最后撰写报告，期末考试也是类似的模式，能够了解一些基本的黑客技术，整体来讲还是很有意思的，但是做作业可能会比较耗时间。综合比较推荐\n\t\n#香港大学[话题]##计算机科学硕士[话题]##选课攻略[话题]#",
+    "user": {
+      "userId": "64ed4c930000000001004076",
+      "nickname": "小红薯64EDECDF",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31snpve7k5c0g5p7d9i9g8g3m7mlqu58",
+      "xsecToken": "AByN9B3PIV2PqK4CgmHIzmr5a_FmO07Szlju2OPEdTgFU="
+    },
+    "tagList": [
+      {
+        "id": "60f63c600000000001003d18",
+        "name": "香港大学",
+        "type": "topic"
+      },
+      {
+        "id": "6231c0d000000000010015f2",
+        "name": "计算机科学硕士",
+        "type": "topic"
+      },
+      {
+        "id": "60f7edca000000000100584e",
+        "name": "选课攻略",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1754842814000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collectedCount": "119",
+      "commentCount": "2",
+      "followed": false,
+      "likedCount": "106",
+      "collected": false,
+      "shareCount": "17"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg",
+        "height": 4032,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251257/374f9fe01aa61e16f478de42422a6539/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251257/67d983ee9734f6ff99a99e407bb01c1b/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nd_dft_wlteh_jpg_3",
+        "width": 3024,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/374f9fe01aa61e16f478de42422a6539/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/67d983ee9734f6ff99a99e407bb01c1b/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {}
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o",
+        "height": 365,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/d62de4727ea65fb8262bf6e38ecb7987/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/16ba6f8cafe40545ae2370f527543614/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "width": 1179,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251257/d62de4727ea65fb8262bf6e38ecb7987/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251257/16ba6f8cafe40545ae2370f527543614/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nd_dft_wgth_jpg_3"
+      },
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0",
+        "height": 283,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/518fdd8a9ffadce8fb7526ff03398e99/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/b1e8838e7db07cab2301d10999f2010e/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "width": 1179,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251257/518fdd8a9ffadce8fb7526ff03398e99/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251257/b1e8838e7db07cab2301d10999f2010e/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nd_dft_wgth_jpg_3"
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/6de89d77b5fd8b1696beea823f3f4cb2/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251257/ee433690c650f7a4521db77cbb028a11/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8",
+        "height": 4032,
+        "width": 3024,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251257/6de89d77b5fd8b1696beea823f3f4cb2/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251257/ee433690c650f7a4521db77cbb028a11/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "lastUpdateTime": 1754842815000
+  },
+  "comments": [
+    {
+      "subCommentHasMore": false,
+      "noteId": "6898c6be000000002502bdc8",
+      "showTags": [],
+      "createTime": 1769606682000,
+      "ipLocation": "中国香港",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "697a0e1a000000000800d873",
+      "status": 0,
+      "content": "跨学院选的7904 想问一下有群吗",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AByp-ISTPQVRDFOJCqVlWzyjWu2ZCRe2l4DJHIbmRX5E0=",
+        "userId": "61f1826b000000001000d2cf",
+        "nickname": "二类曲面积分",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6399d834ee8f22ec58e19441.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "invalid": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "67ef3daf000000000e01312e",
+        "nickname": "小春子",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8vb1Ry4T-rWrvfO6AZjuA9sxzFHyP8Z3TKWlAGvnqvs="
+      },
+      "id": "68a344f20000000030010217",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6898c6be000000002502bdc8",
+      "status": 0,
+      "content": "学长, NLP 和DL的课程会有overlap吗",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1755530483000,
+      "ipLocation": "中国香港",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6537 Guided Study in",
+  "search_item": {
+    "id": "6898c6be000000002502bdc8",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "港大CS 硕士项目 选课推荐（下）",
+      "user": {
+        "nickName": "小红薯64EDECDF",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31snpve7k5c0g5p7d9i9g8g3m7mlqu58?imageView2/2/w/80/format/jpg",
+        "userId": "64ed4c930000000001004076",
+        "nickname": "小红薯64EDECDF",
+        "xsecToken": "ABNTdZEKYNNoxaduASbv4sDL3SzMJKp48GAQi384uQXm0="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "106",
+        "collected": false,
+        "collectedCount": "119",
+        "commentCount": "2",
+        "sharedCount": "17"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251256/d29ad6d6e59c3588f38d1ef44d24c258/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251256/39aa1786d98ffd8e6a80ac40ca24a75d/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nc_n_webp_prv_1",
+        "height": 4032,
+        "width": 3024
+      },
+      "imageList": [
+        {
+          "height": 4032,
+          "width": 3024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/d29ad6d6e59c3588f38d1ef44d24c258/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/39aa1786d98ffd8e6a80ac40ca24a75d/notes_pre_post/1040g3k831l0rvn6djqb05p7d9i9g8g3miviuatg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/af57f861402ab72ed24eb436818ce57a/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/3c78fcdbb48107b2b44db9f61c7e342a/notes_pre_post/1040g3k831l0rvn6djqbg5p7d9i9g8g3m5tig94o!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 365,
+          "width": 1179
+        },
+        {
+          "height": 283,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/b2dd80fc593f219746ed3c255e42fa04/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/464960e694d2327b3d9d6c7e215c2168/notes_pre_post/1040g3k831l0rvn6djqc05p7d9i9g8g3m1rik5o0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/bd780b11f67b9bdbcc015f605cb07471/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251256/9fb12b8945e21d2e0282cc1dd0a27d30/notes_pre_post/1040g3k831l0rvn6djqcg5p7d9i9g8g3mivr2pc8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 4032,
+          "width": 3024
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-11"
+        }
+      ]
+    },
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FhnG-mWtr5JctUgzln6C4Jo=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6898c6be000000002502bdc8"
+  }
+}

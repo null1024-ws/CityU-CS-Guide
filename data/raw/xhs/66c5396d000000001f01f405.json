@@ -1,0 +1,959 @@
+{
+  "note_id": "66c5396d000000001f01f405",
+  "url": "https://www.xiaohongshu.com/explore/66c5396d000000001f01f405?xsec_token=ABTuUJtS8i9Y3eZd96sUjjmCHmM3I3UlfGPT1DpVjj1xI=",
+  "fetched_at": 1784874016.144639,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "66c5396d000000001f01f405",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "width": 1290,
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/e48046ca3660a2145cdd2977cb71ba16/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nd_dft_wlteh_webp_3",
+              "file_id": "1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40",
+              "height": 1295,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/f5a2c725da6406f78953cb39a8689db5/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/e48046ca3660a2145cdd2977cb71ba16/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/f5a2c725da6406f78953cb39a8689db5/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nd_prv_wlteh_webp_3",
+              "stream": {},
+              "live_photo": false
+            },
+            {
+              "file_id": "1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo",
+              "url": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/df1c1216afdc1b552830409ca51e9ba5/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nd_dft_wgth_webp_3",
+              "stream": {},
+              "height": 998,
+              "width": 1221,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/3efef65b80af7636258756702f6fcd20/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/df1c1216afdc1b552830409ca51e9ba5/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/3efef65b80af7636258756702f6fcd20/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nd_prv_wgth_webp_3",
+              "live_photo": false
+            }
+          ],
+          "at_user_list": [],
+          "time": 1724201325000,
+          "user": {
+            "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+            "nickname": "煎bingo子",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28",
+            "xsec_token": "ABcxKvpQRCQK-xPrHZV4mMAQEfVnwfStaNtjnD77yhzMU="
+          },
+          "tag_list": [
+            {
+              "id": "609a5fee00000000010020ea",
+              "name": "港硕",
+              "type": "topic"
+            },
+            {
+              "id": "53c1197fb4c4d632efbc2f6c",
+              "name": "香港",
+              "type": "topic"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            }
+          ],
+          "last_update_time": 1724201326000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "66c5396d000000001f01f405",
+          "type": "normal",
+          "title": "🇭🇰港硕：CityU cs学渣生存指南—选课篇（上）",
+          "desc": "先介绍一下本人基础：本科就学计算机的，但是写代码能力很差，脑子里只剩一些基础理论知识，从小没办法专注听老师讲课，基本靠自学，数学差，死记硬背选手\n\t\nSemA选了5️⃣门课\n\t\n⭐️vision and image：可以选，代码要求不算高，课上教的东西会有点难因为我之前没有上过图像方面的课，project难度中等，努力磨出来最后成绩还不错，final exam是开卷的，考试前老师会带着复习划重点，虽然对我来说考试的时候还是不怎么会，可以好好做project拉拉分，就不会很慌，老师的口语很好，可以听懂，考试不涉及计算\n\t\n⭐️computer networks and internets：教学内容大部分和本科学的计算机网络差不多，甚至要少，考试前过了遍ppt，做了做tutorial的题也算还可以，平常的作业难度不大，但是占比也不高，查阅资料基本能做出来，有计算\n\t\n⭐️software engineering：印象很深的一门课，因为考察方式很多，比较看重团队合作？期中是进校第一次考试，开卷，全是论述题，找不到➕写不完➕不会写，考了全班倒数第一☝️期末也是开卷，全是论述题[失望R]如果要无惊无险苟过这门课我觉得可以多focus on project，project里会有很多角色，其他任务也挺繁琐的，可以多承担其他任务\n\t\n⭐️data engineering：老师语速慢慢的，讲得很细致，作业难度还行，代码能力差的多看看借鉴一下能做出来（大部分），project能做出来就能给分，只是不会高，也够用了，final前老师会带着复习，死记硬背可以达到我这个水平，没有计算\n\t\n⭐️Big data：也还能选，内容会和data engineering有一点点的交叉，group project要求用Hadoop和Spark，之前没用过，这个project做得很痛苦，期末前老师会过一遍，但是不会给重点，考试的内容有一些在犄角旮旯的，把大致内容掌握了也差不多，虽然感觉这门课要凉结果成绩出来还可以\n\t\n☝️可以选有门e-commerce 的课，没代码，纯理论，身边同学反馈不错，当时没选这门课很后悔\n\t\n✌️本人奉行完成大于一切的原则，不要因为害怕，拖延时间导致没交上，或者直接不交，这样风险会很大\n\t\n👉有什么问题可以在评论区留言～\n#港硕[话题]# #香港[话题]# #cityu[话题]#",
+          "interact_info": {
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "comment_count": "45",
+            "share_count": "26",
+            "followed": false,
+            "liked_count": "126",
+            "collected_count": "150"
+          }
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874017249
+  },
+  "comments": {
+    "comments": [
+      {
+        "sub_comment_has_more": true,
+        "show_tags": [],
+        "sub_comment_count": "4",
+        "liked": false,
+        "create_time": 1746616927000,
+        "note_id": "66c5396d000000001f01f405",
+        "content": "学姐好～ 请问有必要选stream嘛？是不是选general更好 选课不受限一些",
+        "at_users": [],
+        "user_info": {
+          "user_id": "5f5b89a80000000001003b71",
+          "nickname": "松子玉米",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/6308fba5861a5e0101fdc9f3.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABLjj54L9-sYqgf-IBDwDwf5YKY5evBLod6UMMCTf4wF4="
+        },
+        "ip_location": "湖南",
+        "invalid": false,
+        "id": "681b425e000000000400ba69",
+        "status": 0,
+        "like_count": "0",
+        "sub_comments": [
+          {
+            "id": "681b484a000000000b01cf62",
+            "note_id": "66c5396d000000001f01f405",
+            "content": "stream不是选的，是根据你选的课，最后给你认定你是哪个steam",
+            "liked": false,
+            "user_info": {
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo=",
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77"
+            },
+            "create_time": 1746618442000,
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "重庆",
+            "target_comment": {
+              "id": "681b425e000000000400ba69",
+              "user_info": {
+                "user_id": "5f5b89a80000000001003b71",
+                "nickname": "松子玉米",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/6308fba5861a5e0101fdc9f3.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABLjj54L9-sYqgf-IBDwDwf5YKY5evBLod6UMMCTf4wF4="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_cursor": "681b484a000000000b01cf62"
+      },
+      {
+        "id": "673896a6000000001b024433",
+        "at_users": [],
+        "liked": false,
+        "sub_comments": [
+          {
+            "target_comment": {
+              "id": "673896a6000000001b024433",
+              "user_info": {
+                "nickname": "小红薯60ED0EB7",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABTyonzIJjY8rPPrbBte9F9K7GmeOil9sCR2CRZOpLSTI=",
+                "user_id": "60ec540e000000002002d972"
+              }
+            },
+            "status": 0,
+            "at_users": [],
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1731762086000,
+            "invalid": false,
+            "id": "673897a5000000001b02366b",
+            "note_id": "66c5396d000000001f01f405",
+            "content": "我是女生哈，学分是有限制的，具体可以看一下选课通知，你说的那门是不用上课的，然后上课都没有考勤",
+            "liked": false,
+            "like_count": "1",
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "ip_location": "甘肃"
+          }
+        ],
+        "note_id": "66c5396d000000001f01f405",
+        "show_tags": [],
+        "create_time": 1731761830000,
+        "user_info": {
+          "user_id": "60ec540e000000002002d972",
+          "nickname": "小红薯60ED0EB7",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTyonzIJjY8rPPrbBte9F9K7GmeOil9sCR2CRZOpLSTI="
+        },
+        "sub_comment_count": "4",
+        "status": 0,
+        "content": "老哥[暗中观察R] 每学期有最低选学分的限制不 有一门课我看官网叫topics in computer science 是不是也可以只做项目不上课啊[捂脸R][捂脸R][捂脸R] 要考勤的课多不",
+        "like_count": "0",
+        "ip_location": "上海",
+        "sub_comment_cursor": "673897a5000000001b02366b",
+        "sub_comment_has_more": true,
+        "invalid": false
+      },
+      {
+        "status": 0,
+        "at_users": [],
+        "sub_comments": [
+          {
+            "at_users": [],
+            "create_time": 1724751666000,
+            "invalid": false,
+            "status": 0,
+            "liked": false,
+            "like_count": "1",
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "66cd934700000000200273d0",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABJ4dD03UqW0SHl5ryhN-5_S87X_9IyQ-9BtuzSUjxI_Y=",
+                "user_id": "6309e19f000000000f006cf1",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g8mbcrb186g5oo9s6fjor7hbjou210?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "id": "66cd9f31000000000502d68c",
+            "note_id": "66c5396d000000001f01f405",
+            "content": "因为我本科有学过相关课程，我在选课的时候提交了本科成绩单，以及课程说明"
+          }
+        ],
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "6309e19f000000000f006cf1",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g8mbcrb186g5oo9s6fjor7hbjou210?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABJ4dD03UqW0SHl5ryhN-5_S87X_9IyQ-9BtuzSUjxI_Y="
+        },
+        "show_tags": [],
+        "create_time": 1724748616000,
+        "sub_comment_cursor": "66cd9f31000000000502d68c",
+        "sub_comment_has_more": true,
+        "note_id": "66c5396d000000001f01f405",
+        "id": "66cd934700000000200273d0",
+        "content": "不是说nlp得5487做前置吗，[哭惹R]朋友你怎么直接就选上了",
+        "ip_location": "广东",
+        "sub_comment_count": "3",
+        "invalid": false
+      },
+      {
+        "sub_comment_count": "1",
+        "at_users": [],
+        "id": "66c61aec000000002002614f",
+        "ip_location": "广东",
+        "status": 0,
+        "content": "帮大忙[皱眉R]",
+        "liked": false,
+        "like_count": "3",
+        "user_info": {
+          "user_id": "5f088b2f000000000101ddeb",
+          "nickname": "啾咪",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f088b2f000000000101ddeb.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABEAQTv6NfnrKbf4MjMw8U4KRGxLMqEvG44UgiGx3yYNM="
+        },
+        "show_tags": [],
+        "create_time": 1724259052000,
+        "note_id": "66c5396d000000001f01f405",
+        "sub_comments": [
+          {
+            "id": "66c68993000000000c018dae",
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "甘肃",
+            "content": "能帮到大家就好",
+            "like_count": "0",
+            "create_time": 1724287379000,
+            "target_comment": {
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f088b2f000000000101ddeb.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABEAQTv6NfnrKbf4MjMw8U4KRGxLMqEvG44UgiGx3yYNM=",
+                "user_id": "5f088b2f000000000101ddeb",
+                "nickname": "啾咪"
+              },
+              "id": "66c61aec000000002002614f"
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_cursor": "66c68993000000000c018dae",
+        "sub_comment_has_more": false,
+        "invalid": false
+      },
+      {
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1754662945000,
+            "ip_location": "山西",
+            "invalid": false,
+            "note_id": "66c5396d000000001f01f405",
+            "content": "看老师要求",
+            "liked": false,
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "target_comment": {
+              "id": "68960517000000002a0200d3",
+              "user_info": {
+                "nickname": "鹅不溜秋",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315ihn3q10m005n80evl5jk5qdmvh3fg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABvk_yfwrBADBVvCye21JdzlYDZFXa_dNMTG89lYEjF3w=",
+                "user_id": "5d0077ea000000001601d0ba"
+              }
+            },
+            "id": "68960821000000002b0239cc",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0"
+          }
+        ],
+        "id": "68960517000000002a0200d3",
+        "content": "可以请问一下CS6534: GUIDED STUDY这门课需要去学校定期汇报嘛？",
+        "create_time": 1754662167000,
+        "ip_location": "广东",
+        "sub_comment_has_more": true,
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5d0077ea000000001601d0ba",
+          "nickname": "鹅不溜秋",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315ihn3q10m005n80evl5jk5qdmvh3fg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABvk_yfwrBADBVvCye21JdzlYDZFXa_dNMTG89lYEjF3w="
+        },
+        "sub_comment_cursor": "68960821000000002b0239cc",
+        "note_id": "66c5396d000000001f01f405",
+        "status": 0,
+        "at_users": [],
+        "sub_comment_count": "2",
+        "invalid": false
+      },
+      {
+        "show_tags": [],
+        "id": "670757f7000000001603381b",
+        "note_id": "66c5396d000000001f01f405",
+        "user_info": {
+          "user_id": "5db43ae20000000001000147",
+          "nickname": "我是孤傲的蔷薇🥕",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oogqim5526g5ndk7bh080a71l86rng?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB6ALXry1cJXtKwuuOdLArtLdtp24z5CEZA9Qa0sEi42A="
+        },
+        "create_time": 1728534519000,
+        "sub_comment_count": "2",
+        "sub_comments": [
+          {
+            "status": 0,
+            "content": "期中可以看ppt，期末我记得是正反5张纸",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "create_time": 1728536656000,
+            "invalid": false,
+            "id": "6707604f0000000024036f13",
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "670757f7000000001603381b",
+              "user_info": {
+                "user_id": "5db43ae20000000001000147",
+                "nickname": "我是孤傲的蔷薇🥕",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oogqim5526g5ndk7bh080a71l86rng?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB6ALXry1cJXtKwuuOdLArtLdtp24z5CEZA9Qa0sEi42A="
+              }
+            },
+            "note_id": "66c5396d000000001f01f405"
+          }
+        ],
+        "sub_comment_cursor": "6707604f0000000024036f13",
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "status": 0,
+        "content": "请问se的开卷是可以看ppt那种吗 还是只能带一张纸呢",
+        "liked": false,
+        "ip_location": "中国香港",
+        "at_users": [],
+        "like_count": "0"
+      },
+      {
+        "at_users": [],
+        "liked": false,
+        "ip_location": "广东",
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "66e158ae000000000c017a2b",
+        "content": "请问申请的时候要提交ps吗[害羞R]",
+        "id": "66e155a7000000000d00cfc7",
+        "show_tags": [],
+        "create_time": 1726043559000,
+        "note_id": "66c5396d000000001f01f405",
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5ef1a9ec000000000101f9fd",
+          "nickname": "北鸢",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/62812aa1dc019e8fc1203042.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABJ9DKtW702hnRvvjorJfFZqUpJ2R8pywZ35RTCSuY2-8="
+        },
+        "sub_comments": [
+          {
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "id": "66e158ae000000000c017a2b",
+            "create_time": 1726044335000,
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "66e155a7000000000d00cfc7",
+              "user_info": {
+                "nickname": "北鸢",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/62812aa1dc019e8fc1203042.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABJ9DKtW702hnRvvjorJfFZqUpJ2R8pywZ35RTCSuY2-8=",
+                "user_id": "5ef1a9ec000000000101f9fd"
+              }
+            },
+            "invalid": false,
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "content": "有点记不清了，你申请的时候可以看一下有没有这个要求，港校感觉不咋看ps"
+          }
+        ],
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "status": 0
+      },
+      {
+        "note_id": "66c5396d000000001f01f405",
+        "content": "请问 guided study 是什么时候联系好的导师啊？我看博主是在 summer term 选的，但是我们这届建议是要 sema 就联系，联系了一个教授说不一定有 quota。",
+        "at_users": [],
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comments": [
+          {
+            "id": "66d6b4090000000004031eac",
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1725346825000,
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "66d69b6f000000000c01715b",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABrn7YyaSTHFzr_TKb-ddkBLYXU9T6_P56CWkLTbCTVa0=",
+                "user_id": "6290550a00000000210221d2",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vm2387gjq005okgak58c8eif1ts58o?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "invalid": false,
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "content": "我私你吧",
+            "like_count": "0",
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            }
+          }
+        ],
+        "status": 0,
+        "user_info": {
+          "xsec_token": "ABrn7YyaSTHFzr_TKb-ddkBLYXU9T6_P56CWkLTbCTVa0=",
+          "user_id": "6290550a00000000210221d2",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vm2387gjq005okgak58c8eif1ts58o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "id": "66d69b6f000000000c01715b",
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1725340528000,
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "66d6b4090000000004031eac",
+        "sub_comment_has_more": true,
+        "invalid": false
+      },
+      {
+        "show_tags": [],
+        "note_id": "66c5396d000000001f01f405",
+        "like_count": "0",
+        "ip_location": "中国香港",
+        "sub_comments": [
+          {
+            "create_time": 1725079313000,
+            "id": "66d29f10000000000a016141",
+            "content": "是开卷的，课本好像不行，只能资料？（残存的记忆）",
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "66d292f7000000000b00d2f0",
+              "user_info": {
+                "nickname": "清柯",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31amlvcmm7c604a3q8ohvnb3015e1180?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABjDoQPBC4BdFaapVi4bRT5--_Wecc5LLqfAIbwHm0bhM=",
+                "user_id": "5ab323fbe8ac2b5d74f2ac60"
+              }
+            },
+            "invalid": false,
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo="
+            }
+          }
+        ],
+        "sub_comment_has_more": true,
+        "create_time": 1725076215000,
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "66d29f10000000000a016141",
+        "id": "66d292f7000000000b00d2f0",
+        "status": 0,
+        "content": "请问network考试是开卷的么，课本可以带进去么。[害羞R]",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "5ab323fbe8ac2b5d74f2ac60",
+          "nickname": "清柯",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31amlvcmm7c604a3q8ohvnb3015e1180?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABjDoQPBC4BdFaapVi4bRT5--_Wecc5LLqfAIbwHm0bhM="
+        },
+        "invalid": false
+      },
+      {
+        "invalid": false,
+        "content": "e-commerce 不是说期末考试地狱难度吗[哭惹R]",
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vm2387gjq005okgak58c8eif1ts58o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABrn7YyaSTHFzr_TKb-ddkBLYXU9T6_P56CWkLTbCTVa0=",
+          "user_id": "6290550a00000000210221d2",
+          "nickname": "momo"
+        },
+        "show_tags": [],
+        "sub_comment_count": "5",
+        "sub_comments": [
+          {
+            "id": "66c5460d000000000d01fb3e",
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "content": "不难，这学期都是上课练习出现过的题或题型，但是没复习到的话，纯自己想会答不到点[哭惹R]",
+            "at_users": [],
+            "liked": false,
+            "like_count": "2",
+            "user_info": {
+              "user_id": "599bf55b82ec390204d70323",
+              "nickname": "a芒果♥榴莲",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/616052febd86896cadfff668.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABDaN5n4RwfywGKtoiFh7STFAIbJygI1pTpaYNz11L0QM="
+            },
+            "show_tags": [],
+            "create_time": 1724204558000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "66c541b0000000000502def4",
+              "user_info": {
+                "user_id": "6290550a00000000210221d2",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vm2387gjq005okgak58c8eif1ts58o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABrn7YyaSTHFzr_TKb-ddkBLYXU9T6_P56CWkLTbCTVa0="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "id": "66c541b0000000000502def4",
+        "note_id": "66c5396d000000001f01f405",
+        "status": 0,
+        "at_users": [],
+        "ip_location": "广东",
+        "like_count": "0",
+        "create_time": 1724203441000,
+        "sub_comment_cursor": "66c5460d000000000d01fb3e",
+        "sub_comment_has_more": true
+      },
+      {
+        "note_id": "66c5396d000000001f01f405",
+        "status": 0,
+        "content": "请问5488考试题型大概是什么啊[哭惹R]",
+        "user_info": {
+          "user_id": "6843d851000000001b01a4c3",
+          "nickname": "YKWIA",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lh0bt0c52605q23r18mr963uv5c68g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB5U4meH4T8DqAgP5sfDVufWRrxOwzTGBbHrKRBEEirBk="
+        },
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "693be89a000000001403cf1b",
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comment_count": "0",
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_cursor": "",
+        "create_time": 1765533850000,
+        "sub_comments": []
+      },
+      {
+        "note_id": "66c5396d000000001f01f405",
+        "liked": false,
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "create_time": 1751597163000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "id": "6867406b000000000c026c1d",
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "show_tags": [],
+        "content": "学姐好 软件工程的项目会固定编程语言吗？组队合作project不会其他组员的编程语言 是不是就没办法进行了[笑哭R]另外数据工程的项目会涉及哪些方面，整个的数据工程该怎么学习呀？会不会设计Hadoop 和spark",
+        "user_info": {
+          "user_id": "602bfee60000000001009275",
+          "nickname": "肥皂",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320d17126lm6g5o1bvrj094jlngb8650?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABYEkt7aLvdv0QWbvnsavLo03JZ0eca7gRyaKX3rfr_Tw="
+        },
+        "ip_location": "浙江",
+        "sub_comment_cursor": ""
+      },
+      {
+        "show_tags": [],
+        "at_users": [],
+        "create_time": 1745314607000,
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "sub_comment_count": "0",
+        "id": "6807632f000000001f00bc2f",
+        "status": 0,
+        "liked": false,
+        "like_count": "0",
+        "invalid": false,
+        "ip_location": "四川",
+        "sub_comment_cursor": "",
+        "note_id": "66c5396d000000001f01f405",
+        "content": "学姐，想问一下一般cs选的课最晚几点放学啊[doge]",
+        "user_info": {
+          "xsec_token": "ABGDt9SckeNyQw113hILOMSx8UlIl5F-6J-tqGVWqbVFA=",
+          "user_id": "5f06a4e600000000010048cf",
+          "nickname": "..",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320108onp2a005no6kjj08i6ftmdo9v8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        }
+      },
+      {
+        "sub_comments": [],
+        "note_id": "66c5396d000000001f01f405",
+        "status": 0,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABixZco1HCZDN1KEfc3K-CwVr6TuDkW-0Cl0p-uHHn11E=",
+          "user_id": "643d0840000000000e01cda0",
+          "nickname": "阿草",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3187dmu2g0s705p1t1103jjd0qurrlh8?imageView2/2/w/120/format/jpg"
+        },
+        "show_tags": [],
+        "create_time": 1729136770000,
+        "ip_location": "中国香港",
+        "liked": false,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "sub_comment_cursor": "",
+        "id": "671088810000000010005062",
+        "at_users": [],
+        "content": "学姐请问se期中考考的都是什么内容啊，上课听不懂现在有点慌[哭惹R]",
+        "like_count": "0",
+        "invalid": false
+      },
+      {
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo=",
+          "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+          "nickname": "煎bingo子",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1724202419000,
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "672dcac0000000001b025a43",
+        "sub_comment_has_more": false,
+        "id": "66c53db3000000000502dc08",
+        "status": 0,
+        "note_id": "66c5396d000000001f01f405",
+        "at_users": [],
+        "show_tags": [
+          "is_author"
+        ],
+        "sub_comments": [
+          {
+            "id": "672dcac0000000001b025a43",
+            "note_id": "66c5396d000000001f01f405",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABZL7z3y74CzVhXuvcjjM3bs-g5ytgfUh9ORMGf8eppwU=",
+              "user_id": "5d6519d900000000010072a1",
+              "nickname": "ALIFEROUS%T",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321q7571g7a7g5nb537cg8sl135vmlfg?imageView2/2/w/120/format/jpg"
+            },
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "66c53db3000000000502dc08",
+              "user_info": {
+                "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo=",
+                "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+                "nickname": "煎bingo子",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "content": "太刺激了，学到太多了，一周能在上面花至少10小时[笑哭R]",
+            "liked": false,
+            "show_tags": [],
+            "create_time": 1731054273000,
+            "invalid": false
+          }
+        ],
+        "content": "maching learning了解到的反馈是，有难度，可以学到很多，作业很多，考试很刺激",
+        "liked": false,
+        "like_count": "1",
+        "ip_location": "甘肃",
+        "invalid": false
+      },
+      {
+        "status": -2,
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABexzyLt_HrrcXac29OA-UwCXICkATducW26R7UZyul4Y=",
+          "user_id": "641935f60000000014011ff4",
+          "nickname": "糖水铺火急火燎的铁甲鱼",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321te7g917a5g5p0p6nr527vko0qeec0?imageView2/2/w/120/format/jpg"
+        },
+        "sub_comment_count": "1",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "ip_location": "广东",
+        "liked": false,
+        "show_tags": [],
+        "content": "想问问nlp难吗[哭惹R][哭惹R]",
+        "create_time": 1733366249000,
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYTQ036q_vzb8W31el5IH232WJDCaooEeVtdX_V0RmSo=",
+              "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+              "nickname": "煎bingo子"
+            },
+            "status": 0,
+            "at_users": [],
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1733369807000,
+            "ip_location": "甘肃",
+            "target_comment": {
+              "id": "675111e9000000000d000347",
+              "user_info": {
+                "user_id": "641935f60000000014011ff4",
+                "nickname": "糖水铺火急火燎的铁甲鱼",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321te7g917a5g5p0p6nr527vko0qeec0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABexzyLt_HrrcXac29OA-UwCXICkATducW26R7UZyul4Y="
+              }
+            },
+            "invalid": false,
+            "id": "67511fce000000000b03c7bc",
+            "note_id": "66c5396d000000001f01f405",
+            "content": "不难"
+          }
+        ],
+        "sub_comment_cursor": "67511fce000000000b03c7bc",
+        "id": "675111e9000000000d000347",
+        "note_id": "66c5396d000000001f01f405"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 16,
+    "pages_fetched": 2
+  },
+  "search_query": "城大计算机硕士 选课",
+  "search_item": {
+    "xsec_token": "ABTuUJtS8i9Y3eZd96sUjjmCHmM3I3UlfGPT1DpVjj1xI=",
+    "id": "66c5396d000000001f01f405",
+    "model_type": "note",
+    "note_card": {
+      "image_list": [
+        {
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/96c01c8fb73df5228923a9756f26946a/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/d74556ddc931ee3c71207fe4928cd040/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1295,
+          "width": 1290
+        },
+        {
+          "height": 998,
+          "width": 1221,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/e003034fdde87bd238f1212ec97f861a/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/f03b3879c157242c019097fcbf325f4e/1040g2sg316o9g51ggu4g4a667pl8pqjnvhqdnjo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2024-08-21"
+        }
+      ],
+      "type": "normal",
+      "display_title": "🇭🇰港硕：CityU cs学渣生存指南—选课篇（上）",
+      "user": {
+        "xsec_token": "ABR-0uGVG_TaXwMTVDEFKsPOEh6lvkHf8yQ1nbSfF3AHM=",
+        "nick_name": "煎bingo子",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aa21tc3ne004a667pl8pqjnkh0sb28?imageView2/2/w/80/format/jpg",
+        "user_id": "5b1f2a8cf7e8b922b2c7ea77",
+        "nickname": "煎bingo子"
+      },
+      "interact_info": {
+        "comment_count": "45",
+        "shared_count": "26",
+        "liked": false,
+        "liked_count": "126",
+        "collected": false,
+        "collected_count": "150"
+      },
+      "cover": {
+        "height": 1295,
+        "width": 1290,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/96c01c8fb73df5228923a9756f26946a/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/d74556ddc931ee3c71207fe4928cd040/1040g2sg316o9g51ggu404a667pl8pqjn4vnmb40!nc_n_webp_prv_1"
+      }
+    }
+  }
+}

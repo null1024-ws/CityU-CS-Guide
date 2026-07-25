@@ -1,0 +1,96 @@
+{
+  "note_id": "6a0c1fc800000000080325e9",
+  "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+  "fetched_at": 1784873965.8006167,
+  "course_codes": [
+    "CS5182",
+    "CS5296",
+    "CS5483",
+    "CS5491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu CS课程评价(二)",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Semester B\n\t\nCS5491 Artificial intelligence\n内容涵盖搜索，mdp，bayes等内容，有期中和期末考试，期中考试因为某些原因可能下一届会有变数，这里就不说了。期末考试考了搜索树，minmax剪枝和最后两个tutorial的内容，重点在于理解方法吧，题目在tutorial基础上会有一定的变化，但不难。项目是从几个选题里挑一个做，也很好水过去。\n\t\nCS5182 Computer graphic\n课程内容也是经典图形学内容比如transformation，shading这些，课程项目需要用深度学习，最简单的应该就是点云那个项目。有期中期末两次考试，期末考试占比60。难度适中且包含了期中考过的很多知识点，如果只是想过的话，把矩阵变换的题掌握就可以了，再看看概念，总体是不难的。\n\t\nCS5296 Cloud computing\n三次作业+两次paper阅读，作业量还是挺大的，不过现在有了ai这些都不是大问题。平时作业和小组项目给分还是挺高的。期末考试考的非常全面(低情商:题量非常大)，在PPT上看到的画图题和有关计算的内容，(sedf，credit schedule，chord，wfq，drf，机器学习参数计算等)试卷上全出现了，除此之外还有一堆概念题，最后也是空了几道大题没写，前面写完的也不确定。考完都感觉自己要延毕了。\n\t\nCS5483 Data mining\n个人认为是我在cityu上过最有意思的课，老师讲课质量挺高，就是PPT有点抽象。期中和期末是机考，有check机制，所以考完就能知道自己大概的分数。平时有很多tutorial作业，但一共只占5分且对考试帮助不大。不做的话，这门课性价比很高。期中主要内容是evaluation和信息熵，期末大题考了DBSCAN，optics，buc排序和evaluation\n\t\nCS6493 nlp\n和semA的ds一个老师，课程风格，作业量和考试也是一脉相承，期末主要靠自己看PPT。期末考试难度不大，大多是概念辨析，两道计算送分题都是作业里的知识点，两道代码填空题。和ds一样，复习了基本就不会挂\n\t\n上述课程均无考勤，这一点cityu cs是真的夯，出去面试遇到其他港校的同学，很多都要打卡看出勤\n\t\n#选课[话题]# #cityu[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这些是本科还是硕士的课程呀",
+      "sourceRef": "comment:6a0c202c0000000029026693",
+      "commentId": "6a0c202c0000000029026693",
+      "likes": 0,
+      "author": "Thatcher"
+    },
+    {
+      "type": "comment",
+      "text": "能不能写ds课程评价哈哈哈",
+      "sourceRef": "comment:6a0c2035000000002a033f83",
+      "commentId": "6a0c2035000000002a033f83",
+      "likes": 0,
+      "author": "11点睡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "主页有[doge]",
+      "sourceRef": "comment:6a0c205400000000290187a5",
+      "commentId": "6a0c205400000000290187a5",
+      "likes": 0,
+      "author": "npm-i"
+    },
+    {
+      "type": "comment",
+      "text": "老师现在是在上海实习吗[暗中观察R]",
+      "sourceRef": "comment:6a13178e000000002300378f",
+      "commentId": "6a13178e000000002300378f",
+      "likes": 0,
+      "author": "枫间照"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没实习，只是考完回家了[笑哭R]",
+      "sourceRef": "comment:6a131db10000000029019750",
+      "commentId": "6a131db10000000029019750",
+      "likes": 0,
+      "author": "npm-i"
+    },
+    {
+      "type": "comment",
+      "text": "nlp这老师就是项目给分太低[笑哭R]不好冲高分",
+      "sourceRef": "comment:6a0c227e000000002702f768",
+      "commentId": "6a0c227e000000002702f768",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "不赖[棒R]",
+      "sourceRef": "comment:6a0c35e6000000002902590b",
+      "commentId": "6a0c35e6000000002902590b",
+      "likes": 0,
+      "author": "Kiraoshi"
+    },
+    {
+      "type": "comment",
+      "text": "5483作业数量真的太多了，TA每周都得改几十份，还是简答题[哭惹R]",
+      "sourceRef": "comment:6a0c32ff0000000029013a4b",
+      "commentId": "6a0c32ff0000000029013a4b",
+      "likes": 1,
+      "author": "昵称"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈辛苦了",
+      "sourceRef": "comment:6a0c6c25000000002b00321c",
+      "commentId": "6a0c6c25000000002b00321c",
+      "likes": 0,
+      "author": "npm-i"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "note_id": "6a3a2b96000000001102efcc",
+  "url": "https://www.xiaohongshu.com/explore/6a3a2b96000000001102efcc?xsec_token=ABF3m5rqzIz1WrBEq1HUufnJ1211rrYKkEWL5swXRX2jA=",
+  "fetched_at": 1784874226.05697,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "ignore": false,
+        "id": "6a3a2b96000000001102efcc",
+        "model_type": "note",
+        "note_card": {
+          "tag_list": [
+            {
+              "name": "香港城市大学",
+              "type": "topic",
+              "id": "5c46d9e9000000000f018433"
+            },
+            {
+              "id": "60a65e500000000001001ded",
+              "name": "CityU",
+              "type": "topic"
+            },
+            {
+              "id": "67009cf4000000000202d958",
+              "name": "港城大计算机",
+              "type": "topic"
+            },
+            {
+              "id": "64b7fabb00000000370174db",
+              "name": "港城大硕士",
+              "type": "topic"
+            },
+            {
+              "id": "66c9e2bb000000002403b1e1",
+              "name": "港城大选课",
+              "type": "topic"
+            },
+            {
+              "id": "6927e827000000001d0032b6",
+              "name": "CS5351",
+              "type": "topic"
+            },
+            {
+              "id": "53c1197fb4c4d632efbc2f6c",
+              "name": "香港",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1782197142000,
+          "desc": "港城大SemA-CityU-CS5351-Software Engineering选课指南\n课程内容\nDr W.K. Chan主讲\n必修三大课程之一\n涵盖传统软件工程和现代项目管理，CICD。有很多课堂交互环节，类似做游戏方式挺有趣的。\n课程项目是开发管理一个辅助软件工程的工具，比如做一个scrum的看板什么的\n成绩构成\n平时作业 60%\n期末考试 40%\n课程难度 & 选课实测\n主要难度还是在队友好不好，好的小组决定这个课程的上限。老师人很好，就是粤语口语比较重，我个人不太听得懂那种英语。\n接付费咨询，包括怎么选课，怎么10月毕业秋招，以及作业考试细节回忆。\n#香港城市大学[话题]# #CityU[话题]# #港城大计算机[话题]# #港城大硕士[话题]# #港城大选课[话题]# #CS5351[话题]# #香港[话题]#",
+          "image_list": [
+            {
+              "live_photo": false,
+              "height": 2197,
+              "url": "",
+              "file_id": "1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88",
+              "width": 1728,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241423/079bf588eac42d44413db4332ac99aed/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241423/1bf9e4c2332869bec0f78abe9910f246/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241423/079bf588eac42d44413db4332ac99aed/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241423/1bf9e4c2332869bec0f78abe9910f246/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nd_dft_wlteh_webp_3",
+              "stream": {}
+            }
+          ],
+          "last_update_time": 1782197142000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "6a3a2b96000000001102efcc",
+          "type": "normal",
+          "title": "港城大SemA-CityU-CS5351-软件工程选课指南",
+          "user": {
+            "user_id": "643f7ec5000000000f0049df",
+            "nickname": "山雀dp5",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg",
+            "xsec_token": "ABVIowGbwTEKtHCVyZLQQpTQbCp15I4egOSsS-WVhUqkY="
+          },
+          "interact_info": {
+            "share_count": "",
+            "liked": false,
+            "liked_count": "1",
+            "followed": false,
+            "relation": "none",
+            "nice_count": "",
+            "collected": false,
+            "collected_count": "",
+            "comment_count": ""
+          }
+        }
+      }
+    ],
+    "current_time": 1784874227063
+  },
+  "comments": {
+    "comments": [],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 0,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5351 城大CS",
+  "search_item": {
+    "id": "6a3a2b96000000001102efcc",
+    "model_type": "note",
+    "note_card": {
+      "interact_info": {
+        "liked": false,
+        "liked_count": "1",
+        "collected": false,
+        "collected_count": "0",
+        "comment_count": "0",
+        "shared_count": "0"
+      },
+      "cover": {
+        "height": 2197,
+        "width": 1728,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241423/e53806cc1fb5a8bf4e0afedbdd38d11a/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241423/049e9d90dd4992bce6dbd9b275dfc09d/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 2197,
+          "width": 1728,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/e53806cc1fb5a8bf4e0afedbdd38d11a/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/049e9d90dd4992bce6dbd9b275dfc09d/1040g2sg321ofgl3274eg5p1vfr2joiev1la1k88!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "06-23",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "display_title": "港城大SemA-CityU-CS5351-软件工程选课指南",
+      "user": {
+        "nick_name": "山雀dp5",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg?imageView2/2/w/80/format/jpg",
+        "user_id": "643f7ec5000000000f0049df",
+        "nickname": "山雀dp5",
+        "xsec_token": "AB1lcofgpTba6Ek-OKWGUjp9O1Ym7tBxRTVSjDFo1F2OI="
+      }
+    },
+    "xsec_token": "ABF3m5rqzIz1WrBEq1HUufnJ1211rrYKkEWL5swXRX2jA="
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "note_id": "66c2b41e0000000025031b7f",
+  "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
+  "fetched_at": 1784952351.6548767,
+  "course_codes": [
+    "CS5182",
+    "CS6493",
+    "CS6520",
+    "CS6534"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU Msc Computer Science选课3",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS6493 Natural Language Processing\n教授：⭐ ⭐ ⭐ ⭐ ⭐\n难度：⭐ ⭐ ⭐ ⭐ ⭐\n分数构成：assignment，project，final\n跟Data Engineering都是非常nice的宋教授。强度不大，个人觉得内容不太好理解，涉及到大模型。project可以基于tutorial完成，tutorial难度正常。final是有点难，但好在你难我难大家难，加上教授人好，最后分不低。这门课学我是没学明白细节，涉及到复杂的神经网络，只大致明白了框架。不过还是很好的课，可以打开思路，对大模型初学者有很好的引领作用。\n\t\nCS5182 Computer Graphics\n教授：⭐ ⭐ ⭐ ⭐ ⭐\n难度：⭐ ⭐ ⭐ ⭐\n分数构成：midterm，final，project\n教授挺好的，大陆人。课程内容就是基础知识（可以b站搜搜），tutorial是神经网络图像处理。Project对我来说有点难，对设备要求比较高，跑一次就得一晚上。另外处理图像和3D点云的内容我从来没接触过，开源代码扒过来也是一头雾水（也可以水一水，拿个现成代码跑通了交，但分数不会高。一般大家会搞个小创新）。midterm和final都不难，大部分课上讲过。\n\t\nCS6534 Guide Study\nCS6520 Project\n实践课，约等于小毕设。\n1.Guide Study占3学分，一学期完成；Project占6学分，连续两学期完成\n2.Guide Study要求中大概会以调研为主，实验为辅。一般会有一些实验内容，根据不同教授的要求；Project明确写了相比guide study，要有实验，最好有创新。\n3.如果semA选了guide study，semB和st可以继续选同一课题的project（提前跟教授商量好）。但gs内容不计入后续project算分，也就是project不能拿之前gs内容滥竽充数，还是要做实验，或者扩展。\n4.题目可以从学院发的邮件中的list选，也可以联系教授之后让教授直接给一个；正常教授都不会为难人（除非一点不做），水一点不能得A，但是也很少有人得B-\n\t\n还有啥问题\n\t\n#香港留學[话题]#  #香港城市大学[话题]#  #cityu[话题]#  #Cityu选课[话题]#  #cityu选课[话题]#  #cityucs[话题]#  #港城大cs[话题]#  #香港城市大学研究生[话题]#  #香港城市大学租房[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问如果想选6520的话大概什么时候联系教授啊？sema 期末考试前吗？",
+      "sourceRef": "comment:6749a042000000001b023117",
+      "commentId": "6749a042000000001b023117",
+      "likes": 0,
+      "author": "长乐"
+    },
+    {
+      "type": "sub_comment",
+      "text": "抢手的教授semA结束以后就可以马上联系了，其他教授可以等到发porject邮件再联系（参考上学期入学前的guide study邮件）",
+      "sourceRef": "comment:6749a264000000001b0222c6",
+      "commentId": "6749a264000000001b0222c6",
+      "likes": 1,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "gs 和 project 的课题是软开类型的还是科研类型的？",
+      "sourceRef": "comment:66c2c455000000000b00fbb1",
+      "commentId": "66c2c455000000000b00fbb1",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都有，可以联系教授问",
+      "sourceRef": "comment:66c2deda000000001202cccb",
+      "commentId": "66c2deda000000001202cccb",
+      "likes": 0,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "问一下学姐，我们发了guide study的邮件，这个是必选的吗？",
+      "sourceRef": "comment:66cac5f7000000000b00e113",
+      "commentId": "66cac5f7000000000b00e113",
+      "likes": 1,
+      "author": "简单男孩"
+    },
+    {
+      "type": "comment",
+      "text": "请问跟大模型相关的选修课有哪些呀？[皱眉R]",
+      "sourceRef": "comment:68617a09000000002000c598",
+      "commentId": "68617a09000000002000c598",
+      "likes": 0,
+      "author": "松子玉米"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Natural Language Processing是相关性最强的",
+      "sourceRef": "comment:686340e7000000001e0311a4",
+      "commentId": "686340e7000000001e0311a4",
+      "likes": 1,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐~请问summerterm做guided study的时候，大概多久去一次学校呀，需要每周线下汇报嘛？",
+      "sourceRef": "comment:68960298000000001003f6ee",
+      "commentId": "68960298000000001003f6ee",
+      "likes": 0,
+      "author": "鹅不溜秋"
+    },
+    {
+      "type": "sub_comment",
+      "text": "分导师吧，我选的project反正是全程线上的，暑期也是zoom汇报",
+      "sourceRef": "comment:6898acad000000001003df2a",
+      "commentId": "6898acad000000001003df2a",
+      "likes": 0,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "準備選科了，可否問一下意見🙈",
+      "sourceRef": "comment:66c9a0b5000000000502f799",
+      "commentId": "66c9a0b5000000000502f799",
+      "likes": 0,
+      "author": "Jackkoo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是说AI，data和security或者不分类里面选一个的选科吗？那个无所谓，我觉得可以根据你感兴趣的课程先规划一下，看看大致是什么科目。除了毕业证上的名字不一样，其它的都一样。semB之前会再次发个邮件确认你想选的类型",
+      "sourceRef": "comment:66cb52ae0000000012025421",
+      "commentId": "66cb52ae0000000012025421",
+      "likes": 1,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐 你说的Guide Study 里面的实验就是计算机编程吗",
+      "sourceRef": "comment:686787dd000000001e01e51d",
+      "commentId": "686787dd000000001e01e51d",
+      "likes": 0,
+      "author": "肥皂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "编程，算法，看教授给什么课题，可以提前跟教授了解一下",
+      "sourceRef": "comment:686bb730000000000401c3c9",
+      "commentId": "686bb730000000000401c3c9",
+      "likes": 0,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐 数据挖掘和数据仓库用的什么编程语言呀",
+      "sourceRef": "comment:6867920000000000040180cd",
+      "commentId": "6867920000000000040180cd",
+      "likes": 0,
+      "author": "肥皂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "用python和weka，weka内容不多上课会讲一些",
+      "sourceRef": "comment:686bb74a0000000004015787",
+      "commentId": "686bb74a0000000004015787",
+      "likes": 0,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "学姐，请问guide study 跟软工这门课比起来谁事情多呀，guide study是每周汇报进度吗[玫瑰R]",
+      "sourceRef": "comment:689b0606000000002700121f",
+      "commentId": "689b0606000000002700121f",
+      "likes": 0,
+      "author": "易昂杨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不相上下 我觉得软工更累一点。。",
+      "sourceRef": "comment:689c38e70000000026036e83",
+      "commentId": "689c38e70000000026036e83",
+      "likes": 0,
+      "author": "LJY"
+    },
+    {
+      "type": "comment",
+      "text": "你好，请问computer graphic的presentation的qa大概会问些啥呀，想提前准备[哭惹R]",
+      "sourceRef": "comment:6746ddef000000001b034e2e",
+      "commentId": "6746ddef000000001b034e2e",
+      "likes": 0,
+      "author": "小红薯65DFFF4A"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都是助教问，问得都不难，一般根据写的东西问一个简单的思路问题[笑哭R]",
+      "sourceRef": "comment:6746e649000000001b026d08",
+      "commentId": "6746e649000000001b026d08",
+      "likes": 0,
+      "author": "LJY"
+    }
+  ]
+}

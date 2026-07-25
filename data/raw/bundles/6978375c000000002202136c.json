@@ -1,0 +1,74 @@
+{
+  "note_id": "6978375c000000002202136c",
+  "url": "https://www.xiaohongshu.com/explore/6978375c000000002202136c?xsec_token=ABoVOWimeNNhizDCnsBnJ3icxrn3AZDNxStJOOv9STW4E=",
+  "fetched_at": 1784951766.4199767,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "2个不懂行的傻子Reviewer给了4分",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "非常粗浅的从理论上分析了\n为什么RL可以更好保持模型原有能力\n2个不懂行的傻子Reviewer给了4分\n但是但是，最后中了\n感谢ICLR，AC和PC们的认真工作\n今年一定要搞一个高质量的自动评审系统\n把这些傻子reviewer去掉，太影响论文评审#LLM[话题]# #大模型[话题]# #科研学习[话题]# #人工智能[话题]# #iclr[话题]# #ac[话题]# #论文[话题]# #科研[话题]# #人类高质量科研工具[话题]# #review[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "赶紧引入隐藏分elo机制吧，菜鸟审菜鸟，高手审高手[doge]",
+      "sourceRef": "comment:697850980000000005032229",
+      "commentId": "697850980000000005032229",
+      "likes": 31,
+      "author": "何人楚舞我楚狂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "@暴食海獭",
+      "sourceRef": "comment:697da3ef000000000600f9b8",
+      "commentId": "697da3ef000000000600f9b8",
+      "likes": 0,
+      "author": "古德寺大帝"
+    },
+    {
+      "type": "comment",
+      "text": "还是说如今审稿早已形成了秘密的小圈子，不在圈内者一律[doge]",
+      "sourceRef": "comment:697987fd0000000008030451",
+      "commentId": "697987fd0000000008030451",
+      "likes": 2,
+      "author": "小红薯673F4E41"
+    },
+    {
+      "type": "comment",
+      "text": "不如ai审稿",
+      "sourceRef": "comment:6978478d000000000600c655",
+      "commentId": "6978478d000000000600c655",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "给reviewer发钱才是正途",
+      "sourceRef": "comment:697ae238000000000b03631a",
+      "commentId": "697ae238000000000b03631a",
+      "likes": 3,
+      "author": "小红薯67A54557"
+    },
+    {
+      "type": "comment",
+      "text": "看到认识的人了🤔",
+      "sourceRef": "comment:69799fcd000000000601cbe5",
+      "commentId": "69799fcd000000000601cbe5",
+      "likes": 1,
+      "author": "硝酸！"
+    },
+    {
+      "type": "comment",
+      "text": "为何老师和交大穆老师纷纷出离愤怒[doge]",
+      "sourceRef": "comment:697987c9000000000b0367b8",
+      "commentId": "697987c9000000000b0367b8",
+      "likes": 0,
+      "author": "小红薯673F4E41"
+    }
+  ]
+}

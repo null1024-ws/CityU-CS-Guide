@@ -1,0 +1,58 @@
+{
+  "note_id": "68ea18080000000003020d9f",
+  "url": "https://www.xiaohongshu.com/explore/68ea18080000000003020d9f?xsec_token=ABo3yJ3Xv3lcZOzLmFlVyfVbi0lrMimiJy0mqxMs5THEo=",
+  "fetched_at": 1784952184.448294,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "分享一个好的agent 学习资料 cs294",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS294/194-196: Agentic AI. https://rdi.berkeley.edu/agentic-ai/f25\n\t\n非常新的教学材料，课程正在进行中\n干货满满但又不会涉及到overkill的llm training 的数学算法。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "真的很有干货么？听完前两节感觉啥都没说哎",
+      "sourceRef": "comment:68ea1a120000000039030e13",
+      "commentId": "68ea1a120000000039030e13",
+      "likes": 2,
+      "author": "阿巴阿巴的loopy同学"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感觉更像seminar，不像普通意义上的课程",
+      "sourceRef": "comment:68ea1e8f00000000390239aa",
+      "commentId": "68ea1e8f00000000390239aa",
+      "likes": 7,
+      "author": "dd"
+    },
+    {
+      "type": "comment",
+      "text": "好吧 我承认干货其实也没这么多 建议大家跳着看",
+      "sourceRef": "comment:68ec23eb0000000037012150",
+      "commentId": "68ec23eb0000000037012150",
+      "likes": 1,
+      "author": "左边脸偏右"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享～",
+      "sourceRef": "comment:68ecb21b0000000038027767",
+      "commentId": "68ecb21b0000000038027767",
+      "likes": 0,
+      "author": "nrtmovr"
+    },
+    {
+      "type": "comment",
+      "text": "请问后面博主又学了什么课程呢",
+      "sourceRef": "comment:6a4f2f190000000015012880",
+      "commentId": "6a4f2f190000000015012880",
+      "likes": 0,
+      "author": "ssslu."
+    }
+  ]
+}

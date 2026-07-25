@@ -1,0 +1,447 @@
+{
+  "note_id": "6a0fcc570000000007011bd7",
+  "url": "https://www.xiaohongshu.com/explore/6a0fcc570000000007011bd7?xsec_token=ABp3M15AaHTe7EJKyjHo9zD9dakFg-2_Kwk8juVzcdXck=",
+  "fetched_at": 1784954078.9600003,
+  "note": {
+    "xsecToken": "ABp3M15AaHTe7EJKyjHo9zD9dakFg-2_Kwk8juVzcdXck=",
+    "noteId": "6a0fcc570000000007011bd7",
+    "type": "normal",
+    "desc": "找找同学，一起交流，欢迎私聊#硕士留学[话题]#",
+    "interactInfo": {
+      "niceCount": "",
+      "likedCount": "6",
+      "collectedCount": "7",
+      "shareCount": "6",
+      "liked": false,
+      "collected": false,
+      "commentCount": "49",
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "name": "硕士留学",
+        "type": "topic",
+        "id": "5d1d701100000000180250fe"
+      }
+    ],
+    "time": 1779420247000,
+    "lastUpdateTime": 1780594565000,
+    "title": "港城data science msc 26fall",
+    "user": {
+      "userId": "66915b39000000000f037687",
+      "nickname": "Vegetog",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3225monr27k005pkhbcsjutk72aqbcs8",
+      "xsecToken": "ABX6-DORu-Xfxl6riVR7I8zG34xk2Y2YVLZLbBfCU5i8o="
+    },
+    "imageList": [
+      {
+        "width": 896,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251234/ad50a21dfefd395e19e9a2966bcecf92/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251234/e2d4ea2e0a10ea76e138f7c5d742ea51/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg",
+        "height": 1184,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251234/ad50a21dfefd395e19e9a2966bcecf92/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251234/e2d4ea2e0a10ea76e138f7c5d742ea51/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "id": "6a100b1300000000270208c5",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABNh51w5g1ymf6ubZGa0cths0f1HBl4p-gRetagkKu-w0=",
+        "userId": "5fb653750000000001002670",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311hjs38s6m005ntmadqg89jg18rlajo?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1779436308000,
+      "subCommentCursor": "6a101e610000000028038d7e",
+      "noteId": "6a0fcc570000000007011bd7",
+      "content": "有群啊 私我",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a100b1300000000270208c5",
+            "userInfo": {
+              "userId": "5fb653750000000001002670",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311hjs38s6m005ntmadqg89jg18rlajo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNh51w5g1ymf6ubZGa0cths0f1HBl4p-gRetagkKu-w0="
+            }
+          },
+          "noteId": "6a0fcc570000000007011bd7",
+          "status": 0,
+          "content": "1",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kdnris234005pv01hbjjira8mb16rg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB97q_TbbPYzznBaTZwa2O5rBYlbAcN0LMl3vFpkrUGrE=",
+            "userId": "67e00c57000000000e01cb6a",
+            "nickname": "Kr0neyyy"
+          },
+          "showTags": [],
+          "createTime": 1779441250000,
+          "invalid": false,
+          "id": "6a101e610000000028038d7e"
+        }
+      ],
+      "ipLocation": "北京",
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3225monr27k005pkhbcsjutk72aqbcs8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABKPtRiyTLWPJehtmimf_MJp0UvbivEvjBThl89KLJEiY=",
+            "userId": "66915b39000000000f037687",
+            "nickname": "Vegetog"
+          },
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a4cc7b4000000002a025aa9",
+            "userInfo": {
+              "userId": "6676bce900000000070043bd",
+              "nickname": "折口",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31co6fpkfgk005pjmnjkhogttnj9m3no?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB8l1Ie5cvGjWWxit-lKj3zTwkrtSVpqlGjG8XC3VtLfk="
+            }
+          },
+          "status": 0,
+          "content": "可以加一下CSSA的群",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1783421479000,
+          "invalid": false,
+          "id": "6a4cda27000000002b029133",
+          "noteId": "6a0fcc570000000007011bd7",
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a4cc7b4000000002a025aa9",
+      "content": "你好，同26cityu ds，请问找到群了吗？",
+      "userInfo": {
+        "userId": "6676bce900000000070043bd",
+        "nickname": "折口",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31co6fpkfgk005pjmnjkhogttnj9m3no?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8l1Ie5cvGjWWxit-lKj3zTwkrtSVpqlGjG8XC3VtLfk="
+      },
+      "subCommentCount": "3",
+      "invalid": false,
+      "likeCount": "0",
+      "createTime": 1783416756000,
+      "ipLocation": "江苏",
+      "subCommentCursor": "6a4cda27000000002b029133",
+      "noteId": "6a0fcc570000000007011bd7",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "zic",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j2mm8kg1i6g5o3eopg08g9o4d6gs88?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrvQEw7ucw7h4__8TYBAHXHgYYJ7kSGIhXA0uxfQQIrw=",
+        "userId": "606ec6600000000001004138"
+      },
+      "ipLocation": "江苏",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "liked": false,
+      "subCommentCursor": "",
+      "id": "6a0fdf28000000002800a9fe",
+      "noteId": "6a0fcc570000000007011bd7",
+      "status": 0,
+      "likeCount": "1",
+      "createTime": 1779425064000,
+      "subComments": [],
+      "invalid": false,
+      "content": "同ds[大笑R]",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "ipLocation": "吉林",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a5b0cad000000002901beca",
+      "noteId": "6a0fcc570000000007011bd7",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1784351917000,
+      "subCommentCursor": "",
+      "content": "同ds",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABabtyqlQDTV_elfIqaIu9HIpzCDWP5Icms52DSdCP730=",
+        "userId": "6815bd13000000000a03ea42",
+        "nickname": "sc.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h0tnpf43o705q0lnk9inqi2144djv0?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1779699824000,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6a14106f0000000028034138",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "633e7a64000000001802fd5c",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nk7kitsmm105opuf9i65vasrqrd1kg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzSj_s3Zmlm1RoyMhmwf6g162wYUE8-NgPnxToBzGfOU="
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "noteId": "6a0fcc570000000007011bd7",
+      "content": "我我",
+      "ipLocation": "湖南",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "noteId": "6a0fcc570000000007011bd7",
+      "content": "求拉[飞吻R]",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "62ded982000000001e01c5a2",
+        "nickname": "carry",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317hbsl8ska605omur617jhd2tq5b410?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsb3EbY2Yi6zx2kf08ontayuAhq7xDr5ly9Hq5t8R7ig="
+      },
+      "createTime": 1780245106000,
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [],
+      "id": "6a1c6272000000002901a01a",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "ipLocation": "广东",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "subComments": [],
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1783327325000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "6a0fcc570000000007011bd7",
+      "userInfo": {
+        "userId": "64adfe4d000000000a021c83",
+        "nickname": "小红薯64AF3123",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b806f731e07eb8ca3d845.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCG2iv52wv3jfdmOQC6S_RQ70qvaoQPbL-L_WsXYTn90="
+      },
+      "ipLocation": "河北",
+      "subCommentHasMore": false,
+      "id": "6a4b6a5c000000002a00761a",
+      "status": 0,
+      "content": "求拉群",
+      "likeCount": "0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "北京",
+      "invalid": false,
+      "content": "求拉",
+      "atUsers": [],
+      "subComments": [],
+      "id": "6a41cf0a000000001500814f",
+      "likeCount": "0",
+      "showTags": [],
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "subCommentCount": "0",
+      "noteId": "6a0fcc570000000007011bd7",
+      "status": 0,
+      "userInfo": {
+        "userId": "60a92c8e000000000101df98",
+        "nickname": "evpve",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdhzYKR99SHwAqQS19PGYmYefGtOh33LpF_DXMOtcCHw="
+      },
+      "createTime": 1782697738000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a5a0da6000000002a024738",
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AByuTwQ_ccnp1P0Nry7LyDFK9L8Ti67qQVjyvb-hBTioA=",
+        "userId": "62a1bad4000000001902b551",
+        "nickname": "GUDTC",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3211v63u47o005ol1nba6ddahiu4meg0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1784286630000,
+      "subComments": [],
+      "noteId": "6a0fcc570000000007011bd7",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "甘肃",
+      "subCommentCount": "0",
+      "content": "求拉[哭惹R]",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "同ds[暗中观察R]",
+      "showTags": [],
+      "noteId": "6a0fcc570000000007011bd7",
+      "atUsers": [],
+      "liked": false,
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABit65lPSmcILIjQ7d3Yftt5MU1ajdt7Uw_QpnZrMaxco=",
+        "userId": "60e8faef0000000001008695",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32207vtivnu105o78vbng91kleu60348?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a12f2a4000000002b002f76",
+      "likeCount": "0",
+      "createTime": 1779626661000,
+      "ipLocation": "重庆",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大 数据科学 导修",
+  "search_item": {
+    "id": "6a0fcc570000000007011bd7",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "港城data science msc 26fall",
+      "user": {
+        "nickName": "Vegetog",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3225monr27k005pkhbcsjutk72aqbcs8?imageView2/2/w/80/format/jpg",
+        "userId": "66915b39000000000f037687",
+        "nickname": "Vegetog",
+        "xsecToken": "ABaOmq-jp51qg3Fs8LfVYIvD24C1sX_q_lGdFTRNhqKkg="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "6",
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "49",
+        "sharedCount": "6"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251234/39128025289c3f377b2f37b3848769d8/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251234/5e998e3c66f837c5d5bcf153421220e8/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nc_n_webp_prv_1",
+        "height": 1184,
+        "width": 896
+      },
+      "imageList": [
+        {
+          "height": 1184,
+          "width": 896,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251234/39128025289c3f377b2f37b3848769d8/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251234/5e998e3c66f837c5d5bcf153421220e8/notes_pre_post/1040g3k03210jpl637e005pkhbcsjutk70i6uckg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-05"
+        }
+      ]
+    },
+    "xsecToken": "ABp3M15AaHTe7EJKyjHo9zD9dakFg-2_Kwk8juVzcdXck=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a0fcc570000000007011bd7"
+  }
+}

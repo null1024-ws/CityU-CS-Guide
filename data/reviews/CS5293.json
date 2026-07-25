@@ -1,0 +1,191 @@
+{
+  "courseCode": "CS5293",
+  "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "attendance": {
+      "value": "strict",
+      "label": "考勤严",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "6a0f8368000000003700faf0",
+      "url": "https://www.xiaohongshu.com/explore/6a0f8368000000003700faf0?xsec_token=ABJk6pYInA2XD2gIhb6orjMubXjrHgsVSn3zl8-LlSy2g=",
+      "excerpt": "CS5293 Topics on Information Security；评分：2 (满分5)；最终分数 = 50%作业 + 50%期末；这门课讲的是计算机安全方面的内容，包括密码学、计算机网络、区块链、一些常见的计算机攻击方式等，在密码学和计网部分分别和SemesterA的CS5285和CS5222有重叠。作业一共4次，其中有一次叫做project，但是形式和其他作业没有什么区别，因此统称为作业。作业的难度不算大，但是比较繁琐，除了project外其余3次都要完成很多任务，不过给分还不错。期末考试难度比较大，考的内容杂并且有的题目需要比较深刻的理解才能完成，我也是瞎写了几道不会的题，估计没得两分。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城Msc CS SemesterB 冷门课程评价"
+    },
+    {
+      "noteId": "6a0be1210000000035024644",
+      "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
+      "excerpt": "CS5293 Topics on Information Security；好课。Assignment和Project在网上都有现成答案可以抄考，所以平时分很多人接近满分。那Project其实就是一个小的个人Assignment，大概Week 10/11发题，二选一即可。考试难度不高但题多（多复习Assignment，尤其是二进制安全的部份），读过CS5285的在做题上会有优势。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS Sem B课程评价（全A上岸啦）"
+    },
+    {
+      "noteId": "669e38ab0000000027018fc3",
+      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
+      "excerpt": "CS5293 Topics on Information Security；qingchuan Zhao；课程内容:信息安全，加密理论，操作系统漏洞，Web漏洞等；课程作业一般，无Project，考试难度略高，给分尚可",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
+    },
+    {
+      "noteId": "692ff3710000000019026fb6",
+      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
+      "excerpt": "CS5293 Topics in Information Security and Privacy",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城市26fall新增网络安全专业"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "project是一个比较大的项目要持续两个学期6学分，gs是小课题三学分只持续一个学期。六月毕业的话如果想选project你就第一个学期就要选，gs两个学期选一个学期选就好",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "68ac0cd60000000030022b66",
+      "author": "想喝椰云拿铁",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "能请问一下Topics on Information Security有midterm吗和日常签到吗，，球球了",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "6948aea8000000003102f4e5",
+      "author": "小楼昨夜又东风",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "每个项目要求不一样吧，统一的要求类似本科毕设，要开题报告、中期报告、项目代码和终期报告以及最终的答辩",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "6843ecc6000000001c02a58b",
+      "author": "想喝椰云拿铁",
+      "likes": 1,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "作业很多，每次实验报告能写好多但是网上能找到相应的答案。如果本科是信安的话考试不难给分也还行",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "695bacc6000000001702ff5c",
+      "author": "想喝椰云拿铁",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "主要学习数据挖掘相关的决策树等等的相关知识，仓库内容不多",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "6881de33000000000201923a",
+      "author": "想喝椰云拿铁",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "求教5293 info security是什么感受",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "695babc20000000009035d60",
+      "author": "Butterfly",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "想问一下主包guide study给分怎么样呀",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "69fddfed000000002803774f",
+      "author": "Aurora",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "682d519f000000000303c435",
+      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
+      "excerpt": "师姐好！可以了解下数据挖掘和仓库都学习些什么吗",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "cityu港硕CS SemB结束啦",
+      "commentId": "6869ea7f000000000400fcaa",
+      "author": "肥皂",
+      "likes": 0,
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-25"
+}

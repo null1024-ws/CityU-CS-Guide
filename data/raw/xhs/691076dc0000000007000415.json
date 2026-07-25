@@ -1,0 +1,339 @@
+{
+  "note_id": "691076dc0000000007000415",
+  "url": "https://www.xiaohongshu.com/explore/691076dc0000000007000415?xsec_token=AB3otEGfuVam8l8MhO8cEKqVj6wiU6zuiski07WqhTzyc=",
+  "fetched_at": 1784953180.784904,
+  "note": {
+    "xsecToken": "AB3otEGfuVam8l8MhO8cEKqVj6wiU6zuiski07WqhTzyc=",
+    "user": {
+      "userId": "624c650200000000100057a2",
+      "nickname": "sudoroot",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fs2gosrgc505oicck140lt2fu5gvrg",
+      "xsecToken": "ABXjHVJRtORILj07PHTTYB3Bin6cbONLNXfWdCHhVdCsY="
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "livePhoto": false,
+        "height": 2304,
+        "width": 4096,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/7a94c86ff7bd10cb13c807d21cc27506/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/0dcb9421043dfcf34e381d31f71a6c47/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251219/7a94c86ff7bd10cb13c807d21cc27506/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251219/0dcb9421043dfcf34e381d31f71a6c47/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nd_dft_wgth_jpg_3",
+        "fileId": "notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o",
+        "traceId": ""
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088",
+        "url": "",
+        "stream": {},
+        "livePhoto": false,
+        "height": 3584,
+        "width": 1280,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/7656a582d01cd5d1361abce971fc91db/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/9f39dfab5430fc6475875bc973098a66/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251219/7656a582d01cd5d1361abce971fc91db/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251219/9f39dfab5430fc6475875bc973098a66/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/f708a8a3390ce02dd114cbc195aa948b/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251219/bfa60ab767a3ab0902b2430e79b80266/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251219/f708a8a3390ce02dd114cbc195aa948b/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251219/bfa60ab767a3ab0902b2430e79b80266/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nd_dft_wlteh_jpg_3",
+        "fileId": "notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg",
+        "url": "",
+        "stream": {},
+        "livePhoto": false,
+        "height": 3360,
+        "width": 3300,
+        "traceId": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学"
+      },
+      {
+        "id": "5bebe3b3aafb3e0001a115af",
+        "name": "课程设计",
+        "type": "topic"
+      },
+      {
+        "id": "620a02f3000000000100b7b1",
+        "name": "数据分析",
+        "type": "topic"
+      },
+      {
+        "id": "5e2cba4d0000000001002f38",
+        "name": "数据科学",
+        "type": "topic"
+      },
+      {
+        "name": "计算机科学",
+        "type": "topic",
+        "id": "5e4e96a7000000000100451c"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "613dd893000000000100657f",
+        "name": "工具分享",
+        "type": "topic"
+      }
+    ],
+    "time": 1762686684000,
+    "noteId": "691076dc0000000007000415",
+    "type": "normal",
+    "desc": "博主在查阅专业curriculum时发现很多课都有前置课程，网页设计又不是很通人性，于是写了个生成课程树的项目[微笑R]。但是图片效果好像不是很理想，有没有懂设计的帮忙想想怎么改[哭惹R]\n上面这两张图是data science和computer science4年本科的课程树\n如果你也对我的项目感兴趣的话可以去github上下载我的仓库https://github.com/wdffdw07/CtyuHK-courses-tree-generation?tab=readme-ov-file\n#cityu[话题]# #香港城市大学[话题]# #课程设计[话题]# #数据分析[话题]# #数据科学[话题]# #计算机科学[话题]# #选课[话题]# #工具分享[话题]#",
+    "interactInfo": {
+      "collectedCount": "9",
+      "commentCount": "4",
+      "shareCount": "7",
+      "relation": "none",
+      "niceCount": "",
+      "collected": false,
+      "followed": false,
+      "liked": false,
+      "likedCount": "29"
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1762692974000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "CityuHK各专业课程总表"
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "1",
+      "id": "69109c760000000039032829",
+      "ipLocation": "英国",
+      "subCommentHasMore": false,
+      "noteId": "691076dc0000000007000415",
+      "content": "原来你是做这个搞了一个通宵吗",
+      "liked": false,
+      "userInfo": {
+        "userId": "66ee7241000000001e00c592",
+        "nickname": "Lappland",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802027c6616ef4dc0b4a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPz7ascEGxEpJleJB4DYuycZc-pFMBm1dUXlkDufptZs="
+      },
+      "subCommentCursor": "69109e8c000000003902cb9a",
+      "invalid": false,
+      "likeCount": "0",
+      "createTime": 1762696311000,
+      "subComments": [
+        {
+          "id": "69109e8c000000003902cb9a",
+          "noteId": "691076dc0000000007000415",
+          "liked": false,
+          "userInfo": {
+            "nickname": "sudoroot",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fs2gosrgc505oicck140lt2fu5gvrg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPEt0Q8NkhYbhj1J6UtibcTSOaw7UdzYBC1n7P47e97g=",
+            "userId": "624c650200000000100057a2"
+          },
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "userInfo": {
+              "nickname": "Lappland",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802027c6616ef4dc0b4a.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPz7ascEGxEpJleJB4DYuycZc-pFMBm1dUXlkDufptZs=",
+              "userId": "66ee7241000000001e00c592"
+            },
+            "id": "69109c760000000039032829"
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "起初我以为只是做个技能树一样的简单任务[哭惹R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1762696845000
+        }
+      ],
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "691076dc0000000007000415",
+      "id": "693a736100000000160264fa",
+      "content": "不赖 感觉每个大学都得有个这样的图",
+      "userInfo": {
+        "nickname": "ugin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/640345a5646f346f37a24154.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtZ0asAuEcXMZCYy1Fkqfxj2z6APmfgvpi0owYKVZnfg=",
+        "userId": "5e3e733900000000010036fc"
+      },
+      "createTime": 1765438305000,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "上海",
+      "subCommentCount": "0",
+      "invalid": false,
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "invalid": false,
+      "id": "6910c1a40000000038008110",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6436b8222b3ebad5e52bd152.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWDrc_apKT61Nsd6Ys97NdrsqCDRJAMqNu7sLAZ_X-V4=",
+        "userId": "5ae55aad11be107f44e2c8d6",
+        "nickname": "元仔"
+      },
+      "showTags": [],
+      "subCommentCursor": "",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "691076dc0000000007000415",
+      "content": "感觉做个知识图谱要好一点",
+      "likeCount": "1",
+      "atUsers": [],
+      "createTime": 1762705828000,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大 大数据 选课",
+  "search_item": {
+    "id": "691076dc0000000007000415",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 2304,
+          "width": 4096,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/2788bab29255308420a57f2d033e50b5/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/35ce083974bda6e1db0936c2beb3a50e/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 3584,
+          "width": 1280,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/03cb775425fbf8bfaa4316d9a3d184ba/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/5f2d88fc8eb73da0dc5a32a6201cfd34/notes_pre_post/1040g3k831olog448kqd05oicck140lt2gapv088!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 3360,
+          "width": 3300,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/fe318727163420af8b82f6c01b5d763f/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251219/1bbc08de9da0e84c0c240cf44167092b/notes_pre_post/1040g3k831olog448kqcg5oicck140lt216tequg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-11-09",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityuHK各专业课程总表",
+      "user": {
+        "nickName": "sudoroot",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fs2gosrgc505oicck140lt2fu5gvrg?imageView2/2/w/80/format/jpg",
+        "userId": "624c650200000000100057a2",
+        "nickname": "sudoroot",
+        "xsecToken": "ABxVbJkD0hHkcHdtnlEyvjVS_yWyJvbvmfKjovE9thaLQ="
+      },
+      "interactInfo": {
+        "sharedCount": "7",
+        "liked": false,
+        "likedCount": "29",
+        "collected": false,
+        "collectedCount": "9",
+        "commentCount": "4"
+      },
+      "cover": {
+        "width": 4096,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251219/2788bab29255308420a57f2d033e50b5/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251219/35ce083974bda6e1db0936c2beb3a50e/notes_uhdr/1040g3qg31olog3nv4s5g5oicck140lt2lrjio2o!nc_n_webp_prv_1",
+        "height": 2304
+      }
+    },
+    "xsecToken": "AB3otEGfuVam8l8MhO8cEKqVj6wiU6zuiski07WqhTzyc=",
+    "index": 4,
+    "exposed": true,
+    "trackId": "691076dc0000000007000415"
+  }
+}

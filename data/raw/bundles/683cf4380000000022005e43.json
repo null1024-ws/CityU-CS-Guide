@@ -1,0 +1,98 @@
+{
+  "note_id": "683cf4380000000022005e43",
+  "url": "https://www.xiaohongshu.com/explore/683cf4380000000022005e43?xsec_token=ABtfNhX0zSKvp31WYIi-MP7Q4pkMMoq-uwl5jzLS5m6OU=",
+  "fetched_at": 1784952847.497113,
+  "course_codes": [
+    "CS5223",
+    "CS5242",
+    "CS5250",
+    "CS5340",
+    "CS5424",
+    "CS5446",
+    "CS5461"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Mcomp完结撒花和一些上课碎碎念",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "虽然知道一定能毕业，但看到成绩的那一刻还是会心安。考完5250的时候心里还有些惆怅，这个书就读到这里了？！\n【CS5223和CS5424】这两门distributed相关的课是我学到东西最多的课。两位Prof人也很好，课程清晰，课后愿意提供帮助，5424属于content heavy，作业和考试只要能消化掉课程就不算难，有一个project中规中矩。5223 lab的workload名不虚传。最后一个lab我花了整整十天和它大眼瞪小眼，一定要把late days留给最后一个lab啊！痛苦是真的，但学到东西的快乐也是真的。\n【CS5250】这门课对没有基础的我尤其痛苦。ppt动辄百页，而且还抓不住重点。属于划重点的时候会把整本书都划进去的类型。lab和quiz做着做着就逐渐摆烂。所幸考试给我留了两周心无旁骛的复习+四份past year papers，把我抢救了回来。一边CS5223一边CS5250，期间无数次我想穿越到选课前把自己打晕。这门课很适合对OS很有热情的人，比如这门课的prof。比照ca的难度，final反而显得有点和蔼可亲，给分也挺松的…当然我还是不会写lock[萌萌哒R]\n【CS5461】我还挺喜欢这门课的，有一种纯粹的快乐。课程的难度可能不算大，但是考试挺有意思的。Prof人也挺好的，课也讲得挺好的。概念讲完了必有example，拉踩一下5250吧[暗中观察R]\n【CS5340，CS5446，CS5242】我愿称之为一言难尽的三门core，但又不得不选。相比之下CS5340略好一点，毕竟内容是有意思的。硬着头皮上课就是了。\n上了Chris的两门 text mining和data mining，属于有广度但不是很有深度的课。按部就班做作业和project。可能上课的人太多了，quiz总显得有点在犄角旮旯里抠细节，可能为了拉出bell curve吧…总之上课作业挺轻松，看到quiz却会有一种有力无处使的感觉，\n还有一门不愿回忆的database tuning，倒也不是因为很烂，只是有些没什么记忆点+考得不好。前半部分sql，后半部分xml xpath xquery啥的。project有些突兀，而且花时间。Prof是个p人，但我相信他是个好人（。只是忘记了final的时候在examplify里打开复制粘贴功能罢了[笑哭R]\n原来这样就结束了。#mcomp[话题]# #nus[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "想求一个cs5250的 past year paper 不知道可以吗[捂脸R]这门课真的把我给难疯了[笑哭R][笑哭R][笑哭R]",
+      "sourceRef": "comment:69edd6d5000000000d021c01",
+      "commentId": "69edd6d5000000000d021c01",
+      "likes": 0,
+      "author": "ㅤㅤ"
+    },
+    {
+      "type": "sub_comment",
+      "text": "别担心啊 他考前几周会给的……包括答案啥的…",
+      "sourceRef": "comment:69edeaf2000000000d021800",
+      "commentId": "69edeaf2000000000d021800",
+      "likes": 0,
+      "author": "Toffee不太肥"
+    },
+    {
+      "type": "comment",
+      "text": "请问5242质量很差吗[笑哭R]",
+      "sourceRef": "comment:685d7ade000000000600679e",
+      "commentId": "685d7ade000000000600679e",
+      "likes": 1,
+      "author": "Raaaay"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不爱说人坏话[doge] 就内样吧",
+      "sourceRef": "comment:68731ddc00000000040165e9",
+      "commentId": "68731ddc00000000040165e9",
+      "likes": 0,
+      "author": "Toffee不太肥"
+    },
+    {
+      "type": "comment",
+      "text": "请问5242的课程结构包括哪些内容啊？ 有group project吗？ 比较担心队友",
+      "sourceRef": "comment:6875d2fd0000000015003d5f",
+      "commentId": "6875d2fd0000000015003d5f",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我上的时候是60%ca（几个jupyternotebook的作业） + 40% project，自己组队…",
+      "sourceRef": "comment:6875e893000000001102f728",
+      "commentId": "6875e893000000001102f728",
+      "likes": 0,
+      "author": "Toffee不太肥"
+    },
+    {
+      "type": "comment",
+      "text": "这个5223  5340 5446推荐选哪个呢",
+      "sourceRef": "comment:687da73d00000000090168c7",
+      "commentId": "687da73d00000000090168c7",
+      "likes": 0,
+      "author": "小红薯67F7B438"
+    },
+    {
+      "type": "comment",
+      "text": "补充一下，课程体验和Prof非常有关系……有些课换了Prof如同换了课[doge]",
+      "sourceRef": "comment:683cf897000000000a0376a0",
+      "commentId": "683cf897000000000a0376a0",
+      "likes": 1,
+      "author": "Toffee不太肥"
+    },
+    {
+      "type": "comment",
+      "text": "5242我下学期想选来着[笑哭R] 这有点害怕了",
+      "sourceRef": "comment:687b5e9a00000000020065b0",
+      "commentId": "687b5e9a00000000020065b0",
+      "likes": 0,
+      "author": "Bee鲤"
+    }
+  ]
+}

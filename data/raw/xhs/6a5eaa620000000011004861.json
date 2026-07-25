@@ -1,0 +1,236 @@
+{
+  "note_id": "6a5eaa620000000011004861",
+  "url": "https://www.xiaohongshu.com/explore/6a5eaa620000000011004861?xsec_token=AB519-qIe6w_XcojMWOpQak3ZH1Vb85edIHkfQ9v5_NEQ=",
+  "fetched_at": 1784954874.36671,
+  "note": {
+    "xsecToken": "AB519-qIe6w_XcojMWOpQak3ZH1Vb85edIHkfQ9v5_NEQ=",
+    "title": "cs753找组员",
+    "desc": "如题，楼主情绪价值拉满，是做组员的不二选择[亲一个R]",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l5qt1ve4q005o02m62gbt7aid1kbs8",
+      "xsecToken": "ABzwruTXoOnNPpMT-be7R2UX7TrowxHOVR67hnYK0TY_k=",
+      "userId": "6002b185000000000101f4ea",
+      "nickname": "浩浩不煮饭"
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "4",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "1",
+      "collectedCount": "",
+      "shareCount": "2",
+      "niceCount": ""
+    },
+    "tagList": [],
+    "atUserList": [],
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890",
+        "width": 2114,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251248/6f4391285173909b27805444d1a497a0/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251248/2534e1740c97edbb4ff6db892a317028/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251248/6f4391285173909b27805444d1a497a0/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251248/2534e1740c97edbb4ff6db892a317028/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "height": 1380,
+        "traceId": "",
+        "livePhoto": false
+      }
+    ],
+    "time": 1784588898000,
+    "lastUpdateTime": 1784588899000,
+    "ipLocation": "新西兰",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a5eaa620000000011004861",
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "userInfo": {
+        "nickname": "1 6 d i o 噠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31npiq7gol06g5o0rdbfg88ijp49vqto?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFXY_U0PtevdE4YuOldP22_FX-a4iw54Xk58fzqYebU8=",
+        "userId": "601b6adf0000000001002253"
+      },
+      "subCommentHasMore": false,
+      "liked": false,
+      "id": "6a6080d80000000005009b03",
+      "content": "大佬还找组员吗[哭惹R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "新西兰",
+      "subCommentCount": "1",
+      "noteId": "6a5eaa620000000011004861",
+      "status": 0,
+      "createTime": 1784709337000,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a60c06f000000000b039e0c",
+          "noteId": "6a5eaa620000000011004861",
+          "status": 0,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "content": "找",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "浩浩不煮饭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l5qt1ve4q005o02m62gbt7aid1kbs8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhWc3EkP-SBkdPYiir5ta4Ad7MwMf-h3W_JUG32G0T0k=",
+            "userId": "6002b185000000000101f4ea"
+          },
+          "createTime": 1784725616000,
+          "ipLocation": "新西兰",
+          "targetComment": {
+            "userInfo": {
+              "userId": "601b6adf0000000001002253",
+              "nickname": "1 6 d i o 噠",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31npiq7gol06g5o0rdbfg88ijp49vqto?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFXY_U0PtevdE4YuOldP22_FX-a4iw54Xk58fzqYebU8="
+            },
+            "id": "6a6080d80000000005009b03"
+          }
+        }
+      ],
+      "invalid": false,
+      "subCommentCursor": "6a60c06f000000000b039e0c",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "可以一起吗",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "63eb964f000000002702ac93",
+        "nickname": "笑死人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tqgk5sbmu005ovbip7ptb4jogh0en8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6vbLw_n2OHOouHhDsZkxmn5LHDSdXPiXlFFZ8E3B6Nw="
+      },
+      "showTags": [],
+      "createTime": 1784606962000,
+      "noteId": "6a5eaa620000000011004861",
+      "ipLocation": "澳大利亚",
+      "subCommentHasMore": false,
+      "liked": false,
+      "id": "6a5ef0f1000000001500bbe5",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "6a5efb590000000005014e50",
+          "status": 0,
+          "content": "你是哪节课的呀",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6002b185000000000101f4ea",
+            "nickname": "浩浩不煮饭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l5qt1ve4q005o02m62gbt7aid1kbs8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhWc3EkP-SBkdPYiir5ta4Ad7MwMf-h3W_JUG32G0T0k="
+          },
+          "ipLocation": "新西兰",
+          "targetComment": {
+            "id": "6a5ef0f1000000001500bbe5",
+            "userInfo": {
+              "userId": "63eb964f000000002702ac93",
+              "nickname": "笑死人",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tqgk5sbmu005ovbip7ptb4jogh0en8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6vbLw_n2OHOouHhDsZkxmn5LHDSdXPiXlFFZ8E3B6Nw="
+            }
+          },
+          "noteId": "6a5eaa620000000011004861",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784609625000,
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "6a5efb590000000005014e50",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6537 给分",
+  "search_item": {
+    "id": "6a5eaa620000000011004861",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "浩浩不煮饭",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l5qt1ve4q005o02m62gbt7aid1kbs8?imageView2/2/w/80/format/jpg",
+        "userId": "6002b185000000000101f4ea",
+        "nickname": "浩浩不煮饭",
+        "xsecToken": "ABeMBkm4rMfZV5en2zXtzlErliPqI1RptE7uTrGUL9M9U="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "1",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "4",
+        "sharedCount": "2"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251247/082f56c69c72d5fbd72cdce16b7c1d27/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nc_n_webp_prv_1",
+        "height": 1380,
+        "width": 2114,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251247/ca9906b9ce6fbdfb12aa72e63636cdc0/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1380,
+          "width": 2114,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251247/ca9906b9ce6fbdfb12aa72e63636cdc0/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251247/082f56c69c72d5fbd72cdce16b7c1d27/notes_pre_post/1040g3k0322s4g5v0n0005o02m62gbt7armma890!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "4天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "cs753找组员"
+    },
+    "xsecToken": "AB519-qIe6w_XcojMWOpQak3ZH1Vb85edIHkfQ9v5_NEQ=",
+    "index": 10,
+    "exposed": true,
+    "trackId": "6a5eaa620000000011004861"
+  }
+}

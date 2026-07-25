@@ -1,0 +1,116 @@
+{
+  "note_id": "695d3eb3000000002102be0b",
+  "url": "https://www.xiaohongshu.com/explore/695d3eb3000000002102be0b?xsec_token=ABGy73TvojNEVuLiIZyuM1jT1pSlUVc1rBbAtTYj_5asE=",
+  "fetched_at": 1784953103.3290973,
+  "course_codes": [
+    "CS5285"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityUHK Data Science Sem A结算",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "为了Sem B有充足时间岗前实习和旅游，因此选了6门课。个人感觉学业没有特别忙碌，就是期末月压力稍大（没摆烂，有几个小组作业还主动push）。有不少课程对于非计算机科班难度是在的，但数学不错的缘故感觉也可以很好应对。总结一下：\n\t\n1️⃣CS5285：个人感觉最硬的一门，会把信息安全的内容从基础概念到常用算法系统地学一遍。平时会有两次作业（按正确率算分），期中期末两次考试，考试可带1张A4双面的note，难度适中，题量较大。每门课的tutorial是做课后习题（不算分，纯练习），老师会当堂讲解。\n2️⃣SDSC5001：这是必修课，主要讲机器学习的各种知识。我是ZENG老师班的，老师讲课很专业，对学生很和蔼。有3次作业（完成就满分）和小组项目，以及期中期末两次考试。考试难度比较简单，可以带1张A4双面的note。\n3️⃣SDSC5002：这也是必修课，主要讲可视化以及部分机器学习的知识。Xinke老师讲课也很好，上课会有一些小问题的互动，大家扫屏幕的二维码回答。有当堂的课后小练习（完成就满分），2次作业，小组项目和1次考试（可带1张A4双面note）。整体难度较简单。\n4️⃣SDSC5003：必修课，主要讲数据库开发的各种内容，是两门老师换着讲。有3次作业（按正确率算分），小组项目和期末考试。期末考试只允许带打印的课件，题量较大，会有手写SQL代码的题目，对非科班同学会有不小难度。我本科有学过数据库相关课程，感觉还行。\n5️⃣SDSC6007：最推荐的一门课！主要讲强化学习的各种知识，老师说学完这门课可以保证看懂强化学习的各种论文(? 有2次作业，小组项目和期中期末两次考试。学的内容会较难，但考试很简单，基本好好复习就能考高分（唯一一门绩点不带后缀的A的含金量）。Clint老师非常好！很风趣大方，会很积极和同学交流，每节课还会关心大家最近精神状态hhh\n6️⃣SDSC6009：和往年的大规模机器学习不同，今年换了个新老师，主要讲大模型压缩相关知识，模型的剪枝、量化、蒸馏什么的。平时课上和老师积极互动问答会加平时分，只有一次考试和小组项目。整体难度偏难。\n\t\n之前选课受到小红书上往届师兄师姐帖子的不少灵感，因此决定也写一篇总结给之后入读的同学一些参考。有本专业和课程相关的问题欢迎交流～\n\t\n#选课[话题]# #香港城市大学[话题]# #数据科学[话题]# #ds[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "蹲一下6007题型[扯脸H]",
+      "sourceRef": "comment:69c16f27000000001500686e",
+      "commentId": "69c16f27000000001500686e",
+      "likes": 0,
+      "author": "Ci"
+    },
+    {
+      "type": "sub_comment",
+      "text": "选择+大题计算",
+      "sourceRef": "comment:69c394e7000000001400ace2",
+      "commentId": "69c394e7000000001400ace2",
+      "likes": 1,
+      "author": "村头的鹅守卫"
+    },
+    {
+      "type": "comment",
+      "text": "26fall ds 请问可以读两年吗[哭惹R]",
+      "sourceRef": "comment:695e91bc000000001d01df3e",
+      "commentId": "695e91bc000000001d01df3e",
+      "likes": 1,
+      "author": "chooselife？"
+    },
+    {
+      "type": "sub_comment",
+      "text": "理论上是可以的，具体实操要看你们这届的课程和学分安排",
+      "sourceRef": "comment:695f8486000000001601e38f",
+      "commentId": "695f8486000000001601e38f",
+      "likes": 1,
+      "author": "村头的鹅守卫"
+    },
+    {
+      "type": "comment",
+      "text": "你好，你这学期是选三门留一门summer term还是四门？",
+      "sourceRef": "comment:695dbf1b0000000016020ef8",
+      "commentId": "695dbf1b0000000016020ef8",
+      "likes": 2,
+      "author": "De Niro"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我直接四门，6月份毕业了",
+      "sourceRef": "comment:695dde64000000001d01e617",
+      "commentId": "695dde64000000001d01e617",
+      "likes": 0,
+      "author": "村头的鹅守卫"
+    },
+    {
+      "type": "comment",
+      "text": "很厉害！我跟你差不多",
+      "sourceRef": "comment:695d8f93000000001601f52b",
+      "commentId": "695d8f93000000001601f52b",
+      "likes": 0,
+      "author": "小L睡不醒"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[握手R][握手R][握手R]",
+      "sourceRef": "comment:695dde79000000001601f922",
+      "commentId": "695dde79000000001601f922",
+      "likes": 0,
+      "author": "村头的鹅守卫"
+    },
+    {
+      "type": "comment",
+      "text": "hello hello，请问考试是纸笔还是上机呀？[合十R]",
+      "sourceRef": "comment:6a5c7b04000000000802f05c",
+      "commentId": "6a5c7b04000000000802f05c",
+      "likes": 0,
+      "author": "何铁牛🐃"
+    },
+    {
+      "type": "comment",
+      "text": "友友，ec和ds您建议选哪个，近从就业角度",
+      "sourceRef": "comment:6964880a000000000c00a82b",
+      "commentId": "6964880a000000000c00a82b",
+      "likes": 0,
+      "author": "自救者指南"
+    },
+    {
+      "type": "comment",
+      "text": "友友，ec和ds您建议选哪个，仅从就业角度？[捂脸R]",
+      "sourceRef": "comment:6964884f0000000008030bbf",
+      "commentId": "6964884f0000000008030bbf",
+      "likes": 0,
+      "author": "自救者指南"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ec专业我了解的很有限，他们有些课和我们是一起上的。从就业前景看两个专业现在都不错，城大的ds会更偏ai一点。毕业后的就业情况可能还是要看你本科专业，以及相关实习和项目的实践情况[握手R]",
+      "sourceRef": "comment:69664cd9000000000b037eba",
+      "commentId": "69664cd9000000000b037eba",
+      "likes": 1,
+      "author": "村头的鹅守卫"
+    }
+  ]
+}

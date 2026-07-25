@@ -1,0 +1,106 @@
+{
+  "note_id": "69f2e4090000000037037774",
+  "url": "https://www.xiaohongshu.com/explore/69f2e4090000000037037774?xsec_token=ABEKzC3G6by7NX8NvlGqyTVETlMisL3ui8MHgXnSveSFA=",
+  "fetched_at": 1784874049.0195985,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 好课推荐",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这里必须提一嘴我觉得必选的神课 Guided Study，这个课3学分，并且在 semester A/B 以及 summer term 都可以选。\n\t\n课程的形式内容是跟着 supervisor 搞一个 project，最后提交 report 以及做一个在线的 presentation。\n\t\n首先这个课是 project 导向的，没有期末考试和小组协作等环节，适合不擅长的考试或者比较 i 的同学。\n\t\n其次在 AI 时代下面，书写 Plan/ 代码实现/ report 书写/ PPT 制作 非常方便，如果你 Vibe Coding 非常熟练的话，甚至可以一周时间从0交付（当然也要看 supervisor 的意见以及 project 本身的复杂性\n\t\n不过这个课程不是让你一周赶ddl的，是拆分为了多个 stage。一般会有五个阶段：\n1. Topic selection\n2. Project Proposal [5% marks]\n3. Interim Report [10% marks]\n4. Final Report  [66% marks]\n5. Presentation [14% marks]\n\t\n必须要在规定时间内找 supervisor，讨论好你想做的 project，之后才可以选修。\n#港硕[话题]# #cityu[话题]# #选课攻略[话题]# #计算机[话题]# #vibecoding[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我这学期选了GD的ai。 跟老师讨论之后， 做一个vllm的推理引擎原型。 vibecoding加上实验花了六天工作量吧。还是蛮有收获的。",
+      "sourceRef": "comment:69f2fba3000000002a005f4e",
+      "commentId": "69f2fba3000000002a005f4e",
+      "likes": 3,
+      "author": "我是赵凡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[赞R][赞R][赞R]大佬 你这项目含金量拉满",
+      "sourceRef": "comment:69f2fc910000000028035f6e",
+      "commentId": "69f2fc910000000028035f6e",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "要陶瓷嘛，想请教一下[哭惹R]",
+      "sourceRef": "comment:69f63512000000002803fdce",
+      "commentId": "69f63512000000002803fdce",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "选课那一周会发通知的 自己联系prof 以及写proposal plan就好。[棒R]",
+      "sourceRef": "comment:69f6365b000000002803375b",
+      "commentId": "69f6365b000000002803375b",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下主包给分如何吖？",
+      "sourceRef": "comment:69fde7540000000028032ac6",
+      "commentId": "69fde7540000000028032ac6",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会很高 一般很难拿a 我是打算混个毕业呢",
+      "sourceRef": "comment:69fe02de0000000029011f13",
+      "commentId": "69fe02de0000000029011f13",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "主包，Supervisor一般是教授还是博士生？我觉得课程里没有自己想学的方向这个study倒真是一个不错的选择[皱眉R]",
+      "sourceRef": "comment:69f31e6a000000002b02bd91",
+      "commentId": "69f31e6a000000002b02bd91",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一般都是找prof呢 会给你一个可以联系的prof list的呢",
+      "sourceRef": "comment:69f32013000000002803fec0",
+      "commentId": "69f32013000000002803fec0",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "主包 请问有没有推荐的导师 放养型最好 下学期sema想去外地实习 基本上不怎么来港 想混个3学分顺利毕业",
+      "sourceRef": "comment:6a5dd2aa000000002a004ce8",
+      "commentId": "6a5dd2aa000000002a004ce8",
+      "likes": 0,
+      "author": "真宵"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[笑哭R]这个不好在公开渠道评价，而且每个prof也不一定有时间参与这个，建议提前发email联系和询问呢",
+      "sourceRef": "comment:6a5f37d2000000001403ba20",
+      "commentId": "6a5f37d2000000001403ba20",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "诶，这是在哪里选？课号是多少[偷笑R]",
+      "sourceRef": "comment:69f5bcb500000000270148cf",
+      "commentId": "69f5bcb500000000270148cf",
+      "likes": 0,
+      "author": "TMS"
+    }
+  ]
+}

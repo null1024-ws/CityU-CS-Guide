@@ -1,0 +1,75 @@
+{
+  "note_id": "695a87d0000000001e00e64b",
+  "url": "https://www.xiaohongshu.com/explore/695a87d0000000001e00e64b?xsec_token=ABKYpGZPOymmEAEsyhFGhJWYYXL4P_yx2RUwXhExDIJiE=",
+  "fetched_at": 1784955973.667965,
+  "search_query": "CS5367 给分",
+  "search_item": {
+    "id": "695a87d0000000001e00e64b",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "2",
+        "collected": false,
+        "collectedCount": "1",
+        "commentCount": "2",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "height": 1765,
+        "width": 1170,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251306/7d48317a17188a1a1a40972539cbb6f4/notes_pre_post/1040g3k031qu3547rn4004a6lddaoe02heu747g0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251306/dcc2397ad6aca04de0c43fb793f963f1/notes_pre_post/1040g3k031qu3547rn4004a6lddaoe02heu747g0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1765,
+          "width": 1170,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251306/7d48317a17188a1a1a40972539cbb6f4/notes_pre_post/1040g3k031qu3547rn4004a6lddaoe02heu747g0!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251306/dcc2397ad6aca04de0c43fb793f963f1/notes_pre_post/1040g3k031qu3547rn4004a6lddaoe02heu747g0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 1649,
+          "width": 1170,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251306/8be93a3d6cfa65aa93f5013f23b8d724/notes_pre_post/1040g3k031qu3547rn40g4a6lddaoe02hrdtu2b8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251306/f225ab8a7bbe95af35df10b2bccb7136/notes_pre_post/1040g3k031qu3547rn40g4a6lddaoe02hrdtu2b8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-04"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "mcomp选课找课友",
+      "user": {
+        "xsecToken": "ABSJGoM03fiAbOgYcadSZYTgD0b624aVDFLMvVyoE9luc=",
+        "nickName": "Raaaay",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5b34961eb46c5d7fcf476fe9.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5b349587e8ac2b528cf60051",
+        "nickname": "Raaaay"
+      }
+    },
+    "xsecToken": "ABKYpGZPOymmEAEsyhFGhJWYYXL4P_yx2RUwXhExDIJiE=",
+    "index": 8,
+    "exposed": true,
+    "trackId": "695a87d0000000001e00e64b"
+  }
+}

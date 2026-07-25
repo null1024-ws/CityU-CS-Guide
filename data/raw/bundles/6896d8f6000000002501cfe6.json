@@ -1,0 +1,53 @@
+{
+  "note_id": "6896d8f6000000002501cfe6",
+  "url": "https://www.xiaohongshu.com/explore/6896d8f6000000002501cfe6?xsec_token=ABnJrmcUjbNGsgI0MPfRdyWPgHz_fluN0VnY_9fJUX1zI=",
+  "fetched_at": 1784951591.0785844,
+  "course_codes": [
+    "CS5285",
+    "CS5486"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 选课血泪史3️⃣",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "① 仅代表个人观点\n② 本人 bg：末 9 本 + 科班混子 + 一段开发工作经历 + 有过 gap + 学习能力/考试能力/代码能力都远不如年轻人的老登\n\t\nCS5285 Information Security for eCommerce\n\t\nProf. Gerhard Hancke 的语速会比其他老师更快，如果英语听力不是很好的话，只有自己课下慢慢啃课件和回放了，不过每节课后老师会上传带有注释的课件，非常详细\n\t\n这门课主要是探讨对称加密和非对称加密，以及其背后所涉及算法的设计与实现，由于我完全没有密码学基础，学起来是有点吃力的，但总归是啃得动，也学到了东西\n\t\n没有 project，但每次作业的量相较于其他课就会比较大了，不过好在也只有两次\n\t\n考试占比很高，要好好复习，期中比期末简单，但时间比较紧，只有一个小时，期中考完以后老师好像把作业和期中的总分数占比提高到了 50%，不知道是不是因为大家考得比较好，期末想出难一点\n\t\nCS5486 Intelligent Systems\n\t\n二字箴言：慎选\n\t\n围绕神经网络的发展史展开，从上古神经网络开始，一直讲到现代神经网络\n\t\n讲课的是一位来自内地的老教授，多的我就不说了，互相理解[doge]\n\t\n作业要求用 matlab 做，无 project\n\t\n考试也是出几道大题，主要是神经网络相关的数学推导，以及不同神经网络之间的特点对比\n\t\n如果没有研究过神经网络，且上课又听不懂的话，考试会让人完全摸不着头脑，因为课件里面也没有太多对考试有用的信息，不过我想最后给分上应该没有太为难大家\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问5486对没有matlab基础的人来说能学着做出来吗？需要很强的matlab基础吗",
+      "sourceRef": "comment:68b6e053000000003000668c",
+      "commentId": "68b6e053000000003000668c",
+      "likes": 1,
+      "author": "醒醒"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那得看你是想完全学懂，还是只是想做出来了[doge]",
+      "sourceRef": "comment:68bd2268000000003000a846",
+      "commentId": "68bd2268000000003000a846",
+      "likes": 0,
+      "author": "别叫我姐妹了Orz"
+    },
+    {
+      "type": "comment",
+      "text": "大佬，Intelligent Systems会挂人么？",
+      "sourceRef": "comment:6943feb8000000003800ddb6",
+      "commentId": "6943feb8000000003800ddb6",
+      "likes": 0,
+      "author": "Momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs5285查考勤吗？",
+      "sourceRef": "comment:68ac5b9b000000003002c572",
+      "commentId": "68ac5b9b000000003002c572",
+      "likes": 0,
+      "author": "yuzi"
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "note_id": "67d048c600000000070342ec",
+  "url": "https://www.xiaohongshu.com/explore/67d048c600000000070342ec?xsec_token=AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+  "fetched_at": 1784953056.952602,
+  "note": {
+    "xsecToken": "AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+    "time": 1741703366000,
+    "lastUpdateTime": 1756449972000,
+    "noteId": "67d048c600000000070342ec",
+    "type": "normal",
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "name": "信息安全",
+        "type": "topic",
+        "id": "5cb4cae9000000000d01872a"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "聊聊香港城市大学CS5285 信息安全",
+    "desc": "更之前吐槽一下无关话题，今日的cs5489的期中考试，知识点考察的过于全面了，头疼，顺带更新下xhs。考虑到之前的课程评测反响还不错，那就聊聊上学期ec的必修课信安课，遂有了这贴。\n\t\nCS5285 InformationSecurity For Ecommerce这门课总体来说是在城大上过最棒的课之一。它没有折磨人的组队环节，没有头疼的presentation，只有安心的作业和考试，对我这个i人简直不要太友好。\n\t\n这门课是由汉克教授负责的，口音清晰略快，适应之后感觉听着很舒服，上课时分成两部分，一部分是老师讲解上次留下来的tutorial(可以提前做也可以在tutorial时间做，会做半小时讲解20min)，另一部分是讲述密码学和协议方面的一些知识。tutorial可以选择课前或课后，同时还有zoom直播录播(不过不确定之后有没有，cityu好像希望学生线下去上课)。\n\t\n成绩构成方面:期末占60%(然后期末卷子至少答对30%)，然后有一次期中考试20%，考完后会进行讲解，两次problem set(有计算有问答有一点点代码，不算很难)，每次占10%，同样老师也会进行讲解。总得来说平时作业都不算难，但期末的时候密钥管理，authentication，agreement这些后半学期学的东西会比较难，讲课的时候感觉总在云里雾里绕着。\n\t\n课程内容难度的话，前半学期的对称加密，非对称加密，这些稍微认真看看就能学个差不多，期中考试也同样是针对前几周的东西不算难，但期中之后的密钥管理，协议认证，证书这些就比较麻烦了，抽象的概念比较多，不太好理解，不过老师给的材料足够，而且可以随时问老师和ta弥补了这一点，期末的时候，老师还会有一节复习课带你过重点，而且还会发一些复习的材料，所以体验很良好，期末感觉正常做作业都能过，还能带cheat sheet，而且稍微差一些及格的老师也会捞的。\n\t\n最后的成绩的话给分确实不是很高，可能是因为我期末太菜了，但总得来说这门课的体验很棒，本科没接触过信安相关的课程上这门课感觉也有所收获，打算暑假继续隐私强化了。\n\t\n同时借着这里把ec5001和is5414也讲一下，ec5001很安心的水课，前半段讲商业的一些东西有一点点作业，后半段讲计算机的常识知识，最后要交一个小组报告，期末不会出怪题而且会划范围，但给分比较低\n\t\nis5414系统分析与设计简单来说就是本科软件工程的阉割版差不多，主要要学会画用例图，ssd图，类图，活动图等，平时有作业，在dropbox上交，吃小组，给分玄学\n#香港城市大学[话题]#\n#选课[话题]#\n#信息安全[话题]#",
+    "user": {
+      "userId": "627e901c000000002102978e",
+      "nickname": "Richett_L",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg",
+      "xsecToken": "ABTyUzr63YBwZGkzQ_jtkzKBAKVAcb8Ojgmk8VK9514PU="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "33",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "48",
+      "collectedCount": "61",
+      "shareCount": "29",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251217/76fcccda58ce5514eef76d3c468d6ad6/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251217/57c50e2ea41d7fd1918057a5ff99ad90/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251217/76fcccda58ce5514eef76d3c468d6ad6/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo",
+        "height": 774,
+        "width": 1273,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251217/57c50e2ea41d7fd1918057a5ff99ad90/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "targetComment": {
+            "id": "67d065070000000017031916",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABDTvlaC_6Zrjlno9Hka-kUGgeRTqwzWws40sssQRFkDo=",
+              "userId": "65af4d4e000000001300a2da",
+              "nickname": "KoBe(No Helicopter)",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kgs4tp82o005pdf9l74p8mqg9nskko?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "67d06637000000001802a5e0",
+          "content": "有可操作性，不过日常实习的话就不要选硬课了，然后考虑港深通勤住深圳会好点(不过要考虑好后面落户是否有境外逗留时间要求，城大最近还发了一些说希望线下上课的要求，不太好说这个情况)，个人感觉实习+上课确实会比较累，当然大部分课都是可以翘的，刚开始最好了解清课程要求和认识一些选这门课的同学。",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1741710904000,
+          "ipLocation": "中国香港",
+          "noteId": "67d048c600000000070342ec"
+        }
+      ],
+      "subCommentCursor": "67d06637000000001802a5e0",
+      "id": "67d065070000000017031916",
+      "content": "学长请问sem A接日常实习实习现实吗，可以把课程集中选在三天吗",
+      "createTime": 1741710599000,
+      "pictures": [],
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "8",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "65af4d4e000000001300a2da",
+        "nickname": "KoBe(No Helicopter)",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kgs4tp82o005pdf9l74p8mqg9nskko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDTvlaC_6Zrjlno9Hka-kUGgeRTqwzWws40sssQRFkDo="
+      },
+      "showTags": [],
+      "ipLocation": "陕西",
+      "noteId": "67d048c600000000070342ec",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "68ecc0ea000000003300c2c9",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "Aurora",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuSln9mCx9WZechuAWoij2d318BzedRhtgbKlet3oZqo=",
+        "userId": "5fef2397000000000101d10f"
+      },
+      "showTags": [],
+      "subCommentCursor": "68eccbf40000000033027d2a",
+      "content": "想请问下学长5285期中考试有什么题型呢？有简答题那些嘛？",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1760349173000,
+          "status": 0,
+          "content": "计算+简答，应该总计5道大题，课件+tutorial复习完就差不多",
+          "ipLocation": "山西",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5fef2397000000000101d10f",
+              "nickname": "Aurora",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuSln9mCx9WZechuAWoij2d318BzedRhtgbKlet3oZqo="
+            },
+            "id": "68ecc0ea000000003300c2c9"
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "68eccbf40000000033027d2a",
+          "noteId": "67d048c600000000070342ec",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "noteId": "67d048c600000000070342ec",
+      "subCommentCount": "5",
+      "status": 0,
+      "liked": false,
+      "createTime": 1760346347000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "userInfo": {
+        "nickname": "yuzi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v8m5v5qiac05q27vv66s7n15ab3uno?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmL3I1dVIXAKKvT5pUG3I0b40V5fHBRCZ0NqINapzzZQ=",
+        "userId": "6847ffcc000000001b021ee1"
+      },
+      "showTags": [],
+      "invalid": false,
+      "id": "68ac5a8e000000003002f0bb",
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "content": "请问cs5285考勤吗",
+      "likeCount": "0",
+      "subCommentCursor": "68ac5aac000000003002f9b4",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1756125839000,
+      "subComments": [
+        {
+          "createTime": 1756125868000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "userInfo": {
+              "userId": "6847ffcc000000001b021ee1",
+              "nickname": "yuzi",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v8m5v5qiac05q27vv66s7n15ab3uno?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmL3I1dVIXAKKvT5pUG3I0b40V5fHBRCZ0NqINapzzZQ="
+            },
+            "id": "68ac5a8e000000003002f0bb"
+          },
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "pictures": [],
+          "invalid": false,
+          "id": "68ac5aac000000003002f9b4",
+          "noteId": "67d048c600000000070342ec",
+          "content": "印象里没有",
+          "atUsers": []
+        }
+      ],
+      "pictures": [],
+      "noteId": "67d048c600000000070342ec",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk=",
+            "userId": "627e901c000000002102978e"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "5b0a5f4511be10675554079d",
+              "nickname": "ValjeanJean",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318ms3khjk4004a5mmefka1sten98qgg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKSIXE6yFg5dXp9egEL54loYQjAzgAEu-_8pIeSZjzAo="
+            },
+            "id": "68e2323500000000380285fb"
+          },
+          "pictures": [],
+          "noteId": "67d048c600000000070342ec",
+          "status": 0,
+          "content": "无",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1759657011000,
+          "ipLocation": "山西",
+          "invalid": false,
+          "id": "68e23c330000000033024319",
+          "likeCount": "1"
+        }
+      ],
+      "invalid": false,
+      "noteId": "67d048c600000000070342ec",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subCommentCursor": "68e23c330000000033024319",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "createTime": 1759654453000,
+      "subCommentCount": "2",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "ValjeanJean",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318ms3khjk4004a5mmefka1sten98qgg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKSIXE6yFg5dXp9egEL54loYQjAzgAEu-_8pIeSZjzAo=",
+        "userId": "5b0a5f4511be10675554079d"
+      },
+      "id": "68e2323500000000380285fb",
+      "content": "学长，想问下is5414有期中考试嘛",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1760445676000,
+      "subCommentCursor": "68ee4c80000000003300de00",
+      "id": "68ee44eb000000003902ab82",
+      "status": 0,
+      "content": "学长，cs5285有去年测试的题目吗[哭惹R]",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "pictures": [],
+          "invalid": false,
+          "noteId": "67d048c600000000070342ec",
+          "content": "无",
+          "likeCount": "0",
+          "createTime": 1760447617000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "68ee44eb000000003902ab82",
+            "userInfo": {
+              "userId": "629a637e000000001b026f5d",
+              "nickname": "T^T",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABVwXQPCSwjNXvOQe1cERRO1HYENJZ9S9hhqRQKJ0PltQ="
+            }
+          },
+          "id": "68ee4c80000000003300de00",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "subCommentCount": "1",
+      "noteId": "67d048c600000000070342ec",
+      "userInfo": {
+        "userId": "629a637e000000001b026f5d",
+        "nickname": "T^T",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVwXQPCSwjNXvOQe1cERRO1HYENJZ9S9hhqRQKJ0PltQ="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "安徽",
+      "noteId": "67d048c600000000070342ec",
+      "content": "学长，末2+港城ec的就业情况怎么样呢，[哭惹R]",
+      "createTime": 1742140422000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "xsecToken": "AB2cb64J9kG2iDoFvMQ0oWTqq0NTLSi7NEVlMgtgvPFa0=",
+        "userId": "5e3ac5770000000001002723",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31at49qmmne6g5nhqolrg89p3c3bffb0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "67d7014d000000001802aa30",
+          "content": "丰俭由人，cityu只能帮你过简历关",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1742143821000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "67d6f405000000001802d243",
+            "userInfo": {
+              "userId": "5e3ac5770000000001002723",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31at49qmmne6g5nhqolrg89p3c3bffb0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB2cb64J9kG2iDoFvMQ0oWTqq0NTLSi7NEVlMgtgvPFa0="
+            }
+          },
+          "noteId": "67d048c600000000070342ec"
+        }
+      ],
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "pictures": [],
+      "id": "67d6f405000000001802d243",
+      "subCommentCount": "1",
+      "subCommentCursor": "67d7014d000000001802aa30",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "pictures": [],
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1757585974000,
+      "subCommentHasMore": true,
+      "userInfo": {
+        "userId": "629a637e000000001b026f5d",
+        "nickname": "T^T",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVwXQPCSwjNXvOQe1cERRO1HYENJZ9S9hhqRQKJ0PltQ="
+      },
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "id": "68c2ade70000000030031bb2",
+          "noteId": "67d048c600000000070342ec",
+          "status": 0,
+          "content": "计划书",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "liked": false,
+          "createTime": 1757588968000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "userInfo": {
+              "userId": "629a637e000000001b026f5d",
+              "nickname": "T^T",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/629a637e000000001b026f5d.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABVwXQPCSwjNXvOQe1cERRO1HYENJZ9S9hhqRQKJ0PltQ="
+            },
+            "id": "68c2a2360000000030015001"
+          },
+          "pictures": [],
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "subCommentCount": "2",
+      "id": "68c2a2360000000030015001",
+      "noteId": "67d048c600000000070342ec",
+      "status": 0,
+      "content": "学长您好，想问一下is5414主要要完成项目计划书还是系统？",
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCursor": "68c2ade70000000030031bb2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": true,
+      "subCommentCursor": "68e8c02c0000000037024471",
+      "noteId": "67d048c600000000070342ec",
+      "content": "学长，麻烦问下，5285 的 期中， TA 监考严格吗，我们今年说是可以带 pc 和平板，放自己的 note 或者计算器，代码啥的，但是不能用 gen AI ，如果考试时用 genai 这种，TA 发现得了不[笑哭R]",
+      "createTime": 1760083579000,
+      "ipLocation": "重庆",
+      "pictures": [],
+      "invalid": false,
+      "id": "68e8be7b0000000038007cc0",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "Quebec圆脸",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rifpmuv2a004a5sipaf7sfsti52oi8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxBbV0GXCr_Y9B3tqVZsAHcW0INC3SE2xYwOBs894lGw=",
+        "userId": "5b1294f3f7e8b95acd80f1fc"
+      },
+      "subComments": [
+        {
+          "noteId": "67d048c600000000070342ec",
+          "status": 0,
+          "content": "这让我怎么说呢，我只能说原则上按考试规定不可以，TA印象里大概看的不严。",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "68e8c02c0000000037024471",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+          },
+          "createTime": 1760084013000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "68e8be7b0000000038007cc0",
+            "userInfo": {
+              "nickname": "Quebec圆脸",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rifpmuv2a004a5sipaf7sfsti52oi8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxBbV0GXCr_Y9B3tqVZsAHcW0INC3SE2xYwOBs894lGw=",
+              "userId": "5b1294f3f7e8b95acd80f1fc"
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "您好，请问cs5285的期中开卷是只能带纸质资料还是可以带平板之类的呀，非常感谢[玫瑰R]",
+      "likeCount": "0",
+      "createTime": 1759396165000,
+      "ipLocation": "中国香港",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AByMHQdaPBYon5F5LcA2QXZxTavQE-mz1mSA7h0Oae5_o=",
+        "userId": "5d5d09620000000001019e86",
+        "nickname": "!=",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gaosvlp306g5nat15h0b7k6ql4g9ko?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "68de414400000000380076c1",
+            "userInfo": {
+              "nickname": "!=",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gaosvlp306g5nat15h0b7k6ql4g9ko?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AByMHQdaPBYon5F5LcA2QXZxTavQE-mz1mSA7h0Oae5_o=",
+              "userId": "5d5d09620000000001019e86"
+            }
+          },
+          "invalid": false,
+          "noteId": "67d048c600000000070342ec",
+          "content": "可以带笔记本电脑和平板，需要开飞行模式。计算器可以用电脑自带的，但不可以用手机。",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "pictures": [],
+          "id": "68de538f0000000037027e43",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+          },
+          "createTime": 1759400848000
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "68de414400000000380076c1",
+      "showTags": [],
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251217/3404275f7668bfe91222828c5e6da8dc/comment/1040g2h031n4nmpgo6g005nat15h0b7k6goolqt8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251217/65fb329294567f2f92977c370dda7f61/comment/1040g2h031n4nmpgo6g005nat15h0b7k6goolqt8!nd_whgt34_webp_wm_1",
+              "imageScene": "WB_DFT"
+            }
+          ],
+          "height": 431,
+          "width": 428,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251217/3404275f7668bfe91222828c5e6da8dc/comment/1040g2h031n4nmpgo6g005nat15h0b7k6goolqt8!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251217/65fb329294567f2f92977c370dda7f61/comment/1040g2h031n4nmpgo6g005nat15h0b7k6goolqt8!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "invalid": false,
+      "noteId": "67d048c600000000070342ec",
+      "liked": false,
+      "subCommentCount": "2",
+      "subCommentCursor": "68de538f0000000037027e43",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "城大 CS5286 DS",
+  "search_item": {
+    "id": "67d048c600000000070342ec",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "聊聊香港城市大学CS5285 信息安全",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/80/format/jpg",
+        "userId": "627e901c000000002102978e",
+        "nickname": "Richett_L",
+        "xsecToken": "ABUVXZTc9bwUP4_r-jnIIRFvm6tlxDASEMEtTexMas8zY=",
+        "nickName": "Richett_L"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "48",
+        "collected": false,
+        "collectedCount": "61",
+        "commentCount": "33",
+        "sharedCount": "29"
+      },
+      "cover": {
+        "width": 1273,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251217/bf2be992fa0ca8f8937411cd892c998e/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251217/8c65c7f8a6f187975ef58daa9c4713f7/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nc_n_webp_prv_1",
+        "height": 774
+      },
+      "imageList": [
+        {
+          "height": 774,
+          "width": 1273,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251217/bf2be992fa0ca8f8937411cd892c998e/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251217/8c65c7f8a6f187975ef58daa9c4713f7/1040g2sg31et343jjmedg5ojui0e8d5se4l74jmo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-29"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "67d048c600000000070342ec"
+  }
+}

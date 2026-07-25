@@ -1,0 +1,692 @@
+{
+  "note_id": "68971d65000000002501080b",
+  "url": "https://www.xiaohongshu.com/explore/68971d65000000002501080b?xsec_token=ABco0OILCri_aZeTxT7yeFaEAwJduWo-CUN4qksu42mDE=",
+  "fetched_at": 1784952010.7350075,
+  "note": {
+    "xsecToken": "ABco0OILCri_aZeTxT7yeFaEAwJduWo-CUN4qksu42mDE=",
+    "type": "normal",
+    "title": "CityU CS 选课血泪史 | 间章",
+    "atUserList": [],
+    "time": 1754733925000,
+    "noteId": "68971d65000000002501080b",
+    "desc": "有同学要我讲讲必修，我想了想觉得好像没有太大必要，该来的都会来的，不过还是有两点想要提醒大家：\n\t\n1. Course Exemption\n\t\n必修课可以申请免修，前提是你在本科阶段学过相同的课程且得分还不错（比如我本科 SE 这门课 90+）\n\t\n需要提供成绩证明，然后发邮件给学院，学院审批通过后会告知你虽然免修了这门课，但还是要修够 30 学分（详见 P1），就是说你可以多选一门课\n\t\n如果我没记错的话，申请应该是到正式上课的前一天截止\n\t\n2. Group Project 组队\n\t\n首先，最好是和互相熟悉的人组队，其次，根据我自己的经验，队伍人数越少，效率越高\n\t\n如果不得不寻找陌生队友，最好提前有个心理准备，因为很难在短时间内摸清对方的人品和能力\n\t\n一听到这个，有些人可高兴坏了，毕竟谁不想躺着拿分呢，有这种想法的同学，我只能说好自为之吧\n\t\nP2、P3 是我们在做 DE project 时遇到的贵物🤡，除了在组队和选题的时候支了一声，它全程保持静默，最开始我们以为它是不会打字，后来我们发现它是因为性压抑太久而导致的作息紊乱\n\t\n在项目快要结束时，它突然哼哼要我们把它做的东西加进来，稍微审阅了一下：夹杂着中文注释的代码和 100% AI 生成的文档，我们不禁惊呼：这玩意居然已经学会用 AI 了！\n\t\n在经历过 SemesterA 的几个 Group Project 之后，我相信大多数同学应该能够找到相对靠谱的队友\n\t\n实在不行就自己做吧，一个小小的 project 而已，SemesterB 我也尽可能地选择了 project 可以 solo 的课\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+    "user": {
+      "userId": "65a673000000000008020a44",
+      "nickname": "别叫我姐妹了Orz",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg",
+      "xsecToken": "ABnRdjd2ZXHmpzBfRg3-hhmkTb7aaRIrWpoBPZQn25RX8="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "29",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "33",
+      "collectedCount": "28",
+      "shareCount": "7"
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/d66d28c60cec2aecf9c801e76fc5509a/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/a13d92b36ac3fc38344bd17d64053f41/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251200/a13d92b36ac3fc38344bd17d64053f41/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88",
+        "height": 437,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251200/d66d28c60cec2aecf9c801e76fc5509a/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nd_prv_wgth_jpg_3",
+        "width": 1445
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251200/76a7d392287e38ddc0b463737c7135bd/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251200/225e30c8fb4525253ebe03e71c46c81f/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "height": 2057,
+        "width": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/76a7d392287e38ddc0b463737c7135bd/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/225e30c8fb4525253ebe03e71c46c81f/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {}
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/03802686a6d58fba903fc2f3759b0440/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251200/2bf3c3163ad11e8b38ea7e20c1b77b1d/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251200/03802686a6d58fba903fc2f3759b0440/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nd_prv_wgth_jpg_3",
+        "fileId": "notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg",
+        "height": 2057,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251200/2bf3c3163ad11e8b38ea7e20c1b77b1d/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 2560
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "60a65e500000000001001ded",
+        "name": "CityU",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS"
+      }
+    ],
+    "lastUpdateTime": 1754800089000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "id": "689d6c930000000030016a44",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCursor": "689d6e6c000000003000758e",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "content": "可以请问exemption要像credit transfer一样缴费邮寄申请表吗？exemption处理大概要多长时间 一直没给回信有点慌[捂脸R]",
+      "liked": false,
+      "userInfo": {
+        "userId": "5f16c8f7000000000101db8c",
+        "nickname": "赞美～愚者～",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u1t7u2r1g005nomp3rgbmscincluv8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMQXTTByNaxiDSZqbNslpVMCYh6PdKCq4f7bLq7382P4="
+      },
+      "noteId": "68971d65000000002501080b",
+      "createTime": 1755147411000,
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "createTime": 1755147884000,
+          "ipLocation": "贵州",
+          "targetComment": {
+            "id": "689d6c930000000030016a44",
+            "userInfo": {
+              "userId": "5f16c8f7000000000101db8c",
+              "nickname": "赞美～愚者～",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u1t7u2r1g005nomp3rgbmscincluv8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMQXTTByNaxiDSZqbNslpVMCYh6PdKCq4f7bLq7382P4="
+            }
+          },
+          "id": "689d6e6c000000003000758e",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "68971d65000000002501080b",
+          "status": 0,
+          "content": "不用缴费",
+          "liked": false
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "subComments": [
+        {
+          "noteId": "68971d65000000002501080b",
+          "status": 0,
+          "createTime": 1754735159000,
+          "ipLocation": "贵州",
+          "targetComment": {
+            "id": "689721b6000000002902bb65",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB0qCUMFyhkn-S9u6GGOyQ9F2u4dtmNEsWLaNnrPSWkFs=",
+              "userId": "5dc6da37000000000100b5b3",
+              "nickname": "momo"
+            }
+          },
+          "id": "68972236000000002a00c962",
+          "content": "SE 的 Group Project 快乐吗[doge]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "68972236000000002a00c962",
+      "userInfo": {
+        "userId": "5dc6da37000000000100b5b3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0qCUMFyhkn-S9u6GGOyQ9F2u4dtmNEsWLaNnrPSWkFs="
+      },
+      "showTags": [],
+      "invalid": false,
+      "id": "689721b6000000002902bb65",
+      "content": "来捧场了",
+      "createTime": 1754735031000,
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "noteId": "68971d65000000002501080b",
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1757317771000,
+          "targetComment": {
+            "id": "68be7ec1000000002301dc68",
+            "userInfo": {
+              "xsecToken": "ABRk-FcUzS9Q8rjks5dbsZBTRAzsV4AKW5-qGxx8w7MaI=",
+              "userId": "5a96384011be1055eee369b8",
+              "nickname": "灯灯等噔",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u7rmcsihm6g4a2tbrs40qdoi17rqh8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "noteId": "68971d65000000002501080b",
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "贵州",
+          "invalid": false,
+          "id": "68be8a8b0000000030014ca5",
+          "content": "credit transfer 和 course exemption 好像不一样，这个我不太清楚呢",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "id": "68be7ec1000000002301dc68",
+      "atUsers": [],
+      "subCommentCursor": "68be8a8b0000000030014ca5",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABRk-FcUzS9Q8rjks5dbsZBTRAzsV4AKW5-qGxx8w7MaI=",
+        "userId": "5a96384011be1055eee369b8",
+        "nickname": "灯灯等噔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u7rmcsihm6g4a2tbrs40qdoi17rqh8?imageView2/2/w/120/format/jpg"
+      },
+      "invalid": false,
+      "noteId": "68971d65000000002501080b",
+      "status": 0,
+      "showTags": [],
+      "content": "请问提交了credit transfer申请表给学院，虽然没收到正式通知，但是课表上没有那节课，算是transfer 成功了嘛",
+      "liked": false,
+      "createTime": 1757314753000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68976bd0000000002903a9b8",
+      "content": "想问下exemption需要交syllabus吗",
+      "showTags": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8sbxraJcoI3pJU17ecLELpJMxtfViRWjczG05ZrnpKw=",
+        "userId": "651be5f60000000023024a7c",
+        "nickname": "FightOn"
+      },
+      "createTime": 1754754000000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "6898b56b000000002a00f73d",
+          "liked": false,
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "createTime": 1754838380000,
+          "ipLocation": "贵州",
+          "targetComment": {
+            "id": "68976bd0000000002903a9b8",
+            "userInfo": {
+              "nickname": "FightOn",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB8sbxraJcoI3pJU17ecLELpJMxtfViRWjczG05ZrnpKw=",
+              "userId": "651be5f60000000023024a7c"
+            }
+          },
+          "noteId": "68971d65000000002501080b",
+          "status": 0,
+          "content": "可以打包成附件一起发给学院",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "subCommentCursor": "6898b56b000000002a00f73d",
+      "noteId": "68971d65000000002501080b",
+      "status": 0,
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "2",
+      "subCommentCursor": "68b6d216000000003000df13",
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "noteId": "68971d65000000002501080b",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/629b846c1d86e8539f960fea.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB3h_88QkEyKN4qtLstadmGgvYqmdnDXCCmBwrJvfnEzA=",
+        "userId": "629b84210000000021022a51",
+        "nickname": "Lane"
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "id": "68b6d1530000000023015546",
+      "status": 0,
+      "content": "[失望R]亲问下学科豁免之后，留服认证有问题吗？直接过吗？想豁免但是怕后面问题多多，网上还没搜到相关的。",
+      "subComments": [
+        {
+          "liked": false,
+          "createTime": 1756811799000,
+          "ipLocation": "贵州",
+          "targetComment": {
+            "id": "68b6d1530000000023015546",
+            "userInfo": {
+              "xsecToken": "AB3h_88QkEyKN4qtLstadmGgvYqmdnDXCCmBwrJvfnEzA=",
+              "userId": "629b84210000000021022a51",
+              "nickname": "Lane",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/629b846c1d86e8539f960fea.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "68b6d216000000003000df13",
+          "noteId": "68971d65000000002501080b",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q=",
+            "userId": "65a673000000000008020a44"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "content": "这和留服认证有啥关系，而且现在怕是已经过了申请期了吧"
+        }
+      ],
+      "createTime": 1756811603000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "2",
+      "id": "6899aec3000000002a018243",
+      "status": 0,
+      "createTime": 1754902211000,
+      "content": "se 能不选就不选 [笑哭R]",
+      "atUsers": [],
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCursor": "689f580a0000000030030169",
+      "liked": false,
+      "ipLocation": "山东",
+      "subComments": [
+        {
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sii3vs44005n28dkv4h85rtlcffeg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbZO6mhvqxKKE51SjTxNEddXfcpLxerTJ-RvvD4_PwKE=",
+            "userId": "5c486d3e000000001200a0bb",
+            "nickname": "真的会发疯啊啊啊"
+          },
+          "invalid": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1755273227000,
+          "ipLocation": "河北",
+          "targetComment": {
+            "id": "6899aec3000000002a018243",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB82JFgO2L1Bb3twYJhx9tsVuBLCHaLASFddTZiZFdeYA=",
+              "userId": "6346b781000000001901d2fc",
+              "nickname": "momo"
+            }
+          },
+          "id": "689f580a0000000030030169",
+          "noteId": "68971d65000000002501080b",
+          "status": 3,
+          "content": "[笑哭R]还行其实 都写上的话分还挺不错的",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "68971d65000000002501080b",
+      "userInfo": {
+        "userId": "6346b781000000001901d2fc",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB82JFgO2L1Bb3twYJhx9tsVuBLCHaLASFddTZiZFdeYA="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "createTime": 1754735043000,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABdngb0Ao_lps15OsHNtFslqi9uCllWBZVCyIPRzcg_Mg=",
+        "userId": "60226a3200000000010090ca",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "createTime": 1754738194000,
+          "targetComment": {
+            "id": "689721c2000000002a00e4c6",
+            "userInfo": {
+              "userId": "60226a3200000000010090ca",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABdngb0Ao_lps15OsHNtFslqi9uCllWBZVCyIPRzcg_Mg="
+            }
+          },
+          "noteId": "68971d65000000002501080b",
+          "content": "干不干它就完了，码我都不想打[doge]",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "贵州",
+          "invalid": false,
+          "id": "68972e11000000002a01b510",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "浙江",
+      "subCommentCount": "1",
+      "invalid": false,
+      "id": "689721c2000000002a00e4c6",
+      "noteId": "68971d65000000002501080b",
+      "content": "好骂好骂[doge] 前面帖子也写的好好[萌萌哒R]",
+      "liked": false,
+      "subCommentCursor": "68972e11000000002a01b510",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "id": "68a4771e000000003000b106",
+      "noteId": "68971d65000000002501080b",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "667bd59c0000000003032734",
+        "nickname": "萤火绘梦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q94vtvj0c6g5pjrqme0u9pka2obvag?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPgvNkEMcVZmY0OJD4PxdBdNiq5HPkIK8YZY1LXxfzQA="
+      },
+      "ipLocation": "河南",
+      "likeCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "content": "cityU的cs新生报道",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "showTags": [],
+      "createTime": 1755608862000,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "68971d65000000002501080b",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subComments": [],
+      "content": "请问course exemption除了成绩单，课程大纲还有什么需要交的材料吗",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABXbcvhFY2_Oyoee-ZXh9XRCurMWKktDg-b3pTeqXnCFg=",
+        "userId": "5f7df697000000000101f75a",
+        "nickname": "SunnyOtaku",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f7df697000000000101f75a.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "68ac2936000000002603daae",
+      "atUsers": [],
+      "createTime": 1756113207000,
+      "invalid": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "content": "你好，请问先修课程需要自己提供证明吗？比如本科阶段修过 谢谢",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "68971d65000000002501080b",
+      "subComments": [],
+      "invalid": false,
+      "id": "6a4c6e47000000002a005c83",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "6461a000000000000f007274",
+        "nickname": "小迷糊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/411309441983cdc4ce073ff8da73b5b6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABI6HL0V2DPPS75cu8k9Im4oEVZttmkz2vwX1n5G__c9k="
+      },
+      "ipLocation": "天津",
+      "showTags": [],
+      "createTime": 1783393863000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大 CS AI stream 选课",
+  "search_item": {
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityU CS 选课血泪史 | 间章",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/80/format/jpg",
+        "userId": "65a673000000000008020a44",
+        "nickname": "别叫我姐妹了Orz",
+        "xsecToken": "ABraaaYUOSipwtekVVWs1b492wdm_Soi2hUKPxiSN78IE=",
+        "nickName": "别叫我姐妹了Orz"
+      },
+      "interactInfo": {
+        "sharedCount": "7",
+        "liked": false,
+        "likedCount": "33",
+        "collected": false,
+        "collectedCount": "28",
+        "commentCount": "29"
+      },
+      "cover": {
+        "height": 437,
+        "width": 1445,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251159/99f47adcd1847af3b844558a0ccef53d/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251159/a63b326748a2d92249dc89262c9f1fae/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 437,
+          "width": 1445,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/99f47adcd1847af3b844558a0ccef53d/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/a63b326748a2d92249dc89262c9f1fae/notes_pre_post/1040g3k831ku5c8qu2gag5pd6ec0242i4s5eic88!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2057,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/095cfa8698da0ccc4cb8038aa9ae9970/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/f8ccb69bdf6ef2420c4e41a9f15241ee/notes_pre_post/1040g3k831kv8fjrl4k005pd6ec0242i454lro58!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/5683e4ed08f563f1f5bc15346e0ce680/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251159/84a46c70b3bcdcca9510381a74fe5284/notes_pre_post/1040g3k831kv8fjoria005pd6ec0242i4gdm12vg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2057
+        }
+      ]
+    },
+    "xsecToken": "ABco0OILCri_aZeTxT7yeFaEAwJduWo-CUN4qksu42mDE=",
+    "id": "68971d65000000002501080b",
+    "modelType": "note",
+    "index": 2,
+    "exposed": true,
+    "trackId": "68971d65000000002501080b"
+  }
+}

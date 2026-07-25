@@ -1,0 +1,452 @@
+{
+  "note_id": "6a201b830000000038036cd1",
+  "url": "https://www.xiaohongshu.com/explore/6a201b830000000038036cd1?xsec_token=ABBFUe_2k9MNx-IBWab3v3qki_39uFuaYFfbScKLPSaR8=",
+  "fetched_at": 1784955732.9471662,
+  "note": {
+    "xsecToken": "ABBFUe_2k9MNx-IBWab3v3qki_39uFuaYFfbScKLPSaR8=",
+    "type": "normal",
+    "desc": "CS5446 AI Planning and Decision Making\n💼课程内容\n一节课两个老师上 1️⃣前一半讲的是单agent强化学习 从MDP SARSA Q-Learning 一直到Policy Gradient PPO 2️⃣后一半是POMDP Game Theory 还有Extensive Form Games 总之就是很深入的博弈论\n\t\n🧑‍🏫上课风格\n1️⃣上前一半老师的课必须带水 讲的太干 课程安排又太紧 slides上大量的内容 节奏也快 很多时候看懂了他的example 但是也不太会 想要学会要认真课下复习那种 2️⃣后一半老师相对来讲更有意思一些 内容没有那么紧 难点主要在博弈论的建模 概念偏多 不算特别深入 但是一节课要接受大量的概念轰炸\n\t\n🖊️考核\n分成两次coding作业 一个mini-project 还有两次quiz\ncoding作业normal水平 mini-project根据上课的两个部分分成两个主题 gridworld做传统rl或者做game theory相关 需要写报告 都是小组作业 三人一组\n两次quiz简直王炸💥级别\nquiz1 期中考前一半 也就是到PPO 用自己的笔记本答题 考试内容和学的难度完全不同 大家普遍哀嚎连天 即使在老师批卷手松的情况下 也就是得了一点点的分… 最后也没有公布这次考试的statistics 还发了邮件安慰大家说不要难过\nquiz2 老师答应我们会考的简单一些 也就是刚刚及格\n\t\nProf：Rizki & Ling Chun Kai\n\t\nCS5462 Machine Learning Systems\n一门很正常的课 作业和tutorial都蛮简单的 但是最后project大家都蛮卷的 三个方向 做LLM serving/Agentic Application(n8n) / Edge AI 四人一组\n上课蛮有意思的 主要讲LLM微调 serving blabla的\n\t\nProf：Lu Yao",
+    "user": {
+      "userId": "60ed97620000000001006cc5",
+      "nickname": "两个氨基酸",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qe27q4qnu005o7dith08r65nv512ag",
+      "xsecToken": "AB8RGOxIENtzMaLKvOrEQvcuTn5BVvJezb8oMPMigKzJ0="
+    },
+    "interactInfo": {
+      "shareCount": "4",
+      "relation": "none",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "36",
+      "commentCount": "11",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "39"
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251302/d39e797eaa08fac18c371daf626efc77/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg320v0shcu7e705o7dith08r657d17fhg",
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251302/476ebc57320ca0cd13ed21b9831d099e/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1600,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251302/d39e797eaa08fac18c371daf626efc77/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251302/476ebc57320ca0cd13ed21b9831d099e/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "livePhoto": false,
+        "fileId": "1040g2sg320v0shcu7e805o7dith08r65oflfd48",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251302/7d77dfa9b4ef7fdb57509ad837222e98/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251302/7492b9d747640203bfe6e02f653f9e0f/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251302/7492b9d747640203bfe6e02f653f9e0f/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1308,
+        "width": 984,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251302/7d77dfa9b4ef7fdb57509ad837222e98/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1780489367000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a201b830000000038036cd1",
+    "title": "🇸🇬NUS MComp Sem2 课程体验",
+    "atUserList": [],
+    "time": 1780489091000
+  },
+  "comments": [
+    {
+      "id": "6a5d8c12000000002902f744",
+      "content": "为什么我这里看课表上cs5446名字是reinforcement learning and sequential decision making，老师是leong tze yun[哭惹R]，可以问问这个老师怎么样吗",
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1784515602000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "一个代码 不同学期可能内容老师都不一样 这个老师不太清楚",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "60ed97620000000001006cc5",
+            "nickname": "两个氨基酸",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qe27q4qnu005o7dith08r65nv512ag?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMQup1jXBhyLZ_Ps63124-yqXzKfh7KGMjia6GrAuqzA="
+          },
+          "createTime": 1784516330000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "6a5d8c12000000002902f744",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/643e92ea1300c5cf9d3569e8.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQw34m7k_MMBbWHQ5D-OHm88hLZIZtMRey4roSQJFR9w=",
+              "userId": "6173dbd1000000000201f94d",
+              "nickname": "深蓝梦境"
+            }
+          },
+          "id": "6a5d8ee9000000001403a2da",
+          "noteId": "6a201b830000000038036cd1",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "noteId": "6a201b830000000038036cd1",
+      "userInfo": {
+        "xsecToken": "ABQw34m7k_MMBbWHQ5D-OHm88hLZIZtMRey4roSQJFR9w=",
+        "userId": "6173dbd1000000000201f94d",
+        "nickname": "深蓝梦境",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/643e92ea1300c5cf9d3569e8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "6a5d8ee9000000001403a2da",
+      "subCommentHasMore": false,
+      "liked": false,
+      "showTags": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "569a49ac6a6a693aa480103e",
+        "nickname": "Pigcasso-",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rq92insim004568qf4qo41upgrsi78?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxEilfjSmECNDnlb9NOqTbxdnbNvitWfKseMEFHeM-2Y="
+      },
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "noteId": "6a201b830000000038036cd1",
+      "createTime": 1784517019000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "6a5d919a000000002b027018",
+      "content": "来支持了",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a201d2b00000000290129db",
+      "showTags": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "6a201b830000000038036cd1",
+      "content": "来支持了",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABfvyRKm9bTUW---vRYE9eG79lDUgJHwZVX8B-afM3CzU=",
+        "userId": "64b8eae3000000001403d3a4",
+        "nickname": "Minisoda🥤",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6694826efc0df1fc0c8c6a1a.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1780489516000,
+      "ipLocation": "新加坡",
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "咋这么厉害",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "6a201b830000000038036cd1",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABPS_Gx8hewnAjRpNRQrFL0Vv_0V-DtLO9MfKOAVGt5BQ=",
+        "userId": "5943bd6d82ec39633fc2b982",
+        "nickname": "谁是呆鹌呐",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nag5i5t6m0049k9huumrec2fgeprv0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1780518948000,
+      "ipLocation": "英国",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "id": "6a209023000000002902ebda",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1780563576000,
+      "ipLocation": "新加坡",
+      "subComments": [
+        {
+          "ipLocation": "新加坡",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "60ed97620000000001006cc5",
+            "nickname": "两个氨基酸",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qe27q4qnu005o7dith08r65nv512ag?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMQup1jXBhyLZ_Ps63124-yqXzKfh7KGMjia6GrAuqzA="
+          },
+          "createTime": 1780563986000,
+          "targetComment": {
+            "id": "6a213e77000000002702ca54",
+            "userInfo": {
+              "xsecToken": "ABR5QQYf4ZRH47cquVuFl47xiwiRBIJzcK2-y4I3z0-ck=",
+              "userId": "5fd5807f000000000101dad5",
+              "nickname": "閑",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r01ehr7gm005nulg1vgbmmlep739s0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a214011000000002803cf76",
+          "noteId": "6a201b830000000038036cd1",
+          "status": -2,
+          "content": "评论区是在站队吗？",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "content": "来支持了",
+      "subCommentCursor": "6a214011000000002803cf76",
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCount": "1",
+      "id": "6a213e77000000002702ca54",
+      "noteId": "6a201b830000000038036cd1",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5fd5807f000000000101dad5",
+        "nickname": "閑",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r01ehr7gm005nulg1vgbmmlep739s0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABR5QQYf4ZRH47cquVuFl47xiwiRBIJzcK2-y4I3z0-ck="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "createTime": 1780537265000,
+      "ipLocation": "黑龙江",
+      "id": "6a20d7b10000000028037166",
+      "noteId": "6a201b830000000038036cd1",
+      "content": "咋这么厉害",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f2fdf0e0000000001006827",
+        "nickname": "mono",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6401b93ee53ef0387f4b2712.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhSPPqkafYRaWQgzPPOKaOIIrjzubZD9Ot1ql-uoH2gg="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d4g4prih25g5pga3gtiudkk2e707to?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVPMXPnMYP3jAJFeTSDM0TnVTB83jH3qKPGsE6YYATM4=",
+        "userId": "660a1c3b000000000b033694",
+        "nickname": "安分守己"
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a5d94370000000009015f19",
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "noteId": "6a201b830000000038036cd1",
+      "content": "来支持了",
+      "subCommentCount": "0",
+      "status": 0,
+      "createTime": 1784517687000,
+      "ipLocation": "广东",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a280864000000002901b3ac",
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "createTime": 1781008484000,
+      "subComments": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5c454a78000000000500924c",
+        "nickname": "Silver Wang",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v4rielpjq005n2599s194icg6h3pfo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhO6VEIgpdyXhmMb3onBtWtu-2IEixGGVTW-yy_z-xag="
+      },
+      "ipLocation": "北京",
+      "invalid": false,
+      "noteId": "6a201b830000000038036cd1",
+      "content": "谢谢 很有帮助[害羞R]",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a201b830000000038036cd1",
+      "content": "咋这么厉害",
+      "liked": false,
+      "userInfo": {
+        "userId": "66d9c98e000000001d0319f4",
+        "nickname": "小酌怡情",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320msnrbs5s005pmpp677e6fk4dmvhf8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABE99gJxyYlNN85i_yfc5mvS1TCmzLSfV0PgR16dmIs9g="
+      },
+      "subCommentCount": "0",
+      "id": "6a3e0901000000002a0250b0",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "showTags": [],
+      "ipLocation": "北京",
+      "createTime": 1782450434000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 体验",
+  "search_item": {
+    "id": "6a201b830000000038036cd1",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251302/57a4a2d5eaf929f2b1c72cbb0da5e650/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251302/5c178dbcbf1aa1ae09d9563cfff542b7/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 984,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251302/a48294821d13a836107cd3dcca7c81f4/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251302/a34567a307dd01a680440bab97741cf4/1040g2sg320v0shcu7e805o7dith08r65oflfd48!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1308
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-03"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🇸🇬NUS MComp Sem2 课程体验",
+      "user": {
+        "nickName": "两个氨基酸",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qe27q4qnu005o7dith08r65nv512ag?imageView2/2/w/80/format/jpg",
+        "userId": "60ed97620000000001006cc5",
+        "nickname": "两个氨基酸",
+        "xsecToken": "ABC6v9xlOalFP_a9FSljglv-zIf2uN7JO0z9coWWs3Ne8="
+      },
+      "interactInfo": {
+        "likedCount": "39",
+        "collected": false,
+        "collectedCount": "36",
+        "commentCount": "11",
+        "sharedCount": "4",
+        "liked": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251302/57a4a2d5eaf929f2b1c72cbb0da5e650/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251302/5c178dbcbf1aa1ae09d9563cfff542b7/1040g2sg320v0shcu7e705o7dith08r657d17fhg!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABBFUe_2k9MNx-IBWab3v3qki_39uFuaYFfbScKLPSaR8=",
+    "index": 4,
+    "exposed": true,
+    "trackId": "6a201b830000000038036cd1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "note_id": "ae0ad781-8dc5-4b37-a3ac-c8ef24abfd02",
+  "url": "https://www.xiaohongshu.com/explore/ae0ad781-8dc5-4b37-a3ac-c8ef24abfd02?xsec_token=ABjsQOd-828JDR37z9Bi2mDJjkiKJvXvkgLfhP0GDOw8arKeC27fPjB2ICrDGOt5MZwY1QSeCRc5NfwhVFF2rqN2krk6b7RbgHNch9XERHuwQ=",
+  "fetched_at": 1784954175.0086045,
+  "search_query": "城大 data science guided",
+  "search_item": {
+    "id": "ae0ad781-8dc5-4b37-a3ac-c8ef24abfd02#1784954158053",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "ae0ad781-8dc5-4b37-a3ac-c8ef24abfd02#1784954158053",
+      "queries": [
+        {
+          "searchWord": "datasience",
+          "id": "datasience",
+          "name": "datasience"
+        },
+        {
+          "id": "城大ds",
+          "name": "城大ds",
+          "searchWord": "城大ds"
+        },
+        {
+          "id": "data science专业",
+          "name": "data science专业",
+          "searchWord": "data science专业"
+        },
+        {
+          "id": "data science职业规划",
+          "name": "data science职业规划",
+          "searchWord": "data science职业规划"
+        }
+      ]
+    },
+    "xsecToken": "ABjsQOd-828JDR37z9Bi2mDJjkiKJvXvkgLfhP0GDOw8arKeC27fPjB2ICrDGOt5MZwY1QSeCRc5NfwhVFF2rqN2krk6b7RbgHNch9XERHuwQ=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "ae0ad781-8dc5-4b37-a3ac-c8ef24abfd02#1784954158053"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "note_id": "6a0c1fc800000000080325e9",
+  "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+  "fetched_at": 1784873965.8006167,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6a0c1fc800000000080325e9",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "user_id": "60d6b8460000000001007cab",
+            "nickname": "npm-i",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o",
+            "xsec_token": "AB2B399ausLlwBscoDfhFUgonWDXkbzQiA1UBeZkmT5Xo="
+          },
+          "tag_list": [
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "name": "cityu",
+              "type": "topic",
+              "id": "5e7ffe040000000001004ef4"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1779179464000,
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "title": "cityu CS课程评价(二)",
+          "desc": "Semester B\n\t\nCS5491 Artificial intelligence\n内容涵盖搜索，mdp，bayes等内容，有期中和期末考试，期中考试因为某些原因可能下一届会有变数，这里就不说了。期末考试考了搜索树，minmax剪枝和最后两个tutorial的内容，重点在于理解方法吧，题目在tutorial基础上会有一定的变化，但不难。项目是从几个选题里挑一个做，也很好水过去。\n\t\nCS5182 Computer graphic\n课程内容也是经典图形学内容比如transformation，shading这些，课程项目需要用深度学习，最简单的应该就是点云那个项目。有期中期末两次考试，期末考试占比60。难度适中且包含了期中考过的很多知识点，如果只是想过的话，把矩阵变换的题掌握就可以了，再看看概念，总体是不难的。\n\t\nCS5296 Cloud computing\n三次作业+两次paper阅读，作业量还是挺大的，不过现在有了ai这些都不是大问题。平时作业和小组项目给分还是挺高的。期末考试考的非常全面(低情商:题量非常大)，在PPT上看到的画图题和有关计算的内容，(sedf，credit schedule，chord，wfq，drf，机器学习参数计算等)试卷上全出现了，除此之外还有一堆概念题，最后也是空了几道大题没写，前面写完的也不确定。考完都感觉自己要延毕了。\n\t\nCS5483 Data mining\n个人认为是我在cityu上过最有意思的课，老师讲课质量挺高，就是PPT有点抽象。期中和期末是机考，有check机制，所以考完就能知道自己大概的分数。平时有很多tutorial作业，但一共只占5分且对考试帮助不大。不做的话，这门课性价比很高。期中主要内容是evaluation和信息熵，期末大题考了DBSCAN，optics，buc排序和evaluation\n\t\nCS6493 nlp\n和semA的ds一个老师，课程风格，作业量和考试也是一脉相承，期末主要靠自己看PPT。期末考试难度不大，大多是概念辨析，两道计算送分题都是作业里的知识点，两道代码填空题。和ds一样，复习了基本就不会挂\n\t\n上述课程均无考勤，这一点cityu cs是真的夯，出去面试遇到其他港校的同学，很多都要打卡看出勤\n\t\n#选课[话题]# #cityu[话题]#",
+          "interact_info": {
+            "collected": false,
+            "collected_count": "61",
+            "comment_count": "11",
+            "share_count": "11",
+            "relation": "none",
+            "nice_count": "",
+            "liked": false,
+            "liked_count": "56",
+            "followed": false
+          },
+          "image_list": [
+            {
+              "trace_id": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241419/00cedd4613360686e2db888c317ad51f/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241419/c627d52b065af0ddd5ab8744322c66ef/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nd_dft_wgth_webp_3",
+              "height": 1844,
+              "width": 2560,
+              "url": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241419/00cedd4613360686e2db888c317ad51f/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241419/c627d52b065af0ddd5ab8744322c66ef/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nd_dft_wgth_webp_3"
+                }
+              ],
+              "stream": {},
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg"
+            }
+          ],
+          "last_update_time": 1779198329000,
+          "note_id": "6a0c1fc800000000080325e9"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784873966988
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "6a0c1fc800000000080325e9",
+        "like_count": "0",
+        "user_info": {
+          "user_id": "6239317c000000001000ed58",
+          "nickname": "Thatcher",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u9p9a7r2g005ohp65u41raoq8t1eq8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABhGJahQuWsrASlA7NB_YBkIdKoJkndCJ1ihnHu_ibTmk="
+        },
+        "create_time": 1779179565000,
+        "sub_comment_count": "2",
+        "sub_comments": [
+          {
+            "id": "6a0c2079000000002b027c69",
+            "note_id": "6a0c1fc800000000080325e9",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "60d6b8460000000001007cab",
+              "nickname": "npm-i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1779179641000,
+            "content": "msc",
+            "like_count": "0",
+            "ip_location": "上海",
+            "target_comment": {
+              "id": "6a0c202c0000000029026693",
+              "user_info": {
+                "user_id": "6239317c000000001000ed58",
+                "nickname": "Thatcher",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u9p9a7r2g005ohp65u41raoq8t1eq8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABhGJahQuWsrASlA7NB_YBkIdKoJkndCJ1ihnHu_ibTmk="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_cursor": "6a0c2079000000002b027c69",
+        "content": "这些是本科还是硕士的课程呀",
+        "show_tags": [],
+        "sub_comment_has_more": true,
+        "at_users": [],
+        "ip_location": "山东",
+        "invalid": false,
+        "id": "6a0c202c0000000029026693",
+        "status": 0,
+        "liked": false
+      },
+      {
+        "note_id": "6a0c1fc800000000080325e9",
+        "liked": false,
+        "like_count": "0",
+        "show_tags": [],
+        "ip_location": "北京",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "6a0c2035000000002a033f83",
+        "at_users": [],
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "user_info": {
+              "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg=",
+              "user_id": "60d6b8460000000001007cab",
+              "nickname": "npm-i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1779179604000,
+            "invalid": false,
+            "id": "6a0c205400000000290187a5",
+            "note_id": "6a0c1fc800000000080325e9",
+            "status": 0,
+            "ip_location": "上海",
+            "target_comment": {
+              "user_info": {
+                "user_id": "60406a19000000000101fa06",
+                "nickname": "11点睡",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3175j18f744605o20d8cgbug60n9dkf0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB3aliNKriMcfYd7jbTGmqDU9gxM3SfP4xPoexPto87pw="
+              },
+              "id": "6a0c2035000000002a033f83"
+            },
+            "content": "主页有[doge]",
+            "at_users": [],
+            "liked": false
+          }
+        ],
+        "sub_comment_cursor": "6a0c205400000000290187a5",
+        "status": 0,
+        "content": "能不能写ds课程评价哈哈哈",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "AB3aliNKriMcfYd7jbTGmqDU9gxM3SfP4xPoexPto87pw=",
+          "user_id": "60406a19000000000101fa06",
+          "nickname": "11点睡",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3175j18f744605o20d8cgbug60n9dkf0?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1779179573000
+      },
+      {
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "6a131db10000000029019750",
+        "sub_comment_has_more": false,
+        "id": "6a13178e000000002300378f",
+        "show_tags": [],
+        "create_time": 1779636110000,
+        "invalid": false,
+        "liked": false,
+        "user_info": {
+          "xsec_token": "ABParF8RWH1m3sKPMLDPTCtJ3qEOdjOUrB9_6KTnBlYV0=",
+          "user_id": "61cc784a000000002102984a",
+          "nickname": "枫间照",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vqnpbgeia005oecf158d62ahleip28?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comments": [
+          {
+            "show_tags": [
+              "is_author"
+            ],
+            "invalid": false,
+            "id": "6a131db10000000029019750",
+            "content": "没实习，只是考完回家了[笑哭R]",
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "user_id": "60d6b8460000000001007cab",
+              "nickname": "npm-i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg="
+            },
+            "create_time": 1779637681000,
+            "ip_location": "上海",
+            "target_comment": {
+              "id": "6a13178e000000002300378f",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vqnpbgeia005oecf158d62ahleip28?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABParF8RWH1m3sKPMLDPTCtJ3qEOdjOUrB9_6KTnBlYV0=",
+                "user_id": "61cc784a000000002102984a",
+                "nickname": "枫间照"
+              }
+            },
+            "note_id": "6a0c1fc800000000080325e9",
+            "status": 0,
+            "liked": false
+          }
+        ],
+        "note_id": "6a0c1fc800000000080325e9",
+        "status": 0,
+        "content": "老师现在是在上海实习吗[暗中观察R]",
+        "at_users": [],
+        "like_count": "0",
+        "ip_location": "江苏"
+      },
+      {
+        "status": 0,
+        "content": "nlp这老师就是项目给分太低[笑哭R]不好冲高分",
+        "at_users": [],
+        "like_count": "1",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "liked": false,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABCb_ZRVvs3fX3cOwoQ1_776vNLeQH0AD3tFOYgn4a4Pk=",
+          "user_id": "661ff4af000000000d024d5f",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1779180158000,
+        "id": "6a0c227e000000002702f768",
+        "show_tags": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "note_id": "6a0c1fc800000000080325e9",
+        "ip_location": "广东",
+        "sub_comments": []
+      },
+      {
+        "show_tags": [],
+        "sub_comment_cursor": "",
+        "id": "6a0c35e6000000002902590b",
+        "note_id": "6a0c1fc800000000080325e9",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "61c40eb6000000001000aeb9",
+          "nickname": "Kiraoshi",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q9ehlj6nu505oe41qr41blpjc63kq8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABTPuEejPfUip_j2HwJk_3FyUcgxfSG4NvQkfupfiKrHk="
+        },
+        "create_time": 1779185126000,
+        "sub_comment_has_more": false,
+        "status": 0,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false,
+        "content": "不赖[棒R]",
+        "ip_location": "重庆"
+      },
+      {
+        "id": "6a0c32ff0000000029013a4b",
+        "content": "5483作业数量真的太多了，TA每周都得改几十份，还是简答题[哭惹R]",
+        "at_users": [],
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "content": "哈哈辛苦了",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "60d6b8460000000001007cab",
+              "nickname": "npm-i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABTS2sp8doGSWMtWFfR8UUza6WHHIvQtb2VNSXe9DHVhg="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1779199013000,
+            "id": "6a0c6c25000000002b00321c",
+            "status": 0,
+            "like_count": "0",
+            "ip_location": "上海",
+            "target_comment": {
+              "id": "6a0c32ff0000000029013a4b",
+              "user_info": {
+                "user_id": "5b6e3ca9f7e8b921d6b81b14",
+                "nickname": "昵称",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/62c13e0771d2e5225c630549.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB6O_Ijak1PovjFIG-UTVOxqrkx-G3Npn6xlwblPdjPtc="
+              }
+            },
+            "invalid": false,
+            "note_id": "6a0c1fc800000000080325e9"
+          }
+        ],
+        "sub_comment_cursor": "6a0c6c25000000002b00321c",
+        "sub_comment_has_more": false,
+        "note_id": "6a0c1fc800000000080325e9",
+        "ip_location": "北京",
+        "status": -2,
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/62c13e0771d2e5225c630549.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB6O_Ijak1PovjFIG-UTVOxqrkx-G3Npn6xlwblPdjPtc=",
+          "user_id": "5b6e3ca9f7e8b921d6b81b14",
+          "nickname": "昵称"
+        },
+        "create_time": 1779184384000,
+        "like_count": "1",
+        "show_tags": [],
+        "invalid": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 6,
+    "pages_fetched": 1
+  },
+  "search_query": "CityU CS 硕士 课程评价",
+  "search_item": {
+    "model_type": "note",
+    "note_card": {
+      "interact_info": {
+        "comment_count": "11",
+        "shared_count": "11",
+        "liked": false,
+        "liked_count": "56",
+        "collected": false,
+        "collected_count": "61"
+      },
+      "cover": {
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241419/6ae44b13a6f50d1c80299a80fadc22f4/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241419/3200b82ddad68165e306bb94e5afbe7a/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nc_n_webp_prv_1",
+        "height": 1844,
+        "width": 2560
+      },
+      "image_list": [
+        {
+          "height": 1844,
+          "width": 2560,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241419/6ae44b13a6f50d1c80299a80fadc22f4/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241419/3200b82ddad68165e306bb94e5afbe7a/notes_pre_post/1040g3k0320bf47tjme605o6mn1308v5b8qbt2jg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "05-19",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "display_title": "cityu CS课程评价(二)",
+      "user": {
+        "user_id": "60d6b8460000000001007cab",
+        "nickname": "npm-i",
+        "xsec_token": "ABqC7_R8qlx7yg5sMsyEXccbqti95duVQJdzStgnAxcOw=",
+        "nick_name": "npm-i",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/80/format/jpg"
+      }
+    },
+    "xsec_token": "AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+    "id": "6a0c1fc800000000080325e9"
+  }
+}

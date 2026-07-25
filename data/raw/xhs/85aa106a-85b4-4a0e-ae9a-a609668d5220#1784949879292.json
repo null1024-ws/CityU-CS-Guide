@@ -1,0 +1,39 @@
+{
+  "note_id": "85aa106a-85b4-4a0e-ae9a-a609668d5220",
+  "url": "https://www.xiaohongshu.com/explore/85aa106a-85b4-4a0e-ae9a-a609668d5220?xsec_token=ABhcjLLMc31OzoWdtQ5_nP0PWYkhQuEYNqaTm7OXRtgjIFHKvSKEYyUZ6pKkq4sYPjZvq-G1Wamzifsq2_ob3v4Vk5ZHW-6sgR0W6ssR6mn2w=",
+  "fetched_at": 1784949897.474611,
+  "note": {},
+  "search_query": "CS6537 CityU",
+  "search_item": {
+    "id": "85aa106a-85b4-4a0e-ae9a-a609668d5220#1784949879292",
+    "model_type": "rec_query",
+    "rec_query": {
+      "title": "相关搜索",
+      "source": 1,
+      "word_request_id": "85aa106a-85b4-4a0e-ae9a-a609668d5220#1784949879292",
+      "queries": [
+        {
+          "name": "cityu cs project",
+          "search_word": "cityu cs project",
+          "id": "cityu cs project"
+        },
+        {
+          "id": "cityu计算学院",
+          "name": "cityu计算学院",
+          "search_word": "cityu计算学院"
+        },
+        {
+          "id": "cityu数据科学",
+          "name": "cityu数据科学",
+          "search_word": "cityu数据科学"
+        },
+        {
+          "id": "cityu入学",
+          "name": "cityu入学",
+          "search_word": "cityu入学"
+        }
+      ]
+    },
+    "xsec_token": "ABhcjLLMc31OzoWdtQ5_nP0PWYkhQuEYNqaTm7OXRtgjIFHKvSKEYyUZ6pKkq4sYPjZvq-G1Wamzifsq2_ob3v4Vk5ZHW-6sgR0W6ssR6mn2w="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "note_id": "6a5eaa620000000011004861",
+  "url": "https://www.xiaohongshu.com/explore/6a5eaa620000000011004861?xsec_token=AB519-qIe6w_XcojMWOpQak3ZH1Vb85edIHkfQ9v5_NEQ=",
+  "fetched_at": 1784954874.36671,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cs753找组员",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "如题，楼主情绪价值拉满，是做组员的不二选择[亲一个R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "大佬还找组员吗[哭惹R]",
+      "sourceRef": "comment:6a6080d80000000005009b03",
+      "commentId": "6a6080d80000000005009b03",
+      "likes": 0,
+      "author": "1 6 d i o 噠"
+    },
+    {
+      "type": "comment",
+      "text": "可以一起吗",
+      "sourceRef": "comment:6a5ef0f1000000001500bbe5",
+      "commentId": "6a5ef0f1000000001500bbe5",
+      "likes": 0,
+      "author": "笑死人"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你是哪节课的呀",
+      "sourceRef": "comment:6a5efb590000000005014e50",
+      "commentId": "6a5efb590000000005014e50",
+      "likes": 0,
+      "author": "浩浩不煮饭"
+    }
+  ]
+}

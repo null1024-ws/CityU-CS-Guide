@@ -1,0 +1,39 @@
+{
+  "note_id": "69fcc4880000000035021f31",
+  "url": "https://www.xiaohongshu.com/explore/69fcc4880000000035021f31?xsec_token=ABvm0UzM6ysaoj6vJetVWRPRLza6vFgJpReXN2uzFpXUM=",
+  "fetched_at": 1784952635.1853635,
+  "course_codes": [
+    "CS5233",
+    "CS5242",
+    "CS5462",
+    "CS6216"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Mcomp Sem 2课程评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1. CS5242 (Bresson Xavier)\n- midterm25% final35% project35% 出勤5%\n非尤老师教的cycle。法国老师，法语口音比较重。虽然开课的时候一本正经地劝退对数学和coding没有自信的同学，但其实这门课教得相当常规，也比较适合0基础入门。考试考古法编程加上选择题。古法编程需要熟记tutorial主要功能的代码和练习额外的内容（如何不靠nn.conv2d实现convolution等等) project是自己想应用场景实现一个dl的应用。\n\t\n2. CS5233 (Gary Tan)\n- 3个assignment一共50% final50%\n感觉也是cs core里面比较水的一门。但没有什么人选，只有30个人。主要讲simulation实现原理和一些统计上的验证方法。3个assignment都是小组作业。前两个用arena建模软件做一个小模型回答问题，第三个是写一篇文献综述。final和历年卷子相似。老师讲课风格活泼，氛围轻松。\n\t\n3. CS5462 (Lu Yao)\n- 6个tutorial 15%，3个assignment 45%，project 40%\nlu老师今年开的新课，内容作业和CS6216基本一致。给分意外的很不错。assignment弥补了dl没有教的一些细节，不错[害羞R]。有些周有tutorial，形式是notebook填空，可能会有突击点名。project是指定题目三选一。其实有的选的话，推荐选6216，可以只做作业不做project。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "cs5242 是不是这门课s2 的xavier有考试，然后s1 的yang you就是全asmt+project 没考试呢？",
+      "sourceRef": "comment:6a1fcdd9000000002701fa26",
+      "commentId": "6a1fcdd9000000002701fa26",
+      "likes": 1,
+      "author": "pser_ZG"
+    },
+    {
+      "type": "sub_comment",
+      "text": "对 主要看老师",
+      "sourceRef": "comment:6a1fdc3d0000000027021e50",
+      "commentId": "6a1fdc3d0000000027021e50",
+      "likes": 0,
+      "author": "Raaaay"
+    }
+  ]
+}

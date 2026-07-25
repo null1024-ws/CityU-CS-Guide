@@ -1,0 +1,607 @@
+{
+  "note_id": "6955554e000000001e016693",
+  "url": "https://www.xiaohongshu.com/explore/6955554e000000001e016693?xsec_token=ABaab6IFzhXBNILSuPHTNBf4CVXh5Y5LqMLodcqxocuD4=",
+  "fetched_at": 1784955677.405601,
+  "note": {
+    "xsecToken": "ABaab6IFzhXBNILSuPHTNBf4CVXh5Y5LqMLodcqxocuD4=",
+    "title": "NTU CCDS CS出分小结（就读指南",
+    "user": {
+      "userId": "65883689000000001d001c1a",
+      "nickname": "momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0",
+      "xsecToken": "AB-Sowr3e-CeRR0MqkVRqq4Yn4kOAyo_7MSn9LeNFl2rQ="
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/334caf1f859bced418786697c5ba3f46/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/72dbfac4d7eed6de0880f0711a39cf82/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/334caf1f859bced418786697c5ba3f46/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590",
+        "width": 1139,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/72dbfac4d7eed6de0880f0711a39cf82/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "height": 547,
+        "url": ""
+      }
+    ],
+    "atUserList": [],
+    "time": 1767200078000,
+    "lastUpdateTime": 1767760176000,
+    "noteId": "6955554e000000001e016693",
+    "desc": "延续了本科时期的“优良传统”，期末前一周开始突击，但显然低估了五门课叠加的巨大workload（还有本科一点没学过网安的双重debuff，已老实）。\n\t\nSE6001 Computer Security：期中期末开卷，大作业10分。这门课对计算机组成原理和操作系统的知识有一定要求。非科班佬建议提前补充一下相关知识，而且这门是必修课，所以也没办法逃避。\nSE6002 Application Security： 这门课的期中是第一个考的，当时直接玩嗨了根本没有一点学习状态导致直接喜提F，幸好project和final拉回来一点，最终不是很难看。不过这门课虽不涉及硬核实操，难度主要在于记忆（近百页的ppt）而非理解。而且期中考砸的佬也不要害怕，期末和大作业认真写还是能拉到B以上的。\nSE6003 Cryptography： 绝世好老师，课程知识本身很难，涉及到比较深的数学知识，但是考试内容基本全部基于平时的课后题和Tutorial。考试的时候感觉像是填模版，把ppt里面的内容动手算一遍就是满分了。\nSE6011 Network Security： 新手友好课程，期中期末选择很多。其实这几门课的上限极大程度上取决于你的记忆力水平和网安功底。Project有点抽象，好像是关于ctf的，当时时间太紧没怎么研究，但是基本上做就有分。\nSE6014 Security Monitoring & Threat Detection： 比较抽象的课程，感觉对非网安背景的人不是很友好。期中闭卷答的一般，期末虽然是开卷，但是题量很大很难，延长了三次时间我还是没答完。Project没有明确的主题，应该也是写了就有分。这门课选的有点唐突其实，为了试水秋招保证1年之内能毕业所以第一学期必须选五门，而周五只剩下这一节了所以硬着头皮选了。如果只选四门开局的话，确实不建议大家轻易尝试。\n\t\n总而言之，这几门课的上限在于你能记忆多少东西，如果你能通篇背诵老师的ppt话，全部拿A也不是什么问题。对于想在一年内快速毕业的同学，提前安排好期末时间，尽量不要把project丢在期末。\n#NTU[话题]# #新加坡南洋理工大学[话题]# #CCDS[话题]# #网络安全[话题]# #留学新加坡[话题]# #读后感[话题]# #出分[话题]# #网安[话题]# #Cybersecurity[话题]# #硕士生活[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "30",
+      "collected": false,
+      "collectedCount": "35",
+      "commentCount": "22",
+      "followed": false,
+      "niceCount": "",
+      "shareCount": "7",
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "5f4ea74b000000000100a473",
+        "name": "NTU",
+        "type": "topic"
+      },
+      {
+        "id": "5bf9edce9c1d820001ff60f4",
+        "name": "新加坡南洋理工大学",
+        "type": "topic"
+      },
+      {
+        "id": "64035853000000001803c21f",
+        "name": "CCDS",
+        "type": "topic"
+      },
+      {
+        "name": "网络安全",
+        "type": "topic",
+        "id": "5ca3f67e000000000e0189de"
+      },
+      {
+        "id": "5fbf341d0000000001002447",
+        "name": "留学新加坡",
+        "type": "topic"
+      },
+      {
+        "id": "59cf44fd092b5b20ef9e5860",
+        "name": "读后感",
+        "type": "topic"
+      },
+      {
+        "id": "5f203b4e000000000100b1db",
+        "name": "出分",
+        "type": "topic"
+      },
+      {
+        "id": "61daaada000000000101da9b",
+        "name": "网安",
+        "type": "topic"
+      },
+      {
+        "id": "6069b77f000000000101e1b9",
+        "name": "Cybersecurity",
+        "type": "topic"
+      },
+      {
+        "id": "5d14410f000000001800e5d1",
+        "name": "硕士生活",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "id": "6a55b0e3000000001403a21a",
+      "noteId": "6955554e000000001e016693",
+      "atUsers": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1784005017000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a55b0e3000000001403a21a",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABSa45-nSzsTIiFCneE_PfzaC5xAAs76MpKkliePMJ1Fs=",
+              "userId": "5d0b3f75000000001203118f",
+              "nickname": "Mirror",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6a55c198000000000802d21c",
+          "noteId": "6955554e000000001e016693",
+          "status": 0,
+          "content": "不可以，至少描述肯定是得网安类型的",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "likeCount": "0",
+      "createTime": 1784000739000,
+      "ipLocation": "辽宁",
+      "status": 0,
+      "content": "可以问下实习学分可以找大模型算法类的吗，会被卡吗",
+      "userInfo": {
+        "userId": "5d0b3f75000000001203118f",
+        "nickname": "Mirror",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSa45-nSzsTIiFCneE_PfzaC5xAAs76MpKkliePMJ1Fs="
+      },
+      "showTags": [],
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "liked": false,
+      "subCommentCursor": "6a55c198000000000802d21c",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5d67f9220000000001018fbe",
+        "nickname": "纸鸢霖",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3193tps0v4o005nb7v4h0b3tuqssgqlo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnXeor4e3ejDCMPa6ZCgLfERJst2HWsCr1EA8KU_M_oQ="
+      },
+      "showTags": [],
+      "noteId": "6955554e000000001e016693",
+      "content": "A+也太耀眼了吧！！！但是monitoring这学期这么难吗？！",
+      "atUsers": [],
+      "subComments": [
+        {
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "69555b47000000001d026bd8",
+            "userInfo": {
+              "xsecToken": "ABnXeor4e3ejDCMPa6ZCgLfERJst2HWsCr1EA8KU_M_oQ=",
+              "userId": "5d67f9220000000001018fbe",
+              "nickname": "纸鸢霖",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3193tps0v4o005nb7v4h0b3tuqssgqlo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "69555e35000000001d024e8f",
+          "noteId": "6955554e000000001e016693",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "content": "期末延长了三次吧差不多十五分钟我还空了两道大题，还是开卷结果抄都抄不完，感觉比较适合有网安基础的[捂脸R][捂脸R][捂脸R]",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo"
+          },
+          "createTime": 1767202357000
+        }
+      ],
+      "subCommentCursor": "69555e35000000001d024e8f",
+      "invalid": false,
+      "id": "69555b47000000001d026bd8",
+      "status": 0,
+      "liked": false,
+      "createTime": 1767201608000,
+      "ipLocation": "江苏",
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69f45d420000000027020fb3",
+      "content": "[doge]已经被录了，想问问如果追求分数高的话推荐选哪几门课呀[派对R]",
+      "atUsers": [],
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1777622765000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "69f45d420000000027020fb3",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311i9d5somi505o69foco5740efv8m2o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmaxwbJFzzdlUh0k1Evft42cIj0fsA_slYZmyZuotDmA=",
+              "userId": "60c97e190000000020029c80",
+              "nickname": "R"
+            }
+          },
+          "invalid": false,
+          "id": "69f45eec000000002702be75",
+          "status": 0,
+          "content": "我感觉都不太压分，我成绩不好的那两门确实没太学很长时间。",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "noteId": "6955554e000000001e016693"
+        }
+      ],
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentCursor": "69f45eec000000002702be75",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "userId": "60c97e190000000020029c80",
+        "nickname": "R",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311i9d5somi505o69foco5740efv8m2o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmaxwbJFzzdlUh0k1Evft42cIj0fsA_slYZmyZuotDmA="
+      },
+      "createTime": 1777622338000,
+      "ipLocation": "河南",
+      "noteId": "6955554e000000001e016693",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "content": "求学长的学习资料🥹",
+      "showTags": [],
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "山西",
+          "targetComment": {
+            "userInfo": {
+              "userId": "63b0e6f90000000026006d83",
+              "nickname": "robin",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b75hnf1ng005otgsrspgrc3n73u3u8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlVuqiv4M2VtH-oMYNG8-RnIUGfpUTA3E0b-d1P3xHng="
+            },
+            "id": "69560027000000000f02a49f"
+          },
+          "invalid": false,
+          "id": "695602a3000000001403f3cf",
+          "noteId": "6955554e000000001e016693",
+          "status": 0,
+          "content": "gpt就是最好的老师[派对R][派对R][派对R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1767244451000,
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "695602a3000000001403f3cf",
+      "id": "69560027000000000f02a49f",
+      "userInfo": {
+        "xsecToken": "ABlVuqiv4M2VtH-oMYNG8-RnIUGfpUTA3E0b-d1P3xHng=",
+        "userId": "63b0e6f90000000026006d83",
+        "nickname": "robin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b75hnf1ng005otgsrspgrc3n73u3u8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1767243815000,
+      "ipLocation": "新加坡",
+      "subCommentHasMore": true,
+      "noteId": "6955554e000000001e016693",
+      "liked": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6955f5810000000014036054",
+      "noteId": "6955554e000000001e016693",
+      "content": "求学长的学习资料",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "山西",
+      "invalid": false,
+      "id": "695572fa000000001601e8e9",
+      "createTime": 1767207675000,
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "nickname": "雷霆嘎巴",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k05ust12u105pg3g8qipjf7n5q00j0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPU4afkyLTAtoiZn0NX75xZFdkJee4OwTPGS81fe2VRk=",
+        "userId": "66038235000000000b00cde7"
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1767241089000,
+          "targetComment": {
+            "id": "695572fa000000001601e8e9",
+            "userInfo": {
+              "userId": "66038235000000000b00cde7",
+              "nickname": "雷霆嘎巴",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k05ust12u105pg3g8qipjf7n5q00j0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPU4afkyLTAtoiZn0NX75xZFdkJee4OwTPGS81fe2VRk="
+            }
+          },
+          "noteId": "6955554e000000001e016693",
+          "status": 0,
+          "content": "[偷笑R][偷笑R][偷笑R]",
+          "userInfo": {
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "山西",
+          "invalid": false,
+          "id": "6955f5810000000014036054",
+          "atUsers": []
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABjUwGr0FeWHWLeAZiyUXi1oUmftu_L5FyzHnB1OihwqY=",
+        "userId": "667f65ca000000001e00288c",
+        "nickname": "湖水清",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q3u1bm2nu6g5pjvcn57ga4cpqoje68?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "6955554e000000001e016693",
+      "content": "4【复制全文→返回薯队APP】 仅限2月6日内，\"NTU留学生总群\"等你很久了 CA1769 :/#p🤔🐍🐟😍🍔🥖🍔🦁😚🐯🌽🍓",
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "id": "696070b7000000001602250c",
+      "atUsers": [],
+      "showTags": [],
+      "invalid": false,
+      "status": 0,
+      "createTime": 1767927992000,
+      "ipLocation": "新加坡",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "createTime": 1768394044000,
+      "subComments": [
+        {
+          "id": "69678f150000000005032b21",
+          "noteId": "6955554e000000001e016693",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "新加坡",
+          "invalid": false,
+          "content": "美女你好",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1768394517000,
+          "targetComment": {
+            "id": "69678d3c000000000c00a10a",
+            "userInfo": {
+              "userId": "66038235000000000b00cde7",
+              "nickname": "雷霆嘎巴",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k05ust12u105pg3g8qipjf7n5q00j0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPU4afkyLTAtoiZn0NX75xZFdkJee4OwTPGS81fe2VRk="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "69678f150000000005032b21",
+      "invalid": false,
+      "id": "69678d3c000000000c00a10a",
+      "noteId": "6955554e000000001e016693",
+      "content": "咨询下",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABPU4afkyLTAtoiZn0NX75xZFdkJee4OwTPGS81fe2VRk=",
+        "userId": "66038235000000000b00cde7",
+        "nickname": "雷霆嘎巴",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k05ust12u105pg3g8qipjf7n5q00j0?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "ipLocation": "天津",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6955554e000000001e016693",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "68c63039000000001a00d169",
+        "nickname": "小飞飞",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ppnnrps4g6g5q6660smhkb9pg1gvn8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB9MzU67sR32slohCET7_WqPaqMcrKTUp00tohwNXNBRc="
+      },
+      "ipLocation": "山西",
+      "subCommentCount": "1",
+      "content": "咨询下",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1767751135000,
+      "subComments": [
+        {
+          "status": -2,
+          "content": "1",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWI5leU4El_K4hFUuhaqUYz--OM7lQtPKKvK_n1nU89Y=",
+            "userId": "65883689000000001d001c1a",
+            "nickname": "momo"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767760189000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "id": "695dbddf00000000310025fa",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ppnnrps4g6g5q6660smhkb9pg1gvn8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9MzU67sR32slohCET7_WqPaqMcrKTUp00tohwNXNBRc=",
+              "userId": "68c63039000000001a00d169",
+              "nickname": "小飞飞"
+            }
+          },
+          "invalid": false,
+          "id": "695de13c000000001d027289",
+          "noteId": "6955554e000000001e016693"
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "695dbddf00000000310025fa",
+      "status": 0,
+      "subCommentCursor": "695de13c000000001d027289",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 选课",
+  "search_item": {
+    "id": "6955554e000000001e016693",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "NTU CCDS CS出分小结（就读指南",
+      "user": {
+        "userId": "65883689000000001d001c1a",
+        "nickname": "momo",
+        "xsecToken": "ABKu8DXY9cioIllh4-qfwkSGOv3vcTZW8jtayvi5HuRQc=",
+        "nickName": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3206fj7un5e005pc86q4n870qp3ncli0?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "likedCount": "30",
+        "collected": false,
+        "collectedCount": "35",
+        "commentCount": "22",
+        "sharedCount": "7",
+        "liked": false
+      },
+      "cover": {
+        "height": 547,
+        "width": 1139,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/31caeb491b1f8a46f791e77e1f9de97f/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/1cb80dd53f77b3d22b6ed30fb6b51d16/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 547,
+          "width": 1139,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/31caeb491b1f8a46f791e77e1f9de97f/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/1cb80dd53f77b3d22b6ed30fb6b51d16/notes_pre_post/1040g3k031qp0mbp6n4005pc86q4n870qvlka590!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABaab6IFzhXBNILSuPHTNBf4CVXh5Y5LqMLodcqxocuD4=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6955554e000000001e016693"
+  }
+}

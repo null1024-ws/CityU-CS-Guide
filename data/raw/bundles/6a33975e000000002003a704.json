@@ -1,0 +1,114 @@
+{
+  "note_id": "6a33975e000000002003a704",
+  "url": "https://www.xiaohongshu.com/explore/6a33975e000000002003a704?xsec_token=ABHkX21GM5nvEH6bvfeszyT8W2bHPG26qhWTW31PGPBm0=",
+  "fetched_at": 1784953649.336672,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UCSD CS75 26Spring 就读体验",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "继续补 26Spring 了[喝奶茶R]\n\t\n以下都是个人主观体验，仅供参考\nCSE 291A - Topics in AI - Machine Learning Systems - Hao Zhang\n大牛教授+知名神课，强力推荐！[赞R]\n课程内容是从计算图开始讲起的 ML systems，个人感觉和 CMU 的 dlsys 比较像[doge]\n平时可以不上课，但每周需要完成 reading report。一共三个 project 设计的都很好，认真做有很大帮助。有 final 但全是选择题，主包个人感觉很简单四十分钟交卷走人。全班基本都能能 90+，整体体验非常良好。\n值得一提的是 Hao 的人脉非常夸张，Guest Lecturer 邀请了 vLLM 的一作 Woosuk Kwon，FlashInfer 的作者 Zihao Ye 等等，去年好像还请到了 Tianqi，太有实力了[暗中观察R]\n\t\nCSE 234 - Data-Centric AI and AI Engineering - Arun Kumar\n这门课虽然挂在 Breadth 的 System 里，但课程本身是 LLM application，和 System 没啥关系。\n\t\n神人课[生气R]说神人主要是因为这门课的 logistics 简直是灾难[捂脸R] professor 一会家里水管爆了一会身体不舒服一会胃不舒服，一学期下来取消几次 lecture 了，guest lecture 还出现过嘉宾没来，大家在 zoom 里等了四十分钟的情况[生气R]\n\t\n课上有签到题需要参加，作业主要是两个简单的 project，有期中期末。期末题量非常大，很多人做了两个小时还没做完，体验相当折磨。\n教授本人开了一个 startup，两个 project 都有关他们的产品。结束的时候还宣传了实习机会（只有一个位置，不过暑假前对没找到实习的同学来说是一次宝贵的机会\n\t\n第一学年就这么马马虎虎地过去了。\n比较幸运的是被本科学长拉进 lab，然后被小伙伴们各种带飞[扯脸H] 靠着产出也顺利找到了实习，算是运气很好地混过去了（\n导师人也很 nice，还请我们吃了两次大餐，一次大龙虾，一次高级日料[得意R]幸福感直接拉满。\n希望第二年能更 productive 一点，搞点大新闻[doge]\n\t\n#ucsd[话题]# #ucsdcs75[话题]# #水硕[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我是234TA 确实logistics地狱",
+      "sourceRef": "comment:6a3c503100000000150079a0",
+      "commentId": "6a3c503100000000150079a0",
+      "likes": 1,
+      "author": "Niebieskie Migdały"
+    },
+    {
+      "type": "sub_comment",
+      "text": "希望明年有所改善[doge]主要还是prof情况太多了[笑哭R]",
+      "sourceRef": "comment:6a3c7b70000000002a027367",
+      "commentId": "6a3c7b70000000002a027367",
+      "likes": 0,
+      "author": "一只小猪"
+    },
+    {
+      "type": "comment",
+      "text": "Hao Zhang是要去复旦当院长了那个嘛？  他是不是明年就不在sd教了呀",
+      "sourceRef": "comment:6a33b698000000002a026c29",
+      "commentId": "6a33b698000000002a026c29",
+      "likes": 0,
+      "author": "Offer请吻我"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那个是 Hao Su 哈哈哈[笑哭R]",
+      "sourceRef": "comment:6a33b7160000000029036201",
+      "commentId": "6a33b7160000000029036201",
+      "likes": 1,
+      "author": "一只小猪"
+    },
+    {
+      "type": "comment",
+      "text": "还在做cg吗[偷笑R]",
+      "sourceRef": "comment:6a33c061000000002a025d96",
+      "commentId": "6a33c061000000002a025d96",
+      "likes": 0,
+      "author": "dl"
+    },
+    {
+      "type": "sub_comment",
+      "text": "已跑路[哭惹R]",
+      "sourceRef": "comment:6a343c6f000000002a0274f5",
+      "commentId": "6a343c6f000000002a0274f5",
+      "likes": 0,
+      "author": "一只小猪"
+    },
+    {
+      "type": "comment",
+      "text": "能不能细说一下龙虾，感觉看着很不错",
+      "sourceRef": "comment:6a3398080000000015001aa1",
+      "commentId": "6a3398080000000015001aa1",
+      "likes": 0,
+      "author": "Wwddjm"
+    },
+    {
+      "type": "sub_comment",
+      "text": "翠府吃的 吃完就倒闭了[笑哭R]",
+      "sourceRef": "comment:6a33984a000000002902712b",
+      "commentId": "6a33984a000000002902712b",
+      "likes": 1,
+      "author": "一只小猪"
+    },
+    {
+      "type": "comment",
+      "text": "学长求扩列[doge]",
+      "sourceRef": "comment:6a392ab6000000002a02763d",
+      "commentId": "6a392ab6000000002a02763d",
+      "likes": 0,
+      "author": "Soeasy"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下找到实习概率有多少啊？还有转博情况怎么样呢？身边统计学也可以",
+      "sourceRef": "comment:6a33bcf3000000002902d66d",
+      "commentId": "6a33bcf3000000002902d66d",
+      "likes": 0,
+      "author": "Flippy"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我身边最后找到us实习的大概有一半？剩下也基本找到国内实习了。转博这个事感觉比较看组 我们组可能比较难[皱眉R]",
+      "sourceRef": "comment:6a3445eb000000002a02e4d4",
+      "commentId": "6a3445eb000000002a02e4d4",
+      "likes": 0,
+      "author": "一只小猪"
+    },
+    {
+      "type": "comment",
+      "text": "hao zhang么确实牛的",
+      "sourceRef": "comment:6a339cc7000000002b0012fd",
+      "commentId": "6a339cc7000000002b0012fd",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

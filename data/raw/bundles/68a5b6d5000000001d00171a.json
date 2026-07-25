@@ -1,0 +1,61 @@
+{
+  "note_id": "68a5b6d5000000001d00171a",
+  "url": "https://www.xiaohongshu.com/explore/68a5b6d5000000001d00171a?xsec_token=ABLbCQKSaUlLosgQZx1LBINEjZs2hLSND3wwOmdeOnIG8=",
+  "fetched_at": 1784951826.1765237,
+  "course_codes": [
+    "CS5483",
+    "CS6290"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 选课血泪史6️⃣",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "① 仅代表个人观点\n② 本人 bg：末 9 本 + 科班混子 + 一段开发工作经历 + 有过 gap + 学习能力/考试能力/代码能力都远不如年轻人的老登\n\t\nCS5483 Data Warehousing and Data Mining\n\t\n这课虽然叫 Data Warehousing and Data Mining，但 90% 的内容都是围绕数据挖掘展开的\n\t\n来自 MIT 的老师，讲课不是在引导学生思考，就是在引导学生思考的路上，比较喜欢跟大家在课堂上互动\n\t\n上课讲的内容比较重要，因为 PPT 上会留空，课上边讲边填，还会做一些笔记\n\t\n作业可以在老师部署的 JupiterLab 环境中完成和提交，非常方便，主要用到 Python + Weka，要你补全 Pyhton 代码或者提供 Weka 截图，并回答相关问题，Weka 没用过不要紧，作业会有非常详细的引导，完全不用担心上不了手\n\t\nProblem Sets 和 Project 1 的工作量并不大，主要还是在 Project 2 上\n\t\n期中和期末都是线下机考，不过会提供模拟考，可以提前摸清考试内容和题型，机考会有一个 check 机制，允许独立检查每道题目是否完全做对，每次 check 失败会扣分（不会超过那道题的分数），但如果不 check 就提交，错了的题就一分没有了，个人是觉得这个 check 机制挺好的\n\t\n看得出来，老师在作业和考试的设计上用心良苦[棒R]\n\t\nCS6290 Privacy-enhancing Technologies\n\t\n主要讲区块链（比特币、以太坊）和 DeFi 相关的技术\n\t\n老师想讲的东西肯定是好东西，但斯密马赛，您的课我是真有点上不明白，PPT 也有点看不懂（虽然每个 lecture 平均下来100多页），可能是我太菜了[doge]\n\t\nTutorial 上老师会带着大家一起读 paper，每个同学读一句，以此往复，课下提问也会被要求用英语，可能比较想练口语\n\t\n作业允许使用 AI，quiz（Summer Term 新增）基于作业的阅读材料出题，quiz 当天不去上课有一定风险（第二次 quiz 那天人比较少，老师搞了一次签到，没去的人只能补考了）\n\t\nproject 可以选 survey，没有代码，但选题比较重要\n\t\n期末题量很大，也有很多不会做的题，但好在考试占比不算很高，不会太影响最后得分\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长你均分多少申到了cs啊",
+      "sourceRef": "comment:6a03ac95000000002803981c",
+      "commentId": "6a03ac95000000002803981c",
+      "likes": 0,
+      "author": "ref:rain"
+    },
+    {
+      "type": "comment",
+      "text": "友友打扰了，想问下这个选课是需要C开头的和T开头的两个一起选是吗[笑哭R]",
+      "sourceRef": "comment:68ac1dd100000000300089cf",
+      "commentId": "68ac1dd100000000300089cf",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "主包，会存在课抢不到的情况吗[皱眉R]",
+      "sourceRef": "comment:6a0c0141000000002901866e",
+      "commentId": "6a0c0141000000002901866e",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "想问问cs6290第一周会有quiz吗",
+      "sourceRef": "comment:6a1aeb64000000002702871e",
+      "commentId": "6a1aeb64000000002702871e",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "哥，马上上选课了还有心得推荐吗[石化R]",
+      "sourceRef": "comment:68ac1088000000003001e171",
+      "commentId": "68ac1088000000003001e171",
+      "likes": 0,
+      "author": "Aurora"
+    }
+  ]
+}

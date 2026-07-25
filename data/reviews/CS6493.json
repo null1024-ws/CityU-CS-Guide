@@ -1,0 +1,126 @@
+{
+  "courseCode": "CS6493",
+  "fields": {
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 5
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 3
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS6493 NLP 必选",
+    "cs6493 nlp：和上学期的de一个老师，整体流程也差不多，两次作业，一次给分不高但也不难的project，闭卷考试"
+  ],
+  "sources": [
+    {
+      "noteId": "683476a700000000220270f9",
+      "url": "https://www.xiaohongshu.com/explore/683476a700000000220270f9?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjUtSareKfkE1024ASnax9kA=",
+      "excerpt": "2. CS6493 Natural Language Processing；Lecturer: Linqi SONG；课程体验；和SemA的DE是同个老师，除去课程内容外，可以看作DE Pro版。课程内容组织很有条理，定义-架构-应用循序渐进。Tutorial是TA负责，也和DE类似，会给出课程内容相关代码给大家自主运行并讲解，高情商：代码量大管饱；低情商：代码量太大我没记下来考试没写出代码题；项目体验；1-6人项目。比较看重创新，建议多放精力到实验设计以及数据分析中。大家项目分数都不怎么高，平均分数69.6。有线下pre；作业体验；两次作业，难度较大但可问AI，整体体验不错；考试体验；和DE考试风格类似，大概60%记忆，20%理解，20%代码与计算。难度较大，但给分慷慨，不会的题也尽量多写些。（我刚考完出来就知道自己被扣了12分，因为代码题一点都写不出来）；总体而言，我选的这些课都不算太折磨，可能是因为远离了ML和IS。但即使是难课，只要认真做作业和项目以及复习，想要不挂科都是很简单的，但想拿A+就没那么容易了",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemB课程评价（下）"
+    },
+    {
+      "noteId": "682d5b26000000000c039eaf",
+      "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+      "excerpt": "5.CS6493 Natueal Language Processing；2*assignment30%+group project30%+final40%；考试闭卷，只看review PPT就差不多了，五道大题，第一道概念题30分，比如prompt类型，skip-gram和CBOW，RAG中的optimizing indexing和when to retrieve等，一道补全代码题12分，想冲a以上的同学需要复习tutorial中的代码，tensor parallelism的row和column实现，PEFT的adapter和lora，llm agents，ppo,dpo和drpo异同，BELU和cross-entropy计算等，竟然没考transformer。；此外，除了云计算其他课作业助教给分都不错，云计算需要花心思认真写才能拿高分。整理的往年题和一些作业答案都已上传，直接搜CityuMSCS即可，祝大家都能顺利毕业！",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu cs semB 课程测评"
+    },
+    {
+      "noteId": "682dfcfd00000000120000d9",
+      "url": "https://www.xiaohongshu.com/explore/682dfcfd00000000120000d9?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXJmN-5eCm9wsW5rxrkWekUY=",
+      "excerpt": "CS6493 Natural Language Processing；非常好的老师，非常好的课，唯一的问题就是我，我学不懂。项目挑的最水的，上课是听不懂的，课件是真的很多的，教的内容挺新的，括Transformer、GPT、RAG等。会有作业和小组作业，小组作业的话，有一定基础的同学会做起来轻松很多。期末感觉挺难，考的挺广，闭卷，会有代码题（出自tutorial，但我看了也不会）、概念解释，场景题，计算题（出自作业）。可以结合网上资料复习等等，我是倾向了解大概即可，不必死磕。；看看能不能混个distinct，坐等summer term了",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS SEMB"
+    },
+    {
+      "noteId": "66c2b41e0000000025031b7f",
+      "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
+      "excerpt": "CS6493 Natural Language Processing；分数构成：assignment，project，final；跟Data Engineering都是非常nice的宋教授。强度不大，个人觉得内容不太好理解，涉及到大模型。project可以基于tutorial完成，tutorial难度正常。final是有点难，但好在你难我难大家难，加上教授人好，最后分不低。这门课学我是没学明白细节，涉及到复杂的神经网络，只大致明白了框架。不过还是很好的课，可以打开思路，对大模型初学者有很好的引领作用。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课3"
+    },
+    {
+      "noteId": "6a0c2c9d0000000006033f16",
+      "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+      "excerpt": "CS6493 Natural Language Model；Song老师和Ma老师共同授课，两位老师的课堂口音都属于很正的比较好懂的口音，课程会包含bert、transformer、llm、rag等内容，对于想要入门了解这方面内容的同学来说还挺不错的，总共有两次作业，每次assignment 是几道大题然后每个大题会有3-5个小题，project 是1-8人自由组队，没有期中考试，期末考试闭卷，一些概念理解题主要是某个技术的优缺点之类的，两道计算题，两道代码题，还有个应用类题",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城课程体验"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS6493 NLP 必选！基本有ai背景的就是学一学理论。；3⃣我为什么不推荐你一年速通？；不能充分利用所有的成果。对于一个不爱考试的人来说，没有办法用实习、project来抵学分实在是太难受了（这两个都要求summer term也就是10月毕业），让我第二学期必须选五门课workload 拉满。因此如果第一年春秋招没有结果的朋友千万不要担心，留一门课到summer term可以多参加一次喔",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    },
+    {
+      "noteId": "6a0f2914000000003501f1b4",
+      "url": "https://www.xiaohongshu.com/explore/6a0f2914000000003501f1b4?xsec_token=ABp3M15AaHTe7EJKyjHo9zD4bhAoAymljISCJ_zahf50Q=",
+      "excerpt": "cs6493 nlp：和上学期的de一个老师，整体流程也差不多，两次作业，一次给分不高但也不难的project，闭卷考试。虽然老师说要理解概念不能死记硬背，但背就完事了，代码题可以碰碰运气，今年考的就比较简单。；主播的碎碎念：港硕进度已90%，不得不说水得我嘴角疯狂上扬，真是弥补了疫情三年吞噬掉的大学生活，妙哉妙哉。当然大家不要学我，要好好上课哦",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semb选课总结（混子版"
+    },
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS6493 nlp；和semA的ds一个老师，课程风格，作业量和考试也是一脉相承，期末主要靠自己看PPT。期末考试难度不大，大多是概念辨析，两道计算送分题都是作业里的知识点，两道代码填空题。和ds一样，复习了基本就不会挂；上述课程均无考勤，这一点cityu cs是真的夯，出去面试遇到其他港校的同学，很多都要打卡看出勤",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

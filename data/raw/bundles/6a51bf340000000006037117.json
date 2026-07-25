@@ -1,0 +1,42 @@
+{
+  "note_id": "6a51bf340000000006037117",
+  "url": "https://www.xiaohongshu.com/explore/6a51bf340000000006037117?xsec_token=ABC6lykDj8-4_2cyofh9tMMYg6Pz4IIWowy0vy2-Y76Do=",
+  "fetched_at": 1784873952.191486,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城网络安全，求课程推荐",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "另外，那些选修课应该怎么选呀\n#计算机科学系[话题]# #26fall[话题]# #香港城市大学[话题]# #网络安全[话题]# #预习[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "就一年课没啥可预习的 抓紧找工才是王道",
+      "sourceRef": "comment:6a51cadd0000000015010efc",
+      "commentId": "6a51cadd0000000015010efc",
+      "likes": 3,
+      "author": "催我投简历"
+    },
+    {
+      "type": "comment",
+      "text": "本科吗我也是可以认识一下呀",
+      "sourceRef": "comment:6a51cf6f0000000009017130",
+      "commentId": "6a51cf6f0000000009017130",
+      "likes": 0,
+      "author": "jx"
+    },
+    {
+      "type": "sub_comment",
+      "text": "研究生[doge]",
+      "sourceRef": "comment:6a51f821000000002a006226",
+      "commentId": "6a51f821000000002a006226",
+      "likes": 0,
+      "author": "Charlie"
+    }
+  ]
+}

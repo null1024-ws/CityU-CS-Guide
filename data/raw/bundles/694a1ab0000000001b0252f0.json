@@ -1,0 +1,125 @@
+{
+  "note_id": "694a1ab0000000001b0252f0",
+  "url": "https://www.xiaohongshu.com/explore/694a1ab0000000001b0252f0?xsec_token=ABzrwHqWP4EWeLlnzW6--sJWJ_uC5CpeqpvBQBZaa1LxM=",
+  "fetched_at": 1784955345.8112166,
+  "course_codes": [
+    "CS5228",
+    "CS5242"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🇸🇬NUS MCompAI 课程体验",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5228 Data Mining\n前一半讲聚类/分类/回归/关联规则挖掘 后一半logistic/图/数据流/推荐系统\n一共是三次作业 都是notebook形式的\n有正式的期中考试 和在教室的期末quiz 都是开卷\n一个project 预测hdb房价 只需要交report\n老师人很负责 内容也蛮好的 比较热门的课\n🧑‍🏫：Christian von der Weth\n\t\nCS5242 Deep Learning and Neural Networks\n老生常谈的教学内容 MLP CNN RNN BERT 之后还带一点并行计算的内容\n一共10次作业 没有project等\n作业形式基本上都notebook 所以基本上大家都会拿满分\n喜欢高分或者对dl不太熟悉可以上\n🧑‍🏫：Kenji & Yang You\n\t\nIS5010 AI Governance\n今年新的MComp Core 授课内容讲ai伦理 如何管理\n上课老师会先讲一些概念 给一个case供大家讨论 形式有点像剧本杀/模联 小组有自己的role\n考核方面有一个大project和四次quiz\nquiz第一次是看网课 提交网课看完的cert就可以了 后三次随堂 四次选三次最高分给分\n我和朋友们的经验就是上个两三周基本上就会考 需要简单过一过课件内容概念 以及选择题选最长的\nproject有开题中期结题持续基本上一整个学期 每隔几周就要交一次报告 最后还要做poster现场展示\n整体压力中等 很好的锻炼口语的课 老师特别和蔼也很幽默 一口美式accent上课在一众singlish中十分舒适\n🧑‍🏫：Jungpil Hahn\n\t\nIS5007 IT Business\n笨人没有任何商科思维。到最后我也说不上我听懂了啥 主要是老师讲\n有三次作业 两次独立一次小组作业 都是给一个case让你提出商业计划的类型或者分析国际形势 小组作业需要线下小组和老师单独约时间做pre\n期末课上有开卷考试 貌似是分析商业模式等等 大白话一顿神写 考试前老师也会划重点\n纯cs可以上 但是上课就是要被无数商科名词冲击 下课脑袋空空\n老师人也不错 我还是没习惯singlish口音 所以上课有点struggle 但是说自己会捞捞学生\n🧑‍🏫：TK Teo\n#选课[话题]# #计算机科学[话题]# #NUS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5242真能拿高分吗",
+      "sourceRef": "comment:694a226f0000000014036419",
+      "commentId": "694a226f0000000014036419",
+      "likes": 0,
+      "author": "小元jacob"
+    },
+    {
+      "type": "comment",
+      "text": "5242的10次作业canvas上面都给分了吗，为什么只有五次",
+      "sourceRef": "comment:694a33bc0000000014037b39",
+      "commentId": "694a33bc0000000014037b39",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "现在都有了",
+      "sourceRef": "comment:694a3bf80000000016024d7e",
+      "commentId": "694a3bf80000000016024d7e",
+      "likes": 0,
+      "author": "两个氨基酸"
+    },
+    {
+      "type": "comment",
+      "text": "你好请问5242有考试吗[害羞R]",
+      "sourceRef": "comment:694a44f10000000018023880",
+      "commentId": "694a44f10000000018023880",
+      "likes": 0,
+      "author": "AAA鹈鹕镇鲜花批发"
+    },
+    {
+      "type": "comment",
+      "text": "请问这些课有考勤吗？",
+      "sourceRef": "comment:694a1bbd000000000601b2f0",
+      "commentId": "694a1bbd000000000601b2f0",
+      "likes": 0,
+      "author": "老天对我好一点"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5007有一两次 其他基本没有 不过quiz得在",
+      "sourceRef": "comment:694a1be5000000001601c381",
+      "commentId": "694a1be5000000001601c381",
+      "likes": 1,
+      "author": "两个氨基酸"
+    },
+    {
+      "type": "comment",
+      "text": "cs5242 是不是看老师，s2 那个老师就有考试？s1 这个就100%作业",
+      "sourceRef": "comment:694ac96e0000000014035096",
+      "commentId": "694ac96e0000000014035096",
+      "likes": 1,
+      "author": "pser_ZG"
+    },
+    {
+      "type": "comment",
+      "text": "IS5007有recording吗？",
+      "sourceRef": "comment:6a4fdd70000000000d021400",
+      "commentId": "6a4fdd70000000000d021400",
+      "likes": 0,
+      "author": "氤氲叆叇"
+    },
+    {
+      "type": "comment",
+      "text": "学姐好想问一下有mcomp ai的群嘛，打算去了想加加[呃R]",
+      "sourceRef": "comment:69d8fdec0000000035014f4b",
+      "commentId": "69d8fdec0000000035014f4b",
+      "likes": 0,
+      "author": "sockpuppet"
+    },
+    {
+      "type": "comment",
+      "text": "支持主播[生气R]",
+      "sourceRef": "comment:694a1aed000000001d02635d",
+      "commentId": "694a1aed000000001d02635d",
+      "likes": 0,
+      "author": "閑"
+    },
+    {
+      "type": "sub_comment",
+      "text": "谢谢瓶子",
+      "sourceRef": "comment:694a1b020000000016022946",
+      "commentId": "694a1b020000000016022946",
+      "likes": 0,
+      "author": "两个氨基酸"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢主播带来的cs5228 A",
+      "sourceRef": "comment:694a1c0c000000001600fde1",
+      "commentId": "694a1c0c000000001600fde1",
+      "likes": 1,
+      "author": "mono"
+    },
+    {
+      "type": "comment",
+      "text": "来支持了",
+      "sourceRef": "comment:694a1b5d0000000014035bc6",
+      "commentId": "694a1b5d0000000014035bc6",
+      "likes": 0,
+      "author": "浅笑过后"
+    }
+  ]
+}

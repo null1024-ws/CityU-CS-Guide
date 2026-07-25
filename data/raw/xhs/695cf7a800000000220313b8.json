@@ -1,0 +1,418 @@
+{
+  "note_id": "695cf7a800000000220313b8",
+  "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
+  "fetched_at": 1784874044.9829233,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "695cf7a800000000220313b8",
+        "model_type": "note",
+        "note_card": {
+          "time": 1767700392000,
+          "last_update_time": 1767700392000,
+          "note_id": "695cf7a800000000220313b8",
+          "title": "CityU EC semA选课锐评（上）",
+          "desc": "1. cs5222 计网\n15%: 3个作业，中等偏简单，中等量\n10%: wireshark任务, 简单，指导书很详细\n5%: 研究报告，随便糊弄就行\n70%: 期末，开卷，不难，题量不多（甚至考场里大概4%的人提早交了），有时间翻打印的资料，其中90%以上的题目是tutorial和assignment变形，剩下的是PPT里出现的小知识点\n复习建议：考前再做一遍tutorial和assignments即可\n总结：无小组作业，不考勤，总体简单，必选\n\t\n2.cs5285 密码学\n最难的一门，不考勤，会捞人，无小组作业，tbl可以不去\n20%：两份作业，给的时间很久，因为开卷所以不难\n20%：期中，开卷，虽然开卷但是题量多，可能没什么时间翻/搜，不过改卷很松，期中考后的一节课课上会发试卷\n60%：期末，可携带计算器，1张双面a4（可打印），题量比较大，考前建议自己再做一遍所有的练习题，考试时遇到复杂的设计协议的题目可以先跳过\n总结：ec的必修课，认真学吧，虽然主播平时不学考前突击也能拿A，但希望不要模仿\n3. cs5481\n不考勤\n30%两次作业，不难\n30%小组项目（给了几个选题，也可以自己拟，不难，好水，最后验收可能是助教，问的问题也简单，水过去的话大概给个75-80的分，想高分可以看看别人的经验帖）\n40%期末，闭卷，5道题，B➕树，SQL，正则必定出现，难度不超过平时作业题，必须会\n总结：好课\n\t\n#CityU[话题]# #港城[话题]# #香港城市大学[话题]# #cs5222[话题]# #cs5285[话题]# #cs5481[话题]#",
+          "image_list": [
+            {
+              "file_id": "notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8",
+              "url": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/b63ff74c0096fd74b05a55046f7e04ae/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nd_dft_wgth_webp_3",
+              "live_photo": false,
+              "height": 356,
+              "width": 1362,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/6e2f78e604a1b61329a643024d261f14/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241420/b63ff74c0096fd74b05a55046f7e04ae/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/6e2f78e604a1b61329a643024d261f14/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nd_prv_wgth_webp_3",
+              "stream": {}
+            }
+          ],
+          "at_user_list": [],
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "user": {
+            "user_id": "64f019890000000005001f15",
+            "nickname": "VENI VIDI VICI",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b7o410mnm505p7g364h87olhqu1o4g",
+            "xsec_token": "ABuedsvlnGMa1fNvjVcHMs6NK-Sbybe8b2w9FVPyEfiAI="
+          },
+          "interact_info": {
+            "followed": false,
+            "relation": "none",
+            "liked_count": "44",
+            "collected": false,
+            "collected_count": "43",
+            "share_count": "6",
+            "nice_count": "",
+            "liked": false,
+            "comment_count": "15"
+          },
+          "tag_list": [
+            {
+              "id": "60a65e500000000001001ded",
+              "name": "CityU",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "5d1ea316000000000e026c68",
+              "name": "港城"
+            },
+            {
+              "name": "香港城市大学",
+              "type": "topic",
+              "id": "5c46d9e9000000000f018433"
+            },
+            {
+              "id": "6752c395000000000b00ba82",
+              "name": "cs5222",
+              "type": "topic"
+            },
+            {
+              "id": "6752c3e5000000000b0276fd",
+              "name": "cs5285",
+              "type": "topic"
+            },
+            {
+              "name": "cs5481",
+              "type": "topic",
+              "id": "675a9471000000000400c934"
+            }
+          ]
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874046108
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "695cf7a800000000220313b8",
+        "content": "请问这个成绩界面在哪看呀？",
+        "like_count": "0",
+        "create_time": 1767700542000,
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "695cf8a1000000001d01f2f6",
+        "sub_comment_has_more": true,
+        "status": 0,
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "liked": false,
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABa89UTSmdM1wnPKJdD-qO6BfpFprq1ueAV1XYR0mS47A=",
+              "user_id": "64f019890000000005001f15",
+              "nickname": "VENI VIDI VICI",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b7o410mnm505p7g364h87olhqu1o4g?imageView2/2/w/120/format/jpg"
+            },
+            "target_comment": {
+              "id": "695cf83e000000001602342c",
+              "user_info": {
+                "user_id": "65e06365000000000500ecd0",
+                "nickname": "Aurora",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABAKi5i0w6TfI5DCGSVRzz6IpP3GHalyg7j13gwwCtGoQ="
+              }
+            },
+            "note_id": "695cf7a800000000220313b8",
+            "content": "aims-student record-my academic record-grade display",
+            "at_users": [],
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1767700642000,
+            "ip_location": "广东",
+            "invalid": false,
+            "id": "695cf8a1000000001d01f2f6",
+            "status": 0
+          }
+        ],
+        "invalid": false,
+        "id": "695cf83e000000001602342c",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "65e06365000000000500ecd0",
+          "nickname": "Aurora",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABAKi5i0w6TfI5DCGSVRzz6IpP3GHalyg7j13gwwCtGoQ="
+        },
+        "ip_location": "中国香港"
+      },
+      {
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABQPowzWpxn4esTqHiidw3j9QJ-3y9tzU3kbab5Z-PBh8=",
+          "user_id": "5e88286f0000000001000c3b",
+          "nickname": "小红薯5E88CD52"
+        },
+        "sub_comment_has_more": true,
+        "sub_comment_count": "4",
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "create_time": 1783585901000,
+        "ip_location": "河南",
+        "sub_comments": [
+          {
+            "liked": false,
+            "user_info": {
+              "user_id": "64f019890000000005001f15",
+              "nickname": "VENI VIDI VICI",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b7o410mnm505p7g364h87olhqu1o4g?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABa89UTSmdM1wnPKJdD-qO6BfpFprq1ueAV1XYR0mS47A="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "id": "6a4f6072000000001500b072",
+            "note_id": "695cf7a800000000220313b8",
+            "like_count": "0",
+            "create_time": 1783586930000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "6a4f5c6d00000000050140d8",
+              "user_info": {
+                "user_id": "5e88286f0000000001000c3b",
+                "nickname": "小红薯5E88CD52",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABQPowzWpxn4esTqHiidw3j9QJ-3y9tzU3kbab5Z-PBh8="
+              }
+            },
+            "invalid": false,
+            "status": 0,
+            "content": "8月中下旬吧我记得",
+            "at_users": []
+          }
+        ],
+        "sub_comment_cursor": "6a4f6072000000001500b072",
+        "id": "6a4f5c6d00000000050140d8",
+        "note_id": "695cf7a800000000220313b8",
+        "liked": false,
+        "show_tags": [],
+        "invalid": false,
+        "content": "请问学长，新生选课一般是什么时候开放啊？"
+      },
+      {
+        "show_tags": [],
+        "create_time": 1768133329000,
+        "at_users": [],
+        "user_info": {
+          "user_id": "63e4cbb90000000026010683",
+          "nickname": "ikM-🍜",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s3qinm84g5ov4pespi1k3i05qam8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABWGTlVrEhWPqRYsVQtrB0xzeE3MpC6Tk3RwwlL-qZ_-o="
+        },
+        "ip_location": "江苏",
+        "sub_comments": [
+          {
+            "note_id": "695cf7a800000000220313b8",
+            "content": "semA一般至少3天有课吧，不少人是4天有课",
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1768137144000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "696392d1000000000f01f2ea",
+              "user_info": {
+                "xsec_token": "ABWGTlVrEhWPqRYsVQtrB0xzeE3MpC6Tk3RwwlL-qZ_-o=",
+                "user_id": "63e4cbb90000000026010683",
+                "nickname": "ikM-🍜",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9s3qinm84g5ov4pespi1k3i05qam8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "id": "6963a1b7000000000803114a",
+            "status": 0,
+            "at_users": [],
+            "like_count": "1",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABa89UTSmdM1wnPKJdD-qO6BfpFprq1ueAV1XYR0mS47A=",
+              "user_id": "64f019890000000005001f15",
+              "nickname": "VENI VIDI VICI",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b7o410mnm505p7g364h87olhqu1o4g?imageView2/2/w/120/format/jpg"
+            },
+            "invalid": false
+          }
+        ],
+        "invalid": false,
+        "note_id": "695cf7a800000000220313b8",
+        "status": 0,
+        "like_count": "0",
+        "sub_comment_count": "3",
+        "sub_comment_cursor": "6963a1b7000000000803114a",
+        "sub_comment_has_more": true,
+        "liked": false,
+        "id": "696392d1000000000f01f2ea",
+        "content": "蹲下课表，第一学期有时间实习吗"
+      },
+      {
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "at_users": [],
+        "like_count": "1",
+        "ip_location": "肯尼亚",
+        "sub_comments": [],
+        "invalid": false,
+        "id": "6961eca0000000001d00d20a",
+        "content": "多么出色的成绩，恭喜你",
+        "create_time": 1768025249000,
+        "note_id": "695cf7a800000000220313b8",
+        "liked": false,
+        "show_tags": [],
+        "user_info": {
+          "user_id": "654b6dd7000000000301f678",
+          "nickname": "Liam john",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3132ocmurhk605pabdnbgrtjod25ph30?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABSfUnlPe8VgwRoIAZJc98e1Lpboeyawo9M31tzhwQgzU="
+        },
+        "sub_comment_count": "0"
+      },
+      {
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [],
+            "create_time": 1780288237000,
+            "ip_location": "浙江",
+            "note_id": "695cf7a800000000220313b8",
+            "at_users": [],
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ed9kceq0c004a79v1r87d1sun3kcoo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABuwM6tkg2oRk88JrK85hmVxjLie9v3aYJme5EzR8BUqw=",
+              "user_id": "5b5076834eacab7a2977b43c",
+              "nickname": "ee"
+            },
+            "target_comment": {
+              "id": "6a1d0275000000002b001641",
+              "user_info": {
+                "nickname": "abllllll",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321h1vs1rnk005oh4mgd8d6un32gfkug?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABJ5tl4w0kUtqEQUpUwURG9t19B2VmbkzVK3rxPIXP3F0=",
+                "user_id": "6224b41a0000000021029bd7"
+              }
+            },
+            "invalid": false,
+            "id": "6a1d0aec000000002702defe",
+            "status": 0,
+            "content": "你不是会买大作业的"
+          }
+        ],
+        "sub_comment_cursor": "6a1d0aec000000002702defe",
+        "status": 0,
+        "at_users": [
+          {
+            "user_id": "5b5076834eacab7a2977b43c",
+            "nickname": "ee",
+            "ai_agent": false,
+            "xsec_token": "ABuwM6tkg2oRk88JrK85hmVxjLie9v3aYJme5EzR8BUqw="
+          }
+        ],
+        "like_count": "0",
+        "user_info": {
+          "user_id": "6224b41a0000000021029bd7",
+          "nickname": "abllllll",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321h1vs1rnk005oh4mgd8d6un32gfkug?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABJ5tl4w0kUtqEQUpUwURG9t19B2VmbkzVK3rxPIXP3F0="
+        },
+        "ip_location": "湖北",
+        "sub_comment_count": "1",
+        "id": "6a1d0275000000002b001641",
+        "liked": false,
+        "create_time": 1780286070000,
+        "invalid": false,
+        "content": "@ee 我觉得我他妈要是去了可能天天挂科",
+        "show_tags": [],
+        "note_id": "695cf7a800000000220313b8",
+        "sub_comment_has_more": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 5,
+    "pages_fetched": 1
+  },
+  "search_query": "香港城市大学 CS 选课",
+  "search_item": {
+    "id": "695cf7a800000000220313b8",
+    "model_type": "note",
+    "note_card": {
+      "user": {
+        "nick_name": "VENI VIDI VICI",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b7o410mnm505p7g364h87olhqu1o4g?imageView2/2/w/80/format/jpg",
+        "user_id": "64f019890000000005001f15",
+        "nickname": "VENI VIDI VICI",
+        "xsec_token": "ABifoSa2M_jDdhka2Btm_SPwXK8YEhbWFe1jmMxkylpCQ="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "44",
+        "collected": false,
+        "collected_count": "43",
+        "comment_count": "15",
+        "shared_count": "6"
+      },
+      "cover": {
+        "height": 356,
+        "width": 1362,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241420/f7620448b28cb0898990c55b7e3ca831/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241420/0a27ce86a5b2763fac58efaa1ad00910/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 356,
+          "width": 1362,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/f7620448b28cb0898990c55b7e3ca831/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241420/0a27ce86a5b2763fac58efaa1ad00910/notes_pre_post/1040g3k031r0fcc7mng005p7g364h87ol40ae7m8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "01-06"
+        }
+      ],
+      "type": "normal",
+      "display_title": "CityU EC semA选课锐评（上）"
+    },
+    "xsec_token": "ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y="
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "note_id": "68c04614000000001c03e031",
+  "url": "https://www.xiaohongshu.com/explore/68c04614000000001c03e031?xsec_token=ABdc3oj-4bRBlHnYmbeEAPgac1WQvom7a5xePJk-JF9pk=",
+  "fetched_at": 1784955208.3189328,
+  "note": {
+    "xsecToken": "ABdc3oj-4bRBlHnYmbeEAPgac1WQvom7a5xePJk-JF9pk=",
+    "time": 1757431316000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "68c04614000000001c03e031",
+    "type": "normal",
+    "title": "CityU学生安全培训EE",
+    "interactInfo": {
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "6",
+      "relation": "none",
+      "likedCount": "25",
+      "collectedCount": "17",
+      "shareCount": "1"
+    },
+    "lastUpdateTime": 1757431355000,
+    "desc": "gen02，gen03测试部分内容及视频涉及知识点",
+    "user": {
+      "xsecToken": "ABrtSGtjcNOjoYDL6nkaI5x15VObqAkJXgM3TjLRA38tY=",
+      "userId": "675cede1000000001801f12a",
+      "nickname": "xmh",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg"
+    },
+    "imageList": [
+      {
+        "width": 1668,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251253/074504634defa6775d940c2395e014c7/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8",
+        "height": 2420,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251253/074504634defa6775d940c2395e014c7/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251253/dca56db9209853b3f58e215deac22962/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251253/dca56db9209853b3f58e215deac22962/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "id": "68da59440000000039030e54",
+      "noteId": "68c04614000000001c03e031",
+      "status": 0,
+      "liked": false,
+      "createTime": 1759140164000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f0c4c2b0000000001003c8a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuh_b2UKdKyZfkiboApUCpGNk_E48SzHcTM5AMo20sq8=",
+        "userId": "5f0c4c2b0000000001003c8a",
+        "nickname": "该用户未设置昵称"
+      },
+      "subComments": [],
+      "content": "感谢[飞吻R]",
+      "likeCount": "0",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "ipLocation": "中国香港",
+      "id": "690b11a70000000039030096",
+      "noteId": "68c04614000000001c03e031",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "690b11a70000000039030096",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABdlY-xMesK4W693KlGVnWuN9A_3nIKW7I_ntkeCbD13s=",
+              "userId": "6457846e000000000f006118",
+              "nickname": "R. He",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "noteId": "68c04614000000001c03e031",
+          "content": "是整理",
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABdlY-xMesK4W693KlGVnWuN9A_3nIKW7I_ntkeCbD13s=",
+            "userId": "6457846e000000000f006118",
+            "nickname": "R. He",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "createTime": 1762333279000,
+          "invalid": false,
+          "id": "690b125e0000000039032a88",
+          "status": 0
+        }
+      ],
+      "subCommentCount": "1",
+      "content": "将不需要的货品搬走那一项不是存放[捂脸R]",
+      "userInfo": {
+        "nickname": "R. He",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdlY-xMesK4W693KlGVnWuN9A_3nIKW7I_ntkeCbD13s=",
+        "userId": "6457846e000000000f006118"
+      },
+      "showTags": [],
+      "createTime": 1762333095000,
+      "subCommentCursor": "690b125e0000000039032a88",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "692ff385000000001d025681",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vvn7nbc2s005o8gjpg851euo66dge0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwOlBe4-WxuKV25rEvVsEnW4fRaUbq_C0coLJWGO-kDg=",
+        "userId": "61109e6000000000200285de",
+        "nickname": "Danielll Zzz"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "subComments": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "noteId": "68c04614000000001c03e031",
+      "content": "请问这个成绩单在哪里打印",
+      "createTime": 1764750214000,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "698f3d06000000000f00d2f7",
+      "noteId": "68c04614000000001c03e031",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "status": 0,
+      "content": "谢谢！",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1770994950000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "invalid": false,
+      "userInfo": {
+        "nickname": "Kiraoshi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q9ehlj6nu505oe41qr41blpjc63kq8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0toHWvlUEWCJaG5TU0n-B1DNiNntXt1IqjaVTtbLBUY=",
+        "userId": "61c40eb6000000001000aeb9"
+      },
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "68c04614000000001c03e031",
+      "subCommentCount": "0",
+      "content": "化学品容器须张贴合适安全标签那一项也不是存放[捂脸R]",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdlY-xMesK4W693KlGVnWuN9A_3nIKW7I_ntkeCbD13s=",
+        "userId": "6457846e000000000f006118",
+        "nickname": "R. He"
+      },
+      "invalid": false,
+      "showTags": [],
+      "createTime": 1762333270000,
+      "id": "690b12560000000039024dc7",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大 信息安全 导修",
+  "search_item": {
+    "noteCard": {
+      "displayTitle": "CityU学生安全培训EE",
+      "user": {
+        "nickName": "xmh",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "675cede1000000001801f12a",
+        "nickname": "xmh",
+        "xsecToken": "ABOImWHSgrTZo3RSIeg8lbYKQGzcqhQEGTGAtoXr8v_Z4="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "25",
+        "collected": false,
+        "collectedCount": "17",
+        "commentCount": "6",
+        "sharedCount": "1"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251253/5418acccf86a72958ed6eb9d473ee4c4/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nc_n_webp_prv_1",
+        "height": 2420,
+        "width": 1668,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251253/2f4a95851a41b39ed124748a647db477/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 2420,
+          "width": 1668,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251253/2f4a95851a41b39ed124748a647db477/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251253/5418acccf86a72958ed6eb9d473ee4c4/notes_pre_post/1040g3k831m7eoova4s705pqstngm3s9auuksde8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-09-09"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABdc3oj-4bRBlHnYmbeEAPgac1WQvom7a5xePJk-JF9pk=",
+    "id": "68c04614000000001c03e031",
+    "modelType": "note",
+    "index": 3,
+    "exposed": true,
+    "trackId": "68c04614000000001c03e031"
+  }
+}

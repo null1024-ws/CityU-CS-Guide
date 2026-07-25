@@ -1,0 +1,111 @@
+{
+  "note_id": "682dfcfd00000000120000d9",
+  "url": "https://www.xiaohongshu.com/explore/682dfcfd00000000120000d9?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXJmN-5eCm9wsW5rxrkWekUY=",
+  "fetched_at": 1784952744.7278194,
+  "course_codes": [
+    "CS5296",
+    "CS5483",
+    "CS5489",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS SEMB",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "简单评测（AI 0基础，前期学的真的痛苦，中期发愤图强，后期开始摆烂）\n\t\nCS5296 Cloud Computing:Theo & Prac\n偏开发，会用 AWS（tutorial会有实操），简单来说就是教怎么从本地上云。内容会从头讲起，包含linux，计网、OS一些知识，不过最主要的还是云计算的一些知识点，比如调度、mesos、到最后还有机器学习的一些衔接。总体相对其他几门，不算难（可能我偏开发），会有小组作业、平时作用和paper review，考试题量很大，可带资料。\n\t\nCS5483 Data Warehousing & Data Mining\n和CS5489 的很多也挂钩，设计到聚类、决策树、各种模型等等，内容总体不太，但老师讲课很详细，有Zoom和回放，非常友好的一门课。tutorial占比很少，但量很多，会用到weka。考试是半交互式的系统，需要提前熟悉，期中和期末都是这个形式，且在机房考。有个人project，也有小组作业。tutorial和个人project都是在jupyter上提交。\n\t\nCS5489 Machine Learning:Algorit &Apns\n属于是没上5487，但上了5489。antoni老师没讲几节课，基本都是马老师，课程有录播，tutorial没有。课程分为ML和DL两部分，ML讲的更多一些。课程不涉及太多数学方面的推导（老师课上反复强调），但考试有公式的书写，更偏应用和广度的涉猎。有期中、小组作业和个人作业（都是打kaggle） 。让带cheatsheet，但只能一张。感觉考试挺难，自己没学精，考的十分无力。（这门课竟然是DS分流的课，非常神奇，5487就不是）\n\t\nCS6493 Natural Language Processing\n非常好的老师，非常好的课，唯一的问题就是我，我学不懂。项目挑的最水的，上课是听不懂的，课件是真的很多的，教的内容挺新的，括Transformer、GPT、RAG等。会有作业和小组作业，小组作业的话，有一定基础的同学会做起来轻松很多。期末感觉挺难，考的挺广，闭卷，会有代码题（出自tutorial，但我看了也不会[哭惹R]）、概念解释，场景题，计算题（出自作业）。可以结合网上资料复习等等，我是倾向了解大概即可，不必死磕。\n\t\n看看能不能混个distinct，坐等summer term了\n﻿#CITYU[话题]#﻿ ﻿#cs[话题]#﻿",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5296 Cloud Computing大概考什么题型呀？概念辨析？伪代码？",
+      "sourceRef": "comment:69f487cd0000000023002a25",
+      "commentId": "69f487cd0000000023002a25",
+      "likes": 0,
+      "author": "好热好热"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问一下CS5483考勤吗[哭惹R]",
+      "sourceRef": "comment:695b50f900000000300277eb",
+      "commentId": "695b50f900000000300277eb",
+      "likes": 0,
+      "author": "苹果"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我记得不考",
+      "sourceRef": "comment:695b52690000000016020378",
+      "commentId": "695b52690000000016020378",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "5489有考勤吗请问",
+      "sourceRef": "comment:6a0f1f36000000002b028184",
+      "commentId": "6a0f1f36000000002b028184",
+      "likes": 0,
+      "author": "sevens"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5296云计算有考勤吗",
+      "sourceRef": "comment:696790e2000000000c009a06",
+      "commentId": "696790e2000000000c009a06",
+      "likes": 0,
+      "author": "Duck"
+    },
+    {
+      "type": "comment",
+      "text": "请问st选的是guidestudy吗？该怎么联系老师呢，我前天给老师发邮件现在还没有回[笑哭R]",
+      "sourceRef": "comment:68365661000000000a036473",
+      "commentId": "68365661000000000a036473",
+      "likes": 0,
+      "author": "小红薯6284C45E"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我准备学隐私",
+      "sourceRef": "comment:68365ee6000000001c033ffb",
+      "commentId": "68365ee6000000001c033ffb",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "佬又来发点评了[色色R]",
+      "sourceRef": "comment:682ebe2c000000000903ac6f",
+      "commentId": "682ebe2c000000000903ac6f",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是菜狗[吧唧R]",
+      "sourceRef": "comment:682ebefa000000001c01dcd7",
+      "commentId": "682ebefa000000001c01dcd7",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问云计算考勤吗",
+      "sourceRef": "comment:6967939e000000000c0155fe",
+      "commentId": "6967939e000000000c0155fe",
+      "likes": 0,
+      "author": "Duck"
+    },
+    {
+      "type": "comment",
+      "text": "学长有没有电子版可以求一个吗？",
+      "sourceRef": "comment:68b6d56f000000003002a9c2",
+      "commentId": "68b6d56f000000003002a9c2",
+      "likes": 0,
+      "author": "木禾"
+    }
+  ]
+}

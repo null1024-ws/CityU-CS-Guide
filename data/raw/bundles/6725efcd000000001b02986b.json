@@ -1,0 +1,178 @@
+{
+  "note_id": "6725efcd000000001b02986b",
+  "url": "https://www.xiaohongshu.com/explore/6725efcd000000001b02986b?xsec_token=ABvnHUWFeF3nXXtJ6fqAjgqRjd8RGgsICZk9twdQegRgY=",
+  "fetched_at": 1784953699.4955215,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "天坑专业转码，OMSCS机器学习方向，好课推荐",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "💻Specialization in Machine Learning\n[一R]Core Courses (6 hours)\n* CS 6515 GA\n* CS 7641 ML\n[二R]Electives (9 hours)\nPick three (3) of:\n* CS 6603 AIES\n* CS 7646 ML4T\n* CS 7650 NLP\n* CS 7280 NS\n* CSE 6242 DVA\n* ISYE 6420 Bayes\n* CS 7643 DL\n* CS 6476 CV\n* CS 7642 RL\n* CSE 6250 BD4H\n[三R]Free Electives (15 hours)\nMay be any courses offered through the OMSCS program.\n[一R]Core\n机器学习方向有两门必修课GA和ML，是OMSCS项目里的大杀器。有些同学上了九门水课觉得不难，上到GA重修三次甚至直接退学。还有很多人上到ML被老师玩死直接换到其他方向。\n[二R]Electives\n机器学习方向有十门electives，从中至少选三门。我选了ML4T, NLP, DL,和RL。DL和RL这两门硬核课程推荐有计算机和微积分基础的同学上。ML4T和NLP属于你花够了时间就一定能拿A。\n\t\n这是门课按照难度分成三个梯队：\n\t\n[绿色心形R]低等难度\n适合零基础的同学以及没有太多时间上课的同学。只是想水过ML的三门electives的同学们盲选AIES，ML4T，NLP就行。\n水分从多到少排名：AIES>ML4T>NLP>NS\n\t\n[黄色心形R]中等难度\nDVA和Bayes。它俩rating在ML electives排列倒数第二第三，除非是你有工作上的刚需，不然不推荐上这两门课。\n[红色心形R]高等难度\nDL，CV，RL，BD4H，这四门课的评分都挺高，但是CV，RL，BD4H的任课老师都陆续从gatech跑路后评分都有所下降，建议同学们自己去omscentral和reddit上查看近期评价。我上了DL和RL都很喜欢，强烈推荐给想要挑战自己的同学。\n\t\n#留学申请指南[话题]#  #留学申请季[话题]# #留学生活[话题]# #OMSCS[话题]# #omscs[话题]# #gatech[话题]# #转码[话题]# #北美转码[话题]# #转码项目[话题]# #天坑专业[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问没上过ML以及其他的machine learning的课，但是上过AI可以直接上DL这门课吗",
+      "sourceRef": "comment:67592b67000000001501d567",
+      "commentId": "67592b67000000001501d567",
+      "likes": 0,
+      "author": "是猪猪呀"
+    },
+    {
+      "type": "sub_comment",
+      "text": "上了ML也对DL没有帮助[偷笑R][偷笑R] 个人推荐你会微积分就可以上了，最好也会numpy和PyTorch",
+      "sourceRef": "comment:67592d36000000000c026f2c",
+      "commentId": "67592d36000000000c026f2c",
+      "likes": 1,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "评测太良心了，可惜国内在读生不能申请[失望R]",
+      "sourceRef": "comment:67260c5e000000001b00473a",
+      "commentId": "67260c5e000000001b00473a",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你有本科学位就可以申请啦，人不在美国也可以的，反正不给你发F1签证",
+      "sourceRef": "comment:672613c20000000002005b63",
+      "commentId": "672613c20000000002005b63",
+      "likes": 2,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "请教下7461 ML lecture不行，有什么其他视频或资源可以学吗",
+      "sourceRef": "comment:68aacce70000000030021979",
+      "commentId": "68aacce70000000030021979",
+      "likes": 0,
+      "author": "是猪猪呀"
+    },
+    {
+      "type": "sub_comment",
+      "text": "coursera Machine learning by Andrew Ng",
+      "sourceRef": "comment:68b5413e000000000b02cd2f",
+      "commentId": "68b5413e000000000b02cd2f",
+      "likes": 0,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "nlp很画时间吗",
+      "sourceRef": "comment:67263f4d000000001a013b49",
+      "commentId": "67263f4d000000001a013b49",
+      "likes": 1,
+      "author": "CC✨小吃家"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第一次用PyTorch的话学习语法和debug会多花点时间一周15-20小时，像我这种用过PyTorch的经常会忘记了这门课的存在一周5小时吧",
+      "sourceRef": "comment:67264743000000001b00611a",
+      "commentId": "67264743000000001b00611a",
+      "likes": 1,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "请问为什么不推荐DVA？",
+      "sourceRef": "comment:676da54600000000100186ff",
+      "commentId": "676da54600000000100186ff",
+      "likes": 0,
+      "author": "钱木木君是仙女阿喂"
+    },
+    {
+      "type": "sub_comment",
+      "text": "大多数时间都在学软件怎么用，不是算法。你工作上用不上这些软件的话，这门课就很无聊还很花时间",
+      "sourceRef": "comment:676e22b5000000001102f888",
+      "commentId": "676e22b5000000001102f888",
+      "likes": 1,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "BD4H是哪个学期改版了呀？",
+      "sourceRef": "comment:675bf1d0000000000f030ed9",
+      "commentId": "675bf1d0000000000f030ed9",
+      "likes": 0,
+      "author": "彩虹下的约定"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不清楚具体时间，2024 Spring已经是新版本了，据说很水",
+      "sourceRef": "comment:675bf4270000000011019a99",
+      "commentId": "675bf4270000000011019a99",
+      "likes": 1,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "太有帮助了！！！非常感谢！！[飞吻R]",
+      "sourceRef": "comment:67262460000000001a03108b",
+      "commentId": "67262460000000001a03108b",
+      "likes": 0,
+      "author": "小红薯69E4ED33"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[萌萌哒R][萌萌哒R]",
+      "sourceRef": "comment:672628ee0000000002005c89",
+      "commentId": "672628ee0000000002005c89",
+      "likes": 0,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "这是网课？",
+      "sourceRef": "comment:6725f37b000000001b03483b",
+      "commentId": "6725f37b000000001b03483b",
+      "likes": 0,
+      "author": "L_K史高治"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是网课，但是跟在校同样的学位。建议看置顶的项目介绍和申请篇哦",
+      "sourceRef": "comment:6725f3f3000000001b036ece",
+      "commentId": "6725f3f3000000001b036ece",
+      "likes": 0,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "[石化R]DL用numpy造轮子？全部作业都是？不科学啊，不都是用pytorch吗？",
+      "sourceRef": "comment:696aba6f000000000f02e721",
+      "commentId": "696aba6f000000000f02e721",
+      "likes": 0,
+      "author": "Momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "qi前半部分numpy造轮子，后半部分调包pytorch做META公开赛",
+      "sourceRef": "comment:696ad7d500000000090345c5",
+      "commentId": "696ad7d500000000090345c5",
+      "likes": 0,
+      "author": "蘭雪的旅游日记"
+    },
+    {
+      "type": "comment",
+      "text": "请问DL和RL建议先学哪个？",
+      "sourceRef": "comment:67265391000000001a01ab06",
+      "commentId": "67265391000000001a01ab06",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "从知识点到调的包都没有重合，RL比DL难一个等级，先学DL吧mentally prepare",
+      "sourceRef": "comment:6726544f000000001b00664d",
+      "commentId": "6726544f000000001b00664d",
+      "likes": 1,
+      "author": "蘭雪的旅游日记"
+    }
+  ]
+}

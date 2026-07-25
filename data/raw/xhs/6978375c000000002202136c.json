@@ -1,0 +1,362 @@
+{
+  "note_id": "6978375c000000002202136c",
+  "url": "https://www.xiaohongshu.com/explore/6978375c000000002202136c?xsec_token=ABoVOWimeNNhizDCnsBnJ3icxrn3AZDNxStJOOv9STW4E=",
+  "fetched_at": 1784951766.4199767,
+  "note": {
+    "xsecToken": "ABoVOWimeNNhizDCnsBnJ3icxrn3AZDNxStJOOv9STW4E=",
+    "title": "2个不懂行的傻子Reviewer给了4分",
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo",
+        "height": 972,
+        "width": 1440,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251156/b7982ad27e1e6953fae7ab4ede65fcfb/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nd_prv_wgth_jpg_3",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251156/b7982ad27e1e6953fae7ab4ede65fcfb/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251156/b9512983b93a85d409e298b81b5e94cc/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251156/b9512983b93a85d409e298b81b5e94cc/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e4b88d100000000010023d8",
+        "name": "LLM",
+        "type": "topic"
+      },
+      {
+        "id": "624d11eb000000000101e223",
+        "name": "大模型",
+        "type": "topic"
+      },
+      {
+        "id": "5e06aec400000000010082fe",
+        "name": "科研学习",
+        "type": "topic"
+      },
+      {
+        "id": "620cd421000000000100130c",
+        "name": "人工智能",
+        "type": "topic"
+      },
+      {
+        "id": "633743a7000000000101d077",
+        "name": "iclr",
+        "type": "topic"
+      },
+      {
+        "id": "5c2cd9f0000000000903b9e2",
+        "name": "ac",
+        "type": "topic"
+      },
+      {
+        "name": "论文",
+        "type": "topic",
+        "id": "5beb8aaf91cb280001037338"
+      },
+      {
+        "id": "5be635a9d111a50001a4436e",
+        "name": "科研",
+        "type": "topic"
+      },
+      {
+        "id": "6211cf110000000001009638",
+        "name": "人类高质量科研工具",
+        "type": "topic"
+      },
+      {
+        "id": "53f56345b4c4d64f5852a861",
+        "name": "review",
+        "type": "topic"
+      }
+    ],
+    "time": 1769486172000,
+    "noteId": "6978375c000000002202136c",
+    "type": "normal",
+    "desc": "非常粗浅的从理论上分析了\n为什么RL可以更好保持模型原有能力\n2个不懂行的傻子Reviewer给了4分\n但是但是，最后中了\n感谢ICLR，AC和PC们的认真工作\n今年一定要搞一个高质量的自动评审系统\n把这些傻子reviewer去掉，太影响论文评审#LLM[话题]# #大模型[话题]# #科研学习[话题]# #人工智能[话题]# #iclr[话题]# #ac[话题]# #论文[话题]# #科研[话题]# #人类高质量科研工具[话题]# #review[话题]#",
+    "user": {
+      "userId": "65b78c0c000000000d01cf05",
+      "nickname": "张奇",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k6h1eglj46g5pdnhg63bjo5lc4gohg",
+      "xsecToken": "ABGg7vf_DjGmEnjjdzV7b97jNVK65xMH1Jp02Zo6lsLyc="
+    },
+    "interactInfo": {
+      "likedCount": "78",
+      "commentCount": "8",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "22",
+      "shareCount": "61",
+      "followed": false
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1769486173000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "subCommentCursor": "697da3ef000000000600f9b8",
+      "subCommentHasMore": true,
+      "status": 0,
+      "userInfo": {
+        "userId": "642af2a500000000290146a3",
+        "nickname": "何人楚舞我楚狂",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/661ca062b81632d072bc325b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6NCaxgVNUJhYvH2ek9dSkW_7m_FjpDTRSPSlwnt4sUc="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "0",
+          "targetComment": {
+            "id": "697850980000000005032229",
+            "userInfo": {
+              "userId": "642af2a500000000290146a3",
+              "nickname": "何人楚舞我楚狂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/661ca062b81632d072bc325b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6NCaxgVNUJhYvH2ek9dSkW_7m_FjpDTRSPSlwnt4sUc="
+            }
+          },
+          "invalid": false,
+          "id": "697da3ef000000000600f9b8",
+          "content": "@暴食海獭",
+          "atUsers": [
+            {
+              "nickname": "暴食海獭",
+              "aiAgent": false,
+              "xsecToken": "ABiVKLLUaDON0Kx8SuBnoiQBr2QnMJ8EvFBgM0KzfacEo=",
+              "userId": "6488173d000000000f00773d"
+            }
+          ],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312oujo7jho305p674pl3kteej6qfsb0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABS9seweIXjETGynBAu-w_XBGR-EQtU9Zze-_GD-0Kc0o=",
+            "userId": "64c7266a000000000e0275ce",
+            "nickname": "古德寺大帝"
+          },
+          "showTags": [],
+          "createTime": 1769841647000,
+          "ipLocation": "湖北",
+          "noteId": "6978375c000000002202136c",
+          "status": -2
+        }
+      ],
+      "id": "697850980000000005032229",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "31",
+      "subCommentCount": "2",
+      "invalid": false,
+      "noteId": "6978375c000000002202136c",
+      "content": "赶紧引入隐藏分elo机制吧，菜鸟审菜鸟，高手审高手[doge]",
+      "createTime": 1769492633000,
+      "ipLocation": "上海",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "invalid": false,
+      "id": "697987fd0000000008030451",
+      "status": 0,
+      "userInfo": {
+        "userId": "673f48da0000000010002024",
+        "nickname": "小红薯673F4E41",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2epKoaOLpcH7wTHTbaSQmkksryXnVHrL4NX94RwRZgg="
+      },
+      "showTags": [],
+      "createTime": 1769572350000,
+      "ipLocation": "新加坡",
+      "subCommentCount": "0",
+      "subComments": [],
+      "likeCount": "2",
+      "subCommentCursor": "",
+      "noteId": "6978375c000000002202136c",
+      "content": "还是说如今审稿早已形成了秘密的小圈子，不在圈内者一律[doge]",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "userId": "5d9c693a000000000100856f",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316kd91hi0s6g5ncsd4t091bfod4ea30?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_tGLIpbr9k99dURT5NYvk1Rf5mgGEcxLlDH2Fyssx_o="
+      },
+      "showTags": [],
+      "createTime": 1769490317000,
+      "subCommentHasMore": false,
+      "id": "6978478d000000000600c655",
+      "status": 0,
+      "subComments": [],
+      "noteId": "6978375c000000002202136c",
+      "content": "不如ai审稿",
+      "likeCount": "1",
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "liked": false,
+      "likeCount": "3",
+      "showTags": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "697ae238000000000b03631a",
+      "noteId": "6978375c000000002202136c",
+      "content": "给reviewer发钱才是正途",
+      "atUsers": [],
+      "createTime": 1769660984000,
+      "ipLocation": "安徽",
+      "subCommentCount": "0",
+      "status": 0,
+      "userInfo": {
+        "userId": "67a44104000000000d00a629",
+        "nickname": "小红薯67A54557",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1uTP1D8wKvvo1gW9bdok0QKRMp1SIRDZF1pEZw4fWnA="
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "68870dc3000000000d02fa4a",
+        "nickname": "硝酸！",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p5pfbacic005q471n1jduia9vu3c08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbrMVsKGMVxY51sCoqW8Cqk8dldDgf0FG1Hujxf4i97A="
+      },
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "6978375c000000002202136c",
+      "status": 0,
+      "subComments": [],
+      "invalid": false,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "0",
+      "id": "69799fcd000000000601cbe5",
+      "likeCount": "1",
+      "createTime": 1769578445000,
+      "ipLocation": "上海",
+      "content": "看到认识的人了🤔",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6978375c000000002202136c",
+      "status": -2,
+      "liked": false,
+      "subCommentHasMore": false,
+      "id": "697987c9000000000b0367b8",
+      "content": "为何老师和交大穆老师纷纷出离愤怒[doge]",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1769572297000,
+      "ipLocation": "新加坡",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "673f48da0000000010002024",
+        "nickname": "小红薯673F4E41",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2epKoaOLpcH7wTHTbaSQmkksryXnVHrL4NX94RwRZgg="
+      },
+      "invalid": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 给分",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "2个不懂行的傻子Reviewer给了4分",
+      "user": {
+        "nickName": "张奇",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k6h1eglj46g5pdnhg63bjo5lc4gohg?imageView2/2/w/80/format/jpg",
+        "userId": "65b78c0c000000000d01cf05",
+        "nickname": "张奇",
+        "xsecToken": "ABfRtW5s2Ns4Dvzg-e2CqzpT201fHeO3OFTLZw-qoVBSs="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "78",
+        "collected": false,
+        "collectedCount": "22",
+        "commentCount": "8",
+        "sharedCount": "61"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251155/a3e18cb962200cf1f674ebb7aafe83b8/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nc_n_webp_prv_1",
+        "height": 972,
+        "width": 1440,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251155/7b9fd321244428ed211a5a6018212a0b/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 972,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251155/7b9fd321244428ed211a5a6018212a0b/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251155/a3e18cb962200cf1f674ebb7aafe83b8/notes_pre_post/1040g3k031rr2u7mv2g005pdnhg63bjo5cpon8jo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-27"
+        }
+      ]
+    },
+    "xsecToken": "ABoVOWimeNNhizDCnsBnJ3icxrn3AZDNxStJOOv9STW4E=",
+    "id": "6978375c000000002202136c",
+    "index": 3,
+    "exposed": true,
+    "trackId": "6978375c000000002202136c"
+  }
+}

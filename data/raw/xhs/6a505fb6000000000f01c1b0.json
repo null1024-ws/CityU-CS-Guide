@@ -1,0 +1,349 @@
+{
+  "note_id": "6a505fb6000000000f01c1b0",
+  "url": "https://www.xiaohongshu.com/explore/6a505fb6000000000f01c1b0?xsec_token=ABrcxYiqKH96tt9GuGY2npSf85mDYl6KEnn9TGdnpWhws=",
+  "fetched_at": 1784953548.4245572,
+  "note": {
+    "xsecToken": "ABrcxYiqKH96tt9GuGY2npSf85mDYl6KEnn9TGdnpWhws=",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a505fb6000000000f01c1b0",
+    "type": "normal",
+    "title": "工院这个证书质感真不赖",
+    "desc": "认真学习发个小奖状哈哈\n#cityu[话题]# #deanlist[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "42",
+      "commentCount": "9",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "2",
+      "shareCount": "4"
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio",
+        "height": 2560,
+        "width": 1920,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251225/41dfb489a15b1fd92444488e9362883c/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251225/dad3667911328266374dfe12c321bcf7/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251225/41dfb489a15b1fd92444488e9362883c/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251225/dad3667911328266374dfe12c321bcf7/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "livePhoto": false
+      }
+    ],
+    "time": 1783652278000,
+    "lastUpdateTime": 1783652279000,
+    "user": {
+      "userId": "649dc749000000002a036493",
+      "nickname": "武缇",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317cr87at0s005p4tot4qmp4j2vubhoo",
+      "xsecToken": "ABgGVdEco4JPtKFKLDG3__lrIu9HdouKBPGRa3p8T8asE="
+    },
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "id": "60cbfa1f0000000001006ace",
+        "name": "deanlist",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "ipLocation": "中国香港"
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "createTime": 1783679941000,
+      "ipLocation": "湖南",
+      "subComments": [
+        {
+          "ipLocation": "广东",
+          "id": "6a50cdfe000000000b038aca",
+          "atUsers": [],
+          "createTime": 1783680510000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "63cd3c7800000000260071c5",
+              "nickname": "Justin",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322bcma44nu005oud7hs9gse5npmv5o8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPDBZv80hX_yIFgtV1YFhZYYain_uA5fVKAsdxB-Wlgg="
+            },
+            "id": "6a50cbc5000000001500ad4a"
+          },
+          "invalid": false,
+          "noteId": "6a505fb6000000000f01c1b0",
+          "status": 0,
+          "content": "不用申请，也没有奖学金，成绩达标以后系里会直接发邮件[棒R]",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "649dc749000000002a036493",
+            "nickname": "武缇",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317cr87at0s005p4tot4qmp4j2vubhoo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsoukv2eyvwZaaigO_6ZkKiWbsWjAgDrM-XdYdAYWx-8="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "id": "6a50cbc5000000001500ad4a",
+      "status": 0,
+      "userInfo": {
+        "userId": "63cd3c7800000000260071c5",
+        "nickname": "Justin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322bcma44nu005oud7hs9gse5npmv5o8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPDBZv80hX_yIFgtV1YFhZYYain_uA5fVKAsdxB-Wlgg="
+      },
+      "subCommentCursor": "6a50cdfe000000000b038aca",
+      "noteId": "6a505fb6000000000f01c1b0",
+      "content": "请问这个是有奖学金的吗 然后是怎么申请的呀",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a505fb6000000000f01c1b0",
+      "status": 0,
+      "liked": false,
+      "createTime": 1783764099000,
+      "ipLocation": "北京",
+      "subCommentCount": "1",
+      "subCommentCursor": "6a54adac000000000d021c00",
+      "invalid": false,
+      "id": "6a5214820000000029026ae2",
+      "content": "这个需要达到多少？才有呢",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "631def3a000000002303a40b",
+        "nickname": "北京朝阳抒洋老师",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9dqoctm86g5oottst8v90blv6rug8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIHNBfJclNHOQZ5jnpMTRECZQCiJFazF0x4rX2Vq0ugM="
+      },
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "小红薯65F5A374",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32011lq4ni0005pfkh3619l8tmjq9hto?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB86jQQ4_Ige0ylrKlm0gSGtLTI60KG7erDyO_aVB8MTI=",
+            "userId": "65f488cc000000000500d51d"
+          },
+          "showTags": [],
+          "createTime": 1783934381000,
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a5214820000000029026ae2",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABIHNBfJclNHOQZ5jnpMTRECZQCiJFazF0x4rX2Vq0ugM=",
+              "userId": "631def3a000000002303a40b",
+              "nickname": "北京朝阳抒洋老师",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s9dqoctm86g5oottst8v90blv6rug8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6a54adac000000000d021c00",
+          "noteId": "6a505fb6000000000f01c1b0",
+          "content": "3.7",
+          "liked": false
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "noteId": "6a505fb6000000000f01c1b0",
+      "content": "sem B 的什麼時候發？",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCursor": "",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "68e69d9f0000000037006a15",
+        "nickname": "吾乃天選之人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ns79u756g6g5q76jmftoqgldbbufv8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABk9JauaIWfklObyKyFwdijy0NEPWLDyt6j3FqQ7WgzmQ="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a532259000000002b0027aa",
+      "createTime": 1783833177000,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v6ouak854005nu4qo809b7ehakt91g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNUfVqQrtf3h4M5VHK8NTcvQL4sjWm-vDiVEOXSP2cMI=",
+        "userId": "5fc4d610000000000100acee",
+        "nickname": "user_281362"
+      },
+      "subComments": [],
+      "id": "6a55a2d4000000002a02db86",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1783997140000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "6a505fb6000000000f01c1b0",
+      "status": 0,
+      "content": "CB就没有纸质版💔",
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "以前没有诶 只有毕业证上写着with distinction[doge]",
+      "liked": false,
+      "userInfo": {
+        "userId": "5c9f5f78000000001001dd59",
+        "nickname": "卷毛小鼻嘎",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iksje5i7q005n4vbts43naplik17k0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB53j4C14InuMNpbW6RIhqiEvD16lzwndvTyRMdEnHqfs="
+      },
+      "createTime": 1783694637000,
+      "ipLocation": "上海",
+      "subCommentCount": "0",
+      "noteId": "6a505fb6000000000f01c1b0",
+      "status": 0,
+      "invalid": false,
+      "showTags": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a51052d00000000090173e3",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "中国香港",
+      "id": "6a53226a000000002902e98c",
+      "noteId": "6a505fb6000000000f01c1b0",
+      "createTime": 1783833194000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": 0,
+      "subComments": [],
+      "invalid": false,
+      "content": "year one 有沒有？",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABk9JauaIWfklObyKyFwdijy0NEPWLDyt6j3FqQ7WgzmQ=",
+        "userId": "68e69d9f0000000037006a15",
+        "nickname": "吾乃天選之人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ns79u756g6g5q76jmftoqgldbbufv8?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS6536",
+  "search_item": {
+    "noteCard": {
+      "displayTitle": "工院这个证书质感真不赖",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317cr87at0s005p4tot4qmp4j2vubhoo?imageView2/2/w/80/format/jpg",
+        "userId": "649dc749000000002a036493",
+        "nickname": "武缇",
+        "xsecToken": "ABzLaywlDlPG5mjJ2fhmVxN82sm6P2avmyKtWgGt8z_KM=",
+        "nickName": "武缇"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "42",
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "9",
+        "sharedCount": "4"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251225/400a215570c00b4a13cfee0a3c82c95f/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251225/eae9f792104033603b91c52e0937bd4c/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nc_n_webp_prv_1",
+        "height": 2560,
+        "width": 1920
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251225/400a215570c00b4a13cfee0a3c82c95f/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251225/eae9f792104033603b91c52e0937bd4c/notes_pre_post/1040g3k0322e5p9p5n4005p4tot4qmp4jl2dsjio!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2560,
+          "width": 1920
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-10"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABrcxYiqKH96tt9GuGY2npSf85mDYl6KEnn9TGdnpWhws=",
+    "id": "6a505fb6000000000f01c1b0",
+    "modelType": "note",
+    "index": 11,
+    "exposed": false,
+    "trackId": "6a505fb6000000000f01c1b0"
+  }
+}

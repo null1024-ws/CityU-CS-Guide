@@ -1,0 +1,18 @@
+{
+  "note_id": "6a6418660000000014005acd",
+  "url": "https://www.xiaohongshu.com/explore/6a6418660000000014005acd?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bh5bnqAX1MBE3htipdbRdug=",
+  "fetched_at": 1784950060.5235815,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityuHK Msc CS选课指南（非官方）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1️⃣数据来源\n课程基本信息来自 CityU CS 官网。评价信息来自小红书帖子及评论区，通过 xiaohongshu-cli 采集并整理。\n2️⃣可信度说明\n已确认 — 2 篇及以上独立帖子说法一致，或帖子与评论区相互印证\n有报道 — 仅 1 篇来源提及，或同一帖子内重复提及\n存疑 — 帖子与评论区或其他来源说法冲突\n3️⃣免责声明\n本站为非官方选课参考，不保证信息完整或最新。选课请以 CityU 官方通知与课程大纲为准。\n\t\n在线预览: https://null1024-ws.github.io/CityU-CS-Guide/\nGithub: https://github.com/null1024-ws/CityU-CS-Guide（欢迎star）\n\t\n#选课[话题]# #vibecoding[话题]# #港城大[话题]# #香港城市大学[话题]# #cityu选课[话题]# #港城计算机[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

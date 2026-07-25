@@ -1,0 +1,61 @@
+{
+  "note_id": "6a4e15cf000000000d00bc00",
+  "url": "https://www.xiaohongshu.com/explore/6a4e15cf000000000d00bc00?xsec_token=ABZByMrWOh3Bg_p8_wTguLhOE4dASlcjqxlrpArio7RI4=",
+  "fetched_at": 1784955000.6226845,
+  "search_query": "港城 CS6537",
+  "search_item": {
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 1744,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251249/f1fb21ecfcbc245dd5711032abbfc807/oss-sg/notes_pre_post/1040g3mo322bucau7ni005pcvqdk8gipfh1hudhg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251249/ab2c09b6fb34fa1898f89f6d55525dd6/oss-sg/notes_pre_post/1040g3mo322bucau7ni005pcvqdk8gipfh1hudhg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1308
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-08"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城cs自费博士建议读么",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "659fd3680000000022004b2f",
+        "nickname": "Vincenzo",
+        "xsecToken": "ABSwRkcLp8BW2ZOobYLKrPLTw14cjkuVDA5aEFf_HHry0=",
+        "nickName": "Vincenzo"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "3",
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "11",
+        "sharedCount": "1"
+      },
+      "cover": {
+        "height": 1308,
+        "width": 1744,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251249/f1fb21ecfcbc245dd5711032abbfc807/oss-sg/notes_pre_post/1040g3mo322bucau7ni005pcvqdk8gipfh1hudhg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251249/ab2c09b6fb34fa1898f89f6d55525dd6/oss-sg/notes_pre_post/1040g3mo322bucau7ni005pcvqdk8gipfh1hudhg!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABZByMrWOh3Bg_p8_wTguLhOE4dASlcjqxlrpArio7RI4=",
+    "id": "6a4e15cf000000000d00bc00",
+    "modelType": "note",
+    "index": 9,
+    "exposed": true,
+    "trackId": "6a4e15cf000000000d00bc00"
+  }
+}

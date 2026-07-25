@@ -1,0 +1,112 @@
+{
+  "note_id": "677ca41c000000001703a42a",
+  "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
+  "fetched_at": 1784953597.6035852,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5351",
+    "CS5481",
+    "CS5487"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu cs semA 课程测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "天坑专业转码，只会Python。\n所有课都不点名，考前老师或多或少都会划重点帮助复习，开卷的考试需要打印资料可以用Cityu给的免费1500张额度打印。由于课去得很少，不清楚老师讲课水平。\n1.CS5187 vision and image\n2*assignment30%+个人project20%+final50%开卷\n这门课我愿称之为非ban必选的一门课，考试十道多选题+四道大题都很简单（最后一节复习课一定要去上），project是题目自拟，大善人老师，听他说没给过B以下。\n2.CS5222 计网 必修课\n3*assignment15%+research report5%+wireshark实验10%+final70%开卷\nassignment都是那本自顶向下的课后习题，抄答案别全抄，逮住了会给零分。final复习重点放在tutorial上面，考试11个大题根本写不完（考了两个以上的往年题），对于我这种零基础的真的是绝望[捂脸R]，看群里有人被挂了\n3.CS5351 software engineering 必修课\nquiz20%+research paper10%+group project30%+final40%半开卷（三张正反面A4 cheat paper）\n期中考试全开卷带电脑都行，得分情况见p2，这门课完全没学懂，Java更是一窍不通，折磨\n4.CS5481 data engineering 必修课\n2*assignment30%+group project30%+final40%闭卷\n期末考了三个正则化表达式，一个sql大题，b+树，还有recommender system。建议把所有PPT都看一遍，只看那个reviewPPT拿到卷子容易傻眼。期末答得很差，出分前看了眼project才给了70分，以为这门课要挂了，老师你是我滴神！\n5.CS5487 机器学习\n9*theory assignment10%+2*programming assignment20%+midterm10%（一张单面手写）+project30%+final30%（一张手写双面a4cheatpaper）\n作业都可以迟交，而且答案github上都有，project题目自拟，也可以自己一个人不用合作。midterm考的是MLE,MAP,Bayesian estimation三道大题，得分情况见p3，final考的是EM,BDR,Adaptive SVM,Kernel perceptron四道大题，看了往年题好像翻来覆去都是这几个考点，我就考前花了一天把这几个考点的problem set的解法流程全写在cheat paper上了，考试都用上了，这门课虽然没有完全学懂，但是拿分还是挺简单的。\n总结：cs5187必选，cs5487没想象的难，三门必修考前突击拿B还是没问题的。多多利用github，coursehero，gpt，找个时间我会把我收集到的往年题等资料上传到github。github链接请移步下一个帖子。#cityu[话题]# #cs[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "同学，你们5187是wang shiqi老师上的吗",
+      "sourceRef": "comment:677f8517000000002103defa",
+      "commentId": "677f8517000000002103defa",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "学长，如果想过得愉快一点的话，CS5487和guide study这两门课二选一应该选哪门呀[笑哭R]",
+      "sourceRef": "comment:68a4955b000000002603d365",
+      "commentId": "68a4955b000000002603d365",
+      "likes": 0,
+      "author": "易昂杨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "cs5487虽然说作业都有答案，然后考试基本上从题库里出，但是还是需要花时间的。guided study 就是联系老师做个小课题，然后线上答辩，轻松应该还是guided study轻松一些",
+      "sourceRef": "comment:68a531a400000000300271e4",
+      "commentId": "68a531a400000000300271e4",
+      "likes": 0,
+      "author": "十一"
+    },
+    {
+      "type": "comment",
+      "text": "您好，cs5222是哪个老师呀",
+      "sourceRef": "comment:68e665fe0000000039003c9a",
+      "commentId": "68e665fe0000000039003c9a",
+      "likes": 0,
+      "author": "阿白"
+    },
+    {
+      "type": "sub_comment",
+      "text": "忘了[失望R]",
+      "sourceRef": "comment:68e763820000000033020341",
+      "commentId": "68e763820000000033020341",
+      "likes": 0,
+      "author": "十一"
+    },
+    {
+      "type": "comment",
+      "text": "怎么大家都这么厉害[哭惹R]羡慕哭了",
+      "sourceRef": "comment:677cb93d000000001b031fdd",
+      "commentId": "677cb93d000000001b031fdd",
+      "likes": 2,
+      "author": "西柚气泡霜"
+    },
+    {
+      "type": "comment",
+      "text": "学长好！请问往年题可以在哪里找呀？",
+      "sourceRef": "comment:68b7a6490000000030022a8d",
+      "commentId": "68b7a6490000000030022a8d",
+      "likes": 0,
+      "author": "松子玉米"
+    },
+    {
+      "type": "comment",
+      "text": "蹲一个github链接",
+      "sourceRef": "comment:68628bc4000000000602fd83",
+      "commentId": "68628bc4000000000602fd83",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "蹲GitHub[鼓掌R]",
+      "sourceRef": "comment:6823353a00000000080264d6",
+      "commentId": "6823353a00000000080264d6",
+      "likes": 0,
+      "author": "Hexc"
+    },
+    {
+      "type": "comment",
+      "text": "转码也比我垃圾科班学的好[哭惹R]",
+      "sourceRef": "comment:677e47a2000000001a038141",
+      "commentId": "677e47a2000000001a038141",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "蹲一个github链接",
+      "sourceRef": "comment:677cd627000000002200c0f5",
+      "commentId": "677cd627000000002200c0f5",
+      "likes": 0,
+      "author": "npm-i"
+    }
+  ]
+}

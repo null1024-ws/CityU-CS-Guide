@@ -1,0 +1,40 @@
+{
+  "note_id": "6a0c17bd000000000702ea2c",
+  "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
+  "fetched_at": 1784873944.615983,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5351",
+    "CS5481",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu CS课程评价(一)",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Semester A\n\t\nCS5351 software engineering\n课程内容主要涵盖软工开发的知识(code review，debug等)，平时包含两次quiz，大部分是场景题，加起来占比20％左右，期末考试题量大，很可能做不完; 题型大多在前两次quiz出现过。group project要求也挺多的，算是workload比较大的一节课了。\n\t\nCS5481 data engineering\n纯纯背书课，期末闭卷考PPT中的概念和理解。有平时作业和group project。老师人很不错，只要不是特别摆烂，没有挂的风险。\n\t\nCS5222 computer network\n内容和本科计网内容一样，从应用层讲到数据链路层，有平时作业和一个wireshark实验，但难度都不大。期末考试难度一般，仔细复习tutorial就行，我们这届是考了几道原题。\n\t\nCS5187 Vision and Image\n好课推荐，平时没怎么去上过课，期末考试主要是不定项选择和计算题。主要看看PPT里的题目和tutorial就OK。\n\t\nEC5001 introduction to EC\n看名字就知道这门课和5481差不多也是背书课，分两个老师，第一个老师会查出勤。类似于大学里的通识课，不追求GPA的话，这门课可以很摆。期末前一天下PPT开始看都来得及\n\t\n上述课程除ec外均无考勤\n\t\n#cityu[话题]#  #cityu选课[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "你好，想问一下。这届的CS全是92么",
+      "sourceRef": "comment:6a0e7c000000000021011c82",
+      "commentId": "6a0e7c000000000021011c82",
+      "likes": 0,
+      "author": "6655龙马"
+    },
+    {
+      "type": "comment",
+      "text": "[色色R]",
+      "sourceRef": "comment:6a0c2f45000000002a0319c8",
+      "commentId": "6a0c2f45000000002a0319c8",
+      "likes": 0,
+      "author": "想发芽的豆子"
+    }
+  ]
+}

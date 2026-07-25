@@ -1,0 +1,109 @@
+{
+  "note_id": "6a201b830000000038036cd1",
+  "url": "https://www.xiaohongshu.com/explore/6a201b830000000038036cd1?xsec_token=ABBFUe_2k9MNx-IBWab3v3qki_39uFuaYFfbScKLPSaR8=",
+  "fetched_at": 1784955732.9471662,
+  "course_codes": [
+    "CS5446",
+    "CS5462"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🇸🇬NUS MComp Sem2 课程体验",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5446 AI Planning and Decision Making\n💼课程内容\n一节课两个老师上 1️⃣前一半讲的是单agent强化学习 从MDP SARSA Q-Learning 一直到Policy Gradient PPO 2️⃣后一半是POMDP Game Theory 还有Extensive Form Games 总之就是很深入的博弈论\n\t\n🧑‍🏫上课风格\n1️⃣上前一半老师的课必须带水 讲的太干 课程安排又太紧 slides上大量的内容 节奏也快 很多时候看懂了他的example 但是也不太会 想要学会要认真课下复习那种 2️⃣后一半老师相对来讲更有意思一些 内容没有那么紧 难点主要在博弈论的建模 概念偏多 不算特别深入 但是一节课要接受大量的概念轰炸\n\t\n🖊️考核\n分成两次coding作业 一个mini-project 还有两次quiz\ncoding作业normal水平 mini-project根据上课的两个部分分成两个主题 gridworld做传统rl或者做game theory相关 需要写报告 都是小组作业 三人一组\n两次quiz简直王炸💥级别\nquiz1 期中考前一半 也就是到PPO 用自己的笔记本答题 考试内容和学的难度完全不同 大家普遍哀嚎连天 即使在老师批卷手松的情况下 也就是得了一点点的分… 最后也没有公布这次考试的statistics 还发了邮件安慰大家说不要难过\nquiz2 老师答应我们会考的简单一些 也就是刚刚及格\n\t\nProf：Rizki & Ling Chun Kai\n\t\nCS5462 Machine Learning Systems\n一门很正常的课 作业和tutorial都蛮简单的 但是最后project大家都蛮卷的 三个方向 做LLM serving/Agentic Application(n8n) / Edge AI 四人一组\n上课蛮有意思的 主要讲LLM微调 serving blabla的\n\t\nProf：Lu Yao",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "为什么我这里看课表上cs5446名字是reinforcement learning and sequential decision making，老师是leong tze yun[哭惹R]，可以问问这个老师怎么样吗",
+      "sourceRef": "comment:6a5d8c12000000002902f744",
+      "commentId": "6a5d8c12000000002902f744",
+      "likes": 0,
+      "author": "深蓝梦境"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一个代码 不同学期可能内容老师都不一样 这个老师不太清楚",
+      "sourceRef": "comment:6a5d8ee9000000001403a2da",
+      "commentId": "6a5d8ee9000000001403a2da",
+      "likes": 1,
+      "author": "两个氨基酸"
+    },
+    {
+      "type": "comment",
+      "text": "来支持了",
+      "sourceRef": "comment:6a5d919a000000002b027018",
+      "commentId": "6a5d919a000000002b027018",
+      "likes": 0,
+      "author": "Pigcasso-"
+    },
+    {
+      "type": "comment",
+      "text": "来支持了",
+      "sourceRef": "comment:6a201d2b00000000290129db",
+      "commentId": "6a201d2b00000000290129db",
+      "likes": 0,
+      "author": "Minisoda🥤"
+    },
+    {
+      "type": "comment",
+      "text": "咋这么厉害",
+      "sourceRef": "comment:6a209023000000002902ebda",
+      "commentId": "6a209023000000002902ebda",
+      "likes": 0,
+      "author": "谁是呆鹌呐"
+    },
+    {
+      "type": "comment",
+      "text": "来支持了",
+      "sourceRef": "comment:6a213e77000000002702ca54",
+      "commentId": "6a213e77000000002702ca54",
+      "likes": 0,
+      "author": "閑"
+    },
+    {
+      "type": "sub_comment",
+      "text": "评论区是在站队吗？",
+      "sourceRef": "comment:6a214011000000002803cf76",
+      "commentId": "6a214011000000002803cf76",
+      "likes": 0,
+      "author": "两个氨基酸"
+    },
+    {
+      "type": "comment",
+      "text": "咋这么厉害",
+      "sourceRef": "comment:6a20d7b10000000028037166",
+      "commentId": "6a20d7b10000000028037166",
+      "likes": 0,
+      "author": "mono"
+    },
+    {
+      "type": "comment",
+      "text": "来支持了",
+      "sourceRef": "comment:6a5d94370000000009015f19",
+      "commentId": "6a5d94370000000009015f19",
+      "likes": 0,
+      "author": "安分守己"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢 很有帮助[害羞R]",
+      "sourceRef": "comment:6a280864000000002901b3ac",
+      "commentId": "6a280864000000002901b3ac",
+      "likes": 0,
+      "author": "Silver Wang"
+    },
+    {
+      "type": "comment",
+      "text": "咋这么厉害",
+      "sourceRef": "comment:6a3e0901000000002a0250b0",
+      "commentId": "6a3e0901000000002a0250b0",
+      "likes": 0,
+      "author": "小酌怡情"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "note_id": "686dc41200000000200185da",
+  "url": "https://www.xiaohongshu.com/explore/686dc41200000000200185da?xsec_token=ABTC_3oE_TnlYxoS3AMkze8QU2NAfWBQSJM9bs3pFIHmU=",
+  "fetched_at": 1784953752.0450842,
+  "note": {
+    "xsecToken": "ABTC_3oE_TnlYxoS3AMkze8QU2NAfWBQSJM9bs3pFIHmU=",
+    "time": 1752024082000,
+    "lastUpdateTime": 1752024082000,
+    "type": "normal",
+    "user": {
+      "userId": "6422b4ce0000000012011f1c",
+      "nickname": "微辣炒面加肉momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2hvm91iqio03g5p12mj74i7osg8s1q18",
+      "xsecToken": "AB-7SXCBHrBjWrDKrshxGo8OT4ZemGRyAXkvGruBNCQwc="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "26",
+      "commentCount": "21",
+      "shareCount": "4",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "25",
+      "collected": false
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0",
+        "width": 828,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251229/fc58df5b1ac4e07c530db7357a896948/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251229/657683a053747ba84b0cfdf4d4190dc6/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "height": 355,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251229/fc58df5b1ac4e07c530db7357a896948/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251229/657683a053747ba84b0cfdf4d4190dc6/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "686dc41200000000200185da",
+    "title": "悉尼大学25s1MCS转码评价之COMP5318",
+    "desc": "本人双非经济学转码 经过了大半个月的折磨终于出成绩了 还是个能接受的画面就来分享一下这几门课的经历吧[棒R]\n背景：雅思6.5英语水平很差劲，来之前只学过一点点的python 其他的完全不懂\nCOMP5318:数据挖掘与机器学习（5/5）\n课程内容：介绍基础的一些机器学习模型，相关数据处理以及模型的代码实践\n教学团队：这门课今年s1是irena教的是一个长得很像菲比的老师👩‍🏫，ppt做的很好讲得很容易懂名不虚传，除此之外我要感谢我的tutor Dechuan老师是个非常负责任的中国tutor很多后面那个越南老师没讲懂的东西在tutorial里跟我们讲得一下子就理解了\n作业：一共是两个双人or三人的作业，都很友好，第一个是tutorial里的代码复现，第二个是将学过的模型进行比较然后写一份报告 作业给分都比较不错。\n考试：可以带一张打印的cs，但是我感觉我的cs都没怎么用，全记得一堆概念在上面（文科病犯了），考试题目这次很友好，好好准备不懒是可以满分的。"
+  },
+  "comments": [
+    {
+      "status": 0,
+      "content": "学5318对显卡啥要求？我看到说显卡配置不够直接云服务就能解决了？",
+      "atUsers": [],
+      "createTime": 1752108254000,
+      "ipLocation": "湖北",
+      "invalid": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "686f0cde000000000401870d",
+            "userInfo": {
+              "userId": "5da5ab2600000000010004f3",
+              "nickname": "人间抽象指南",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fa2mqcr6o005nd5lcj0817j6jvle5g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlgYQK954RT2wJs8xaUl_fc2azFwBTvqtqvleTtQ1X3Q="
+            }
+          },
+          "invalid": false,
+          "noteId": "686dc41200000000200185da",
+          "status": 0,
+          "content": "不需要啊，5318这学期对准确率没那么高",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABQgsyBRPYWoVnOgLXzyXgJlQfF4aNqyHPnu7vMsMKwds=",
+            "userId": "633d4a36000000001802d33b",
+            "nickname": "约定",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/633d4af14f5aa93b74d9db9b.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "createTime": 1752111165000,
+          "id": "686f183c000000000c014b91",
+          "likeCount": "0",
+          "ipLocation": "澳大利亚"
+        }
+      ],
+      "subCommentCursor": "686f183c000000000c014b91",
+      "id": "686f0cde000000000401870d",
+      "noteId": "686dc41200000000200185da",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "userInfo": {
+        "userId": "5da5ab2600000000010004f3",
+        "nickname": "人间抽象指南",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fa2mqcr6o005nd5lcj0817j6jvle5g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABlgYQK954RT2wJs8xaUl_fc2azFwBTvqtqvleTtQ1X3Q="
+      },
+      "subCommentCount": "10",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "63759f4b000000001f01bb2c",
+        "nickname": "Wa",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63759f4b000000001f01bb2c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0LPqGvbs1wZwoMNr8415DMyOMKslw4y5CStiiLuJqQQ="
+      },
+      "ipLocation": "澳大利亚",
+      "id": "686e1f5c0000000006007686",
+      "content": "这说明考试是不是偏文科？",
+      "createTime": 1752047453000,
+      "subCommentCount": "8",
+      "subCommentHasMore": true,
+      "noteId": "686dc41200000000200185da",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "686e7ea4000000000400fda4",
+      "subComments": [
+        {
+          "ipLocation": "澳大利亚",
+          "noteId": "686dc41200000000200185da",
+          "status": 0,
+          "userInfo": {
+            "nickname": "微辣炒面加肉momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2hvm91iqio03g5p12mj74i7osg8s1q18?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABNhQvCNQMXW4kkb9tW7zVpv1XqedrcqbZAYAAMR0TqGY=",
+            "userId": "6422b4ce0000000012011f1c"
+          },
+          "targetComment": {
+            "id": "686e1f5c0000000006007686",
+            "userInfo": {
+              "xsecToken": "AB0LPqGvbs1wZwoMNr8415DMyOMKslw4y5CStiiLuJqQQ=",
+              "userId": "63759f4b000000001f01bb2c",
+              "nickname": "Wa",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63759f4b000000001f01bb2c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "686e7ea4000000000400fda4",
+          "content": "绝不偏文科 你要是文科做笔记抄一堆概念上去 就会和主包一样白抄了",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1752071844000
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "686f316c000000001102f6b8",
+      "status": 0,
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "nickname": "微辣炒面加肉momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2hvm91iqio03g5p12mj74i7osg8s1q18?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNhQvCNQMXW4kkb9tW7zVpv1XqedrcqbZAYAAMR0TqGY=",
+        "userId": "6422b4ce0000000012011f1c"
+      },
+      "subCommentCursor": "",
+      "invalid": false,
+      "likeCount": "0",
+      "ipLocation": "澳大利亚",
+      "subCommentCount": "0",
+      "noteId": "686dc41200000000200185da",
+      "content": "那配置要买高点 毕竟会影响帧数[doge]",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1752117612000,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6536 怎么样",
+  "search_item": {
+    "id": "686dc41200000000200185da",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "微辣炒面加肉momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2hvm91iqio03g5p12mj74i7osg8s1q18?imageView2/2/w/80/format/jpg",
+        "userId": "6422b4ce0000000012011f1c",
+        "nickname": "微辣炒面加肉momo",
+        "xsecToken": "ABOIX_kjw6t1Ark8urJNmIGqRWWH8GBSFx9iODECo2m54="
+      },
+      "interactInfo": {
+        "likedCount": "25",
+        "collected": false,
+        "collectedCount": "26",
+        "commentCount": "21",
+        "sharedCount": "4",
+        "liked": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251229/8463681b7e18e70b2096a72b8bc3d1dd/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251229/77d2f098494ea5c817f3f96f7830192e/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nc_n_webp_prv_1",
+        "height": 355,
+        "width": 828
+      },
+      "imageList": [
+        {
+          "height": 355,
+          "width": 828,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251229/8463681b7e18e70b2096a72b8bc3d1dd/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251229/77d2f098494ea5c817f3f96f7830192e/notes_pre_post/1040g3k031jms1fdg32005p12mj74i7osb2s8vv0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-07-09"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "悉尼大学25s1MCS转码评价之COMP5318"
+    },
+    "xsecToken": "ABTC_3oE_TnlYxoS3AMkze8QU2NAfWBQSJM9bs3pFIHmU=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "686dc41200000000200185da"
+  }
+}

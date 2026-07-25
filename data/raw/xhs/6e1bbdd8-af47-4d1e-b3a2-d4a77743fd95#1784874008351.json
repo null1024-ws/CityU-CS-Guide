@@ -1,0 +1,39 @@
+{
+  "note_id": "6e1bbdd8-af47-4d1e-b3a2-d4a77743fd95#1784874008351",
+  "url": "https://www.xiaohongshu.com/explore/6e1bbdd8-af47-4d1e-b3a2-d4a77743fd95#1784874008351?xsec_token=ABvnen0lCchLa4kdc8BiD1tfNGq5SdXnpNCHElFqTc7ws2dWg1Y87dbgrstQvMtRbkyNQeq7Igej9E7r3f0d-TAqFeYcgLk7NK9T9dV6zvU7A=",
+  "fetched_at": 1784874026.8506987,
+  "note": {},
+  "search_query": "城大计算机硕士 选课",
+  "search_item": {
+    "id": "6e1bbdd8-af47-4d1e-b3a2-d4a77743fd95#1784874008351",
+    "model_type": "rec_query",
+    "rec_query": {
+      "source": 1,
+      "word_request_id": "6e1bbdd8-af47-4d1e-b3a2-d4a77743fd95#1784874008351",
+      "queries": [
+        {
+          "id": "cityu非网络课程选课",
+          "name": "cityu非网络课程选课",
+          "search_word": "cityu非网络课程选课"
+        },
+        {
+          "id": "香港城市大学选课流程",
+          "name": "香港城市大学选课流程",
+          "search_word": "香港城市大学选课流程"
+        },
+        {
+          "id": "大学计算机专业有选课吗",
+          "name": "大学计算机专业有选课吗",
+          "search_word": "大学计算机专业有选课吗"
+        },
+        {
+          "name": "cityu计算机科学硕士选课规划",
+          "search_word": "cityu计算机科学硕士选课规划",
+          "id": "cityu计算机科学硕士选课规划"
+        }
+      ],
+      "title": "相关搜索"
+    },
+    "xsec_token": "ABvnen0lCchLa4kdc8BiD1tfNGq5SdXnpNCHElFqTc7ws2dWg1Y87dbgrstQvMtRbkyNQeq7Igej9E7r3f0d-TAqFeYcgLk7NK9T9dV6zvU7A="
+  }
+}

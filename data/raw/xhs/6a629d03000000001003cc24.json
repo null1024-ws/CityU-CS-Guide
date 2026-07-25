@@ -1,0 +1,307 @@
+{
+  "note_id": "6a629d03000000001003cc24",
+  "url": "https://www.xiaohongshu.com/explore/6a629d03000000001003cc24?xsec_token=ABoUy-HlShwcrC-LK55FKfOkqXXYf29NCAGo4itOdBNaY=",
+  "fetched_at": 1784952297.6171894,
+  "note": {
+    "xsecToken": "ABoUy-HlShwcrC-LK55FKfOkqXXYf29NCAGo4itOdBNaY=",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a629d03000000001003cc24",
+    "type": "normal",
+    "tagList": [
+      {
+        "id": "5d88e3a9000000000103daa2",
+        "name": "宁波诺丁汉",
+        "type": "topic"
+      },
+      {
+        "id": "5f3239ad00000000010083ac",
+        "name": "UNNC",
+        "type": "topic"
+      },
+      {
+        "id": "5c28f5130000000008009809",
+        "name": "诺丁汉大学",
+        "type": "topic"
+      },
+      {
+        "name": "CS",
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5"
+      },
+      {
+        "name": "计算机",
+        "type": "topic",
+        "id": "5bfa12489c1d82000102c324"
+      },
+      {
+        "id": "669733b7000000000e02f3d2",
+        "name": "计算机新生指南",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1784847620000,
+    "title": "写给UNNC大一的CS学习资源和思路",
+    "desc": "四年前刚学 CS 的时候，我到处找\"最正确\"的路线：CSDIY、CSAPP，收藏夹塞满了。我以为只要学完足够多的课，知识体系就完整了。\n四年读完，又即将上完 CMU 的暑期学期，我把这个想法推翻了。\n先说结论：AI 时代最好的 CS 课程，不是一张固定清单，而是一套能自我更新的系统。\n对UNNC CS 大一资源我只推两门\nMIT Missing Semester 2026 version+ Harvard CS50 （有条件的，请在eduroom环境下去官网，并去做lab)\n学完这两门，你不是\"学会了 CS\"——你是有了自学后面一切的能力。这两件事差别很大。\nCSDIY 依然是一张好地图，但别打卡式刷，根据自己需求查找即可\n\t\n① AI时代CS知识没有失效，只是分成了三档\n必须内化的：抽象与接口、数据怎么流动、状态归谁管、系统为什么会崩、复杂度到底意味着什么。\n只需要认识的：设计模式、各类数据库的取舍、常见 ML 模型的适用条件——看到能认出来就够。\n随时可以检索的：命令行参数、API、语法细节、某条汇编指令怎么写。\n以前我们把三档一起背。现在第三档交给 AI，省下的时间全部投进第一档。\n② CS学生的四层结构\nL1 人的操作系统：睡眠、运动、心态\nL2 工具与环境：命令行、Git、调试、AI workflow、上下文管理\nL3 稳定的思维模型：OS、网络、数据库、算法、分布式\nL4 项目与真实输出\n从重要性上L1永远是最重要的，但总是被我们忽视。\n③ 新的基础能力叫上下文工程\n同一个 Claude / Codex，不同人手里效果差一个量级。差的不是 prompt 写得漂不漂亮，是上下文清不清楚。README、CLAUDE.md、架构文档、测试——它们的作用是让 AI 知道：这个项目在做什么、什么不能改、什么才算做完。我推荐用Obsidian 作为笔记和管理软件(个人比较喜欢）\n\t\n#宁波诺丁汉[话题]#  #UNNC[话题]# #诺丁汉大学[话题]# #CS[话题]# #计算机[话题]# #计算机新生指南[话题]#",
+    "user": {
+      "userId": "63e8e71100000000260072f7",
+      "nickname": "平行宇宙里会飞的猪",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314e8vbti620g5ov8ss8pgsnn62fbfso",
+      "xsecToken": "ABcGjyOtw1K9YcYDpM_rY5O-06ZyH788oZ_EDSSQ5w9ZU="
+    },
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "37",
+      "commentCount": "4",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "40",
+      "shareCount": "4",
+      "followed": false,
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251205/5de15737465603026fb465f805380f80/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300",
+        "url": "",
+        "height": 1324,
+        "width": 1606,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/119f65efd0abcbbe4b61fe2359c156d3/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/5de15737465603026fb465f805380f80/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251205/119f65efd0abcbbe4b61fe2359c156d3/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nd_prv_wgth_jpg_3"
+      },
+      {
+        "width": 2432,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251205/260285680cdf52ad8642bedff2c71b4a/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251205/5ddc05f244b0d7ff0f832d828d43560b/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1606,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/260285680cdf52ad8642bedff2c71b4a/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/5ddc05f244b0d7ff0f832d828d43560b/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "fileId": "spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro"
+      },
+      {
+        "fileId": "spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0",
+        "height": 1600,
+        "traceId": "",
+        "livePhoto": false,
+        "width": 2462,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/12ae3a67bb03b8128db18cb605583dab/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251205/2c00bea273231f471b85eff5999e38a5/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251205/12ae3a67bb03b8128db18cb605583dab/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251205/2c00bea273231f471b85eff5999e38a5/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "time": 1784847619000,
+    "ipLocation": "英国"
+  },
+  "comments": [
+    {
+      "id": "6a632fac00000000090153b4",
+      "atUsers": [],
+      "subComments": [
+        {
+          "createTime": 1784890068000,
+          "ipLocation": "英国",
+          "targetComment": {
+            "id": "6a632fac00000000090153b4",
+            "userInfo": {
+              "userId": "5c39babe0000000006035ed0",
+              "nickname": "wise",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gohqhvejc005n1pnav1mnmgc076sj0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABYD_ak871eoREJDawQMgsXTEXlegZMu-MkeQsvRcMcLE="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a6342d4000000002203d013",
+          "noteId": "6a629d03000000001003cc24",
+          "status": 0,
+          "content": "Claude+CodeX 能帮助你提升效率的AI工具这些该用用，别在这块省钱，然后实习科研就看自己规划了。",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "63e8e71100000000260072f7",
+            "nickname": "平行宇宙里会飞的猪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314e8vbti620g5ov8ss8pgsnn62fbfso?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABrH7M9UoujhsHzkekIpTOo1R0q1KhAtpjNeUdGKBpMM0="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "noteId": "6a629d03000000001003cc24",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "wise",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gohqhvejc005n1pnav1mnmgc076sj0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYD_ak871eoREJDawQMgsXTEXlegZMu-MkeQsvRcMcLE=",
+        "userId": "5c39babe0000000006035ed0"
+      },
+      "createTime": 1784885165000,
+      "ipLocation": "浙江",
+      "subCommentCount": "2",
+      "subCommentCursor": "6a6342d4000000002203d013",
+      "content": "大三应该怎么学有分享吗，大佬🙏",
+      "showTags": [],
+      "status": 0,
+      "liked": false,
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a629d03000000001003cc24",
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1784896372000,
+      "ipLocation": "湖南",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "pictures": [],
+      "atUsers": [],
+      "showTags": [],
+      "id": "6a635b7400000000150059a2",
+      "userInfo": {
+        "userId": "627ac769000000002102b496",
+        "nickname": "天气好冷",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uvpki8fig6g5ojqotkodd4m0soddrg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkqJkQwV6dSAEL29UkENVOfJn6Dwd7SmK6h7frtmPxtA="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "未来博客还会有更新吗",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 人工智能 导修",
+  "search_item": {
+    "id": "6a629d03000000001003cc24",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "1天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "写给UNNC大一的CS学习资源和思路",
+      "user": {
+        "userId": "63e8e71100000000260072f7",
+        "nickname": "平行宇宙里会飞的猪",
+        "xsecToken": "AB_MIL-afe8Tp3Ba9yzGWpZ14c2EYLhM-iyKbynRbz0Ew=",
+        "nickName": "平行宇宙里会飞的猪",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314e8vbti620g5ov8ss8pgsnn62fbfso?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "commentCount": "4",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "40",
+        "collected": false,
+        "collectedCount": "37"
+      },
+      "cover": {
+        "height": 1324,
+        "width": 1606,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251204/1a0afefe855f3e2c7a447a96c3e446c4/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251204/f7fd4aa4e6c02f2b0de5f9497615bf98/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1606,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/1a0afefe855f3e2c7a447a96c3e446c4/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/f7fd4aa4e6c02f2b0de5f9497615bf98/spectrum/1040g0k0322vvpqg370005ov8ss8pgsnn2sub300!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1324
+        },
+        {
+          "width": 2432,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/7681cc63757110cc8b1e03a9ffe4c672/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/52092749ef48b959642b56b4420412ca/spectrum/1040g0k0322vvpqg3700g5ov8ss8pgsnne78qpro!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1606
+        },
+        {
+          "height": 1600,
+          "width": 2462,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/72f0ef880a439daa249740e9f1348c5d/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251204/dc3ed0ba1bad25676ddbeb753b9c1131/spectrum/1040g0k0322vvpqg370105ov8ss8pgsnne680sb0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABoUy-HlShwcrC-LK55FKfOkqXXYf29NCAGo4itOdBNaY=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "6a629d03000000001003cc24"
+  }
+}

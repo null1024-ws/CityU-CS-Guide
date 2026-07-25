@@ -1,0 +1,243 @@
+{
+  "note_id": "6a5f7993000000000e03f000",
+  "url": "https://www.xiaohongshu.com/explore/6a5f7993000000000e03f000?xsec_token=ABnkaiBnw_iDARj0k6QXJok4khWKq5N4IZrP-EQ9jqjtg=",
+  "fetched_at": 1784956381.3179038,
+  "note": {
+    "xsecToken": "ABnkaiBnw_iDARj0k6QXJok4khWKq5N4IZrP-EQ9jqjtg=",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "",
+      "shareCount": "",
+      "niceCount": "",
+      "likedCount": "",
+      "commentCount": "",
+      "followed": false,
+      "relation": "none",
+      "liked": false
+    },
+    "tagList": [
+      {
+        "id": "5eb533d70000000001000532",
+        "name": "unity",
+        "type": "topic"
+      },
+      {
+        "id": "620d02750000000001006e75",
+        "name": "Shader",
+        "type": "topic"
+      },
+      {
+        "id": "64e77a7e0000000018018fc5",
+        "name": "indiedev",
+        "type": "topic"
+      },
+      {
+        "name": "Steam",
+        "type": "topic",
+        "id": "5dd87e9b0000000001006ba0"
+      },
+      {
+        "id": "6068f2df000000000101dcab",
+        "name": "gamedev",
+        "type": "topic"
+      },
+      {
+        "name": "indiegame",
+        "type": "topic",
+        "id": "61e53c7400000000010003ab"
+      }
+    ],
+    "time": 1784641939000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "user": {
+      "userId": "6a5f70da0000000001004000",
+      "nickname": "Blueprint Factory",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ssqe067i005qive3d08g0034pc4eg",
+      "xsecToken": "ABDnyfI6F1mEU1oc4nBLs_aiQX9nMcGJ29nOqrzxblvjs="
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "stream": {},
+        "livePhoto": false,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251313/e12baa90d422dbac42f07b61b312beee/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251313/0e9c555b0e11cce9ad36ca56d74cfb06/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251313/e12baa90d422dbac42f07b61b312beee/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251313/0e9c555b0e11cce9ad36ca56d74cfb06/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nd_dft_wlteh_jpg_3",
+        "fileId": "oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o",
+        "height": 1920,
+        "width": 1080,
+        "url": ""
+      }
+    ],
+    "video": {
+      "media": {
+        "videoId": 6695268771788305000,
+        "video": {
+          "hdrType": 0,
+          "drmType": 0,
+          "streamTypes": [
+            114,
+            259
+          ],
+          "bizName": 110,
+          "bizId": "282142902429937664",
+          "duration": 38
+        },
+        "stream": {
+          "EF4": [
+            {
+              "psnr": 0,
+              "qualityType": "HD",
+              "height": 1280,
+              "size": 1288196,
+              "volume": 0,
+              "audioDuration": 37709,
+              "audioChannels": 2,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4?sign=050eecf03a4ebfe498c8af065f846416&t=6a68e328",
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4"
+              ],
+              "format": "mp4",
+              "width": 720,
+              "fps": 30,
+              "rotate": 0,
+              "weight": 62,
+              "streamDesc": "WM_X264_MP4_web",
+              "duration": 37710,
+              "videoCodec": "EF4",
+              "videoBitrate": 202302,
+              "audioCodec": "aac",
+              "audioBitrate": 64236,
+              "hdrType": 0,
+              "ssim": 0,
+              "streamType": 259,
+              "defaultStream": 0,
+              "avgBitrate": 273284,
+              "videoDuration": 37700,
+              "vmaf": -1
+            }
+          ],
+          "EF6": [],
+          "EF5": [
+            {
+              "audioBitrate": 128000,
+              "vmaf": -1,
+              "weight": 62,
+              "videoBitrate": 215270,
+              "streamDesc": "WEB_114",
+              "defaultStream": 0,
+              "audioCodec": "aac",
+              "rotate": 0,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4?sign=80cd069d6ea31d4c3aa277c1bfd3fdc4&t=6a68e328",
+              "hdrType": 0,
+              "ssim": 0,
+              "duration": 37710,
+              "fps": 30,
+              "audioDuration": 37709,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4"
+              ],
+              "qualityType": "HD",
+              "streamType": 114,
+              "format": "mp4",
+              "width": 720,
+              "size": 1650380,
+              "avgBitrate": 350120,
+              "videoCodec": "EF5",
+              "audioChannels": 2,
+              "psnr": 47.07899856567383,
+              "height": 1280,
+              "volume": 0,
+              "videoDuration": 37700
+            }
+          ],
+          "EF7": []
+        }
+      },
+      "image": {
+        "thumbnailFileid": "ae/frame/110/0/5cea5f79923534a50010000000019f84f2f1f1_0.webp"
+      },
+      "capa": {
+        "duration": 37
+      },
+      "mediaV2": "{\"video_id\":\"6695268771788305573\",\"video\":{\"biz_name\":110,\"biz_id\":\"282142902429937664\",\"duration\":38,\"hdr_type\":0,\"drm_type\":0,\"stream_types\":[114,259],\"width\":1080,\"height\":1920,\"bound\":[{\"x\":0,\"y\":0,\"w\":1080,\"h\":1920}],\"opaque1\":{\"domestic\":\"1\",\"loudnorm\":\"{\\\"lra\\\":7.1,\\\"htp\\\":-10.73,\\\"hldn\\\":-24.62,\\\"ldn\\\":-26.58,\\\"thr\\\":-36.74}\",\"hasHumanVoice\":\"false\",\"weakNetUserFlag\":\"1\",\"isSupportSubtitle\":\"false\"}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WM_X264_MP4_web\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":37710,\"size\":1288196,\"volume\":0.0,\"avg_bitrate\":273284,\"fps\":30,\"video_codec\":\"EF4\",\"video_bitrate\":202302,\"video_duration\":37700,\"audio_codec\":\"aac\",\"audio_bitrate\":64236,\"audio_duration\":37709,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4?sign=050eecf03a4ebfe498c8af065f846416&t=6a68e328\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4\",\"http://sns-bak-v6.xhscdn.com/stream_ae/20003/110/259/5cea5f79923534a5010370039f84f30745_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":114,\"stream_desc\":\"WEB_114\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":37710,\"size\":1650380,\"volume\":0.0,\"avg_bitrate\":350120,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":215270,\"video_duration\":37700,\"audio_codec\":\"aac\",\"audio_bitrate\":128000,\"audio_duration\":37709,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4?sign=80cd069d6ea31d4c3aa277c1bfd3fdc4&t=6a68e328\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4\",\"http://sns-bak-v6.xhscdn.com/stream_ae/20003/110/114/5cea5f79923534a5230373019f84f35840_114.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":47.07899856567383,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"true\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}"
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1784641939000,
+    "ipLocation": "美国",
+    "noteId": "6a5f7993000000000e03f000",
+    "type": "video",
+    "title": "轮廓效果看起来简单，其实没那么简单",
+    "desc": "我想给载具加一个简单的轮廓效果，结果发现事情没那么简单 😂\n最后我把整个载具单独渲染，再用它生成轮廓遮罩。现在看起来干净多了，而且移动节点也更直观！\n#unity[话题]#  #Shader[话题]#  #indiedev[话题]#  #Steam[话题]# #gamedev[话题]# #indiegame[话题]#"
+  },
+  "comments": [],
+  "search_query": "CS5367 Computer Games Design",
+  "search_item": {
+    "id": "6a5f7993000000000e03f000",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "3天前"
+        }
+      ],
+      "type": "video",
+      "displayTitle": "轮廓效果看起来简单，其实没那么简单",
+      "user": {
+        "nickName": "Blueprint Factory",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ssqe067i005qive3d08g0034pc4eg?imageView2/2/w/80/format/jpg",
+        "userId": "6a5f70da0000000001004000",
+        "nickname": "Blueprint Factory",
+        "xsecToken": "ABnkaiBnw_iDARj0k6QXJok1_HpVO-EoAxcCQMKtpfd6w="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "0",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "0",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "height": 1920,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251312/d795042ce494ddf801a72d17ab3bdd6f/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251312/7fafdb58fdce3cdafb09eff45400f315/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251312/d795042ce494ddf801a72d17ab3bdd6f/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251312/7fafdb58fdce3cdafb09eff45400f315/oss-ae/notes/1040g3ug322stmdfj2a005qive3d08g0074hf81o!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1920
+        }
+      ]
+    },
+    "xsecToken": "ABnkaiBnw_iDARj0k6QXJok4khWKq5N4IZrP-EQ9jqjtg=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "6a5f7993000000000e03f000"
+  }
+}

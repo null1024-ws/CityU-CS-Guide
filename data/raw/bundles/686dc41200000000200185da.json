@@ -1,0 +1,58 @@
+{
+  "note_id": "686dc41200000000200185da",
+  "url": "https://www.xiaohongshu.com/explore/686dc41200000000200185da?xsec_token=ABTC_3oE_TnlYxoS3AMkze8QU2NAfWBQSJM9bs3pFIHmU=",
+  "fetched_at": 1784953752.0450842,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "悉尼大学25s1MCS转码评价之COMP5318",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本人双非经济学转码 经过了大半个月的折磨终于出成绩了 还是个能接受的画面就来分享一下这几门课的经历吧[棒R]\n背景：雅思6.5英语水平很差劲，来之前只学过一点点的python 其他的完全不懂\nCOMP5318:数据挖掘与机器学习（5/5）\n课程内容：介绍基础的一些机器学习模型，相关数据处理以及模型的代码实践\n教学团队：这门课今年s1是irena教的是一个长得很像菲比的老师👩‍🏫，ppt做的很好讲得很容易懂名不虚传，除此之外我要感谢我的tutor Dechuan老师是个非常负责任的中国tutor很多后面那个越南老师没讲懂的东西在tutorial里跟我们讲得一下子就理解了\n作业：一共是两个双人or三人的作业，都很友好，第一个是tutorial里的代码复现，第二个是将学过的模型进行比较然后写一份报告 作业给分都比较不错。\n考试：可以带一张打印的cs，但是我感觉我的cs都没怎么用，全记得一堆概念在上面（文科病犯了），考试题目这次很友好，好好准备不懒是可以满分的。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学5318对显卡啥要求？我看到说显卡配置不够直接云服务就能解决了？",
+      "sourceRef": "comment:686f0cde000000000401870d",
+      "commentId": "686f0cde000000000401870d",
+      "likes": 0,
+      "author": "人间抽象指南"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不需要啊，5318这学期对准确率没那么高",
+      "sourceRef": "comment:686f183c000000000c014b91",
+      "commentId": "686f183c000000000c014b91",
+      "likes": 0,
+      "author": "约定"
+    },
+    {
+      "type": "comment",
+      "text": "这说明考试是不是偏文科？",
+      "sourceRef": "comment:686e1f5c0000000006007686",
+      "commentId": "686e1f5c0000000006007686",
+      "likes": 0,
+      "author": "Wa"
+    },
+    {
+      "type": "sub_comment",
+      "text": "绝不偏文科 你要是文科做笔记抄一堆概念上去 就会和主包一样白抄了",
+      "sourceRef": "comment:686e7ea4000000000400fda4",
+      "commentId": "686e7ea4000000000400fda4",
+      "likes": 0,
+      "author": "微辣炒面加肉momo"
+    },
+    {
+      "type": "comment",
+      "text": "那配置要买高点 毕竟会影响帧数[doge]",
+      "sourceRef": "comment:686f316c000000001102f6b8",
+      "commentId": "686f316c000000001102f6b8",
+      "likes": 0,
+      "author": "微辣炒面加肉momo"
+    }
+  ]
+}

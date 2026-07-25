@@ -1,0 +1,81 @@
+{
+  "note_id": "68c2dbe2000000001d00a87b",
+  "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
+  "fetched_at": 1784874168.822998,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5351",
+    "CS5481",
+    "CS5487",
+    "CS6290"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城计算机 CityU CS 学期A & ST 选课",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "之前发了学期 B 选课\n现在补一下学期A和Summer Term选课感受\n\t\n首先是学期 A 的三门必修：\nCS5481 DE：记得B+树和SQL是考试重点。\nCS5351 SE：内容很多很杂，期中期末像考软工场景+雅思阅读理解。\n这俩小组作业是6～8人大组，选择大于努力！\n选题最好靠一下就业方向或者复用以往经验。\nCS5222 计网：实验要会用Wireshark，作业是自顶向下那本书课后习题，期末占比较大。\n\t\nA学期 选修2门：\nCS5487 ML理论：25级学期 A 变成了ML实践，但形式应该还是Atoni大佬+新老师，听着费劲的可以去开小灶 -> B站白板推导。\nCS5187 CV：平时实验和Project打分很好，期末Image Alignment和相机参数是重点，开小灶 -> 油管搜索First Principles of Computer Vision内容基本涵盖了。\n\t\nST 1门：\nCS6290 Privacy：读了区块链很多论文，Proj也可以论文调研，总体给分不错。#港城[话题]# #CS[话题]# #计算机[话题]# #选课[话题]# #硕士[话题]##CityU[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长想问问st是不是可以不选论文or实习，还是选择上一门课呢？",
+      "sourceRef": "comment:68c4521b0000000002015647",
+      "commentId": "68c4521b0000000002015647",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看你们的安排吧，像我们是选上课的只开了这一个课",
+      "sourceRef": "comment:68c4c9600000000030015219",
+      "commentId": "68c4c9600000000030015219",
+      "likes": 1,
+      "author": "芫不圆🌿荽不遂"
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，想问一下5188给分怎么样",
+      "sourceRef": "comment:6a08080d000000002803f0e9",
+      "commentId": "6a08080d000000002803f0e9",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，请问6290签到多嘛，可能要去实习，没办法来香港上课[捂脸R]",
+      "sourceRef": "comment:6a2299060000000028008160",
+      "commentId": "6a2299060000000028008160",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "想问问 cs6290  第一周会有quiz吗",
+      "sourceRef": "comment:6a1aec0d000000002702b1f7",
+      "commentId": "6a1aec0d000000002702b1f7",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "只想混及格 这期末只学了半天或者一天 我很担心 最后算下来 总我的课程的就业分也就只有30分左右  不知道老师会不会捞[呃R]",
+      "sourceRef": "comment:69422aef000000003801762b",
+      "commentId": "69422aef000000003801762b",
+      "likes": 0,
+      "author": "Yang11."
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，我想问一下这个summer的课是必须要选的吗，比如说我如果两个学期修够了学分是不是就不用上summer的课了",
+      "sourceRef": "comment:69cd68c70000000031031e65",
+      "commentId": "69cd68c70000000031031e65",
+      "likes": 0,
+      "author": "whileloop"
+    }
+  ]
+}

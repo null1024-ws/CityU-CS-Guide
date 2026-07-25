@@ -1,0 +1,34 @@
+{
+  "note_id": "6898c6be000000002502bdc8",
+  "url": "https://www.xiaohongshu.com/explore/6898c6be000000002502bdc8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FhnG-mWtr5JctUgzln6C4Jo=",
+  "fetched_at": 1784955425.8952837,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港大CS 硕士项目 选课推荐（下）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "具体的评分细则请参照（上）的内容～\n\t\n📖COMP7404 Computing Intelligence in Machine Learning Prof. Dirk Schnieder\n课程难度：🌟🌟🌟🌟\n课程压力：🌟🌟🌟🌟\n性价比：🌟🌟🌟🌟\n非常好的强化学习入门课程，三个学期均有设置。涉及DFS BFS Q learning ML经典算法等等 coding和公式比较多 有点硬核 没有强化学习基础的同学一上来可能有点懵\n但是Prof Dirk上课非常认真且有吸引力，真把你当研究型硕士在教\n30分的coding作业共4次 难度较高，需要疯狂debug 20分的模拟学术会议 prof随机分配组员共同看一篇论文，完成poster制作和讲解 最后50分的全闭卷期末考试 每年难度波动较大\n虽然很难但整体还是很推荐 能学到很多RL的知识 毕竟来都来了也不能光学水课是吧（doge\n\t\n🧑‍💻COMP7409 Machine Learning in Trading and Finance Prof. H.F.Ting\n课程难度：🌟🌟\n课程压力：🌟\n性价比：🌟🌟🌟🌟🌟\n手把手入门python系列，从最基本的numpy和pandas用法开始讲解，后面是金融产品和ML方法的简介，Ting教授可能会在面试中见到，人非常友善，最后分给的也比较好\n25分的代码作业 40分的pre+报告（5人一组 找数据集做分析） 35分的期末考试，❗️可以带5张正反cheatsheet\n同样在三个sem均开设，综合来讲非常推荐\n\t\n💻COMP7904 Info Security: Attack and Defense Prof. S.M. Yiu\n课程难度：🌟🌟🌟\n课程压力：🌟🌟🌟\n性价比：🌟🌟🌟🌟\n一门网络安全的实战课，涉及密码爆破，sql注入，反向shell等等 老师长得像华仔\n40分的平时作业，60分期末考试❗️为长达14小时的开卷实战考试\n这门课的作业是在提示下利用攻击机黑进靶机，最后撰写报告，期末考试也是类似的模式，能够了解一些基本的黑客技术，整体来讲还是很有意思的，但是做作业可能会比较耗时间。综合比较推荐\n\t\n#香港大学[话题]##计算机科学硕士[话题]##选课攻略[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "跨学院选的7904 想问一下有群吗",
+      "sourceRef": "comment:697a0e1a000000000800d873",
+      "commentId": "697a0e1a000000000800d873",
+      "likes": 0,
+      "author": "二类曲面积分"
+    },
+    {
+      "type": "comment",
+      "text": "学长, NLP 和DL的课程会有overlap吗",
+      "sourceRef": "comment:68a344f20000000030010217",
+      "commentId": "68a344f20000000030010217",
+      "likes": 0,
+      "author": "小春子"
+    }
+  ]
+}

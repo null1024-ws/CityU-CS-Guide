@@ -1,0 +1,858 @@
+{
+  "note_id": "69f8c8db000000003803523f",
+  "url": "https://www.xiaohongshu.com/explore/69f8c8db000000003803523f?xsec_token=ABHUCgVQwZOD_Bp26yoZXUXsqJ0vsBlNmqlrm4hP92JKM=",
+  "fetched_at": 1784953374.5594985,
+  "note": {
+    "xsecToken": "ABHUCgVQwZOD_Bp26yoZXUXsqJ0vsBlNmqlrm4hP92JKM=",
+    "desc": "我用claude-tap抓了一次让Claude搜天气，文档说WebSearch一次API搞定，实测三次还分两个模型\n\t\n第一次使用Opus决定要搜，输出tool_use。第二次切到Haiku，工具箱只剩一个web_search，服务器端调Brave，拿回10条结果加30KB密文。第三次重新切回Opus，密文剔掉，总结完Haiku的结果回答你。\n\t\n为什么套Haiku子agent？有两层隔离的考虑：\n- 上下文隔离：30KB密文留在Haiku侧，主agent只拿几句总结\n- 攻击面隔离：主agent有Bash/Edit/Write，Haiku只有web_search，哪怕被prompt injection劫持也碰不到能动文件的刀。\n\t\n最后是如何计费。WebSearch独立计费每1000次10美元。对比OpenClaw这种开源agent，web_search都得自己去Brave注册API key自己付费——开源给你的是个壳。Claude Code的\"server tool\"，\"server\"两个字不只是\"在服务端跑\"，更关键是底层搜索服务由Anthropic替你跟Brave付费。\n\t\n一句话：贵的Opus思考，便宜的Haiku执行，脏活隔离在子agent里。10美元顺手把外部搜索基础设施也包了。\n\t\n#个人开发者[话题]# #claude[话题]# #AI工具[话题]# #张司机[话题]# #命令行[话题]#",
+    "user": {
+      "userId": "58859cb882ec3975b07ed4ac",
+      "nickname": "张司机在路上",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0",
+      "xsecToken": "AB0PW7r30tOX474n7BiZLDXryBVVqftpQTVu4hzWwAdAU="
+    },
+    "video": {
+      "capa": {
+        "duration": 421
+      },
+      "mediaV2": "{\"video_id\":\"137914793101478822\",\"video\":{\"biz_name\":110,\"biz_id\":\"282029993253622335\",\"duration\":422,\"md5\":\"03e461d96c25a26215a40524aad7064c\",\"hdr_type\":0,\"drm_type\":0,\"stream_types\":[114,259,115],\"width\":1470,\"height\":1080,\"bound\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"bbox\":{\"ocr_v5\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v3\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v4\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v2\":[{\"x\":36,\"y\":16,\"w\":1431,\"h\":1045}]},\"opaque1\":{\"bottomAvgLuma\":\"206\",\"loudnorm\":\"{\\\"lra\\\":2.5,\\\"htp\\\":0.14,\\\"hldn\\\":-11.69,\\\"ldn\\\":-11.37,\\\"thr\\\":-21.81}\",\"domestic\":\"1\",\"isSupportSubtitle\":\"false\",\"rightAvgLuma\":\"226\",\"hasHumanVoice\":\"true\",\"audioLevInfo\":\"{\\\"audio_quality_level\\\":\\\"E\\\",\\\"mos_overall\\\":4.0226,\\\"version\\\":\\\"3.0\\\"}\",\"weakNetUserFlag\":\"1\",\"insertSubtitleLanguages\":\"[\\\"zh-CN\\\",\\\"en-US\\\"]\",\"topAvgLuma\":\"199\",\"audioClsInfo\":\"{\\\"music_ratio\\\":0.0,\\\"freesound_ratio\\\":0.0,\\\"speech_ratio\\\":0.9991923774930702}\"},\"subtitles\":{\"en-US\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e9f8c60c15cba6010370039df3d0c718_12.srt?sign=137bb16eabaf71f6e21c5a0363c072c5&t=6A68D770\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"source\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e9f8c60c15cba6010370039df3d0bf85_1.srt?sign=18be94282df62f5beb97558996807105&t=6A68D770\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}],\"zh-CN\":[{\"url\":\"https://sns-subtitle-s2.xhscdn.com/subtitle/1/110/1/01e9f8c60c15cba6010370039df3d0c41b_11.srt?sign=8d3233876a67954f5cf507f9aae7ce1d&t=6A68D770\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}]}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WM_X264_MP4_web\",\"default_stream\":0,\"format\":\"mp4\",\"width\":980,\"height\":720,\"duration\":421048,\"size\":12746005,\"volume\":0.0,\"avg_bitrate\":242176,\"fps\":30,\"video_codec\":\"EF4\",\"video_bitrate\":171656,\"video_duration\":421000,\"audio_codec\":\"aac\",\"audio_bitrate\":64017,\"audio_duration\":421047,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4?sign=de44f4887a1b04ebe9bad3073cd2ab07&t=6a68d770\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"token\":\"\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":114,\"stream_desc\":\"WEB_114\",\"default_stream\":0,\"format\":\"mp4\",\"width\":980,\"height\":720,\"duration\":421048,\"size\":15621203,\"volume\":0.0,\"avg_bitrate\":296806,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":194223,\"video_duration\":421000,\"audio_codec\":\"aac\",\"audio_bitrate\":96005,\"audio_duration\":421047,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4?sign=073b5404eb1067aa7616cc14d9366b61&t=6a68d770\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":47.52899932861328,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"token\":\"\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}},{\"stream_type\":115,\"stream_desc\":\"WEB_115\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1470,\"height\":1080,\"duration\":421048,\"size\":24837708,\"volume\":0.0,\"avg_bitrate\":471921,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":337353,\"video_duration\":421000,\"audio_codec\":\"aac\",\"audio_bitrate\":128007,\"audio_duration\":421047,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v4.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4?sign=df2089e7cf49da336649e81b33765085&t=6a68d770\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":48.88800048828125,\"ssim\":0.0,\"weight\":70,\"quality_type\":\"HD\",\"token\":\"\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}",
+      "media": {
+        "videoId": 137914793101478820,
+        "video": {
+          "bizName": 110,
+          "bizId": "282029993253622335",
+          "duration": 422,
+          "md5": "03e461d96c25a26215a40524aad7064c",
+          "hdrType": 0,
+          "drmType": 0,
+          "streamTypes": [
+            114,
+            259,
+            115
+          ]
+        },
+        "stream": {
+          "EF7": [],
+          "EF4": [
+            {
+              "psnr": 0,
+              "ssim": 0,
+              "width": 980,
+              "height": 720,
+              "duration": 421048,
+              "size": 12746005,
+              "volume": 0,
+              "videoDuration": 421000,
+              "hdrType": 0,
+              "qualityType": "HD",
+              "streamDesc": "WM_X264_MP4_web",
+              "avgBitrate": 242176,
+              "videoCodec": "EF4",
+              "audioCodec": "aac",
+              "audioBitrate": 64017,
+              "rotate": 0,
+              "defaultStream": 0,
+              "format": "mp4",
+              "audioDuration": 421047,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4"
+              ],
+              "vmaf": -1,
+              "weight": 62,
+              "streamType": 259,
+              "fps": 30,
+              "videoBitrate": 171656,
+              "audioChannels": 2,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/79/110/259/01e9f8c60c15cba6010370039df3d13043_259.mp4?sign=de44f4887a1b04ebe9bad3073cd2ab07&t=6a68d770"
+            }
+          ],
+          "EF6": [],
+          "EF5": [
+            {
+              "audioChannels": 2,
+              "rotate": 0,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4?sign=073b5404eb1067aa7616cc14d9366b61&t=6a68d770",
+              "format": "mp4",
+              "duration": 421048,
+              "videoCodec": "EF5",
+              "qualityType": "HD",
+              "audioCodec": "aac",
+              "audioBitrate": 96005,
+              "hdrType": 0,
+              "vmaf": -1,
+              "psnr": 47.52899932861328,
+              "ssim": 0,
+              "weight": 62,
+              "streamDesc": "WEB_114",
+              "defaultStream": 0,
+              "size": 15621203,
+              "avgBitrate": 296806,
+              "fps": 30,
+              "videoBitrate": 194223,
+              "videoDuration": 421000,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/114/01e9f8c60c15cba64f0370019df3d82b91_114.mp4"
+              ],
+              "streamType": 114,
+              "width": 980,
+              "height": 720,
+              "volume": 0,
+              "audioDuration": 421047
+            },
+            {
+              "rotate": 0,
+              "weight": 70,
+              "defaultStream": 0,
+              "width": 1470,
+              "size": 24837708,
+              "fps": 30,
+              "audioBitrate": 128007,
+              "ssim": 0,
+              "streamDesc": "WEB_115",
+              "format": "mp4",
+              "height": 1080,
+              "duration": 421048,
+              "videoBitrate": 337353,
+              "audioCodec": "aac",
+              "audioChannels": 2,
+              "masterUrl": "http://sns-video-v4.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4?sign=df2089e7cf49da336649e81b33765085&t=6a68d770",
+              "streamType": 115,
+              "avgBitrate": 471921,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/1/110/115/01e9f8c60c15cba6010370019df3d6896f_115.mp4"
+              ],
+              "hdrType": 0,
+              "vmaf": -1,
+              "psnr": 48.88800048828125,
+              "qualityType": "HD",
+              "volume": 0,
+              "videoCodec": "EF5",
+              "videoDuration": 421000,
+              "audioDuration": 421047
+            }
+          ]
+        }
+      },
+      "image": {
+        "thumbnailFileid": "frame/110/0/01e9f8c60c15cba60010000000019df3d1bae1_0.webp"
+      }
+    },
+    "tagList": [
+      {
+        "id": "61e24ac3000000000100a2b8",
+        "name": "个人开发者",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "6198f6380000000001002175",
+        "name": "claude"
+      },
+      {
+        "id": "635679cb000000000100505c",
+        "name": "AI工具",
+        "type": "topic"
+      },
+      {
+        "id": "659289f3000000003f03dc71",
+        "name": "张司机",
+        "type": "topic"
+      },
+      {
+        "id": "623955a60000000001009fe9",
+        "name": "命令行",
+        "type": "topic"
+      }
+    ],
+    "time": 1777912027000,
+    "type": "video",
+    "title": "揭秘在Claude Code里WebSearch如何搜索网页",
+    "interactInfo": {
+      "collectedCount": "479",
+      "followed": false,
+      "likedCount": "520",
+      "collected": false,
+      "commentCount": "53",
+      "shareCount": "71",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251223/fa28b561fbeaa1827b8a1db67406470c/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nd_prv_wlteh_webp_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10",
+        "width": 1263,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251223/576cc311c4265be0971932f35c430289/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nd_dft_wlteh_webp_3",
+        "height": 1685,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251223/fa28b561fbeaa1827b8a1db67406470c/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nd_prv_wlteh_webp_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251223/576cc311c4265be0971932f35c430289/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nd_dft_wlteh_webp_3"
+          }
+        ]
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1780934692000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69f8c8db000000003803523f"
+  },
+  "comments": [
+    {
+      "subCommentCursor": "69f93de700000000290370a2",
+      "liked": false,
+      "likeCount": "6",
+      "subCommentCount": "10",
+      "subComments": [
+        {
+          "content": "DeepSeek 是管用的[doge]",
+          "liked": false,
+          "ipLocation": "上海",
+          "invalid": false,
+          "noteId": "69f8c8db000000003803523f",
+          "atUsers": [],
+          "likeCount": "6",
+          "userInfo": {
+            "userId": "575691106a6a696bd9ce4bb5",
+            "nickname": "乘风破浪的小乌龟",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/627b38d1b445b1f4e406ae13.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1ytkfVaT8XCOM8uEfGbEgc255Cv1-0B_azk-iI4sdQI="
+          },
+          "showTags": [],
+          "createTime": 1777941991000,
+          "targetComment": {
+            "id": "69f93c72000000002702067f",
+            "userInfo": {
+              "xsecToken": "ABrm43Dnpj3LxedH-0diOCOibqR4JtrnQrrar41nmbHxA=",
+              "userId": "6638a76c0000000007007d35",
+              "nickname": "大猿取经",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322on1sk06s605phoktm1ov9l0dmduao?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "69f93de700000000290370a2",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "怪不得我用了第三方模型，这个websearch从来都不管用",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "大猿取经",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322on1sk06s605phoktm1ov9l0dmduao?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrm43Dnpj3LxedH-0diOCOibqR4JtrnQrrar41nmbHxA=",
+        "userId": "6638a76c0000000007007d35"
+      },
+      "ipLocation": "上海",
+      "invalid": false,
+      "id": "69f93c72000000002702067f",
+      "noteId": "69f8c8db000000003803523f",
+      "showTags": [],
+      "createTime": 1777941619000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1778490599000,
+      "subCommentCursor": "6a01a135000000002100fd03",
+      "subCommentHasMore": true,
+      "id": "6a019ce70000000021012c79",
+      "noteId": "69f8c8db000000003803523f",
+      "likeCount": "1",
+      "invalid": false,
+      "content": "想问哥，那为啥claude code接入第三方模型（相当于没为Anthropic付费）也可以用webSearch呢，我实测接deepseek、kimi都可以",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320bmddd9m26g5oehg08k1vn4e28d04g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABeQeuk-EvMlcEObKjlxGzdhqDIdiHM0lmBluUOQMtmwo=",
+        "userId": "61d18011000000001000fee4",
+        "nickname": "一之同学"
+      },
+      "ipLocation": "北京",
+      "status": 0,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南",
+          "invalid": false,
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0,
+          "content": "因为其他厂商比如DeepSeek和Kimi根据Claude Code这套API的规范在自己的服务上也实现了相应的功能，所以用户可以无感的使用。不兼容Claude Code的大模型厂商不会有人用",
+          "atUsers": [],
+          "likeCount": "5",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c=",
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上"
+          },
+          "createTime": 1778491702000,
+          "targetComment": {
+            "id": "6a019ce70000000021012c79",
+            "userInfo": {
+              "xsecToken": "ABeQeuk-EvMlcEObKjlxGzdhqDIdiHM0lmBluUOQMtmwo=",
+              "userId": "61d18011000000001000fee4",
+              "nickname": "一之同学",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320bmddd9m26g5oehg08k1vn4e28d04g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a01a135000000002100fd03"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69f8c8db000000003803523f",
+      "createTime": 1777953285000,
+      "subCommentCursor": "69f9724b000000002701688d",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "1",
+      "subComments": [
+        {
+          "createTime": 1777955403000,
+          "invalid": false,
+          "id": "69f9724b000000002701688d",
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0,
+          "content": "嗯这次这个例子里没用到，真实情况是如果要引用网页里的内容，会额外传一个citation字段，然后使用字段要把加密内容传回去",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c=",
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "69f96a04000000002803c756",
+            "userInfo": {
+              "xsecToken": "ABTWnsrWRRXB9xsZrgv_NwiT0WesiBg6wC1QfkyCXghOU=",
+              "userId": "627f53c5000000002102bf7e",
+              "nickname": "小红薯627FA1FA",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "69f96a04000000002803c756",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "广东",
+      "content": "既然encrypted_content字段客户端也无法解密而且也没用上，服务器要返回这个字段做什么？而且还是好长一段，相当占带宽[笑哭R] 这不合理吧[呃R]",
+      "userInfo": {
+        "xsecToken": "ABTWnsrWRRXB9xsZrgv_NwiT0WesiBg6wC1QfkyCXghOU=",
+        "userId": "627f53c5000000002102bf7e",
+        "nickname": "小红薯627FA1FA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1777922736000,
+      "subComments": [
+        {
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABLgDrht1uVk3jRg6GMabAxFLNXWfkZnWmNRDLYygmtqE=",
+            "userId": "5f77303b00000000010091ac",
+            "nickname": "mengAI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jphb5iej4005nrn60tg94dcb0p6mjo?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "北京",
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1777923949000,
+          "targetComment": {
+            "id": "69f8f2b00000000028039d40",
+            "userInfo": {
+              "userId": "6203f3df000000001000f8f0",
+              "nickname": "小小鸟吃小小虫",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c7u7u4mh0005og3uffk1u7gfffkor8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5ZnkMJM_yEDCzazGHKIjTM-lW-2JKYbfnIbQA_vqg7Y="
+            }
+          },
+          "invalid": false,
+          "id": "69f8f76d000000002b026b88",
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0,
+          "content": "第三方一般直接 search fetch 不通，一般自己配jina或者brave mcp或者写bash请求",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "69f8f76d000000002b026b88",
+      "noteId": "69f8c8db000000003803523f",
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "nickname": "小小鸟吃小小虫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c7u7u4mh0005og3uffk1u7gfffkor8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5ZnkMJM_yEDCzazGHKIjTM-lW-2JKYbfnIbQA_vqg7Y=",
+        "userId": "6203f3df000000001000f8f0"
+      },
+      "status": 0,
+      "content": "如果用的第三方模型，也是Claude帮我付费了吗？",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69f8f2b00000000028039d40",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "北京",
+      "subCommentCount": "2",
+      "subCommentCursor": "69f98c290000000027023cf0",
+      "subCommentHasMore": true,
+      "id": "69f987fa000000002900d0a3",
+      "showTags": [],
+      "status": 0,
+      "content": "最近我给claude-tap贡献了两个pr",
+      "userInfo": {
+        "xsecToken": "ABG2XLKBHpYdBZoQqa5gMoMaCoYW9oo2GXnWE-IXhkStk=",
+        "userId": "60a3e9f10000000001007265",
+        "nickname": "安菲尔德的帆",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60a3e9f10000000001007265.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1777960955000,
+      "subComments": [
+        {
+          "atUsers": [],
+          "userInfo": {
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c="
+          },
+          "createTime": 1777962025000,
+          "invalid": false,
+          "id": "69f98c290000000027023cf0",
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南",
+          "targetComment": {
+            "userInfo": {
+              "userId": "60a3e9f10000000001007265",
+              "nickname": "安菲尔德的帆",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60a3e9f10000000001007265.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABG2XLKBHpYdBZoQqa5gMoMaCoYW9oo2GXnWE-IXhkStk="
+            },
+            "id": "69f987fa000000002900d0a3"
+          },
+          "content": "牛逼 感谢"
+        }
+      ],
+      "invalid": false,
+      "noteId": "69f8c8db000000003803523f",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "69fb087a0000000028008a0f",
+      "content": "那Haiku是怎么看到原始的搜索结果并做出总结的？",
+      "subComments": [
+        {
+          "noteId": "69f8c8db000000003803523f",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南",
+          "status": 0,
+          "content": "haiku也只能看到服务器返回的title和url，演示里就是直接根据title总结了，如果内容不够还可以后续用WebFetch对应的url的内容",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c="
+          },
+          "createTime": 1778059387000,
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABo672fsOk5slXdIsn4SJtSG7fgAoqnZk6I6lqXZXX2Sw=",
+              "userId": "633457610000000018029146",
+              "nickname": "腕上浏览器",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66e7f615106fc91c24694bb8.jpg?imageView2/2/w/120/format/jpg"
+            },
+            "id": "69fb07b2000000002702e872"
+          },
+          "invalid": false,
+          "id": "69fb087a0000000028008a0f"
+        }
+      ],
+      "liked": false,
+      "showTags": [],
+      "invalid": false,
+      "id": "69fb07b2000000002702e872",
+      "noteId": "69f8c8db000000003803523f",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABo672fsOk5slXdIsn4SJtSG7fgAoqnZk6I6lqXZXX2Sw=",
+        "userId": "633457610000000018029146",
+        "nickname": "腕上浏览器",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66e7f615106fc91c24694bb8.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "浙江",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "createTime": 1778059187000,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "liked": false,
+          "targetComment": {
+            "id": "69f9bb360000000027015b5e",
+            "userInfo": {
+              "userId": "65b1b64c000000001300b1e1",
+              "nickname": "鼠鼠",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31so3ha00lc305pdhmp64pcf1ivl7lgg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmYRJ6XQZRwzsnX2-2HN7tkvJdy2d9N8CrU7Rp-onwFQ="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "对的",
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c=",
+            "userId": "58859cb882ec3975b07ed4ac"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1777974264000,
+          "ipLocation": "湖南",
+          "id": "69f9bbf700000000270236ec",
+          "noteId": "69f8c8db000000003803523f",
+          "atUsers": []
+        }
+      ],
+      "noteId": "69f8c8db000000003803523f",
+      "status": 0,
+      "createTime": 1777974071000,
+      "subCommentCount": "1",
+      "subCommentCursor": "69f9bbf700000000270236ec",
+      "invalid": false,
+      "atUsers": [],
+      "content": "haiku返回了真实的天气结果，那就是说haiku能看到brave返回的搜索结果，并且根据这个结果做了总结，再返回给主agent。然后主agent返回给客户端看的是总结的天气结果和加密的brave搜索结果。是这么理解吧？",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABmYRJ6XQZRwzsnX2-2HN7tkvJdy2d9N8CrU7Rp-onwFQ=",
+        "userId": "65b1b64c000000001300b1e1",
+        "nickname": "鼠鼠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31so3ha00lc305pdhmp64pcf1ivl7lgg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": false,
+      "id": "69f9bb360000000027015b5e",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "content": "可以 订阅用户不额外收费 API用户才收",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c=",
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1778150098000,
+          "invalid": false,
+          "id": "69fc6ad200000000270164b1",
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "69fc6a68000000002803bd13",
+            "userInfo": {
+              "userId": "63628c5f000000001f016862",
+              "nickname": ":)",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3137pggq8g4005or2hhfnqq32mm4591o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABflFKGU-pyuSTAOnZuNluwNUaet0EzlkyZC00JWTWSeQ="
+            }
+          }
+        }
+      ],
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "英国",
+      "invalid": false,
+      "noteId": "69f8c8db000000003803523f",
+      "status": 0,
+      "liked": false,
+      "createTime": 1778149993000,
+      "subCommentCursor": "69fc6ad200000000270164b1",
+      "subCommentHasMore": false,
+      "id": "69fc6a68000000002803bd13",
+      "content": "既然要付费的话像max这类订阅用户能用websearch吗",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "63628c5f000000001f016862",
+        "nickname": ":)",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3137pggq8g4005or2hhfnqq32mm4591o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABflFKGU-pyuSTAOnZuNluwNUaet0EzlkyZC00JWTWSeQ="
+      },
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "那haiku传回来的密文，是如何解密的呢[色色R]",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1778044933000,
+      "subCommentCount": "1",
+      "subCommentCursor": "69fad13d0000000027023dc8",
+      "invalid": false,
+      "id": "69fad0040000000028032b05",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "595b482c50c4b40789496675",
+        "nickname": "花家地南里",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2p7o67jajm00049lbk142opjl7las9ro?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFc7uPIjyxG7aJYrN6g66QfdXAHXS6Yr6OePgek1oCLM="
+      },
+      "ipLocation": "北京",
+      "noteId": "69f8c8db000000003803523f",
+      "status": 0,
+      "liked": false,
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "58859cb882ec3975b07ed4ac",
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c="
+          },
+          "createTime": 1778045245000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "69fad0040000000028032b05",
+            "userInfo": {
+              "userId": "595b482c50c4b40789496675",
+              "nickname": "花家地南里",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2p7o67jajm00049lbk142opjl7las9ro?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFc7uPIjyxG7aJYrN6g66QfdXAHXS6Yr6OePgek1oCLM="
+            }
+          },
+          "id": "69fad13d0000000027023dc8",
+          "content": "不用解密 只有需要的时候 直接吧密文传回后端",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "69f8c8db000000003803523f",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "越来越硬核了",
+      "liked": false,
+      "createTime": 1777938654000,
+      "invalid": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mm6b7cmku005o12l5c085c0duqaer8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdngb0Ao_lps15OsHNtFsli8eJDCoPZGTmW9BK_7Hz2M=",
+        "userId": "6022a9580000000001001580",
+        "nickname": "长木"
+      },
+      "subComments": [
+        {
+          "noteId": "69f8c8db000000003803523f",
+          "content": "API层行为分析完就可以深入分析源代码了",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1777974429000,
+          "ipLocation": "湖南",
+          "status": 0,
+          "likeCount": "2",
+          "userInfo": {
+            "nickname": "张司机在路上",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5TOQwHBI5LOrUZa4shE6uyi_XQdQQKWZAJe9SlVS7-c=",
+            "userId": "58859cb882ec3975b07ed4ac"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "69f930de0000000027021abf",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mm6b7cmku005o12l5c085c0duqaer8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABdngb0Ao_lps15OsHNtFsli8eJDCoPZGTmW9BK_7Hz2M=",
+              "userId": "6022a9580000000001001580",
+              "nickname": "长木"
+            }
+          },
+          "invalid": false,
+          "id": "69f9bc9c000000002701c956"
+        }
+      ],
+      "subCommentCursor": "69f9bc9c000000002701c956",
+      "noteId": "69f8c8db000000003803523f",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "id": "69f930de0000000027021abf",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 web search",
+  "search_item": {
+    "id": "69f8c8db000000003803523f",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "揭秘在Claude Code里WebSearch如何搜索网页",
+      "user": {
+        "nickName": "张司机在路上",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp2inu5le00492ldqebhl5cj2o5no0?imageView2/2/w/80/format/jpg",
+        "userId": "58859cb882ec3975b07ed4ac",
+        "nickname": "张司机在路上",
+        "xsecToken": "ABm3IeALBia9kOodN640G7quVcuNkw88G97IGk-FOk5os="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "520",
+        "collected": false,
+        "collectedCount": "479",
+        "commentCount": "53",
+        "sharedCount": "71"
+      },
+      "cover": {
+        "height": 1685,
+        "width": 1263,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251222/ad85c378361c1afd91c3d48f937e57ac/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251222/5ff2cd46d82fb12e3917e749c7dc7506/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1685,
+          "width": 1263,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251222/ad85c378361c1afd91c3d48f937e57ac/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251222/5ff2cd46d82fb12e3917e749c7dc7506/spectrum/1040g34o31vokj6e01m1g492ldqebhl5cn79mc10!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-09"
+        }
+      ],
+      "type": "video"
+    },
+    "xsecToken": "ABHUCgVQwZOD_Bp26yoZXUXsqJ0vsBlNmqlrm4hP92JKM=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "69f8c8db000000003803523f"
+  }
+}

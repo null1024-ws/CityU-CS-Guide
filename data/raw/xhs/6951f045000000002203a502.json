@@ -1,0 +1,386 @@
+{
+  "note_id": "6951f045000000002203a502",
+  "url": "https://www.xiaohongshu.com/explore/6951f045000000002203a502?xsec_token=ABmwHyAkMCMJtFdYEZKtDy5QMnvoeMGcTmjRYwEe-tEC4=",
+  "fetched_at": 1784955692.329035,
+  "note": {
+    "xsecToken": "ABmwHyAkMCMJtFdYEZKtDy5QMnvoeMGcTmjRYwEe-tEC4=",
+    "time": 1766977605000,
+    "lastUpdateTime": 1766977605000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "illegalInfo": {
+      "desc": "可能含AI生成内容",
+      "leftIcon": "https://picasso-static.xiaohongshu.com/fe-platfrom/bc740cc162107169b504c4c1e5ee35f92eaa8456.png",
+      "link": "xhsdiscover://rn/kuri/noteStickers?background_transparent_v2=true&needNewRootNavigation=true&noteId=6951f045000000002203a502"
+    },
+    "noteId": "6951f045000000002203a502",
+    "desc": "❇️ 好课推荐必选\n🏷 COMP7503 Multimedia technologies 教一些多媒体技术，考试半开卷，内容简单，老师 Bill Luo 人特别好！问题是不好拿 A，因为太简单，大家都考的比较好。\n\t\n🏷 COMP7409 Machine learning in trading and finance 考试开卷三张 A4，而且会教一些深度学习基础，很适合打基础。\n\t\n🏷 FITE7410, Financial fraud analytics 考试全开卷，教 R 语言的数据分析，会教一些随机森林之类的基础，老师 Vivian 也非常好。\n\t\n🏷 COMP7607, Natural language processing 老师是大牛（参与过王者荣耀的 ai 开发）。这节课可以从零基础开始学习 nlp，最后到大模型，非常适合求职找工作打基础，但是这节课比较难，作业也比较难，不太适合没有计算机背景的人选，但是没考试。我仅从收获的角度上，推荐选这门。\n\t\n🏷 COMP7506 Smart phone apps development 老师人特别好，还会经常发邮件推荐工作岗位。课程很简单，要组队做个 app 项目，适合学习 app 开发。\n\t\n还有备选课推荐哦❗️学弟学妹们直接看图吧~\n#就读体验[话题]#  #港大选课[话题]#  #港大cs[话题]#  #cs留学[话题]#  #选课指南[话题]#",
+    "user": {
+      "xsecToken": "AByMKgtkbEuQgZ15iPG1who9RckwgRZBE-ZXbrwUOthok=",
+      "userId": "690969c70000000032026e6d",
+      "nickname": "kio鱼",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qf77ujfno6g5q89d73skrjdclfdh3o"
+    },
+    "interactInfo": {
+      "shareCount": "17",
+      "niceCount": "",
+      "likedCount": "73",
+      "collected": false,
+      "commentCount": "6",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "collectedCount": "101"
+    },
+    "tagList": [
+      {
+        "name": "就读体验",
+        "type": "topic",
+        "id": "611250e0000000000101da8b"
+      },
+      {
+        "name": "港大选课",
+        "type": "topic",
+        "id": "62ed2cb7000000000100bf04"
+      },
+      {
+        "id": "63d76800000000000101ecc4",
+        "name": "港大cs",
+        "type": "topic"
+      },
+      {
+        "id": "61b57dcb000000000101c141",
+        "name": "cs留学",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "614c408d00000000010082f3",
+        "name": "选课指南"
+      }
+    ],
+    "type": "normal",
+    "title": "港大CS计算机科学选课指南",
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8",
+        "height": 2556,
+        "url": "",
+        "livePhoto": false,
+        "width": 1179,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/6575a39e02de9e1a9d6300138bdbfd25/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/adf5faae05c86fd1808a5589336c7eb7/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/6575a39e02de9e1a9d6300138bdbfd25/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/adf5faae05c86fd1808a5589336c7eb7/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "spectrum/1040g34o31qlmljben0205q89d73skrjds367oao",
+        "height": 2556,
+        "width": 1179,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/ec3b8ac6bb3b77dff8b9a17fbfe86849/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/da5d5fdc4f878b037eadc15b55ad809f/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/ec3b8ac6bb3b77dff8b9a17fbfe86849/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/da5d5fdc4f878b037eadc15b55ad809f/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "traceId": "",
+        "livePhoto": false
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/8a44cda99c6b95ac014ab9f361c9ed1d/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251301/7f42af7de0670cfa3a996457d59af357/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08",
+        "height": 2556,
+        "width": 1179,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/8a44cda99c6b95ac014ab9f361c9ed1d/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/7f42af7de0670cfa3a996457d59af357/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "subComments": [],
+      "status": 0,
+      "content": "请问7506考勤吗[哭惹R][哭惹R]",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "userInfo": {
+        "userId": "5cffc607000000001700b960",
+        "nickname": "药不能停",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66d93cd17885eb6c640bc59a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZynVcARRGuyMgRTB3s6RmskAGPYNx6CtoLJ7dg07Uoo="
+      },
+      "showTags": [],
+      "createTime": 1772099858000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6951f045000000002203a502",
+      "subCommentCursor": "",
+      "id": "69a01911000000000d011e72",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "6951f045000000002203a502",
+      "userInfo": {
+        "userId": "625778d4000000001000d84d",
+        "nickname": "顿悟",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3223q6ren7a005oinf3a41m2dnjr90s0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSSLnuKRNenF3BJS3ZlKHMBihITQDgyK4-KSuDKl8A8g="
+      },
+      "id": "695f6bda0000000019001ef1",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1767861210000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "7506没有代码基础可以选吗？有没有final？[哭惹R]",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "4个方向课可以任选吗",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "江西",
+      "subCommentCursor": "",
+      "invalid": false,
+      "likeCount": "0",
+      "createTime": 1774392384000,
+      "subCommentHasMore": false,
+      "id": "69c3143f0000000016015e3f",
+      "noteId": "6951f045000000002203a502",
+      "userInfo": {
+        "userId": "5dd5edc3000000000100b2a0",
+        "nickname": "Somebody Else's Arms",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/603f8ad0d7784548875abc22.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEgVMxbIxk05VnwEU-Zguqe0aOk3tW_0Pg5JIqXVs9qg="
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "nickname": "千山万水",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60390564000000000101c504.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMH3ZzYrvS67XtFjgfxcT1N_5JbGw32Umv2vkQvyrf30=",
+        "userId": "60390564000000000101c504"
+      },
+      "showTags": [],
+      "ipLocation": "北京",
+      "id": "69c863970000000016014487",
+      "liked": false,
+      "subComments": [],
+      "noteId": "6951f045000000002203a502",
+      "status": 0,
+      "content": "一般选课，一周大概几节课，时间上满吗？如果实习时间排得过来吗？",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "createTime": 1774740375000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": -2,
+      "content": "@Goldie",
+      "userInfo": {
+        "userId": "61ec254000000000210294e4",
+        "nickname": "MRLE",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lrn1fdm506g5ofc4l08d574h6ru0o8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABo0hI45j4uISwLHFTU8wOjLg6cKqDd-ToO07Z6M7PDGc="
+      },
+      "showTags": [],
+      "createTime": 1767054129000,
+      "ipLocation": "河北",
+      "subCommentCursor": "69534cf7000000001702c56a",
+      "invalid": false,
+      "liked": false,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "6951f045000000002203a502",
+          "status": 0,
+          "content": "mark了",
+          "likeCount": "0",
+          "showTags": [],
+          "targetComment": {
+            "id": "69531b31000000001502f874",
+            "userInfo": {
+              "userId": "61ec254000000000210294e4",
+              "nickname": "MRLE",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lrn1fdm506g5ofc4l08d574h6ru0o8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABo0hI45j4uISwLHFTU8wOjLg6cKqDd-ToO07Z6M7PDGc="
+            }
+          },
+          "id": "69534cf7000000001702c56a",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABKHQ3WF0e_9MhnPCDcu8ftC7WVpHiOWKg0H6hTwYunl0=",
+            "userId": "62bdadd1000000001b02b841",
+            "nickname": "Goldie",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/62bdadd1000000001b02b841.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1767066871000,
+          "ipLocation": "北京",
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "id": "69531b31000000001502f874",
+      "noteId": "6951f045000000002203a502",
+      "atUsers": [
+        {
+          "xsecToken": "ABKHQ3WF0e_9MhnPCDcu8ftC7WVpHiOWKg0H6hTwYunl0=",
+          "userId": "62bdadd1000000001b02b841",
+          "nickname": "Goldie",
+          "aiAgent": false
+        }
+      ],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 选课",
+  "search_item": {
+    "id": "6951f045000000002203a502",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-29"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港大CS计算机科学选课指南",
+      "user": {
+        "nickName": "kio鱼",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qf77ujfno6g5q89d73skrjdclfdh3o?imageView2/2/w/80/format/jpg",
+        "userId": "690969c70000000032026e6d",
+        "nickname": "kio鱼",
+        "xsecToken": "ABogXPG-MvYFZY2wdhxpqZ0xI59LqLk4tUtI3m_tNgc0E="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "73",
+        "collected": false,
+        "collectedCount": "101",
+        "commentCount": "6",
+        "sharedCount": "17"
+      },
+      "cover": {
+        "height": 2556,
+        "width": 1179,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251301/c2b661dbafcc9adedd62f41954308e50/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251301/9df6ba5dbfcb8a6c22cc15842eec0f16/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/c2b661dbafcc9adedd62f41954308e50/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/9df6ba5dbfcb8a6c22cc15842eec0f16/spectrum/1040g0k031qlmne4kn0005q89d73skrjd09nq8n8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2556,
+          "width": 1179
+        },
+        {
+          "height": 2556,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/f01e27732cb03ba5777bd36981fc0a29/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/ff0b28d1bcb12cd7867698a468a17cd7/spectrum/1040g34o31qlmljben0205q89d73skrjds367oao!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2556,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/f5ad70e697fd63c724fff78ba5b24a60/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251301/a4ed090a1f05f4a002bdcd9052409235/spectrum/1040g34o31qlmljben02g5q89d73skrjd39toi08!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABmwHyAkMCMJtFdYEZKtDy5QMnvoeMGcTmjRYwEe-tEC4=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6951f045000000002203a502"
+  }
+}

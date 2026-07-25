@@ -1,0 +1,42 @@
+{
+  "note_id": "6a629d03000000001003cc24",
+  "url": "https://www.xiaohongshu.com/explore/6a629d03000000001003cc24?xsec_token=ABoUy-HlShwcrC-LK55FKfOkqXXYf29NCAGo4itOdBNaY=",
+  "fetched_at": 1784952297.6171894,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "写给UNNC大一的CS学习资源和思路",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "四年前刚学 CS 的时候，我到处找\"最正确\"的路线：CSDIY、CSAPP，收藏夹塞满了。我以为只要学完足够多的课，知识体系就完整了。\n四年读完，又即将上完 CMU 的暑期学期，我把这个想法推翻了。\n先说结论：AI 时代最好的 CS 课程，不是一张固定清单，而是一套能自我更新的系统。\n对UNNC CS 大一资源我只推两门\nMIT Missing Semester 2026 version+ Harvard CS50 （有条件的，请在eduroom环境下去官网，并去做lab)\n学完这两门，你不是\"学会了 CS\"——你是有了自学后面一切的能力。这两件事差别很大。\nCSDIY 依然是一张好地图，但别打卡式刷，根据自己需求查找即可\n\t\n① AI时代CS知识没有失效，只是分成了三档\n必须内化的：抽象与接口、数据怎么流动、状态归谁管、系统为什么会崩、复杂度到底意味着什么。\n只需要认识的：设计模式、各类数据库的取舍、常见 ML 模型的适用条件——看到能认出来就够。\n随时可以检索的：命令行参数、API、语法细节、某条汇编指令怎么写。\n以前我们把三档一起背。现在第三档交给 AI，省下的时间全部投进第一档。\n② CS学生的四层结构\nL1 人的操作系统：睡眠、运动、心态\nL2 工具与环境：命令行、Git、调试、AI workflow、上下文管理\nL3 稳定的思维模型：OS、网络、数据库、算法、分布式\nL4 项目与真实输出\n从重要性上L1永远是最重要的，但总是被我们忽视。\n③ 新的基础能力叫上下文工程\n同一个 Claude / Codex，不同人手里效果差一个量级。差的不是 prompt 写得漂不漂亮，是上下文清不清楚。README、CLAUDE.md、架构文档、测试——它们的作用是让 AI 知道：这个项目在做什么、什么不能改、什么才算做完。我推荐用Obsidian 作为笔记和管理软件(个人比较喜欢）\n\t\n#宁波诺丁汉[话题]#  #UNNC[话题]# #诺丁汉大学[话题]# #CS[话题]# #计算机[话题]# #计算机新生指南[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "大三应该怎么学有分享吗，大佬🙏",
+      "sourceRef": "comment:6a632fac00000000090153b4",
+      "commentId": "6a632fac00000000090153b4",
+      "likes": 0,
+      "author": "wise"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Claude+CodeX 能帮助你提升效率的AI工具这些该用用，别在这块省钱，然后实习科研就看自己规划了。",
+      "sourceRef": "comment:6a6342d4000000002203d013",
+      "commentId": "6a6342d4000000002203d013",
+      "likes": 0,
+      "author": "平行宇宙里会飞的猪"
+    },
+    {
+      "type": "comment",
+      "text": "未来博客还会有更新吗",
+      "sourceRef": "comment:6a635b7400000000150059a2",
+      "commentId": "6a635b7400000000150059a2",
+      "likes": 0,
+      "author": "天气好冷"
+    }
+  ]
+}

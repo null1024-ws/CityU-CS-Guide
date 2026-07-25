@@ -1,0 +1,94 @@
+{
+  "note_id": "695cf7a800000000220313b8",
+  "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
+  "fetched_at": 1784874044.9829233,
+  "course_codes": [
+    "CS5222",
+    "CS5285",
+    "CS5481"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU EC semA选课锐评（上）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1. cs5222 计网\n15%: 3个作业，中等偏简单，中等量\n10%: wireshark任务, 简单，指导书很详细\n5%: 研究报告，随便糊弄就行\n70%: 期末，开卷，不难，题量不多（甚至考场里大概4%的人提早交了），有时间翻打印的资料，其中90%以上的题目是tutorial和assignment变形，剩下的是PPT里出现的小知识点\n复习建议：考前再做一遍tutorial和assignments即可\n总结：无小组作业，不考勤，总体简单，必选\n\t\n2.cs5285 密码学\n最难的一门，不考勤，会捞人，无小组作业，tbl可以不去\n20%：两份作业，给的时间很久，因为开卷所以不难\n20%：期中，开卷，虽然开卷但是题量多，可能没什么时间翻/搜，不过改卷很松，期中考后的一节课课上会发试卷\n60%：期末，可携带计算器，1张双面a4（可打印），题量比较大，考前建议自己再做一遍所有的练习题，考试时遇到复杂的设计协议的题目可以先跳过\n总结：ec的必修课，认真学吧，虽然主播平时不学考前突击也能拿A，但希望不要模仿\n3. cs5481\n不考勤\n30%两次作业，不难\n30%小组项目（给了几个选题，也可以自己拟，不难，好水，最后验收可能是助教，问的问题也简单，水过去的话大概给个75-80的分，想高分可以看看别人的经验帖）\n40%期末，闭卷，5道题，B➕树，SQL，正则必定出现，难度不超过平时作业题，必须会\n总结：好课\n\t\n#CityU[话题]# #港城[话题]# #香港城市大学[话题]# #cs5222[话题]# #cs5285[话题]# #cs5481[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问这个成绩界面在哪看呀？",
+      "sourceRef": "comment:695cf83e000000001602342c",
+      "commentId": "695cf83e000000001602342c",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "aims-student record-my academic record-grade display",
+      "sourceRef": "comment:695cf8a1000000001d01f2f6",
+      "commentId": "695cf8a1000000001d01f2f6",
+      "likes": 1,
+      "author": "VENI VIDI VICI"
+    },
+    {
+      "type": "comment",
+      "text": "请问学长，新生选课一般是什么时候开放啊？",
+      "sourceRef": "comment:6a4f5c6d00000000050140d8",
+      "commentId": "6a4f5c6d00000000050140d8",
+      "likes": 0,
+      "author": "小红薯5E88CD52"
+    },
+    {
+      "type": "sub_comment",
+      "text": "8月中下旬吧我记得",
+      "sourceRef": "comment:6a4f6072000000001500b072",
+      "commentId": "6a4f6072000000001500b072",
+      "likes": 0,
+      "author": "VENI VIDI VICI"
+    },
+    {
+      "type": "comment",
+      "text": "蹲下课表，第一学期有时间实习吗",
+      "sourceRef": "comment:696392d1000000000f01f2ea",
+      "commentId": "696392d1000000000f01f2ea",
+      "likes": 0,
+      "author": "ikM-🍜"
+    },
+    {
+      "type": "sub_comment",
+      "text": "semA一般至少3天有课吧，不少人是4天有课",
+      "sourceRef": "comment:6963a1b7000000000803114a",
+      "commentId": "6963a1b7000000000803114a",
+      "likes": 1,
+      "author": "VENI VIDI VICI"
+    },
+    {
+      "type": "comment",
+      "text": "多么出色的成绩，恭喜你",
+      "sourceRef": "comment:6961eca0000000001d00d20a",
+      "commentId": "6961eca0000000001d00d20a",
+      "likes": 1,
+      "author": "Liam john"
+    },
+    {
+      "type": "comment",
+      "text": "@ee 我觉得我他妈要是去了可能天天挂科",
+      "sourceRef": "comment:6a1d0275000000002b001641",
+      "commentId": "6a1d0275000000002b001641",
+      "likes": 0,
+      "author": "abllllll"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你不是会买大作业的",
+      "sourceRef": "comment:6a1d0aec000000002702defe",
+      "commentId": "6a1d0aec000000002702defe",
+      "likes": 0,
+      "author": "ee"
+    }
+  ]
+}

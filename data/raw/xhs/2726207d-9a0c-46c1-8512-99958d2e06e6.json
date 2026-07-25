@@ -1,0 +1,41 @@
+{
+  "note_id": "2726207d-9a0c-46c1-8512-99958d2e06e6",
+  "url": "https://www.xiaohongshu.com/explore/2726207d-9a0c-46c1-8512-99958d2e06e6?xsec_token=ABqGo-I51q_rJz12ye3_BTAT24KU3PZsjmxKgpj6uEkH4TF7_HwOhfdqg1ukIDMFZ3PfIO-vU6p9rG1d2MyUTwiqC6ibRl3dQKwJNgI6-3pI8=",
+  "fetched_at": 1784955135.1695628,
+  "search_query": "城大 网安 选课",
+  "search_item": {
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "2726207d-9a0c-46c1-8512-99958d2e06e6#1784955118729",
+      "queries": [
+        {
+          "id": "cityu本科选课",
+          "name": "cityu本科选课",
+          "searchWord": "cityu本科选课"
+        },
+        {
+          "id": "香港城市大学网安",
+          "name": "香港城市大学网安",
+          "searchWord": "香港城市大学网安"
+        },
+        {
+          "id": "城大semb选课",
+          "name": "城大semb选课",
+          "searchWord": "城大semb选课"
+        },
+        {
+          "id": "城大本科生课程选课",
+          "name": "城大本科生课程选课",
+          "searchWord": "城大本科生课程选课"
+        }
+      ]
+    },
+    "xsecToken": "ABqGo-I51q_rJz12ye3_BTAT24KU3PZsjmxKgpj6uEkH4TF7_HwOhfdqg1ukIDMFZ3PfIO-vU6p9rG1d2MyUTwiqC6ibRl3dQKwJNgI6-3pI8=",
+    "id": "2726207d-9a0c-46c1-8512-99958d2e06e6#1784955118729",
+    "index": 6,
+    "exposed": true,
+    "trackId": "2726207d-9a0c-46c1-8512-99958d2e06e6#1784955118729"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "note_id": "6888c001000000000500b6a5",
+  "url": "https://www.xiaohongshu.com/explore/6888c001000000000500b6a5?xsec_token=ABk0dyRCfRGayzi-lu8c3CSg6aGJRZFzU0mnQYS0J_dik=",
+  "fetched_at": 1784951348.7308629,
+  "note": {
+    "xsecToken": "ABk0dyRCfRGayzi-lu8c3CSg6aGJRZFzU0mnQYS0J_dik=",
+    "type": "normal",
+    "title": "香港城市大学 CS6290 隐私强化技术测评",
+    "desc": "来聊聊港硕生活的最后一门课。\n\t\n咋看这门课的标题其实有一些不明所以，不过内容实际上是“区块链技术和加密货币”。\n\t\n总的来说这门课程是讲述区块链和加密货币的一系列知识和背后原理。从最有名气的比特币开始讲起，探讨其背后的机制，共识，数学原理等。进一步会聊到以太坊的Pos机制，智能合约等内容。紧接着会讲述基于区块链所衍生出来的去中心化金融的一些案例和应用DeFi，最后几块对Zkp零知识证明，区块链的扩展问题进行了阐述。上完课会对区块链有个大体的认知。\n\t\n上课的时候会有几个在canvas上的quiz，内容是关于assignment的内容的简单的提问。上课的话，由于是暑假学期，所以每节课都去听的人不算多，老师也没有太卡这块，授课还是挺高质量的。\n\t\nassignment这块是会布置阅读区块链的经典论文，然后每次读一篇论文，需要写一个类似总结的文档，可以用ai帮助阅读论文。\n\t\ntutorial这块会讲解一些课程内容相关的简单的题目，每道题老师都会带着一块思考然后手打一遍答案。\n\t\nproject这块可以写个实际的区块链项目，也可以做简单的对某个区块链话题的知识系统化梳理。大部分同学看着是选了sok。\n\t\n课程难度来说，概念不算很好理解，不过毕竟现在有了ai，多和ai聊聊还是可以啃下来的。不过课程的内容量挺大，需要复习的8个ppt每节差不多100页左右。\n\t\n老师给分状况来看感觉还可以，虽然还没考试，不过从开始的课程PPT就罗列了历次给分数据（平均分），平常的assignment阅读总结（40%）和project（20%）能给到80-90这个区间，期末成绩普遍在60左右，最终成绩在71- 79。\n\t\n期末考试难度等我考完后再补充(不过看这个历次给分难度应该不简单)\n\t\n8.4考后补充，全都不会写，理解+计算+题量大(当然和我这段时间没怎么看也有关[捂脸R])\n\t\n#香港城市大学[话题]#\n#计算机科学[话题]#\n#区块链[话题]#\n#加密货币[话题]#",
+    "user": {
+      "xsecToken": "ABTyUzr63YBwZGkzQ_jtkzKBAKVAcb8Ojgmk8VK9514PU=",
+      "userId": "627e901c000000002102978e",
+      "nickname": "Richett_L",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg"
+    },
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "name": "计算机科学",
+        "type": "topic",
+        "id": "5e4e96a7000000000100451c"
+      },
+      {
+        "id": "5be4f82df77664000148da37",
+        "name": "区块链",
+        "type": "topic"
+      },
+      {
+        "id": "5ea18d300000000001005519",
+        "name": "加密货币",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1753792513000,
+    "lastUpdateTime": 1754311055000,
+    "noteId": "6888c001000000000500b6a5",
+    "interactInfo": {
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collectedCount": "27",
+      "commentCount": "2",
+      "shareCount": "9",
+      "relation": "none",
+      "likedCount": "37",
+      "collected": false
+    },
+    "imageList": [
+      {
+        "height": 1121,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251149/c2ad769df1b4e60a7748596cbbd1b386/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251149/3e3e66d49ff7cb5b3eba8e1bc791c373/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251149/3e3e66d49ff7cb5b3eba8e1bc791c373/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg",
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251149/c2ad769df1b4e60a7748596cbbd1b386/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nd_prv_wlteh_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "noteId": "6888c001000000000500b6a5",
+      "likeCount": "0",
+      "showTags": [],
+      "id": "69ef3cae000000002a033e81",
+      "status": 0,
+      "content": "请问这门课当时是完全闭卷吗",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABFnr6LKENjkDenPNsHtY2WhQ1FMApxXGVX3LCZRGjbeY=",
+        "userId": "67623943000000001801662d",
+        "nickname": "Wrennnn_",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322skrqa3nk005pr2751m2phdu5mt3po?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "createTime": 1777286319000,
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6888c001000000000500b6a5",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "subComments": [],
+      "id": "6a1aebd10000000027015089",
+      "content": "想问问 cs6290  第一周会有quiz吗",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1780149202000,
+      "status": 0,
+      "userInfo": {
+        "userId": "66a6f757000000001d030c67",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321l2h8eo706g5pl6utbne33791ccl70?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiQva9Cr9XUcSSstyXGK6x-EMOjc039OUJ_Ot4d3kOVY="
+      },
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 城大",
+  "search_item": {
+    "id": "6888c001000000000500b6a5",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1121,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251148/b496ffbe954b2482d135e1e63b966977/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251148/d19acd7697a00c1bdcaf76d8aac58927/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-04"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "香港城市大学 CS6290 隐私强化技术测评",
+      "user": {
+        "nickName": "Richett_L",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/80/format/jpg",
+        "userId": "627e901c000000002102978e",
+        "nickname": "Richett_L",
+        "xsecToken": "ABUVXZTc9bwUP4_r-jnIIRFvm6tlxDASEMEtTexMas8zY="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "37",
+        "collected": false,
+        "collectedCount": "27",
+        "commentCount": "2",
+        "sharedCount": "9"
+      },
+      "cover": {
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251148/b496ffbe954b2482d135e1e63b966977/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251148/d19acd7697a00c1bdcaf76d8aac58927/notes_pre_post/1040g3k031kh6mdu72o005ojui0e8d5se55pnpfg!nc_n_webp_prv_1",
+        "height": 1121
+      }
+    },
+    "xsecToken": "ABk0dyRCfRGayzi-lu8c3CSg6aGJRZFzU0mnQYS0J_dik=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "6888c001000000000500b6a5"
+  }
+}

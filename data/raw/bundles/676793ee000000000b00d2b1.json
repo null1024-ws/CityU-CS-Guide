@@ -1,0 +1,184 @@
+{
+  "note_id": "676793ee000000000b00d2b1",
+  "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
+  "fetched_at": 1784874242.6179204,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5351",
+    "CS5481",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs semA选课攻略（期末速成版）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5222 Computer Network(必修):\n整个学期体验感最好的一门课，老师英语说的非常好，清晰且流利无口音，每节课都有zoom回放，堪称完美。平时分由三次assignment、一篇research paper和一次wireshark实验构成，共占30%。期末占70%，但是非常好速成且开卷，平时一次课没去过，期末考前跟着zoom上的tutorial过了一遍，轻轻松松。\n\t\nCS5481 Data  Engineering(必修):\n老师说的英语比较慢，也能听懂，无回放。平时分由三次assignment和一个group project 构成，作业给分很高，group project也很好水，花个一周就差不多搞定了。期末是闭卷，考前会划重点，但是不是特别完全，老师说只要别空着就会捞人。这门课速成了个B+树和简单的sql，最后也是轻轻松松。\n\t\nCS5351 Software  Engineering(必修):\n虽然没去，但也不妨碍这是最抽象的一门课，内容抽象，老师的口音也很抽象…分数由group project、research paper、期中和期末构成，group project跟着大佬带飞的，researchpaper 好水的，期中可以带手机，期末只能带三张cheatsheet，全是主观题，挺抽象的，但把字都写满了，不会的就抄cheatsheet上的概念，问题也不大。\n\t\nCS5187 Vision and Image:\n期末出题最好的老师，巨巨巨放水，yyds，主观题基本全是送分题，平时一次课没去过，考前看了2h，轻轻松松通过，有手就行。平时分由两次assignment和一个单人project构成，也是好水的。强烈建议选！\n\t\nEC5001 Introduction to Ecommerce:\n这个课一看名字就水，也确实如此，纯文科，平时分由一个简单的课后作业，签到，group project构成，签到也就前8节课那个老师有要求，group project也是非常的好水，chatgtp轻轻松松。期末也全是主观题，建议多看看各种概念的对比，也是比较好过的。\n\t\n另外说说其他几门：\nmachine learing：我看选了的同学都叫苦不迭，作业一周一留，考试考的还特别难，建议没必要没苦硬吃，别选。\n\t\ninformation security for Ecommerce：虽说没有group project，但是也是很难，看选了的同学也是各种后悔，叫苦不迭，还速成不了，没基础的期末简直是看天书，而且课还是在周五晚上就很阴间，建议是别选。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "可能因为有挂科的原因。我学网络安全学的最认真，我觉得是这几门课里最简单的",
+      "sourceRef": "comment:67679850000000001102fab9",
+      "commentId": "67679850000000001102fab9",
+      "likes": 2,
+      "author": "梦想是骑车环游世界"
+    },
+    {
+      "type": "sub_comment",
+      "text": "其他的课似乎都不用学吧 期末看一天就能过了[偷笑R]",
+      "sourceRef": "comment:67679925000000001102c112",
+      "commentId": "67679925000000001102c112",
+      "likes": 0,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "真的轻轻松松吗",
+      "sourceRef": "comment:67679f13000000000f0328b1",
+      "commentId": "67679f13000000000f0328b1",
+      "likes": 1,
+      "author": "阿白"
+    },
+    {
+      "type": "sub_comment",
+      "text": "考前一天速成 问题不大[doge]",
+      "sourceRef": "comment:6767a09a000000001200d35b",
+      "commentId": "6767a09a000000001200d35b",
+      "likes": 0,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "学长，5222怎么速成[哭惹R]现在课没怎么上过[哭惹R][哭惹R]",
+      "sourceRef": "comment:6911d411000000003902feac",
+      "commentId": "6911d411000000003902feac",
+      "likes": 0,
+      "author": "T^T"
+    },
+    {
+      "type": "sub_comment",
+      "text": "老师有录播的 两天就学完了 有手就行",
+      "sourceRef": "comment:6911d441000000003800cbc4",
+      "commentId": "6911d441000000003800cbc4",
+      "likes": 0,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "vision image这个课的内容是什么呀",
+      "sourceRef": "comment:677e35bc0000000022008e5f",
+      "commentId": "677e35bc0000000022008e5f",
+      "likes": 1,
+      "author": "npm-i"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都不用学 把PPT打印出来一抄就过了[偷笑R]",
+      "sourceRef": "comment:677e373d000000002200c512",
+      "commentId": "677e373d000000002200c512",
+      "likes": 1,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "蹲个semb",
+      "sourceRef": "comment:685a866e000000000401bf1f",
+      "commentId": "685a866e000000000401bf1f",
+      "likes": 0,
+      "author": "oo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "vivo50[doge]",
+      "sourceRef": "comment:685a8ada0000000004015bdc",
+      "commentId": "685a8ada0000000004015bdc",
+      "likes": 0,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "成功在小红书刷到🍦哥[doge]",
+      "sourceRef": "comment:67679bd3000000001003d814",
+      "commentId": "67679bd3000000001003d814",
+      "likes": 0,
+      "author": "D000000"
+    },
+    {
+      "type": "sub_comment",
+      "text": "巧了嗷[doge]",
+      "sourceRef": "comment:67679f89000000001200ab43",
+      "commentId": "67679f89000000001200ab43",
+      "likes": 0,
+      "author": "cout《helloworld"
+    },
+    {
+      "type": "comment",
+      "text": "请问EC5001的签到一定要人当场到嘛？",
+      "sourceRef": "comment:68b11f1f000000002601b713",
+      "commentId": "68b11f1f000000002601b713",
+      "likes": 0,
+      "author": "鹅不溜秋"
+    },
+    {
+      "type": "comment",
+      "text": "图里面的B+树好可爱[哇R]",
+      "sourceRef": "comment:677118890000000011032c7b",
+      "commentId": "677118890000000011032c7b",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "真的轻轻松松吗😱",
+      "sourceRef": "comment:6768360d000000000f0392fc",
+      "commentId": "6768360d000000000f0392fc",
+      "likes": 0,
+      "author": "很讨厌取名字"
+    },
+    {
+      "type": "comment",
+      "text": "网络安全属实难崩",
+      "sourceRef": "comment:6767d421000000000e00f7ba",
+      "commentId": "6767d421000000000e00f7ba",
+      "likes": 0,
+      "author": "王璐柒的日常生活"
+    },
+    {
+      "type": "comment",
+      "text": "5487[doge]",
+      "sourceRef": "comment:6767a3a8000000000f031c53",
+      "commentId": "6767a3a8000000000f031c53",
+      "likes": 0,
+      "author": "寒夜溯溯"
+    },
+    {
+      "type": "comment",
+      "text": "ds专业实名羡慕",
+      "sourceRef": "comment:67679fe00000000010019e78",
+      "commentId": "67679fe00000000010019e78",
+      "likes": 0,
+      "author": "小白菜"
+    },
+    {
+      "type": "comment",
+      "text": "本final抱佛脚学渣表示：不要代入钟佬视角，所有的再往上加一个难度，cityu final难度不小。",
+      "sourceRef": "comment:6767f6c0000000001100274c",
+      "commentId": "6767f6c0000000001100274c",
+      "likes": 6,
+      "author": "好运来"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5187也难吗[笑哭R]",
+      "sourceRef": "comment:68bec8b200000000020163c2",
+      "commentId": "68bec8b200000000020163c2",
+      "likes": 0,
+      "author": "lalaland"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "note_id": "69fe94a1000000003601a65e",
+  "url": "https://www.xiaohongshu.com/explore/69fe94a1000000003601a65e?xsec_token=ABk8YgabChc4VFqY_Ocd2QT2Ln5lvTNeja4MTWnkgm8sA=",
+  "fetched_at": 1784956431.184871,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学十强专业",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "DeepSeek对话",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "你好，城大的计算金融与金融科技怎么样?",
+      "sourceRef": "comment:6a42250000000000050159dc",
+      "commentId": "6a42250000000000050159dc",
+      "likes": 0,
+      "author": "gsl"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]",
+      "sourceRef": "comment:6a00c343000000002b028eea",
+      "commentId": "6a00c343000000002b028eea",
+      "likes": 1,
+      "author": "小红薯68E66D2F"
+    }
+  ]
+}

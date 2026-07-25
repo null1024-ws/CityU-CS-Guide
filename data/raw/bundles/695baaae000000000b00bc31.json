@@ -1,0 +1,36 @@
+{
+  "note_id": "695baaae000000000b00bc31",
+  "url": "https://www.xiaohongshu.com/explore/695baaae000000000b00bc31?xsec_token=ABwa4erALNUbl0wtp1mvQPTVgaffraaJGuwg1eTe3eF_4=",
+  "fetched_at": 1784874181.804827,
+  "course_codes": [
+    "CS5222"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU MSc CS Sem A课程评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这学期做家里蹲连续跷课，水硕生涯的50%就这样过去了[捂脸R]。排名不分先后，依据成绩表顺序而定：\n\t\nCS5222 Computer Networks and Internet\n好课，至少学的东西是有点用的。三个小作业，一个研究报告，一个Wireshark作业。这课的TA在作业给分上有点严，有点小错就整题零分（还有在出分后几天又走回来扣我分数的），但研究报告和Wireshark给分还行。\n\t\n重点复习所有Tutorial，开卷考试时把Tutorial的问题和答案带上就可以了。lecture notes太多太厚，酌量携带。考题里有一题需要用到高中程度的微积分，计算能力不好的人要简单复习下微分规矩和运算。\n\t\nInformation Security for eCommerce\n好课。后期涉及安全协议设计的内容对初学者而言比较复杂，建议由第五课开始每周抽三小时复习一下。这课有期中考，完全是用往年的卷，相信后人有智慧拿到。英语听力好的建议上课听汉克讲话，讲得挺清楚的。\n\t\n有两个小作业。在这别用AI，算出来+推论出来的东西全部错得离谱，可能下一年随着AI发展会好一点吧。\n\t\n考试对数字计算能力（非对称加密的部份）和书写速度有一定要求，算不出来的时候想想有没有其他路子，不一定要蛮力算的。\n\t\nData Engineering\n绝世好课，我爱宋老师！[黄金薯R]\n\t\nBig Data Algorithms and Techniques\n好课，内容杂而不难，由文本分析到时间序列再到并行全都有。\n\t\n有5个Lab。其实没课件的人都可以做好Lab，考验你准时提交的能力而已。Lab里面的各种语法要记好，考试时大概率会出现手写代码的场景。今年出了个pig，都什么年代还用pig啊？\n\t\n有个40%的project。Project看重的是你怎样用big data和parallel computing，所以data要够大（我们大约是700 GB）还有要parallel。\n\t\n闭卷考试不难，但不会就真的不会。各位一定要把东西背好。\n\t\nIntroduction to eCommerce\n难评。不是说选这的人不行，但混子的数目在这课真的相对较多。在组队时慎选队友吧。\n\t\n有一个占15%的assignment。很容易的，建议大家把分数抓在自己手里。\n\t\n内容不难，背就完了。第一至第六周有考勤。考试考XML和用英语写小作文。\n\t\n#港硕[话题]# #香港城市大学[话题]# #水硕[话题]# #计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "高水平👍",
+      "sourceRef": "comment:695d42bc000000001600cf44",
+      "commentId": "695d42bc000000001600cf44",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "这么狠啊兄弟 这分考的",
+      "sourceRef": "comment:695d15f80000000019002be3",
+      "commentId": "695d15f80000000019002be3",
+      "likes": 0,
+      "author": "东大哈基午"
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "note_id": "66c70048000000001d019d45",
+  "url": "https://www.xiaohongshu.com/explore/66c70048000000001d019d45?xsec_token=ABiaDE9ak5cLTA50SU6GiRwrrBd7-AwZ26vOwPT90oSYo=",
+  "fetched_at": 1784952071.0947764,
+  "note": {
+    "xsecToken": "ABiaDE9ak5cLTA50SU6GiRwrrBd7-AwZ26vOwPT90oSYo=",
+    "title": "挑战首个CityU 智能半导体制造选课指南(上)",
+    "desc": "由于ISM是23fall港城新开专业，简单搜了下发现还没有同学写，于是本菜鸡小白鼠决定简单写点就读感受，下文带有原作者强烈的主观感受，仅供参考，具体怎么样还需因人而异哦。\n\t\nADSE6043 Quality and Reliability Engineering（必修）\n分数构成：50%作业+50%考试\n教授很严谨，上课会带着同学们一起进行计算。ppt内容不是全的，需要同学自行前往听课。学的内容略微有点难，跟质量管理工具和参数相关，涉及到大量计算和看图。\n\t\nADSE6201 3D IC Stacking and Advanced Packaging Technology（选修）\n分数构成：30%作业+70%考试\n强烈推荐！教授是Tony，学院的负责人，之前tsmc出来的，人超级好讲的也是我认为是所有接触到的老师里最清晰的那个。主要内容就是前期讲芯片工艺的各个步骤流程，后面主要着重讲先进封装的概念和实现。不会照着念ppt，会根据ppt内容引申出许多东西，对于想今后从事封装或者工艺方面的工作有很大帮助。\n\t\nADSE6047 Quality Improvement: Systems and Methodologies（选修）\n分数构成：50%小组大作业+50%期末考试\n有两个教授共同教课，内容比较简单，算是水课，大作业主要就是用上课提到的质量提升手段来写一篇调研文章。\n\t\nADSE6204\tVLSI/ULSI process integration（必修）\n分数构成：30%日常作业+70%期中期末考试\n教授人不错，ppt也做的很清晰，就是教授的英文有点口音且没有抑扬顿挫感，然后上课基本上以念ppt为主，导致很容易上课听困（到后面好多人直接都不去了..）。内容主要讲的有半导体物理和芯片制造工艺（但是比ADSE6201讲的细的多），最后给分会按照正态分布给，所以考的不好也不用担心老师会往上抬的。\n\t\nADSE6106\tIntelligent Manufacturing for Engineering Managers（选修）\n分数构成：10%最后报告+40%期中考试+50%期末考试\n老师人比较逗，喜欢和同学们互动。SemA的话这门课大家不用担心没有代码基础，这课是不用敲代码的，主要是人工智能相关概念的东西，适合将来想转码相关工作的同学，考试也不算很难（只要把上课ppt吃透)，然后下学期还有一门他教的人工智能算法的课（ADSE6110）那会才需要进行简单的上手coding。\n\t\n封面是我英俊潇洒的Tony老师，真的是太帅了！（已征得老师同意）关注我后续semB的过两天也会发出来哦～\n\t\n#cityu[话题]# #香港城市大学[话题]# #港城半导体[话题]#  #港城选课攻略[话题]# #智能半导体制造[话题]#",
+    "user": {
+      "xsecToken": "ABRkZ8YVCVAsp9k_REORoVspW_EN09IPx_UqgtUEpSusw=",
+      "userId": "5d6eca8e00000000010031a3",
+      "nickname": "Incredible",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0"
+    },
+    "imageList": [
+      {
+        "fileId": "1040g2sg316q10t68k66g5nbepa708cd3uif8lng",
+        "height": 4080,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251201/df9c0697850031e47501a1dacc251a43/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251201/6b7c7a2bb1ca73645483edfb0330c268/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "width": 3060,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251201/df9c0697850031e47501a1dacc251a43/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251201/6b7c7a2bb1ca73645483edfb0330c268/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu"
+      },
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "66c70046000000000202e975",
+        "name": "港城半导体",
+        "type": "topic"
+      },
+      {
+        "id": "657bf4a6000000002c00797d",
+        "name": "港城选课攻略",
+        "type": "topic"
+      },
+      {
+        "id": "63f3331b0000000001005a66",
+        "name": "智能半导体制造",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "66c70048000000001d019d45",
+    "type": "normal",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "165",
+      "collectedCount": "194",
+      "commentCount": "55",
+      "shareCount": "67",
+      "followed": false
+    },
+    "atUserList": [],
+    "time": 1724317768000,
+    "lastUpdateTime": 1724350556000
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1753787366000,
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU="
+          },
+          "createTime": 1753789696000,
+          "targetComment": {
+            "id": "6888abe5000000002903e974",
+            "userInfo": {
+              "userId": "614d36a4000000000201ccc4",
+              "nickname": "ALWAYS",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpswQc33bFpQmXhA5zNOBOpQmlTTUFJL7e3sSdxVsu_A="
+            }
+          },
+          "id": "6888b4ff000000002b02fdd3",
+          "content": "可以做到一学期修6门 但是同时实习和上课我觉得会很累",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "pictures": [],
+          "invalid": false,
+          "noteId": "66c70048000000001d019d45"
+        }
+      ],
+      "id": "6888abe5000000002903e974",
+      "noteId": "66c70048000000001d019d45",
+      "userInfo": {
+        "xsecToken": "ABpswQc33bFpQmXhA5zNOBOpQmlTTUFJL7e3sSdxVsu_A=",
+        "userId": "614d36a4000000000201ccc4",
+        "nickname": "ALWAYS",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "content": "佬，您觉得一学期学6门课可以嘛？压力会不会爆棚",
+      "subCommentCursor": "6888b4ff000000002b02fdd3",
+      "pictures": [],
+      "atUsers": [],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "ipLocation": "江苏",
+      "createTime": 1753171136000,
+      "invalid": false,
+      "id": "687f44bf000000000f03d5e4",
+      "status": 0,
+      "content": "请问课程难度大吗[哭惹R]",
+      "atUsers": [],
+      "subCommentCount": "1",
+      "pictures": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABDon5JT_SFc0o6mvpVcqrxHFd_p5LHdcpzm2mXThyPZY=",
+        "userId": "5d60834e000000000100a568",
+        "nickname": "抹茶芋圆",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0rsn8jis0g5nb0gd7099b8ra66hs8?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "pictures": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3"
+          },
+          "createTime": 1753238856000,
+          "ipLocation": "北京",
+          "invalid": false,
+          "id": "68804d470000000002004d21",
+          "noteId": "66c70048000000001d019d45",
+          "status": 0,
+          "content": "还好不算特别难",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "687f44bf000000000f03d5e4",
+            "userInfo": {
+              "userId": "5d60834e000000000100a568",
+              "nickname": "抹茶芋圆",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0rsn8jis0g5nb0gd7099b8ra66hs8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDon5JT_SFc0o6mvpVcqrxHFd_p5LHdcpzm2mXThyPZY="
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": false,
+      "subCommentCursor": "68804d470000000002004d21",
+      "noteId": "66c70048000000001d019d45",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "66cb202b000000001203e2fc",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "江苏",
+      "pictures": [],
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "pictures": [],
+          "noteId": "66c70048000000001d019d45",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "北京",
+          "targetComment": {
+            "userInfo": {
+              "nickname": "Echo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317imtgi0jq005n92seu4m48scfqiv4o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABAcbnIl4PojhDdXRjpP7GBHAVpN2x1Grm5M1aD0S3_HE=",
+              "userId": "5d22e3bc000000001203111c"
+            },
+            "id": "66cb202b000000001203e2fc"
+          },
+          "invalid": false,
+          "id": "66cb3d03000000000a014554",
+          "status": 0,
+          "content": "可以的，私我一下",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1724595460000
+        }
+      ],
+      "noteId": "66c70048000000001d019d45",
+      "content": "学长可以加个v吗，想了解一下选课",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABAcbnIl4PojhDdXRjpP7GBHAVpN2x1Grm5M1aD0S3_HE=",
+        "userId": "5d22e3bc000000001203111c",
+        "nickname": "Echo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317imtgi0jq005n92seu4m48scfqiv4o?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1724588076000,
+      "subCommentCursor": "66cb3d03000000000a014554",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "66c70048000000001d019d45",
+      "content": "宝宝想问一下这个专业就业怎么样呀！",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABsb3EbY2Yi6zx2kf08ontax4vTKSmZjIbSG3VGd4eJr0=",
+        "userId": "62de3758000000001f016f46",
+        "nickname": "abcdefghi__v",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hogctigjo005omu6tc7qrq6re8om10?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1778247896000,
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "pictures": [],
+          "noteId": "66c70048000000001d019d45",
+          "content": "我觉得被严重低估了，就业挺好的[偷笑R]",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1778248074000,
+          "targetComment": {
+            "id": "69fde8d70000000029035538",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABsb3EbY2Yi6zx2kf08ontax4vTKSmZjIbSG3VGd4eJr0=",
+              "userId": "62de3758000000001f016f46",
+              "nickname": "abcdefghi__v",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hogctigjo005omu6tc7qrq6re8om10?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "69fde989000000002a006d9b",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "北京"
+        }
+      ],
+      "subCommentCursor": "69fde989000000002a006d9b",
+      "likeCount": "0",
+      "subCommentCount": "5",
+      "id": "69fde8d70000000029035538",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "pictures": [],
+      "id": "66c725570000000020023eb4",
+      "showTags": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "66c725570000000020023eb4",
+            "userInfo": {
+              "xsecToken": "ABu4bQlUCrs8B0WS8cH2a2AmO_R8DjIwl4M18MMDc8h34=",
+              "userId": "61f7f16c000000001000d46c",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u14rjrl180g5ofnu5m41l3c12apeh0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "noteId": "66c70048000000001d019d45",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU="
+          },
+          "createTime": 1724389892000,
+          "pictures": [],
+          "invalid": false,
+          "id": "66c81a04000000000502f8ee",
+          "status": 0,
+          "content": "应该不算",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港"
+        }
+      ],
+      "subCommentCursor": "66c81a04000000000502f8ee",
+      "invalid": false,
+      "status": 0,
+      "content": "ADSE6110是属于ee的嘛",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "2",
+      "ipLocation": "河南",
+      "noteId": "66c70048000000001d019d45",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u14rjrl180g5ofnu5m41l3c12apeh0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABu4bQlUCrs8B0WS8cH2a2AmO_R8DjIwl4M18MMDc8h34=",
+        "userId": "61f7f16c000000001000d46c"
+      },
+      "createTime": 1724327256000,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "67715e7e000000000e01edda",
+      "noteId": "66c70048000000001d019d45",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fcf34c80000000001007872.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABT0U6QRZhGdSiE4pc2RxCJZdM0Dibd7KElvT10djK_Ww=",
+        "userId": "5fcf34c80000000001007872",
+        "nickname": "爱地"
+      },
+      "showTags": [],
+      "ipLocation": "湖北",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "liked": false,
+      "pictures": [],
+      "invalid": false,
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "createTime": 1735483133000,
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABT0U6QRZhGdSiE4pc2RxCJZdM0Dibd7KElvT10djK_Ww=",
+              "userId": "5fcf34c80000000001007872",
+              "nickname": "爱地",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fcf34c80000000001007872.jpg?imageView2/2/w/120/format/jpg"
+            },
+            "id": "67715e7e000000000e01edda"
+          },
+          "pictures": [],
+          "noteId": "66c70048000000001d019d45",
+          "status": 0,
+          "content": "一级学科可以认证成电子信息",
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "北京",
+          "invalid": false,
+          "id": "67715efd000000001200bd6c",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible"
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "status": 0,
+      "content": "请问认证了什么专业呢",
+      "createTime": 1735483006000,
+      "subCommentCursor": "67715efd000000001200bd6c",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "该专业招生人数多少哈",
+      "showTags": [],
+      "ipLocation": "浙江",
+      "subCommentCount": "2",
+      "pictures": [],
+      "noteId": "66c70048000000001d019d45",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentHasMore": true,
+      "id": "67c30ba3000000001601684a",
+      "userInfo": {
+        "xsecToken": "AB68GrPyKOUsTkxWkfh-mw0sMz9YogfpZcZ8-K8-BM4MU=",
+        "userId": "5574530133f60c4fa0062e38",
+        "nickname": "hzs",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/600c38a13ae561300b30af9f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "noteId": "66c70048000000001d019d45",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1740837731000,
+          "ipLocation": "北京",
+          "pictures": [],
+          "id": "67c3136300000000190043f7",
+          "status": 0,
+          "content": "不太确定，建议去官网看看，我们那届6 70人吧。",
+          "liked": false,
+          "targetComment": {
+            "userInfo": {
+              "nickname": "hzs",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/600c38a13ae561300b30af9f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB68GrPyKOUsTkxWkfh-mw0sMz9YogfpZcZ8-K8-BM4MU=",
+              "userId": "5574530133f60c4fa0062e38"
+            },
+            "id": "67c30ba3000000001601684a"
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "67c3136300000000190043f7",
+      "atUsers": [],
+      "createTime": 1740835747000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "67643925000000001200fe60",
+      "id": "67641a35000000000e01103c",
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "AB2NID8dQ-qZ8eR0cLKkk4ncekVNwAJh3hb-zIzXKRgR8=",
+        "userId": "65aaa3a9000000000e0266bf",
+        "nickname": "想要天天开心",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o805o0f06005pdakekjkplvcv77lh0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "liked": false,
+      "ipLocation": "山东",
+      "pictures": [],
+      "invalid": false,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "67641a35000000000e01103c",
+            "userInfo": {
+              "nickname": "想要天天开心",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o805o0f06005pdakekjkplvcv77lh0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB2NID8dQ-qZ8eR0cLKkk4ncekVNwAJh3hb-zIzXKRgR8=",
+              "userId": "65aaa3a9000000000e0266bf"
+            }
+          },
+          "id": "67643925000000001200fe60",
+          "content": "具体你可以私聊我一下",
+          "createTime": 1734621478000,
+          "ipLocation": "北京",
+          "pictures": [],
+          "invalid": false,
+          "noteId": "66c70048000000001d019d45",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU="
+          }
+        }
+      ],
+      "content": "您好，请问这门课有对应的实习课程吗？就是看官网里面有介绍6-12周有对应的实习课程，想了解一下下[飞吻R]",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1734613557000,
+      "subCommentCount": "1",
+      "noteId": "66c70048000000001d019d45",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "66c70048000000001d019d45",
+      "likeCount": "1",
+      "showTags": [],
+      "id": "68b9ae4d000000002400cdf8",
+      "content": "学长，本科机械专业建议选这个吗？工作几年了做的也是机械结构方面的工作。晚上上课时几点开始呀？",
+      "createTime": 1756999245000,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "603cf5f7000000000100aba9",
+        "nickname": "布丁焦糖牛奶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fqiif8000005o1sunrg9at956dnpi0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABt4NpgsBo53K0onaSW_Oa5FLlT6jXIx4WX0H2ME7pxCI="
+      },
+      "ipLocation": "广东",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "liked": false,
+          "ipLocation": "北京",
+          "pictures": [],
+          "invalid": false,
+          "noteId": "66c70048000000001d019d45",
+          "status": 0,
+          "likeCount": "1",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU=",
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1757084297000,
+          "targetComment": {
+            "id": "68b9ae4d000000002400cdf8",
+            "userInfo": {
+              "userId": "603cf5f7000000000100aba9",
+              "nickname": "布丁焦糖牛奶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fqiif8000005o1sunrg9at956dnpi0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABt4NpgsBo53K0onaSW_Oa5FLlT6jXIx4WX0H2ME7pxCI="
+            }
+          },
+          "id": "68bafa880000000009039282",
+          "content": "可以选这个没问题的 我本科也是偏机械的 晚上上课一般是19:00开始",
+          "atUsers": []
+        }
+      ],
+      "subCommentCursor": "68bafa880000000009039282",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1779878783000,
+      "ipLocation": "广东",
+      "noteId": "66c70048000000001d019d45",
+      "content": "学长，俺是26fall可以聊聊选课和就业吗",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "2",
+      "pictures": [],
+      "id": "6a16cb7e000000002b00126e",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [
+        {
+          "pictures": [],
+          "status": 0,
+          "atUsers": [],
+          "createTime": 1779881496000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a16cb7e000000002b00126e",
+            "userInfo": {
+              "xsecToken": "AB45flgha-gXpEIV8gObC8Uzc8mmnhReSd_XFt1U3gfS8=",
+              "userId": "62133a2f000000001000ae8d",
+              "nickname": "饼饼",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322eoph6cno005ogj78nk1bkdtgvlf48?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a16d617000000002a02459e",
+          "noteId": "66c70048000000001d019d45",
+          "content": "可以呀 私我",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d6eca8e00000000010031a3",
+            "nickname": "Incredible",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYiDUb8g12IcOzNgzGKHJLLSAx53JABXnAgoQUSquimU="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentHasMore": true,
+      "userInfo": {
+        "userId": "62133a2f000000001000ae8d",
+        "nickname": "饼饼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322eoph6cno005ogj78nk1bkdtgvlf48?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB45flgha-gXpEIV8gObC8Uzc8mmnhReSd_XFt1U3gfS8="
+      },
+      "subCommentCursor": "6a16d617000000002a02459e",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "城大 人工智能 方向 选课",
+  "search_item": {
+    "noteCard": {
+      "displayTitle": "挑战首个CityU 智能半导体制造选课指南(上)",
+      "user": {
+        "nickName": "Incredible",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314kkb2d76g605nbepa708cd3adu9ea0?imageView2/2/w/80/format/jpg",
+        "userId": "5d6eca8e00000000010031a3",
+        "nickname": "Incredible",
+        "xsecToken": "ABbbzIG0P3s6k13NqsG7ZE3MXpQIfyyK0O-xzUiOmAdWk="
+      },
+      "interactInfo": {
+        "collectedCount": "194",
+        "commentCount": "55",
+        "sharedCount": "67",
+        "liked": false,
+        "likedCount": "165",
+        "collected": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251200/9baeb7c3a8dbe85ca2054c1841ca7d63/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251200/0181c1e81f2707bc849a06062102d0fa/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nc_n_webp_prv_1",
+        "height": 4080,
+        "width": 3060
+      },
+      "imageList": [
+        {
+          "height": 4080,
+          "width": 3060,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251200/9baeb7c3a8dbe85ca2054c1841ca7d63/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251200/0181c1e81f2707bc849a06062102d0fa/1040g2sg316q10t68k66g5nbepa708cd3uif8lng!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-08-23"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABiaDE9ak5cLTA50SU6GiRwrrBd7-AwZ26vOwPT90oSYo=",
+    "id": "66c70048000000001d019d45",
+    "modelType": "note",
+    "index": 2,
+    "exposed": true,
+    "trackId": "66c70048000000001d019d45"
+  }
+}

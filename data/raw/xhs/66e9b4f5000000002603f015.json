@@ -1,0 +1,281 @@
+{
+  "note_id": "66e9b4f5000000002603f015",
+  "url": "https://www.xiaohongshu.com/explore/66e9b4f5000000002603f015?xsec_token=ABeTqawGwxnpNCymVOcGt0Q6E6fC5R7DNzKAULMY07rYQ=",
+  "fetched_at": 1784951572.8469536,
+  "note": {
+    "xsecToken": "ABeTqawGwxnpNCymVOcGt0Q6E6fC5R7DNzKAULMY07rYQ=",
+    "title": "uiuc学cs的建议——选课II",
+    "user": {
+      "nickname": "呼里呼啦",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fmvk16e7q705ob36ch0kesriqvfia8",
+      "xsecToken": "ABmmSfn15-6U2fJ7lJkaThhP_8SzIpzYix9PY-6KLlI3w=",
+      "userId": "616333220000000002023b9b"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "1040g008317rtil5sk4005ob36ch0kesrca05o9o",
+        "height": 2436,
+        "width": 1125,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251153/96b28a6cf882974220e331b8edd8c71d/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251153/68e9ff0192e77476e4c983b9fcc589e3/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251153/96b28a6cf882974220e331b8edd8c71d/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251153/68e9ff0192e77476e4c983b9fcc589e3/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "url": ""
+      }
+    ],
+    "time": 1726592245000,
+    "desc": "针对MCS，这里假定你有一些 CS 基础，并且目标找 SWE 相关的岗位，这里只列出本人上过感觉不错的400 Level的课，建议每学期上一门500 level的课。\n\t\n总共修够32学分，其中四个不同类别的400 Level的课，12学分500 Level的课，以及一个Additional Course. 通常第一第二学期12学分，最后一学期 underload 8学分。\n\t\n秋季：CS 425, CS 409, CS 598\n从零搭建一个分布式系统，从简单的 log grep 开始步步递进直到分布式文件系统，最终搭建一个工业级分布式系统，每个MP都基于上一个， workload 相当大，但能从中学到超多东西。\n从最基本的前端三件套到全栈 MERN:MongoDB, Express, React, Nodejs), 快速掌握全栈开发。\nps：虽然gpt时代不推荐学前端，但作为一个 CS 科班学生，多少得懂点，但全栈一定不能是你的核心技能。你的核心技能可以是：机器学习，系统 infra，操作系统等等。\n\t\n春季：CS 473, CS 483, CS 500-\n了解高级算法，探寻FFT如何用convolution 达到nlogn复杂度解决三数之和，窥探图论、随机算法、线性规划的应用，以及面对NP解决不了的问题该怎么办——Approximation。\n并行编程，初始英伟达的 CUDA GPU，探寻AI驱动引擎的魅力，全新的思考方式，各种优化方法。如何map，什么时候用share memory，怎么减少control divergence, 以及对warp里的线程手拿把掐。\n\t\n暑假：实习，希冀 return\n\t\n秋季：IE 421, CS 413, CS 500- (或coop)\n初探高频交易 HFT，了解金融基本知识，如何量化对冲，以及如何使用算法、模型、FPGA，托管服务、低延迟快速赚钱。以及一个semester-long project，含金量很高，顺便考个BMC (Bloomberg Market Concept) 证书。\n排列组合，极大提升思维，涂色问题、七桥问题、四色问题、鸽巢原理、经典数论。如果你想做quant，那么这门课帮助很大，虽然有点偏理论证明…\n\t\n#uiuc[话题]# #留学生[话题]# #呼里呼啦的日常[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "5",
+      "shareCount": "70",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "157",
+      "collectedCount": "279"
+    },
+    "tagList": [
+      {
+        "id": "5c4504f5000000000d014e7f",
+        "name": "uiuc",
+        "type": "topic"
+      },
+      {
+        "id": "5bf470c10a813f0001f89bf5",
+        "name": "留学生",
+        "type": "topic"
+      },
+      {
+        "name": "呼里呼啦的日常",
+        "type": "topic",
+        "id": "66d8c051000000000e02d16e"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1726592245000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "66e9b4f5000000002603f015",
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "createTime": 1749182989000,
+      "subCommentCursor": "68540d9d0000000020027567",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5dbaf93b0000000001007add",
+        "nickname": "=_=",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dbaf93b0000000001007add.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhv1ajwF3HfugCKWJz8zqz7vHmHeFpeLSyAkcz0-hv1o="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "id": "68540d9d0000000020027567",
+          "noteId": "66e9b4f5000000002603f015",
+          "content": "根據你是本科生還是研究生決定學分 研究生都算4",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1750338974000,
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "63f1e087000000001001f766",
+            "nickname": "SixerFarmer",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjUozp4-T8cQaH2AjGAPc5JGJLQ17SM68mYS2z_-d138="
+          },
+          "ipLocation": "中国台湾",
+          "targetComment": {
+            "id": "68426a0d0000000009038ccb",
+            "userInfo": {
+              "xsecToken": "ABhv1ajwF3HfugCKWJz8zqz7vHmHeFpeLSyAkcz0-hv1o=",
+              "userId": "5dbaf93b0000000001007add",
+              "nickname": "=_=",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dbaf93b0000000001007add.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          }
+        }
+      ],
+      "noteId": "66e9b4f5000000002603f015",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "invalid": false,
+      "id": "68426a0d0000000009038ccb",
+      "content": "请问，有的课是3学分，有的是4学分。课程名都一样，有什么区别呢？[害羞R]",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "66e9b4f5000000002603f015",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1749091696000,
+      "subCommentHasMore": false,
+      "status": 0,
+      "subComments": [],
+      "id": "68410570000000001e01bcf0",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "6023aafd000000000101fe41",
+        "nickname": "旅居美学",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ogesv4gu105o13lbugbvi19r6k340?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABAAe_oVOQwRs-y0ZA1QKzQVDTeV2YGNHvKGEbxMM9H-w="
+      },
+      "ipLocation": "美国",
+      "invalid": false,
+      "content": "怎么联系。",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "orcs是什么专业？",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABJMJF5V4pttFuZ_OIGjJvC4qTlg2Bc7RFrYcUK_9q360=",
+        "userId": "5e58f879000000000100780f",
+        "nickname": "房房",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9r6u33kq005niov1sg8u0fpi8r92g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "66e9b4f5000000002603f015",
+      "status": 0,
+      "liked": false,
+      "createTime": 1726668188000,
+      "id": "66eadd9c000000000f005a97",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "status": 0,
+      "content": "我滴个天都是大难课 @PROCLIVITAS @尼古拉斯·曲奇",
+      "likeCount": "2",
+      "createTime": 1738611296000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "67a11a60000000000b039db4",
+      "atUsers": [
+        {
+          "xsecToken": "ABsTBlbgHB9rf5kLkePZt3CJRrgmYZpEHS5jSKQARXojA=",
+          "userId": "62a3fe26000000001b02b0c7",
+          "nickname": "PROCLIVITAS",
+          "aiAgent": false
+        },
+        {
+          "userId": "61f10bcb000000001000c1d0",
+          "nickname": "尼古拉斯·曲奇",
+          "aiAgent": false,
+          "xsecToken": "AByp-ISTPQVRDFOJCqVlWzyvLz_KwsdrcbwsvEpCeP2Y4="
+        }
+      ],
+      "userInfo": {
+        "xsecToken": "ABwbLbuOSvHGHz7sP7IE9kT4AjzZ8ZHhanbJ-OfwmBrvg=",
+        "userId": "600a4ef9000000000100289e",
+        "nickname": "我不是宝宝你才是",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/600a4ef9000000000100289e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "noteId": "66e9b4f5000000002603f015",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 体验",
+  "search_item": {
+    "id": "66e9b4f5000000002603f015",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 2436,
+        "width": 1125,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251152/df7e53a9a2aad506fd6022c42d709210/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251152/412d5fa5e2ad2b70a3f8b1c00010bad2/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1125,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251152/df7e53a9a2aad506fd6022c42d709210/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251152/412d5fa5e2ad2b70a3f8b1c00010bad2/1040g008317rtil5sk4005ob36ch0kesrca05o9o!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2436
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-09-18"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "uiuc学cs的建议——选课II",
+      "user": {
+        "nickName": "呼里呼啦",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fmvk16e7q705ob36ch0kesriqvfia8?imageView2/2/w/80/format/jpg",
+        "userId": "616333220000000002023b9b",
+        "nickname": "呼里呼啦",
+        "xsecToken": "ABVP4XIKx8iWEdOQo5V5I7_QUXSXBzMWzMmhat-HQ5ECw="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "157",
+        "collected": false,
+        "collectedCount": "279",
+        "commentCount": "5",
+        "sharedCount": "70"
+      }
+    },
+    "xsecToken": "ABeTqawGwxnpNCymVOcGt0Q6E6fC5R7DNzKAULMY07rYQ=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "66e9b4f5000000002603f015"
+  }
+}

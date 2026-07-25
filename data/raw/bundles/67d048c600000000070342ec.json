@@ -1,0 +1,142 @@
+{
+  "note_id": "67d048c600000000070342ec",
+  "url": "https://www.xiaohongshu.com/explore/67d048c600000000070342ec?xsec_token=AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+  "fetched_at": 1784953056.952602,
+  "course_codes": [
+    "CS5285",
+    "CS5489",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "聊聊香港城市大学CS5285 信息安全",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "更之前吐槽一下无关话题，今日的cs5489的期中考试，知识点考察的过于全面了，头疼，顺带更新下xhs。考虑到之前的课程评测反响还不错，那就聊聊上学期ec的必修课信安课，遂有了这贴。\n\t\nCS5285 InformationSecurity For Ecommerce这门课总体来说是在城大上过最棒的课之一。它没有折磨人的组队环节，没有头疼的presentation，只有安心的作业和考试，对我这个i人简直不要太友好。\n\t\n这门课是由汉克教授负责的，口音清晰略快，适应之后感觉听着很舒服，上课时分成两部分，一部分是老师讲解上次留下来的tutorial(可以提前做也可以在tutorial时间做，会做半小时讲解20min)，另一部分是讲述密码学和协议方面的一些知识。tutorial可以选择课前或课后，同时还有zoom直播录播(不过不确定之后有没有，cityu好像希望学生线下去上课)。\n\t\n成绩构成方面:期末占60%(然后期末卷子至少答对30%)，然后有一次期中考试20%，考完后会进行讲解，两次problem set(有计算有问答有一点点代码，不算很难)，每次占10%，同样老师也会进行讲解。总得来说平时作业都不算难，但期末的时候密钥管理，authentication，agreement这些后半学期学的东西会比较难，讲课的时候感觉总在云里雾里绕着。\n\t\n课程内容难度的话，前半学期的对称加密，非对称加密，这些稍微认真看看就能学个差不多，期中考试也同样是针对前几周的东西不算难，但期中之后的密钥管理，协议认证，证书这些就比较麻烦了，抽象的概念比较多，不太好理解，不过老师给的材料足够，而且可以随时问老师和ta弥补了这一点，期末的时候，老师还会有一节复习课带你过重点，而且还会发一些复习的材料，所以体验很良好，期末感觉正常做作业都能过，还能带cheat sheet，而且稍微差一些及格的老师也会捞的。\n\t\n最后的成绩的话给分确实不是很高，可能是因为我期末太菜了，但总得来说这门课的体验很棒，本科没接触过信安相关的课程上这门课感觉也有所收获，打算暑假继续隐私强化了。\n\t\n同时借着这里把ec5001和is5414也讲一下，ec5001很安心的水课，前半段讲商业的一些东西有一点点作业，后半段讲计算机的常识知识，最后要交一个小组报告，期末不会出怪题而且会划范围，但给分比较低\n\t\nis5414系统分析与设计简单来说就是本科软件工程的阉割版差不多，主要要学会画用例图，ssd图，类图，活动图等，平时有作业，在dropbox上交，吃小组，给分玄学\n#香港城市大学[话题]#\n#选课[话题]#\n#信息安全[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问sem A接日常实习实习现实吗，可以把课程集中选在三天吗",
+      "sourceRef": "comment:67d065070000000017031916",
+      "commentId": "67d065070000000017031916",
+      "likes": 0,
+      "author": "KoBe(No Helicopter)"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有可操作性，不过日常实习的话就不要选硬课了，然后考虑港深通勤住深圳会好点(不过要考虑好后面落户是否有境外逗留时间要求，城大最近还发了一些说希望线下上课的要求，不太好说这个情况)，个人感觉实习+上课确实会比较累，当然大部分课都是可以翘的，刚开始最好了解清课程要求和认识一些选这门课的同学。",
+      "sourceRef": "comment:67d06637000000001802a5e0",
+      "commentId": "67d06637000000001802a5e0",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "想请问下学长5285期中考试有什么题型呢？有简答题那些嘛？",
+      "sourceRef": "comment:68ecc0ea000000003300c2c9",
+      "commentId": "68ecc0ea000000003300c2c9",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "计算+简答，应该总计5道大题，课件+tutorial复习完就差不多",
+      "sourceRef": "comment:68eccbf40000000033027d2a",
+      "commentId": "68eccbf40000000033027d2a",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "请问cs5285考勤吗",
+      "sourceRef": "comment:68ac5a8e000000003002f0bb",
+      "commentId": "68ac5a8e000000003002f0bb",
+      "likes": 0,
+      "author": "yuzi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "印象里没有",
+      "sourceRef": "comment:68ac5aac000000003002f9b4",
+      "commentId": "68ac5aac000000003002f9b4",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长，想问下is5414有期中考试嘛",
+      "sourceRef": "comment:68e2323500000000380285fb",
+      "commentId": "68e2323500000000380285fb",
+      "likes": 0,
+      "author": "ValjeanJean"
+    },
+    {
+      "type": "comment",
+      "text": "学长，cs5285有去年测试的题目吗[哭惹R]",
+      "sourceRef": "comment:68ee44eb000000003902ab82",
+      "commentId": "68ee44eb000000003902ab82",
+      "likes": 0,
+      "author": "T^T"
+    },
+    {
+      "type": "comment",
+      "text": "学长，末2+港城ec的就业情况怎么样呢，[哭惹R]",
+      "sourceRef": "comment:67d6f405000000001802d243",
+      "commentId": "67d6f405000000001802d243",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "丰俭由人，cityu只能帮你过简历关",
+      "sourceRef": "comment:67d7014d000000001802aa30",
+      "commentId": "67d7014d000000001802aa30",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，想问一下is5414主要要完成项目计划书还是系统？",
+      "sourceRef": "comment:68c2a2360000000030015001",
+      "commentId": "68c2a2360000000030015001",
+      "likes": 0,
+      "author": "T^T"
+    },
+    {
+      "type": "comment",
+      "text": "学长，麻烦问下，5285 的 期中， TA 监考严格吗，我们今年说是可以带 pc 和平板，放自己的 note 或者计算器，代码啥的，但是不能用 gen AI ，如果考试时用 genai 这种，TA 发现得了不[笑哭R]",
+      "sourceRef": "comment:68e8be7b0000000038007cc0",
+      "commentId": "68e8be7b0000000038007cc0",
+      "likes": 0,
+      "author": "Quebec圆脸"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这让我怎么说呢，我只能说原则上按考试规定不可以，TA印象里大概看的不严。",
+      "sourceRef": "comment:68e8c02c0000000037024471",
+      "commentId": "68e8c02c0000000037024471",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "您好，请问cs5285的期中开卷是只能带纸质资料还是可以带平板之类的呀，非常感谢[玫瑰R]",
+      "sourceRef": "comment:68de414400000000380076c1",
+      "commentId": "68de414400000000380076c1",
+      "likes": 0,
+      "author": "!="
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以带笔记本电脑和平板，需要开飞行模式。计算器可以用电脑自带的，但不可以用手机。",
+      "sourceRef": "comment:68de538f0000000037027e43",
+      "commentId": "68de538f0000000037027e43",
+      "likes": 0,
+      "author": "Richett_L"
+    }
+  ]
+}

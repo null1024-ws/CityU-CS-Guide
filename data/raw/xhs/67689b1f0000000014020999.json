@@ -1,0 +1,362 @@
+{
+  "note_id": "67689b1f0000000014020999",
+  "url": "https://www.xiaohongshu.com/explore/67689b1f0000000014020999?xsec_token=ABErBC1YIRFYU-JlJ8ixU_zvqXoZLkalZ2Xjq7sJO67gQ=",
+  "fetched_at": 1784955794.708697,
+  "note": {
+    "xsecToken": "ABErBC1YIRFYU-JlJ8ixU_zvqXoZLkalZ2Xjq7sJO67gQ=",
+    "type": "normal",
+    "title": "麦迪逊24Fall课程简评（上）",
+    "user": {
+      "userId": "5acf614be8ac2b6b861e0d4b",
+      "nickname": "Cirtus",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdl8scqju604a4fuggkm3abg40rjdg",
+      "xsecToken": "ABGuj_KEaaj6z82cHsAuHaQz-BpKP5KrwReNQX-hF-nyI="
+    },
+    "interactInfo": {
+      "shareCount": "9",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "9",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "41",
+      "collectedCount": "19"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251303/1a73c27a76c3f7d377a5a97ec98b4edd/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251303/6f70bab2638a73e1278b9407d135a2ad/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251303/1a73c27a76c3f7d377a5a97ec98b4edd/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251303/6f70bab2638a73e1278b9407d135a2ad/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg",
+        "height": 1648,
+        "width": 1260,
+        "traceId": "",
+        "stream": {}
+      }
+    ],
+    "time": 1734908703000,
+    "lastUpdateTime": 1734908703000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "67689b1f0000000014020999",
+    "desc": "我还是如约而至地出现了）\n\t\nCS537 Intro to Operating System\nby Shivaram\n当之无愧的第一workload课。。。一学期6个project 3个midterm. 每个topic一个midterm 主要围绕OS的三个topic展开 虚拟性 并发性 持久性 project也是和topic紧密相关 但这学期美中不足的是并没有专门的project与并发性相关 其他几个印象较深的project有 手搓一个基本的shell 读一遍论文实现stride的调度 使用mmap实现内存管理还有copy on write的功能 实现一个基本的文件系统支持raid 0和1 总体来说project都是很有意思的 但是如果犯了拖延症直到最后几天才开始写的话很难写的完。。。(狠狠惩罚了我这个p人)我觉得这门课workload大是因为本身概念确实不算简单 而且考试和project基本算是分开的两条路 project有时候描述也比较vague 需要很多时间去调试\n再说回shivaram老师 他是当之无愧的明星老师 水平高 非常理解学生面临的困难而且很有耐心 我一开始去oh找他聊天 我说我没有上过252和354 其实担心会有些问题 他很详细地给了我指导并安慰我说不要担心 人真的很好!!!\n\t\nCS544 Intro to Big data Systems\nby Tyler\n非常有意思的一门课 一开始讲一些docker和基本的sql 后面主要围绕HDFS Spark Cassandra Kafka等主流框架展开 8个project 3个midterm 一周一个小quiz project整体难度可以接受 但也需要花些时间 但整体说实在的毕竟是intro课程 更侧重于width而不是depth 但确实是门好课！唯一的弊端是我觉得Tyler的语速有点太快了。。。我有时候上课听不清他在说啥 但Tyler人也是非常的nice 线下去找他也非常的热心 他在syllabus里还写到：I'll do my best to connect you with resources and try to think of accomodations to help out. I want to do whatever I can to help you succeed.\n﻿#麦迪逊[话题]#﻿ ﻿#计算机专业[话题]#﻿ ﻿#选课[话题]#﻿",
+    "tagList": [
+      {
+        "id": "5f0428be000000000101f623",
+        "name": "麦迪逊",
+        "type": "topic"
+      },
+      {
+        "id": "5ccedc00000000000d016f9e",
+        "name": "计算机专业",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "noteId": "67689b1f0000000014020999",
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "id": "6768a26b000000000d03b544",
+          "noteId": "67689b1f0000000014020999",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "content": "tyler真的很好[萌萌哒R]",
+          "userInfo": {
+            "userId": "5acf614be8ac2b6b861e0d4b",
+            "nickname": "Cirtus",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdl8scqju604a4fuggkm3abg40rjdg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABO7BQ791aLpR9KI4K3SEZVEqgh7kxC4ltoSgsoFQtgxM="
+          },
+          "createTime": 1734910571000,
+          "targetComment": {
+            "id": "67689e500000000011003377",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABus0QtMD49V_AMN2czBKl0s8dHSpZqx1loY_-RWnPVWY=",
+              "userId": "646ab4120000000010025cfa",
+              "nickname": "Momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vv7kn0l28005p3amg944n7qv8vfu8o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "status": 0,
+      "content": "544extra credit真的还是蛮多的，而且还给round up[害羞R]",
+      "atUsers": [],
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABus0QtMD49V_AMN2czBKl0s8dHSpZqx1loY_-RWnPVWY=",
+        "userId": "646ab4120000000010025cfa",
+        "nickname": "Momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vv7kn0l28005p3amg944n7qv8vfu8o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "2",
+      "invalid": false,
+      "ipLocation": "美国",
+      "subCommentCursor": "6768a26b000000000d03b544",
+      "id": "67689e500000000011003377",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1734909520000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABeU-T4sQdoWumN8wBcxSLj3dLbhcPVhqqeOiezgbd4No=",
+        "userId": "66015a66000000000b00ca89",
+        "nickname": "今天吃了啥",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314lob8lcls005pg1b9j2pik9j8vba08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "invalid": false,
+      "noteId": "67689b1f0000000014020999",
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "subCommentCursor": "6768ad64000000000e01cff6",
+      "status": 0,
+      "content": "537 544 571 577 一起上？ 好强） Shiv人真的好，回邮件也飞快。 537有些project instruction真的一言难尽（没错我说的就是p5COW） 希望学期开头有人drop544吧，抢俩学期了没抢到这课。。",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1734911010000,
+      "subComments": [
+        {
+          "noteId": "67689b1f0000000014020999",
+          "content": "时间紧任务重[害羞R] 544太火爆了 侧面说明了确实是好课哈哈哈哈",
+          "atUsers": [],
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1734913380000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6768a422000000000f038beb",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABeU-T4sQdoWumN8wBcxSLj3dLbhcPVhqqeOiezgbd4No=",
+              "userId": "66015a66000000000b00ca89",
+              "nickname": "今天吃了啥",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314lob8lcls005pg1b9j2pik9j8vba08?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6768ad64000000000e01cff6",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABO7BQ791aLpR9KI4K3SEZVEqgh7kxC4ltoSgsoFQtgxM=",
+            "userId": "5acf614be8ac2b6b861e0d4b",
+            "nickname": "Cirtus",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdl8scqju604a4fuggkm3abg40rjdg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "id": "6768a422000000000f038beb",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subComments": [],
+      "noteId": "67689b1f0000000014020999",
+      "content": "shiva老师现在还招intern吗",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABaZtZxLCMEZUfg7LADsilK1xaFE-W-FFLWtP-OxTk8W8=",
+        "userId": "630c50d4000000000f00792f",
+        "nickname": "唐德部诗人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n4ndcsq58005ooca3a3ou9f73q9s9g?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "invalid": false,
+      "liked": false,
+      "subCommentCursor": "",
+      "id": "679e44ea000000000a02fdf1",
+      "createTime": 1738425579000,
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "status": 0,
+      "content": "想问下math421和431放暑假上吃得消吗[萌萌哒R]",
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "id": "67ef003f000000001f009667",
+      "liked": false,
+      "createTime": 1743716415000,
+      "noteId": "67689b1f0000000014020999",
+      "userInfo": {
+        "userId": "64a9272500000000100375ca",
+        "nickname": "Jade",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rfacr2snu005p594sik6teav5mq2kg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOjXO1B9CI82yllD5Co5-E97UtL5a0Xww0d1_0g3AeD8="
+      },
+      "showTags": [],
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1734910559000,
+          "targetComment": {
+            "id": "67689bc9000000001003f028",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60eff5b933f3f54aa65c23ff.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB2Tj1ZnrXZCWmMfljvSqaeOM_EtPyjrYa_gymSUtNw0c=",
+              "userId": "560ffc773f0f3c2ca98a7e5a",
+              "nickname": "ShawnZhong"
+            }
+          },
+          "noteId": "67689b1f0000000014020999",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABO7BQ791aLpR9KI4K3SEZVEqgh7kxC4ltoSgsoFQtgxM=",
+            "userId": "5acf614be8ac2b6b861e0d4b",
+            "nickname": "Cirtus",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdl8scqju604a4fuggkm3abg40rjdg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "6768a25e000000000e00c768",
+          "status": 0,
+          "content": "真的![萌萌哒R]"
+        }
+      ],
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1734908873000,
+      "id": "67689bc9000000001003f028",
+      "noteId": "67689b1f0000000014020999",
+      "status": 0,
+      "content": "shiv真的超超超nice！！！",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "560ffc773f0f3c2ca98a7e5a",
+        "nickname": "ShawnZhong",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60eff5b933f3f54aa65c23ff.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2Tj1ZnrXZCWmMfljvSqaeOM_EtPyjrYa_gymSUtNw0c="
+      },
+      "subCommentCursor": "6768a25e000000000e00c768",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 评价",
+  "search_item": {
+    "id": "67689b1f0000000014020999",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "麦迪逊24Fall课程简评（上）",
+      "user": {
+        "nickName": "Cirtus",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdl8scqju604a4fuggkm3abg40rjdg?imageView2/2/w/80/format/jpg",
+        "userId": "5acf614be8ac2b6b861e0d4b",
+        "nickname": "Cirtus",
+        "xsecToken": "ABmPdcvUVC92JN8zRN274n1L2qd1dT7bySsnrrd92lAF4="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "41",
+        "collected": false,
+        "collectedCount": "19",
+        "commentCount": "9",
+        "sharedCount": "9"
+      },
+      "cover": {
+        "height": 1648,
+        "width": 1260,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251303/684f6237e1db4783731feaf79fd6f596/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251303/d525a659e447fa2539563c04197aebc2/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1648,
+          "width": 1260,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251303/684f6237e1db4783731feaf79fd6f596/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251303/d525a659e447fa2539563c04197aebc2/spectrum/1040g34o31bnqifsg160g4a4fuggkm3abjleqbjg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-12-23"
+        }
+      ]
+    },
+    "xsecToken": "ABErBC1YIRFYU-JlJ8ixU_zvqXoZLkalZ2Xjq7sJO67gQ=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "67689b1f0000000014020999"
+  }
+}

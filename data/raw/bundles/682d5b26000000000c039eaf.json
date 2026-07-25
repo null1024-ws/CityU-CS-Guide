@@ -1,0 +1,64 @@
+{
+  "note_id": "682d5b26000000000c039eaf",
+  "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+  "fetched_at": 1784952882.1709435,
+  "course_codes": [
+    "CS5296",
+    "CS5483",
+    "CS5489",
+    "CS5491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu cs semB 课程测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "课是一节不听的，锐评是一定要的。\n1. CS5296 Cloud Computing: Theory and Practice\n3*assignment20%+2*paper review15%+project25%+final40%\n考前划的重点就是考点，开卷考试，难度大，课件里几乎没有例题可以练习，课件里涉及到计算和画图的基本都考了，写不完也不会写，考完一直担心会不会挂科。考了Cloud service, platform,cpu virtualization, 调度问题，chord（p2p）一整个大题，WFQ scheduling一整个大题，token bucket等。想混的不建议选这门课。\n2.CS5483 Data Warehousing and Data Mining\n10*tutorial5%+个人project10%+group project15%+midterm 20%+final 50%\ntutorial耗时耗力难度大，性价比太低，网上也找不到答案，直接放弃了。个人project答案和期中试卷已上传github。期中期末考试都挺简单，期末考了DBSCAN，BUC两个算法排序题,DBSCAN和Optics的异同填空题，Single linkage and k-means，Apriori and association rules, FOIL and Info Gain,没考第十二章数据仓库的内容。\n3.CS5489 Machine Learning: Algorithms and Application\n10*tutorial10%+2*assignment20%+project30%+midterm10%+final30%\n作业答案网上都有，期中试卷已上传。期末至少考了30%期中的内容，RBF核，朴素贝叶斯，GAN与梯度消失，RANSAC, transformer等，难度不大就是内容多，啥都想考一点，怀疑是不是换出题老师了，出卷都不按套路出了，还是5487简单些。\n4.CS5491 Artificial Intelligence\nassignment20%+midterm20%+project30%+final30%\n新开的课，老师人十分不错，教学水平高，老师说让我们不用担心考试的事，期中期末全是tutorial里的内容，考试开卷，把tutorial打印带进考场，就算跟我一样计算全错，也能得B,闭眼选就完事了。\n5.CS6493 Natueal Language Processing\n2*assignment30%+group project30%+final40%\n考试闭卷，只看review PPT就差不多了，五道大题，第一道概念题30分，比如prompt类型，skip-gram和CBOW，RAG中的optimizing indexing和when to retrieve等，一道补全代码题12分，想冲a以上的同学需要复习tutorial中的代码，tensor parallelism的row和column实现，PEFT的adapter和lora，llm agents，ppo,dpo和drpo异同，BELU和cross-entropy计算等，竟然没考transformer。\n此外，除了云计算其他课作业助教给分都不错，云计算需要花心思认真写才能拿高分。整理的往年题和一些作业答案都已上传，直接搜CityuMSCS即可，祝大家都能顺利毕业！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长[皱眉R]5491这门课会有考勤要求吗",
+      "sourceRef": "comment:69550991000000001702d520",
+      "commentId": "69550991000000001702d520",
+      "likes": 0,
+      "author": "今晚喝椰椰"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问5296和5483您认为哪个相对工作量少一点呢？在准备春招想选相对容易一点的课程[哭惹R]",
+      "sourceRef": "comment:695b9b810000000016026373",
+      "commentId": "695b9b810000000016026373",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5483只要你放弃只占5%的tutorial其实任务量不算大，云计算好在作业基本上都能找到答案抄，对于我来说，5483耗的时间比云计算多得多",
+      "sourceRef": "comment:695c5555000000001601f214",
+      "commentId": "695c5555000000001601f214",
+      "likes": 0,
+      "author": "十一"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问5491的project一个人做麻烦不，之前想换门别的就没组队，现在感觉组不到人了[微笑R]",
+      "sourceRef": "comment:696bb027000000000601e82c",
+      "commentId": "696bb027000000000601e82c",
+      "likes": 0,
+      "author": "ocr"
+    },
+    {
+      "type": "sub_comment",
+      "text": "上github上扒一个下来随便改改就行，不麻烦",
+      "sourceRef": "comment:696c27f80000000009021595",
+      "commentId": "696c27f80000000009021595",
+      "likes": 0,
+      "author": "十一"
+    }
+  ]
+}

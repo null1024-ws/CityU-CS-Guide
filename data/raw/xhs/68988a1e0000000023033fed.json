@@ -1,0 +1,364 @@
+{
+  "note_id": "68988a1e0000000023033fed",
+  "url": "https://www.xiaohongshu.com/explore/68988a1e0000000023033fed?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FssVmeaSOD_YY9RggEFsf88=",
+  "fetched_at": 1784954026.8852577,
+  "note": {
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FssVmeaSOD_YY9RggEFsf88=",
+    "noteId": "68988a1e0000000023033fed",
+    "imageList": [
+      {
+        "height": 653,
+        "width": 1372,
+        "traceId": "",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg",
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251234/b9f34f13c8571efce4511d838ae97cd3/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251234/a9e9c37d268f8c2f6694fb4f8e27dd92/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251234/b9f34f13c8571efce4511d838ae97cd3/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251234/a9e9c37d268f8c2f6694fb4f8e27dd92/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "time": 1754827294000,
+    "lastUpdateTime": 1754827294000,
+    "type": "normal",
+    "title": "球Cityu DS专业选课推荐",
+    "desc": "求求学长学姐推荐一下选修课程\n#cityu[话题]# #ds[话题]# #港深通勤[话题]#",
+    "user": {
+      "userId": "648c9737000000001f0042d3",
+      "nickname": "Russwqqa",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg",
+      "xsecToken": "ABkrLZhXQNmXP1ZA43ovJ9FEf14IwK3ax0bQcvLdrNG6M="
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "collected": false,
+      "commentCount": "37",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "likedCount": "46",
+      "collectedCount": "78",
+      "shareCount": "12"
+    },
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "id": "5c17a13a0000000003001347",
+        "name": "ds",
+        "type": "topic"
+      },
+      {
+        "id": "63b50832000000000101dd97",
+        "name": "港深通勤",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentCursor": "6899d919000000002a0082ed",
+      "invalid": false,
+      "id": "6898924c000000002b01cd6b",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "9",
+      "status": 0,
+      "content": "蹲 DS 港深通勤人",
+      "createTime": 1754829389000,
+      "ipLocation": "广东",
+      "userInfo": {
+        "userId": "648c9737000000001f0042d3",
+        "nickname": "Russwqqa",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHKCovvnZ3xuJq3xNmXXk4ZqPftSG-bP0xeFo1WJ0G98="
+      },
+      "subComments": [
+        {
+          "id": "6899d919000000002a0082ed",
+          "noteId": "68988a1e0000000023033fed",
+          "status": 0,
+          "content": "111",
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "浙江",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABQD32cNMLJfSug4XSkjwl9MJhh5dSzFQn0wCWP8FtD4o=",
+            "userId": "6390e83c000000001f014f4a",
+            "nickname": "臭机炸炸炸",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322h4gphun2005osgt0u7qjqadsnnmg0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1754913050000,
+          "targetComment": {
+            "id": "6898924c000000002b01cd6b",
+            "userInfo": {
+              "userId": "648c9737000000001f0042d3",
+              "nickname": "Russwqqa",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABHKCovvnZ3xuJq3xNmXXk4ZqPftSG-bP0xeFo1WJ0G98="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "68988a1e0000000023033fed",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "68988a1e0000000023033fed",
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "689895bd0000000029026918",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3161ve3md1a005nopdu5g904d3ad715g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzDg6vAxAISFop5J2ufHGfHG-oEtVdzAQYzbRgODgrkM=",
+              "userId": "5f196f8b000000000100808d",
+              "nickname": "肖瑶"
+            }
+          },
+          "id": "689897c1000000002b01753a",
+          "status": 0,
+          "content": "感谢感谢[微笑R]",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABHKCovvnZ3xuJq3xNmXXk4ZqPftSG-bP0xeFo1WJ0G98=",
+            "userId": "648c9737000000001f0042d3",
+            "nickname": "Russwqqa"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1754830786000,
+          "invalid": false,
+          "noteId": "68988a1e0000000023033fed"
+        }
+      ],
+      "subCommentCursor": "689897c1000000002b01753a",
+      "userInfo": {
+        "userId": "5f196f8b000000000100808d",
+        "nickname": "肖瑶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3161ve3md1a005nopdu5g904d3ad715g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzDg6vAxAISFop5J2ufHGfHG-oEtVdzAQYzbRgODgrkM="
+      },
+      "createTime": 1754830269000,
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "id": "689895bd0000000029026918",
+      "content": "6007给分不错 虽然学着有点难",
+      "showTags": [],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "userId": "648c9737000000001f0042d3",
+        "nickname": "Russwqqa",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHKCovvnZ3xuJq3xNmXXk4ZqPftSG-bP0xeFo1WJ0G98="
+      },
+      "subCommentHasMore": false,
+      "liked": false,
+      "createTime": 1765546481000,
+      "ipLocation": "广东",
+      "invalid": false,
+      "content": "传说中的水课6013难度大增",
+      "atUsers": [],
+      "likeCount": "1",
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "693c19f00000000038032a04",
+      "subCommentCursor": "",
+      "noteId": "68988a1e0000000023033fed",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "content": "dissertation是不是得给导师写邮件再选啊[哭惹R]（那岂不是现在就要定论文的方向了）",
+      "likeCount": "2",
+      "createTime": 1754848496000,
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31psad594kg6g5om53mkjhrppf5b6bog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBZqHmrXvTEZ3C_iIr5JnPot8XfZZcN_PxN_pLGLU0NA=",
+        "userId": "62c51da9000000000e00ef39",
+        "nickname": "这是一个名字"
+      },
+      "subCommentCursor": "",
+      "id": "6898dcf0000000002b008314",
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "68988a1e0000000023033fed",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "noteId": "68988a1e0000000023033fed",
+      "liked": false,
+      "likeCount": "3",
+      "status": -2,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1754827448000,
+      "subCommentCursor": "68988d46000000002b018d1b",
+      "id": "68988ab8000000002b021f53",
+      "content": "排除6007，6011，8004，8005",
+      "userInfo": {
+        "nickname": "不卖糖果🍭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/58f049c702f37d109aa24d29.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByS0__qf-jKzpLR2-ImGu0M0seGj7LSdzzI29ZE8LZWA=",
+        "userId": "58dd03e36a6a69786fd12c39"
+      },
+      "ipLocation": "广东",
+      "subCommentCount": "18",
+      "subComments": [
+        {
+          "noteId": "68988a1e0000000023033fed",
+          "content": "Get，谢谢！请问如果选项目研究是第二学期或者夏季学期才选吗",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABHKCovvnZ3xuJq3xNmXXk4ZqPftSG-bP0xeFo1WJ0G98=",
+            "userId": "648c9737000000001f0042d3",
+            "nickname": "Russwqqa",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1754828102000,
+          "invalid": false,
+          "id": "68988d46000000002b018d1b",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "68988ab8000000002b021f53",
+            "userInfo": {
+              "userId": "58dd03e36a6a69786fd12c39",
+              "nickname": "不卖糖果🍭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/58f049c702f37d109aa24d29.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AByS0__qf-jKzpLR2-ImGu0M0seGj7LSdzzI29ZE8LZWA="
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "城大 CS6536 DS",
+  "search_item": {
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FssVmeaSOD_YY9RggEFsf88=",
+    "id": "68988a1e0000000023033fed",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "球Cityu DS专业选课推荐",
+      "user": {
+        "nickname": "Russwqqa",
+        "xsecToken": "ABIJyaA39_k4GjamMIno_DMfeNMm49BX28iGSOWOW4xMI=",
+        "nickName": "Russwqqa",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317f6hvk1466g5p4cisrnogmj0cegivg?imageView2/2/w/80/format/jpg",
+        "userId": "648c9737000000001f0042d3"
+      },
+      "interactInfo": {
+        "collectedCount": "78",
+        "commentCount": "37",
+        "sharedCount": "12",
+        "liked": false,
+        "likedCount": "46",
+        "collected": false
+      },
+      "cover": {
+        "height": 653,
+        "width": 1372,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251233/3b309720d090f9e52be577ea02325793/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251233/696e33f8082973deabeae30521c2bf4f/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 653,
+          "width": 1372,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251233/3b309720d090f9e52be577ea02325793/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251233/696e33f8082973deabeae30521c2bf4f/notes_pre_post/1040g3k831l0l236i34kg5p4cisrnogmjn6vjhqg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "index": 8,
+    "exposed": true,
+    "trackId": "68988a1e0000000023033fed"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "note_id": "67584bb70000000002016c6b",
+  "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
+  "fetched_at": 1784874269.1158562,
+  "note": {
+    "current_time": 1784874270115,
+    "cursor_score": "",
+    "items": [
+      {
+        "model_type": "note",
+        "note_card": {
+          "title": "香港城市大学CS5481 Data Engineering",
+          "desc": "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人。讲课内容涉及的地方挺多，前半部分是数据抓取，处理，可视化，中间聊了聊大模型，后半部分讲了讲数据索引(B树B+树)，数据存储sql，nosql，以及推荐系统等等，涉及到的内容不少，每节课的tutorial基本是教授这节课涉及到的编程，比较详细，然后有两次作业，难度不高，还有一个小组合作项目，可以在老师给的题目当中选，有简单的比如数据可视化可以划水。最后一节课还有复习课，会带着你把重点过一遍然后讲讲presentation以及期末注意事项，甚至还有答疑环节。不管是想水还是深挖感觉都可以选这门课，下学期老师应该还会带nlp。哦对了，有线上直播还有录播非常棒。\n期末考试难度感觉还好，基本都上课提过。\n#香港城市大学[话题]#",
+          "user": {
+            "user_id": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg",
+            "xsec_token": "AB45iCf4QB43H30DxABLFs6iCZ33faT33vC7czAoq8PW8="
+          },
+          "interact_info": {
+            "liked_count": "46",
+            "collected_count": "44",
+            "comment_count": "10",
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "share_count": "21",
+            "followed": false,
+            "relation": "none"
+          },
+          "image_list": [
+            {
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/b1449ca03f193bb69935c34daa6ab67d/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nd_prv_wgth_webp_3",
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/6e5eced07f26b1d5154a40ad5841f51d/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nd_dft_wgth_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "1040g00831b7svgv1no5g5ojui0e8d5sebo931ng",
+              "height": 1396,
+              "width": 2560,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/b1449ca03f193bb69935c34daa6ab67d/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241424/6e5eced07f26b1d5154a40ad5841f51d/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nd_dft_wgth_webp_3"
+                }
+              ]
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1733839799000,
+          "note_id": "67584bb70000000002016c6b",
+          "type": "normal",
+          "last_update_time": 1733850285000,
+          "share_info": {
+            "un_share": false
+          }
+        },
+        "ignore": false,
+        "id": "67584bb70000000002016c6b"
+      }
+    ]
+  },
+  "comments": {
+    "comments": [
+      {
+        "id": "6a4c9ce50000000015000125",
+        "content": "请问5481有实验课吗，上课在几点呀",
+        "like_count": "0",
+        "create_time": 1783405797000,
+        "ip_location": "广东",
+        "sub_comment_count": "5",
+        "sub_comment_has_more": true,
+        "note_id": "67584bb70000000002016c6b",
+        "status": 0,
+        "sub_comments": [
+          {
+            "id": "6a4c9d22000000001500120e",
+            "note_id": "67584bb70000000002016c6b",
+            "at_users": [],
+            "like_count": "0",
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "6a4c9ce50000000015000125",
+              "user_info": {
+                "user_id": "61584214000000000201ea9f",
+                "nickname": "不错不错",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0q550diqs05oao88a0jqkvbe60kfo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABX_FevtMRxbNqg5zi1QL64bwb6JawUPodPmLKYmAWUwo="
+              }
+            },
+            "status": 0,
+            "content": "因为看到有人这个课6点开始，前后两个教室",
+            "liked": false,
+            "user_info": {
+              "xsec_token": "ABX_FevtMRxbNqg5zi1QL64bwb6JawUPodPmLKYmAWUwo=",
+              "user_id": "61584214000000000201ea9f",
+              "nickname": "不错不错",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0q550diqs05oao88a0jqkvbe60kfo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "show_tags": [],
+            "create_time": 1783405858000,
+            "invalid": false
+          }
+        ],
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0q550diqs05oao88a0jqkvbe60kfo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABX_FevtMRxbNqg5zi1QL64bwb6JawUPodPmLKYmAWUwo=",
+          "user_id": "61584214000000000201ea9f",
+          "nickname": "不错不错"
+        },
+        "sub_comment_cursor": "6a4c9d22000000001500120e",
+        "invalid": false,
+        "show_tags": []
+      },
+      {
+        "content": "请问有pre吗",
+        "ip_location": "新加坡",
+        "sub_comment_cursor": "",
+        "id": "68ac337e0000000030029c9e",
+        "note_id": "67584bb70000000002016c6b",
+        "like_count": "0",
+        "liked": false,
+        "user_info": {
+          "user_id": "5e21624b00000000010049cf",
+          "nickname": "12Pac",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3221gbqc97k005nh1c95g8iefrvetge0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABhu3KeGpAQN-x2j4aV-pUN8IqjOvhmKdPTbzHj4KW2TU="
+        },
+        "show_tags": [],
+        "create_time": 1756115838000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "status": 0,
+        "at_users": [],
+        "invalid": false
+      },
+      {
+        "sub_comment_cursor": "",
+        "sub_comments": [],
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABnJnbwUPhNQdcmWf4SUSy04CZS7pDL0M1d5tqAPwEb7E=",
+          "user_id": "5e08d42d00000000010079e4",
+          "nickname": "kk脆汁机",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318l6o8k4kc005ng8qgmg8uf43mj0s68?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "create_time": 1756712098000,
+        "sub_comment_has_more": false,
+        "status": 0,
+        "ip_location": "中国香港",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "id": "68b54ca2000000000b016a3d",
+        "note_id": "67584bb70000000002016c6b",
+        "content": "请问这门课semb开吗[哭惹R]",
+        "at_users": [],
+        "show_tags": [],
+        "liked": false
+      },
+      {
+        "sub_comment_cursor": "688c80fd0000000029033507",
+        "note_id": "67584bb70000000002016c6b",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322f1seuin2004a1ln644re3ddrgnbfo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABYSN1Kx9md0vDHWcI6ZHSYdv2p3TNkq0SMDuXld4G1M0=",
+          "user_id": "5a8d884de8ac2b04cb80b86d",
+          "nickname": "去冰猫猫头"
+        },
+        "show_tags": [],
+        "create_time": 1754036764000,
+        "ip_location": "广东",
+        "sub_comment_count": "1",
+        "sub_comment_has_more": false,
+        "id": "688c7a1c000000002a00d0f1",
+        "at_users": [],
+        "sub_comments": [
+          {
+            "invalid": false,
+            "id": "688c80fd0000000029033507",
+            "note_id": "67584bb70000000002016c6b",
+            "content": "前置课一般来说没法选，可以提交一个本科成绩单证明修过类似的课程豁免",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1754038526000,
+            "status": 0,
+            "user_info": {
+              "user_id": "627e901c000000002102978e",
+              "nickname": "Richett_L",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABngQ9weHIU7PF13TjzE32qTRn32sJKJcPFqJf0ay_F5c="
+            },
+            "ip_location": "广东",
+            "target_comment": {
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABYSN1Kx9md0vDHWcI6ZHSYdv2p3TNkq0SMDuXld4G1M0=",
+                "user_id": "5a8d884de8ac2b04cb80b86d",
+                "nickname": "去冰猫猫头",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322f1seuin2004a1ln644re3ddrgnbfo?imageView2/2/w/120/format/jpg"
+              },
+              "id": "688c7a1c000000002a00d0f1"
+            }
+          }
+        ],
+        "content": "请问这门课需要前置课程吗？今年好像有，但前置课程我们不能选，5481可以选，好奇怪[笑哭R]",
+        "like_count": "0",
+        "status": -2,
+        "liked": false,
+        "invalid": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 4,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5481 城大",
+  "search_item": {
+    "id": "67584bb70000000002016c6b",
+    "model_type": "note",
+    "note_card": {
+      "image_list": [
+        {
+          "height": 1396,
+          "width": 2560,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241424/0fc72fd59858e0bcc2a2db166e0fb4ed/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241424/eb1c6ead637be9d3f16467342525ca8f/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2024-12-11"
+        }
+      ],
+      "type": "normal",
+      "display_title": "香港城市大学CS5481 Data Engineering",
+      "user": {
+        "nick_name": "Richett_L",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/80/format/jpg",
+        "user_id": "627e901c000000002102978e",
+        "nickname": "Richett_L",
+        "xsec_token": "AB9Cg0O2_hoA1v2k6dkhaMf53X6CNmglhAj7c2cAM4c4c="
+      },
+      "interact_info": {
+        "shared_count": "21",
+        "liked": false,
+        "liked_count": "46",
+        "collected": false,
+        "collected_count": "44",
+        "comment_count": "10"
+      },
+      "cover": {
+        "height": 1396,
+        "width": 2560,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241424/0fc72fd59858e0bcc2a2db166e0fb4ed/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241424/eb1c6ead637be9d3f16467342525ca8f/1040g00831b7svgv1no5g5ojui0e8d5sebo931ng!nc_n_webp_prv_1"
+      }
+    },
+    "xsec_token": "ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg="
+  }
+}

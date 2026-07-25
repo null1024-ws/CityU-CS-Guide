@@ -1,0 +1,143 @@
+{
+  "note_id": "65d6df6000000000070059be",
+  "url": "https://www.xiaohongshu.com/explore/65d6df6000000000070059be?xsec_token=ABrwL8hnBJ3lHCD5e5jEZZJZKihubvCADLIA62tPf5rOw=",
+  "fetched_at": 1784955410.4476256,
+  "course_codes": [
+    "CS5223",
+    "CS5322",
+    "CS5424",
+    "CS5425"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "新加坡国立大学CS就读体验（二、课程评价）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "浅评SOC第一学期课程主观版\n\t\nIS4302 区块链技术\n选这门课是因为本科做过一些区块链研究，并且想通过这门课深入学习一下，判断将来是否将web3作为择业方向。4000开头的是给本科生课程，硕士期间最多选两门，本以为本科生的课程是不如硕士深入的，然而实际体验并非如此，这门课的workload很大，lab，assignment，essay，组队project，期中考试，一个不少。课程前半部分主要讲区块链 以太坊中的一些基本概念和solidity编程实践，后半部分讲oracle等一些当前实践面临的问题。总体来说这门课适合想了解和入门区块链的同学，白人老师口音纯正且贼帅，但课业不轻松。\n\t\nCS5424分布式数据库\n上学期选的课程内容最难的一门课，教学内容如其名，虽然难但都是非常有用和经典的知识。包括分布式数据库的存储，查询，提交，事务，共识一致性，优化，可以说是把分布式数据库的问题说尽了。并且有一个利用学院的计算机集群搭建分布式数据库并优化的project供实践。老师回答问题和邮件很积极，唯一美中不足的是感觉这种重在理解的课程很难通过考试来评价学生的掌握程度，所以平时的quiz和最后的期末考感觉只是在考察一些固定的套路，做对与否都不能体现这门课的核心意义。（这里表扬cs5223分布式系统，改编mit6.824 只有4个lab，没有考试，深以为cs考试没有意义）\n\t\nCS5322 数据库安全\ninfoSecurity的core之一，不错的课程，老师是中国人后面港博来nus的，这门课主要以Oracle数据库为例介绍保障数据库安全的策略和一些数学加密、概率论等方法。开阔眼界，生动有趣。有组队project实践，课程比较轻松，后半学期分组读论文并pre。\n\t\nCS5425 大数据系统\n入门Hadoop、Spark machine learning的基础课，内容详实，讲授清晰。lab是用databrick这个平台对给定数据集进行分析。重在理解MapReduce思想。适合想了解数据分析的同学。但如果已经有基础的话不建议选择，可学内容不多。#NUS[话题]# #计算机[话题]# #留学[话题]# #NTU[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问一下有VR方面的硕士专业能申吗",
+      "sourceRef": "comment:66f86479000000002400fad0",
+      "commentId": "66f86479000000002400fad0",
+      "likes": 0,
+      "author": "Xxz_"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个我当时搜集过，好像没找到vr直接相关的",
+      "sourceRef": "comment:6705f1d60000000012027e2d",
+      "commentId": "6705f1d60000000012027e2d",
+      "likes": 0,
+      "author": "无问西东"
+    },
+    {
+      "type": "comment",
+      "text": "如果5223是Li jialin那确实一致好评，如果是另一位就表贬不一了[偷笑R]",
+      "sourceRef": "comment:65d823db000000000300400c",
+      "commentId": "65d823db000000000300400c",
+      "likes": 4,
+      "author": "Marshall"
+    },
+    {
+      "type": "sub_comment",
+      "text": "正在上jialin的[微笑R]",
+      "sourceRef": "comment:65d833cf0000000003007ba9",
+      "commentId": "65d833cf0000000003007ba9",
+      "likes": 1,
+      "author": "无问西东"
+    },
+    {
+      "type": "comment",
+      "text": "你好，想请问下5424的group project evaluation是放在一天线下pre的吗，还是那一周都有timeslot可以选啊[皱眉R]上课那天刚好不在坡，不知道可不可以和教授请假线上pre",
+      "sourceRef": "comment:67219fc80000000017027daf",
+      "commentId": "67219fc80000000017027daf",
+      "likes": 0,
+      "author": "Blurrr"
+    },
+    {
+      "type": "sub_comment",
+      "text": "自己选时间",
+      "sourceRef": "comment:6724373d000000003d01d881",
+      "commentId": "6724373d000000003d01d881",
+      "likes": 0,
+      "author": "无问西东"
+    },
+    {
+      "type": "comment",
+      "text": "这两门课是cs读博才有么？还是cs本科就有了？",
+      "sourceRef": "comment:65d92cff000000000c02706c",
+      "commentId": "65d92cff000000000c02706c",
+      "likes": 0,
+      "author": "月儿"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本科好像都可以选",
+      "sourceRef": "comment:65db6ddd000000000c025395",
+      "commentId": "65db6ddd000000000c025395",
+      "likes": 0,
+      "author": "hi"
+    },
+    {
+      "type": "comment",
+      "text": "请问非cs专业的有机会选到你们的课吗[哭惹R] 我看只能appeal",
+      "sourceRef": "comment:65d7062800000000030055e7",
+      "commentId": "65d7062800000000030055e7",
+      "likes": 0,
+      "author": "呜噜噜爱肥肥应"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个不清楚，好像可以appeal",
+      "sourceRef": "comment:65d7105c0000000005038369",
+      "commentId": "65d7105c0000000005038369",
+      "likes": 0,
+      "author": "无问西东"
+    },
+    {
+      "type": "comment",
+      "text": "确实是不错的攻略了，提前感谢下学长哈哈",
+      "sourceRef": "comment:66712143000000001202e6a1",
+      "commentId": "66712143000000001202e6a1",
+      "likes": 0,
+      "author": "阡陌"
+    },
+    {
+      "type": "comment",
+      "text": "lab是指回家做的作业吗",
+      "sourceRef": "comment:66a84f3d0000000015009597",
+      "commentId": "66a84f3d0000000015009597",
+      "likes": 0,
+      "author": "小元jacob"
+    },
+    {
+      "type": "comment",
+      "text": "爆杀NTU",
+      "sourceRef": "comment:65de0ed80000000004014e2d",
+      "commentId": "65de0ed80000000004014e2d",
+      "likes": 0,
+      "author": "Bôh"
+    },
+    {
+      "type": "comment",
+      "text": "5424和5223异同点在哪",
+      "sourceRef": "comment:669dee56000000001500a035",
+      "commentId": "669dee56000000001500a035",
+      "likes": 1,
+      "author": "小元jacob"
+    },
+    {
+      "type": "comment",
+      "text": "4302是Garcia吗？",
+      "sourceRef": "comment:65e4045b0000000004016ed8",
+      "commentId": "65e4045b0000000004016ed8",
+      "likes": 0,
+      "author": "今天的due赶完了吗"
+    }
+  ]
+}

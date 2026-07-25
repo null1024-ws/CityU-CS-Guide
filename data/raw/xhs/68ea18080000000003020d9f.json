@@ -1,0 +1,254 @@
+{
+  "note_id": "68ea18080000000003020d9f",
+  "url": "https://www.xiaohongshu.com/explore/68ea18080000000003020d9f?xsec_token=ABo3yJ3Xv3lcZOzLmFlVyfVbi0lrMimiJy0mqxMs5THEo=",
+  "fetched_at": 1784952184.448294,
+  "note": {
+    "xsecToken": "ABo3yJ3Xv3lcZOzLmFlVyfVbi0lrMimiJy0mqxMs5THEo=",
+    "type": "normal",
+    "title": "分享一个好的agent 学习资料 cs294",
+    "desc": "CS294/194-196: Agentic AI. https://rdi.berkeley.edu/agentic-ai/f25\n\t\n非常新的教学材料，课程正在进行中\n干货满满但又不会涉及到overkill的llm training 的数学算法。",
+    "user": {
+      "userId": "5df580ca00000000010049a1",
+      "nickname": "左边脸偏右",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5df580ee3bba0a0001a387ca.jpg",
+      "xsecToken": "ABbxlfgaX-jCREyHHENHHyE5aLejcd1YIqZ0gNQjTTaQ4="
+    },
+    "imageList": [
+      {
+        "height": 1562,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251203/bf61edcd93af0b86af84fa01f79bb4e5/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251203/06053404e8a17ccf00cd4acd4c0da6df/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o",
+        "width": 2222,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251203/bf61edcd93af0b86af84fa01f79bb4e5/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251203/06053404e8a17ccf00cd4acd4c0da6df/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1760172040000,
+    "noteId": "68ea18080000000003020d9f",
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "6",
+      "likedCount": "73",
+      "collectedCount": "116",
+      "shareCount": "15",
+      "followed": false
+    },
+    "atUserList": [],
+    "time": 1760172040000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "noteId": "68ea18080000000003020d9f",
+      "status": 0,
+      "content": "真的很有干货么？听完前两节感觉啥都没说哎",
+      "atUsers": [],
+      "subCommentCount": "2",
+      "invalid": false,
+      "id": "68ea1a120000000039030e13",
+      "createTime": 1760172563000,
+      "subComments": [
+        {
+          "status": 0,
+          "content": "感觉更像seminar，不像普通意义上的课程",
+          "likeCount": "7",
+          "userInfo": {
+            "userId": "63a0cd0f0000000026012993",
+            "nickname": "dd",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j3can8h0s005ot0pk7piacjqtebr38?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABH5FC644iNja1jmKWKd7enudtG54RnN9lyfdoXfZ2g-0="
+          },
+          "showTags": [],
+          "createTime": 1760173712000,
+          "id": "68ea1e8f00000000390239aa",
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "68ea1a120000000039030e13",
+            "userInfo": {
+              "userId": "5ef391ad0000000001004434",
+              "nickname": "阿巴阿巴的loopy同学",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310cs5loimm005nnji6mg8h1klgghp0o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoOCxcG7TQqyaShX3if6K3ARCh7hKmPyYx8sx5gP69t4="
+            }
+          },
+          "invalid": false,
+          "noteId": "68ea18080000000003020d9f"
+        }
+      ],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310cs5loimm005nnji6mg8h1klgghp0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoOCxcG7TQqyaShX3if6K3ARCh7hKmPyYx8sx5gP69t4=",
+        "userId": "5ef391ad0000000001004434",
+        "nickname": "阿巴阿巴的loopy同学"
+      },
+      "ipLocation": "英国",
+      "subCommentCursor": "68ea1e8f00000000390239aa",
+      "likeCount": "2",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [],
+      "invalid": false,
+      "id": "68ec23eb0000000037012150",
+      "status": 0,
+      "content": "好吧 我承认干货其实也没这么多 建议大家跳着看",
+      "atUsers": [],
+      "likeCount": "1",
+      "createTime": 1760306155000,
+      "subCommentCursor": "",
+      "userInfo": {
+        "userId": "5df580ca00000000010049a1",
+        "nickname": "左边脸偏右",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5df580ee3bba0a0001a387ca.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDNCNmtqFriqnHxb9nW_JRKPcomhhQYca2fobimNQHVQ="
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "noteId": "68ea18080000000003020d9f",
+      "liked": false,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68ecb21b0000000038027767",
+      "content": "感谢分享～",
+      "userInfo": {
+        "userId": "66d58223000000001d0335f7",
+        "nickname": "nrtmovr",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ut1q0noiq005pmlg8hnedfnq0ps2m8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNamUanRDP8KmwPVJualk4fbKf3jKJTzK3Z8dv4f1hW0="
+      },
+      "subCommentHasMore": false,
+      "noteId": "68ea18080000000003020d9f",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1760342556000,
+      "ipLocation": "澳大利亚",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "likeCount": "0",
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "6a4f2f190000000015012880",
+      "createTime": 1783574298000,
+      "ipLocation": "福建",
+      "noteId": "68ea18080000000003020d9f",
+      "liked": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": -2,
+      "userInfo": {
+        "xsecToken": "ABe80Ef9xp274oDgT6agL2ApAvMuXOzqF2HsLGH1jwxpI=",
+        "userId": "65b3df11000000000e024160",
+        "nickname": "ssslu.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31noa5ia1lm005pdjrs8jkgb0o5s67gg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "content": "请问后面博主又学了什么课程呢",
+      "atUsers": [],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 AI guided study",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1562,
+          "width": 2222,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251202/c0077bf3776abc2444e6e751c53a5c75/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251202/3494d43308a1a9ec6ac9bf737beccc29/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-10-11",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "分享一个好的agent 学习资料 cs294",
+      "user": {
+        "nickName": "左边脸偏右",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5df580ee3bba0a0001a387ca.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5df580ca00000000010049a1",
+        "nickname": "左边脸偏右",
+        "xsecToken": "ABdNeSN7DrNdBzr_9muexOf13V9R18fGfSFUJ-YrK7CDM="
+      },
+      "interactInfo": {
+        "likedCount": "73",
+        "collected": false,
+        "collectedCount": "116",
+        "commentCount": "6",
+        "sharedCount": "15",
+        "liked": false
+      },
+      "cover": {
+        "height": 1562,
+        "width": 2222,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251202/c0077bf3776abc2444e6e751c53a5c75/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251202/3494d43308a1a9ec6ac9bf737beccc29/notes_pre_post/1040g3k831ng9i8216m005nflg3508id1u62l59o!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABo3yJ3Xv3lcZOzLmFlVyfVbi0lrMimiJy0mqxMs5THEo=",
+    "id": "68ea18080000000003020d9f",
+    "index": 2,
+    "exposed": true,
+    "trackId": "68ea18080000000003020d9f"
+  }
+}

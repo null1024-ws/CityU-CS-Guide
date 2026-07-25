@@ -1,0 +1,381 @@
+{
+  "note_id": "682d5b26000000000c039eaf",
+  "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+  "fetched_at": 1784952882.1709435,
+  "note": {
+    "xsecToken": "ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+    "desc": "课是一节不听的，锐评是一定要的。\n1. CS5296 Cloud Computing: Theory and Practice\n3*assignment20%+2*paper review15%+project25%+final40%\n考前划的重点就是考点，开卷考试，难度大，课件里几乎没有例题可以练习，课件里涉及到计算和画图的基本都考了，写不完也不会写，考完一直担心会不会挂科。考了Cloud service, platform,cpu virtualization, 调度问题，chord（p2p）一整个大题，WFQ scheduling一整个大题，token bucket等。想混的不建议选这门课。\n2.CS5483 Data Warehousing and Data Mining\n10*tutorial5%+个人project10%+group project15%+midterm 20%+final 50%\ntutorial耗时耗力难度大，性价比太低，网上也找不到答案，直接放弃了。个人project答案和期中试卷已上传github。期中期末考试都挺简单，期末考了DBSCAN，BUC两个算法排序题,DBSCAN和Optics的异同填空题，Single linkage and k-means，Apriori and association rules, FOIL and Info Gain,没考第十二章数据仓库的内容。\n3.CS5489 Machine Learning: Algorithms and Application\n10*tutorial10%+2*assignment20%+project30%+midterm10%+final30%\n作业答案网上都有，期中试卷已上传。期末至少考了30%期中的内容，RBF核，朴素贝叶斯，GAN与梯度消失，RANSAC, transformer等，难度不大就是内容多，啥都想考一点，怀疑是不是换出题老师了，出卷都不按套路出了，还是5487简单些。\n4.CS5491 Artificial Intelligence\nassignment20%+midterm20%+project30%+final30%\n新开的课，老师人十分不错，教学水平高，老师说让我们不用担心考试的事，期中期末全是tutorial里的内容，考试开卷，把tutorial打印带进考场，就算跟我一样计算全错，也能得B,闭眼选就完事了。\n5.CS6493 Natueal Language Processing\n2*assignment30%+group project30%+final40%\n考试闭卷，只看review PPT就差不多了，五道大题，第一道概念题30分，比如prompt类型，skip-gram和CBOW，RAG中的optimizing indexing和when to retrieve等，一道补全代码题12分，想冲a以上的同学需要复习tutorial中的代码，tensor parallelism的row和column实现，PEFT的adapter和lora，llm agents，ppo,dpo和drpo异同，BELU和cross-entropy计算等，竟然没考transformer。\n此外，除了云计算其他课作业助教给分都不错，云计算需要花心思认真写才能拿高分。整理的往年题和一些作业答案都已上传，直接搜CityuMSCS即可，祝大家都能顺利毕业！",
+    "user": {
+      "nickname": "十一",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cb9cq4jgu6g5pn7u1m2ubhmj2m4460",
+      "xsecToken": "ABcCEyPPqAz2HRKQkMQbxFaVlRzIM2pNK5PVrep0Go4CA=",
+      "userId": "66e7f06c000000000b032e36"
+    },
+    "imageList": [
+      {
+        "height": 937,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251214/5ce3fe796cdb7034c635e046261302c7/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nd_prv_wgth_jpg_3",
+        "fileId": "notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00",
+        "width": 1445,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251214/5ce3fe796cdb7034c635e046261302c7/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251214/7dd9246e63ae0aa3c267f4ba139935b0/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251214/7dd9246e63ae0aa3c267f4ba139935b0/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "height": 1329,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251214/dd8940b6ff6da1da134ee9504f477cb2/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251214/0ec0a6df7f41275618cf5c9b52d215e1/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo",
+        "width": 1483,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251214/dd8940b6ff6da1da134ee9504f477cb2/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251214/0ec0a6df7f41275618cf5c9b52d215e1/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1747802918000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "682d5b26000000000c039eaf",
+    "type": "normal",
+    "title": "Cityu cs semB 课程测评",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "137",
+      "commentCount": "13",
+      "shareCount": "11",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "91",
+      "relation": "none"
+    },
+    "tagList": [],
+    "lastUpdateTime": 1748055456000
+  },
+  "comments": [
+    {
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "noteId": "682d5b26000000000c039eaf",
+          "status": 0,
+          "content": "没考勤",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "66e7f06c000000000b032e36",
+            "nickname": "十一",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cb9cq4jgu6g5pn7u1m2ubhmj2m4460?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFiKT8aoROSE0jyTPoiz7UGyH0VdVe1s2jwNaPWS3ZD0="
+          },
+          "createTime": 1767195661000,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广西",
+          "targetComment": {
+            "id": "69550991000000001702d520",
+            "userInfo": {
+              "userId": "64da25f50000000001013b9e",
+              "nickname": "今晚喝椰椰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhjaekj6m5g5p6q4nqgaesuaa8daig?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwUwz20XJ98jTD0Y_MdCKZBZ0QsYDbmRxogBsFZM6nHE="
+            }
+          },
+          "invalid": false,
+          "id": "6955440d000000001601e76a"
+        }
+      ],
+      "id": "69550991000000001702d520",
+      "noteId": "682d5b26000000000c039eaf",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "invalid": false,
+      "showTags": [],
+      "content": "学长[皱眉R]5491这门课会有考勤要求吗",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1767180689000,
+      "subCommentCursor": "6955440d000000001601e76a",
+      "subCommentHasMore": true,
+      "userInfo": {
+        "userId": "64da25f50000000001013b9e",
+        "nickname": "今晚喝椰椰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhjaekj6m5g5p6q4nqgaesuaa8daig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwUwz20XJ98jTD0Y_MdCKZBZ0QsYDbmRxogBsFZM6nHE="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "695c5555000000001601f214",
+      "invalid": false,
+      "id": "695b9b810000000016026373",
+      "noteId": "682d5b26000000000c039eaf",
+      "content": "学长，请问5296和5483您认为哪个相对工作量少一点呢？在准备春招想选相对容易一点的课程[哭惹R]",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "65e06365000000000500ecd0",
+        "nickname": "Aurora",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABu3RpBZWWx49sqa8jnoYL0vghJ_vd4g0mrsXpMAyIcVM="
+      },
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "liked": false,
+      "createTime": 1767611265000,
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "content": "5483只要你放弃只占5%的tutorial其实任务量不算大，云计算好在作业基本上都能找到答案抄，对于我来说，5483耗的时间比云计算多得多",
+          "liked": false,
+          "userInfo": {
+            "userId": "66e7f06c000000000b032e36",
+            "nickname": "十一",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cb9cq4jgu6g5pn7u1m2ubhmj2m4460?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFiKT8aoROSE0jyTPoiz7UGyH0VdVe1s2jwNaPWS3ZD0="
+          },
+          "invalid": false,
+          "id": "695c5555000000001601f214",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767658838000,
+          "ipLocation": "广西",
+          "targetComment": {
+            "id": "695b9b810000000016026373",
+            "userInfo": {
+              "userId": "65e06365000000000500ecd0",
+              "nickname": "Aurora",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABu3RpBZWWx49sqa8jnoYL0vghJ_vd4g0mrsXpMAyIcVM="
+            }
+          },
+          "noteId": "682d5b26000000000c039eaf"
+        }
+      ],
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "696bb027000000000601e82c",
+      "noteId": "682d5b26000000000c039eaf",
+      "atUsers": [],
+      "createTime": 1768665128000,
+      "subCommentCursor": "696c27f80000000009021595",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "invalid": false,
+          "status": 0,
+          "content": "上github上扒一个下来随便改改就行，不麻烦",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "66e7f06c000000000b032e36",
+            "nickname": "十一",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cb9cq4jgu6g5pn7u1m2ubhmj2m4460?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFiKT8aoROSE0jyTPoiz7UGyH0VdVe1s2jwNaPWS3ZD0="
+          },
+          "ipLocation": "广西",
+          "id": "696c27f80000000009021595",
+          "noteId": "682d5b26000000000c039eaf",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768695800000,
+          "targetComment": {
+            "id": "696bb027000000000601e82c",
+            "userInfo": {
+              "nickname": "ocr",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rhpheum746g5ptsnp2395fci1k7l88?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABOObZvpemPS0htXr6xbYA8b5IP2mRCIkel73-Txsfdm0=",
+              "userId": "67bcbe44000000000d0095ec"
+            }
+          }
+        }
+      ],
+      "ipLocation": "广东",
+      "status": 0,
+      "content": "学长请问5491的project一个人做麻烦不，之前想换门别的就没组队，现在感觉组不到人了[微笑R]",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABOObZvpemPS0htXr6xbYA8b5IP2mRCIkel73-Txsfdm0=",
+        "userId": "67bcbe44000000000d0095ec",
+        "nickname": "ocr",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rhpheum746g5ptsnp2395fci1k7l88?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "好人",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "上海",
+      "subComments": [],
+      "status": 0,
+      "createTime": 1747879633000,
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "682e86d000000000070289fb",
+      "noteId": "682d5b26000000000c039eaf",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5cf0da2a000000001001ebb2",
+        "nickname": "28",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321n7tcjunk0g5n7gr8l43qtitf45e7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfZ9fTo1-vDSndOVsd8OFwt0tmRGhpeW6fslH5aHjFY4="
+      },
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "682e78380000000009017701",
+      "content": "好人",
+      "showTags": [],
+      "createTime": 1747875896000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "682d5b26000000000c039eaf",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "liked": false,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5a8d884de8ac2b04cb80b86d",
+        "nickname": "去冰猫猫头",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322f1seuin2004a1ln644re3ddrgnbfo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKiy8oisj3b4UiHfOG531IAxz1GY7NElk1hH9PJwn2nY="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 给分",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "Cityu cs semB 课程测评",
+      "user": {
+        "nickName": "十一",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cb9cq4jgu6g5pn7u1m2ubhmj2m4460?imageView2/2/w/80/format/jpg",
+        "userId": "66e7f06c000000000b032e36",
+        "nickname": "十一",
+        "xsecToken": "AB1o6aRaVyc1tjEwSMXyqIWuWXJvIYChyhgytKTKC3evQ="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "91",
+        "collected": false,
+        "collectedCount": "137",
+        "commentCount": "13",
+        "sharedCount": "11"
+      },
+      "cover": {
+        "height": 937,
+        "width": 1445,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251214/e50add170d2d5309408dd86234f0bc44/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251214/b8564c585017326616e7ba8a41e29956/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 937,
+          "width": 1445,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251214/e50add170d2d5309408dd86234f0bc44/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251214/b8564c585017326616e7ba8a41e29956/notes_pre_post/1040g3k031hnt5o1djs2g5pn7u1m2ubhm4b9vm00!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1329,
+          "width": 1483,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251214/5a3647b01378dd0ef319dd8834e8e93e/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251214/9fd4358a6c8582c0711abbad1bf98227/notes_pre_post/1040g3k031hnt5o1djs205pn7u1m2ubhm53gt0eo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-24"
+        }
+      ]
+    },
+    "xsecToken": "ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+    "id": "682d5b26000000000c039eaf",
+    "index": 0,
+    "exposed": true,
+    "trackId": "682d5b26000000000c039eaf"
+  }
+}

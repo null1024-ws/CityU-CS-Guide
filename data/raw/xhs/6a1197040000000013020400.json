@@ -1,0 +1,116 @@
+{
+  "note_id": "6a1197040000000013020400",
+  "url": "https://www.xiaohongshu.com/explore/6a1197040000000013020400?xsec_token=AB22Vb5yKlAlxoepXRbBcPqRnTBDvQe-OSkqnN5WO4Z5Y=",
+  "fetched_at": 1784952170.1754606,
+  "note": {
+    "xsecToken": "AB22Vb5yKlAlxoepXRbBcPqRnTBDvQe-OSkqnN5WO4Z5Y=",
+    "type": "normal",
+    "title": "CS6601 AI review",
+    "desc": "上学期上了AI，忘了写review🤣\n言简意赅这门课很不错且并不难。\n除了min max那个project比较难，其他的我觉得都还好，而且可以drop分数最低那个project。Autograder有上传次数的限制，所以最好自己写一些unit tests在local测一下。\n考试是开卷，然而题多，多选，还是非常烧脑的。\n视频是要认真看的，ed也需要密切关注，特别是考试期间会有对一些题目的clarification和纠正。office hour是单独约，所以深度社恐的我没有去过一次🤣\n上完能学到很多东西，对于我来说code search的skill大大提高了。\n如果搭配DM，一学期两门课很可行。",
+    "user": {
+      "userId": "5db645d90000000001000db6",
+      "nickname": "拂晓",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6376dba3a248141732e5b3a9.jpg",
+      "xsecToken": "ABDHZ6EyPIGYLGKqJMkpDx1hEv6mm6q3ckx818zvp8t0w="
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "2",
+      "collectedCount": "1",
+      "relation": "none",
+      "collected": false,
+      "commentCount": "",
+      "shareCount": "",
+      "followed": false
+    },
+    "lastUpdateTime": 1779537668000,
+    "noteId": "6a1197040000000013020400",
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251203/89649ec383fda2a0da5c8d3cf42f1b85/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251203/fa669931a5e5d1366982afb70a9b3d0c/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251203/89649ec383fda2a0da5c8d3cf42f1b85/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 1125,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251203/fa669931a5e5d1366982afb70a9b3d0c/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nd_dft_wlteh_jpg_3",
+        "fileId": "oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28",
+        "height": 2088
+      }
+    ],
+    "tagList": [],
+    "atUserList": [],
+    "time": 1779537668000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [],
+  "search_query": "CS6535 AI guided study",
+  "search_item": {
+    "id": "6a1197040000000013020400",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 2088,
+          "width": 1125,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251202/21f80adcf3705325074eb3c69e3a03fc/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251202/3faad2b186abb6b3246310ebf887ac84/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-23"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CS6601 AI review",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6376dba3a248141732e5b3a9.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5db645d90000000001000db6",
+        "nickname": "拂晓",
+        "xsecToken": "ABdV5P5LYKnJ5gOQ_xSzTYD6fRfzvrD7hfL-G8rvxWsFQ=",
+        "nickName": "拂晓"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "1",
+        "commentCount": "0",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "2"
+      },
+      "cover": {
+        "height": 2088,
+        "width": 1125,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251202/21f80adcf3705325074eb3c69e3a03fc/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251202/3faad2b186abb6b3246310ebf887ac84/oss-sg/notes/1040g3l0320gqah6snc0g5ndm8ncg83dml8sob28!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "AB22Vb5yKlAlxoepXRbBcPqRnTBDvQe-OSkqnN5WO4Z5Y=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a1197040000000013020400"
+  }
+}

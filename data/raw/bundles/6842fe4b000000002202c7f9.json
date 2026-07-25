@@ -1,0 +1,68 @@
+{
+  "note_id": "6842fe4b000000002202c7f9",
+  "url": "https://www.xiaohongshu.com/explore/6842fe4b000000002202c7f9?xsec_token=ABFubk_tNmrur0x4YKyI4NdKlT0jhIfBurRgT66b_YOVg=",
+  "fetched_at": 1784954577.524488,
+  "course_codes": [
+    "CS7637"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS7637 KBAI 测评 2025年春 新project ARC",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "选的OMSCS的第一门课，推荐，非CS background，没上过前置课程，full time DS。个人觉得是一门easy B的课程。\n耗时：⭐️⭐️⭐️⭐️约10小时每周，前面几周耗时多一些，熟悉了report和codes的形式了，就比较简单\n作业难度：⭐️⭐️⭐️\n\t\n课程内容包括：看录屏，写作业（作业有三个类别 ARC-AGI, Mini project, 和 Homework)，考试 （Exam 1, Exam 2）参与分（写peer review，survey，论坛讨论，或做小project），每周一个due\n\t\nARC AGI project: 分为5个部分 (ABCD Final)\nA 十分简单 可以hardcode 用于了解整个project\nB 简单 5/16 题正确能拿满分\nC 稍微难 5/16 题正确能拿满分\nD 难 5/16 题正确能拿满分\nFinal 结合前面BCD部分，在local正确15个，hidden case能过15个的情况下，已经有了30/96分。有时间的话可以多做写BC简单的case，我没多少时间所以final 只做了47/96，不影响总成绩还是A。\n\t\nMini project 是一个report配上一个agent，我是先把code写好，然后按照写作打分标准写report，基本都能不扣分。\nHomework 都是写4页左右的report，不用coding，不喜欢文字的话可以多加点图标什么的，不忙的周末可以多写几个。\n\t\nExams 是开卷考，期中和期末各一个，期中考试的时候认真多看了几遍lecture，和期末考试成绩差不多[笑哭R]个人觉得没时间的话，多理解下一些课程中的概念，不用多看几遍视频。\n\t\n参与分 我主要是一开始每周一晚上写6个 peer review，做过一个TTT小project，偶尔在论坛问下问题，基本在期中后参与分就满分了，然后就没有做任何拿参与分的活动了。\nLecture 感觉课程内容比较旧，不过也能学到点东西，也不是很枯燥。\n\t\n我还挺喜欢这门课的，前面一个月感觉比较紧张些，因为第一次接触各个类型的作业形式，后面就变得简单了。\n#OMSCS[话题]# #OMSCS选课[话题]# #北美留学[话题]# #KBAI[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这些作业一开始都会先放出来，可以提前做吗？",
+      "sourceRef": "comment:68a3156100000000270090bd",
+      "commentId": "68a3156100000000270090bd",
+      "likes": 0,
+      "author": "深海"
+    },
+    {
+      "type": "sub_comment",
+      "text": "每周放一点，没有一次性放出",
+      "sourceRef": "comment:68a317190000000030005e82",
+      "commentId": "68a317190000000030005e82",
+      "likes": 0,
+      "author": "Dr 咖啡怪"
+    },
+    {
+      "type": "comment",
+      "text": "请问上这门课需要什么选修课嘛",
+      "sourceRef": "comment:6847517b000000000a035670",
+      "commentId": "6847517b000000000a035670",
+      "likes": 0,
+      "author": "带派的大星"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不用上耶 会Python就行",
+      "sourceRef": "comment:688cddd0000000002a006ba1",
+      "commentId": "688cddd0000000002a006ba1",
+      "likes": 0,
+      "author": "Dr 咖啡怪"
+    },
+    {
+      "type": "comment",
+      "text": "Homework的paper是根据视频内容，去写的paper吗？",
+      "sourceRef": "comment:68c4eb620000000030032cb5",
+      "commentId": "68c4eb620000000030032cb5",
+      "likes": 0,
+      "author": "吃饱再睡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是根据homework的agent写的paper，我是先把code写完再写paper，比较省时间",
+      "sourceRef": "comment:68c569bd00000000300156e9",
+      "commentId": "68c569bd00000000300156e9",
+      "likes": 0,
+      "author": "Dr 咖啡怪"
+    }
+  ]
+}

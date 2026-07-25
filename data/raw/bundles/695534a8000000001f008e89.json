@@ -1,0 +1,66 @@
+{
+  "note_id": "695534a8000000001f008e89",
+  "url": "https://www.xiaohongshu.com/explore/695534a8000000001f008e89?xsec_token=ABaab6IFzhXBNILSuPHTNBf4EMm_Vw6YJl7ASPxTi_YHw=",
+  "fetched_at": 1784952669.957295,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cuhk ie sem1课程测评➕出分（软件工程背景）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#选课[话题]# #香港中文大学[话题]# #信息工程[话题]#\nIEMS5725 Blockchain…\n舒适度：中低\nworkload：中高\n内容覆盖密码学、区块链基础、Solidity 写智能合约以及别的一些延伸话题。作业和项目只要是认真做了给分都很高，但是老师讲课略微晦涩难懂，且期中和期末考只允许带一张 cheat sheet（期中一面期末两面），想拿高分不容易。\n\t\nIEMS5710A Cryptography…\n舒适度：极高\nworkload：低\n前半部分讲密码学相关内容，后半部分更偏向于计算机网络几层 Layer 的安全。作业和考试都可以全联网用ai完成。很适合想要低 workload 的同学选修。\n\t\nIEMS5727A IoT…\n舒适度：低\nworkload：高\n涉及iot的传感器、宽带接入通信、M2M无线协议以及一些软件层面的知识。实验有硬性考勤分；作业可以全 ai 完成；考试开卷，题型是类似最后两次作业的几道场景设计题；结课后大概十一二天还必须要线下去答辩项目，时间上不适合想要享受完整寒假的同学。\n\t\nIEMS5722 Mobile…\n舒适度：中\nworkload：中\n主要内容包括Kotlin 语言基础、安卓编程（Jetpack Composer 等）、移动开发涉及的网络协议、后端开发框架（FastAPI）+ MySQL 以及一些扩展话题。作业照着 Android 官方给的教程跟着敲或者 vibe coding 都行；Essay 是分析一个移动端 App；考试全闭卷而且覆盖内容很广，想拿高分不容易。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "博主还有关于iems的测评吗",
+      "sourceRef": "comment:6a55b1030000000023002798",
+      "commentId": "6a55b1030000000023002798",
+      "likes": 0,
+      "author": "lo3tus"
+    },
+    {
+      "type": "sub_comment",
+      "text": "晚点可能会出",
+      "sourceRef": "comment:6a55b11d000000002a030b04",
+      "commentId": "6a55b11d000000002a030b04",
+      "likes": 0,
+      "author": "有马一龙"
+    },
+    {
+      "type": "comment",
+      "text": "求问ie大多是六月份毕业还是十月份毕业啊",
+      "sourceRef": "comment:6970d6e6000000000f02ada0",
+      "commentId": "6970d6e6000000000f02ada0",
+      "likes": 0,
+      "author": "躺的就是我"
+    },
+    {
+      "type": "sub_comment",
+      "text": "7/10/11月毕业都可 后两个选项交个几百港币行政费用即可",
+      "sourceRef": "comment:6970dded0000000019002611",
+      "commentId": "6970dded0000000019002611",
+      "likes": 0,
+      "author": "有马一龙"
+    },
+    {
+      "type": "comment",
+      "text": "博主还有term2课程推荐么[哭惹R]",
+      "sourceRef": "comment:6a58ead3000000000b03b928",
+      "commentId": "6a58ead3000000000b03b928",
+      "likes": 0,
+      "author": "张有琴"
+    },
+    {
+      "type": "comment",
+      "text": "dd有群吗",
+      "sourceRef": "comment:6961aa6500000000140353f0",
+      "commentId": "6961aa6500000000140353f0",
+      "likes": 0,
+      "author": "BiuB💤"
+    }
+  ]
+}

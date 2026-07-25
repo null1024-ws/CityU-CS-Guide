@@ -1,0 +1,878 @@
+{
+  "note_id": "6a4b338d000000001c024ba4",
+  "url": "https://www.xiaohongshu.com/explore/6a4b338d000000001c024ba4?xsec_token=ABRBiW1uDdVO92GTsMiMb2V6uJ0Luwiwh3WZqSP3SwoYI=",
+  "fetched_at": 1784950020.4986725,
+  "note": {
+    "current_time": 1784950023549,
+    "cursor_score": "",
+    "items": [
+      {
+        "ignore": false,
+        "id": "6a4b338d000000001c024ba4",
+        "model_type": "note",
+        "note_card": {
+          "note_id": "6a4b338d000000001c024ba4",
+          "type": "normal",
+          "last_update_time": 1783313294000,
+          "ip_location": "江西",
+          "share_info": {
+            "un_share": false
+          },
+          "title": "全网最晚下CityU PhD offer",
+          "desc": "真的很焦虑，终于下了，但是是non-ugc，学费好贵啊啊啊啊啊，系里会补一半吗，以及还有宿舍吗[哭惹R][哭惹R][哭惹R][皱眉R]\n\t\n#csphd[话题]# #港三[话题]# #港五[话题]#",
+          "user": {
+            "user_id": "5f0fd289000000000101c1ac",
+            "nickname": "momo",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo",
+            "xsec_token": "ABcer7IZsP12bGNOjXzSdBbeX3GtevOY_yW0yNIbYkwb0="
+          },
+          "interact_info": {
+            "liked_count": "33",
+            "collected_count": "12",
+            "comment_count": "48",
+            "share_count": "13",
+            "followed": false,
+            "nice_count": "",
+            "liked": false,
+            "collected": false,
+            "relation": "none"
+          },
+          "image_list": [
+            {
+              "file_id": "notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8",
+              "width": 1206,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/4725e1a6ac659965d1cd0a2519aa0d58/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/99ff2f6351a8ecaa247d57fec6014a50/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "height": 1709,
+              "trace_id": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/4725e1a6ac659965d1cd0a2519aa0d58/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/99ff2f6351a8ecaa247d57fec6014a50/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nd_dft_wlteh_webp_3",
+              "stream": {},
+              "live_photo": false
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "63958737000000000100b776",
+              "name": "csphd",
+              "type": "topic"
+            },
+            {
+              "id": "61baf8b600000000010004e8",
+              "name": "港三",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "624c73170000000001003cf4",
+              "name": "港五"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1783313293000
+        }
+      }
+    ]
+  },
+  "comments": {
+    "comments": [
+      {
+        "content": "有补助吗同学",
+        "like_count": "0",
+        "show_tags": [],
+        "ip_location": "贵州",
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "create_time": 1783314155000,
+        "sub_comments": [
+          {
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5f0fd289000000000101c1ac",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABpNrVtYGr_mtMdiYugQs60lpuNKVnGaEfDDb67bs_WMs="
+            },
+            "create_time": 1783314198000,
+            "ip_location": "江西",
+            "target_comment": {
+              "id": "6a4b36eb0000000029034caf",
+              "user_info": {
+                "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0=",
+                "user_id": "5d21af95000000001102433f",
+                "nickname": "小鑫",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "status": 0,
+            "content": "奖学金就是一样的，但是学费贵一倍",
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "invalid": false,
+            "id": "6a4b371500000000150057ad",
+            "note_id": "6a4b338d000000001c024ba4"
+          }
+        ],
+        "status": 0,
+        "user_info": {
+          "user_id": "5d21af95000000001102433f",
+          "nickname": "小鑫",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0="
+        },
+        "note_id": "6a4b338d000000001c024ba4",
+        "sub_comment_count": "17",
+        "sub_comment_cursor": "6a4b371500000000150057ad",
+        "id": "6a4b36eb0000000029034caf"
+      },
+      {
+        "note_id": "6a4b338d000000001c024ba4",
+        "at_users": [],
+        "like_count": "0",
+        "ip_location": "甘肃",
+        "sub_comments": [
+          {
+            "note_id": "6a4b338d000000001c024ba4",
+            "at_users": [],
+            "liked": false,
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "江西",
+            "id": "6a4b3a4c000000001403a2ba",
+            "status": 0,
+            "content": "我是考虑两个思路，如果走学签不行的话，我可以开IANG",
+            "user_info": {
+              "user_id": "5f0fd289000000000101c1ac",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABpNrVtYGr_mtMdiYugQs60lpuNKVnGaEfDDb67bs_WMs="
+            },
+            "create_time": 1783315020000,
+            "target_comment": {
+              "user_info": {
+                "user_id": "638cb8d6000000001f014176",
+                "nickname": "西月雪",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321tvhnmgnu6g5oscn3b7qgbmpcn3l0g?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABdnUQ4czdGibn4HsVLDmcCmFg5i28X4Ktl3ftYbxtpNA="
+              },
+              "id": "6a4b3a05000000002a02c353"
+            },
+            "invalid": false
+          }
+        ],
+        "invalid": false,
+        "status": 0,
+        "content": "请问现在下offer九月入学前还来得及签注吗？",
+        "liked": false,
+        "user_info": {
+          "user_id": "638cb8d6000000001f014176",
+          "nickname": "西月雪",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321tvhnmgnu6g5oscn3b7qgbmpcn3l0g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABdnUQ4czdGibn4HsVLDmcCmFg5i28X4Ktl3ftYbxtpNA="
+        },
+        "create_time": 1783314949000,
+        "sub_comment_has_more": true,
+        "id": "6a4b3a05000000002a02c353",
+        "show_tags": [],
+        "sub_comment_count": "5",
+        "sub_comment_cursor": "6a4b3a4c000000001403a2ba"
+      },
+      {
+        "user_info": {
+          "user_id": "651e69670000000024017c7b",
+          "nickname": "Fränzi",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320sqvemjns0g5p8ud5jp2v3rph1fc2o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABBKMDoph7Er5pOv6gdugH3A98y_ttaCP56rz3GP-vVpI="
+        },
+        "show_tags": [],
+        "create_time": 1784528655000,
+        "sub_comment_cursor": "6a5dd81d000000002b0258bf",
+        "sub_comments": [
+          {
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "nickname": "港三本的考研日记",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66e95ade51dbbac8f58d0f38.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AByyrxxwBUB1NiZtps7fTlyyxD4s71dRr9-o9eOtbLZ_c=",
+              "user_id": "60535ace0000000001003dea"
+            },
+            "show_tags": [],
+            "create_time": 1784535070000,
+            "ip_location": "广东",
+            "target_comment": {
+              "user_info": {
+                "user_id": "651e69670000000024017c7b",
+                "nickname": "Fränzi",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320sqvemjns0g5p8ud5jp2v3rph1fc2o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABBKMDoph7Er5pOv6gdugH3A98y_ttaCP56rz3GP-vVpI="
+              },
+              "id": "6a5dbf0f000000000d021c00"
+            },
+            "invalid": false,
+            "id": "6a5dd81d000000002b0258bf",
+            "note_id": "6a4b338d000000001c024ba4",
+            "status": -2,
+            "content": "宝子你好急[飞吻R][飞吻R][飞吻R]估计您香港申不上呢[黄金薯R]发几个评论就拉黑啦，就这么点胆量。怪不得西工大聚集了一大堆小镇做题家呢，估计活了80年后依旧能听到您谈论高考呢[飞吻R]"
+          }
+        ],
+        "status": 0,
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "id": "6a5dbf0f000000000d021c00",
+        "note_id": "6a4b338d000000001c024ba4",
+        "content": "还是个城市大学。。。香港大学都伸不到吗",
+        "liked": false,
+        "ip_location": "德国",
+        "sub_comment_count": "1",
+        "invalid": false
+      },
+      {
+        "ip_location": "江苏",
+        "sub_comment_cursor": "6a4bd71a000000001500bc81",
+        "status": 0,
+        "at_users": [],
+        "like_count": "1",
+        "show_tags": [],
+        "create_time": 1783354204000,
+        "sub_comments": [
+          {
+            "invalid": false,
+            "id": "6a4bd71a000000001500bc81",
+            "at_users": [],
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "江西",
+            "note_id": "6a4b338d000000001c024ba4",
+            "status": 0,
+            "content": "私聊吧",
+            "liked": false,
+            "user_info": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABpNrVtYGr_mtMdiYugQs60lpuNKVnGaEfDDb67bs_WMs=",
+              "user_id": "5f0fd289000000000101c1ac"
+            },
+            "create_time": 1783355162000,
+            "target_comment": {
+              "id": "6a4bd35b000000002a007f26",
+              "user_info": {
+                "user_id": "62c6a301000000000e00f164",
+                "nickname": "Nifu",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gr0dvc0ju005om6kc0jhsb4m2fgva8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABQzDTjhDjHyzGsUy5iUzKG1DDiAlbwOg6UI9QpfS2JDA="
+              }
+            }
+          }
+        ],
+        "sub_comment_has_more": false,
+        "sub_comment_count": "1",
+        "note_id": "6a4b338d000000001c024ba4",
+        "content": "我和你一模一样，你导师是谁啊？",
+        "user_info": {
+          "xsec_token": "ABQzDTjhDjHyzGsUy5iUzKG1DDiAlbwOg6UI9QpfS2JDA=",
+          "user_id": "62c6a301000000000e00f164",
+          "nickname": "Nifu",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gr0dvc0ju005om6kc0jhsb4m2fgva8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "invalid": false,
+        "id": "6a4bd35b000000002a007f26",
+        "liked": false
+      },
+      {
+        "sub_comment_cursor": "6a4b9d270000000005017b9e",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "xsec_token": "ABs9rU4oNPlrBWWE7Royr3ThR31303DOfC9yVF3G0B9Eg=",
+          "user_id": "6496b2a3000000001f006c83",
+          "nickname": "小西瓜（帽子粉）",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rgd5g8q1m605p4mmahnor43p38ekhg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "create_time": 1783317190000,
+        "invalid": false,
+        "like_count": "1",
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "content": "有的导师给补，好像用part time ra，然后这个工资就相当于一半学费，不完全了解，见过这么操作的",
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "user_id": "60860fc40000000001004e4e",
+              "nickname": "Win",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cdc5ldr0c6g5o461v208jiegehoj1g?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABNCJ-pGSzbdik3UsbEi9yKBpQXJtfDkGLT09Uwegt6iE="
+            },
+            "show_tags": [],
+            "create_time": 1783340328000,
+            "note_id": "6a4b338d000000001c024ba4",
+            "liked": false,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "6a4b42c6000000002b0279fb",
+              "user_info": {
+                "user_id": "6496b2a3000000001f006c83",
+                "nickname": "小西瓜（帽子粉）",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rgd5g8q1m605p4mmahnor43p38ekhg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABs9rU4oNPlrBWWE7Royr3ThR31303DOfC9yVF3G0B9Eg="
+              }
+            },
+            "invalid": false,
+            "id": "6a4b9d270000000005017b9e",
+            "status": 0
+          }
+        ],
+        "note_id": "6a4b338d000000001c024ba4",
+        "status": 0,
+        "content": "不会补一半，可以申请宿舍",
+        "ip_location": "中国香港",
+        "id": "6a4b42c6000000002b0279fb",
+        "sub_comment_has_more": false
+      },
+      {
+        "note_id": "6a4b338d000000001c024ba4",
+        "at_users": [],
+        "id": "6a5b946d00000000150137b7",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31il20m5f0c6g5nkg5ko080pqop7429o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABD11eoG2Y5B_Pt5ayO4xYTAQenfXdHCsQV8A5wLDl39c=",
+          "user_id": "5e902d30000000000100033a",
+          "nickname": "词海集"
+        },
+        "sub_comments": [],
+        "invalid": false,
+        "status": 0,
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1784386670000,
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "content": "自费吗",
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "sub_comment_cursor": ""
+      },
+      {
+        "status": 0,
+        "content": "求bg和导师[害羞R]",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "id": "6a4d3986000000000501665b",
+        "note_id": "6a4b338d000000001c024ba4",
+        "at_users": [],
+        "like_count": "0",
+        "show_tags": [],
+        "ip_location": "湖南",
+        "sub_comment_cursor": "",
+        "liked": false,
+        "user_info": {
+          "user_id": "61aca5830000000010009886",
+          "nickname": "小红薯61AD786D",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABNJvzeNR2ffbmieqghMlF0UZa4Rqro31smsoqnEtsBC8="
+        },
+        "create_time": 1783445894000,
+        "sub_comments": [],
+        "sub_comment_has_more": false
+      },
+      {
+        "content": "offer后面会写补不补",
+        "liked": false,
+        "ip_location": "中国香港",
+        "user_info": {
+          "user_id": "58aaaf686a6a695eca625d80",
+          "nickname": "新鲜珍贵赤诚稀奇",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322e3adr9nu7049660cnmgnc0igsocqg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABfcOHtzQOHP-gNEioprBN9ZWXBRIPcUigej5L-f4lP1c="
+        },
+        "create_time": 1783329347000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "note_id": "6a4b338d000000001c024ba4",
+        "status": 0,
+        "at_users": [],
+        "invalid": false,
+        "id": "6a4b7243000000001500b944",
+        "like_count": "0",
+        "show_tags": []
+      },
+      {
+        "note_id": "6a4b338d000000001c024ba4",
+        "like_count": "0",
+        "create_time": 1783322215000,
+        "invalid": false,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "status": 0,
+        "content": "恭喜！",
+        "show_tags": [],
+        "sub_comment_cursor": "",
+        "id": "6a4b5667000000001500997d",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "69638d1e000000003702b5ff",
+          "nickname": "Elvis",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0q9s60iql05qb3hkfdtdfv08f4pno?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABUtlJIvUqecceiZuDu1NaPz90RTOrAad4FYH_UQeWfsc="
+        },
+        "ip_location": "辽宁"
+      },
+      {
+        "status": 0,
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "id": "6a4badbf0000000005009ade",
+        "like_count": "1",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "64130de40000000012013d8a",
+          "nickname": "和太阳肩并肩",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABqaZU4I_2OmV8SYO9csEz77b-TdHH-0qxB0nHnuBFxy0="
+        },
+        "show_tags": [],
+        "create_time": 1783344576000,
+        "note_id": "6a4b338d000000001c024ba4",
+        "content": "申请的时候，老师没说补的话，大概就不会补了。",
+        "ip_location": "中国香港"
+      },
+      {
+        "sub_comment_cursor": "",
+        "note_id": "6a4b338d000000001c024ba4",
+        "liked": false,
+        "create_time": 1783328177000,
+        "sub_comment_count": "0",
+        "content": "恭喜恭喜🎉",
+        "user_info": {
+          "nickname": "菠萝仔仔",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229807d56s005pegkvvhe20uf9decc8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB2TqMhJuHafAAnbOX_DICEBU5Xod5xHkvIpX8XSr5ei8=",
+          "user_id": "65d0a7ff000000000503081e"
+        },
+        "id": "6a4b6db00000000005017e29",
+        "status": 0,
+        "like_count": "0",
+        "ip_location": "上海",
+        "invalid": false,
+        "at_users": [],
+        "show_tags": [],
+        "sub_comments": [],
+        "sub_comment_has_more": false
+      },
+      {
+        "status": 0,
+        "ip_location": "辽宁",
+        "sub_comments": [],
+        "at_users": [],
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABhEsERal-u41dy8YIbl9bpFWIqVz6VwllSsm2CzsLnXQ=",
+          "user_id": "64297e53000000002a009133",
+          "nickname": "天空没有极限，我的未来无边",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9m2ajdlm6g5p19fp9qh49jdjtlog8?imageView2/2/w/120/format/jpg"
+        },
+        "create_time": 1783333341000,
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "id": "6a4b81dc000000002a033933",
+        "content": "同DS, 好像今年看的就DS有project fund[失望R]",
+        "like_count": "0",
+        "invalid": false,
+        "liked": false,
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "note_id": "6a4b338d000000001c024ba4"
+      },
+      {
+        "note_id": "6a4b338d000000001c024ba4",
+        "status": 0,
+        "like_count": "2",
+        "user_info": {
+          "xsec_token": "ABapA60sskirCbxqdWTimjxEkKNsaudWAD1OxzqqYxQ1g=",
+          "user_id": "6159bf99000000000201e50b",
+          "nickname": "Jason",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m91pjql586g5oapnucgjp8bb8jf8u0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comment_count": "1",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "6a4b35250000000015005bac",
+        "content": "来玩儿[doge]3【复制口令，启动小红书】 \"2026年CityU PhD新生群\"创意集结地, 8月3日期间开放 MU5200 :/#s🥯🍪🍍🥕🥩😉🤗😒😇🍓😇🐟",
+        "create_time": 1783313701000,
+        "ip_location": "中国香港",
+        "liked": false,
+        "show_tags": [],
+        "sub_comment_cursor": "6a4b35910000000015014198",
+        "at_users": [],
+        "sub_comments": [
+          {
+            "invalid": false,
+            "status": 0,
+            "content": "已经发了[黄金薯R]",
+            "at_users": [],
+            "liked": false,
+            "create_time": 1783313809000,
+            "ip_location": "江西",
+            "id": "6a4b35910000000015014198",
+            "note_id": "6a4b338d000000001c024ba4",
+            "like_count": "1",
+            "user_info": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABpNrVtYGr_mtMdiYugQs60lpuNKVnGaEfDDb67bs_WMs=",
+              "user_id": "5f0fd289000000000101c1ac"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "target_comment": {
+              "id": "6a4b35250000000015005bac",
+              "user_info": {
+                "user_id": "6159bf99000000000201e50b",
+                "nickname": "Jason",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m91pjql586g5oapnucgjp8bb8jf8u0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABapA60sskirCbxqdWTimjxEkKNsaudWAD1OxzqqYxQ1g="
+              }
+            }
+          }
+        ]
+      },
+      {
+        "note_id": "6a4b338d000000001c024ba4",
+        "like_count": "0",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "status": 0,
+        "create_time": 1783315077000,
+        "sub_comment_count": "0",
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "sub_comment_cursor": "",
+        "id": "6a4b3a850000000029019b98",
+        "content": "同学宿舍还有吗？办签证来得及吗",
+        "user_info": {
+          "user_id": "5d21af95000000001102433f",
+          "nickname": "小鑫",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0="
+        },
+        "show_tags": [],
+        "ip_location": "贵州"
+      },
+      {
+        "ip_location": "贵州",
+        "id": "6a4b3662000000002a004d99",
+        "note_id": "6a4b338d000000001c024ba4",
+        "sub_comment_has_more": false,
+        "content": "，好的，谢谢",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0=",
+          "user_id": "5d21af95000000001102433f",
+          "nickname": "小鑫"
+        },
+        "create_time": 1783314019000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false,
+        "show_tags": [],
+        "sub_comment_cursor": "",
+        "status": 0,
+        "like_count": "0"
+      },
+      {
+        "status": 0,
+        "show_tags": [],
+        "invalid": false,
+        "at_users": [],
+        "id": "6a4b378c000000002a024178",
+        "like_count": "0",
+        "ip_location": "贵州",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "content": "那还好呀",
+        "liked": false,
+        "user_info": {
+          "user_id": "5d21af95000000001102433f",
+          "nickname": "小鑫",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0="
+        },
+        "create_time": 1783314316000,
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "note_id": "6a4b338d000000001c024ba4"
+      },
+      {
+        "content": "我的还没下，我是6月17号补的资料同学，你是什么时候补的资料啊？好焦虑啊。",
+        "user_info": {
+          "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0=",
+          "user_id": "5d21af95000000001102433f",
+          "nickname": "小鑫",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "note_id": "6a4b338d000000001c024ba4",
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1783313850000,
+        "ip_location": "贵州",
+        "sub_comments": [
+          {
+            "ip_location": "江西",
+            "note_id": "6a4b338d000000001c024ba4",
+            "liked": false,
+            "user_info": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABpNrVtYGr_mtMdiYugQs60lpuNKVnGaEfDDb67bs_WMs=",
+              "user_id": "5f0fd289000000000101c1ac"
+            },
+            "target_comment": {
+              "id": "6a4b35ba0000000029034f03",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2k90je2eim0005n91luakcgpvtnt0gco?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB9Pi73EUjndHMxZahIGFMe5VM5OGw_NKkdbI5I2zCFw0=",
+                "user_id": "5d21af95000000001102433f",
+                "nickname": "小鑫"
+              }
+            },
+            "invalid": false,
+            "id": "6a4b361300000000150161a9",
+            "status": 0,
+            "content": "我比你更晚，我6.30还补了材料。你看一下申请网页有没有变化，以及和导师多多保持联系",
+            "at_users": [],
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1783313940000
+          }
+        ],
+        "sub_comment_has_more": false,
+        "id": "6a4b35ba0000000029034f03",
+        "at_users": [],
+        "status": 0,
+        "sub_comment_cursor": "6a4b361300000000150161a9",
+        "invalid": false
+      },
+      {
+        "status": 0,
+        "content": "求bg",
+        "like_count": "0",
+        "create_time": 1783315084000,
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "id": "6a4b3a8c00000000150178ad",
+        "show_tags": [],
+        "invalid": false,
+        "sub_comments": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "5ece53be0000000001003a50",
+          "nickname": "听劝的momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30sk6vj5r44005nmeaev08eigpcladdg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABuIcHtumx8su5qkV3opiE-aY_0uDjq5P3Lny1ir0Fv6A="
+        },
+        "at_users": [],
+        "sub_comment_cursor": "",
+        "sub_comment_count": "0",
+        "note_id": "6a4b338d000000001c024ba4"
+      },
+      {
+        "ip_location": "中国香港",
+        "sub_comments": [],
+        "status": 0,
+        "liked": false,
+        "show_tags": [],
+        "create_time": 1783334671000,
+        "invalid": false,
+        "content": "欢迎来到香港城市大学喔[偷笑R]",
+        "user_info": {
+          "user_id": "61494697000000001f03a08b",
+          "nickname": "香港城市大学CSSA",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rdjchgm700g5oa98qbnv84b4djjfo0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABOxn-CL54X3SixzvI2u1GyUY1zSGT-tcLc1zdXkYexcE="
+        },
+        "id": "6a4b870e0000000009017be3",
+        "note_id": "6a4b338d000000001c024ba4",
+        "at_users": [],
+        "like_count": "1",
+        "sub_comment_has_more": false,
+        "sub_comment_count": "0",
+        "sub_comment_cursor": ""
+      },
+      {
+        "content": "我的天啊，价格确实贵。有实力可以冲！",
+        "at_users": [],
+        "sub_comment_count": "0",
+        "invalid": false,
+        "id": "6a4b778a0000000004038f57",
+        "liked": false,
+        "user_info": {
+          "xsec_token": "ABNUOYctgeduSOlIrhaR95_KLGYTuxPyNEHzJo9XD2nC8=",
+          "user_id": "5fee9de4000000000100259f",
+          "nickname": "倪究僧",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qavnsbe760g5nvejni089cv8ju5tgg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "ip_location": "广东",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "note_id": "6a4b338d000000001c024ba4",
+        "status": 0,
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1783330698000,
+        "sub_comment_cursor": ""
+      },
+      {
+        "invalid": false,
+        "sub_comments": [],
+        "note_id": "6a4b338d000000001c024ba4",
+        "content": "uu有新生组织可以拉你",
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "610b75dd00000000010076eb",
+          "nickname": "爱吃饭",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qcshjernu605o8beneg8tnbfmt9s90?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABMRI5ra5W70GJyIhhnWDPgSDjqLA_wfDOT76gTwDg6y4="
+        },
+        "create_time": 1783313452000,
+        "ip_location": "海南",
+        "id": "6a4b342b000000001501127a",
+        "status": -2,
+        "show_tags": [],
+        "sub_comment_cursor": "",
+        "sub_comment_count": "0",
+        "at_users": [],
+        "sub_comment_has_more": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 21,
+    "pages_fetched": 3
+  },
+  "search_query": "CS5367 CityU",
+  "search_item": {
+    "id": "6a4b338d000000001c024ba4",
+    "model_type": "note",
+    "note_card": {
+      "cover": {
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251126/16cf383808dfe64ab69ddcd88460c159/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251126/cbc0620534fbe563abd0ec15186230ca/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nc_n_webp_prv_1",
+        "height": 1709,
+        "width": 1206
+      },
+      "image_list": [
+        {
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251126/16cf383808dfe64ab69ddcd88460c159/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251126/cbc0620534fbe563abd0ec15186230ca/notes_pre_post/1040g3k03229401acnuf05nofqa4gbgdcddpa7d8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1709,
+          "width": 1206
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "07-06",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "display_title": "全网最晚下CityU PhD offer",
+      "user": {
+        "nick_name": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rt62s2g2i005nofqa4gbgdcslam1bo?imageView2/2/w/80/format/jpg",
+        "user_id": "5f0fd289000000000101c1ac",
+        "nickname": "momo",
+        "xsec_token": "ABC0lVEAtS4q75xOhuchj0S9VLz51N-OWcuSV8QVE76Q8="
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "33",
+        "collected": false,
+        "collected_count": "12",
+        "comment_count": "48",
+        "shared_count": "13"
+      }
+    },
+    "xsec_token": "ABRBiW1uDdVO92GTsMiMb2V6uJ0Luwiwh3WZqSP3SwoYI="
+  }
+}

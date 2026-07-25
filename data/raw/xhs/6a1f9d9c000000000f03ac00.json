@@ -1,0 +1,322 @@
+{
+  "note_id": "6a1f9d9c000000000f03ac00",
+  "url": "https://www.xiaohongshu.com/explore/6a1f9d9c000000000f03ac00?xsec_token=ABd5hwaLeJ-o-F_geBPvrofyqjqbCXWSPo0YiYtsCeIK0=",
+  "fetched_at": 1784952402.5020447,
+  "note": {
+    "xsecToken": "ABd5hwaLeJ-o-F_geBPvrofyqjqbCXWSPo0YiYtsCeIK0=",
+    "imageList": [
+      {
+        "height": 4590,
+        "width": 2117,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/f59ec43c3825ea3211b013c02efd7526/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/11454249148fc4df97722f971a1956bb/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/f59ec43c3825ea3211b013c02efd7526/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/11454249148fc4df97722f971a1956bb/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o",
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1780456861000,
+    "type": "normal",
+    "title": "Master快毕业啦",
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "62458c2d0000000001005e29",
+        "name": "dsml"
+      },
+      {
+        "id": "600379380000000001008e23",
+        "name": "nus",
+        "type": "topic"
+      }
+    ],
+    "time": 1780456860000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a1f9d9c000000000f03ac00",
+    "desc": "等credit bearing结束后就彻底告别白天上班晚上上课的生活了[哇R]\n\t\n关于DSML的学习资料下方自取～\nhttps://github.com/ZhaoPeiduo/DSML-Materials\n\t\n#dsml[话题]# #nus[话题]#",
+    "user": {
+      "userId": "63eb6e8d0000000027028345",
+      "nickname": "Andrew",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/657e9a0c7281feab2f1795f5.jpg",
+      "xsecToken": "ABqxNAnM-WeT67ne49Kh4iyq-HKStds45Zd8PNhMisi4c="
+    },
+    "interactInfo": {
+      "shareCount": "1",
+      "followed": false,
+      "liked": false,
+      "collected": false,
+      "collectedCount": "27",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "34",
+      "commentCount": "8"
+    }
+  },
+  "comments": [
+    {
+      "createTime": 1780463192000,
+      "subCommentHasMore": true,
+      "noteId": "6a1f9d9c000000000f03ac00",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "noteId": "6a1f9d9c000000000f03ac00",
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "targetComment": {
+            "id": "6a1fb657000000002803810a",
+            "userInfo": {
+              "userId": "5dcf6c0300000000010088a7",
+              "nickname": "kk",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j0jb35a1g005nefdg1g9257lk5n5pg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABF5kJu21lJK_lwUemRzG8BAFn5WxgU6QWR9TaSKRkSTs="
+            }
+          },
+          "invalid": false,
+          "id": "6a1fb85d000000000d022000",
+          "content": "你猜[doge]",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "Andrew",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/657e9a0c7281feab2f1795f5.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB6vbLw_n2OHOouHhDsZkxmgb4DpWW4a54KXgJ-OCb2d8=",
+            "userId": "63eb6e8d0000000027028345"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1780463709000,
+          "ipLocation": "陕西"
+        }
+      ],
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABF5kJu21lJK_lwUemRzG8BAFn5WxgU6QWR9TaSKRkSTs=",
+        "userId": "5dcf6c0300000000010088a7",
+        "nickname": "kk",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j0jb35a1g005nefdg1g9257lk5n5pg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "2",
+      "subCommentCursor": "6a1fb85d000000000d022000",
+      "invalid": false,
+      "id": "6a1fb657000000002803810a",
+      "content": "看老师的成绩单是不是可以避雷5205了[扯脸H]",
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "6a1f9d9c000000000f03ac00",
+          "content": "假期的小学期",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "宅GOGO",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64181d510e6651da59659389.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABKdzmeBO5wEbUKYv2lUlK8pGgdyTJKz4dQ4UeSxUEKGo=",
+            "userId": "641817880000000012013b8e"
+          },
+          "createTime": 1780807251000,
+          "id": "6a24f6530000000029024ab5",
+          "status": 0,
+          "showTags": [],
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "userInfo": {
+              "userId": "694ea97f0000000032029c12",
+              "nickname": "抹茶巧克力蛋糕",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322n6duoj7a005qael5vsl70irgpmnt0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGuebfln6HKYSpCj-LbGEV75mnaq_PSGHlJ8QDmoDtHQ="
+            },
+            "id": "6a22b314000000002803ef99"
+          },
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "抹茶巧克力蛋糕",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322n6duoj7a005qael5vsl70irgpmnt0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABGuebfln6HKYSpCj-LbGEV75mnaq_PSGHlJ8QDmoDtHQ=",
+        "userId": "694ea97f0000000032029c12"
+      },
+      "ipLocation": "天津",
+      "showTags": [],
+      "createTime": 1780658965000,
+      "subCommentCursor": "6a24f6530000000029024ab5",
+      "subCommentHasMore": false,
+      "id": "6a22b314000000002803ef99",
+      "noteId": "6a1f9d9c000000000f03ac00",
+      "content": "特殊学期是啥呀",
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "福建",
+      "invalid": false,
+      "liked": false,
+      "subComments": [],
+      "id": "6a2af54f000000002b0290e7",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABQL0uC0V0CcCnbA1mRq6aGyhUBs4oBwtduDSPXvw-Yuw=",
+        "userId": "5f71e71d000000000100933a",
+        "nickname": "Jacky",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvkaa6e7q0g5nrhsseg94pqshrmn5o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1781200207000,
+      "subCommentCount": "0",
+      "noteId": "6a1f9d9c000000000f03ac00",
+      "content": "兄弟nus硕士25年秋季学期都及格，26年春季Fail了两门s和z,26年秋季我要再选两门x和y达到3.0(26年秋季没有开设s和z,没法重修),可以毕业吗",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a2ac8f3000000002a0275a0",
+      "showTags": [],
+      "invalid": false,
+      "noteId": "6a1f9d9c000000000f03ac00",
+      "ipLocation": "福建",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "content": "请问兄弟上两学期一门必修D和一门选修课F, 9月份第3个学期重修必修这门和选另外一个选修课,可以覆盖必修d和选修f吗,如果第三学期只选修另一门课计算GPA时能覆盖f这门课的成绩吗",
+      "liked": false,
+      "likeCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f71e71d000000000100933a",
+        "nickname": "Jacky",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvkaa6e7q0g5nrhsseg94pqshrmn5o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQL0uC0V0CcCnbA1mRq6aGyhUBs4oBwtduDSPXvw-Yuw="
+      },
+      "createTime": 1781188851000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a1f9d9c000000000f03ac00",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABm43owdxb-E8-IFWaO93dU_5gJC5N2lEsx6_wE8dJ6vY=",
+        "userId": "63fce84c000000001001c4d6",
+        "nickname": "옌옌",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ob147l6u005ovst1643h6md6c9es0?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "subCommentHasMore": false,
+      "id": "6a262181000000002800adfd",
+      "status": 0,
+      "content": "原来special term也可以考虑在parttime里～ 谢谢同学的分享",
+      "createTime": 1780883842000,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 Guided Study in",
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "Master快毕业啦",
+      "user": {
+        "xsecToken": "ABOL6UJSDzjslBNAzWm3NKwymFczqCtdWd7IrU27GMcqQ=",
+        "nickName": "Andrew",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/657e9a0c7281feab2f1795f5.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "63eb6e8d0000000027028345",
+        "nickname": "Andrew"
+      },
+      "interactInfo": {
+        "likedCount": "34",
+        "collected": false,
+        "collectedCount": "27",
+        "commentCount": "8",
+        "sharedCount": "1",
+        "liked": false
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/5191b0d2f8d7b1202ad8568fd7112d70/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nc_n_webp_prv_1",
+        "height": 4590,
+        "width": 2117,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/10e3811a74dc57a9bd891a43790daef0/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 4590,
+          "width": 2117,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/10e3811a74dc57a9bd891a43790daef0/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/5191b0d2f8d7b1202ad8568fd7112d70/oss-sg/notes_pre_post/1040g3mo320ui21dt7k005ovbdq6pt0q59gcg00o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-03"
+        }
+      ]
+    },
+    "xsecToken": "ABd5hwaLeJ-o-F_geBPvrofyqjqbCXWSPo0YiYtsCeIK0=",
+    "id": "6a1f9d9c000000000f03ac00",
+    "modelType": "note",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a1f9d9c000000000f03ac00"
+  }
+}

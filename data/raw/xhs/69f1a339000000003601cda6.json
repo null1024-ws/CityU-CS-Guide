@@ -1,0 +1,220 @@
+{
+  "note_id": "69f1a339000000003601cda6",
+  "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+  "fetched_at": 1784874238.579537,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "69f1a339000000003601cda6",
+        "model_type": "note",
+        "note_card": {
+          "tag_list": [
+            {
+              "type": "topic",
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "5bfa12489c1d82000102c324",
+              "name": "计算机",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1777443641000,
+          "last_update_time": 1777443641000,
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "desc": "免责声明： 由于课程的形式和难度每一年都会有变化，同时本人的评价带有个人主观性，以下内容仅供参考。\n\t\n首先这门课是目前 CS 专业的必修课，同时课程的评价是两极分化的，我个人觉得这门课程讲授的概念和理论是比较实用且先进的。特别是对你之后使用 AI Coding 工具有蛮大的指导意义的（例如如何有效需求分析以及拆解任务，并通过软件测试来保证产品的维护性，以及在时间有限的情况下如何在多个质量属性下做 tradeoff）\n\t\n其次这个课程的 workload 绝对是我参加的课程里面的最大的，有两次线下 quiz 测验，每个占总成绩的 10%，你可以理解为一个期中小测和期末前的小测，题量还是有的。\n\t\n同时作为重头戏的 group project 占总分 30 %，项目本身必须与软件工程相关，并且要按照敏捷开发的流程来进行。同时要交付源代码/项目Demo视频/ 演示 PPT 视频，尽管可以使用 AI，但是你会发现多人协作来开发一个软件项目是非常耗费精力的工作（不过好消息是这绝对是你上手 ai coding 的最佳机会！\n\t\n同时还有一个阅读指定论文提交 1000 words report 的作业（占总分 10%）\n\t\n期末考试占比 40 %，一共10道题目，每个题目十分。\n\t\n这里我简单描述一下大概考了什么内容\nQ1 是一个比较短的scenario 场景题目，有一个project变化太快，同时又adhoc-workflow 问题，队友说可以用incremental model，第一问问你觉得应该用什么model好，第二问回答为什么incremental不行\nQ2 描述了一个 team 为了快速修复bugs，不构建测试。问你这个TD的Intentionality/Types/Time horizon/Degree of Focus，第二问问你哪三种方法可以有效管理TD\nQ3 的scenario中存在两个问题，一是存在有冲突的需求，二是需求太多了做不完，问你应该怎么使用RE中的方法来解决。\n\t\n最后我觉得这门课程适合你有一定的项目开发经验，同时想系统学习一下 software engineering 这门课程的同学。如果你不想从事软件开发的工作只想混学分毕业的话，我建议选课期间提交申请免修这门课（前提你本科修读过类似课程\n#选课[话题]# #cityu[话题]# #计算机[话题]#",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08",
+            "xsec_token": "ABYUhobwcqS4oWZxkq8m8r2ZB2_Xua7IrzHSDJkTDa_6A=",
+            "user_id": "6539d1f0000000000301cfa4",
+            "nickname": "efan404"
+          },
+          "interact_info": {
+            "liked": false,
+            "liked_count": "16",
+            "collected": true,
+            "comment_count": "3",
+            "relation": "none",
+            "collected_count": "14",
+            "share_count": "5",
+            "followed": false,
+            "nice_count": ""
+          },
+          "image_list": [
+            {
+              "height": 1600,
+              "width": 1200,
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241423/e547385717293a252aa9e2d245455ea3/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241423/5ba306ea7aa73db1c597bf89520cb216/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241423/e547385717293a252aa9e2d245455ea3/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nd_prv_wlteh_webp_3",
+              "stream": {},
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241423/5ba306ea7aa73db1c597bf89520cb216/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nd_dft_wlteh_webp_3",
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo"
+            }
+          ],
+          "note_id": "69f1a339000000003601cda6",
+          "title": "CityUHK CS5351 课程锐评"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874239761
+  },
+  "comments": {
+    "comments": [
+      {
+        "invalid": false,
+        "status": 0,
+        "at_users": [],
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "like_count": "2",
+        "create_time": 1777444614000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "id": "69f1a70500000000270235bb",
+        "note_id": "69f1a339000000003601cda6",
+        "content": "比本科时候的软工轻松多了，那时候做一个项目每一步都在网上一通找[笑哭R]",
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB52qNwtocqHzBV-KSM79QZpUo2Pl5c_1Q4NprRk8kagA=",
+          "user_id": "622ff88a0000000002025827",
+          "nickname": "嘻嘻哈哈"
+        }
+      },
+      {
+        "note_id": "69f1a339000000003601cda6",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "63ed89360000000026013b11",
+          "nickname": "用户已注销",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABo0OAgkUbqRdEv9Iec2s1A8eUhzl-DyregwI2tHVgtR8="
+        },
+        "create_time": 1777638240000,
+        "sub_comment_cursor": "",
+        "id": "69f49b60000000002803ba2f",
+        "content": "一点没写错，如果是真想学东西，这课上上还行。但水硕大部分人都是想水，这课几乎要素拉满了：两次quiz，大型项目，给分低，考试难。我两个学期十门课这门课独一档的烦，强烈建议申请豁免。",
+        "show_tags": [],
+        "sub_comments": [],
+        "like_count": "0",
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "sub_comment_count": "0",
+        "invalid": false
+      },
+      {
+        "note_id": "69f1a339000000003601cda6",
+        "status": -2,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABY_ghpCjPOJm_2Xcg0w97Akm1cdWTUHVYSqGllaNJUR0=",
+          "user_id": "6539d1f0000000000301cfa4",
+          "nickname": "efan404"
+        },
+        "ip_location": "中国香港",
+        "id": "69f1ede80000000028030246",
+        "content": "[微笑R]中介和代写别来骚扰我。 同时支持付费咨询",
+        "at_users": [],
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "liked": false,
+        "create_time": 1777462761000,
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "like_count": "0",
+        "show_tags": [
+          "is_author"
+        ],
+        "sub_comment_cursor": ""
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 3,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5351 CityU",
+  "search_item": {
+    "note_card": {
+      "image_list": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/6b3556fa8cd3727bfc1ad8b20c8292d1/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241423/c0a0177c27b0c7d7606260ea58d7996a/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "04-29"
+        }
+      ],
+      "type": "normal",
+      "display_title": "CityUHK CS5351 课程锐评",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/80/format/jpg",
+        "user_id": "6539d1f0000000000301cfa4",
+        "nickname": "efan404",
+        "xsec_token": "ABfl4DnIqsvSffoF-IVuTZT_wnmZ7DCQdrqJLAE4rb33E=",
+        "nick_name": "efan404"
+      },
+      "interact_info": {
+        "collected": true,
+        "collected_count": "14",
+        "comment_count": "3",
+        "shared_count": "5",
+        "liked": false,
+        "liked_count": "16"
+      },
+      "cover": {
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241423/6b3556fa8cd3727bfc1ad8b20c8292d1/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241423/c0a0177c27b0c7d7606260ea58d7996a/notes_pre_post/1040g3k831vhl97psiq705p9pq7o0rjt4pb9ncmo!nc_n_webp_prv_1",
+        "height": 1600
+      }
+    },
+    "xsec_token": "AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
+    "id": "69f1a339000000003601cda6",
+    "model_type": "note"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "note_id": "677bb65b000000001b0013a4",
+  "url": "https://www.xiaohongshu.com/explore/677bb65b000000001b0013a4?xsec_token=ABrBs_Tyf5yyUss1RtIfuoAMpO9mDjxMO10iPyNokZy7M=",
+  "fetched_at": 1784951529.018984,
+  "course_codes": [
+    "CS5222",
+    "CS5285"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS终于出成绩啦！双A拿下✌️附期末速成建议",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "个人情况：Mphil只用7个学分，8695是必选，所以除了8695只用选两门，为了final轻松于是我选了两门本科学过的，这两门课都是前一个月听了，后面一半多的课都没听了（懒狗+别的事情有点多[捂脸R]）所以基本上算是期末速成，可以给出一些建议～\nCS5222:教材是计算机网络自顶向下，和本科的谢希仁计算机网络以及408的计网还是有明显的侧重点不同的区别，不是完全可以吃老本\n作业体验：有三个Problem Set，一个Research Report和一个Wireshark实验。难度不高。\n上课体验：老师讲的很清晰，有提供Zoom直播。如果认认真真听课的话能完全听明白的，但我只有前几节去了后面就摆了。\n期末速成建议：①看PPT，因为看Zoom回放听课实在是太慢了！老师讲的很细所以其实有的地方偏理解的会讲很久，自己看明白会特别省时间。而且开卷考可带打印的PPT所以熟悉PPT和做好标注其实很有用 ②推荐B站中科大郑烇老师的网课，中文版PPT和讲解，讲得也非常非常好！自己看不懂的地方就去看看老师怎么讲的会茅塞顿开。③一定要把作业题（Tutorial和Assignment）全部过一遍，考题至少70%类似\n考试难度：今年题量还是不小，差点没写完orz\nCS5285:这门课如果学过信息安全数学基础和密码学的话学起来会轻松很多。\n作业体验：作业不多，只有两个Problem set。有midterm，但midterm开卷，比较友好\n上课体验：和5222差不多，老师讲课也是很清晰很有意思的，但没有zoom直播\n期末速成建议：①半开卷（可带双面A4 cheat paper），所以我建议midterm的时候就整理好前面的内容，期末就会轻松一些 ②看老师给的notes边做cheat paper边复习，对ppt的批注有写哪些是interest only，哪些内容是需要掌握的，所以复习起来会快很多！③也是一定要把作业题全部过一遍！计算其实就那几种（gcd 逆元 模重复平方等）自己给自己出几道算考场上就会快很多。考完出来听到好几个小伙伴讨论说没算完RSA那道题，算出哪一步就停了去做后面的了，所以可以平时自己多算算更熟练！\n考试难度：对我来说不算难，但是还是有很多细节拿不准的地方（PPT也没有，应该是老师上课讲的）所以如果想拿A+还是建议听听课[捂脸R]\n#cityu[话题]# #选课[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "都好认真啊[哭惹R]我以为到phd就不用管绩点了",
+      "sourceRef": "comment:677c05c40000000021019aa0",
+      "commentId": "677c05c40000000021019aa0",
+      "likes": 0,
+      "author": "shaun"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈哈平时课都翘完了[doge]期末好歹总得突击两天呀[皱眉R]",
+      "sourceRef": "comment:677c09a4000000001b02e79a",
+      "commentId": "677c09a4000000001b02e79a",
+      "likes": 0,
+      "author": "想要天天开心"
+    },
+    {
+      "type": "comment",
+      "text": "5285想要像学姐一样拿A，要咋复习[皱眉R][皱眉R]有点迷茫[叹气R]",
+      "sourceRef": "comment:68f49aee00000000370106f6",
+      "commentId": "68f49aee00000000370106f6",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "就对着ppt和作业挨着整理考点就好了 最后会有一节复习课 老师会给ppt划重点",
+      "sourceRef": "comment:68feeca800000000390215ae",
+      "commentId": "68feeca800000000390215ae",
+      "likes": 0,
+      "author": "想要天天开心"
+    },
+    {
+      "type": "comment",
+      "text": "semb开始的看了下似乎就没轻松的课[笑哭R]",
+      "sourceRef": "comment:677bbb79000000001b03d04e",
+      "commentId": "677bbb79000000001b03d04e",
+      "likes": 0,
+      "author": "太平洋鳗鱼"
+    },
+    {
+      "type": "sub_comment",
+      "text": "hhh有点倒霉[失望R]",
+      "sourceRef": "comment:677bbc11000000001000462b",
+      "commentId": "677bbc11000000001000462b",
+      "likes": 0,
+      "author": "想要天天开心"
+    },
+    {
+      "type": "comment",
+      "text": "学姐你好！请问一下你是电机系的嘛",
+      "sourceRef": "comment:69be741a000000000301026d",
+      "commentId": "69be741a000000000301026d",
+      "likes": 0,
+      "author": "123"
+    },
+    {
+      "type": "comment",
+      "text": "学姐，请问还有去年期中测试的题目吗[哭惹R]",
+      "sourceRef": "comment:68ee4d5b000000003902b630",
+      "commentId": "68ee4d5b000000003902b630",
+      "likes": 0,
+      "author": "T^T"
+    },
+    {
+      "type": "comment",
+      "text": "您好，我给您发私信了，但是发错了，不好意思，想问下您关于cs5285的情况，谢谢您[微笑R][微笑R][微笑R]",
+      "sourceRef": "comment:68c625e8000000003001d8e9",
+      "commentId": "68c625e8000000003001d8e9",
+      "likes": 0,
+      "author": "Austin"
+    },
+    {
+      "type": "comment",
+      "text": "学姐 可以求下计算机网络的资料吗？我是今年的学弟",
+      "sourceRef": "comment:688d889f000000002b007bdb",
+      "commentId": "688d889f000000002b007bdb",
+      "likes": 0,
+      "author": "肥皂"
+    },
+    {
+      "type": "comment",
+      "text": "太牛了！",
+      "sourceRef": "comment:67cd38930000000018004235",
+      "commentId": "67cd38930000000018004235",
+      "likes": 0,
+      "author": "Thoughtful"
+    },
+    {
+      "type": "comment",
+      "text": "恭喜恭喜！！[哭惹R]",
+      "sourceRef": "comment:67825902000000002200b79b",
+      "commentId": "67825902000000002200b79b",
+      "likes": 0,
+      "author": "火星貓"
+    },
+    {
+      "type": "comment",
+      "text": "太腻害了[石化R]",
+      "sourceRef": "comment:677e1a5a000000001b02f6a7",
+      "commentId": "677e1a5a000000001b02f6a7",
+      "likes": 0,
+      "author": "米花不刮风"
+    }
+  ]
+}

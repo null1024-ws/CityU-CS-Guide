@@ -1,0 +1,393 @@
+{
+  "note_id": "68980dce000000002501bcd8",
+  "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
+  "fetched_at": 1784956123.3402977,
+  "note": {
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
+    "title": "CityU CS 选课血泪史4️⃣",
+    "user": {
+      "xsecToken": "ABnRdjd2ZXHmpzBfRg3-hhmkTb7aaRIrWpoBPZQn25RX8=",
+      "userId": "65a673000000000008020a44",
+      "nickname": "别叫我姐妹了Orz",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg"
+    },
+    "interactInfo": {
+      "liked": false,
+      "shareCount": "6",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "38",
+      "collected": false,
+      "collectedCount": "37",
+      "commentCount": "14",
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "60a65e500000000001001ded",
+        "name": "CityU",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1755222782000,
+    "noteId": "68980dce000000002501bcd8",
+    "desc": "① 仅代表个人观点\n② 本人 bg：末 9 本 + 科班混子 + 一段开发工作经历 + 有过 gap + 学习能力/考试能力/代码能力都远不如年轻人的老登\n\t\nCS5182 Computer Graphics\n\t\n最基础的 CG 理论，SemesterB 学习体验最好的一门课，每周必上\n\t\n课件详略得当，不夸一夸实在说不过去，因为它几乎提供了所有关键的信息，又不像有些课随随便便就是一百多页（鼠标中键都要滚烂了哦）\n\t\nHOU 老师非常关注学生的学习体验，课上会在适当的地方停下来问大家有没有听懂，课间会走下讲台跟同学聊聊天，问一问课上的内容难不难，project 的进展如何等等，可以感受得出来，老师其实是非常愿意和大家聊一聊的\n\t\n老师上课偶尔会抛出一个 small question（最终会变成试卷中的题目），只要你来上课了并且理解了课件的内容，没有任何难度\n\t\nproject 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙[doge]，所以应该是为了避免学生套壳使用）\n\t\n除此之外，project statement 上了两节课就会发出来，可以从很早开始做（不像有些课期末前一个月才放出来）\n\t\n考试只复习课件就完全够用，题目所涉及的线性代数基本就是矩阵乘法这种程度\n\t\n很难挑出缺点的一门课，不知道为什么 SemesterB 选的人比较少，跟 HOU 老师聊过几次，感觉他有点小失望哈哈哈\n\t\nAnyway，选起来吧，xdm\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+    "imageList": [
+      {
+        "width": 1221,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251308/1c9cff6f98b2655daa00745c60a1ddb1/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251308/3c1977457bb656efd14b34e539341f73/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251308/1c9cff6f98b2655daa00745c60a1ddb1/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251308/3c1977457bb656efd14b34e539341f73/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g",
+        "height": 710,
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1754795470000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "content": "[笑哭R]但是这个课确实没什么用 他也没什么上课的激情",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "689f605d000000003001031f",
+      "id": "689f56fe0000000030026e7e",
+      "status": 3,
+      "likeCount": "1",
+      "ipLocation": "河北",
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "都读 MSc 了，还图啥有用[doge]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q="
+          },
+          "createTime": 1755275357000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "5c486d3e000000001200a0bb",
+              "nickname": "真的会发疯啊啊啊",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sii3vs44005n28dkv4h85rtlcffeg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABbZO6mhvqxKKE51SjTxNEddXfcpLxerTJ-RvvD4_PwKE="
+            },
+            "id": "689f56fe0000000030026e7e"
+          },
+          "noteId": "68980dce000000002501bcd8",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "id": "689f605d000000003001031f"
+        }
+      ],
+      "noteId": "68980dce000000002501bcd8",
+      "userInfo": {
+        "userId": "5c486d3e000000001200a0bb",
+        "nickname": "真的会发疯啊啊啊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sii3vs44005n28dkv4h85rtlcffeg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbZO6mhvqxKKE51SjTxNEddXfcpLxerTJ-RvvD4_PwKE="
+      },
+      "createTime": 1755272959000,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "68980dce000000002501bcd8",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1754797557000,
+      "ipLocation": "甘肃",
+      "subCommentHasMore": false,
+      "id": "689815f4000000002a009911",
+      "content": "收到学长，快肝",
+      "status": 0,
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDVwPnwItt_A-YqatIHyTF5NuPIeBBJP1J3s8KgmaARM=",
+        "userId": "661ff4af000000000d024d5f"
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentCursor": "6898173e000000002a007357",
+      "invalid": false,
+      "atUsers": [],
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "689815f4000000002a009911",
+            "userInfo": {
+              "userId": "661ff4af000000000d024d5f",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDVwPnwItt_A-YqatIHyTF5NuPIeBBJP1J3s8KgmaARM="
+            }
+          },
+          "invalid": false,
+          "id": "6898173e000000002a007357",
+          "noteId": "68980dce000000002501bcd8",
+          "content": "生产队的驴是吧哈哈[doge]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q=",
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1754797886000
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6898787d000000002a00e3ab",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63797d8baa9fe8a17181d6fb.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-6UDdcEmMiLXtJZWrJEEHwoLsaotsHrBy4UzlUuxV4M=",
+        "userId": "6378b3d3000000001f017548",
+        "nickname": "木木枭"
+      },
+      "noteId": "68980dce000000002501bcd8",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "689855b3000000002b00404f",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB-6UDdcEmMiLXtJZWrJEEHwoLsaotsHrBy4UzlUuxV4M=",
+              "userId": "6378b3d3000000001f017548",
+              "nickname": "木木枭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63797d8baa9fe8a17181d6fb.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "content": "没错",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABOeUrDDl4BH2vtjmi19TUlUtErMzOdjfsLQ_3bDAJy_Q=",
+            "userId": "65a673000000000008020a44",
+            "nickname": "别叫我姐妹了Orz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "id": "6898787d000000002a00e3ab",
+          "noteId": "68980dce000000002501bcd8",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1754822782000,
+          "ipLocation": "中国香港"
+        }
+      ],
+      "id": "689855b3000000002b00404f",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1754813876000,
+      "ipLocation": "贵州",
+      "subCommentCount": "1",
+      "content": "请问下课表上有的必修课是不是就不用自己再手动选了",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "山西",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "userId": "627e901c000000002102978e",
+              "nickname": "Richett_L",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+            },
+            "id": "6899c2d40000000029034629"
+          },
+          "status": 0,
+          "content": "别信这门课最烂的",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31haif74vji0g5pfo5g11hqv1g5nv7sg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABz2b3933QocWT0YWLTy_udckoRNhK4Oi7QTMdOEjdZVY=",
+            "userId": "65f82c02000000000600ebe1",
+            "nickname": "aowu"
+          },
+          "showTags": [],
+          "invalid": false,
+          "id": "695ba8f40000000032001886",
+          "noteId": "68980dce000000002501bcd8",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1767614709000
+        }
+      ],
+      "subCommentHasMore": false,
+      "noteId": "68980dce000000002501bcd8",
+      "atUsers": [],
+      "createTime": 1754907349000,
+      "invalid": false,
+      "content": "羡慕，可惜当时选不了",
+      "userInfo": {
+        "userId": "627e901c000000002102978e",
+        "nickname": "Richett_L",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkJ_AaXSo2e6hsesD96aZVRZFhpNZgfsWJtDyAS0-PBk="
+      },
+      "subCommentCursor": "695ba8f40000000032001886",
+      "liked": false,
+      "id": "6899c2d40000000029034629",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5d99d4750000000001006ce6",
+        "nickname": "Enzo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDnEBRB-9WZAtlqc_FccV8UF5phUB1VntjWGIAxc_3zk="
+      },
+      "subCommentCursor": "",
+      "invalid": false,
+      "subCommentCount": "0",
+      "id": "69f80f0f000000002a032d2a",
+      "createTime": 1777864464000,
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "noteId": "68980dce000000002501bcd8",
+      "status": -2,
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "content": "请问一下你说的抛出一个small questuon 是ppt上的吗",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "港城 CS5367",
+  "search_item": {
+    "id": "68980dce000000002501bcd8",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CityU CS 选课血泪史4️⃣",
+      "user": {
+        "nickName": "别叫我姐妹了Orz",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/80/format/jpg",
+        "userId": "65a673000000000008020a44",
+        "nickname": "别叫我姐妹了Orz",
+        "xsecToken": "ABraaaYUOSipwtekVVWs1b492wdm_Soi2hUKPxiSN78IE="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "38",
+        "collected": false,
+        "collectedCount": "37",
+        "commentCount": "14",
+        "sharedCount": "6"
+      },
+      "cover": {
+        "height": 710,
+        "width": 1221,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251308/8b2728c271cfb7470dc4e042d49f8866/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251308/1e74ced391116ddd63f7b8d78a0f34f8/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 710,
+          "width": 1221,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251308/8b2728c271cfb7470dc4e042d49f8866/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251308/1e74ced391116ddd63f7b8d78a0f34f8/1040g2sg31l1t7f882gkg5pd6ec0242i424vkb6g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-15"
+        }
+      ]
+    },
+    "xsecToken": "ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
+    "index": 16,
+    "exposed": false,
+    "trackId": "68980dce000000002501bcd8"
+  }
+}

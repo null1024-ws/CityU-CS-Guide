@@ -1,0 +1,834 @@
+{
+  "note_id": "6944d2ee000000001b022ac0",
+  "url": "https://www.xiaohongshu.com/explore/6944d2ee000000001b022ac0?xsec_token=ABws6BqygPUzkId0tOuIDvL-DOhFICJET7LL9A5wKsR4s=",
+  "fetched_at": 1784949980.7838426,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "height": 1600,
+              "width": 1200,
+              "trace_id": "",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251126/0ffe9d8b03b78927956623b965118407/1040g00831q8svgl4nok05ols4om6tadissfek9o!nd_dft_wlteh_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "1040g00831q8svgl4nok05ols4om6tadissfek9o",
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251126/a4bf97ffe083cb942868a6d53113491b/1040g00831q8svgl4nok05ols4om6tadissfek9o!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251126/0ffe9d8b03b78927956623b965118407/1040g00831q8svgl4nok05ols4om6tadissfek9o!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251126/a4bf97ffe083cb942868a6d53113491b/1040g00831q8svgl4nok05ols4om6tadissfek9o!nd_prv_wlteh_webp_3"
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "61062c5a0000000001001863",
+              "name": "港大",
+              "type": "topic"
+            },
+            {
+              "name": "留学选校",
+              "type": "topic",
+              "id": "5e54a1f2000000000100183d"
+            },
+            {
+              "id": "5d1d701100000000180250fe",
+              "name": "硕士留学",
+              "type": "topic"
+            },
+            {
+              "id": "5c0f75a1e093d10001c19932",
+              "name": "研究生申请",
+              "type": "topic"
+            }
+          ],
+          "at_user_list": [],
+          "type": "normal",
+          "title": "",
+          "desc": "港大CS和城大CS怎么选#港大[话题]# #留学选校[话题]# #硕士留学[话题]# #研究生申请[话题]#",
+          "time": 1766118126000,
+          "last_update_time": 1766118126000,
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "6944d2ee000000001b022ac0",
+          "user": {
+            "user_id": "62bc262c000000001b02a9b2",
+            "nickname": "momo",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg",
+            "xsec_token": "ABxGLsRcfOLd0Gxwg6ZquhqFE9eGgUZFgYOx0KUd7fzHg="
+          },
+          "interact_info": {
+            "relation": "none",
+            "liked": false,
+            "liked_count": "19",
+            "collected": false,
+            "collected_count": "17",
+            "comment_count": "46",
+            "nice_count": "",
+            "share_count": "12",
+            "followed": false
+          }
+        },
+        "ignore": false,
+        "id": "6944d2ee000000001b022ac0"
+      }
+    ],
+    "current_time": 1784949983322
+  },
+  "comments": {
+    "comments": [
+      {
+        "id": "6944d5690000000038013bc5",
+        "at_users": [],
+        "user_info": {
+          "user_id": "64a8d504000000001001ca36",
+          "nickname": "泡芙天下第一好七",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322c8e4d1nu005p58qk243ihmmkhr1hg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABQeJHIw9NTE0jKvU8Tt9gnb_yE7SSkPNfGEy0rwZJHyM="
+        },
+        "sub_comments": [
+          {
+            "user_info": {
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "河南",
+            "target_comment": {
+              "id": "6944d5690000000038013bc5",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322c8e4d1nu005p58qk243ihmmkhr1hg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABQeJHIw9NTE0jKvU8Tt9gnb_yE7SSkPNfGEy0rwZJHyM=",
+                "user_id": "64a8d504000000001001ca36",
+                "nickname": "泡芙天下第一好七"
+              }
+            },
+            "note_id": "6944d2ee000000001b022ac0",
+            "at_users": [],
+            "like_count": "7",
+            "create_time": 1766118919000,
+            "invalid": false,
+            "id": "6944d607000000001d01f983",
+            "status": 0,
+            "content": "可是城大好实习哇，感觉毕业时间也很可控，互联网真的会有区别嘛",
+            "liked": false
+          }
+        ],
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "content": "这有什么可纠结 肯定港大[笑哭R]",
+        "liked": false,
+        "create_time": 1766118762000,
+        "ip_location": "北京",
+        "sub_comment_count": "8",
+        "invalid": false,
+        "sub_comment_has_more": true,
+        "like_count": "23",
+        "show_tags": [],
+        "sub_comment_cursor": "6944d607000000001d01f983"
+      },
+      {
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "liked": false,
+        "show_tags": [],
+        "create_time": 1766159865000,
+        "sub_comment_has_more": true,
+        "content": "我得说点反话了，港城实习工作什么的都方便，而且对计算机学科的重视度比港大要更多，和很多计算机相关企业合作。title很重要，这一点毫无疑问，很多人就是为了qs来的。不过计算机学科，相比title，实习经历和研究方向更加重要。谨慎选择，最好以就业为导向。",
+        "at_users": [],
+        "sub_comment_cursor": "69460a62000000000e034017",
+        "like_count": "28",
+        "ip_location": "山西",
+        "invalid": false,
+        "user_info": {
+          "xsec_token": "ABm1ZFqZVSgBhZbahA-HuOgXWlfc1CnBw5kORMq0fBDnY=",
+          "user_id": "6446a9b5000000001f030da0",
+          "nickname": "MM",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nbim9e66q6g5p26l6qnu3d0cg5ui38?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comment_count": "7",
+        "sub_comments": [
+          {
+            "at_users": [],
+            "liked": false,
+            "like_count": "2",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABoHICS0AKApSWX6n8C_oTQAkumVsfVPcrdPpeawRlCWQ=",
+              "user_id": "60226a3200000000010090ca",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg"
+            },
+            "status": 0,
+            "show_tags": [],
+            "create_time": 1766197858000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "694575f80000000039008aee",
+              "user_info": {
+                "user_id": "6446a9b5000000001f030da0",
+                "nickname": "MM",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nbim9e66q6g5p26l6qnu3d0cg5ui38?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABm1ZFqZVSgBhZbahA-HuOgXWlfc1CnBw5kORMq0fBDnY="
+              }
+            },
+            "invalid": false,
+            "id": "69460a62000000000e034017",
+            "note_id": "6944d2ee000000001b022ac0",
+            "content": "还真是[doge]"
+          }
+        ],
+        "id": "694575f80000000039008aee"
+      },
+      {
+        "note_id": "6944d2ee000000001b022ac0",
+        "content": "如果交了城大留位费还是城大吧 港大和城大本来学费差价就有十万大概 再加上留位费和生活费那得二十万 个人认为title差距不值这么多钱",
+        "like_count": "7",
+        "ip_location": "广东",
+        "invalid": false,
+        "id": "6947de17000000001403533e",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "xsec_token": "ABQ0mrRGbVzd-KW5pvClKAikBwus3Qe7U3buOMAquzv20=",
+          "user_id": "5d38e983000000001200a362",
+          "nickname": "陈二阳不摆烂",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d1nfl6c166g5n9ot61kh8r27fgb140?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "create_time": 1766317592000,
+        "sub_comment_count": "7",
+        "sub_comment_cursor": "6947de940000000014037310",
+        "status": 0,
+        "sub_comments": [
+          {
+            "id": "6947de940000000014037310",
+            "status": 0,
+            "like_count": "0",
+            "show_tags": [],
+            "ip_location": "广东",
+            "target_comment": {
+              "user_info": {
+                "user_id": "5d38e983000000001200a362",
+                "nickname": "陈二阳不摆烂",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d1nfl6c166g5n9ot61kh8r27fgb140?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABQ0mrRGbVzd-KW5pvClKAikBwus3Qe7U3buOMAquzv20="
+              },
+              "id": "6947de17000000001403533e"
+            },
+            "note_id": "6944d2ee000000001b022ac0",
+            "content": "除非你就是奔着考公考编去的否则这俩认可度差距不大",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5d38e983000000001200a362",
+              "nickname": "陈二阳不摆烂",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d1nfl6c166g5n9ot61kh8r27fgb140?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABQ0mrRGbVzd-KW5pvClKAikBwus3Qe7U3buOMAquzv20="
+            },
+            "create_time": 1766317717000,
+            "invalid": false
+          }
+        ],
+        "sub_comment_has_more": true
+      },
+      {
+        "create_time": 1766583089000,
+        "sub_comments": [
+          {
+            "status": 0,
+            "liked": false,
+            "like_count": "1",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4=",
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "黑龙江",
+            "id": "694bf672000000001600fc62",
+            "note_id": "6944d2ee000000001b022ac0",
+            "content": "哈哈哈我有几个学长都是港城cs大厂随便拿[doge]港大cs是不是没时间刷实习都去央国企了",
+            "at_users": [],
+            "create_time": 1766585971000,
+            "target_comment": {
+              "id": "694beb30000000001600c06a",
+              "user_info": {
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3134mnucf6m6g4ao1j7tr6q42lde7t9g?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABSdKz8nelvejfZ-OlgOy9ZEbM_ZFF6K5ROGSWqG4GoGk=",
+                "user_id": "5b8abbb3a6b17800010f6882"
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_has_more": true,
+        "note_id": "6944d2ee000000001b022ac0",
+        "content": "港城cs专业出来的人是很强的。我还没见过港大cs专业毕业的人。",
+        "liked": false,
+        "sub_comment_cursor": "694bf672000000001600fc62",
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5b8abbb3a6b17800010f6882",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3134mnucf6m6g4ao1j7tr6q42lde7t9g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABSdKz8nelvejfZ-OlgOy9ZEbM_ZFF6K5ROGSWqG4GoGk="
+        },
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comment_count": "2",
+        "id": "694beb30000000001600c06a",
+        "status": 0,
+        "at_users": [],
+        "invalid": false
+      },
+      {
+        "like_count": "0",
+        "sub_comment_count": "2",
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "create_time": 1766554845000,
+        "ip_location": "陕西",
+        "sub_comment_cursor": "694b7d66000000001601d700",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bkg1k8d0u6g5ol2o3p6tb4ivjou5vo?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABpySzk34I7iMBJmplkC5DPkWLvwr_B9oAR3YtDX363yc=",
+          "user_id": "62a2c0f2000000001b02ac92",
+          "nickname": "这世界那么多人"
+        },
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "id": "694b7d66000000001601d700",
+            "status": 0,
+            "content": "[嘻嘻R][嘻嘻R][嘻嘻R]为啥选hku呀",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1766554982000,
+            "note_id": "6944d2ee000000001b022ac0",
+            "like_count": "0",
+            "ip_location": "黑龙江",
+            "target_comment": {
+              "id": "694b7cdc0000000019002b52",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bkg1k8d0u6g5ol2o3p6tb4ivjou5vo?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABpySzk34I7iMBJmplkC5DPkWLvwr_B9oAR3YtDX363yc=",
+                "user_id": "62a2c0f2000000001b02ac92",
+                "nickname": "这世界那么多人"
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "id": "694b7cdc0000000019002b52",
+        "note_id": "6944d2ee000000001b022ac0",
+        "content": "诶哟我也交了city留位费hku来了[坏笑R]",
+        "sub_comment_has_more": true,
+        "status": 0
+      },
+      {
+        "like_count": "0",
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "content": "行了赶紧去city吧",
+        "at_users": [],
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABNhXYBhW-W9ZXAbcCwszCxJgqp0Z6mQ7UNeFHdDAy5Nc=",
+          "user_id": "5de4e6fd0000000001009914",
+          "nickname": "无冕之王",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311rdej1c0s605nf4srug968k6parapg?imageView2/2/w/120/format/jpg"
+        },
+        "ip_location": "北京",
+        "sub_comment_has_more": false,
+        "create_time": 1766647965000,
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "liked": false,
+            "user_info": {
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1766648703000,
+            "ip_location": "黑龙江",
+            "target_comment": {
+              "id": "694ce89d000000000e03526b",
+              "user_info": {
+                "nickname": "无冕之王",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311rdej1c0s605nf4srug968k6parapg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABNhXYBhW-W9ZXAbcCwszCxJgqp0Z6mQ7UNeFHdDAy5Nc=",
+                "user_id": "5de4e6fd0000000001009914"
+              }
+            },
+            "invalid": false,
+            "id": "694ceb7f000000001d01cc36",
+            "note_id": "6944d2ee000000001b022ac0",
+            "status": 0,
+            "content": "当同学[嘻嘻R]",
+            "at_users": []
+          }
+        ],
+        "invalid": false,
+        "id": "694ce89d000000000e03526b",
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "sub_comment_cursor": "694ceb7f000000001d01cc36",
+        "liked": false
+      },
+      {
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1766304841000,
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "6947d2f5000000001600d94d",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "status": 0,
+        "content": "感觉像交了城大留位费但是港大来了 现在在说服自己接受城大",
+        "at_users": [],
+        "user_info": {
+          "xsec_token": "ABrjzTgOpef6t_eKnvKLSpsijv_4lRqtobuLM_aKpVHk8=",
+          "user_id": "62320d86000000001000a25c",
+          "nickname": "SevenSheep",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321gqfjv17u005ohi1m3418is6vrlk8g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comments": [
+          {
+            "note_id": "6944d2ee000000001b022ac0",
+            "status": 0,
+            "content": "[doge]不可以嘛",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+            },
+            "ip_location": "河南",
+            "id": "6947d2f5000000001600d94d",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1766314741000,
+            "target_comment": {
+              "id": "6947ac49000000001601fda2",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321gqfjv17u005ohi1m3418is6vrlk8g?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABrjzTgOpef6t_eKnvKLSpsijv_4lRqtobuLM_aKpVHk8=",
+                "user_id": "62320d86000000001000a25c",
+                "nickname": "SevenSheep"
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "id": "6947ac49000000001601fda2",
+        "note_id": "6944d2ee000000001b022ac0",
+        "show_tags": [],
+        "ip_location": "上海"
+      },
+      {
+        "sub_comments": [],
+        "invalid": false,
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "liked": false,
+        "show_tags": [],
+        "id": "694dec52000000000f028317",
+        "content": "如果交了留位费就city吧，差距顶不上差的💰",
+        "like_count": "1",
+        "ip_location": "北京",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "create_time": 1766714450000,
+        "user_info": {
+          "user_id": "5dcb7fd20000000001000c28",
+          "nickname": "Koo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8cvfr4lm005nebfv908318bs8l9ag?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABpEV227-fkLnYe0akjG6p5-qD6yTgmdsQ8ciWqJorJPI="
+        }
+      },
+      {
+        "at_users": [],
+        "user_info": {
+          "xsec_token": "ABKffNEQnuMdccaBM4YpRQT-VLIz5sS45q6EOJAQEpXqs=",
+          "user_id": "677952cb000000001801dc66",
+          "nickname": "二田十",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uc6l3bviq005prpab5m3n36e1htv50?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comment_has_more": false,
+        "content": "一年硕？那就没区别",
+        "show_tags": [],
+        "ip_location": "广东",
+        "invalid": false,
+        "liked": false,
+        "like_count": "0",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "6954b3a90000000018039a47",
+              "user_info": {
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uc6l3bviq005prpab5m3n36e1htv50?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABKffNEQnuMdccaBM4YpRQT-VLIz5sS45q6EOJAQEpXqs=",
+                "user_id": "677952cb000000001801dc66",
+                "nickname": "二田十"
+              }
+            },
+            "note_id": "6944d2ee000000001b022ac0",
+            "content": "市场化就业的话",
+            "at_users": [],
+            "like_count": "0",
+            "create_time": 1767158722000,
+            "invalid": false,
+            "id": "6954b3c2000000001d00debd",
+            "status": 0,
+            "liked": false,
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABKffNEQnuMdccaBM4YpRQT-VLIz5sS45q6EOJAQEpXqs=",
+              "user_id": "677952cb000000001801dc66",
+              "nickname": "二田十",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uc6l3bviq005prpab5m3n36e1htv50?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": []
+          }
+        ],
+        "id": "6954b3a90000000018039a47",
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "create_time": 1767158697000,
+        "sub_comment_cursor": "6954b3c2000000001d00debd"
+      },
+      {
+        "id": "694ceef1000000000f01dda5",
+        "create_time": 1766649586000,
+        "sub_comment_cursor": "694cef430000000009036167",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "content": "学校排名选港大 学科排名选城大",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/99688517-9339-3b18-834d-c90f2b75b4e4?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABOZQ0bu9Q9g3kctYRABsIpazk8UCm7ZTLBmyY-afa8MY=",
+          "user_id": "62518404000000001000a77f",
+          "nickname": "Dr. Cooper"
+        },
+        "sub_comments": [
+          {
+            "note_id": "6944d2ee000000001b022ac0",
+            "status": 0,
+            "content": "但是有一点 城大网速比港大快很多[呃R][笑哭R]。我是说 上网的速度 [微笑R]",
+            "like_count": "0",
+            "user_info": {
+              "user_id": "62518404000000001000a77f",
+              "nickname": "Dr. Cooper",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/99688517-9339-3b18-834d-c90f2b75b4e4?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABOZQ0bu9Q9g3kctYRABsIpazk8UCm7ZTLBmyY-afa8MY="
+            },
+            "show_tags": [],
+            "invalid": false,
+            "id": "694cef430000000009036167",
+            "at_users": [],
+            "liked": false,
+            "create_time": 1766649668000,
+            "ip_location": "湖南",
+            "target_comment": {
+              "id": "694ceef1000000000f01dda5",
+              "user_info": {
+                "user_id": "62518404000000001000a77f",
+                "nickname": "Dr. Cooper",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/99688517-9339-3b18-834d-c90f2b75b4e4?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABOZQ0bu9Q9g3kctYRABsIpazk8UCm7ZTLBmyY-afa8MY="
+              }
+            }
+          }
+        ],
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "like_count": "0",
+        "at_users": [],
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "湖南",
+        "sub_comment_count": "1"
+      },
+      {
+        "note_id": "6944d2ee000000001b022ac0",
+        "content": "实习两个学校都有很多时间去啊 看自己把握，同等条件下港三的title其实港五很难取代，去体制内/国企的话 hku 肯定更有优势",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "id": "6953d90e0000000016024509",
+        "ip_location": "河南",
+        "invalid": false,
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1767102734000,
+        "sub_comment_count": "0",
+        "status": 0,
+        "user_info": {
+          "user_id": "60f960d60000000020029db3",
+          "nickname": "66不77",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31unqjlvm2g0g5o7pc3b857dja2es69g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABdV0lTIkZCj6AWPKr2Op2qkm6jjCk3NMfATC8MAoNpZ0="
+        },
+        "sub_comment_has_more": false
+      },
+      {
+        "create_time": 1766489870000,
+        "at_users": [],
+        "user_info": {
+          "nickname": "rainy day",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311dienobma005or7ie67rcrfm3v058g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABMY34GJtoS-LFxdS1gScwgp_WRCXHUtBCe0nBGe9c6vA=",
+          "user_id": "6367938c000000001f01b36f"
+        },
+        "liked": false,
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "ip_location": "新加坡",
+        "sub_comment_count": "0",
+        "id": "694a7f0d000000000f01c9ac",
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "content": "shitu都跟你说了什么[微笑R]",
+        "like_count": "1",
+        "show_tags": [],
+        "invalid": false
+      },
+      {
+        "sub_comment_has_more": false,
+        "content": "这还纠结个啥[笑哭R]肯定港大啊",
+        "at_users": [],
+        "like_count": "1",
+        "user_info": {
+          "user_id": "63bace1f000000002702b6f8",
+          "nickname": "用户111",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lv5jeoq50005otqpofptdnocm286rg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABVOyPy69leTXUJjoXvm1iUtiSc0Kpy8AU64EBKnGBNDc="
+        },
+        "show_tags": [],
+        "create_time": 1766121252000,
+        "ip_location": "福建",
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": 0,
+        "liked": false,
+        "sub_comments": [],
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "id": "6944df23000000000e034b5c",
+        "invalid": false
+      },
+      {
+        "create_time": 1766147562000,
+        "ip_location": "江西",
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "6947d3070000000016020923",
+        "sub_comment_has_more": false,
+        "id": "694545e900000000160266db",
+        "note_id": "6944d2ee000000001b022ac0",
+        "status": -2,
+        "liked": false,
+        "invalid": false,
+        "content": "纠结啥啊 港大大家基本都认识 港城很多人都不知道[笑哭R]",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "62bc262c000000001b02a9b2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+            },
+            "create_time": 1766314760000,
+            "target_comment": {
+              "id": "694545e900000000160266db",
+              "user_info": {
+                "xsec_token": "ABoslFEr2smtI9S8E6xea-kvQAJ7inG1veJ7Bc5uO4B9E=",
+                "user_id": "626fd1dd000000002102048b",
+                "nickname": "宇治抹茶",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dpnackh0u005ojfq7eoc14b03kh4o8?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "note_id": "6944d2ee000000001b022ac0",
+            "content": "[笑哭R]",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "河南",
+            "invalid": false,
+            "id": "6947d3070000000016020923",
+            "status": 0,
+            "at_users": []
+          }
+        ],
+        "like_count": "0",
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABoslFEr2smtI9S8E6xea-kvQAJ7inG1veJ7Bc5uO4B9E=",
+          "user_id": "626fd1dd000000002102048b",
+          "nickname": "宇治抹茶",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dpnackh0u005ojfq7eoc14b03kh4o8?imageView2/2/w/120/format/jpg"
+        }
+      },
+      {
+        "sub_comment_cursor": "",
+        "sub_comments": [],
+        "status": -2,
+        "at_users": [],
+        "liked": false,
+        "show_tags": [
+          "is_author"
+        ],
+        "id": "69cb71e2000000001500822f",
+        "like_count": "0",
+        "user_info": {
+          "user_id": "62bc262c000000001b02a9b2",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABo2MoPsYt7TOnU2XapcWSaPW0J1Pm_czRKTFJFTZS9z4="
+        },
+        "ip_location": "河南",
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "note_id": "6944d2ee000000001b022ac0",
+        "content": "犹豫一秒都是[偷笑R][偷笑R][偷笑R] ku 交完留位费学费大涨五万[飞吻R][飞吻R][飞吻R]这操作简直酷爆了",
+        "create_time": 1774940642000
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 15,
+    "pages_fetched": 2
+  },
+  "search_query": "CS5367 城大CS",
+  "search_item": {
+    "xsec_token": "ABws6BqygPUzkId0tOuIDvL-DOhFICJET7LL9A5wKsR4s=",
+    "id": "6944d2ee000000001b022ac0",
+    "model_type": "note",
+    "note_card": {
+      "interact_info": {
+        "collected": false,
+        "collected_count": "17",
+        "comment_count": "46",
+        "shared_count": "12",
+        "liked": false,
+        "liked_count": "19"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251126/ac7e12c1fa408f40a018430ab4c2f037/1040g00831q8svgl4nok05ols4om6tadissfek9o!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251126/50afed558572f41438430abb0b5b11cc/1040g00831q8svgl4nok05ols4om6tadissfek9o!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "width": 1200,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251126/ac7e12c1fa408f40a018430ab4c2f037/1040g00831q8svgl4nok05ols4om6tadissfek9o!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251126/50afed558572f41438430abb0b5b11cc/1040g00831q8svgl4nok05ols4om6tadissfek9o!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            }
+          ],
+          "height": 1600
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-19"
+        }
+      ],
+      "type": "normal",
+      "user": {
+        "nickname": "momo",
+        "xsec_token": "AB_W4dmWkeA_ktjnmRPeCZG2wAe1H_h1z_QjLkJK409yM=",
+        "nick_name": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31si6ot485m605ols4om6taditp5tdbg?imageView2/2/w/80/format/jpg",
+        "user_id": "62bc262c000000001b02a9b2"
+      }
+    }
+  }
+}

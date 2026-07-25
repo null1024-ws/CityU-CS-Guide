@@ -1,0 +1,26 @@
+{
+  "note_id": "6a299596000000002202d7c0",
+  "url": "https://www.xiaohongshu.com/explore/6a299596000000002202d7c0?xsec_token=ABdu2Kl4S0HnaSUYjpNAmt4J7xSgphXYuLDGsHjH2oL50=",
+  "fetched_at": 1784955870.2624762,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS336 作业4 Lec9 11 Scaling Law & Data",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "最近听了CS336 Lecture9和11，并做了assignment 4, 初步了解了 Scaling Law和Data Filtering。\n\t\n关于Data Filtering：\nAssignment从原始Common Crawl HTML按text extraction(Unicode), language identification(fastText), personal information masking(email, phone,ip), harmful content filtering(NSFW, toxic, fastText), quality classifier, deduplication(MinHash, LSH)的顺序大致过一遍数据清晰。一些想法，\n1.  真正去扫WARC我才感到html里template materials以及黄色内容比例之高（大部分普通网站也有黄色广告），并且绝大部分内容都是低质量推文，理解了为什么早期NLP那么依赖Wiki等高质量数据。\n2. 考虑到数据规模很大，data filter必须很高效（比如MinHash、LSH算法），但是像harmful/toxic content 或者 quality control这种任务Gopher这样简单匹配又不够，fastText性能其实也不高，所以我感觉data filter最重要的是把明显无效、重复的数据给filter（事实上这占很大一部分，减少pretrain的token burden），可控性还是放在safety SFT。\n3. Transformer架构memorize和抗noise能力很强（我之前看过论文说3.6token/para.），因此不要过渡为了数据的干净而过渡压缩数据，但是删除明显noise文档对模型是有提升的（如删去短页面）\n\t\n关于Scaling Law 可以被拆成两部分：\n1. 给定 FLOPs（算力），如何权衡模型大小和数据规模？例如著名的经验公式C≈6ND，还有 kaplan/chinchilla, 更进一步的，在小模型上实验数据组合、重复次数等可以外推到大模型。\n2. 如何让batchsize,LR等超参数在scale过程中变得可迁移？比如muP 如何调整宽度、stepfun的研究。\n#深度学习[话题]# #CS336[话题]# #数据清洗[话题]# #大模型[话题]# #scaling_law[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[哭惹R]pku",
+      "sourceRef": "comment:6a602d6c0000000029026006",
+      "commentId": "6a602d6c0000000029026006",
+      "likes": 0,
+      "author": "你的大野牛来了！"
+    }
+  ]
+}

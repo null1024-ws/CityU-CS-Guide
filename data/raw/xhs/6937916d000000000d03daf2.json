@@ -1,0 +1,324 @@
+{
+  "note_id": "6937916d000000000d03daf2",
+  "url": "https://www.xiaohongshu.com/explore/6937916d000000000d03daf2?xsec_token=ABuIXicbUfS6Qws_kqEBvYAe0Awz9rmfsBtILeil_eRqI=",
+  "fetched_at": 1784954645.2708886,
+  "note": {
+    "xsecToken": "ABuIXicbUfS6Qws_kqEBvYAe0Awz9rmfsBtILeil_eRqI=",
+    "user": {
+      "userId": "5b265d4b11be102eb0d1e4cc",
+      "nickname": "Charlie （根音战士版）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hql7bpi3o004a6bc2eknp6cnf41920",
+      "xsecToken": "AB4pSjlLoaPWntsV33KazthOSzu4d9aiHaKnPHd-MoV-U="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "40",
+      "collected": false,
+      "collectedCount": "47",
+      "commentCount": "11",
+      "shareCount": "13",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "atUserList": [],
+    "time": 1765249389000,
+    "lastUpdateTime": 1765249390000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6937916d000000000d03daf2",
+    "type": "normal",
+    "title": "",
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10",
+        "height": 1600,
+        "width": 1200,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251244/a0f5da8fc53a68cea0d7ba5fff284ba4/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251244/ecdd7904fb69cd3692eb6cef137162fe/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251244/a0f5da8fc53a68cea0d7ba5fff284ba4/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251244/ecdd7904fb69cd3692eb6cef137162fe/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "traceId": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5fe2511f0000000001005622",
+        "name": "omscs",
+        "type": "topic"
+      },
+      {
+        "id": "612c06ca000000000100b8ee",
+        "name": "gatech",
+        "type": "topic"
+      },
+      {
+        "id": "610841a60000000001001173",
+        "name": "佐治亚理工",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "693791170000000025030b3e",
+        "name": "cs8803"
+      },
+      {
+        "id": "612883310000000001009884",
+        "name": "gpu",
+        "type": "topic"
+      }
+    ],
+    "desc": "OMSCS CS8803-O21 GPU Hardware & Software 体验\n\t\n25fall学期选的，感觉算比较新的课，希望可以帮到后面的同学\n\t\n课程内容\n这门课最需要注意的地方就是标题里的“Software and Hardware” 如果是抱着纯学CUDA programming的期待来的，可能会有点小失望。\n前半部分做完Project2之后，内容就和CUDA编程关系不大了。后半段主要聚焦硬件知识，像warp scheduling、unified CPU/GPU memory、multi-GPU、ML accelerator这些概念都会讲。不过换个角度想，如果是想积累些面试能用的概念，这部分内容还是有点帮助的。\n\t\nProject（共五个）\n先交代下我的背景：C++选手，有一点点CUDA基础。\n- Project1：主要是熟悉课程的infra，难度不算高，算是入门热身。\n- Project2：需要自己写一个并行算法，并在H100上profile，分数和occupancy、throughput这些指标挂钩。最 tricky的是scope可以很大。如果想真正debug可能得啃不少NVIDIA Nsight/compute的文档。不过如果不那么care分数，花50%时间写个baseline也能过，看个人时间安排。\n- Project3 - 5：核心是看懂老师给的infra，理解之后代码部分反而能很快搞定。这三个project主要是为了帮大家熟悉硬件概念，但平心而论质量不算高，很多代码没comment，还有和handout出入的地方，需要ed多问问题。\n\t\nExam\n可以带一张cheatsheet，但因为scope特别大以及concept很多，可能花了很多时间看的内容没考到，我个人觉得比较难。\n\t\nQuiz\n这个就比较友好，跟着slide和paper找答案就行，难度不大。\n\t\n总结\n每周大概花不到5小时，基本上周末抽一个下午就能搞定当周任务。Final exam前花1 - 2天复习下就差不多。project2需要多留点时间\n\t\n#omscs[话题]# #gatech[话题]# #佐治亚理工[话题]# #cs[话题]# #cs8803[话题]# #gpu[话题]#"
+  },
+  "comments": [
+    {
+      "content": "请问你上GPU这门课之前是不是已经上了很多基础课（Gios, hpca）？",
+      "liked": false,
+      "subCommentCount": "3",
+      "subCommentCursor": "696ec34e000000000c016ca9",
+      "status": 0,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "createTime": 1768866638000,
+          "invalid": false,
+          "content": "我只上了hpc，gios和hpca应该也会有帮助",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "696e391a00000000050306b4",
+            "userInfo": {
+              "userId": "5df570670000000001008cea",
+              "nickname": "smokeonwater",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jd4v1gf2e5g5nfle1jg937aeivc050?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDNCNmtqFriqnHxb9nW_JRL9RbbXMxOY0a1G722fwDQY="
+            }
+          },
+          "id": "696ec34e000000000c016ca9",
+          "noteId": "6937916d000000000d03daf2",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5b265d4b11be102eb0d1e4cc",
+            "nickname": "Charlie （根音战士版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hql7bpi3o004a6bc2eknp6cnf41920?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3DdCXC6vl-pzKhpk6ELOb3JeBQKOmUxBR5xvW6bFh38="
+          }
+        }
+      ],
+      "id": "696e391a00000000050306b4",
+      "noteId": "6937916d000000000d03daf2",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5df570670000000001008cea",
+        "nickname": "smokeonwater",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jd4v1gf2e5g5nfle1jg937aeivc050?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDNCNmtqFriqnHxb9nW_JRL9RbbXMxOY0a1G722fwDQY="
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "createTime": 1768831258000,
+      "ipLocation": "湖北",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "694709ce000000001601f38f",
+      "invalid": false,
+      "id": "694704c600000000310039e7",
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "3",
+      "noteId": "6937916d000000000d03daf2",
+      "content": "project3-5具体是做什么的，质量不高的话，是不是工作用不上？",
+      "userInfo": {
+        "userId": "5fca4fe2000000000100a065",
+        "nickname": "_",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a0ss1tbna005nua9vh09835iiim130?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvC8ZUp2uy2B2HfzAcAxcjM3_4s6U2fobEIFY7cP5XSU="
+      },
+      "createTime": 1766261958000,
+      "subComments": [
+        {
+          "content": "大概是根据老师提供的code template来simulate GPU cycle 除非是做hardware否则可能用处不大",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5fca4fe2000000000100a065",
+              "nickname": "_",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a0ss1tbna005nua9vh09835iiim130?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvC8ZUp2uy2B2HfzAcAxcjM3_4s6U2fobEIFY7cP5XSU="
+            },
+            "id": "694704c600000000310039e7"
+          },
+          "invalid": false,
+          "id": "694709ce000000001601f38f",
+          "noteId": "6937916d000000000d03daf2",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB3DdCXC6vl-pzKhpk6ELOb3JeBQKOmUxBR5xvW6bFh38=",
+            "userId": "5b265d4b11be102eb0d1e4cc",
+            "nickname": "Charlie （根音战士版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hql7bpi3o004a6bc2eknp6cnf41920?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1766263247000
+        }
+      ],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "感觉是门硬课，不敢上",
+      "ipLocation": "美国",
+      "invalid": false,
+      "noteId": "6937916d000000000d03daf2",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABNGVQAeN4CGo5hgBcGBsclraitQQ4tSdwi2ZfFgTue7c=",
+        "userId": "5db645d90000000001000db6",
+        "nickname": "拂晓",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6376dba3a248141732e5b3a9.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "6963272b000000001600e88f",
+      "subCommentHasMore": true,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1768103032000,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "id": "6963272b000000001600e88f",
+          "noteId": "6937916d000000000d03daf2",
+          "content": "上过hpc之类的再上这门会好很多hh",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1768105772000,
+          "status": 0,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hql7bpi3o004a6bc2eknp6cnf41920?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3DdCXC6vl-pzKhpk6ELOb3JeBQKOmUxBR5xvW6bFh38=",
+            "userId": "5b265d4b11be102eb0d1e4cc",
+            "nickname": "Charlie （根音战士版）"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69631c77000000001702f65f",
+            "userInfo": {
+              "userId": "5db645d90000000001000db6",
+              "nickname": "拂晓",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6376dba3a248141732e5b3a9.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNGVQAeN4CGo5hgBcGBsclraitQQ4tSdwi2ZfFgTue7c="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "id": "69631c77000000001702f65f",
+      "status": 0,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6537 体验",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "40",
+        "collected": false,
+        "collectedCount": "47",
+        "commentCount": "11",
+        "sharedCount": "13"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251244/dafaa998a4b2b160a84505539ea8f570/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251244/8058bf9ffa007ab91d976115c64b9e5a/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251244/dafaa998a4b2b160a84505539ea8f570/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251244/8058bf9ffa007ab91d976115c64b9e5a/notes_pre_post/1040g3k031pru8hka5a004a6bc2eknp6c95gbv10!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-09"
+        }
+      ],
+      "type": "normal",
+      "user": {
+        "xsecToken": "AB70RXT9JZAricxC7_MfqqyqiHUwruybH3JO3OvApvjg0=",
+        "nickName": "Charlie （根音战士版）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hql7bpi3o004a6bc2eknp6cnf41920?imageView2/2/w/80/format/jpg",
+        "userId": "5b265d4b11be102eb0d1e4cc",
+        "nickname": "Charlie （根音战士版）"
+      }
+    },
+    "xsecToken": "ABuIXicbUfS6Qws_kqEBvYAe0Awz9rmfsBtILeil_eRqI=",
+    "id": "6937916d000000000d03daf2",
+    "index": 0,
+    "exposed": true,
+    "trackId": "6937916d000000000d03daf2"
+  }
+}

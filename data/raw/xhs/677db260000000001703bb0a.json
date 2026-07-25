@@ -1,0 +1,596 @@
+{
+  "note_id": "677db260000000001703bb0a",
+  "url": "https://www.xiaohongshu.com/explore/677db260000000001703bb0a?xsec_token=AB2o9CfZn__ofkuLhTbnXlK0I3soGeuIwLTOMx6Kx7Ga0=",
+  "fetched_at": 1784952387.1323042,
+  "note": {
+    "xsecToken": "AB2o9CfZn__ofkuLhTbnXlK0I3soGeuIwLTOMx6Kx7Ga0=",
+    "noteId": "677db260000000001703bb0a",
+    "type": "normal",
+    "desc": "#PhD[话题]# #教授[话题]# #NYU[话题]# #深度学习[话题]# #presentation[话题]#\n起因是博一选了一门Deep Learning，instructor 之一是大名鼎鼎的深度学习之父Yann的博后Alfredo Canziani。这个老师其实上课特别好，但是RMP上评分貌似很低……\n期末过后课上的PhD要交一个自己这学期研究项目的pre，故事开始了！Alf给我发邮件说我交的pre让他不知道我在做什么，我只好重录了一个发给他。结果！不到十分钟Alf又给我发了个邮件提出了很多建议，我连忙又开始练习并且重录了一个，直到这样反复四次！终于！他给了我的pre满分！最宝贵的是他真的有在手把手教我怎么做pre，从时间的把控到内容的阐述，甚至细致到每一页slide应该在多少秒以内说完。\n虽然过程很坎坷，私下反复录了n个pre视频。但是最终很欣喜Alf竟然用中文嘱托我“智者寡言”（应该是说很多内容没必要啰啰嗦嗦讲个不停）然后我也回了个“幸得良师”。很奇妙的经历，很好的老师，向所有NYU CS的小伙伴推荐这门课！\nP3P4附上Yann和Alf两位Prof讲课照片～Alf好像对粉色情有独钟……#LeCun[话题]# #AI[话题]# #CS[话题]#",
+    "tagList": [
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "id": "5d00824e000000000f02961c",
+        "name": "教授",
+        "type": "topic"
+      },
+      {
+        "id": "5dc3d3db0000000001001936",
+        "name": "NYU",
+        "type": "topic"
+      },
+      {
+        "id": "5e7fe6610000000001009356",
+        "name": "深度学习",
+        "type": "topic"
+      },
+      {
+        "id": "5c9efca6000000000e0225bc",
+        "name": "presentation",
+        "type": "topic"
+      },
+      {
+        "name": "LeCun",
+        "type": "topic",
+        "id": "62ccc7e4000000000101dbbb"
+      },
+      {
+        "id": "5d6b7cdb000000000103e136",
+        "name": "AI",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      }
+    ],
+    "time": 1736290912000,
+    "title": "Yann LeCun 的博后手把手教我做pre……",
+    "user": {
+      "userId": "5e5d035a0000000001002c59",
+      "nickname": "PuPu（accept版）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi332gk7u005nit0dd08b2ps9s59u0",
+      "xsecToken": "ABnAmXJLCOP29ENEVowTif0SfkVANpTDWdWq5i4Snt3ew="
+    },
+    "interactInfo": {
+      "shareCount": "12",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "100",
+      "collected": false,
+      "collectedCount": "41",
+      "liked": false,
+      "commentCount": "14"
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/3eb0e24aeaf64ed4367043fc9eaa1582/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg",
+        "height": 1134,
+        "width": 2280,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/b6b81009484493bf1638a246b2361709/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/3eb0e24aeaf64ed4367043fc9eaa1582/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/b6b81009484493bf1638a246b2361709/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nd_prv_wgth_jpg_3"
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g",
+        "height": 1594,
+        "width": 1512,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/d8e614b8811f8133b0a4db9252b9533c/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/14217f708208216df8d3a558ad07f4eb/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/d8e614b8811f8133b0a4db9252b9533c/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/14217f708208216df8d3a558ad07f4eb/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nd_prv_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/f0b84707fc9697b006f51049c9a9678b/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/833af69be22adacb982c432f5b5ac679/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/833af69be22adacb982c432f5b5ac679/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o",
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/f0b84707fc9697b006f51049c9a9678b/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "height": 3024,
+        "width": 4032
+      },
+      {
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/621ff0e69edc15406d290b9b7db06727/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do",
+        "width": 4032,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/621ff0e69edc15406d290b9b7db06727/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251206/4beb8515c32c9a90227f1c0dde0a9d82/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/4beb8515c32c9a90227f1c0dde0a9d82/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "height": 3024
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1736438566000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "677df965000000001a00ccc8",
+          "noteId": "677db260000000001703bb0a",
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5e5d035a0000000001002c59",
+            "nickname": "PuPu（accept版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi332gk7u005nit0dd08b2ps9s59u0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX9LAOpSaV8NcCLGgCxM-FHpHvO8rU3TmOlha6WuYpaI="
+          },
+          "createTime": 1736309094000,
+          "content": "没有哈哈[偷笑R]但是他这学期好像还专门开了个舞蹈课，文艺双修",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "677df7e40000000018025cd9",
+            "userInfo": {
+              "userId": "63860dfe000000001f01b117",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egshjr40c005os61nv7rc8n6355voo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9TfszmmuOB7Occhetm1GQ2ncRBaW5Tn6J6dyHx4E1Is="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "677df965000000001a00ccc8",
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "63860dfe000000001f01b117",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egshjr40c005os61nv7rc8n6355voo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB9TfszmmuOB7Occhetm1GQ2ncRBaW5Tn6J6dyHx4E1Is="
+      },
+      "createTime": 1736308709000,
+      "content": "Alf有下课找你们去跳舞嘛",
+      "subCommentHasMore": true,
+      "id": "677df7e40000000018025cd9",
+      "ipLocation": "上海",
+      "subCommentCount": "3",
+      "noteId": "677db260000000001703bb0a",
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "在哪发财呢大博主？",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "677db260000000001703bb0a",
+          "content": "在大house里发财呢",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5e5d035a0000000001002c59",
+            "nickname": "PuPu（accept版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi332gk7u005nit0dd08b2ps9s59u0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX9LAOpSaV8NcCLGgCxM-FHpHvO8rU3TmOlha6WuYpaI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1736304735000,
+          "id": "677de85f000000001b03d307",
+          "status": 0,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "677ddc150000000021032750",
+            "userInfo": {
+              "userId": "5b1250274eacab1fa9ba9950",
+              "nickname": "茶叶盒",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gt3s0t534004a5s7e82f6agi1452eg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABB09hhxABZhnvQgkdUj1TVOux0_w-J93o0mcrhfwDVoc="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "677de85f000000001b03d307",
+      "subCommentHasMore": false,
+      "id": "677ddc150000000021032750",
+      "userInfo": {
+        "userId": "5b1250274eacab1fa9ba9950",
+        "nickname": "茶叶盒",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gt3s0t534004a5s7e82f6agi1452eg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABB09hhxABZhnvQgkdUj1TVOux0_w-J93o0mcrhfwDVoc="
+      },
+      "ipLocation": "北京",
+      "invalid": false,
+      "noteId": "677db260000000001703bb0a",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1736301589000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "湖北",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "id": "679782eb000000001b031815",
+      "userInfo": {
+        "userId": "5f695d2d00000000010066ff",
+        "nickname": "付杰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315oevt7i1a005nr9bkmg8pnvj3bvr10?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1NYeuHJrxZd-vNaMdXocs7TiwNYtmtbOwl-lJX2KJy4="
+      },
+      "createTime": 1737982699000,
+      "noteId": "677db260000000001703bb0a",
+      "content": "好几年前在Montreal开会，跟Alfredo一起去了好几个酒吧，他非常会活跃气氛.....",
+      "likeCount": "1",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "他曾经骗我漂染头发，我心心念念想要银白色的一小撮，结果染出来第一次是屎黄色",
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5c72fb1500000000110195cc",
+        "nickname": "八笔下课",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64af448cefc8b579bc8e384f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCl2SQI8zxAZE6Cxcd9bwsx3FgNh1c6CG2UZXa29deRA="
+      },
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "id": "679a8e100000000021037efd",
+      "subComments": [],
+      "invalid": false,
+      "noteId": "677db260000000001703bb0a",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1738182161000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "677db260000000001703bb0a",
+      "content": "请教下博主可以分享下有哪些pre的技巧需要注意吗，最近也在练pre[哭惹R]",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "id": "677e049d000000002003b4da",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB-LtUf9bfolYlGuAowH5zfxAY_2Z7ceUtdiSTyr5P0u8=",
+        "userId": "5707caba84edcd7b76cac93d",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ed4k6htg86047psrh5bli9ttmnd5ro?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "广东",
+      "invalid": false,
+      "createTime": 1736311965000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "哈哈哈",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "678111180000000021019865",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3230ghnmb725g4bqltfgi8pspc0qnsvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUB477mTONAjT4LlMpJKwd-TADUOh_JYrNAlrQIpBk6g=",
+        "userId": "5bebe1246b58b7192f886799",
+        "nickname": "BLEGH"
+      },
+      "ipLocation": "法国",
+      "invalid": false,
+      "subCommentCursor": "",
+      "noteId": "677db260000000001703bb0a",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1736511769000,
+      "subCommentCount": "0",
+      "liked": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6795b141000000000a01bc4d",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "xinyue",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321qe4lmd7o004acvtt0ms0rmaqf8lc8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0OVg_22ykdS7BJ0gjvVU22H-3bAp_OgVMRjqMJqqu64=",
+        "userId": "5b6fc16e6b58b733b5720376"
+      },
+      "ipLocation": "美国",
+      "createTime": 1737863489000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "content": "我上舞蹈课跟他一个班[笑哭R]",
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "677db260000000001703bb0a",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "status": 0,
+      "showTags": [],
+      "id": "67a4a098000000002102c0f1",
+      "noteId": "677db260000000001703bb0a",
+      "likeCount": "0",
+      "ipLocation": "英国",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "content": "请问可以分享如何做pre吗",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5b2904ae11be104cf1e9c0a6",
+        "nickname": "亿亿",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321cuhr55ms004a6d7q2atg56e4jtvs0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxg3fM6CfSI5wiYu4feysL8jIxEOOBUsrAFbjla4sH9I="
+      },
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "createTime": 1738842264000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "ipLocation": "安徽",
+      "invalid": false,
+      "userInfo": {
+        "userId": "6751825e0000000001002b70",
+        "nickname": "拓扑学术实验室",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/68542334e7ccf00001f3d3a2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB45VQifKZ2gHAo90SgqkCAcCUCkWSZzCm3azStXCNINE="
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentCursor": "677de7e5000000001a00cca5",
+      "id": "677dda3a000000001b03587e",
+      "content": "氛围也太好了吧",
+      "liked": false,
+      "createTime": 1736301114000,
+      "noteId": "677db260000000001703bb0a",
+      "status": -2,
+      "likeCount": "1",
+      "subComments": [
+        {
+          "id": "677de7e5000000001a00cca5",
+          "content": "[偷笑R][偷笑R]确实可以",
+          "liked": false,
+          "likeCount": "1",
+          "invalid": false,
+          "noteId": "677db260000000001703bb0a",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5e5d035a0000000001002c59",
+            "nickname": "PuPu（accept版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi332gk7u005nit0dd08b2ps9s59u0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX9LAOpSaV8NcCLGgCxM-FHpHvO8rU3TmOlha6WuYpaI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1736304614000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "677dda3a000000001b03587e",
+            "userInfo": {
+              "userId": "6751825e0000000001002b70",
+              "nickname": "拓扑学术实验室",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/68542334e7ccf00001f3d3a2.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB45VQifKZ2gHAo90SgqkCAcCUCkWSZzCm3azStXCNINE="
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6535 Guided Study in",
+  "search_item": {
+    "id": "677db260000000001703bb0a",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251206/138b07c88b250a54f26c966e74b798f5/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251206/ee51e3db55b2ef4de5f8d050979a2d73/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nc_n_webp_prv_1",
+        "height": 1134,
+        "width": 2280
+      },
+      "imageList": [
+        {
+          "height": 1134,
+          "width": 2280,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/138b07c88b250a54f26c966e74b798f5/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/ee51e3db55b2ef4de5f8d050979a2d73/notes_pre_post/1040g3k031ccdpf85gu005nit0dd08b2p8u9l1bg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1594,
+          "width": 1512,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/ce1c65e7d0f7e0159d41e811d73ae769/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/0999431ae9af28293805f84d3fd47520/notes_pre_post/1040g3k031ccdpf85gu0g5nit0dd08b2pbublr5g!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 3024,
+          "width": 4032,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/72e064c89f3018ba034ac22f097dc708/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/85aab6b38c11cc61f19cdc947f1a3f09/1040g2sg31ccmfkpu0k005nit0dd08b2pi8o682o!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 3024,
+          "width": 4032,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/9cb1c226636a406e8c09ed7a659ee40f/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251206/d693d3e6002331d907af6986a09dcbd6/1040g2sg31ccmfkpu0k0g5nit0dd08b2pfvd50do!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-01-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Yann LeCun 的博后手把手教我做pre……",
+      "user": {
+        "nickname": "PuPu（accept版）",
+        "xsecToken": "ABBmtDTGjGiWf-Tg0PXnUHpsbcKxbSbiNByLzVcSOKCJk=",
+        "nickName": "PuPu（accept版）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi332gk7u005nit0dd08b2ps9s59u0?imageView2/2/w/80/format/jpg",
+        "userId": "5e5d035a0000000001002c59"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "41",
+        "commentCount": "14",
+        "sharedCount": "12",
+        "liked": false,
+        "likedCount": "100"
+      }
+    },
+    "xsecToken": "AB2o9CfZn__ofkuLhTbnXlK0I3soGeuIwLTOMx6Kx7Ga0=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "677db260000000001703bb0a"
+  }
+}

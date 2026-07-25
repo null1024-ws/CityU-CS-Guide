@@ -1,0 +1,349 @@
+{
+  "note_id": "68ad4a76000000001d02e7c2",
+  "url": "https://www.xiaohongshu.com/explore/68ad4a76000000001d02e7c2?xsec_token=AB31Udjp0WO01OBvqqiTlcqGsf76MqBTs4XoGug3v5UnA=",
+  "fetched_at": 1784950055.0901597,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "68ad4a76000000001d02e7c2",
+        "model_type": "note",
+        "note_card": {
+          "time": 1756187254000,
+          "last_update_time": 1756187255000,
+          "type": "normal",
+          "interact_info": {
+            "share_count": "13",
+            "liked": false,
+            "liked_count": "38",
+            "collected": false,
+            "comment_count": "13",
+            "followed": false,
+            "relation": "none",
+            "nice_count": "",
+            "collected_count": "19"
+          },
+          "image_list": [
+            {
+              "url": "",
+              "trace_id": "",
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/e0260e1b871714d2053498c7a0306e91/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nd_prv_wgth_webp_3",
+                  "image_scene": "WB_PRV"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251127/dc3dec7903b14bf2d556c62c8e88f260/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/e0260e1b871714d2053498c7a0306e91/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nd_prv_wgth_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o",
+              "height": 618,
+              "width": 1145,
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/dc3dec7903b14bf2d556c62c8e88f260/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nd_dft_wgth_webp_3"
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学",
+              "type": "topic"
+            },
+            {
+              "id": "5daaa91d000000000103c5a5",
+              "name": "CS",
+              "type": "topic"
+            }
+          ],
+          "share_info": {
+            "un_share": false
+          },
+          "note_id": "68ad4a76000000001d02e7c2",
+          "title": "当你被城大CS的9个月强制实习搞心态",
+          "desc": "然后发现今年入学的学生可以只上4周的实习……\n#香港城市大学[话题]# #CS[话题]#",
+          "user": {
+            "user_id": "636b8282000000001f0190c7",
+            "nickname": "楓",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8",
+            "xsec_token": "AB8bjNSG03CuwMisVoUvumU6oHiilmBw8V0Ue7ymHLZgY="
+          },
+          "at_user_list": []
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784950057856
+  },
+  "comments": {
+    "comments": [
+      {
+        "content": "如果夠gpa建議option1還是2[捂脸R]professor說option2是for想繼續做research的。但本人不走research也不想太早步入社畜[哭惹R]",
+        "ip_location": "中国香港",
+        "sub_comments": [
+          {
+            "id": "68ad78ba0000000030022a81",
+            "content": "我都建议选2，城大在香港本身就比较拉，然后和城大合作的公司普遍不咋地，待4周足够了",
+            "at_users": [],
+            "like_count": "6",
+            "user_info": {
+              "user_id": "636b8282000000001f0190c7",
+              "nickname": "楓",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABTxDeVsLrmBS-PznNNJ29iR30cYSd0h3qRr00lJ00_E4="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1756199099000,
+            "ip_location": "中国香港",
+            "note_id": "68ad4a76000000001d02e7c2",
+            "status": 0,
+            "liked": false,
+            "target_comment": {
+              "id": "68ad7671000000003002b13b",
+              "user_info": {
+                "nickname": "拖延症晚期吗",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d0a891cdca983e2dcf36ff.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABJdMnQXBVzoLL1rJeWzxMJ-r6chhPk2XTNWESWrDPRPg=",
+                "user_id": "620f4f98000000001000c0b5"
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "at_users": [],
+        "liked": false,
+        "like_count": "2",
+        "show_tags": [],
+        "create_time": 1756198513000,
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "id": "68ad7671000000003002b13b",
+        "status": 0,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d0a891cdca983e2dcf36ff.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABJdMnQXBVzoLL1rJeWzxMJ-r6chhPk2XTNWESWrDPRPg=",
+          "user_id": "620f4f98000000001000c0b5",
+          "nickname": "拖延症晚期吗"
+        },
+        "sub_comment_count": "3",
+        "note_id": "68ad4a76000000001d02e7c2",
+        "sub_comment_cursor": "68ad78ba0000000030022a81"
+      },
+      {
+        "id": "68ad4d0f0000000030012741",
+        "status": 0,
+        "show_tags": [],
+        "sub_comment_count": "4",
+        "note_id": "68ad4a76000000001d02e7c2",
+        "liked": false,
+        "ip_location": "中国香港",
+        "sub_comments": [
+          {
+            "liked": false,
+            "like_count": "14",
+            "show_tags": [],
+            "invalid": false,
+            "id": "68ad4f19000000003000ff17",
+            "status": 0,
+            "content": "同意，卷到飞起现在，巴不得有强制实习...",
+            "at_users": [],
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/642c6c66bdd3d1091430b5d9.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABhCHsn8Lwk9iA2NPIpfNYg-BOt_xNH96iX3jgCnvSuSo=",
+              "user_id": "62bd99080000000019029b18",
+              "nickname": "非飞飞飞飞鸭"
+            },
+            "create_time": 1756188441000,
+            "ip_location": "中国澳门",
+            "target_comment": {
+              "id": "68ad4d0f0000000030012741",
+              "user_info": {
+                "user_id": "5fe7258e0000000001005db1",
+                "nickname": "Huh",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB-VGRmmRY4vQWgdTVcK9JM6-2A7tO5YH9WZz54sEQIu0="
+              }
+            },
+            "note_id": "68ad4a76000000001d02e7c2"
+          }
+        ],
+        "sub_comment_has_more": true,
+        "content": "9个月强制实习是个很好的保底政策呀 当然如果你有ibank/faang的offer就有点搞心态了[笑哭R]",
+        "at_users": [],
+        "create_time": 1756187919000,
+        "invalid": false,
+        "like_count": "11",
+        "user_info": {
+          "user_id": "5fe7258e0000000001005db1",
+          "nickname": "Huh",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB-VGRmmRY4vQWgdTVcK9JM6-2A7tO5YH9WZz54sEQIu0="
+        },
+        "sub_comment_cursor": "68ad4f19000000003000ff17"
+      },
+      {
+        "id": "68afa6e4000000003002dfec",
+        "status": 0,
+        "at_users": [],
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iq53knbhg005omifrd0g1f4ui8au7g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABb9osVyh7JI1bfDHrkpZDZxJ5mT_Cl33gYFwF10odUcI=",
+          "user_id": "62d27eda00000000020005e4",
+          "nickname": "椒盐孜然"
+        },
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "note_id": "68ad4a76000000001d02e7c2",
+        "like_count": "1",
+        "ip_location": "美国",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "liked": false,
+        "create_time": 1756341988000,
+        "invalid": false,
+        "content": "还没实习的好像也能选3000 已经实习完的才是被搞心态[微笑R]",
+        "show_tags": []
+      },
+      {
+        "id": "6a3f6e800000000009016807",
+        "note_id": "68ad4a76000000001d02e7c2",
+        "show_tags": [],
+        "invalid": false,
+        "status": 0,
+        "content": "请教一下，准大二生，怎么寻找实习机会？简历上没啥拿得出手的东西",
+        "at_users": [],
+        "user_info": {
+          "user_id": "56f68eac4775a77964d70e7c",
+          "nickname": "一",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABoX8E2lwKqhM6MDhfMWhcMjHoVOZEjCCLVk2kxWYqueA="
+        },
+        "sub_comment_count": "0",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "like_count": "0",
+        "create_time": 1782541953000,
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "ip_location": "安徽"
+      },
+      {
+        "status": 0,
+        "liked": false,
+        "invalid": false,
+        "sub_comment_count": "0",
+        "note_id": "68ad4a76000000001d02e7c2",
+        "content": "我去[哭惹R]",
+        "at_users": [],
+        "like_count": "1",
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comment_has_more": false,
+        "id": "68ad50d80000000002014d58",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "user_info": {
+          "user_id": "5e2948690000000001005b0e",
+          "nickname": "圈圈远远圈圈",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30r3jqflmhg005nh991kg8moeoh0lm4g?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPvErpFqqdBG4hZdvSMgdZ1evTHTrjTXaZ73BpY6Iasg="
+        },
+        "create_time": 1756188888000
+      },
+      {
+        "content": "要哭了[哭惹R]",
+        "liked": false,
+        "user_info": {
+          "xsec_token": "ABwUQbKXG1tY_WTbYN9O7vOzxBNlqoKxqFO_xuRhtT_kk=",
+          "user_id": "5f01caa70000000001000509",
+          "nickname": "躺平摆烂的孤勇者",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ccvbmiugs7g5no1pajg818975vspv0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "ip_location": "中国香港",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "at_users": [],
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "id": "68aeaff4000000000b015d37",
+        "note_id": "68ad4a76000000001d02e7c2",
+        "status": 0,
+        "like_count": "1",
+        "show_tags": [],
+        "create_time": 1756278773000
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 6,
+    "pages_fetched": 1
+  },
+  "search_query": "城大CS5367",
+  "search_item": {
+    "id": "68ad4a76000000001d02e7c2",
+    "model_type": "note",
+    "note_card": {
+      "interact_info": {
+        "liked": false,
+        "liked_count": "38",
+        "collected": false,
+        "collected_count": "19",
+        "comment_count": "13",
+        "shared_count": "13"
+      },
+      "cover": {
+        "height": 618,
+        "width": 1145,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251127/09a72c09566cb291a329b280f9ace068/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251127/fb1f219d6f35d915408e97bc3af7dda7/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "width": 1145,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/09a72c09566cb291a329b280f9ace068/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251127/fb1f219d6f35d915408e97bc3af7dda7/notes_pre_post/1040g3k031lktha39li005orbga17r467j8uoj0o!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 618
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-26"
+        }
+      ],
+      "type": "normal",
+      "display_title": "当你被城大CS的9个月强制实习搞心态",
+      "user": {
+        "user_id": "636b8282000000001f0190c7",
+        "nickname": "楓",
+        "xsec_token": "ABWv5WTEAI12QbluzDOF7lx8FrJ1KT0AOsHSbCrmbjKaI=",
+        "nick_name": "楓",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/80/format/jpg"
+      }
+    },
+    "xsec_token": "AB31Udjp0WO01OBvqqiTlcqGsf76MqBTs4XoGug3v5UnA="
+  }
+}

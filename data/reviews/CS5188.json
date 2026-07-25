@@ -1,0 +1,96 @@
+{
+  "courseCode": "CS5188",
+  "fields": {
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "CS5188 VR 慎选"
+  ],
+  "sources": [
+    {
+      "noteId": "6898aaf1000000002501b0eb",
+      "url": "https://www.xiaohongshu.com/explore/6898aaf1000000002501b0eb?xsec_token=AB3fi6VFQfknG_oinjUL_HiUTk9FYCRm3jjj3n4SX6qBg=",
+      "excerpt": "CS5188 Virtual Reality Technologies and Applications；老师应该是香港人，英语会有一点 local 口音，能否适应因人而异，个人感觉还好；这门课的难度主要在 project 上，如果和我一样从来没有接触过 UE5，那可能需要花一些时间去学习；除此之外，还要求必须用到 VR/AR 设备，因此可以从 lab 把 Oculus Rift 和 HoloLens 2 借出来玩哈哈；project statement 也是很早就会发出来（第三次课），要求录制几分钟展示成果的 demo video，report 没有字数限制陈述，简单陈述即可，presentation 可以选择不参加（应该是不影响分数）；老师更推荐大家做有实际意义的 VR/AR 应用，并强调 idea 很重要，当然做游戏也可以，但需要有创意，不然很可能只拿到基础分（可能是不想看到全都是大同小异的游戏）；如果再懂一点 UE5 渲染的话，最后做出来确实会有一丝成就感，不过也就仅此而已；单纯只是因为想做出点好玩的东西而选这门课的话，那就属于是为了这点醋，才包的这顿饺子；考试题型主要是多选 + 简答，题量不算太大，两个小时绰绰有余",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史5⃣"
+    },
+    {
+      "noteId": "682e95a7000000002301c25e",
+      "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+      "excerpt": "CS5188 VR: 20%期中 30%Proj 50%期末；workload；授课及口音 平时没作业没课程回放，考前有复习课但仅作为参考。老师做事很有原则（不能代领判完的期中），英音但会刻意用简单词汇让你理解。Proj（可独狼最多3人） 做VR的话就是UE5然后跟CS Lab借Oculus Rift 或者微软 HoloLens，不要做游戏倾向你做些有现实意义的。期末不考数学，要考察你对VR场景与VR应用的理解。选了CG会有一部分课程内容重叠有助于减小总体课程压力。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期B 选课"
+    },
+    {
+      "noteId": "69fc8470000000003601ea02",
+      "url": "https://www.xiaohongshu.com/explore/69fc8470000000003601ea02?xsec_token=ABvm0UzM6ysaoj6vJetVWRPa4FYxEh_oK5XHoGD3LmAwc=",
+      "excerpt": "3.CS5188，VR；本人背景：学过游戏开发（非ue5）；期中20，项目30，期末50；项目（1-3人），使用UE5。课程不建议开发游戏，而是具有现实意义的。（Epic是什么有现实意义的平台吗）pre可选可不选；课程内容涉及较多和生物相关，如人眼成像、耳朵结构、皮肤传感器等。这也带来较多生僻英文单词；期中考试质量差，基本为背单词大赛。与理解相关的只有1个选择题和1道简答题（共3个选择，5个简答）；不推荐选。理由：项目工作量大，备考耗时且不一定有什么效果",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu MSc in CS Semester B课程评价"
+    },
+    {
+      "noteId": "6a0c2c9d0000000006033f16",
+      "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+      "excerpt": "CS5188 Virtual Reality Tech & Apns；老师感觉是香港本地人，我有时会听不太懂老师讲课发音，没有平时作业，一个1-3人的project 和期中期末，期中期末都是闭卷，如果没有ue5基础的不建议选，不然做项目就很耗时间，期中是选择加概念题，期末是选择加简答加综合，都是考ppt里面的内容，但是ppt复习起来要记忆的太多了，很耗时间",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城课程体验"
+    },
+    {
+      "noteId": "69fdd97b000000003601efb7",
+      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
+      "excerpt": "CS5188 VR 慎选！被CG和VR一起选可以省事儿的xhs坑害了。这门课学的东西完全不是让你去解决问题的，单纯背书背单词。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

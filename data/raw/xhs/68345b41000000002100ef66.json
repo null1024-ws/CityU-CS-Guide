@@ -1,0 +1,710 @@
+{
+  "note_id": "68345b41000000002100ef66",
+  "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+  "fetched_at": 1784874158.223563,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "68345b41000000002100ef66",
+        "model_type": "note",
+        "note_card": {
+          "time": 1748261697000,
+          "last_update_time": 1754023088000,
+          "note_id": "68345b41000000002100ef66",
+          "type": "normal",
+          "title": "Cityu Msc CS SemA课程评价（上）",
+          "user": {
+            "user_id": "6033d8420000000001008775",
+            "nickname": "Restraint丶",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328",
+            "xsec_token": "AB7AnDXdGm-3SkgeO3vB4OerH-EUHZ4tlfT_RuZ5bVw8I="
+          },
+          "image_list": [
+            {
+              "url": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/700dc2555b301f7f32aedb0d6fbf878f/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/324eb9bad4e38d6c92e0e3bdac4173ae/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nd_dft_wlteh_webp_3",
+              "live_photo": false,
+              "file_id": "notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng",
+              "height": 2100,
+              "width": 1575,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/700dc2555b301f7f32aedb0d6fbf878f/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241422/324eb9bad4e38d6c92e0e3bdac4173ae/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "stream": {}
+            }
+          ],
+          "share_info": {
+            "un_share": false
+          },
+          "desc": "本文主要评价SemA的课程，这一学期课程相对简单，许多内容都在本科阶段学过，比较轻松\n评价打分标准分为四个部分：上课体验、项目体验、作业体验、考试体验\n\t\n1. CS5351 Software Engineering\nLecturer: Ricky Chan(Wing Kwong CHAN)\n上课体验：🌟🌟🌟🌟\n上课形式丰富，提供部分助于理解课程内容的小游戏，并提供线上直播。老师很友善但英语口音较重，做好自学准备🤪\n项目体验：🌟🌟🌟\n8人项目，建议在已有开源项目上做扩展或改进，这一过程应注重软工开发流程的应用，最好使用进度记录网站如jira（但并不好用）。总体来说比较麻烦和繁琐。无需pre，只需要录讲解视频\n除此之外，还有一个论文阅读分享项目，需要线下pre\n作业体验：无作业，只有期中考试\n考试体验：🌟🌟🌟🌟\n期中考试和期末考试形式几乎一样，都是大篇幅的简答题，很考验英语写作能力和瞎掰能力。期中考试开卷（甚至可带不联网电子设备），期末可带3页双面cheat sheet。给分高\n\t\n2. CS5481 Data Engineering\nLecturer: Linqi SONG\n上课体验：🌟🌟🌟🌟🌟\n老师的英文发音易懂，且语速慢，上课内容不难。tutorial提供的都是可运行的代码，对理解内容很有帮助。提供线上课\n项目体验：🌟🌟🌟🌟\n老师会提供现成的选题，但选题之间难度差别较大，导致大多数小组都选择数据可视化项目，如选择该题目应做好分数一般或卷起来的准备。需要线下pre\n作业体验：🌟🌟🌟🌟\n两个assignments包含简答计算和编程，难度不小但给分极慷慨\n考试体验：🌟🌟🌟🌟\n完全闭卷。老师给出的复习PPT中覆盖大部分内容但非全覆盖，包含部分tutorial和assignment内容，甚至要默写代码。避免死记硬背复习PPT\n\t\n3. CS5222 Computer Networks & Internets\nLecturer: Man Hon Michael CHEUNG\n上课体验：🌟🌟🌟🌟🌟\n课程内容完全基于黑皮书计网，并和本科计网高度重合。Turorial中老师会手把手带着做练习题，对期末考试很有帮助。提供线上课程\n项目体验：🌟🌟🌟🌟🌟\n非小组项目，是一个非常简单的Wireshark实验，即使是完全小白也可以靠AI辅助完成。无需pre\n作业体验：🌟🌟🌟🌟\n基本都是对黑皮书课后题的魔改，不要🙅直接上网查答案，应基于答案学习解法后套用。有人直接抄答案被抓住\n考试体验：🌟🌟🌟🌟\n完全开卷，内容都在课程中覆盖，但题量非常大\n\t\n#选课[话题]# #香港城市大学[话题]#",
+          "interact_info": {
+            "collected_count": "160",
+            "comment_count": "25",
+            "share_count": "21",
+            "relation": "none",
+            "liked_count": "95",
+            "collected": false,
+            "followed": false,
+            "nice_count": "",
+            "liked": false
+          },
+          "tag_list": [
+            {
+              "id": "5d1c9959000000000d017f43",
+              "name": "选课",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "5c46d9e9000000000f018433",
+              "name": "香港城市大学"
+            }
+          ],
+          "at_user_list": []
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874159352
+  },
+  "comments": {
+    "comments": [
+      {
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "status": 4,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ=",
+          "user_id": "6033d8420000000001008775",
+          "nickname": "Restraint丶"
+        },
+        "show_tags": [
+          "is_author",
+          "user_top"
+        ],
+        "ip_location": "广东",
+        "sub_comment_cursor": "",
+        "pictures": [
+          {
+            "info_list": [
+              {
+                "image_scene": "WB_PRV",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/97c25e1c135e3c9b1a5d6bb5669a3e6a/comment/1040g2h031hur850m64005o1jr11091rlhamhbeg!nc_n_webp_mw_1"
+              },
+              {
+                "image_scene": "WB_DFT",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/84722de295b64cc9d53cadb191e9af22/comment/1040g2h031hur850m64005o1jr11091rlhamhbeg!nd_whlt34_webp_wm_1"
+              }
+            ],
+            "height": 34,
+            "width": 398,
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/97c25e1c135e3c9b1a5d6bb5669a3e6a/comment/1040g2h031hur850m64005o1jr11091rlhamhbeg!nc_n_webp_mw_1",
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/84722de295b64cc9d53cadb191e9af22/comment/1040g2h031hur850m64005o1jr11091rlhamhbeg!nd_whlt34_webp_wm_1"
+          }
+        ],
+        "id": "683462620000000003037546",
+        "content": "附本人自行整理复习资料",
+        "liked": false,
+        "like_count": "9",
+        "sub_comment_count": "0",
+        "note_id": "68345b41000000002100ef66",
+        "at_users": [],
+        "create_time": 1748263523000
+      },
+      {
+        "create_time": 1751602688000,
+        "sub_comments": [
+          {
+            "pictures": [],
+            "invalid": false,
+            "note_id": "68345b41000000002100ef66",
+            "status": 0,
+            "at_users": [],
+            "like_count": "0",
+            "create_time": 1751615090000,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "686755ff000000001102e350",
+              "user_info": {
+                "user_id": "602bfee60000000001009275",
+                "nickname": "肥皂",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320d17126lm6g5o1bvrj094jlngb8650?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABYEkt7aLvdv0QWbvnsavLo03JZ0eca7gRyaKX3rfr_Tw="
+              }
+            },
+            "id": "68678672000000001102d7dd",
+            "content": "没有限制的，我们当时用的python。我上的每门课的项目都是用的python",
+            "liked": false,
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "show_tags": [
+              "is_author"
+            ]
+          }
+        ],
+        "sub_comment_has_more": true,
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "ip_location": "浙江",
+        "sub_comment_count": "5",
+        "sub_comment_cursor": "68678672000000001102d7dd",
+        "note_id": "68345b41000000002100ef66",
+        "status": 0,
+        "show_tags": [],
+        "like_count": "0",
+        "pictures": [],
+        "id": "686755ff000000001102e350",
+        "content": "学长 软工这块 用什么编程语言会有限制吗？你当时用的什么呀",
+        "user_info": {
+          "user_id": "602bfee60000000001009275",
+          "nickname": "肥皂",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320d17126lm6g5o1bvrj094jlngb8650?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABYEkt7aLvdv0QWbvnsavLo03JZ0eca7gRyaKX3rfr_Tw="
+        }
+      },
+      {
+        "at_users": [],
+        "like_count": "0",
+        "create_time": 1755240143000,
+        "ip_location": "江苏",
+        "sub_comments": [
+          {
+            "invalid": false,
+            "id": "689ee629000000002700cfde",
+            "note_id": "68345b41000000002100ef66",
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ=",
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1755244074000,
+            "pictures": [],
+            "content": "放心吧几乎所有课都不查考勤[捂脸R]",
+            "liked": false,
+            "like_count": "0",
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "689ed6cf00000000300289eb",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABo0OAgkUbqRdEv9Iec2s1A8eUhzl-DyregwI2tHVgtR8=",
+                "user_id": "63ed89360000000026013b11",
+                "nickname": "用户已注销",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg"
+              }
+            }
+          }
+        ],
+        "note_id": "68345b41000000002100ef66",
+        "show_tags": [],
+        "sub_comment_count": "2",
+        "invalid": false,
+        "status": 0,
+        "content": "大佬，问一下是不是提供线上课就代表没有考勤啊",
+        "user_info": {
+          "user_id": "63ed89360000000026013b11",
+          "nickname": "用户已注销",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABo0OAgkUbqRdEv9Iec2s1A8eUhzl-DyregwI2tHVgtR8="
+        },
+        "sub_comment_has_more": true,
+        "pictures": [],
+        "id": "689ed6cf00000000300289eb",
+        "liked": false,
+        "sub_comment_cursor": "689ee629000000002700cfde"
+      },
+      {
+        "create_time": 1754021957000,
+        "ip_location": "江苏",
+        "invalid": false,
+        "note_id": "68345b41000000002100ef66",
+        "status": 0,
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_has_more": true,
+        "id": "688c4045000000002b0156d6",
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/60c54f5bb99728c3587fd5b1.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABcuwoLHN8cwGRP86O4EuK8jMx7wm_tyAy_ygw9qXafLk=",
+          "user_id": "60c54f24000000000101d853",
+          "nickname": "嘻嘻"
+        },
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "688c45d4000000002b00a8a7",
+        "pictures": [],
+        "content": "感谢分享，软件工程是Ricky Chan教的吗？",
+        "sub_comments": [
+          {
+            "id": "688c45d4000000002b00a8a7",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "pictures": [],
+            "invalid": false,
+            "note_id": "68345b41000000002100ef66",
+            "content": "是的，编辑更新了每门课的授课老师，可以之后选课时候仔细比对看看。万一换老师了我的课程测评就没有参考价值了[害羞R]",
+            "like_count": "0",
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "create_time": 1754023381000,
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "688c4045000000002b0156d6",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABcuwoLHN8cwGRP86O4EuK8jMx7wm_tyAy_ygw9qXafLk=",
+                "user_id": "60c54f24000000000101d853",
+                "nickname": "嘻嘻",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/60c54f5bb99728c3587fd5b1.jpg?imageView2/2/w/120/format/jpg"
+              }
+            }
+          }
+        ],
+        "liked": false,
+        "like_count": "0"
+      },
+      {
+        "status": 0,
+        "content": "请问平时上课要带着电脑去吗[害羞R]",
+        "at_users": [],
+        "show_tags": [],
+        "create_time": 1754734373000,
+        "ip_location": "广西",
+        "sub_comments": [
+          {
+            "note_id": "68345b41000000002100ef66",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "create_time": 1754742560000,
+            "target_comment": {
+              "id": "68971f24000000002902b4a4",
+              "user_info": {
+                "user_id": "61bccd2800000000210226d2",
+                "nickname": "高手乘低手",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/61bccd2800000000210226d2.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABBhM8kfoGmz5QJ5xMoSH-0BEiNvqnq3w4birnXkfBs6M="
+              }
+            },
+            "id": "68973f20000000002b014a23",
+            "content": "不强制，想上课摸鱼的话甚至只带一台手机也没什么影响[捂脸R]",
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东",
+            "pictures": [],
+            "invalid": false
+          }
+        ],
+        "id": "68971f24000000002902b4a4",
+        "user_info": {
+          "user_id": "61bccd2800000000210226d2",
+          "nickname": "高手乘低手",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/61bccd2800000000210226d2.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABBhM8kfoGmz5QJ5xMoSH-0BEiNvqnq3w4birnXkfBs6M="
+        },
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "68973f20000000002b014a23",
+        "sub_comment_has_more": false,
+        "pictures": [],
+        "invalid": false,
+        "note_id": "68345b41000000002100ef66",
+        "liked": false,
+        "like_count": "0"
+      },
+      {
+        "note_id": "68345b41000000002100ef66",
+        "show_tags": [],
+        "status": 0,
+        "ip_location": "福建",
+        "sub_comment_cursor": "68550e66000000000401c496",
+        "sub_comment_has_more": false,
+        "pictures": [],
+        "invalid": false,
+        "id": "6854d58a0000000007034eb8",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "user_info": {
+              "user_id": "6033d8420000000001008775",
+              "nickname": "Restraint丶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABfy8HAqm41F5-JtNMuYkvhRU4N9XxiOgo7EjQYmZymYQ="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "广东",
+            "target_comment": {
+              "id": "6854d58a0000000007034eb8",
+              "user_info": {
+                "user_id": "5f47c9c90000000001001443",
+                "nickname": "EriEric",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nrskb5p4s0g5nq7p74g852321nr7r0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB0pKBKqVK4I6Dbb_awBr4KIM2pdu-LCF0u3D4RjnMFGA="
+              }
+            },
+            "note_id": "68345b41000000002100ef66",
+            "status": 0,
+            "content": "一周去几天是根据自己选课的哦，如果SemA只打算选4节课，那应该可以去三天或四天，不过SemB应该压力会很大。没有上午的课，只有下午或晚上的",
+            "at_users": [],
+            "liked": false,
+            "create_time": 1750404711000,
+            "pictures": [],
+            "invalid": false,
+            "id": "68550e66000000000401c496"
+          }
+        ],
+        "content": "大佬 请问SemA一周几天课呀 有上午的课嘛还是都是晚课～",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5f47c9c90000000001001443",
+          "nickname": "EriEric",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nrskb5p4s0g5nq7p74g852321nr7r0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB0pKBKqVK4I6Dbb_awBr4KIM2pdu-LCF0u3D4RjnMFGA="
+        },
+        "create_time": 1750390155000
+      },
+      {
+        "liked": false,
+        "ip_location": "江苏",
+        "user_info": {
+          "user_id": "63024461000000001200c913",
+          "nickname": "小红薯6303AA7E",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABnbTySzLo5d_sLf_B4yTbuTO1PN5cUGNojJbQEDTdelo="
+        },
+        "sub_comment_count": "0",
+        "invalid": false,
+        "sub_comments": [],
+        "status": 0,
+        "content": "请问软件工程那个项目，是要开发出一个东西吗？",
+        "at_users": [],
+        "like_count": "0",
+        "create_time": 1754292202000,
+        "id": "68905fea000000002a003db9",
+        "show_tags": [],
+        "sub_comment_has_more": false,
+        "pictures": [],
+        "sub_comment_cursor": "",
+        "note_id": "68345b41000000002100ef66"
+      },
+      {
+        "status": 0,
+        "pictures": [],
+        "invalid": false,
+        "id": "68efb91f000000003302472f",
+        "like_count": "0",
+        "sub_comments": [],
+        "note_id": "68345b41000000002100ef66",
+        "content": "不联网的电子设备 是指老师屏蔽了教室的信号，还是本身设备不能联网呢",
+        "user_info": {
+          "user_id": "5ff5ace1000000000101f17e",
+          "nickname": "Pupuppy",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABkjyZ6Wp-SWc-yqT545uH3kKVN_9Mi8Qm1TRfc-hRb0g="
+        },
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "at_users": [],
+        "liked": false,
+        "show_tags": [],
+        "create_time": 1760540960000,
+        "sub_comment_has_more": false
+      },
+      {
+        "note_id": "68345b41000000002100ef66",
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "AB6FfA66Jj_ft2TlrO27-4ucdgOvnv4PBQNtmM7I9tgvA=",
+          "user_id": "63d61c05000000002702bf10",
+          "nickname": "J.",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l1ub87jj45g5oum3g2ptfogdm43go8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "pictures": [
+          {
+            "info_list": [
+              {
+                "image_scene": "WB_PRV",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/307b0364035dba621a0be5dbf257b1cc/comment/1040g2h031l1t5314j06g5oum3g2ptfog68qgeno!nc_n_webp_mw_1"
+              },
+              {
+                "image_scene": "WB_DFT",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/233e65940242281f528e7cfca183c9b5/comment/1040g2h031l1t5314j06g5oum3g2ptfog68qgeno!nd_whgt34_webp_wm_1"
+              }
+            ],
+            "height": 1298,
+            "width": 1260,
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/307b0364035dba621a0be5dbf257b1cc/comment/1040g2h031l1t5314j06g5oum3g2ptfog68qgeno!nc_n_webp_mw_1",
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/233e65940242281f528e7cfca183c9b5/comment/1040g2h031l1t5314j06g5oum3g2ptfog68qgeno!nd_whgt34_webp_wm_1"
+          },
+          {
+            "height": 2023,
+            "width": 1260,
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/79bf3d752b704a7cbeb1706603c97d24/comment/1040g2h031l1t5314j0505oum3g2ptfoga31cjp0!nc_n_webp_mw_1",
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/4a0f76867c73851556a00e546e0594a9/comment/1040g2h031l1t5314j0505oum3g2ptfoga31cjp0!nd_whgt34_webp_wm_1",
+            "info_list": [
+              {
+                "image_scene": "WB_PRV",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/79bf3d752b704a7cbeb1706603c97d24/comment/1040g2h031l1t5314j0505oum3g2ptfoga31cjp0!nc_n_webp_mw_1"
+              },
+              {
+                "image_scene": "WB_DFT",
+                "url": "http://sns-webpic-qc.xhscdn.com/202607241422/4a0f76867c73851556a00e546e0594a9/comment/1040g2h031l1t5314j0505oum3g2ptfoga31cjp0!nd_whgt34_webp_wm_1"
+              }
+            ]
+          }
+        ],
+        "content": "学长，请问在哪里看A学期能选哪些课呢，是根据我这个第一张图对照第二张图里的吗，我之前看好像还有选方向，那个要怎么操作啊",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "invalid": false,
+        "status": 3,
+        "liked": false,
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "create_time": 1754911298000,
+        "ip_location": "河北",
+        "sub_comment_cursor": "",
+        "id": "6899d23d000000002b02d42c"
+      },
+      {
+        "id": "68992d6f0000000029038c95",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tgr8tr1m8005nlvr4rg8f8seu35ep0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABRs79ykseBTIGtNjAYuz1UaAFYKkOpYP4qtu5err9YVM=",
+          "user_id": "5ebfd9370000000001003d1c",
+          "nickname": "鱿小鱼"
+        },
+        "create_time": 1754869104000,
+        "sub_comment_has_more": false,
+        "pictures": [],
+        "invalid": false,
+        "status": 0,
+        "show_tags": [],
+        "ip_location": "江苏",
+        "like_count": "0",
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "sub_comment_cursor": "",
+        "note_id": "68345b41000000002100ef66",
+        "content": "dd"
+      },
+      {
+        "status": 0,
+        "at_users": [],
+        "user_info": {
+          "user_id": "602bfee60000000001009275",
+          "nickname": "肥皂",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320d17126lm6g5o1bvrj094jlngb8650?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABYEkt7aLvdv0QWbvnsavLo03JZ0eca7gRyaKX3rfr_Tw="
+        },
+        "sub_comment_count": "0",
+        "invalid": false,
+        "note_id": "68345b41000000002100ef66",
+        "like_count": "0",
+        "ip_location": "浙江",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "create_time": 1751599197000,
+        "id": "6867485c000000000c0259e3",
+        "content": "大佬 软工8人项目的编程语言有限制吗？",
+        "show_tags": [],
+        "sub_comments": []
+      },
+      {
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "ABTUARn6eeWvedgL9uPCHYPqo434Kp1LpfkjleSRGw8WI=",
+          "user_id": "5e96fde20000000001004b99",
+          "nickname": "Mites Remover",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31quq8i2a00305nkmvnh08ispk97j16g?imageView2/2/w/120/format/jpg"
+        },
+        "invalid": false,
+        "note_id": "68345b41000000002100ef66",
+        "status": 0,
+        "content": "感谢分享[点赞R]",
+        "liked": false,
+        "like_count": "0",
+        "ip_location": "上海",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "id": "684f9279000000002002faf3",
+        "show_tags": [],
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "create_time": 1750045306000
+      },
+      {
+        "id": "6835169c000000000702bf6f",
+        "status": 0,
+        "create_time": 1748309661000,
+        "sub_comment_cursor": "",
+        "sub_comments": [],
+        "content": "好帖，感谢[赞R]",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "ip_location": "陕西",
+        "note_id": "68345b41000000002100ef66",
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABnYzXKaDDKhcU82o8L69JQxVLAzMZor9wtRGS_KIF0DU=",
+          "user_id": "5e748a350000000001006ebc",
+          "nickname": "Celts",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ph37tf6io6g5njkh8qg8rlso32v118?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "show_tags": [],
+        "sub_comment_count": "0"
+      },
+      {
+        "id": "6895f3eb000000002b0159c6",
+        "status": -2,
+        "show_tags": [],
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "content": "学长你好 请问你有认识管理创新 Management and innovation这个专业的学长和学姐吗？想问一下选课的问题",
+        "liked": false,
+        "user_info": {
+          "user_id": "660ceb04000000000600c093",
+          "nickname": "浅蒼小小南",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0a0f6tjq005pgctc21hg4jeg86lkg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB7FO1tAXV4PhnsoSmMxgYvLyMGf_1aLvqNzslsQpMSMU="
+        },
+        "create_time": 1754657771000,
+        "sub_comments": [],
+        "note_id": "68345b41000000002100ef66",
+        "at_users": [],
+        "sub_comment_has_more": false,
+        "like_count": "0",
+        "invalid": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 14,
+    "pages_fetched": 2
+  },
+  "search_query": "CS5222 城大",
+  "search_item": {
+    "xsec_token": "ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
+    "id": "68345b41000000002100ef66",
+    "model_type": "note",
+    "note_card": {
+      "image_list": [
+        {
+          "height": 2100,
+          "width": 1575,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/b0c075b477e3867276ebb9d608d3d19e/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241422/9e440c07ffb9a66b180e861d17a9d272/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-01"
+        }
+      ],
+      "type": "normal",
+      "display_title": "Cityu Msc CS SemA课程评价（上）",
+      "user": {
+        "nickname": "Restraint丶",
+        "xsec_token": "ABf8FVOUXzrjoZALZDDkFkJ5oJhMdJnHtCcvo0lzJTt2E=",
+        "nick_name": "Restraint丶",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310l2dlt8mo005o1jr11091rlo3qa328?imageView2/2/w/80/format/jpg",
+        "user_id": "6033d8420000000001008775"
+      },
+      "interact_info": {
+        "liked": false,
+        "liked_count": "95",
+        "collected": false,
+        "collected_count": "160",
+        "comment_count": "25",
+        "shared_count": "21"
+      },
+      "cover": {
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241422/9e440c07ffb9a66b180e861d17a9d272/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nc_n_webp_prv_1",
+        "height": 2100,
+        "width": 1575,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241422/b0c075b477e3867276ebb9d608d3d19e/notes_pre_post/1040g3k831hup915tmc7g5o1jr11091rldonahng!nc_n_webp_mw_1"
+      }
+    }
+  }
+}

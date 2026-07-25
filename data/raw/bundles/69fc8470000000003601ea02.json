@@ -1,0 +1,150 @@
+{
+  "note_id": "69fc8470000000003601ea02",
+  "url": "https://www.xiaohongshu.com/explore/69fc8470000000003601ea02?xsec_token=ABvm0UzM6ysaoj6vJetVWRPa4FYxEh_oK5XHoGD3LmAwc=",
+  "fetched_at": 1784954731.0722344,
+  "course_codes": [
+    "CS5182",
+    "CS5188",
+    "CS5491"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu MSc in CS Semester B课程评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1.CS5491，AI\n本人背景：学过概率论\n作业20，期中20，项目30，期末30\n期中与tutorial相似，期末为tutorial的简化版。皆为开卷考\n项目（3人）主题任选，只需要和AI相关。无pre\n推荐选。理由：事少\n2.CS5182，图形学CG\n本人背景：学过图形学\n期中15，项目25，期末60\n项目（1-3人）为复现+改进使用深度学习的图形学相关论文，必须pre\n课程内容不涉及具体图形库，如OpenGL\n不推荐选。理由：考试占比高（共75%），项目需使用GPU资源（课程不提供GPU，自己租服务器或者本地运行吧）\n3.CS5188，VR\n本人背景：学过游戏开发（非ue5）\n期中20，项目30，期末50\n项目（1-3人），使用UE5。课程不建议开发游戏，而是具有现实意义的。（Epic是什么有现实意义的平台吗）pre可选可不选\n课程内容涉及较多和生物相关，如人眼成像、耳朵结构、皮肤传感器等。这也带来较多生僻英文单词\n期中考试质量差，基本为背单词大赛。与理解相关的只有1个选择题和1道简答题（共3个选择，5个简答）\n不推荐选。理由：项目工作量大，备考耗时且不一定有什么效果",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "xhs感觉都不敢说狠话，cg马马虎虎，这个vr还有上学期的软工绝对是要避雷的，semb我选了6门除了ai和data mining没一门轻松的，但从来没人发。",
+      "sourceRef": "comment:69fc9f6f00000000280307f7",
+      "commentId": "69fc9f6f00000000280307f7",
+      "likes": 10,
+      "author": "用户已注销"
+    },
+    {
+      "type": "sub_comment",
+      "text": "当时很后悔没把软工waive掉",
+      "sourceRef": "comment:69fca02b000000002803aa55",
+      "commentId": "69fca02b000000002803aa55",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "徐老师你是选6分实习了吗？是不是明年3月毕业",
+      "sourceRef": "comment:69fd85b4000000002701e789",
+      "commentId": "69fd85b4000000002701e789",
+      "likes": 0,
+      "author": "库洛米永远吃不胖"
+    },
+    {
+      "type": "sub_comment",
+      "text": "3学分实习是今年10月毕业，6学分实习是明年6月毕业",
+      "sourceRef": "comment:69fd86e8000000002300cf07",
+      "commentId": "69fd86e8000000002300cf07",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "赞同➕1",
+      "sourceRef": "comment:69fc8b93000000002a02dbfa",
+      "commentId": "69fc8b93000000002a02dbfa",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "信了CG+VR捆绑选课的享福了",
+      "sourceRef": "comment:69fc8bfe00000000280390c9",
+      "commentId": "69fc8bfe00000000280390c9",
+      "likes": 2,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "VR真别选 我独狼自己做项目学ue5快把头薅秃了 一个是需要基本的代码基础 如果c语言不过关只能重新学蓝图 另外还要学习软件使用 没有基础做项目非常困难 考试也是偏背诵 和理解相关的很少 期中考就是背单词大赛纯文科来的 唯一好处就是不用pre➕没有作业",
+      "sourceRef": "comment:69fcc0dc0000000029010123",
+      "commentId": "69fcc0dc0000000029010123",
+      "likes": 2,
+      "author": "Serena"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本科是cs或者软工的话，c和++以及数据结构会贯穿前期课程。人工智能让grad更难找到工作，对grad的要求更高。C无论如何是关键，java跟C的逻辑结构几乎一样。会其中一种，另外一种就易上手很多。[抱拳R]",
+      "sourceRef": "comment:69fec0a00000000027029287",
+      "commentId": "69fec0a00000000027029287",
+      "likes": 0,
+      "author": "嘻嘻哈哈"
+    },
+    {
+      "type": "comment",
+      "text": "注：这3门课里面3门都是我26年1月在🍠精挑细选的好评课",
+      "sourceRef": "comment:69fc85f8000000002803e8d8",
+      "commentId": "69fc85f8000000002803e8d8",
+      "likes": 3,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "期中期末感觉还没那么差，project是真的离谱，一个功能卡了好久，要不是gemini灵光一现，直接就寄了",
+      "sourceRef": "comment:69fde110000000002902ed28",
+      "commentId": "69fde110000000002902ed28",
+      "likes": 0,
+      "author": "yunkin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "project本来预留3天，结果搞了将近5天",
+      "sourceRef": "comment:69fde13e0000000029011583",
+      "commentId": "69fde13e0000000029011583",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "能讲一下VR期末大概考了啥吗？东莞校区马上也要考了[萌萌哒R]",
+      "sourceRef": "comment:6a0b0df8000000002100eb1d",
+      "commentId": "6a0b0df8000000002100eb1d",
+      "likes": 0,
+      "author": "刚刚发发汗"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有和期中重叠的题，最后一个大题和DVE相关",
+      "sourceRef": "comment:6a0b475f000000002100e7d6",
+      "commentId": "6a0b475f000000002100e7d6",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "关于CG和VR课有重叠内容的说明：图形渲染管线，GPU架构等虽然重叠，但CG课使用不涉及具体图形库的表述，而VR课为openGL风格。从应试角度来看这二者反倒是矛盾的",
+      "sourceRef": "comment:69fd8785000000002100d8ff",
+      "commentId": "69fd8785000000002100d8ff",
+      "likes": 0,
+      "author": "Dave"
+    },
+    {
+      "type": "comment",
+      "text": "太对了哈哈哈背单词大赛",
+      "sourceRef": "comment:6a3a2c290000000005009be7",
+      "commentId": "6a3a2c290000000005009be7",
+      "likes": 0,
+      "author": "山雀dp5"
+    },
+    {
+      "type": "comment",
+      "text": "某港三cs偶然刷到，才发现外面没下雨[哭惹R]",
+      "sourceRef": "comment:6a09d056000000002803ca1d",
+      "commentId": "6a09d056000000002803ca1d",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

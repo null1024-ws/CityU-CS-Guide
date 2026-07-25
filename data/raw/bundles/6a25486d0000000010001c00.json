@@ -1,0 +1,46 @@
+{
+  "note_id": "6a25486d0000000010001c00",
+  "url": "https://www.xiaohongshu.com/explore/6a25486d0000000010001c00?xsec_token=ABosEDI5vl_5xQP22qvyyuDd9tEmO0VWnC7YRTNFRR5go=",
+  "fetched_at": 1784955850.6180868,
+  "course_codes": [
+    "CS5242",
+    "CS5260",
+    "CS5425"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS MCOMP 选课Part 4",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5260 (推荐指数：⭐️⭐️)\nProf You Yang 的课，因为之前上了 CS5242 才想着拿看看，结果有点失望。TA 对 Assignments 一点都不上心，问问题经常不回复，或者要等上好几天才有回应。Assignments 里也经常有mistakes, TA应该先检查清楚了才released。不过 Assignments 本身也不是非常难。Final Group Project 可以选择 submit arXiv paper 或者做一个 AI Agent Project，不过 Project 的marking scheme非常抽象。课程内容本身还是不错的，很多前沿和热门的 AI 主题都会 covered 到。\n\t\nCS5425 (推荐指数：⭐️⭐️⭐️⭐️⭐️)\n分成两个部分，由两个老师教(Prof Bingsheng 和\nAi Xin)，两位老师都很好，课程设计得十分用心。有两个 Individual Assignments，老师鼓励我们使用 AI，但会有 Interview 来确保你知道自己在做什么。Final Exam 挺容易的，而且是 Open Book，不过因为有 Bell Curve，想拿 A 还是得卷到接近满分。有人说这门课比较水，但个人觉得还是不错的，要拿A应该也是不容易。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长是MCOMP GT方向吗[萌萌哒R]",
+      "sourceRef": "comment:6a2592ea000000002803a279",
+      "commentId": "6a2592ea000000002803a279",
+      "likes": 0,
+      "author": "aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "CS Spec",
+      "sourceRef": "comment:6a2613af000000000d023001",
+      "commentId": "6a2613af000000000d023001",
+      "likes": 0,
+      "author": "程序dog"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享[派对R]",
+      "sourceRef": "comment:6a25597a000000002900c0ad",
+      "commentId": "6a25597a000000002900c0ad",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

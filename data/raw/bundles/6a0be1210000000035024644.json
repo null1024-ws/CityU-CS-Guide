@@ -1,0 +1,57 @@
+{
+  "note_id": "6a0be1210000000035024644",
+  "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
+  "fetched_at": 1784951748.5723689,
+  "course_codes": [
+    "CS5285",
+    "CS5293",
+    "CS5296",
+    "CS6290",
+    "CS6491",
+    "CS6537"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU MSc CS Sem B课程评价（全A上岸啦）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这学期依旧家里蹲，时间都花在找工作上了，感觉花了这么多钱就拿了张成绩表。排名不分先后，依据成绩表顺序而定：\n\t\nCS5293 Topics on Information Security\n好课。Assignment和Project在网上都有现成答案可以抄考，所以平时分很多人接近满分。那Project其实就是一个小的个人Assignment，大概Week 10/11发题，二选一即可。考试难度不高但题多（多复习Assignment，尤其是二进制安全的部份），读过CS5285的在做题上会有优势。\n\t\nCS5296 Cloud Computing\n不太好。PPT有点简陋且放在Canvas上的是PDF，对我这种连环逃学人不友好，得花不少时间脑补内容。小组作业可以单飞，对自己有信心的人可以选。开卷考试难度偏高且计算和画图题量大，需要两小时手不断写才能把卷做完。可以先把重点抄在一张纸上，会省去很多翻纸的时间。记得带上计算器，铅笔和尺子，作图时会用上的。\n\t\nCS6290 Privacy-enhancing Technologies\n好课。主要探讨区块链技术和原理，平时分是四份阅读报告，四个小测，和一个小组作业。老师对AI非常包容，不要直接把AI输出交上去贴脸开大就行了。小组作业有大神队友带着拿了全班最高分，爽死了。开卷考试只能带两张A4纸，难度低但题量大。遇到有题目一分钟也想不出怎么做就要跳题，千万别犹豫，两小时不断写就完了。\n\t\nCS6491 Topics in Optimization\n绝世好课（至少现在是）。这课全是数学。张老师实力过硬，上课就是把课件重新推导一次和补充细节。中考和期末明显给活路了，来真的话人人都得寄。今年按Quinn老师的卷子做过一次的话基本上就十拿九稳了，但感觉未来可能会改题目，数学底子不好的同学慎选。\n\t\nCS6537 Guided Study in IS\n就是自选一个题目找导师带你，再做个简单研究，最后和导师汇报就可以。选题最好是自己有兴趣的，不然写报告很折磨人。导师方面每个人风格不同，我的是放养型导师，偶尔自己把写好的东西交给他听下反馈再改就得了，其他时间都让我自由发挥。我觉得这非常好，但也有同学需要每个星期和导师开组会且乐在其中的，总体上给分可以的。\n\t\n#港硕[话题]# #港城大[话题]# #计算机[话题]# #水硕[话题]# #CityU[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5293题型是什么呀",
+      "sourceRef": "comment:6a0c216b000000002902c2d8",
+      "commentId": "6a0c216b000000002902c2d8",
+      "likes": 0,
+      "author": "Mine Mine（见过jay版）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Section A 10题短答题\nSection B 5题长答题\n要全部答完 长答题涵盖简单加密算法、二进制安全、区块链等知识[失望R]",
+      "sourceRef": "comment:6a0c56d700000000280084ee",
+      "commentId": "6a0c56d700000000280084ee",
+      "likes": 0,
+      "author": "Huh"
+    },
+    {
+      "type": "comment",
+      "text": "那么高分[石化R]",
+      "sourceRef": "comment:6a0bfee5000000002803c5f8",
+      "commentId": "6a0bfee5000000002803c5f8",
+      "likes": 0,
+      "author": "离线猫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "做题区是这样的",
+      "sourceRef": "comment:6a0c01f7000000002701566d",
+      "commentId": "6a0c01f7000000002701566d",
+      "likes": 0,
+      "author": "Huh"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "note_id": "69fcc4880000000035021f31",
+  "url": "https://www.xiaohongshu.com/explore/69fcc4880000000035021f31?xsec_token=ABvm0UzM6ysaoj6vJetVWRPRLza6vFgJpReXN2uzFpXUM=",
+  "fetched_at": 1784952635.1853635,
+  "note": {
+    "xsecToken": "ABvm0UzM6ysaoj6vJetVWRPRLza6vFgJpReXN2uzFpXUM=",
+    "time": 1778173064000,
+    "type": "normal",
+    "title": "Mcomp Sem 2课程评价",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "5",
+      "collected": false,
+      "commentCount": "2",
+      "shareCount": "2",
+      "relation": "none",
+      "niceCount": "",
+      "collectedCount": "10",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8",
+        "height": 1707,
+        "traceId": "",
+        "livePhoto": false,
+        "width": 1280,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251210/6f3c751dc175983bff8758ff9dddcd01/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251210/0ef3a3ea218382e61c790dd1adb0d12f/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251210/6f3c751dc175983bff8758ff9dddcd01/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251210/0ef3a3ea218382e61c790dd1adb0d12f/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251210/5d433dc97ea7589c516a6d70cd7254b5/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251210/e20d7813c019516b92d07dcd9080dee5/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251210/5d433dc97ea7589c516a6d70cd7254b5/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg",
+        "height": 2532,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251210/e20d7813c019516b92d07dcd9080dee5/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "width": 1170
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1781253523000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69fcc4880000000035021f31",
+    "desc": "1. CS5242 (Bresson Xavier)\n- midterm25% final35% project35% 出勤5%\n非尤老师教的cycle。法国老师，法语口音比较重。虽然开课的时候一本正经地劝退对数学和coding没有自信的同学，但其实这门课教得相当常规，也比较适合0基础入门。考试考古法编程加上选择题。古法编程需要熟记tutorial主要功能的代码和练习额外的内容（如何不靠nn.conv2d实现convolution等等) project是自己想应用场景实现一个dl的应用。\n\t\n2. CS5233 (Gary Tan)\n- 3个assignment一共50% final50%\n感觉也是cs core里面比较水的一门。但没有什么人选，只有30个人。主要讲simulation实现原理和一些统计上的验证方法。3个assignment都是小组作业。前两个用arena建模软件做一个小模型回答问题，第三个是写一篇文献综述。final和历年卷子相似。老师讲课风格活泼，氛围轻松。\n\t\n3. CS5462 (Lu Yao)\n- 6个tutorial 15%，3个assignment 45%，project 40%\nlu老师今年开的新课，内容作业和CS6216基本一致。给分意外的很不错。assignment弥补了dl没有教的一些细节，不错[害羞R]。有些周有tutorial，形式是notebook填空，可能会有突击点名。project是指定题目三选一。其实有的选的话，推荐选6216，可以只做作业不做project。",
+    "user": {
+      "xsecToken": "AByspjjtV2vWq3bvI2aNqYaK4Bb8rTn4cE8AOx4_o0qpM=",
+      "userId": "5b349587e8ac2b528cf60051",
+      "nickname": "Raaaay",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5b34961eb46c5d7fcf476fe9.jpg"
+    },
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "noteId": "69fcc4880000000035021f31",
+      "subCommentCursor": "6a1fdc3d0000000027021e50",
+      "id": "6a1fcdd9000000002701fa26",
+      "status": 0,
+      "likeCount": "1",
+      "invalid": false,
+      "userInfo": {
+        "userId": "5c4dc5fc000000001002ce4e",
+        "nickname": "pser_ZG",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321mf277kn4005n2donu45jie1s7jo88?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXtACd1fRqXOFaEcs44IqN8QIPw2F1jlG0cVi6zH781M="
+      },
+      "createTime": 1780469210000,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "69fcc4880000000035021f31",
+          "content": "对 主要看老师",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5b349587e8ac2b528cf60051",
+            "nickname": "Raaaay",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5b34961eb46c5d7fcf476fe9.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABc3_NCmtmvw5j96Uj8mzFSFZxHg1AlPSoL3MI8L1KUbA="
+          },
+          "createTime": 1780472893000,
+          "id": "6a1fdc3d0000000027021e50",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a1fcdd9000000002701fa26",
+            "userInfo": {
+              "nickname": "pser_ZG",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321mf277kn4005n2donu45jie1s7jo88?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABXtACd1fRqXOFaEcs44IqN8QIPw2F1jlG0cVi6zH781M=",
+              "userId": "5c4dc5fc000000001002ce4e"
+            }
+          }
+        }
+      ],
+      "content": "cs5242 是不是这门课s2 的xavier有考试，然后s1 的yang you就是全asmt+project 没考试呢？",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 选课",
+  "search_item": {
+    "id": "69fcc4880000000035021f31",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "Mcomp Sem 2课程评价",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5b34961eb46c5d7fcf476fe9.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5b349587e8ac2b528cf60051",
+        "nickname": "Raaaay",
+        "xsecToken": "ABSJGoM03fiAbOgYcadSZYTgD0b624aVDFLMvVyoE9luc=",
+        "nickName": "Raaaay"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "10",
+        "commentCount": "2",
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "5"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251210/2af3111a70f4f2679f3d243e049dff83/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nc_n_webp_prv_1",
+        "height": 1707,
+        "width": 1280,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251210/42a2b23fa2ae9bb4c99ec8ad40e646c8/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1707,
+          "width": 1280,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251210/42a2b23fa2ae9bb4c99ec8ad40e646c8/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251210/2af3111a70f4f2679f3d243e049dff83/notes_pre_post/1040g3k8320uce9j76s004a6lddaoe02hnsoj6r8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2532,
+          "width": 1170,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251210/a4183fdf51aa920661f8da10f3b6b551/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251210/56eb3bf03552c1b5d8c5bc11ec3e39cd/notes_pre_post/1040g3k8320uce9j76s0g4a6lddaoe02ht2d3dbg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-12"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABvm0UzM6ysaoj6vJetVWRPRLza6vFgJpReXN2uzFpXUM=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "69fcc4880000000035021f31"
+  }
+}

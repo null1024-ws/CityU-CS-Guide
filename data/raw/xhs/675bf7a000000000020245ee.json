@@ -1,0 +1,288 @@
+{
+  "note_id": "675bf7a000000000020245ee",
+  "url": "https://www.xiaohongshu.com/explore/675bf7a000000000020245ee?xsec_token=ABaBQIAAwiPSWJd2WX2SEAedyDVazJt3LRKQ_1lu8Mrgw=",
+  "fetched_at": 1784874369.6276374,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "675bf7a000000000020245ee",
+        "model_type": "note",
+        "note_card": {
+          "note_id": "675bf7a000000000020245ee",
+          "desc": "这篇笔记是关于学习经历的，属于流水账，想看学习内容的同学请看主页另外一篇。\n从我知道这门课起，貌似大家都交口称赞，于是我兴冲冲地报了名。\n我本科是学过一点机器学习的，但是仅限于皮毛，对于数学层面，是基本不懂得的，一直很羡慕懂数学原理的机器学习学习者。\n第一节课复习线代和概率论，我线代学习过MIT的线性代数网课，感觉能跟得上老师的直觉理解，概率论则实在是基础一般。\n之后的两周基本每周的70％都在学习5487，做作业，这部分时间主要是再听一次课，加强理解。\n但是国庆开始，第一次编程作业发布时，时间终于不够了，手写几个回归算法就占去了我国庆7天的5天，之后就是10月14日的期中考试，一切都非常紧凑，与此同时其他必修课也将要考试。\n在面对完所有期中考试后，进入了大作业和project并存的11月，只能说还没感觉就过去了，在这段时间里，已经没什么时间去像最开始的两周一样去学5487了，能做的也就是记记笔记。\n12月开始，在匆忙应付完project就要面对号的5487期末考试，说实话，那段时间的紧迫感是这学期来最强的。\n匆匆忙忙听了一次网课，理了理算法的逻辑，看了看老师的例题，随便押了几道题上考场，考得题和押的题擦肩而过，不过庆幸，算法思路还能写出来，但仅限于思路和一小部分结果了。\n建议：\n这学期的5487学得艰辛，但是收货颇丰，对于想学数学底层的同学来说，我觉得报名很值，当然，得做好脱层皮的准备，对于时间有限，不希望在一门课投入很多的同学来说，那就得避开了。",
+          "user": {
+            "user_id": "60c7febe000000000100069a",
+            "nickname": "我不是米老鼠的纽扣",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e20ba8d0s605o67vqv081kq06fbpv0",
+            "xsec_token": "ABC0fGGXRpuIEEMGH-3Ca5wfVtjSrK73PhTZthZt7qyBA="
+          },
+          "image_list": [
+            {
+              "trace_id": "",
+              "stream": {},
+              "live_photo": false,
+              "width": 1200,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241426/78f266d80d514ed0b98088eb2c81bd9d/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241426/45354d8979126b8a00c6c290bd32f261/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241426/78f266d80d514ed0b98088eb2c81bd9d/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241426/45354d8979126b8a00c6c290bd32f261/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nd_dft_wlteh_webp_3",
+              "file_id": "1040g2sg31bbg73rm7adg5o67vqv081kqea523m8",
+              "height": 1600
+            }
+          ],
+          "at_user_list": [],
+          "time": 1734080416000,
+          "type": "normal",
+          "title": "CS5487学习经历与未来的选课建议",
+          "interact_info": {
+            "relation": "none",
+            "liked": false,
+            "liked_count": "25",
+            "collected": false,
+            "comment_count": "8",
+            "nice_count": "",
+            "collected_count": "22",
+            "share_count": "8",
+            "followed": false
+          },
+          "tag_list": [],
+          "last_update_time": 1734080838000,
+          "share_info": {
+            "un_share": false
+          }
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874370624
+  },
+  "comments": {
+    "comments": [
+      {
+        "sub_comment_has_more": true,
+        "status": 0,
+        "content": "再吹一波antoni，前半部分讲得是真的透，后面换老师了，感觉听不太懂了就[笑哭R]",
+        "at_users": [],
+        "liked": false,
+        "sub_comments": [
+          {
+            "id": "675c0420000000000d03bd3b",
+            "note_id": "675bf7a000000000020245ee",
+            "at_users": [],
+            "show_tags": [],
+            "create_time": 1734083616000,
+            "ip_location": "中国香港",
+            "target_comment": {
+              "id": "675bfd840000000010018479",
+              "user_info": {
+                "nickname": "别叫我姐妹了Orz",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+                "user_id": "65a673000000000008020a44"
+              }
+            },
+            "status": 0,
+            "content": "真的怀念安东尼",
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "user_id": "5f14069a000000000101f036",
+              "nickname": "Raven_br",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b5a8kjvnm005nok0qd0bs1mhqn5vj0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABCJcEJpLBHcRGNjqoTh57xUQb5BHlNnzHWQ00BZ_FWDI="
+            },
+            "invalid": false
+          }
+        ],
+        "id": "675bfd840000000010018479",
+        "like_count": "3",
+        "show_tags": [],
+        "ip_location": "中国香港",
+        "sub_comment_count": "3",
+        "sub_comment_cursor": "675c0420000000000d03bd3b",
+        "note_id": "675bf7a000000000020245ee",
+        "user_info": {
+          "xsec_token": "ABIh8P1GxhByI-0QMw4A66Iibz4J1tOfTjdzfCfqb2K-o=",
+          "user_id": "65a673000000000008020a44",
+          "nickname": "别叫我姐妹了Orz",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kttfr6o2a6g5pd6ec0242i4fqsahgg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "create_time": 1734081924000,
+        "invalid": false
+      },
+      {
+        "create_time": 1734218021000,
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "ip_location": "中国香港",
+            "invalid": false,
+            "id": "675ef2a1000000000e010a3d",
+            "note_id": "675bf7a000000000020245ee",
+            "status": 0,
+            "content": "是",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABBycsjcF9iCn5FfBpf7xQqOE7yyUiEayx6loufMmi6pI=",
+              "user_id": "664dbf540000000003030a99",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315h4c8fthe605pidnta0u2kpv6kcpmg?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": [],
+            "create_time": 1734275745000,
+            "target_comment": {
+              "id": "675e1124000000000e012f9a",
+              "user_info": {
+                "user_id": "63aec5c10000000026013b26",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320phmhkomekg5oteon0piep6615s180?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABgKidupnjQXFwJoM_ymADfNBIPy91OeZDO_k9Scqqhjg="
+              }
+            },
+            "at_users": [],
+            "liked": false
+          }
+        ],
+        "status": 0,
+        "content": "这门课会挂人，不推荐[偷笑R]",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "sub_comment_cursor": "675ef2a1000000000e010a3d",
+        "invalid": false,
+        "note_id": "675bf7a000000000020245ee",
+        "like_count": "0",
+        "id": "675e1124000000000e012f9a",
+        "ip_location": "中国香港",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "user_info": {
+          "user_id": "63aec5c10000000026013b26",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320phmhkomekg5oteon0piep6615s180?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABgKidupnjQXFwJoM_ymADfNBIPy91OeZDO_k9Scqqhjg="
+        }
+      },
+      {
+        "at_users": [],
+        "user_info": {
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgvmvgo7o6g5o73inf85qn0248lhs8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABmHXKo1NCAH4on9dhwb_2dAuLOR30QtPkO11olKoM7vc=",
+          "user_id": "60e395de000000002002eae0",
+          "nickname": "隐士居人"
+        },
+        "create_time": 1734106155000,
+        "sub_comment_cursor": "",
+        "liked": false,
+        "like_count": "0",
+        "show_tags": [],
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "invalid": false,
+        "id": "675c5c2b000000000e011b0d",
+        "note_id": "675bf7a000000000020245ee",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "status": 0,
+        "content": "cs大名鼎鼎的ml"
+      },
+      {
+        "status": 0,
+        "content": "就算是考试的题都在我的cheat sheet上面最后都没有抄完[哭惹R]感觉时间太紧了",
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1734083749000,
+        "sub_comments": [],
+        "note_id": "675bf7a000000000020245ee",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "5f14069a000000000101f036",
+          "nickname": "Raven_br",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b5a8kjvnm005nok0qd0bs1mhqn5vj0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABCJcEJpLBHcRGNjqoTh57xUQb5BHlNnzHWQ00BZ_FWDI="
+        },
+        "sub_comment_cursor": "",
+        "id": "675c04a5000000000e00d00f",
+        "ip_location": "中国香港",
+        "sub_comment_count": "0"
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 4,
+    "pages_fetched": 1
+  },
+  "search_query": "城大CS5487",
+  "search_item": {
+    "id": "675bf7a000000000020245ee",
+    "model_type": "note",
+    "note_card": {
+      "user": {
+        "xsec_token": "ABVoqSKnhVTvg_ocUJRyRuocKkHUlmc2qL5r3B7fIUKfM=",
+        "nick_name": "我不是米老鼠的纽扣",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e20ba8d0s605o67vqv081kq06fbpv0?imageView2/2/w/80/format/jpg",
+        "user_id": "60c7febe000000000100069a",
+        "nickname": "我不是米老鼠的纽扣"
+      },
+      "interact_info": {
+        "liked_count": "25",
+        "collected": false,
+        "collected_count": "22",
+        "comment_count": "8",
+        "shared_count": "8",
+        "liked": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241426/2c8844df94d3246e7f4e6405a67a03df/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241426/6000a1349e17b1164136cb51f5a17218/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241426/2c8844df94d3246e7f4e6405a67a03df/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241426/6000a1349e17b1164136cb51f5a17218/1040g2sg31bbg73rm7adg5o67vqv081kqea523m8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "text": "2024-12-13",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "display_title": "CS5487学习经历与未来的选课建议"
+    },
+    "xsec_token": "ABaBQIAAwiPSWJd2WX2SEAedyDVazJt3LRKQ_1lu8Mrgw="
+  }
+}

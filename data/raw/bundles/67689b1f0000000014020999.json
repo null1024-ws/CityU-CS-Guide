@@ -1,0 +1,82 @@
+{
+  "note_id": "67689b1f0000000014020999",
+  "url": "https://www.xiaohongshu.com/explore/67689b1f0000000014020999?xsec_token=ABErBC1YIRFYU-JlJ8ixU_zvqXoZLkalZ2Xjq7sJO67gQ=",
+  "fetched_at": 1784955794.708697,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "麦迪逊24Fall课程简评（上）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "我还是如约而至地出现了）\n\t\nCS537 Intro to Operating System\nby Shivaram\n当之无愧的第一workload课。。。一学期6个project 3个midterm. 每个topic一个midterm 主要围绕OS的三个topic展开 虚拟性 并发性 持久性 project也是和topic紧密相关 但这学期美中不足的是并没有专门的project与并发性相关 其他几个印象较深的project有 手搓一个基本的shell 读一遍论文实现stride的调度 使用mmap实现内存管理还有copy on write的功能 实现一个基本的文件系统支持raid 0和1 总体来说project都是很有意思的 但是如果犯了拖延症直到最后几天才开始写的话很难写的完。。。(狠狠惩罚了我这个p人)我觉得这门课workload大是因为本身概念确实不算简单 而且考试和project基本算是分开的两条路 project有时候描述也比较vague 需要很多时间去调试\n再说回shivaram老师 他是当之无愧的明星老师 水平高 非常理解学生面临的困难而且很有耐心 我一开始去oh找他聊天 我说我没有上过252和354 其实担心会有些问题 他很详细地给了我指导并安慰我说不要担心 人真的很好!!!\n\t\nCS544 Intro to Big data Systems\nby Tyler\n非常有意思的一门课 一开始讲一些docker和基本的sql 后面主要围绕HDFS Spark Cassandra Kafka等主流框架展开 8个project 3个midterm 一周一个小quiz project整体难度可以接受 但也需要花些时间 但整体说实在的毕竟是intro课程 更侧重于width而不是depth 但确实是门好课！唯一的弊端是我觉得Tyler的语速有点太快了。。。我有时候上课听不清他在说啥 但Tyler人也是非常的nice 线下去找他也非常的热心 他在syllabus里还写到：I'll do my best to connect you with resources and try to think of accomodations to help out. I want to do whatever I can to help you succeed.\n﻿#麦迪逊[话题]#﻿ ﻿#计算机专业[话题]#﻿ ﻿#选课[话题]#﻿",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "544extra credit真的还是蛮多的，而且还给round up[害羞R]",
+      "sourceRef": "comment:67689e500000000011003377",
+      "commentId": "67689e500000000011003377",
+      "likes": 1,
+      "author": "Momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "tyler真的很好[萌萌哒R]",
+      "sourceRef": "comment:6768a26b000000000d03b544",
+      "commentId": "6768a26b000000000d03b544",
+      "likes": 2,
+      "author": "Cirtus"
+    },
+    {
+      "type": "comment",
+      "text": "537 544 571 577 一起上？ 好强） Shiv人真的好，回邮件也飞快。 537有些project instruction真的一言难尽（没错我说的就是p5COW） 希望学期开头有人drop544吧，抢俩学期了没抢到这课。。",
+      "sourceRef": "comment:6768a422000000000f038beb",
+      "commentId": "6768a422000000000f038beb",
+      "likes": 0,
+      "author": "今天吃了啥"
+    },
+    {
+      "type": "sub_comment",
+      "text": "时间紧任务重[害羞R] 544太火爆了 侧面说明了确实是好课哈哈哈哈",
+      "sourceRef": "comment:6768ad64000000000e01cff6",
+      "commentId": "6768ad64000000000e01cff6",
+      "likes": 2,
+      "author": "Cirtus"
+    },
+    {
+      "type": "comment",
+      "text": "shiva老师现在还招intern吗",
+      "sourceRef": "comment:679e44ea000000000a02fdf1",
+      "commentId": "679e44ea000000000a02fdf1",
+      "likes": 0,
+      "author": "唐德部诗人"
+    },
+    {
+      "type": "comment",
+      "text": "想问下math421和431放暑假上吃得消吗[萌萌哒R]",
+      "sourceRef": "comment:67ef003f000000001f009667",
+      "commentId": "67ef003f000000001f009667",
+      "likes": 0,
+      "author": "Jade"
+    },
+    {
+      "type": "comment",
+      "text": "shiv真的超超超nice！！！",
+      "sourceRef": "comment:67689bc9000000001003f028",
+      "commentId": "67689bc9000000001003f028",
+      "likes": 0,
+      "author": "ShawnZhong"
+    },
+    {
+      "type": "sub_comment",
+      "text": "真的![萌萌哒R]",
+      "sourceRef": "comment:6768a25e000000000e00c768",
+      "commentId": "6768a25e000000000e00c768",
+      "likes": 0,
+      "author": "Cirtus"
+    }
+  ]
+}

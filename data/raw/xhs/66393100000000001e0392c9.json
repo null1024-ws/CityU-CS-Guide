@@ -1,0 +1,465 @@
+{
+  "note_id": "66393100000000001e0392c9",
+  "url": "https://www.xiaohongshu.com/explore/66393100000000001e0392c9?xsec_token=AB1ZF5JIPyMshmp64FsnBddtOU4CktAe4nvdReaC37wLc=",
+  "fetched_at": 1784954711.428843,
+  "note": {
+    "xsecToken": "AB1ZF5JIPyMshmp64FsnBddtOU4CktAe4nvdReaC37wLc=",
+    "noteId": "66393100000000001e0392c9",
+    "title": "CS7637 KBAI",
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "41",
+      "collected": false,
+      "commentCount": "10",
+      "followed": false,
+      "collectedCount": "37",
+      "shareCount": "16",
+      "relation": "none"
+    },
+    "time": 1715055901000,
+    "lastUpdateTime": 1715024128000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "这这是系主任的课，代码+写作课，写作量比较大。\n这个课程有两个exam，占比15%。每个exam有22道多选题，每道题5个选项，实际上是110道判断题。考试开卷，可以用AI工具（chatgpt等），lecture script可以下载。班级两次均分都在90左右，我的考试成绩比较差，70+，但占比较少，不影响拿A哈哈[笑哭R]\n然后，有个占比10%的课堂参与分，可以通过ed的活跃度获取，可以通过每周的Peer Feedback获取，还可以通过学期一开始以及快结束的调查问卷获取。我主要是通过Peer Feedback，每周最多可以做6个，完成3个后可再申请3个，在周四前完成可得1.5分，得到100分就可以拿满10%。我在1/3学期已经凭借Peer Feedback拿到60分，midterm的时候已经拿到满分。建议在前期多做点，学期末就有更多休闲的时间。\n最后是占比75%的作业和项目，这些项目都要写作文！但是，导师给出了非常完整的评分标准，按照要求来写，很容易得满分。\n首先是3个纯写作的homework，占比15%，非常简单，就像是高中写作，对问题进行分析，要求不超过5页。但是要注意，一定得按照评分标准写，漏写会扣很多分。\n然后是mini项目，一共5个，占比30%。其中代码和写作各15%。这写作业感觉也不难，跟之前的AI课程相比，做起来很轻松。而且就算代码无法满分，每个代码作业占比只有3%，扣一点点影响不大。\n最后是RPM项目，占比30%，一共有96个题目。这需要有OpenCV或者Pillow的知识。这个作业从开学一直贯穿到结束。项目分为4个部分，从易到难。前面占比7.5%的代码作业，代码只要解决5-10个local题，以及5-10个hidden tests就可以，这部分容易得满分。后面占比7.5%的d代码作业，得答对给出的48个local basic tests以及随机的48个hidden tests。同样的，每次作业都要写作文，final报告限制不超过10页，其他的不限制页数。最后项目要答对所有的题目是有难度的，我只通过70%。ed上有大佬得到满分，还慷慨地将自己的想法进行分享。\n每次的作文都会有20篇优秀范文公开分享，查看同学的范文能找到很多有趣的思路。\n这门课感觉拿B轻松，谨慎些拿A也不难。开学初很多作业就已经发放了，有精力和能力的同学，完全可以提前完成这门课。 #omscs选课[话题]#",
+    "user": {
+      "userId": "57fbbb6250c4b44a809782a1",
+      "nickname": "_Stephynie_",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sashr0440048om1etm50l1c3defi8",
+      "xsecToken": "AB2JRXkQxZrZyYkLTAefIEDmxGxpL6bm7PKKTzY0FTotM="
+    },
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg",
+        "height": 832,
+        "width": 1125,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251245/ced6a64e84cef277fe5f77b0ef617041/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251245/69156583eef44e94681528f7d91b7949/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/ced6a64e84cef277fe5f77b0ef617041/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/69156583eef44e94681528f7d91b7949/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nd_dft_wgth_jpg_3"
+          }
+        ]
+      },
+      {
+        "fileId": "spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0",
+        "height": 690,
+        "width": 1005,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/f6168b39c85c13281837e805fe49b9ea/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/062d10cc69bb2be526d83048c36d1028/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251245/f6168b39c85c13281837e805fe49b9ea/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251245/062d10cc69bb2be526d83048c36d1028/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "height": 723,
+        "url": "",
+        "traceId": "",
+        "livePhoto": false,
+        "width": 716,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/74bbdad4a128b96a2675dbcf6686ea04/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251245/770c26dd88e46cc57da3fac942727560/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251245/74bbdad4a128b96a2675dbcf6686ea04/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251245/770c26dd88e46cc57da3fac942727560/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "6167bf29000000000100133d",
+        "name": "omscs选课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5bad4cfed37ff60001ca4170",
+        "nickname": "LV永不打折",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5bad5a27cf78c40001a36864.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB35cCIFaGl1qty2eC8mM0FB9AdlMVh48RfE-zp2_BQvk="
+      },
+      "subCommentCount": "1",
+      "id": "66d9746f000000000d00e590",
+      "liked": false,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "Mini project感觉是算法作业+小作文，算法好的话1-2小时很快做完，基础不好的话可能要5-10小时。",
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "66d9746f000000000d00e590",
+            "userInfo": {
+              "userId": "5bad4cfed37ff60001ca4170",
+              "nickname": "LV永不打折",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5bad5a27cf78c40001a36864.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB35cCIFaGl1qty2eC8mM0FB9AdlMVh48RfE-zp2_BQvk="
+            }
+          },
+          "liked": false,
+          "userInfo": {
+            "userId": "57fbbb6250c4b44a809782a1",
+            "nickname": "_Stephynie_",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sashr0440048om1etm50l1c3defi8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJtNJG60sVuMzGWWAhBvaAZyF1rD2tc2aFLKGK81gXpE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1725551442000,
+          "invalid": false,
+          "id": "66d9d3520000000004031a21",
+          "noteId": "66393100000000001e0392c9"
+        }
+      ],
+      "subCommentCursor": "66d9d3520000000004031a21",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "想问下每个mini project大概要花费多长时间呀",
+      "createTime": 1725527151000,
+      "noteId": "66393100000000001e0392c9",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1715056435000,
+      "invalid": false,
+      "id": "6639af320000000004003e99",
+      "userInfo": {
+        "nickname": "热心市民来酱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66a2d09180aaa0cc19159fcc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoGdLESnTSGDLDh6k_HiywGKEfVO6g6LuK9huFpaCYvY=",
+        "userId": "5945e0415e87e7167d9da7eb"
+      },
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "noteId": "66393100000000001e0392c9",
+          "content": "同学…我也是…哎homework2才交啊…",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABKJAGslWHkNeY5mIBpSG_z9sSVCQCDO3sSlsq_VgQUcY=",
+            "userId": "5a11910de8ac2b37e2ba0c65",
+            "nickname": "Juju",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5ef9627fe2203d00010891ca.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "targetComment": {
+            "id": "6639af320000000004003e99",
+            "userInfo": {
+              "userId": "5945e0415e87e7167d9da7eb",
+              "nickname": "热心市民来酱",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66a2d09180aaa0cc19159fcc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoGdLESnTSGDLDh6k_HiywGKEfVO6g6LuK9huFpaCYvY="
+            }
+          },
+          "id": "6666e6d5000000001c01613d",
+          "status": 0,
+          "showTags": [],
+          "createTime": 1718019798000,
+          "ipLocation": "美国",
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "6666e6d5000000001c01613d",
+      "noteId": "66393100000000001e0392c9",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "我这学期也上了这节 report编的好痛苦！",
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "66393100000000001e0392c9",
+      "liked": false,
+      "showTags": [],
+      "id": "69d2840f0000000014033862",
+      "likeCount": "1",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "status": 0,
+      "content": "这个教授的课都那样，体验很一般，一点东西都学不到，还会在莫名其妙的地方丢分",
+      "createTime": 1775404047000,
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5a9855c34eacab68f5801d21",
+        "nickname": "有素质但是真不多",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uqen8345c004a30bjas6791gsd0jn8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByVW35cgcqa3mryCmOcG5_-ouTaeCbK8DC9Xkh7sbU2o="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABLcVY_vk1J2V1CRHBbE2s08qg2r2zv9fcqjk5lvvxM2Q=",
+        "userId": "656d78e30000000020030d37",
+        "nickname": "小葵🌻的上岸日记",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1747331543000,
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "682629d7000000001c036f17",
+      "noteId": "66393100000000001e0392c9",
+      "status": 0,
+      "showTags": [],
+      "likeCount": "0",
+      "subComments": [],
+      "ipLocation": "美国",
+      "content": "peer feedback在哪里找啊？还没看见link啥的",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "content": "我看考试要共享屏幕，也可以在考试的时候直接google或者gpt吗",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB7kTyRz707wbKfglvSSXgd2lMTQrWwZvKHOz7U1uYBAk=",
+        "userId": "5dfebac20000000001009a1c",
+        "nickname": "祉境",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fefcdbdd10a4f00016bd035.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "status": 0,
+      "id": "6798fd07000000000b0390fc",
+      "createTime": 1738079496000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "66393100000000001e0392c9",
+      "showTags": [],
+      "ipLocation": "美国",
+      "subComments": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "66455d680000000002002471",
+      "status": 0,
+      "content": "这课就是垃圾，全是写报告，没啥意思",
+      "showTags": [],
+      "noteId": "66393100000000001e0392c9",
+      "likeCount": "1",
+      "createTime": 1715821929000,
+      "invalid": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64b8a8ab4367ad3d08fe05f7.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuXXaman6bNAIla2D80V8XsjfH661m_GbF3AifOxXFVY=",
+        "userId": "5f002419000000000100399d",
+        "nickname": "梧桐三更雨"
+      },
+      "ipLocation": "江苏",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "628da75e000000002102257a",
+        "nickname": "風息堡大惡龍",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6461a1d866a49b884b9276b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQyqD6HLKukpkuMSiv5cxR7-CtqPEao0EetV6mr3ElG0="
+      },
+      "showTags": [],
+      "createTime": 1715102655000,
+      "subCommentHasMore": false,
+      "status": 0,
+      "liked": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "likeCount": "0",
+      "ipLocation": "新加坡",
+      "id": "663a63be00000000030344a3",
+      "content": "ML4T也是22道多选=110判断",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "66393100000000001e0392c9",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "66393100000000001e0392c9",
+      "content": "听起来写作任务好重[石化R]",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5c09091df7e8b92e8291cafc",
+        "nickname": "我思故我在你思湖水怪",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6274d1231e9c4d1e2d7f3b48.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJTFDyVLPpvdCMqt-cUen0HrExXazlTdLuCbXajdgAkU="
+      },
+      "createTime": 1715056165000,
+      "ipLocation": "美国",
+      "invalid": false,
+      "id": "6639ae240000000003014fca",
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6537 评价",
+  "search_item": {
+    "id": "66393100000000001e0392c9",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 832,
+        "width": 1125,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251245/7b0d770ab2887df1345bac18a42dc9f8/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251245/9c9558c7c365ef2a7a7b2eb70e219d02/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 832,
+          "width": 1125,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/7b0d770ab2887df1345bac18a42dc9f8/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/9c9558c7c365ef2a7a7b2eb70e219d02/spectrum/1040g0k0312fgd7021i0048om1etm50l1dg7robg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 690,
+          "width": 1005,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/29cffab116b118490f3a916305bcfdfb/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/e8c930a164b8f1923c2f2b993a88bc2a/spectrum/1040g0k0312fge7d31m0048om1etm50l1s48m7h0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 723,
+          "width": 716,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/1be0f01cd479c4e93f4c94ab49513ed4/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251245/6533de091da2df7b386a219463a9d747/spectrum/1040g34o312fgetighk0048om1etm50l17ksc5bg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-05-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CS7637 KBAI",
+      "user": {
+        "nickName": "_Stephynie_",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316sashr0440048om1etm50l1c3defi8?imageView2/2/w/80/format/jpg",
+        "userId": "57fbbb6250c4b44a809782a1",
+        "nickname": "_Stephynie_",
+        "xsecToken": "ABubAPGJgdsJ40BH2o_CJaW-ExxKx_Sowb4JpHlOZLK4A="
+      },
+      "interactInfo": {
+        "likedCount": "41",
+        "collected": false,
+        "collectedCount": "37",
+        "commentCount": "10",
+        "sharedCount": "16",
+        "liked": false
+      }
+    },
+    "xsecToken": "AB1ZF5JIPyMshmp64FsnBddtOU4CktAe4nvdReaC37wLc=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "66393100000000001e0392c9"
+  }
+}

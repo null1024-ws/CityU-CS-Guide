@@ -1,0 +1,466 @@
+{
+  "note_id": "6a4759a10000000021009525",
+  "url": "https://www.xiaohongshu.com/explore/6a4759a10000000021009525?xsec_token=ABuTNcKTrgHVjrOWPggCdSBpKq_ju92r88sNiVke0jSCg=",
+  "fetched_at": 1784952587.0486012,
+  "note": {
+    "xsecToken": "ABuTNcKTrgHVjrOWPggCdSBpKq_ju92r88sNiVke0jSCg=",
+    "noteId": "6a4759a10000000021009525",
+    "desc": "目前GPA 3.58，想在香港本地就业，想问问主修CS的话，有什么合适的第二主修",
+    "user": {
+      "nickname": "Tommy",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg",
+      "xsecToken": "ABRhVg9aGwroxLBNQIoH49BGc1j7MtMLdN_-sye0isLV4=",
+      "userId": "68bdb146000000001901f62b"
+    },
+    "time": 1783060897000,
+    "lastUpdateTime": 1783060897000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "Cityu CS 大一求助",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "7",
+      "commentCount": "23",
+      "niceCount": "",
+      "liked": false,
+      "shareCount": "4",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "7"
+    },
+    "imageList": [
+      {
+        "fileId": "1040g0083225bsr9k7o6g5q5tm536bthb35juus8",
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251209/e2406eded4525392375405e043e3633e/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251209/d0bed3a72b511896a2e8258d4f720b50/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251209/e2406eded4525392375405e043e3633e/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251209/d0bed3a72b511896a2e8258d4f720b50/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nd_dft_wlteh_jpg_3",
+        "height": 1600,
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "tagList": [],
+    "atUserList": [],
+    "ipLocation": "上海"
+  },
+  "comments": [
+    {
+      "noteId": "6a4759a10000000021009525",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 4,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI=",
+        "userId": "68bdb146000000001901f62b",
+        "nickname": "Tommy"
+      },
+      "createTime": 1783065130000,
+      "ipLocation": "上海",
+      "subCommentCount": "4",
+      "id": "6a476a29000000002a006731",
+      "content": "还想问一下，那辅修的话，有什么推荐吗如果second major行不通[微笑R]",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "createTime": 1783066968000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a476a29000000002a006731",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI=",
+              "userId": "68bdb146000000001901f62b",
+              "nickname": "Tommy"
+            }
+          },
+          "id": "6a47715800000000290260c0",
+          "noteId": "6a4759a10000000021009525",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "nickname": "可我只想挂机",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vqkioi52a005q07h0e39bvaipr3238?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3KWw0wspcSDi04YMBLD8KXkkPvtgpPSgsWL6IticauA=",
+            "userId": "6807881c000000000d00afea"
+          },
+          "invalid": false,
+          "content": "你可以在群里问一下哇",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": []
+        }
+      ],
+      "subCommentCursor": "6a47715800000000290260c0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "double major不能正常毕业（）问了cs leader",
+      "subComments": [
+        {
+          "createTime": 1783072387000,
+          "ipLocation": "上海",
+          "status": 0,
+          "content": "谢谢",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a476901000000002b000bb7",
+            "userInfo": {
+              "xsecToken": "ABJBrKkvnQdtCKH-kmBB0aOMdDssYV_Kvv4h1W_Eh8jDY=",
+              "userId": "67af024e000000000a03c46e",
+              "nickname": "KK",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320scoiqhnu005ptf0972nh3e05qh358?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a478683000000002a02de67",
+          "noteId": "6a4759a10000000021009525",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI=",
+            "userId": "68bdb146000000001901f62b",
+            "nickname": "Tommy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "subCommentCursor": "6a478683000000002a02de67",
+      "id": "6a476901000000002b000bb7",
+      "noteId": "6a4759a10000000021009525",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "67af024e000000000a03c46e",
+        "nickname": "KK",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320scoiqhnu005ptf0972nh3e05qh358?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJBrKkvnQdtCKH-kmBB0aOMdDssYV_Kvv4h1W_Eh8jDY="
+      },
+      "ipLocation": "广东",
+      "subCommentCount": "3",
+      "invalid": false,
+      "atUsers": [],
+      "createTime": 1783064834000,
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a4759a10000000021009525",
+      "createTime": 1783062053000,
+      "ipLocation": "中国香港",
+      "subCommentCursor": "6a47869c0000000029027091",
+      "id": "6a475e24000000002b0246b3",
+      "content": "我记得好像有cs+cfft的double degree，不知道这个项目还有没有",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "谁是煮饵丝",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v7t468viq005o7h0drgbrln6vc4ts8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwoNxcZ3HGSiWP4JPqA_JdstXnieYnHLhoKfR27Hg_78=",
+        "userId": "60f10377000000000101eeb7"
+      },
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6a47869c0000000029027091",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "68bdb146000000001901f62b",
+            "nickname": "Tommy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1783072413000,
+          "noteId": "6a4759a10000000021009525",
+          "content": "这个好像是进来的时候就申请的吗",
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a475e24000000002b0246b3",
+            "userInfo": {
+              "nickname": "谁是煮饵丝",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v7t468viq005o7h0drgbrln6vc4ts8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwoNxcZ3HGSiWP4JPqA_JdstXnieYnHLhoKfR27Hg_78=",
+              "userId": "60f10377000000000101eeb7"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "liked": false,
+      "subCommentCount": "5",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "minor行了，你这gpa还要再提提",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCount": "3",
+      "subCommentCursor": "6a485c59000000002a024b4d",
+      "id": "6a47d8360000000029035c1b",
+      "status": 0,
+      "userInfo": {
+        "userId": "6948a957000000003702d425",
+        "nickname": "Harden_777",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi7j1mp000g5qa8l5bttl158fupu2g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABeefCSjcps3jx64dCurWAcdP6v3ePpW-DgMX-NTFB5e8="
+      },
+      "createTime": 1783093302000,
+      "ipLocation": "山东",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6a4759a10000000021009525",
+      "atUsers": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "68bdb146000000001901f62b",
+            "nickname": "Tommy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "上海",
+          "id": "6a485c59000000002a024b4d",
+          "noteId": "6a4759a10000000021009525",
+          "status": 0,
+          "content": "有建议哪一个minor嘛学长",
+          "createTime": 1783127130000,
+          "targetComment": {
+            "id": "6a47d8360000000029035c1b",
+            "userInfo": {
+              "userId": "6948a957000000003702d425",
+              "nickname": "Harden_777",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qi7j1mp000g5qa8l5bttl158fupu2g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABeefCSjcps3jx64dCurWAcdP6v3ePpW-DgMX-NTFB5e8="
+            }
+          },
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a4759a10000000021009525",
+      "atUsers": [],
+      "subCommentCount": "1",
+      "status": 0,
+      "liked": false,
+      "createTime": 1783061097000,
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "subCommentCursor": "6a47868b000000002b0267ab",
+      "id": "6a475a69000000002902e78e",
+      "content": "cs second major的话正常毕业不了吧[笑哭R]",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5fa6b4c3000000000100b899",
+        "nickname": "Timeless",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31noaa6id060g5nt6mj1g9e4p6f26j20?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbsRxQFhXTlYdDk5DLPn3HA7JUcf0x_V1TFC46blfpTs="
+      },
+      "subComments": [
+        {
+          "id": "6a47868b000000002b0267ab",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "68bdb146000000001901f62b",
+            "nickname": "Tommy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABWRvpyEBeI0kTo2tJxyryNsTZJRCe-xPZfJWTKroibkI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1783072396000,
+          "ipLocation": "上海",
+          "noteId": "6a4759a10000000021009525",
+          "content": "谢谢",
+          "liked": false,
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6a475a69000000002902e78e",
+            "userInfo": {
+              "xsecToken": "ABbsRxQFhXTlYdDk5DLPn3HA7JUcf0x_V1TFC46blfpTs=",
+              "userId": "5fa6b4c3000000000100b899",
+              "nickname": "Timeless",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31noaa6id060g5nt6mj1g9e4p6f26j20?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB2UHbnmKYtVdf9F2y7FYym2ZcMFVaRXQa3gJOsGRLOJk=",
+        "userId": "6908934d0000000037028e74",
+        "nickname": "ContentCube",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322idj7phn4005q88id6tt3jk527e77o?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "noteId": "6a4759a10000000021009525",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "id": "6a4b9158000000000500ad0f",
+      "content": "cs double真的能修完课么",
+      "createTime": 1783337304000,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a4b1e0f000000002a024759",
+      "status": -2,
+      "content": "bb不太建议second major或者minor哦因为真的学不过来[哭惹R][哭惹R][哭惹R]至少对我来说[哭惹R][哭惹R]",
+      "createTime": 1783307792000,
+      "ipLocation": "山东",
+      "noteId": "6a4759a10000000021009525",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABPl8Qi-T5iGr_f5GTn1gTi7YLuRwh7D3LpCWN00jKgU8=",
+        "userId": "6239317c000000001000ed58",
+        "nickname": "Thatcher",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u9p9a7r2g005ohp65u41raoq8t1eq8?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS5286",
+  "search_item": {
+    "noteCard": {
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251209/a8a22ce251c4a96c8629c5abfed71947/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251209/16ba3c1daa75bdd9e219f66e53b2f3c7/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251209/a8a22ce251c4a96c8629c5abfed71947/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251209/16ba3c1daa75bdd9e219f66e53b2f3c7/1040g0083225bsr9k7o6g5q5tm536bthb35juus8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "07-03",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Cityu CS 大一求助",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p9dvdu4iu6g5q5tm536bthbn8mrbsg?imageView2/2/w/80/format/jpg",
+        "userId": "68bdb146000000001901f62b",
+        "nickname": "Tommy",
+        "xsecToken": "ABndWylkwy28OHm47m3QnUuVARnb6IjmExd_AR2GSDbrk=",
+        "nickName": "Tommy"
+      },
+      "interactInfo": {
+        "likedCount": "7",
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "23",
+        "sharedCount": "4",
+        "liked": false
+      }
+    },
+    "xsecToken": "ABuTNcKTrgHVjrOWPggCdSBpKq_ju92r88sNiVke0jSCg=",
+    "id": "6a4759a10000000021009525",
+    "modelType": "note",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a4759a10000000021009525"
+  }
+}

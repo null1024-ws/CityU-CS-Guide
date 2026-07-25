@@ -1,0 +1,85 @@
+{
+  "note_id": "68980dce000000002501bcd8",
+  "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
+  "fetched_at": 1784956123.3402977,
+  "course_codes": [
+    "CS5182",
+    "CS5187"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 选课血泪史4️⃣",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "① 仅代表个人观点\n② 本人 bg：末 9 本 + 科班混子 + 一段开发工作经历 + 有过 gap + 学习能力/考试能力/代码能力都远不如年轻人的老登\n\t\nCS5182 Computer Graphics\n\t\n最基础的 CG 理论，SemesterB 学习体验最好的一门课，每周必上\n\t\n课件详略得当，不夸一夸实在说不过去，因为它几乎提供了所有关键的信息，又不像有些课随随便便就是一百多页（鼠标中键都要滚烂了哦）\n\t\nHOU 老师非常关注学生的学习体验，课上会在适当的地方停下来问大家有没有听懂，课间会走下讲台跟同学聊聊天，问一问课上的内容难不难，project 的进展如何等等，可以感受得出来，老师其实是非常愿意和大家聊一聊的\n\t\n老师上课偶尔会抛出一个 small question（最终会变成试卷中的题目），只要你来上课了并且理解了课件的内容，没有任何难度\n\t\nproject 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙[doge]，所以应该是为了避免学生套壳使用）\n\t\n除此之外，project statement 上了两节课就会发出来，可以从很早开始做（不像有些课期末前一个月才放出来）\n\t\n考试只复习课件就完全够用，题目所涉及的线性代数基本就是矩阵乘法这种程度\n\t\n很难挑出缺点的一门课，不知道为什么 SemesterB 选的人比较少，跟 HOU 老师聊过几次，感觉他有点小失望哈哈哈\n\t\nAnyway，选起来吧，xdm\n\t\n#香港城市大学[话题]# #CityU[话题]# #CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "[笑哭R]但是这个课确实没什么用 他也没什么上课的激情",
+      "sourceRef": "comment:689f56fe0000000030026e7e",
+      "commentId": "689f56fe0000000030026e7e",
+      "likes": 1,
+      "author": "真的会发疯啊啊啊"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都读 MSc 了，还图啥有用[doge]",
+      "sourceRef": "comment:689f605d000000003001031f",
+      "commentId": "689f605d000000003001031f",
+      "likes": 0,
+      "author": "别叫我姐妹了Orz"
+    },
+    {
+      "type": "comment",
+      "text": "收到学长，快肝",
+      "sourceRef": "comment:689815f4000000002a009911",
+      "commentId": "689815f4000000002a009911",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "生产队的驴是吧哈哈[doge]",
+      "sourceRef": "comment:6898173e000000002a007357",
+      "commentId": "6898173e000000002a007357",
+      "likes": 0,
+      "author": "别叫我姐妹了Orz"
+    },
+    {
+      "type": "comment",
+      "text": "请问下课表上有的必修课是不是就不用自己再手动选了",
+      "sourceRef": "comment:689855b3000000002b00404f",
+      "commentId": "689855b3000000002b00404f",
+      "likes": 0,
+      "author": "木木枭"
+    },
+    {
+      "type": "comment",
+      "text": "羡慕，可惜当时选不了",
+      "sourceRef": "comment:6899c2d40000000029034629",
+      "commentId": "6899c2d40000000029034629",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "sub_comment",
+      "text": "别信这门课最烂的",
+      "sourceRef": "comment:695ba8f40000000032001886",
+      "commentId": "695ba8f40000000032001886",
+      "likes": 0,
+      "author": "aowu"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下你说的抛出一个small questuon 是ppt上的吗",
+      "sourceRef": "comment:69f80f0f000000002a032d2a",
+      "commentId": "69f80f0f000000002a032d2a",
+      "likes": 0,
+      "author": "Enzo"
+    }
+  ]
+}

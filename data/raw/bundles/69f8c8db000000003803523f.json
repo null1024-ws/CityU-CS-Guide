@@ -1,0 +1,170 @@
+{
+  "note_id": "69f8c8db000000003803523f",
+  "url": "https://www.xiaohongshu.com/explore/69f8c8db000000003803523f?xsec_token=ABHUCgVQwZOD_Bp26yoZXUXsqJ0vsBlNmqlrm4hP92JKM=",
+  "fetched_at": 1784953374.5594985,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "揭秘在Claude Code里WebSearch如何搜索网页",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "我用claude-tap抓了一次让Claude搜天气，文档说WebSearch一次API搞定，实测三次还分两个模型\n\t\n第一次使用Opus决定要搜，输出tool_use。第二次切到Haiku，工具箱只剩一个web_search，服务器端调Brave，拿回10条结果加30KB密文。第三次重新切回Opus，密文剔掉，总结完Haiku的结果回答你。\n\t\n为什么套Haiku子agent？有两层隔离的考虑：\n- 上下文隔离：30KB密文留在Haiku侧，主agent只拿几句总结\n- 攻击面隔离：主agent有Bash/Edit/Write，Haiku只有web_search，哪怕被prompt injection劫持也碰不到能动文件的刀。\n\t\n最后是如何计费。WebSearch独立计费每1000次10美元。对比OpenClaw这种开源agent，web_search都得自己去Brave注册API key自己付费——开源给你的是个壳。Claude Code的\"server tool\"，\"server\"两个字不只是\"在服务端跑\"，更关键是底层搜索服务由Anthropic替你跟Brave付费。\n\t\n一句话：贵的Opus思考，便宜的Haiku执行，脏活隔离在子agent里。10美元顺手把外部搜索基础设施也包了。\n\t\n#个人开发者[话题]# #claude[话题]# #AI工具[话题]# #张司机[话题]# #命令行[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "怪不得我用了第三方模型，这个websearch从来都不管用",
+      "sourceRef": "comment:69f93c72000000002702067f",
+      "commentId": "69f93c72000000002702067f",
+      "likes": 6,
+      "author": "大猿取经"
+    },
+    {
+      "type": "sub_comment",
+      "text": "DeepSeek 是管用的[doge]",
+      "sourceRef": "comment:69f93de700000000290370a2",
+      "commentId": "69f93de700000000290370a2",
+      "likes": 6,
+      "author": "乘风破浪的小乌龟"
+    },
+    {
+      "type": "comment",
+      "text": "想问哥，那为啥claude code接入第三方模型（相当于没为Anthropic付费）也可以用webSearch呢，我实测接deepseek、kimi都可以",
+      "sourceRef": "comment:6a019ce70000000021012c79",
+      "commentId": "6a019ce70000000021012c79",
+      "likes": 1,
+      "author": "一之同学"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为其他厂商比如DeepSeek和Kimi根据Claude Code这套API的规范在自己的服务上也实现了相应的功能，所以用户可以无感的使用。不兼容Claude Code的大模型厂商不会有人用",
+      "sourceRef": "comment:6a01a135000000002100fd03",
+      "commentId": "6a01a135000000002100fd03",
+      "likes": 5,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "既然encrypted_content字段客户端也无法解密而且也没用上，服务器要返回这个字段做什么？而且还是好长一段，相当占带宽[笑哭R] 这不合理吧[呃R]",
+      "sourceRef": "comment:69f96a04000000002803c756",
+      "commentId": "69f96a04000000002803c756",
+      "likes": 1,
+      "author": "小红薯627FA1FA"
+    },
+    {
+      "type": "sub_comment",
+      "text": "嗯这次这个例子里没用到，真实情况是如果要引用网页里的内容，会额外传一个citation字段，然后使用字段要把加密内容传回去",
+      "sourceRef": "comment:69f9724b000000002701688d",
+      "commentId": "69f9724b000000002701688d",
+      "likes": 1,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "如果用的第三方模型，也是Claude帮我付费了吗？",
+      "sourceRef": "comment:69f8f2b00000000028039d40",
+      "commentId": "69f8f2b00000000028039d40",
+      "likes": 1,
+      "author": "小小鸟吃小小虫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第三方一般直接 search fetch 不通，一般自己配jina或者brave mcp或者写bash请求",
+      "sourceRef": "comment:69f8f76d000000002b026b88",
+      "commentId": "69f8f76d000000002b026b88",
+      "likes": 0,
+      "author": "mengAI"
+    },
+    {
+      "type": "comment",
+      "text": "最近我给claude-tap贡献了两个pr",
+      "sourceRef": "comment:69f987fa000000002900d0a3",
+      "commentId": "69f987fa000000002900d0a3",
+      "likes": 1,
+      "author": "安菲尔德的帆"
+    },
+    {
+      "type": "sub_comment",
+      "text": "牛逼 感谢",
+      "sourceRef": "comment:69f98c290000000027023cf0",
+      "commentId": "69f98c290000000027023cf0",
+      "likes": 0,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "那Haiku是怎么看到原始的搜索结果并做出总结的？",
+      "sourceRef": "comment:69fb07b2000000002702e872",
+      "commentId": "69fb07b2000000002702e872",
+      "likes": 0,
+      "author": "腕上浏览器"
+    },
+    {
+      "type": "sub_comment",
+      "text": "haiku也只能看到服务器返回的title和url，演示里就是直接根据title总结了，如果内容不够还可以后续用WebFetch对应的url的内容",
+      "sourceRef": "comment:69fb087a0000000028008a0f",
+      "commentId": "69fb087a0000000028008a0f",
+      "likes": 0,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "haiku返回了真实的天气结果，那就是说haiku能看到brave返回的搜索结果，并且根据这个结果做了总结，再返回给主agent。然后主agent返回给客户端看的是总结的天气结果和加密的brave搜索结果。是这么理解吧？",
+      "sourceRef": "comment:69f9bb360000000027015b5e",
+      "commentId": "69f9bb360000000027015b5e",
+      "likes": 0,
+      "author": "鼠鼠"
+    },
+    {
+      "type": "comment",
+      "text": "既然要付费的话像max这类订阅用户能用websearch吗",
+      "sourceRef": "comment:69fc6a68000000002803bd13",
+      "commentId": "69fc6a68000000002803bd13",
+      "likes": 0,
+      "author": ":)"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以 订阅用户不额外收费 API用户才收",
+      "sourceRef": "comment:69fc6ad200000000270164b1",
+      "commentId": "69fc6ad200000000270164b1",
+      "likes": 0,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "那haiku传回来的密文，是如何解密的呢[色色R]",
+      "sourceRef": "comment:69fad0040000000028032b05",
+      "commentId": "69fad0040000000028032b05",
+      "likes": 0,
+      "author": "花家地南里"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不用解密 只有需要的时候 直接吧密文传回后端",
+      "sourceRef": "comment:69fad13d0000000027023dc8",
+      "commentId": "69fad13d0000000027023dc8",
+      "likes": 1,
+      "author": "张司机在路上"
+    },
+    {
+      "type": "comment",
+      "text": "越来越硬核了",
+      "sourceRef": "comment:69f930de0000000027021abf",
+      "commentId": "69f930de0000000027021abf",
+      "likes": 0,
+      "author": "长木"
+    },
+    {
+      "type": "sub_comment",
+      "text": "API层行为分析完就可以深入分析源代码了",
+      "sourceRef": "comment:69f9bc9c000000002701c956",
+      "commentId": "69f9bc9c000000002701c956",
+      "likes": 2,
+      "author": "张司机在路上"
+    }
+  ]
+}

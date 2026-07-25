@@ -1,0 +1,554 @@
+{
+  "note_id": "681dbd7c0000000021007702",
+  "url": "https://www.xiaohongshu.com/explore/681dbd7c0000000021007702?xsec_token=ABzAfbm59CxZUL9LdrRG0Bw135wbiunvRzElVfEKE986U=",
+  "fetched_at": 1784954292.8831296,
+  "note": {
+    "xsecToken": "ABzAfbm59CxZUL9LdrRG0Bw135wbiunvRzElVfEKE986U=",
+    "imageList": [
+      {
+        "width": 1303,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251238/16e60bed68cd7072f2b4ec1a5f79a699/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251238/4d40a2a8ea9cbb2dcecd65a21f79ba47/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251238/16e60bed68cd7072f2b4ec1a5f79a699/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nd_prv_wgth_jpg_3",
+        "fileId": "notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251238/4d40a2a8ea9cbb2dcecd65a21f79ba47/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 766
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1747019945000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "OMSCS 7643 Deep Learning 测评",
+    "desc": "2025春季我一共修了两门课：6603 (AI, Ethics, and Society)和7643 (Deep learning)。这篇测评下7643深度学习。\n先说总结：\n难度：4/5\n推荐：4.8\n我每周花的时间：20-30小时\nDeliverables: 4 Assignments + 5 quizs + Group project\n成绩：A (96.92)\n\t\n这门课我十分推荐，里面涵盖的内容很多，从CNN到RNN/LSTM 到transformer到diffusion model。虽然课程视频较短，但多看几遍配上经典花书，定会收获满满。课程进度偏快，平均两到三周就有作业加测试。\n\t\n这门课没有期中和期末考试，但是有5个测试，里面是单多选的概念题和少量的计算题。如果想测试分高一些，老师列的reading material 一定一定要看！\n\t\n作业分为代码和报告，报告里除了有代码的测试结果分析，还有一到两道数学题和一篇论文的简短综述。\n\t\n小组作业：自己组队三到四人，老师会给题目列表，每个小组自己选择要做什么。本来以为方法的代码都会是开源的，但实际上我挑的那个方法并没有开源代码，Github上有的所谓这个方法的代码也是错的或运行不了有bug的。最后我在极其紧绷的状态下编出了代码[失望R] 果然人不逼一下自己，不知道自己到底有多少能耐。最后小组作业分数也是有惊无险。\n\t\n最后附上我这门课的学习方法：先把课程视频听两遍，然后看reading material （只有几章课程有对应花书，剩下的依然是论文）然后写作业，之后再听一遍课程视频。\n#OMSCS[话题]# #OMSCS选课[话题]# #OMSCS交流[话题]# #转码[话题]# #GeorgiaTech[话题]#",
+    "user": {
+      "xsecToken": "ABTAH6PL7ivggpPZyAN7UJ4-56ZEf3Iy3tBukpRbdn_nQ=",
+      "userId": "636ce36d000000001f0143c7",
+      "nickname": "人生就要吃喝玩乐！",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg"
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "37",
+      "collected": false,
+      "collectedCount": "47",
+      "shareCount": "10",
+      "relation": "none",
+      "niceCount": "",
+      "commentCount": "33",
+      "followed": false
+    },
+    "tagList": [
+      {
+        "name": "OMSCS",
+        "type": "topic",
+        "id": "60ad0133000000000100b51c"
+      },
+      {
+        "id": "6452cfe70000000028012f12",
+        "name": "OMSCS选课",
+        "type": "topic"
+      },
+      {
+        "name": "OMSCS交流",
+        "type": "topic",
+        "id": "66b14fe9000000000e02f4b2"
+      },
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "name": "GeorgiaTech",
+        "type": "topic",
+        "id": "6207b30b000000000100a7bd"
+      }
+    ],
+    "time": 1746779516000,
+    "noteId": "681dbd7c0000000021007702"
+  },
+  "comments": [
+    {
+      "content": "请问楼主 quiz难吗 打算明天考quiz1",
+      "subComments": [
+        {
+          "content": "还可以，你看了助教发的考点了吗？",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1756482787000,
+          "ipLocation": "北京",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE="
+          },
+          "targetComment": {
+            "userInfo": {
+              "userId": "564eeb5b03eb84696a3548c8",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qa5qf8a7e0042ln3pllmi68i6rat08?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvNizKFhdAvMVpygsgLnz0seYE4S2lFtiid-2jHhgPDQ="
+            },
+            "id": "68b1befb000000000b0267df"
+          },
+          "invalid": false,
+          "id": "68b1cce200000000020155d0",
+          "noteId": "681dbd7c0000000021007702"
+        }
+      ],
+      "id": "68b1befb000000000b0267df",
+      "showTags": [],
+      "createTime": 1756479227000,
+      "subCommentCount": "9",
+      "subCommentCursor": "68b1cce200000000020155d0",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "noteId": "681dbd7c0000000021007702",
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABvNizKFhdAvMVpygsgLnz0seYE4S2lFtiid-2jHhgPDQ=",
+        "userId": "564eeb5b03eb84696a3548c8",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qa5qf8a7e0042ln3pllmi68i6rat08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "696703a80000000019002ce2",
+      "content": "大纲没有diffusion model呀？",
+      "likeCount": "0",
+      "subCommentCount": "5",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "德国",
+      "subComments": [
+        {
+          "id": "69674e4b00000000090350ab",
+          "noteId": "681dbd7c0000000021007702",
+          "status": 0,
+          "content": "最后会讲这个，而且有作业的",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1768377931000,
+          "targetComment": {
+            "id": "696703a80000000019002ce2",
+            "userInfo": {
+              "userId": "61b876c700000000100097fa",
+              "nickname": "Momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224abm807k005odoer3k15vqh02e4h8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABgi4twGzxPfsYVPwz_a_A_3xuGocGp7gweicPAgUZzSs="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "userInfo": {
+        "userId": "61b876c700000000100097fa",
+        "nickname": "Momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224abm807k005odoer3k15vqh02e4h8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgi4twGzxPfsYVPwz_a_A_3xuGocGp7gweicPAgUZzSs="
+      },
+      "createTime": 1768358825000,
+      "noteId": "681dbd7c0000000021007702",
+      "liked": false,
+      "subCommentCursor": "69674e4b00000000090350ab",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": true,
+      "noteId": "681dbd7c0000000021007702",
+      "atUsers": [],
+      "createTime": 1746799014000,
+      "ipLocation": "美国",
+      "id": "681e09a60000000008025fcc",
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCursor": "681e12300000000007028e29",
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "5d40bb4300000000160282ad",
+        "nickname": "MoMo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rhao6an1e005na0nd1ll0ld330vei8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_oIErHDhCYYrOgbLvB8-_uMfKF6GUDYNi4taf8xG58w="
+      },
+      "content": "你都上dl了 肯定要用modern dl的方式搞定期末project吧",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "是的",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1746801201000,
+          "targetComment": {
+            "id": "681e09a60000000008025fcc",
+            "userInfo": {
+              "userId": "5d40bb4300000000160282ad",
+              "nickname": "MoMo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rhao6an1e005na0nd1ll0ld330vei8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB_oIErHDhCYYrOgbLvB8-_uMfKF6GUDYNi4taf8xG58w="
+            }
+          },
+          "invalid": false,
+          "id": "681e12300000000007028e29",
+          "noteId": "681dbd7c0000000021007702",
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "北京"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "68a53cc2000000002700654b",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "求问下quiz的构成，是20道题左右吗（依稀听别人提到过数目）？选择题还是简答题更多……还有计算题考的是课上讲的还是默认你掌握的课前微积分之类的要求呢？主要是这两天要从DL和其他课里选一门drop掉，另一门课简单但我还是想冲下DL，又怕太难了",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "68a53758000000002601b9b5",
+            "userInfo": {
+              "nickname": "希希言",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62f50ccdc4fd50179a366ae3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwG441PEi2Xpu63wS36thXQ8nsfD1KM6Ij_IzWLiR5Hw=",
+              "userId": "5b444431f7e8b964b9c4b7ea"
+            }
+          },
+          "invalid": false,
+          "id": "68a53cc2000000002700654b",
+          "content": "我记得好像是20道题左右，不限时，但只能答一遍，是单选，多选和填空题。微积分也就前一两次quiz有考，计算的这种占比并不大，主要还是概念模型理解，对比之类的。每次考试前TA会在Ed上公布考点的。我个人感觉：现在回看的时候没那么恐怖，只是当时正在学时有些煎熬",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1755659458000,
+          "ipLocation": "北京",
+          "noteId": "681dbd7c0000000021007702",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "68a53758000000002601b9b5",
+      "likeCount": "0",
+      "ipLocation": "加拿大",
+      "noteId": "681dbd7c0000000021007702",
+      "atUsers": [],
+      "createTime": 1755658073000,
+      "subCommentCount": "3",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "5b444431f7e8b964b9c4b7ea",
+        "nickname": "希希言",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62f50ccdc4fd50179a366ae3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwG441PEi2Xpu63wS36thXQ8nsfD1KM6Ij_IzWLiR5Hw="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "showTags": [],
+      "createTime": 1746795557000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "noteId": "681dbd7c0000000021007702",
+          "status": 0,
+          "content": "我之前没修过machine learning 直接上的DL,但确实有点累",
+          "liked": false,
+          "createTime": 1746795939000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "681dfc240000000003036fc9",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n512tetli004a02rpgk3f5ufc2jdpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABz7Lt2MfktHrfuss94D7NpBGfI9rRmNJWExhjlsHNNTU=",
+              "userId": "5a24a1414eacab6b39dabcbe",
+              "nickname": "天边的一颗桃"
+            }
+          },
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "681dfda2000000000b02e19a"
+        }
+      ],
+      "content": "同学，求问如果之前没修过machine learning直接上DL会不会跟不上？",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5a24a1414eacab6b39dabcbe",
+        "nickname": "天边的一颗桃",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n512tetli004a02rpgk3f5ufc2jdpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABz7Lt2MfktHrfuss94D7NpBGfI9rRmNJWExhjlsHNNTU="
+      },
+      "subCommentCount": "3",
+      "noteId": "681dbd7c0000000021007702",
+      "subCommentHasMore": true,
+      "id": "681dfc240000000003036fc9",
+      "status": 0,
+      "subCommentCursor": "681dfda2000000000b02e19a",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "createTime": 1747177833000,
+          "targetComment": {
+            "id": "68238fac0000000013011157",
+            "userInfo": {
+              "userId": "656d78e30000000020030d37",
+              "nickname": "小葵🌻的上岸日记",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABLcVY_vk1J2V1CRHBbE2s08qg2r2zv9fcqjk5lvvxM2Q="
+            }
+          },
+          "noteId": "681dbd7c0000000021007702",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABsncceHJWIHw3f5K5cy2mDUtO1NHXbQi0-hfp1hxA6VE=",
+            "userId": "636ce36d000000001f0143c7",
+            "nickname": "人生就要吃喝玩乐！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "invalid": false,
+          "id": "6823d1680000000008024bf1",
+          "content": "闭卷，就一次",
+          "atUsers": []
+        }
+      ],
+      "subCommentHasMore": true,
+      "subCommentCount": "2",
+      "subCommentCursor": "6823d1680000000008024bf1",
+      "id": "68238fac0000000013011157",
+      "status": 0,
+      "content": "quiz开卷吗？有几次机会",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "656d78e30000000020030d37",
+        "nickname": "小葵🌻的上岸日记",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLcVY_vk1J2V1CRHBbE2s08qg2r2zv9fcqjk5lvvxM2Q="
+      },
+      "noteId": "681dbd7c0000000021007702",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1747161004000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "681e1939000000000401b6de",
+      "userInfo": {
+        "userId": "5eb93068000000000101e1e8",
+        "nickname": "奔波儿灞",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uuoa7q6l60g5nlp61k0bof8jtdtc1g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABstlHbMnOg6KyMhiyoTOobcpjDlT_xcORL__M6yj3bD8="
+      },
+      "status": 3,
+      "atUsers": [],
+      "createTime": 1746803001000,
+      "subCommentCount": "1",
+      "subCommentCursor": "696b57b50000000005038afd",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "好课，比nlp更好",
+      "ipLocation": "美国",
+      "noteId": "681dbd7c0000000021007702",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "696b57b50000000005038afd",
+          "content": "请问有什么区别呀",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABgi4twGzxPfsYVPwz_a_A_3xuGocGp7gweicPAgUZzSs=",
+            "userId": "61b876c700000000100097fa",
+            "nickname": "Momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224abm807k005odoer3k15vqh02e4h8?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1768642485000,
+          "ipLocation": "德国",
+          "noteId": "681dbd7c0000000021007702",
+          "status": 0,
+          "atUsers": [],
+          "showTags": [],
+          "targetComment": {
+            "id": "681e1939000000000401b6de",
+            "userInfo": {
+              "userId": "5eb93068000000000101e1e8",
+              "nickname": "奔波儿灞",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uuoa7q6l60g5nlp61k0bof8jtdtc1g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABstlHbMnOg6KyMhiyoTOobcpjDlT_xcORL__M6yj3bD8="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6536 Guided Study in",
+  "search_item": {
+    "id": "681dbd7c0000000021007702",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "人生就要吃喝玩乐！",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/64c7182088117ec3712162d2.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "636ce36d000000001f0143c7",
+        "nickname": "人生就要吃喝玩乐！",
+        "xsecToken": "ABh_tgyXPZeFn6RZQCvLjBHuTjnnOr4Pb17iGMURjdf9c="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "37",
+        "collected": false,
+        "collectedCount": "47",
+        "commentCount": "33",
+        "sharedCount": "10"
+      },
+      "cover": {
+        "height": 766,
+        "width": 1303,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251238/7fcb767d52f7b7396de6b3dfef676129/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251238/d618d54979a268e7d1eaf9cdf321bb17/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 766,
+          "width": 1303,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251238/7fcb767d52f7b7396de6b3dfef676129/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251238/d618d54979a268e7d1eaf9cdf321bb17/notes_pre_post/1040g3k831h8m1k4h3ieg5orcsdmnqgu7unrhoco!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-05-12",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "OMSCS 7643 Deep Learning 测评"
+    },
+    "xsecToken": "ABzAfbm59CxZUL9LdrRG0Bw135wbiunvRzElVfEKE986U=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "681dbd7c0000000021007702"
+  }
+}

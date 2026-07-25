@@ -1,0 +1,61 @@
+{
+  "courseCode": "CS6520",
+  "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 1,
+      "note": "来源说法不一：适中×1、简单×1",
+      "variants": {
+        "medium": 1,
+        "easy": 1
+      }
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "66c2b41e0000000025031b7f",
+      "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
+      "excerpt": "CS6520 Project；实践课，约等于小毕设。；1.Guide Study占3学分，一学期完成；Project占6学分，连续两学期完成；2.Guide Study要求中大概会以调研为主，实验为辅。一般会有一些实验内容，根据不同教授的要求；Project明确写了相比guide study，要有实验，最好有创新。；3.如果semA选了guide study，semB和st可以继续选同一课题的project（提前跟教授商量好）。但gs内容不计入后续project算分，也就是project不能拿之前gs内容滥竽充数，还是要做实验，或者扩展。；4.题目可以从学院发的邮件中的list选，也可以联系教授之后让教授直接给一个；正常教授都不会为难人（除非一点不做），水一点不能得A，但是也很少有人得B-；还有啥问题",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课3"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

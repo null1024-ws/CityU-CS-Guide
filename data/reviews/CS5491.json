@@ -1,0 +1,153 @@
+{
+  "courseCode": "CS5491",
+  "fields": {
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 7,
+      "distinctSources": 7
+    },
+    "difficulty": {
+      "value": "easy",
+      "label": "简单",
+      "confidence": "confirmed",
+      "sourceCount": 8,
+      "distinctSources": 5
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
+    "hasRecording": {
+      "value": "true",
+      "label": "有回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
+      "value": "strict",
+      "label": "考勤严",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [
+    "1. CS5491 Artificial Intelligence（推荐所有人选）",
+    "[偷笑R]陆老师是好老师"
+  ],
+  "sources": [
+    {
+      "noteId": "683fdcb50000000021005724",
+      "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
+      "excerpt": "CS5491 Artificial Intelligence；AI是陆智超老师上的一门新课，老师人很帅，偷偷说，觉得长得有点神似听泉，高配版听泉上课节奏适中，口音纯正，会照顾大家的进度。课程内容主要包含一些人工智能、强化学习的内容，涉及启发式算法、最大最小树、贝叶斯概率、马克洛夫MDP模型等，PPT课程内容和CS188基本一致，因为课程没有回放，可以参考YouTube上的CS188课程（复习的时候搜索才发现）。；记得要来课程线下，有课堂作业，会有点名性质的作业，老师人很好，会当堂讲解，不用担心不会做！；平时也会有习题练习，整体作业量不大，project会难些，可以组队(最多3人)，一定要提前规划project，我们组的project花了很多时间，是和funsearch相关的实验。；期中+期末考试，难度适中，期中quiz会有样题，和考试题目很类似，期末的题目也不难，是开卷考，可以带上ppt和习题，老师说不挂人，作业做了+考试考了=>大家都能过的。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS5491 Artificial Intelligence经验"
+    },
+    {
+      "noteId": "683476a700000000220270f9",
+      "url": "https://www.xiaohongshu.com/explore/683476a700000000220270f9?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjUtSareKfkE1024ASnax9kA=",
+      "excerpt": "1. CS5491 Artificial Intelligence（推荐所有人选）；Lecturer: Zhichao LU；上课体验；老师的口语清晰又地道，哪怕上课没学到东西也可以算是英文听力练习。上课内容深入浅出，把人工智能中非常复杂的知识提炼出简单的知识点和方法。像我这样的AI小白也能学有所得。；项目体验；1-3人项目。由于该项目我负责部分不多，所以无法做出太全面评价。但总体而言工作量不会像SE项目那么大（小组人数摆在那）。没有pre；作业体验；作业次数不少但都很重要，几乎所有作业涉及的计算题都会在期中或期末中考到。乍一看作业会觉得一头雾水，但在作业布置之前老师会手把手带着过几道题，减少作业量的同时教大伙怎么算，认真听的话就一定没问题；考试体验；期中考试和期末考试都是完全开卷。考试内容都是平时作业的变化版甚至简化版，建议把平时作业答案一起打印出来带到考场上，哪怕不记得怎么算了也能现学现算。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemB课程评价（下）"
+    },
+    {
+      "noteId": "682e95a7000000002301c25e",
+      "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
+      "excerpt": "CS5491 AI 20%平时作业 20%期中 30%Proj 30%期末；workload；授课及口音 一个月一次数学作业没有课程回放，考前无复习课但期中考前给了模拟题。老师来自Michigan State口音很纯正播音腔，很负责（看大家AlphaBeta剪枝掌握不好T课一步步手推）。教学内容很多Search、CSP、Opt、MDP、强化学习和BAYES Networks。小组Proj会给你GPT的API，会给3日宽限这期间交不扣分，放Colab。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城计算机 CityU CS 学期B 选课"
+    },
+    {
+      "noteId": "6a0c2c9d0000000006033f16",
+      "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
+      "excerpt": "CS5491 Artificial Intelligence；lu老师完全大好人，老师的口音很好懂，课程主要是参考人工智能现代化第四版这本书，课程的日常作业量不大，项目可以1-3人，可选范围很广，老师说优秀的项目有投稿的可能，如果有想法的同学可以好好做项目或者提前和老师了解一下（个人没有尝试，未知可行度），期中考试和期末考试基本都是基于tutorial 的例题进行理解然后稍作变动，都是开卷，总体不是很困难",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城课程体验"
+    },
+    {
+      "noteId": "6a0f2914000000003501f1b4",
+      "url": "https://www.xiaohongshu.com/explore/6a0f2914000000003501f1b4?xsec_token=ABp3M15AaHTe7EJKyjHo9zD4bhAoAymljISCJ_zahf50Q=",
+      "excerpt": "cs5491 ai：曾经是一门好课据说，但今年出现了一些乌龙：有人举办说期中考试出的题和历年差不多，提前拿了答案balabala。可能因此老师黑化了，期末出的巨难，主播一个完整题都不会，只有全不会/会一点的区别，考场上算了算30%都很悬，感觉老师也是努力捞了。平时有作业，不过一直没打分不知道是不是都给满了；曾有过一次当堂作业，主播当然是没有在考试都是开卷，两次考试都考到了路径选择和ab剪枝",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu cs semb选课总结（混子版"
+    },
+    {
+      "noteId": "6a0c1fc800000000080325e9",
+      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
+      "excerpt": "CS5491 Artificial intelligence；内容涵盖搜索，mdp，bayes等内容，有期中和期末考试，期中考试因为某些原因可能下一届会有变数，这里就不说了。期末考试考了搜索树，minmax剪枝和最后两个tutorial的内容，重点在于理解方法吧，题目在tutorial基础上会有一定的变化，但不难。项目是从几个选题里挑一个做，也很好水过去。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu CS课程评价(二)"
+    },
+    {
+      "noteId": "682d5b26000000000c039eaf",
+      "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
+      "excerpt": "4.CS5491 Artificial Intelligence；assignment20%+midterm20%+project30%+final30%；新开的课，老师人十分不错，教学水平高，老师说让我们不用担心考试的事，期中期末全是tutorial里的内容，考试开卷，把tutorial打印带进考场，就算跟我一样计算全错，也能得B,闭眼选就完事了。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu cs semB 课程测评"
+    },
+    {
+      "noteId": "6a0bd76e000000003700f86f",
+      "url": "https://www.xiaohongshu.com/explore/6a0bd76e000000003700f86f?xsec_token=ABhbQcz06VLSSPUzCUuOMVTFnDu0p-O2fdsPAHbpU2Qn4=",
+      "excerpt": "CS5491 人工智能（选修）；不用多说无脑选，无quiz，四个作业（很简单），一个小组项目，全开卷期中＋期末。；爽课，没有之一。作业简单，虽然多但是很快就能搞定。期中和期末只需要把全部tutorial弄懂然后带着上考场就行，上课PPT完全不用看，完全根据t课出题。期末包括剪枝、强化学习、MDP、D分离",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS Master SemB"
+    }
+  ],
+  "commentSources": [
+    {
+      "noteId": "683fdcb50000000021005724",
+      "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
+      "excerpt": "能。考试和课程内容没有编程相关，只有组队作业需要编程，可以用gpt..",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "CityU CS5491 Artificial Intelligence经验",
+      "commentId": "6840f9990000000003037a8e",
+      "author": "风压新枝",
+      "likes": 1,
+      "role": "supplement"
+    },
+    {
+      "noteId": "683fdcb50000000021005724",
+      "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
+      "excerpt": "想问一下期中quiz的样题是会在考试之前发的吗？能求一份嘛！",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityU CS5491 Artificial Intelligence经验",
+      "commentId": "68e28a15000000003702748d",
+      "author": "Aurora",
+      "likes": 1,
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-25"
+}

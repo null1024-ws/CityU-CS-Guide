@@ -1,0 +1,55 @@
+{
+  "courseCode": "CS5288",
+  "fields": {
+    "difficulty": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "692ff3710000000019026fb6",
+      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
+      "excerpt": "CS5288 Cryptograph: Theory and Practice",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城市26fall新增网络安全专业"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

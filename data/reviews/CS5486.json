@@ -1,0 +1,55 @@
+{
+  "courseCode": "CS5486",
+  "fields": {
+    "difficulty": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "examFormat": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    }
+  },
+  "tips": [],
+  "sources": [
+    {
+      "noteId": "6896d8f6000000002501cfe6",
+      "url": "https://www.xiaohongshu.com/explore/6896d8f6000000002501cfe6?xsec_token=ABnJrmcUjbNGsgI0MPfRdyWPgHz_fluN0VnY_9fJUX1zI=",
+      "excerpt": "CS5486 Intelligent Systems；二字箴言：慎选；围绕神经网络的发展史展开，从上古神经网络开始，一直讲到现代神经网络；讲课的是一位来自内地的老教授，多的我就不说了，互相理解；作业要求用 matlab 做，无 project；考试也是出几道大题，主要是神经网络相关的数学推导，以及不同神经网络之间的特点对比；如果没有研究过神经网络，且上课又听不懂的话，考试会让人完全摸不着头脑，因为课件里面也没有太多对考试有用的信息，不过我想最后给分上应该没有太为难大家",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史3⃣"
+    }
+  ],
+  "commentSources": [],
+  "lastUpdated": "2026-07-25"
+}

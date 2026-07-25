@@ -1,0 +1,285 @@
+{
+  "note_id": "6836c1f40000000012004f3c",
+  "url": "https://www.xiaohongshu.com/explore/6836c1f40000000012004f3c?xsec_token=ABJHHLdxw-aV73omQEAgxwEvSml9hsaClst0xIV8rV1PI=",
+  "fetched_at": 1784874354.1939392,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6836c1f40000000012004f3c",
+        "model_type": "note",
+        "note_card": {
+          "title": "cityu cs phd 第一年课程评价",
+          "user": {
+            "user_id": "60e2baa6000000000100a3ba",
+            "nickname": "ken",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38",
+            "xsec_token": "ABxWBAuxBVouDCZUVAstKx3Mf_wqAQJZlDFKvBV0G_xT8="
+          },
+          "interact_info": {
+            "liked": false,
+            "liked_count": "75",
+            "collected_count": "65",
+            "followed": false,
+            "relation": "none",
+            "collected": false,
+            "comment_count": "6",
+            "share_count": "18",
+            "nice_count": ""
+          },
+          "at_user_list": [],
+          "time": 1748419060000,
+          "last_update_time": 1748419060000,
+          "note_id": "6836c1f40000000012004f3c",
+          "type": "normal",
+          "desc": "关于sem a选的两门课已经在之前的帖子有说明，sem b只需要再上一门课就行，选了5489这门课。\n因为似乎5487，5489，博弈论，凸优化必须要4选2，由于本人硕士上过凸优化课，极度害怕这课，所以选了博弈论。\n而选5489也是因为硕士当过ml的助教，当时觉得可能应用对本人来说更轻松点，虽然最后发现也没啥用。\n关于这4选2，建议如果对理论知识和逻辑方面有自信，建议选博弈论和凸优化以及5487，反之，就建议选5487和5489。这四门没有哪门是很轻松的，每一门都有它的难点，所以根据自己选最适合的。\n\t\n而5489的课程，组成是10个tutorial（10分，soft ddl，课结束会发布，只要在期末课程结束前完成就行，而且评分不严格，只要完成内容就行）+2个assignment（20分，标准严格，内容不复杂，但是需要用心做，只要对课程内容有所了解，完成肯定不会有问题，就是高分要多付出，本人就是assignment分不高）+期中考（10分，允许带一页手写cheat paper，基本上只考学到的前五章，建议一定要看往年试卷，虽然这两年感觉卷子很明显地有革新，和往年卷子有很明显的区别，但是看往年试卷依然能够稳稳拿下，我们均分有60多，感谢往年试卷，我考了88左右，所以建议往年试卷一定要做，选择题也不能放下）+course project（30分，2人组队，会给若干个kaggle上面的比赛作为题目，也允许自选题。但是由于kaggle上面的比赛都是现实里面的比赛，所以难度是存在的，所以不用去排行榜上面比较去焦虑，评估标准更多的看你的project的完整度，以及对课程内容的运用，建议尽可能地在project中使用课程的方法，分数会更好。我们小组就是跑了很久依然没有好的结果，但是我们的方法论写的还比较详细，所以分数没有太难看）+期末（40分，允许一页双面cheat paper。由于往年的期末试卷是不发回的，所以网上基本上没有资料，建议期末复习一定要根据课程里面的内容去学习，不要妄想有什么以前的题目，而且期末考的是全部章节，我之前以为前几章期中考了期末就少考点，结果前几章的内容也出现了很多。而且里面很多题目就是考方法论，需要你对这个方法真正的了解和运用过才好写，所以建议平时上课一定要去，代码也跟着自己敲，对原理熟悉，这样期末会更轻松）。\n#cityu[话题]# #cs[话题]#",
+          "image_list": [
+            {
+              "file_id": "notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig",
+              "height": 623,
+              "trace_id": "",
+              "stream": {},
+              "width": 1179,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/ff36bf5349b78f702cd126f51daaaf27/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nd_prv_wgth_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607241425/00f4ed16444ad6e8a0ad25232ecdc650/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nd_dft_wgth_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/ff36bf5349b78f702cd126f51daaaf27/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nd_prv_wgth_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/00f4ed16444ad6e8a0ad25232ecdc650/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nd_dft_wgth_webp_3",
+              "live_photo": false
+            }
+          ],
+          "tag_list": [
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "id": "5cd30b11000000000f02eeb8",
+              "name": "cs",
+              "type": "topic"
+            }
+          ],
+          "share_info": {
+            "un_share": false
+          }
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784874355144
+  },
+  "comments": {
+    "comments": [
+      {
+        "at_users": [],
+        "show_tags": [],
+        "sub_comments": [],
+        "note_id": "6836c1f40000000012004f3c",
+        "status": 0,
+        "content": "大佬好强[赞R]",
+        "ip_location": "福建",
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "invalid": false,
+        "liked": false,
+        "sub_comment_has_more": false,
+        "id": "6836c3fc000000001c02f675",
+        "like_count": "0",
+        "user_info": {
+          "user_id": "627e901c000000002102978e",
+          "nickname": "Richett_L",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABngQ9weHIU7PF13TjzE32qTRn32sJKJcPFqJf0ay_F5c="
+        },
+        "create_time": 1748419581000
+      },
+      {
+        "content": "大佬好强[赞R]",
+        "liked": false,
+        "show_tags": [],
+        "create_time": 1748422836000,
+        "ip_location": "广东",
+        "sub_comment_count": "0",
+        "at_users": [],
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "sub_comment_cursor": "",
+        "note_id": "6836c1f40000000012004f3c",
+        "status": 0,
+        "invalid": false,
+        "id": "6836d0b3000000001c02c87c",
+        "like_count": "1",
+        "user_info": {
+          "user_id": "61cc48ce0000000021023575",
+          "nickname": "momo（黑化版）",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321maj2907k005oec9378cdbld2t61g0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABParF8RWH1m3sKPMLDPTCtAzmExbjYZlNZDDHyZMNzk8="
+        }
+      },
+      {
+        "content": "有哪些lecture可以旁听啊",
+        "at_users": [],
+        "show_tags": [],
+        "sub_comment_count": "0",
+        "sub_comments": [],
+        "invalid": false,
+        "sub_comment_cursor": "",
+        "id": "69a7c65f000000001d009b8b",
+        "note_id": "6836c1f40000000012004f3c",
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABwOcyhfB3OY8yFBLPYx67DO58R--zlFs0Nq3Lze-XsoE=",
+          "user_id": "63591ee0000000001802e087",
+          "nickname": "草庐笑靥",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/635ba3de97a83ea5c4a039cd.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "ip_location": "中国香港",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "liked": false,
+        "create_time": 1772602976000
+      },
+      {
+        "sub_comment_cursor": "",
+        "note_id": "6836c1f40000000012004f3c",
+        "show_tags": [],
+        "sub_comments": [],
+        "invalid": false,
+        "id": "6836cb64000000001c01c396",
+        "content": "膜拜cs大佬",
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "user_id": "60e395de000000002002eae0",
+          "nickname": "隐士居人",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgvmvgo7o6g5o73inf85qn0248lhs8?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABmHXKo1NCAH4on9dhwb_2dAuLOR30QtPkO11olKoM7vc="
+        },
+        "create_time": 1748421477000,
+        "ip_location": "广东",
+        "sub_comment_has_more": false,
+        "status": 0,
+        "liked": false,
+        "sub_comment_count": "0"
+      },
+      {
+        "invalid": false,
+        "sub_comment_cursor": "",
+        "id": "68370f5b0000000007029944",
+        "status": 0,
+        "content": "[赞R]",
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "user_info": {
+          "user_id": "6534046900000000060067aa",
+          "nickname": "MOFA Lab",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31djbncmm0u005p9k0hkhgptarf6mk08?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABRLI1WpGPD3UJOvYZQU37OyHnB7VPgY8QP931Ruq-5g0="
+        },
+        "show_tags": [],
+        "create_time": 1748438876000,
+        "ip_location": "广东",
+        "sub_comments": [],
+        "note_id": "6836c1f40000000012004f3c",
+        "liked": false,
+        "sub_comment_count": "0"
+      },
+      {
+        "id": "6a28c20e00000000270294fd",
+        "content": "请问可以把课集中排在两天内吗",
+        "liked": false,
+        "like_count": "0",
+        "sub_comment_has_more": false,
+        "sub_comment_cursor": "",
+        "user_info": {
+          "user_id": "64a2e5e90000000010035081",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/659913e05a7b686036a82859.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB3ItWfQCg9IasrFQh_x-VU32Il1CVHAC6924ddrSJCjE="
+        },
+        "show_tags": [],
+        "create_time": 1781056015000,
+        "ip_location": "四川",
+        "sub_comment_count": "0",
+        "at_users": [],
+        "invalid": false,
+        "note_id": "6836c1f40000000012004f3c",
+        "status": 0,
+        "sub_comments": []
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 6,
+    "pages_fetched": 1
+  },
+  "search_query": "CS5487 CityU",
+  "search_item": {
+    "note_card": {
+      "type": "normal",
+      "display_title": "cityu cs phd 第一年课程评价",
+      "user": {
+        "user_id": "60e2baa6000000000100a3ba",
+        "nickname": "ken",
+        "xsec_token": "ABLKWk5zfuCfKVYeibnpZhAk5JSS-_DWLymiQ5f0gI38o=",
+        "nick_name": "ken",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o0976he6g005o72naj098tqondcs38?imageView2/2/w/80/format/jpg"
+      },
+      "interact_info": {
+        "liked_count": "75",
+        "collected": false,
+        "collected_count": "65",
+        "comment_count": "6",
+        "shared_count": "18",
+        "liked": false
+      },
+      "cover": {
+        "width": 1179,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607241425/bb72a1c03c3b32ca1b0c3b32fe5deae1/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607241425/fdbdb1efb93a369fd911fca2ccd66375/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nc_n_webp_prv_1",
+        "height": 623
+      },
+      "image_list": [
+        {
+          "height": 623,
+          "width": 1179,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/bb72a1c03c3b32ca1b0c3b32fe5deae1/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nc_n_webp_mw_1"
+            },
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607241425/fdbdb1efb93a369fd911fca2ccd66375/notes_pre_post/1040g3k031i14qrk670005o72naj098tqfi490ig!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-28"
+        }
+      ]
+    },
+    "xsec_token": "ABJHHLdxw-aV73omQEAgxwEvSml9hsaClst0xIV8rV1PI=",
+    "id": "6836c1f40000000012004f3c",
+    "model_type": "note"
+  }
+}

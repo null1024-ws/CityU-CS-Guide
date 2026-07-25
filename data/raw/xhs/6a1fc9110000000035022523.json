@@ -1,0 +1,722 @@
+{
+  "note_id": "6a1fc9110000000035022523",
+  "url": "https://www.xiaohongshu.com/explore/6a1fc9110000000035022523?xsec_token=ABmP6Cujc7V19eU-JrtPEaWLWn1Y5H10dyjW90m7BaqVk=",
+  "fetched_at": 1784950097.7236307,
+  "note": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "6a1fc9110000000035022523",
+        "model_type": "note",
+        "note_card": {
+          "interact_info": {
+            "collected": false,
+            "share_count": "58",
+            "followed": false,
+            "relation": "none",
+            "liked_count": "69",
+            "collected_count": "50",
+            "comment_count": "24",
+            "nice_count": "",
+            "liked": false
+          },
+          "image_list": [
+            {
+              "trace_id": "",
+              "height": 1600,
+              "width": 1200,
+              "url": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251128/4227bd6b2bcc35d639a8d35e4546dc07/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251128/a5fa3d7289797db154337e4350a9706b/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251128/4227bd6b2bcc35d639a8d35e4546dc07/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202607251128/a5fa3d7289797db154337e4350a9706b/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nd_dft_wlteh_webp_3",
+              "stream": {},
+              "live_photo": false,
+              "file_id": "1040g2sg320unes4qmudg4af1dkisu8p6f01nn28"
+            }
+          ],
+          "at_user_list": [],
+          "time": 1780467985000,
+          "share_info": {
+            "un_share": false
+          },
+          "type": "normal",
+          "user": {
+            "xsec_token": "ABPjhoU8LMvuwYVoAAc8TYlzAM3SCy7BkxkdTfxTBmY04=",
+            "user_id": "5b7525cf5b95340001502326",
+            "nickname": "柳斐",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928"
+          },
+          "tag_list": [
+            {
+              "id": "5be9267650fe5600012a22f6",
+              "name": "博士",
+              "type": "topic"
+            },
+            {
+              "id": "5e4b88d100000000010023d8",
+              "name": "LLM",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "5dfb889600000000010090be",
+              "name": "PhD"
+            },
+            {
+              "id": "5e7ffe040000000001004ef4",
+              "name": "cityu",
+              "type": "topic"
+            },
+            {
+              "name": "优化算法",
+              "type": "topic",
+              "id": "627c79c50000000001005d6f"
+            },
+            {
+              "name": "大模型",
+              "type": "topic",
+              "id": "624d11eb000000000101e223"
+            }
+          ],
+          "last_update_time": 1780467985000,
+          "note_id": "6a1fc9110000000035022523",
+          "title": "城大张青富教授急招26年入学博士生",
+          "desc": "香港城市大学计算机科学系张青富与工业界联合招收博士研究生一名(2026年下半年入学）\n张青富教授 现任香港城市大学计算机科学系计算智能讲座教授，长江学者讲座教授，IEEE Fellow，其所提出的基于分解的多目标演化算法框架（MOEA/D）已成为多目标演化算法的主流框架之一，谷歌学术引用5 万+次，8次入选 SCI 高被引学者。张教授目前的研究方向包括计算智能、进化计算、元启发式策略、数学规划、多目标优化、机器学习及其它相关领域。https://www.cs.cityu.edu.hk/~qzhan7/index.html.\n\t\n团队介绍：\nOptima（Learning and Optimization for Machine Intelligence）研究团队依托香港城市大学计算机科学系，研究结合演化计算、启发式算法，传统数学规划与机器学习等技术，设计高效的算法，以处理工程设计、管理规划等多个实际领域的困难搜索与优化问题。团队与华为、宁德时代等多家企业保持紧密研究合作关系，多个算法模型在合作企业中落地应用，拥有和提交多项专利，实验室学生有大量实习和工作机会。团队现有30+ 博士后和博士生， 承担多项科研项目。本团队提出并发展的多目标优化方法MOEA/D已成为多目标演化算法的主流框架之一。提出的EoH 是基于LLM的自动算法生成领域开创性工作， 已应用于100+不同任务。 目前研究重点方向包括：\n1. 多目标优化的新概念和方法， 及其在工程设计和人工智能的应用。\n2. 机器智能中学习与优化的新概念，方法及其应用。\n3. 基于LLM的算法和知识的自动生成， 及其在工程领域的应用。\n\t\n招生要求：\n- 2026年9月入学\n- 国内C9高校优秀本科毕业生\n- 具有扎实的数学与计算机基础\n- 具备较强科研潜力和英文读写能力\n- 有机器学习、优化、相关科研经历者优先\n\t\n投递邮箱：\nqingfu.zhang@cityu.edu.hk\n请在您的邮件中：\n- 提供您的 本科平均分/100 和 托福/雅思成绩。\n- 提供您的论文、国奖、个人主页链接、科研项目/实习经历等信息。\n- 附上您的简历、学士/硕士课程成绩单。\n欢迎对人工智能、机器学习与优化理论研究充满热情的优秀同学申请加入，共同开展具有国际影响力的前沿研究。\n#博士[话题]# #LLM[话题]# #PhD[话题]# #cityu[话题]##优化算法[话题]##大模型[话题]#"
+        },
+        "ignore": false
+      }
+    ],
+    "current_time": 1784950100178
+  },
+  "comments": {
+    "comments": [
+      {
+        "note_id": "6a1fc9110000000035022523",
+        "show_tags": [],
+        "ip_location": "广西",
+        "sub_comment_count": "3",
+        "sub_comments": [
+          {
+            "user_info": {
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s="
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1780732750000,
+            "note_id": "6a1fc9110000000035022523",
+            "liked": false,
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a238c65000000002702bb55",
+              "user_info": {
+                "ai_agent": false,
+                "xsec_token": "ABYtMFHYOo4jkC-dAtcO5FpePqt29COJ822gl2XThvIfk=",
+                "user_id": "5d6f1e390000000001005070",
+                "nickname": "奶盖小霸王",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vr60k6llo005nbf3osg8k3g3lrg4mg?imageView2/2/w/120/format/jpg"
+              }
+            },
+            "invalid": false,
+            "id": "6a23d34e000000002701cd1a",
+            "status": 0,
+            "content": "不确定唉，不过稍微晚一点也没事，随时入学的，不是必须卡九月",
+            "at_users": [],
+            "like_count": "0"
+          }
+        ],
+        "sub_comment_cursor": "6a23d34e000000002701cd1a",
+        "id": "6a238c65000000002702bb55",
+        "status": 0,
+        "liked": false,
+        "user_info": {
+          "user_id": "5d6f1e390000000001005070",
+          "nickname": "奶盖小霸王",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vr60k6llo005nbf3osg8k3g3lrg4mg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABYtMFHYOo4jkC-dAtcO5FpePqt29COJ822gl2XThvIfk="
+        },
+        "sub_comment_has_more": true,
+        "at_users": [],
+        "like_count": "2",
+        "create_time": 1780714597000,
+        "invalid": false,
+        "content": "老师，现在提交申请还能9月入学嘛[哭惹R]"
+      },
+      {
+        "sub_comment_count": "1",
+        "note_id": "6a1fc9110000000035022523",
+        "status": 0,
+        "content": "直博可以吗[笑哭R]",
+        "at_users": [],
+        "invalid": false,
+        "id": "6a2fd5900000000029013209",
+        "sub_comments": [
+          {
+            "id": "6a2fe3d1000000002800ba60",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "invalid": false,
+            "note_id": "6a1fc9110000000035022523",
+            "status": 0,
+            "content": "可以的",
+            "user_info": {
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s="
+            },
+            "create_time": 1781523409000,
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a2fd5900000000029013209",
+              "user_info": {
+                "user_id": "68fe5541000000003702c88c",
+                "nickname": "🐈",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "AB-6mqIqAIqFrKB3A8oab9_OIIpbAkNDlDPhcutedKfiU="
+              }
+            }
+          }
+        ],
+        "sub_comment_cursor": "6a2fe3d1000000002800ba60",
+        "like_count": "0",
+        "show_tags": [],
+        "create_time": 1781519761000,
+        "ip_location": "江苏",
+        "sub_comment_has_more": false,
+        "liked": false,
+        "user_info": {
+          "ai_agent": false,
+          "xsec_token": "AB-6mqIqAIqFrKB3A8oab9_OIIpbAkNDlDPhcutedKfiU=",
+          "user_id": "68fe5541000000003702c88c",
+          "nickname": "🐈",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg"
+        }
+      },
+      {
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "id": "6a22f047000000002803cfcc",
+        "status": 0,
+        "liked": false,
+        "like_count": "1",
+        "create_time": 1780674632000,
+        "sub_comments": [
+          {
+            "like_count": "1",
+            "user_info": {
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s="
+            },
+            "create_time": 1780676314000,
+            "invalid": false,
+            "id": "6a22f6d900000000270284c0",
+            "status": 0,
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a22f047000000002803cfcc",
+              "user_info": {
+                "xsec_token": "AB1HnnT720Dku-PoUXN0I8iXX2GYkT51YEZvPuvtHs4O8=",
+                "user_id": "5d2478020000000016004043",
+                "nickname": "残酷月光",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2onn4qd8ji0705n94f015gg23nkf3en0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "note_id": "6a1fc9110000000035022523",
+            "content": "可以联系试试的",
+            "at_users": []
+          }
+        ],
+        "note_id": "6a1fc9110000000035022523",
+        "content": "c9硕可以吗",
+        "user_info": {
+          "user_id": "5d2478020000000016004043",
+          "nickname": "残酷月光",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2onn4qd8ji0705n94f015gg23nkf3en0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB1HnnT720Dku-PoUXN0I8iXX2GYkT51YEZvPuvtHs4O8="
+        },
+        "ip_location": "陕西",
+        "sub_comment_cursor": "6a22f6d900000000270284c0",
+        "invalid": false,
+        "sub_comment_has_more": false,
+        "at_users": []
+      },
+      {
+        "create_time": 1780852734000,
+        "ip_location": "广东",
+        "note_id": "6a1fc9110000000035022523",
+        "status": 0,
+        "content": "老师只能c9本吗",
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a25a7fd000000002702f385",
+              "user_info": {
+                "xsec_token": "ABBYcBw0QSBMc8B9jIL9SDzmMSnM3iRPS0-b933gMEEHU=",
+                "user_id": "5b51d46d11be1009a0d26a24",
+                "nickname": "中级泥瓦工",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qag43thne4g4a7b47a6qqh4jlj09g0?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "invalid": false,
+            "id": "6a25d7220000000027022c23",
+            "note_id": "6a1fc9110000000035022523",
+            "content": "不是有可能也可以，得看具体成果怎么样，综合考虑的",
+            "at_users": [],
+            "liked": false,
+            "like_count": "0",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s=",
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg"
+            },
+            "show_tags": [
+              "is_author"
+            ],
+            "status": 0,
+            "create_time": 1780864802000
+          }
+        ],
+        "sub_comment_cursor": "6a25d7220000000027022c23",
+        "sub_comment_has_more": false,
+        "invalid": false,
+        "id": "6a25a7fd000000002702f385",
+        "at_users": [],
+        "like_count": "0",
+        "user_info": {
+          "user_id": "5b51d46d11be1009a0d26a24",
+          "nickname": "中级泥瓦工",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qag43thne4g4a7b47a6qqh4jlj09g0?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABBYcBw0QSBMc8B9jIL9SDzmMSnM3iRPS0-b933gMEEHU="
+        },
+        "sub_comment_count": "1",
+        "liked": false
+      },
+      {
+        "status": 0,
+        "like_count": "1",
+        "content": "想读",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "id": "6a214f7800000000270167a9",
+            "note_id": "6a1fc9110000000035022523",
+            "content": "[doge]",
+            "like_count": "1",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1780567928000,
+            "target_comment": {
+              "id": "6a2127eb000000002803a234",
+              "user_info": {
+                "xsec_token": "ABZOj-JF9B0dQmuf8dyxhOacCWL3vbUzpZ6In5pO8-1Ps=",
+                "user_id": "6038cf12000000000101ec0c",
+                "nickname": "momo",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gib800sjo0g5o1ops90br0c0okf640?imageView2/2/w/120/format/jpg",
+                "ai_agent": false
+              }
+            },
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s="
+            },
+            "ip_location": "瑞士",
+            "invalid": false
+          }
+        ],
+        "sub_comment_cursor": "6a214f7800000000270167a9",
+        "sub_comment_has_more": false,
+        "show_tags": [],
+        "create_time": 1780557804000,
+        "id": "6a2127eb000000002803a234",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "6038cf12000000000101ec0c",
+          "nickname": "momo",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gib800sjo0g5o1ops90br0c0okf640?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABZOj-JF9B0dQmuf8dyxhOacCWL3vbUzpZ6In5pO8-1Ps="
+        },
+        "ip_location": "中国香港",
+        "invalid": false,
+        "note_id": "6a1fc9110000000035022523"
+      },
+      {
+        "like_count": "0",
+        "ip_location": "天津",
+        "sub_comment_cursor": "6a34453f000000000500bcbd",
+        "id": "6a34245300000000050099e2",
+        "note_id": "6a1fc9110000000035022523",
+        "status": 0,
+        "content": "老师，27fall的现在招吗",
+        "at_users": [],
+        "liked": false,
+        "user_info": {
+          "user_id": "645796fb000000001f030b42",
+          "nickname": "小红薯645840E5",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABPtKq0aiIJcXc9FKBT5XUkgA1jxBhOwXg25fukkgboTY="
+        },
+        "show_tags": [],
+        "sub_comment_count": "1",
+        "create_time": 1781802068000,
+        "sub_comments": [
+          {
+            "note_id": "6a1fc9110000000035022523",
+            "status": 0,
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s=",
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "create_time": 1781810496000,
+            "id": "6a34453f000000000500bcbd",
+            "content": "可能还没开始，不过可以联系看看",
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a34245300000000050099e2",
+              "user_info": {
+                "user_id": "645796fb000000001f030b42",
+                "nickname": "小红薯645840E5",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABPtKq0aiIJcXc9FKBT5XUkgA1jxBhOwXg25fukkgboTY="
+              }
+            },
+            "invalid": false
+          }
+        ],
+        "sub_comment_has_more": false,
+        "invalid": false
+      },
+      {
+        "user_info": {
+          "user_id": "5e70893e0000000001002a1b",
+          "nickname": "重复溺水的夜晚",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/629f3a5dd52fcd9e6992049a.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABX0zGtSIMsf84g6DyJyWYFsdbCRHTt19Lc-3Keygl1Cw="
+        },
+        "show_tags": [],
+        "create_time": 1780499544000,
+        "sub_comment_has_more": false,
+        "id": "6a204457000000002901b2c6",
+        "status": 0,
+        "content": "顶顶",
+        "sub_comment_count": "1",
+        "sub_comments": [
+          {
+            "invalid": false,
+            "status": 0,
+            "liked": false,
+            "create_time": 1780510902000,
+            "ip_location": "瑞士",
+            "target_comment": {
+              "id": "6a204457000000002901b2c6",
+              "user_info": {
+                "user_id": "5e70893e0000000001002a1b",
+                "nickname": "重复溺水的夜晚",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/629f3a5dd52fcd9e6992049a.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABX0zGtSIMsf84g6DyJyWYFsdbCRHTt19Lc-3Keygl1Cw="
+              }
+            },
+            "id": "6a2070b50000000027021a23",
+            "note_id": "6a1fc9110000000035022523",
+            "content": "[棒R]",
+            "at_users": [],
+            "like_count": "0",
+            "user_info": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s=",
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐"
+            },
+            "show_tags": [
+              "is_author"
+            ]
+          }
+        ],
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "ip_location": "陕西",
+        "sub_comment_cursor": "6a2070b50000000027021a23",
+        "invalid": false,
+        "note_id": "6a1fc9110000000035022523"
+      },
+      {
+        "invalid": false,
+        "content": "顶",
+        "create_time": 1780532864000,
+        "sub_comment_cursor": "",
+        "at_users": [],
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "浙江",
+        "note_id": "6a1fc9110000000035022523",
+        "like_count": "0",
+        "sub_comments": [],
+        "sub_comment_has_more": false,
+        "id": "6a20c680000000002702026c",
+        "status": 0,
+        "user_info": {
+          "user_id": "6650c1180000000007006d05",
+          "nickname": "Seven",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABWNxJtjK_GwzgtkG9lcX-JoB8Ct9sMckUq6etx6TElEg="
+        },
+        "sub_comment_count": "0"
+      },
+      {
+        "id": "6a20d849000000002902e6e7",
+        "user_info": {
+          "nickname": "海棠未雨",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "AB9pNk52uCSDrJvKdMpTT9GJ_oWprRQbmr2XSkgapcHuc=",
+          "user_id": "648cf974000000002a037326"
+        },
+        "sub_comments": [],
+        "note_id": "6a1fc9110000000035022523",
+        "content": "顶",
+        "liked": false,
+        "invalid": false,
+        "status": 0,
+        "like_count": "0",
+        "create_time": 1780537418000,
+        "sub_comment_count": "0",
+        "sub_comment_cursor": "",
+        "sub_comment_has_more": false,
+        "at_users": [],
+        "show_tags": [],
+        "ip_location": "山西"
+      },
+      {
+        "at_users": [],
+        "liked": false,
+        "like_count": "0",
+        "user_info": {
+          "xsec_token": "ABmtXpc8a5U0OptENn-pqe1aY8dMm5jEDTys2UmNTyymA=",
+          "user_id": "5d365bc3000000001003f615",
+          "nickname": "离子",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31puli1pd6k005n9mbf1k7tgl4up0f5o?imageView2/2/w/120/format/jpg",
+          "ai_agent": false
+        },
+        "sub_comment_count": "2",
+        "sub_comment_cursor": "6a3924ec000000000500aa7a",
+        "invalid": false,
+        "sub_comment_has_more": true,
+        "show_tags": [],
+        "sub_comments": [
+          {
+            "like_count": "0",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s=",
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg"
+            },
+            "target_comment": {
+              "id": "6a38134e000000002a02fb85",
+              "user_info": {
+                "user_id": "5d365bc3000000001003f615",
+                "nickname": "离子",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31puli1pd6k005n9mbf1k7tgl4up0f5o?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABmtXpc8a5U0OptENn-pqe1aY8dMm5jEDTys2UmNTyymA="
+              }
+            },
+            "id": "6a3924ec000000000500aa7a",
+            "note_id": "6a1fc9110000000035022523",
+            "at_users": [],
+            "liked": false,
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1782129901000,
+            "ip_location": "瑞士",
+            "invalid": false,
+            "status": 0,
+            "content": "还没定具体几年呢，探索性科研为主"
+          }
+        ],
+        "id": "6a38134e000000002a02fb85",
+        "note_id": "6a1fc9110000000035022523",
+        "content": "hi～想了解一下这个联合培养的具体形式是2+2还是3+1？",
+        "create_time": 1782059854000,
+        "ip_location": "上海",
+        "status": -2
+      },
+      {
+        "create_time": 1780559013000,
+        "sub_comment_cursor": "6a212db5000000002701408e",
+        "sub_comment_has_more": true,
+        "sub_comments": [
+          {
+            "id": "6a212db5000000002701408e",
+            "note_id": "6a1fc9110000000035022523",
+            "content": "很优秀啊，有可能老师没看到，或者暂时比较忙没有回复，然后有时候也得综合考虑研究方向和其它很多方面的。",
+            "at_users": [],
+            "like_count": "0",
+            "show_tags": [
+              "is_author"
+            ],
+            "create_time": 1780559286000,
+            "target_comment": {
+              "id": "6a212ca4000000002803dd7e",
+              "user_info": {
+                "user_id": "62bf6606000000001902b1a1",
+                "nickname": "ra224",
+                "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+                "ai_agent": false,
+                "xsec_token": "ABAojPN-6fSGRsIkEMIPUM6pC2WFPwDpIj1UYjjj3R4_U="
+              }
+            },
+            "status": 0,
+            "liked": false,
+            "user_info": {
+              "xsec_token": "ABJuHZWP7Ej41qRv7lVBUUT5M2CrX0OTSV6tlXpEq6w-s=",
+              "user_id": "5b7525cf5b95340001502326",
+              "nickname": "柳斐",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "ip_location": "瑞士",
+            "invalid": false
+          }
+        ],
+        "content": "7篇论文全部相关方向，两篇一作a，一篇通信a，为什么老师不回",
+        "liked": false,
+        "show_tags": [],
+        "ip_location": "山东",
+        "note_id": "6a1fc9110000000035022523",
+        "status": -2,
+        "user_info": {
+          "nickname": "ra224",
+          "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+          "ai_agent": false,
+          "xsec_token": "ABAojPN-6fSGRsIkEMIPUM6pC2WFPwDpIj1UYjjj3R4_U=",
+          "user_id": "62bf6606000000001902b1a1"
+        },
+        "id": "6a212ca4000000002803dd7e",
+        "at_users": [],
+        "like_count": "0",
+        "sub_comment_count": "2",
+        "invalid": false
+      }
+    ],
+    "has_more": false,
+    "cursor": "",
+    "total_fetched": 11,
+    "pages_fetched": 2
+  },
+  "search_query": "CS6187 城大",
+  "search_item": {
+    "id": "6a1fc9110000000035022523",
+    "model_type": "note",
+    "note_card": {
+      "corner_tag_info": [
+        {
+          "type": "publish_time",
+          "text": "06-03"
+        }
+      ],
+      "type": "normal",
+      "display_title": "城大张青富教授急招26年入学博士生",
+      "user": {
+        "nick_name": "柳斐",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32097l6a1lg6g4af1dkisu8p6ffk4928?imageView2/2/w/80/format/jpg",
+        "user_id": "5b7525cf5b95340001502326",
+        "nickname": "柳斐",
+        "xsec_token": "AB-_f8wGEL7kNGjW60tmafKgIe7d0mRvwJ_3UMiNLVdfc="
+      },
+      "interact_info": {
+        "shared_count": "58",
+        "liked": false,
+        "liked_count": "69",
+        "collected": false,
+        "collected_count": "50",
+        "comment_count": "24"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "url_default": "http://sns-webpic-qc.xhscdn.com/202607251128/1cdf8dae0653e2c2d72da4c9522dda43/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nc_n_webp_mw_1",
+        "url_pre": "http://sns-webpic-qc.xhscdn.com/202607251128/4490c914e5ca0705dbd34095923a17b7/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nc_n_webp_prv_1"
+      },
+      "image_list": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "info_list": [
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251128/1cdf8dae0653e2c2d72da4c9522dda43/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251128/4490c914e5ca0705dbd34095923a17b7/1040g2sg320unes4qmudg4af1dkisu8p6f01nn28!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            }
+          ]
+        }
+      ]
+    },
+    "xsec_token": "ABmP6Cujc7V19eU-JrtPEaWLWn1Y5H10dyjW90m7BaqVk="
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "note_id": "681dbd7c0000000021007702",
+  "url": "https://www.xiaohongshu.com/explore/681dbd7c0000000021007702?xsec_token=ABzAfbm59CxZUL9LdrRG0Bw135wbiunvRzElVfEKE986U=",
+  "fetched_at": 1784954292.8831296,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "OMSCS 7643 Deep Learning 测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "2025春季我一共修了两门课：6603 (AI, Ethics, and Society)和7643 (Deep learning)。这篇测评下7643深度学习。\n先说总结：\n难度：4/5\n推荐：4.8\n我每周花的时间：20-30小时\nDeliverables: 4 Assignments + 5 quizs + Group project\n成绩：A (96.92)\n\t\n这门课我十分推荐，里面涵盖的内容很多，从CNN到RNN/LSTM 到transformer到diffusion model。虽然课程视频较短，但多看几遍配上经典花书，定会收获满满。课程进度偏快，平均两到三周就有作业加测试。\n\t\n这门课没有期中和期末考试，但是有5个测试，里面是单多选的概念题和少量的计算题。如果想测试分高一些，老师列的reading material 一定一定要看！\n\t\n作业分为代码和报告，报告里除了有代码的测试结果分析，还有一到两道数学题和一篇论文的简短综述。\n\t\n小组作业：自己组队三到四人，老师会给题目列表，每个小组自己选择要做什么。本来以为方法的代码都会是开源的，但实际上我挑的那个方法并没有开源代码，Github上有的所谓这个方法的代码也是错的或运行不了有bug的。最后我在极其紧绷的状态下编出了代码[失望R] 果然人不逼一下自己，不知道自己到底有多少能耐。最后小组作业分数也是有惊无险。\n\t\n最后附上我这门课的学习方法：先把课程视频听两遍，然后看reading material （只有几章课程有对应花书，剩下的依然是论文）然后写作业，之后再听一遍课程视频。\n#OMSCS[话题]# #OMSCS选课[话题]# #OMSCS交流[话题]# #转码[话题]# #GeorgiaTech[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问楼主 quiz难吗 打算明天考quiz1",
+      "sourceRef": "comment:68b1befb000000000b0267df",
+      "commentId": "68b1befb000000000b0267df",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "还可以，你看了助教发的考点了吗？",
+      "sourceRef": "comment:68b1cce200000000020155d0",
+      "commentId": "68b1cce200000000020155d0",
+      "likes": 0,
+      "author": "人生就要吃喝玩乐！"
+    },
+    {
+      "type": "comment",
+      "text": "大纲没有diffusion model呀？",
+      "sourceRef": "comment:696703a80000000019002ce2",
+      "commentId": "696703a80000000019002ce2",
+      "likes": 0,
+      "author": "Momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "最后会讲这个，而且有作业的",
+      "sourceRef": "comment:69674e4b00000000090350ab",
+      "commentId": "69674e4b00000000090350ab",
+      "likes": 0,
+      "author": "人生就要吃喝玩乐！"
+    },
+    {
+      "type": "comment",
+      "text": "你都上dl了 肯定要用modern dl的方式搞定期末project吧",
+      "sourceRef": "comment:681e09a60000000008025fcc",
+      "commentId": "681e09a60000000008025fcc",
+      "likes": 1,
+      "author": "MoMo"
+    },
+    {
+      "type": "comment",
+      "text": "求问下quiz的构成，是20道题左右吗（依稀听别人提到过数目）？选择题还是简答题更多……还有计算题考的是课上讲的还是默认你掌握的课前微积分之类的要求呢？主要是这两天要从DL和其他课里选一门drop掉，另一门课简单但我还是想冲下DL，又怕太难了",
+      "sourceRef": "comment:68a53758000000002601b9b5",
+      "commentId": "68a53758000000002601b9b5",
+      "likes": 0,
+      "author": "希希言"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我记得好像是20道题左右，不限时，但只能答一遍，是单选，多选和填空题。微积分也就前一两次quiz有考，计算的这种占比并不大，主要还是概念模型理解，对比之类的。每次考试前TA会在Ed上公布考点的。我个人感觉：现在回看的时候没那么恐怖，只是当时正在学时有些煎熬",
+      "sourceRef": "comment:68a53cc2000000002700654b",
+      "commentId": "68a53cc2000000002700654b",
+      "likes": 0,
+      "author": "人生就要吃喝玩乐！"
+    },
+    {
+      "type": "comment",
+      "text": "同学，求问如果之前没修过machine learning直接上DL会不会跟不上？",
+      "sourceRef": "comment:681dfc240000000003036fc9",
+      "commentId": "681dfc240000000003036fc9",
+      "likes": 0,
+      "author": "天边的一颗桃"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我之前没修过machine learning 直接上的DL,但确实有点累",
+      "sourceRef": "comment:681dfda2000000000b02e19a",
+      "commentId": "681dfda2000000000b02e19a",
+      "likes": 1,
+      "author": "人生就要吃喝玩乐！"
+    },
+    {
+      "type": "comment",
+      "text": "quiz开卷吗？有几次机会",
+      "sourceRef": "comment:68238fac0000000013011157",
+      "commentId": "68238fac0000000013011157",
+      "likes": 0,
+      "author": "小葵🌻的上岸日记"
+    },
+    {
+      "type": "sub_comment",
+      "text": "闭卷，就一次",
+      "sourceRef": "comment:6823d1680000000008024bf1",
+      "commentId": "6823d1680000000008024bf1",
+      "likes": 0,
+      "author": "人生就要吃喝玩乐！"
+    },
+    {
+      "type": "comment",
+      "text": "好课，比nlp更好",
+      "sourceRef": "comment:681e1939000000000401b6de",
+      "commentId": "681e1939000000000401b6de",
+      "likes": 0,
+      "author": "奔波儿灞"
+    },
+    {
+      "type": "sub_comment",
+      "text": "请问有什么区别呀",
+      "sourceRef": "comment:696b57b50000000005038afd",
+      "commentId": "696b57b50000000005038afd",
+      "likes": 0,
+      "author": "Momo"
+    }
+  ]
+}
