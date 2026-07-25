@@ -5,12 +5,19 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
+      "sourceCount": 3,
+      "distinctSources": 3
     },
     "workload": {
       "value": "heavy",
       "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -21,12 +28,6 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
-    },
-    "grading": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
     },
     "hasRecording": {
       "value": "unknown",
@@ -71,6 +72,15 @@
         "post_body"
       ],
       "postTitle": "Cityu MSc in CS Semester B课程评价"
+    },
+    {
+      "noteId": "6a016b410000000035021175",
+      "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
+      "excerpt": "4. CS5188 - Virtual Reality Tech & Apns (背诵友好)；授课老师：口音清晰易懂 。；考试：最简单，全部是概念题，没有计算和难题，只要肯花时间背诵就能拿高分；项目：有一定的技术门槛，尤其是建模部分。如果你基础薄弱，建议抱紧大腿或早点开工。；避坑指南：常规的交互功能可以在 blueprintue.com 找蓝图，直接 Ctrl+C/V 。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc Computer Science 课程经验总结"
     },
     {
       "noteId": "6a0c2c9d0000000006033f16",

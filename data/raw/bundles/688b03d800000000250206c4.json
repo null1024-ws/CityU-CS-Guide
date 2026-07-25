@@ -1,0 +1,108 @@
+{
+  "note_id": "688b03d800000000250206c4",
+  "url": "https://www.xiaohongshu.com/explore/688b03d800000000250206c4?xsec_token=ABgJkR4XefbwOx0AF3JcPG_Xp5iU46YOnz5_28P4Js5EM=",
+  "fetched_at": 1784959439.2947676,
+  "course_codes": [
+    "CS6515"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "OMSCS 25 Summer GA CS6515体验",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Summer选课最后一天刷到了GA的空位，犹豫了一下还是决定第三门课就冲了 [doge] Summer真的时间压力拉满，2个月内3场考试，每隔两周就考一次，精神高度紧绷 ，累[捂脸R]，所以个人建议：如果可以，还是Fall/Spring上这门课更合适，时间充裕很多，心态也能轻松不少。\n\t\n3次考试占90%（最高占35%+中间30%+最低占25%）+10%开卷quiz，好处是不用担心以前的hw查重问题，坏处就是考试分量太大，压力山大 [扶墙R]。评分很直接：85+是A，70+是B，不会curve。\n\t\nHomework：每周都有一份，可交到Gradescope，TA会按考试标准打分，但不计入总评。建议都做，再加上practice problems（TA会给标准答案），简答题基本都是它们的变体，我临考前会把答案都看一遍，很有帮助。\n\t\nOffice Hour：\n•\t教授每周一次（1h左右），主要讲 HW，可能在周中和工作时间冲突，看回放就好。\n•\tJoves的OH（2-3h，周末），强烈推荐！Google大佬，人很好，复习概念+考试格式+常见错误，然后带着过DPV练习题。考前还有超长 exam review（3-4h），看前 2/3 基本够用了，最后一两道一般都很难，没啥用。\n\t\n考试：\n第一次：DP + Divide & Conquer （两道dp各10分+一道dc20分+选择20分）\n第二次：Graph + Max Flow （Graph，Max Flow各20分一道+选择20分）\n第三次：NP + Linear Programming（NP一道20分+选择40分）\n每场三小时，room scan一定要按照ed上要求来，比如得专门展示手腕，不然会被倒扣分。考试不用写 pseudocode，简答题一定要按照TA 在ed给的格式，一般都是写narratives，每次出分都会有不少同学提交regrade申请和TA掰头[笑哭R]选择题都出自 lecture，我是第一遍认真做笔记，考前带着笔记快速过第二遍，效果不错。至于每周assign的DPV reading？我全程没看，实测没影响 [doge]。有个小坑，教授不是英语母语，每次考试都有一两道选择题的措辞略迷惑，让我很纠结，然后就选错了[笑哭R]\n#gatech[话题]# #omscs[话题]# #佐治亚理工[话题]# #cs6515[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "考试的时候 是直接在电脑上面输入自己答案吗，还是可以手写在纸上？ 可以用演草纸吗",
+      "sourceRef": "comment:68b3a437000000000b0283d8",
+      "commentId": "68b3a437000000000b0283d8",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "canvas上输入答案，不支持latex，可以带五张空白草稿纸",
+      "sourceRef": "comment:68b3a5bc000000003000e205",
+      "commentId": "68b3a5bc000000003000e205",
+      "likes": 0,
+      "author": "ᅠᅠᅠ"
+    },
+    {
+      "type": "comment",
+      "text": "考试需要用latex写公式吗",
+      "sourceRef": "comment:68bafee2000000000a00de7f",
+      "commentId": "68bafee2000000000a00de7f",
+      "likes": 0,
+      "author": "小木"
+    },
+    {
+      "type": "sub_comment",
+      "text": "考试不能用latex，虽然canvas支持latex，但是批改是在gradescope上的，TA说用latex会乱码，所以只能直接写plain text。",
+      "sourceRef": "comment:68bb71bc00000000300137d2",
+      "commentId": "68bb71bc00000000300137d2",
+      "likes": 0,
+      "author": "ᅠᅠᅠ"
+    },
+    {
+      "type": "comment",
+      "text": "考试是在电脑上打字写证明吗？三个小时的考试，时间全得用上吗？还是说有多余的时间",
+      "sourceRef": "comment:68a4d7fa000000002700d583",
+      "commentId": "68a4d7fa000000002700d583",
+      "likes": 0,
+      "author": "小面包金VV"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的，free response直接在canvas上打字写。我三次考试都把三个小时用完了[笑哭R]",
+      "sourceRef": "comment:68a4f6b80000000030019fd9",
+      "commentId": "68a4f6b80000000030019fd9",
+      "likes": 1,
+      "author": "ᅠᅠᅠ"
+    },
+    {
+      "type": "comment",
+      "text": "请问你上课前刷了多少题了",
+      "sourceRef": "comment:689272af000000002b01d21a",
+      "commentId": "689272af000000002b01d21a",
+      "likes": 0,
+      "author": "Sakura依依"
+    },
+    {
+      "type": "sub_comment",
+      "text": "1000+，不过这门课除了一开始的dp算是和leetcode有点关系，其他地方没啥关联，这门课也不用写pseudocode，相对比较偏理论。",
+      "sourceRef": "comment:68929374000000002a00eb4b",
+      "commentId": "68929374000000002a00eb4b",
+      "likes": 1,
+      "author": "ᅠᅠᅠ"
+    },
+    {
+      "type": "comment",
+      "text": "th老师太牛啦 到时候上GA就照着你这个来[偷笑R]",
+      "sourceRef": "comment:688b084f000000002903a1b4",
+      "commentId": "688b084f000000002903a1b4",
+      "likes": 0,
+      "author": "hihi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "冲冲冲[doge]",
+      "sourceRef": "comment:688bba80000000002a001d9c",
+      "commentId": "688bba80000000002a001d9c",
+      "likes": 0,
+      "author": "ᅠᅠᅠ"
+    },
+    {
+      "type": "comment",
+      "text": "真的90多分吗[doge]太厉害了啊",
+      "sourceRef": "comment:68926e7c0000000029039d9e",
+      "commentId": "68926e7c0000000029039d9e",
+      "likes": 1,
+      "author": "LivingInTO"
+    }
+  ]
+}

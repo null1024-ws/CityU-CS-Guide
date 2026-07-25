@@ -1,0 +1,178 @@
+{
+  "note_id": "69e70e8a000000001a020adf",
+  "url": "https://www.xiaohongshu.com/explore/69e70e8a000000001a020adf?xsec_token=ABpJN0KBkqOvv1R_VjUaAB6rRy49yLn4P-b7Kmz55sgbM=",
+  "fetched_at": 1784961729.9511323,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS学术圈今天最大的瓜🍉我上榜了，红黑都有",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "今天可能吃到了全美CS学术圈最大的瓜🍉\n同学们竟然开始 crowdsourcing 搞“学术导师红黑榜”……\n\t\n我白天一直在开会，根本没来得及看，晚上刚下线就去问了下我的学生。\n结果不问不知道，一问吓一跳——\n我居然也很荣幸地上榜了😭😭\n而且是：红❤️黑🖤榜都有我。\n\t\n💔 先说黑榜\n主要是因为我前两年面试 CS PhD 申请人的时候（那时候还没有 AI coding），\n居然让大家现场写过：\n* leetcode 9：palindrome number check\n* leetcode 66：large integer plus one\n\t\n现在回头看，确实有点离谱了……\n这么高难度的题，竟然要当场写出 七行代码，\n而且里面居然还包含一个 for loop 🤦‍♂️\n\t\n我后来认真反思了一下：\n我本意只是想测试一下，那些计算机系 GPA 前几名、甚至已经有 AI paper 一作的同学，基础是不是还扎实。\n\t\n但我显然忽略了一件事：\n现在确实有不少计算机和信息科班本科生、硕士生，\n不会写一个 for loop，不知道什么叫数组，也不知道什么叫回文数。\n\t\n所以这个黑榜，我认了🥲\n\t\n🫠 于是我吸取教训\n到了今年面试，我已经主动降低难度了。\n不需要写代码，只需要读代码。\n\t\n我给面试者看了一段完整二叉树 DFS 的代码，\n总共 6 行，里面只有 1 个小 bug。\n我当时想：这次总不会有问题了吧？\n\t\n结果我又错了……😂\n* 申请计算机博士的同学里，有一半看不出来 bug\n* 三分之一的人，不知道测试用例的正确输出应该是什么\n\t\n所以我现在觉得，\n针对某些优秀的CS PhD申请人，\n明年可能还得继续降难度。\n我提前透题，给你一行代码：\nprint(\"hello world\")\n然后问你：\n“你觉得这行代码想干啥？”\n请大家提前准备🙏\n\t\n😍 再说红榜\n我们学生都在实习 ✅check\n卡很多 ✅ check\n\t\n[大笑R]感谢大家舆论监督 我继续努力💪\n\t\n#学术圈吃瓜[话题]# #导师日常[话题]# #博士申请[话题]# #CSPhD[话题]# #计算机博士[话题]# #研究生申请[话题]# #留学申请[话题]# #导师视角[话题]# #实验室日常[话题]# #面试那些事[话题]# #程序员日常[话题]# #学术红黑榜[话题]# #科研生活[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "你就说pu不push学生吧，一般meeting频率和上下班时长什么样的[doge]不然这种服从性测试很难让人怀疑不toxic",
+      "sourceRef": "comment:69e88fee0000000014019004",
+      "commentId": "69e88fee0000000014019004",
+      "likes": 86,
+      "author": "追offer的人"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这位同学的问题问的太好啦！我都觉得你是我的拖儿[偷笑R] 我们组写在自己网站上的lab norm里：每周一次组会和每周一次一作互相改paper的writing workshop必须参加，你自己的项目会每周一次，每周一次和我的one-on-one你可选。所有这些会都是hybrid。对于同学来不来lab没有任何要求。无限假期，无限work remote。东北大学允许我的学生自由选择硅谷校区（好找工和实习）或者波士顿校区，我都有lab space。我强烈建议并且动用我的所有公司关系帮我学生和合作者的学生找实习。出了周中早九晚五，不期待你回复消息或者email。我尽力给你找funding努力让你不TA",
+      "sourceRef": "comment:69e8a3ea000000001401e010",
+      "commentId": "69e8a3ea000000001401e010",
+      "likes": 50,
+      "author": "大阔老师 Dakuo Wang"
+    },
+    {
+      "type": "comment",
+      "text": "本来leetcode就是大厂的服从性测试[doge]把这东西adopt到phd面试里面何意味 数据结构与算法的东西平时几乎用不到冷不丁考一个还真容易忘 再说了好像很多paper都不用写代码吧[偷笑R]",
+      "sourceRef": "comment:69e717b6000000002b028bf4",
+      "commentId": "69e717b6000000002b028bf4",
+      "likes": 429,
+      "author": "木子说"
+    },
+    {
+      "type": "sub_comment",
+      "text": "最后一句才是关键[偷笑R]",
+      "sourceRef": "comment:69e74c42000000001401c411",
+      "commentId": "69e74c42000000001401c411",
+      "likes": 44,
+      "author": "柏油无头人"
+    },
+    {
+      "type": "comment",
+      "text": "大阔老师是不是觉得这一波解释和澄清夯爆了？[偷笑R] 实则暴露了太多啊[笑哭R]",
+      "sourceRef": "comment:69e7a2c6000000002b0305cb",
+      "commentId": "69e7a2c6000000002b0305cb",
+      "likes": 335,
+      "author": "HCI表白墙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "他跟他postdoc特别toxic这个考lc根本不算什么",
+      "sourceRef": "comment:69e7b42f000000001401d802",
+      "commentId": "69e7b42f000000001401d802",
+      "likes": 164,
+      "author": "清河"
+    },
+    {
+      "type": "comment",
+      "text": "感觉或许可以改一改考察方式？比如我今年申请面到的一位老师，是先给我email了一个task文档，让我复现他们论文的一个模块，然后我可以自己下来完成（用什么ai都无所谓），但是面的时候需要和他一起从头到尾review这个codebase并且讲清楚每个函数在干嘛，他也会随机抽几行问我这一行是在做什么事情，感觉这种考察方式也挺不错的[doge]",
+      "sourceRef": "comment:69e714f5000000001401e41c",
+      "commentId": "69e714f5000000001401e41c",
+      "likes": 79,
+      "author": "布谷不咕咕🌾"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实，这样感觉更合理",
+      "sourceRef": "comment:69e718e2000000001401ac0b",
+      "commentId": "69e718e2000000001401ac0b",
+      "likes": 6,
+      "author": "小朱诺诺的"
+    },
+    {
+      "type": "comment",
+      "text": "可能单纯没刷过吧，以前我学后端的时候很多力扣题都会做，后面转算法就没刷过了，现在我连快排都写不出来了，感觉自己像个蠢猪[失望R]",
+      "sourceRef": "comment:69e7123b000000001401bc15",
+      "commentId": "69e7123b000000001401bc15",
+      "likes": 59,
+      "author": "悠悠何处寻"
+    },
+    {
+      "type": "sub_comment",
+      "text": "dakuo老师贴的那两个题如果还要刷的话，我只能说候选人还是别来读CS phd了[捂脸R]",
+      "sourceRef": "comment:69e71333000000001401a810",
+      "commentId": "69e71333000000001401a810",
+      "likes": 102,
+      "author": "Momo"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得这其实不是您题目出难了，而是现在不少申请人的能力结构，确实和我们默认的CS科班基础扎实有点脱节。改成读代码找 bug 这个方向其实是对的，可以再稍微分层，比如问“这段代码在干嘛”，再看能不能发现问题。个人觉得看思考过程和表达能力，反而更接近科研里真正需要的能力。",
+      "sourceRef": "comment:69e7416c000000001401a42a",
+      "commentId": "69e7416c000000001401a42a",
+      "likes": 16,
+      "author": "抽象"
+    },
+    {
+      "type": "sub_comment",
+      "text": "对的！我今年就开始朝着这个方向改面试方法啦",
+      "sourceRef": "comment:69e81be3000000001401e819",
+      "commentId": "69e81be3000000001401e819",
+      "likes": 1,
+      "author": "大阔老师 Dakuo Wang"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得面试面leetcode对于PhD真的没什么意义",
+      "sourceRef": "comment:69e71ed50000000014019c0f",
+      "commentId": "69e71ed50000000014019c0f",
+      "likes": 91,
+      "author": "Dr. WondeR1and"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得面phd的时候面leetcode，面试时候发现cs科班一个bruteforce的冒泡排序或者字符串查找都不会写，可能是两层意思。我完全同意未来手写代码会越来越不需要，我的全组从去年开始就给大家买好了cursor，今年也是强制每个人必须日常用claude code写代码。但是我知道的大部分公司的实习和工作面试必须要会手写代码，而且，我的同学们又是博一刚来的那个九、十月就开始面试找来年暑期的实习。我还是希望能帮助合适的同学找到未来适合自己的工作的，所以就借此机会给同学们calibrate一下现实世界的考核标准。过几年我觉得大厂一定会有一个新的面试coding能力的方法，那我们到时候再接轨吧",
+      "sourceRef": "comment:69e81b14000000001401e811",
+      "commentId": "69e81b14000000001401e811",
+      "likes": 8,
+      "author": "大阔老师 Dakuo Wang"
+    },
+    {
+      "type": "comment",
+      "text": "纯路人，考lc这个事我感觉不toxic，看老师说话方式相处起来应该挺toxic的[笑哭R]",
+      "sourceRef": "comment:69e86c35000000001401c802",
+      "commentId": "69e86c35000000001401c802",
+      "likes": 330,
+      "author": "KAGO"
+    },
+    {
+      "type": "sub_comment",
+      "text": "勾起了我对一些表演人格、异常开朗，但非常push且pua的老师的痛苦回忆[哭惹R]",
+      "sourceRef": "comment:69e9a4c1000000001401a81a",
+      "commentId": "69e9a4c1000000001401a81a",
+      "likes": 155,
+      "author": "点点水蜜桃"
+    },
+    {
+      "type": "comment",
+      "text": "会在xhs发这种贴的老师就让学生感觉很抽象了[笑哭R]",
+      "sourceRef": "comment:69e902c90000000014018c03",
+      "commentId": "69e902c90000000014018c03",
+      "likes": 126,
+      "author": "路路路同学"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ai 味爆炸了",
+      "sourceRef": "comment:6a4c7187000000000802ca00",
+      "commentId": "6a4c7187000000000802ca00",
+      "likes": 0,
+      "author": "Ss"
+    },
+    {
+      "type": "comment",
+      "text": "我说实话考lc是dakuo最不toxic的行为了[doge]",
+      "sourceRef": "comment:69e7b3d5000000001401d801",
+      "commentId": "69e7b3d5000000001401d801",
+      "likes": 164,
+      "author": "清河"
+    },
+    {
+      "type": "sub_comment",
+      "text": "咦？刚刚给你的回帖好像被删掉了，那我就在回复一遍。我的瓜子儿和小马扎都已经搬好啦🍉 请分享你的故事[棒R] 这里写完之后也请希望你能去红黑榜多帮我补充几个bullet point，我有则改之无则加勉嘛[偷笑R]",
+      "sourceRef": "comment:69e815df000000001401dc1f",
+      "commentId": "69e815df000000001401dc1f",
+      "likes": 4,
+      "author": "大阔老师 Dakuo Wang"
+    }
+  ]
+}

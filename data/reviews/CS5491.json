@@ -5,15 +5,15 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 7,
-      "distinctSources": 7
+      "sourceCount": 8,
+      "distinctSources": 8
     },
     "difficulty": {
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 5
+      "sourceCount": 9,
+      "distinctSources": 6
     },
     "workload": {
       "value": "light",
@@ -111,13 +111,13 @@
       "postTitle": "Cityu cs semB 课程测评"
     },
     {
-      "noteId": "6a0bd76e000000003700f86f",
-      "url": "https://www.xiaohongshu.com/explore/6a0bd76e000000003700f86f?xsec_token=ABhbQcz06VLSSPUzCUuOMVTFnDu0p-O2fdsPAHbpU2Qn4=",
-      "excerpt": "CS5491 人工智能（选修）；不用多说无脑选，无quiz，四个作业（很简单），一个小组项目，全开卷期中＋期末。；爽课，没有之一。作业简单，虽然多但是很快就能搞定。期中和期末只需要把全部tutorial弄懂然后带着上考场就行，上课PPT完全不用看，完全根据t课出题。期末包括剪枝、强化学习、MDP、D分离",
+      "noteId": "6a016b410000000035021175",
+      "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
+      "excerpt": "5. CS5491 - Artificial Intelligence；授课风格：老师传闻比较严格，但实际接触下来感觉尚可；考试：非常简单且开卷。重点复习 Tutorial，基本都是原题或原题改编（发生过原题举报风波，估计你们享受不了这个福利了）；项目：支持自选题。如果你之前有 AI 相关项目经验，直接拿旧项目修改提交即可，性价比极高 。",
       "extractedFrom": [
         "post_body"
       ],
-      "postTitle": "CityU CS Master SemB"
+      "postTitle": "CityU MSc Computer Science 课程经验总结"
     }
   ],
   "commentSources": [

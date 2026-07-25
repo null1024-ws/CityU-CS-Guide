@@ -5,8 +5,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 6,
-      "distinctSources": 5
+      "sourceCount": 10,
+      "distinctSources": 6
     },
     "examFormat": {
       "value": "open_book",
@@ -43,10 +43,21 @@
     }
   },
   "tips": [
+    "没有用教材，只用了老师的 ppt",
+    "dapeng老师我们喜欢你",
     "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）",
     "CS5187 vision and image 必选"
   ],
   "sources": [
+    {
+      "noteId": "68960125000000002501ac81",
+      "url": "https://www.xiaohongshu.com/explore/68960125000000002501ac81?xsec_token=ABgRVz4lYuYJz3jUIsqsVeGs0tushWOkQaQS-nhz3N8Oo=",
+      "excerpt": "CS5187 Vision and Image；三字箴言：无脑选；Dapeng 老师是内地人，有留美经历，讲课会用最基础的英语，没有口音，非常易懂，课堂生动有趣，讲兴奋的时候甚至会手舞足蹈，挺有意思的哈哈；前半学期的内容较为简单，搭配 Dapeng 老师的教学可以说是学得非常开心，后半段从 Stereo Vision 开始有些内容我就没法完全理解了（而且 PPT 讲得也不是很清楚，希望能改进），可能那些内容短时间内老师也很难一一拆解，不过好在考试也不涉及那些很难懂的东西，想弄明白自己下去学就完了；作业对于完全没接触过这方面的同学可能会稍有难度，虽然有示例代码，但还是得自己多折腾折腾；project 老师会给一个链接，提供各种选题参考；老师上课会有很多友情提示，所以但凡你去上课了且稍加留意，考试都很难有不会做的题；说实话，作为一名来自内地的学生，期末看到那张试卷的时候，心中不免会有一丝感动，并且会产生一种“终于可以不用再为了应付考试而学习”的错觉，考了这么多年试，我似乎已经失去了单纯从汲取知识中获得快乐的能力；Dapeng 老师生动诠释了课堂是为了让学生学到知识，考试也不是为了搞选拔让学生内卷；man，what can i say，选就完了；ps：看到私信以及上一篇评论区有一些 uu 问，“找工作推荐上几门课？”，“选了某某课还有时间找工作吗？” 等诸如此类的问题，我在这里统一回答，就不一一答复了；现在已经是 8 月了，找工作的同学应该已经走在秋招的路上，我觉得不应该有这样的问题；能够兼顾上课和找工作的同学，我相信选不选一两门课实际上影响不…",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS 选课血泪史2⃣"
+    },
     {
       "noteId": "68980dce000000002501bcd8",
       "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
@@ -112,6 +123,19 @@
     }
   ],
   "commentSources": [
+    {
+      "noteId": "68960125000000002501ac81",
+      "url": "https://www.xiaohongshu.com/explore/68960125000000002501ac81?xsec_token=ABgRVz4lYuYJz3jUIsqsVeGs0tushWOkQaQS-nhz3N8Oo=",
+      "excerpt": "隔壁25fallec表示看学长学姐们都对5187好评很想去，但是今年和5285必修课冲突了",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityU CS 选课血泪史2⃣",
+      "commentId": "68960e42000000002a0053cb",
+      "author": "momo",
+      "likes": 0,
+      "role": "supplement"
+    },
     {
       "noteId": "6a63005b000000000503831e",
       "url": "https://www.xiaohongshu.com/explore/6a63005b000000000503831e?xsec_token=ABU9gdH9uOMWLrNRJKmKUuGZa0Jovf1T1JC13ru55laF0=",

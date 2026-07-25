@@ -1,0 +1,306 @@
+{
+  "note_id": "69f71f83000000003703582c",
+  "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+  "fetched_at": 1784961637.5690768,
+  "note": {
+    "xsecToken": "ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+    "noteId": "69f71f83000000003703582c",
+    "desc": "首先这个课程会在 semester b 和 summer term 开课，授课的老师人也比较nice，比较推崇你在课程中使用 AI 进行辅助学习（会教 spec development 开发项目\n\t\n其次课程的平时分有：\n- 四次 paper 阅读 占比 20%\n- 四次随堂 quiz 占比20%\n- 小组项目 20%\n\t\n期末考试开卷，可带两张A4手写笔记。占比40%\n\t\n考试内容回忆大概如下：\n\t\n五个部分\n第一部分是 十道概念题 每个3分\ncommon input ownership and pay join\nNothing at stake problem\nOver collateralization\nHow to defense sandwich attack\nMPC ceremony\nCasper FFG slashing\ntrusted setup\n\t\n第二部分 monero 概念及理解\n四个小问\n\t\n第三部 AMM 概念及计算 15分\n1.AMM definition and compare to ordered book exchange\n2.calculuatio\n3.impermanent loss\n\t\n第四部分是consensus\n首先是Pos比Pow的三个优势\n\t\n第五部分是rollup这块\nOptimistic rollup and ZK rollup 优劣势\nzcash 的zkp主要的技术实现的困难是什么\n使用这个之后能不能防MEV\n\t\n总体来即使是0基础 考前把PoS/AMM/Rollup/Ethurerm这块的知识理解清楚混个及格没有问题\n（图二是历年的平均分数\n#cs6290[话题]# #港硕[话题]# #留学生考试[话题]# #计算机[话题]# #cityu[话题]# #cs[话题]# #期末备考[话题]#",
+    "interactInfo": {
+      "collectedCount": "45",
+      "commentCount": "5",
+      "shareCount": "10",
+      "followed": false,
+      "liked": false,
+      "likedCount": "29",
+      "collected": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251440/393b0b919f48372ccf2d28c5fe98b2db/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251440/9227cac36ab8bac3fe233ee7ac591927/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251440/9227cac36ab8bac3fe233ee7ac591927/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251440/393b0b919f48372ccf2d28c5fe98b2db/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nd_prv_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251440/2face8d482250b2ba9f52cea4ba53c35/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nd_prv_wgth_jpg_3",
+        "height": 926,
+        "width": 1252,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251440/2face8d482250b2ba9f52cea4ba53c35/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251440/1b384c0d785b7eae3d91c63002fe9ff6/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251440/1b384c0d785b7eae3d91c63002fe9ff6/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg",
+        "traceId": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "67becd9a000000001900dd23",
+        "name": "cs6290",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "id": "5cedabe90000000006005472",
+        "name": "留学生考试",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "id": "5fe185ba00000000010086e7",
+        "name": "期末备考",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "CityU CS6290 课程锐评",
+    "user": {
+      "userId": "6539d1f0000000000301cfa4",
+      "nickname": "efan404",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08",
+      "xsecToken": "ABskVHD55iv5BDXACsD0KE5Z5fT7gcRhDQ0QBtP2TvRG8="
+    },
+    "time": 1777803139000,
+    "lastUpdateTime": 1777803139000
+  },
+  "comments": [
+    {
+      "content": "博主想问下quiz是必须到场才能做嘛[害羞R]",
+      "liked": false,
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoHICS0AKApSWX6n8C_oTQAkumVsfVPcrdPpeawRlCWQ=",
+        "userId": "60226a3200000000010090ca"
+      },
+      "showTags": [],
+      "createTime": 1780927641000,
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69f71f83000000003703582c",
+      "status": 0,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "createTime": 1780928668000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a26cc99000000002800ab5e",
+            "userInfo": {
+              "userId": "60226a3200000000010090ca",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoHICS0AKApSWX6n8C_oTQAkumVsfVPcrdPpeawRlCWQ="
+            }
+          },
+          "invalid": false,
+          "id": "6a26d09b000000002900c7c5",
+          "noteId": "69f71f83000000003703582c",
+          "status": 0,
+          "content": "远程就可以做",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3Brztv_7yHZW0WakSRgky1kw=",
+            "userId": "6539d1f0000000000301cfa4",
+            "nickname": "efan404",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "likeCount": "0",
+      "subCommentCursor": "6a26d09b000000002900c7c5",
+      "id": "6a26cc99000000002800ab5e",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "content": "[笑哭R]不好意思 cheatsheet我并没有留存下来呢 祝你好运",
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3Brztv_7yHZW0WakSRgky1kw=",
+            "userId": "6539d1f0000000000301cfa4",
+            "nickname": "efan404",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/120/format/jpg"
+          },
+          "invalid": false,
+          "noteId": "69f71f83000000003703582c",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784533965000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a5dc1f7000000002b02a9b7",
+            "userInfo": {
+              "userId": "69476f990000000032028ef7",
+              "nickname": "洋葱",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABjT5QSAVlpPaOiNZi0AP5ZtERsKIRenB7rATfNM6A-yw="
+            }
+          },
+          "id": "6a5dd3cd0000000015011f3a"
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "content": "博主，你好，很感谢你这篇6290的帖子对我的帮助。其实我想请问一下，您那里还有最后开卷的cheatsheet吗？想看看你的，准备一下考试，非常感谢你，祝你生活愉快，天天开心！",
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "subCommentCursor": "6a5dd3cd0000000015011f3a",
+      "subCommentHasMore": false,
+      "id": "6a5dc1f7000000002b02a9b7",
+      "noteId": "69f71f83000000003703582c",
+      "likeCount": "0",
+      "createTime": 1784529400000,
+      "liked": false,
+      "userInfo": {
+        "userId": "69476f990000000032028ef7",
+        "nickname": "洋葱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjT5QSAVlpPaOiNZi0AP5ZtERsKIRenB7rATfNM6A-yw="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6520 评价",
+  "search_item": {
+    "id": "69f71f83000000003703582c",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CityU CS6290 课程锐评",
+      "user": {
+        "userId": "6539d1f0000000000301cfa4",
+        "nickname": "efan404",
+        "xsecToken": "AB9JHnlRjAkGz7FG-HuNx7Hkv2_SUeMhtgbLnFHNscSvs=",
+        "nickName": "efan404",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjlpr45j2005p9pq7o0rjt4gsair08?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "sharedCount": "10",
+        "liked": false,
+        "likedCount": "29",
+        "collected": false,
+        "collectedCount": "45",
+        "commentCount": "5"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251440/000e1e0a24e6353f95d9de02a2407a05/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251440/1136532fb6132fd128172c321ca63206/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/000e1e0a24e6353f95d9de02a2407a05/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/1136532fb6132fd128172c321ca63206/notes_pre_post/1040g3k031vn0ibl32g005p9pq7o0rjt4b8fgvd0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1252,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/b0179f511b22b531338ac0fa69628ad2/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/e4bcf756b86547a0c9e02e074bb8f0a1/notes_pre_post/1040g3k031vn0ibl32g0g5p9pq7o0rjt4ro11crg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 926
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-03"
+        }
+      ]
+    },
+    "xsecToken": "ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "69f71f83000000003703582c"
+  }
+}

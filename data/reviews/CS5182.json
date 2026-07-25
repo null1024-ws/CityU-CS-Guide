@@ -12,8 +12,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 10,
-      "distinctSources": 6
+      "sourceCount": 11,
+      "distinctSources": 7
     },
     "workload": {
       "value": "light",
@@ -32,9 +32,9 @@
     "grading": {
       "value": "generous",
       "label": "给分友好",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
     },
     "hasRecording": {
       "value": "unknown",

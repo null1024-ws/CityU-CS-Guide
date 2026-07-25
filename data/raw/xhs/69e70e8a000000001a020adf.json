@@ -1,0 +1,833 @@
+{
+  "note_id": "69e70e8a000000001a020adf",
+  "url": "https://www.xiaohongshu.com/explore/69e70e8a000000001a020adf?xsec_token=ABpJN0KBkqOvv1R_VjUaAB6rRy49yLn4P-b7Kmz55sgbM=",
+  "fetched_at": 1784961729.9511323,
+  "note": {
+    "xsecToken": "ABpJN0KBkqOvv1R_VjUaAB6rRy49yLn4P-b7Kmz55sgbM=",
+    "tagList": [
+      {
+        "name": "学术圈吃瓜",
+        "type": "topic",
+        "id": "67666d6c00000000040231ce"
+      },
+      {
+        "id": "61aa28bd0000000001005f8a",
+        "name": "导师日常",
+        "type": "topic"
+      },
+      {
+        "name": "博士申请",
+        "type": "topic",
+        "id": "5c2ca726000000000902152d"
+      },
+      {
+        "id": "62c3a0e700000000010001c4",
+        "name": "CSPhD",
+        "type": "topic"
+      },
+      {
+        "name": "计算机博士",
+        "type": "topic",
+        "id": "5e3900460000000001009f6c"
+      },
+      {
+        "id": "5c0f75a1e093d10001c19932",
+        "name": "研究生申请",
+        "type": "topic"
+      },
+      {
+        "id": "5c373700000000000e01b28d",
+        "name": "留学申请",
+        "type": "topic"
+      },
+      {
+        "name": "导师视角",
+        "type": "topic",
+        "id": "65b56a810000000003016072"
+      },
+      {
+        "id": "5d70b8510000000001038877",
+        "name": "实验室日常",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "6070e6500000000001003865",
+        "name": "面试那些事"
+      },
+      {
+        "id": "63538e7b000000000100adff",
+        "name": "程序员日常",
+        "type": "topic"
+      },
+      {
+        "id": "681c4d940000000018011612",
+        "name": "学术红黑榜",
+        "type": "topic"
+      },
+      {
+        "id": "5c81ddbc000000000d00ce7d",
+        "name": "科研生活",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1776750218000,
+    "lastUpdateTime": 1776750294000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "CS学术圈今天最大的瓜🍉我上榜了，红黑都有",
+    "user": {
+      "userId": "60ab1fe5000000000100a244",
+      "nickname": "大阔老师 Dakuo Wang",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g",
+      "xsecToken": "ABdkIxZ6LNcmes10x_YlAsN5hIbzjiGGc1e75-caEu-0I="
+    },
+    "interactInfo": {
+      "shareCount": "1102",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "followed": false,
+      "likedCount": "881",
+      "collectedCount": "364",
+      "commentCount": "211"
+    },
+    "noteId": "69e70e8a000000001a020adf",
+    "desc": "今天可能吃到了全美CS学术圈最大的瓜🍉\n同学们竟然开始 crowdsourcing 搞“学术导师红黑榜”……\n\t\n我白天一直在开会，根本没来得及看，晚上刚下线就去问了下我的学生。\n结果不问不知道，一问吓一跳——\n我居然也很荣幸地上榜了😭😭\n而且是：红❤️黑🖤榜都有我。\n\t\n💔 先说黑榜\n主要是因为我前两年面试 CS PhD 申请人的时候（那时候还没有 AI coding），\n居然让大家现场写过：\n* leetcode 9：palindrome number check\n* leetcode 66：large integer plus one\n\t\n现在回头看，确实有点离谱了……\n这么高难度的题，竟然要当场写出 七行代码，\n而且里面居然还包含一个 for loop 🤦‍♂️\n\t\n我后来认真反思了一下：\n我本意只是想测试一下，那些计算机系 GPA 前几名、甚至已经有 AI paper 一作的同学，基础是不是还扎实。\n\t\n但我显然忽略了一件事：\n现在确实有不少计算机和信息科班本科生、硕士生，\n不会写一个 for loop，不知道什么叫数组，也不知道什么叫回文数。\n\t\n所以这个黑榜，我认了🥲\n\t\n🫠 于是我吸取教训\n到了今年面试，我已经主动降低难度了。\n不需要写代码，只需要读代码。\n\t\n我给面试者看了一段完整二叉树 DFS 的代码，\n总共 6 行，里面只有 1 个小 bug。\n我当时想：这次总不会有问题了吧？\n\t\n结果我又错了……😂\n* 申请计算机博士的同学里，有一半看不出来 bug\n* 三分之一的人，不知道测试用例的正确输出应该是什么\n\t\n所以我现在觉得，\n针对某些优秀的CS PhD申请人，\n明年可能还得继续降难度。\n我提前透题，给你一行代码：\nprint(\"hello world\")\n然后问你：\n“你觉得这行代码想干啥？”\n请大家提前准备🙏\n\t\n😍 再说红榜\n我们学生都在实习 ✅check\n卡很多 ✅ check\n\t\n[大笑R]感谢大家舆论监督 我继续努力💪\n\t\n#学术圈吃瓜[话题]# #导师日常[话题]# #博士申请[话题]# #CSPhD[话题]# #计算机博士[话题]# #研究生申请[话题]# #留学申请[话题]# #导师视角[话题]# #实验室日常[话题]# #面试那些事[话题]# #程序员日常[话题]# #学术红黑榜[话题]# #科研生活[话题]#",
+    "imageList": [
+      {
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251442/aca046e4a60e142f552547e125563a18/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28",
+        "height": 1600,
+        "width": 1200,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/aca046e4a60e142f552547e125563a18/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/bdac5e02c46c349f84c1c505aec6d928/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251442/bdac5e02c46c349f84c1c505aec6d928/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "url": ""
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251442/59d37f6a6e1478dbf7ac7fed6ce54246/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8",
+        "height": 358,
+        "width": 1448,
+        "url": "",
+        "traceId": "",
+        "livePhoto": false,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/d2c95c27674eb225734a83f8f5ddb9ea/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/59d37f6a6e1478dbf7ac7fed6ce54246/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251442/d2c95c27674eb225734a83f8f5ddb9ea/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nd_prv_wgth_jpg_3"
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251442/aa41d693cc3eb1916def24646dbdb9fc/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nd_dft_wgth_jpg_3",
+        "fileId": "notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g",
+        "height": 1107,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/c6fb8da8f34bdd8d92d39f95be5ea9f9/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251442/aa41d693cc3eb1916def24646dbdb9fc/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "width": 1320,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251442/c6fb8da8f34bdd8d92d39f95be5ea9f9/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nd_prv_wgth_jpg_3"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "content": "你就说pu不push学生吧，一般meeting频率和上下班时长什么样的[doge]不然这种服从性测试很难让人怀疑不toxic",
+      "liked": false,
+      "ipLocation": "英国",
+      "subCommentHasMore": true,
+      "noteId": "69e70e8a000000001a020adf",
+      "likeCount": "86",
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "noteId": "69e70e8a000000001a020adf",
+          "status": 0,
+          "content": "这位同学的问题问的太好啦！我都觉得你是我的拖儿[偷笑R] 我们组写在自己网站上的lab norm里：每周一次组会和每周一次一作互相改paper的writing workshop必须参加，你自己的项目会每周一次，每周一次和我的one-on-one你可选。所有这些会都是hybrid。对于同学来不来lab没有任何要求。无限假期，无限work remote。东北大学允许我的学生自由选择硅谷校区（好找工和实习）或者波士顿校区，我都有lab space。我强烈建议并且动用我的所有公司关系帮我学生和合作者的学生找实习。出了周中早九晚五，不期待你回复消息或者email。我尽力给你找funding努力让你不TA",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "likeCount": "50",
+          "userInfo": {
+            "nickname": "大阔老师 Dakuo Wang",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABuk76emnFj-B2mhLW8uSWizf1qBaZmBecjhzkSB3sv5g=",
+            "userId": "60ab1fe5000000000100a244"
+          },
+          "createTime": 1776853994000,
+          "targetComment": {
+            "id": "69e88fee0000000014019004",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9er5ok5m005o7a9cl0930rhf8nofg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtUl67-FewG6ZgGvwq5BOj-5JkWaEf90cMs-ySShoPmc=",
+              "userId": "60ea4b2a0000000001008c1b",
+              "nickname": "追offer的人"
+            }
+          },
+          "invalid": false,
+          "id": "69e8a3ea000000001401e010"
+        }
+      ],
+      "subCommentCursor": "69e8a3ea000000001401e010",
+      "createTime": 1776848878000,
+      "id": "69e88fee0000000014019004",
+      "status": 4,
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABtUl67-FewG6ZgGvwq5BOj-5JkWaEf90cMs-ySShoPmc=",
+        "userId": "60ea4b2a0000000001008c1b",
+        "nickname": "追offer的人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9er5ok5m005o7a9cl0930rhf8nofg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [
+        "user_top"
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "本来leetcode就是大厂的服从性测试[doge]把这东西adopt到phd面试里面何意味 数据结构与算法的东西平时几乎用不到冷不丁考一个还真容易忘 再说了好像很多paper都不用写代码吧[偷笑R]",
+      "userInfo": {
+        "userId": "698650a8000000002603bfb2",
+        "nickname": "木子说",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvbeo7fnm005qc6a2k9nfti1rs8r8g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQBzAOy8AXePThu6FGoNAbCPsMMk_BXX4Hr03PjLixjo="
+      },
+      "showTags": [],
+      "subCommentCount": "9",
+      "subComments": [
+        {
+          "content": "最后一句才是关键[偷笑R]",
+          "atUsers": [],
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "69e717b6000000002b028bf4",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvbeo7fnm005qc6a2k9nfti1rs8r8g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQBzAOy8AXePThu6FGoNAbCPsMMk_BXX4Hr03PjLixjo=",
+              "userId": "698650a8000000002603bfb2",
+              "nickname": "木子说"
+            }
+          },
+          "id": "69e74c42000000001401c411",
+          "status": 0,
+          "liked": false,
+          "likeCount": "44",
+          "userInfo": {
+            "nickname": "柏油无头人",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s31vodg3sdg5pe5nus4amjukqet0lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABW_ssPm23d9M31Xr_oGAoqQl5orWMlJGmiZNy4ioBGnk=",
+            "userId": "65c5bfb80000000011015a7e"
+          },
+          "showTags": [],
+          "createTime": 1776766018000,
+          "invalid": false,
+          "noteId": "69e70e8a000000001a020adf"
+        }
+      ],
+      "id": "69e717b6000000002b028bf4",
+      "noteId": "69e70e8a000000001a020adf",
+      "atUsers": [],
+      "createTime": 1776752566000,
+      "ipLocation": "美国",
+      "subCommentCursor": "69e74c42000000001401c411",
+      "invalid": false,
+      "likeCount": "429",
+      "status": 0,
+      "liked": false,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "美国",
+      "subCommentCount": "14",
+      "userInfo": {
+        "userId": "67d5f384000000000e01ca5f",
+        "nickname": "HCI表白墙",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b65431e7abf18da7d1266.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5ARE03_yy6rukYQrWYoMyUil16Ayrn8dxD1mFeKe8Dk="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "164",
+          "userInfo": {
+            "userId": "5f5066150000000001007eeb",
+            "nickname": "清河",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f5066150000000001007eeb.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABxb2meuzjkB3hq3bfxiedopIVFgDhaR7ztQxpseLCnec="
+          },
+          "showTags": [],
+          "createTime": 1776792623000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "AB5ARE03_yy6rukYQrWYoMyUil16Ayrn8dxD1mFeKe8Dk=",
+              "userId": "67d5f384000000000e01ca5f",
+              "nickname": "HCI表白墙",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b65431e7abf18da7d1266.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "69e7a2c6000000002b0305cb"
+          },
+          "invalid": false,
+          "id": "69e7b42f000000001401d802",
+          "noteId": "69e70e8a000000001a020adf",
+          "status": 0,
+          "content": "他跟他postdoc特别toxic这个考lc根本不算什么",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "status": 0,
+      "atUsers": [],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "likeCount": "335",
+      "createTime": 1776788166000,
+      "subCommentCursor": "69e7b42f000000001401d802",
+      "id": "69e7a2c6000000002b0305cb",
+      "noteId": "69e70e8a000000001a020adf",
+      "content": "大阔老师是不是觉得这一波解释和澄清夯爆了？[偷笑R] 实则暴露了太多啊[笑哭R]",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69e714f5000000001401e41c",
+      "liked": false,
+      "createTime": 1776751862000,
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "createTime": 1776752866000,
+          "ipLocation": "江苏",
+          "status": 0,
+          "content": "确实，这样感觉更合理",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "小朱诺诺的",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31smlvminls005q80bndtoapmef0903g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABdb7HfxcoSkMv7kW5yGV7FtLBxchunsY1ccVfGmW8iOI=",
+            "userId": "69005ddb0000000037002b36"
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69e714f5000000001401e41c",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB0br4Z0kgyjOcyZK3tBiqIOO8dQdxhQFVCnueMuV8Oto=",
+              "userId": "63534edd00000000120259d2",
+              "nickname": "布谷不咕咕🌾",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n0ke79tl80g5oqj9rekkmeirlqff58?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "69e718e2000000001401ac0b",
+          "noteId": "69e70e8a000000001a020adf",
+          "liked": false,
+          "likeCount": "6"
+        }
+      ],
+      "subCommentCursor": "69e718e2000000001401ac0b",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "北京",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "79",
+      "noteId": "69e70e8a000000001a020adf",
+      "content": "感觉或许可以改一改考察方式？比如我今年申请面到的一位老师，是先给我email了一个task文档，让我复现他们论文的一个模块，然后我可以自己下来完成（用什么ai都无所谓），但是面的时候需要和他一起从头到尾review这个codebase并且讲清楚每个函数在干嘛，他也会随机抽几行问我这一行是在做什么事情，感觉这种考察方式也挺不错的[doge]",
+      "userInfo": {
+        "userId": "63534edd00000000120259d2",
+        "nickname": "布谷不咕咕🌾",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n0ke79tl80g5oqj9rekkmeirlqff58?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0br4Z0kgyjOcyZK3tBiqIOO8dQdxhQFVCnueMuV8Oto="
+      },
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subCommentCount": "4",
+      "invalid": false,
+      "noteId": "69e70e8a000000001a020adf",
+      "likeCount": "59",
+      "createTime": 1776751163000,
+      "subCommentCursor": "69e71333000000001401a810",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "likeCount": "102",
+          "userInfo": {
+            "xsecToken": "ABp4BwDZG740ga-8PvbI7d8Z4TBKe4K6p8q6gzZTgC6dw=",
+            "userId": "6641a1270000000003033465",
+            "nickname": "Momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o58reb26m105pi1k4jgud35vnfb5uo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "69e7123b000000001401bc15",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABm0gkXO8xpH-DLUycb4GVHgM58dU2DObKBo1a89wSbxI=",
+              "userId": "64ec4e11000000000100f82f",
+              "nickname": "悠悠何处寻",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9q4muvku5g5p7c9o8g9u1fn4vah98?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "69e70e8a000000001a020adf",
+          "content": "dakuo老师贴的那两个题如果还要刷的话，我只能说候选人还是别来读CS phd了[捂脸R]",
+          "liked": false,
+          "showTags": [],
+          "createTime": 1776751412000,
+          "id": "69e71333000000001401a810",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "id": "69e7123b000000001401bc15",
+      "status": 0,
+      "content": "可能单纯没刷过吧，以前我学后端的时候很多力扣题都会做，后面转算法就没刷过了，现在我连快排都写不出来了，感觉自己像个蠢猪[失望R]",
+      "liked": false,
+      "userInfo": {
+        "userId": "64ec4e11000000000100f82f",
+        "nickname": "悠悠何处寻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9q4muvku5g5p7c9o8g9u1fn4vah98?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABm0gkXO8xpH-DLUycb4GVHgM58dU2DObKBo1a89wSbxI="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "我觉得这其实不是您题目出难了，而是现在不少申请人的能力结构，确实和我们默认的CS科班基础扎实有点脱节。改成读代码找 bug 这个方向其实是对的，可以再稍微分层，比如问“这段代码在干嘛”，再看能不能发现问题。个人觉得看思考过程和表达能力，反而更接近科研里真正需要的能力。",
+      "likeCount": "16",
+      "userInfo": {
+        "userId": "668ab5370000000003033290",
+        "nickname": "抽象",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3187sa0ag4c005pkamkrguckgg5mfklg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpEz8uPEx4C0R9XtSrCqtNohXxyjdmNzh_8VSjdEFwds="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "createTime": 1776763245000,
+      "subComments": [
+        {
+          "noteId": "69e70e8a000000001a020adf",
+          "status": 0,
+          "likeCount": "1",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABuk76emnFj-B2mhLW8uSWizf1qBaZmBecjhzkSB3sv5g=",
+            "userId": "60ab1fe5000000000100a244",
+            "nickname": "大阔老师 Dakuo Wang",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "69e81be3000000001401e819",
+          "content": "对的！我今年就开始朝着这个方向改面试方法啦",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1776819172000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "668ab5370000000003033290",
+              "nickname": "抽象",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3187sa0ag4c005pkamkrguckgg5mfklg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpEz8uPEx4C0R9XtSrCqtNohXxyjdmNzh_8VSjdEFwds="
+            },
+            "id": "69e7416c000000001401a42a"
+          }
+        }
+      ],
+      "noteId": "69e70e8a000000001a020adf",
+      "atUsers": [],
+      "liked": false,
+      "id": "69e7416c000000001401a42a",
+      "subCommentCursor": "69e81be3000000001401e819",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "userInfo": {
+            "xsecToken": "ABuk76emnFj-B2mhLW8uSWizf1qBaZmBecjhzkSB3sv5g=",
+            "userId": "60ab1fe5000000000100a244",
+            "nickname": "大阔老师 Dakuo Wang",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1776818965000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69e71ed50000000014019c0f",
+            "userInfo": {
+              "nickname": "Dr. WondeR1and",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fb4f4a1000000000100105e.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRu7nvmefbn5O98QeTjzNqeDx6toRYhPePs0kW8J3SN8=",
+              "userId": "5fb4f4a1000000000100105e"
+            }
+          },
+          "invalid": false,
+          "id": "69e81b14000000001401e811",
+          "noteId": "69e70e8a000000001a020adf",
+          "content": "我觉得面phd的时候面leetcode，面试时候发现cs科班一个bruteforce的冒泡排序或者字符串查找都不会写，可能是两层意思。我完全同意未来手写代码会越来越不需要，我的全组从去年开始就给大家买好了cursor，今年也是强制每个人必须日常用claude code写代码。但是我知道的大部分公司的实习和工作面试必须要会手写代码，而且，我的同学们又是博一刚来的那个九、十月就开始面试找来年暑期的实习。我还是希望能帮助合适的同学找到未来适合自己的工作的，所以就借此机会给同学们calibrate一下现实世界的考核标准。过几年我觉得大厂一定会有一个新的面试coding能力的方法，那我们到时候再接轨吧",
+          "likeCount": "8"
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "69e71ed50000000014019c0f",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "91",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABRu7nvmefbn5O98QeTjzNqeDx6toRYhPePs0kW8J3SN8=",
+        "userId": "5fb4f4a1000000000100105e",
+        "nickname": "Dr. WondeR1and",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fb4f4a1000000000100105e.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "6",
+      "subCommentCursor": "69e81b14000000001401e811",
+      "noteId": "69e70e8a000000001a020adf",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "美国",
+      "invalid": false,
+      "content": "我觉得面试面leetcode对于PhD真的没什么意义",
+      "createTime": 1776754390000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "id": "69e86c35000000001401c802",
+      "noteId": "69e70e8a000000001a020adf",
+      "createTime": 1776839733000,
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "155",
+          "createTime": 1776919745000,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "noteId": "69e70e8a000000001a020adf",
+          "content": "勾起了我对一些表演人格、异常开朗，但非常push且pua的老师的痛苦回忆[哭惹R]",
+          "userInfo": {
+            "userId": "59d46cfa51783a3eb541d5e0",
+            "nickname": "点点水蜜桃",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/647f3c0640880beb11fff946.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFuGut6bvNVp2wSk2PH6R-kyrTSdkCylJT9xtnZqR98o="
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69e86c35000000001401c802",
+            "userInfo": {
+              "nickname": "KAGO",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e1f3803776e9200012b6260.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzQtDcj7YRyTalFthwaiRupONWjIAV-cYxN5mOKgNijc=",
+              "userId": "5e1f37dd000000000100a6df"
+            }
+          },
+          "id": "69e9a4c1000000001401a81a",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "content": "纯路人，考lc这个事我感觉不toxic，看老师说话方式相处起来应该挺toxic的[笑哭R]",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e1f3803776e9200012b6260.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzQtDcj7YRyTalFthwaiRupONWjIAV-cYxN5mOKgNijc=",
+        "userId": "5e1f37dd000000000100a6df",
+        "nickname": "KAGO"
+      },
+      "showTags": [],
+      "subCommentCursor": "69e9a4c1000000001401a81a",
+      "atUsers": [],
+      "likeCount": "330",
+      "ipLocation": "中国香港",
+      "subCommentCount": "9",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "userInfo": {
+        "userId": "61f8352a00000000100067c8",
+        "nickname": "路路路同学",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sbbf9t8m20g5ofo6kl40pu8fp6di4g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBW3ZSqlnLZqKZionTgv1Si9A4FSsrAy5ygiCfA5MQXk="
+      },
+      "subCommentCursor": "6a4c7187000000000802ca00",
+      "id": "69e902c90000000014018c03",
+      "content": "会在xhs发这种贴的老师就让学生感觉很抽象了[笑哭R]",
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "2",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "126",
+      "showTags": [],
+      "createTime": 1776878281000,
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABObs5Ja3c1SSwqHglvrp-VyfvtydAciGHwfQtL_PtB5s=",
+            "userId": "5b66b0d06b58b76c2e791307",
+            "nickname": "Ss",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ratkjhv70004a9kcnod04o7arkl4qo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "noteId": "69e70e8a000000001a020adf",
+          "status": 0,
+          "liked": false,
+          "showTags": [],
+          "createTime": 1783394696000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "69e902c90000000014018c03",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABBW3ZSqlnLZqKZionTgv1Si9A4FSsrAy5ygiCfA5MQXk=",
+              "userId": "61f8352a00000000100067c8",
+              "nickname": "路路路同学",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sbbf9t8m20g5ofo6kl40pu8fp6di4g?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6a4c7187000000000802ca00",
+          "content": "ai 味爆炸了"
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "69e70e8a000000001a020adf",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69e70e8a000000001a020adf",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "164",
+      "subCommentCursor": "69e815df000000001401dc1f",
+      "subCommentHasMore": true,
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABxb2meuzjkB3hq3bfxiedopIVFgDhaR7ztQxpseLCnec=",
+        "userId": "5f5066150000000001007eeb",
+        "nickname": "清河",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f5066150000000001007eeb.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1776792533000,
+      "ipLocation": "美国",
+      "id": "69e7b3d5000000001401d801",
+      "showTags": [],
+      "invalid": false,
+      "content": "我说实话考lc是dakuo最不toxic的行为了[doge]",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "id": "69e815df000000001401dc1f",
+          "noteId": "69e70e8a000000001a020adf",
+          "status": 0,
+          "content": "咦？刚刚给你的回帖好像被删掉了，那我就在回复一遍。我的瓜子儿和小马扎都已经搬好啦🍉 请分享你的故事[棒R] 这里写完之后也请希望你能去红黑榜多帮我补充几个bullet point，我有则改之无则加勉嘛[偷笑R]",
+          "userInfo": {
+            "userId": "60ab1fe5000000000100a244",
+            "nickname": "大阔老师 Dakuo Wang",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABuk76emnFj-B2mhLW8uSWizf1qBaZmBecjhzkSB3sv5g="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1776817632000,
+          "targetComment": {
+            "id": "69e7b3d5000000001401d801",
+            "userInfo": {
+              "userId": "5f5066150000000001007eeb",
+              "nickname": "清河",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f5066150000000001007eeb.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxb2meuzjkB3hq3bfxiedopIVFgDhaR7ztQxpseLCnec="
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "4",
+          "ipLocation": "美国",
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6520 避雷",
+  "search_item": {
+    "id": "69e70e8a000000001a020adf",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CS学术圈今天最大的瓜🍉我上榜了，红黑都有",
+      "user": {
+        "xsecToken": "ABq6uTzDlN6kfVaUjyRpuLgx6Lze73S7btITiUptFg6sw=",
+        "nickName": "大阔老师 Dakuo Wang",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31egpi408gs005o5b3vig98i46njh84g?imageView2/2/w/80/format/jpg",
+        "userId": "60ab1fe5000000000100a244",
+        "nickname": "大阔老师 Dakuo Wang"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "881",
+        "collected": false,
+        "collectedCount": "364",
+        "commentCount": "211",
+        "sharedCount": "1102"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251442/8a3d0ab3b9999746c31f5618f3136bae/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251442/f71b83dfd5bc6754b8b2afd09061f81f/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/8a3d0ab3b9999746c31f5618f3136bae/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/f71b83dfd5bc6754b8b2afd09061f81f/notes_pre_post/1040g3k031v7ah4v02q005o5b3vig98i480vva28!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 358,
+          "width": 1448,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/c2523055e472cc3aa8606760e964116a/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/1bec78921cacf029e8cb37a417b23b39/notes_pre_post/1040g3k031v7ah4v02q1g5o5b3vig98i4gq3ohj8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1320,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/70e0d53479ab603a794ab4e16bf32d88/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/0a40d8a11a34752a4738f58538715ae3/notes_pre_post/1040g3k031v7ah4v02q205o5b3vig98i48vahr1g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1107
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-21"
+        }
+      ]
+    },
+    "xsecToken": "ABpJN0KBkqOvv1R_VjUaAB6rRy49yLn4P-b7Kmz55sgbM=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "69e70e8a000000001a020adf"
+  }
+}

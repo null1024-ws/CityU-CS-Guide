@@ -1,0 +1,43 @@
+{
+  "note_id": "15d1e699-ad98-48dc-922f-6ca1e418d8e2",
+  "url": "https://www.xiaohongshu.com/explore/15d1e699-ad98-48dc-922f-6ca1e418d8e2?xsec_token=ABEVgmDtDWXdPUIsM530j0zd6GONydu3aXOusGZP6JZHHY4k0Z-1yB4XkRCYNFi3zynIvAGGZfsErFUwechQCYuTLeXl9keTzPAEAcNxJc8VU=",
+  "fetched_at": 1784961421.3551793,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6520 城大CS",
+  "search_item": {
+    "id": "15d1e699-ad98-48dc-922f-6ca1e418d8e2#1784961406171",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "15d1e699-ad98-48dc-922f-6ca1e418d8e2#1784961406171",
+      "queries": [
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程"
+        },
+        {
+          "id": "城大计算机",
+          "name": "城大计算机",
+          "searchWord": "城大计算机"
+        },
+        {
+          "id": "cityu cs bar",
+          "name": "cityu cs bar",
+          "searchWord": "cityu cs bar"
+        }
+      ]
+    },
+    "xsecToken": "ABEVgmDtDWXdPUIsM530j0zd6GONydu3aXOusGZP6JZHHY4k0Z-1yB4XkRCYNFi3zynIvAGGZfsErFUwechQCYuTLeXl9keTzPAEAcNxJc8VU=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "15d1e699-ad98-48dc-922f-6ca1e418d8e2#1784961406171"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "note_id": "6a64538c0000000008009c01",
+  "url": "https://www.xiaohongshu.com/explore/6a64538c0000000008009c01?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bhNZTXqLplKdHdx7q1yxZIo=",
+  "fetched_at": 1784959971.3864403,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🔥 NUS新课｜这学期你可以亲手训练机器人",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🤖 我在NUS开了一门机器人课！\n\t\n这学期我在 NUS School of Computing 正式开课啦👉 CS 6283: Robot Learning in the Era of Foundation Models 🔥\n\t\n这是一门讲 具身智能 (Embodied AI) 的进阶课，从最基础的 robotic manipulation、imitation learning、reinforcement learning，一路讲到现在最火的 Vision-Language-Action (VLA) models 和 robotics foundation models 🚀\n\t\n和刷paper的纯理论课不一样——这门课我们是真的要上手摸机器人的 🦾\n\t\n✨ 重点来了：我正在争取搞一批 SO-101 机械臂（就是 Hugging Face LeRobot 那款开源3D打印小臂）给大家做 hands-on project！从 teleoperation 采数据，到一键训练 imitation learning 模型，让机器人自己学会抓取、放置、完成任务——整个 pipeline 你都能亲手跑一遍 👐\n\t\n📚 你会学到：\n· 机器人操作 + robot learning 的核心原理\n· 怎么用 foundation models 解决真实操作任务\n· 把算法部署到 open-world manipulation 场景\n· 独立做 embodied AI 研究的能力\n\t\n🗓 每周一 4–6pm｜COM1-VCRM｜2026年8月开课\n👨‍🏫 授课：段嘉飞 (Duan Jiafei)\n\t\n对机器人、具身智能、VLA 感兴趣的同学，快冲！有问题欢迎邮件我或评论区找我～ 让我们一起把机器人玩明白 💪\n\t\n#NUS[话题]# #机器人学习[话题]# #具身智能[话题]# #RobotLearning[话题]# #EmbodiedAI[话题]# #VLA[话题]# #新加坡国立大学[话题]# #人工智能[话题]# #LeRobot[话题]# #研究生选课[话题]# #科研日常[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

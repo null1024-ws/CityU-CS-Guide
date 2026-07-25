@@ -1,0 +1,264 @@
+{
+  "note_id": "67d3ba57000000001d006ab5",
+  "url": "https://www.xiaohongshu.com/explore/67d3ba57000000001d006ab5?xsec_token=ABmGDnL1Kj6Xc5p1qnhXKdCesxeWKxqDMMz9zvBEByA2w=",
+  "fetched_at": 1784959393.5242248,
+  "note": {
+    "xsecToken": "ABmGDnL1Kj6Xc5p1qnhXKdCesxeWKxqDMMz9zvBEByA2w=",
+    "user": {
+      "userId": "6100286b0000000001001436",
+      "nickname": "ExpectoPatronum",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qt6j1hqk800g5o8051lg851mplribjo",
+      "xsecToken": "ABhjl-1xXCP_D6WYrVOvX3Gyku_WD8xEPHyadaf3mv5S0="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "22",
+      "commentCount": "9",
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none",
+      "collected": false,
+      "collectedCount": "17",
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5f236f84000000000101e192",
+        "name": "转码"
+      },
+      {
+        "id": "5e54a1f2000000000100183d",
+        "name": "留学选校",
+        "type": "topic"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "id": "5ccbaf31000000000d019175",
+        "name": "申请季",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "name": "数据科学",
+        "type": "topic",
+        "id": "5e2cba4d0000000001002f38"
+      },
+      {
+        "id": "5d1d701100000000180250fe",
+        "name": "硕士留学",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "bg见上上篇帖子，目前先修课有ML，DL，Python，Database，数据结构与算法分析，看了下官网发现还需要离散数学，计算机组成原理，计算机网络等等一大堆先修课（因为学校原因没法在校修完），目前了解到的途径有summer session，extension，想请问在考虑时间成本和性价比的情况下优先修哪几门课比较好呢？#转码[话题]# #留学选校[话题]# #计算机科学[话题]# #申请季[话题]# #选课[话题]# #数据科学[话题]# #硕士留学[话题]#",
+    "imageList": [
+      {
+        "fileId": "1040g00831f0enn5f6o005o8051lg851mtlqgqd8",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251403/5cdb8346799f48955caf48dfb0164076/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251403/6c62d65dc8b93add870b3e301ad49a8e/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251403/5cdb8346799f48955caf48dfb0164076/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251403/6c62d65dc8b93add870b3e301ad49a8e/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nd_dft_wlteh_jpg_3",
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1741929047000,
+    "lastUpdateTime": 1741929048000,
+    "noteId": "67d3ba57000000001d006ab5",
+    "title": "数学本申美硕CS先修课求助"
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "ipLocation": "四川",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5c57c8970000000012020e9a",
+              "nickname": "LEO在转码（找工季）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/674ad5e3bcf9fe1bd9b30943.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxLtDBSB2wz8pBt5nf664RNm46P_lyC1JSMruYP73CLw="
+            },
+            "id": "67d3d48e000000000f030c8a"
+          },
+          "invalid": false,
+          "id": "67d3d7e4000000001800cab4",
+          "noteId": "67d3ba57000000001d006ab5",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1741936613000,
+          "status": 0,
+          "content": "谢谢学长！之前看过您的笔记也对我帮助很大",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6100286b0000000001001436",
+            "nickname": "ExpectoPatronum",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qt6j1hqk800g5o8051lg851mplribjo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABwMjrXOUrvwNdSi04shFc6dnqGh6vvSbw5boUlSZ5r6Y="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "noteId": "67d3ba57000000001d006ab5",
+      "status": 0,
+      "content": "感觉够了 不用修了 我和你先修课差不多 拿了哥大CS, cmu msmite, Duke ece, NEU CSG,UCI MSWE和uiuc msim",
+      "liked": false,
+      "ipLocation": "上海",
+      "invalid": false,
+      "showTags": [],
+      "subCommentCursor": "67d3d7e4000000001800cab4",
+      "id": "67d3d48e000000000f030c8a",
+      "userInfo": {
+        "nickname": "LEO在转码（找工季）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/674ad5e3bcf9fe1bd9b30943.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxLtDBSB2wz8pBt5nf664RNm46P_lyC1JSMruYP73CLw=",
+        "userId": "5c57c8970000000012020e9a"
+      },
+      "createTime": 1741935759000,
+      "atUsers": [],
+      "likeCount": "3",
+      "subCommentHasMore": true,
+      "subCommentCount": "6",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "67d6e2a30000000017033ac2",
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5e5c0d7f0000000001003f3b",
+        "nickname": "J.Z",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dp78u1pgu005nis1lvg8fpr6aasero?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhWOBcEQRKnVt0sfzD_9CzBGP6oIHyFPnF9q_5Z9sgMg="
+      },
+      "ipLocation": "上海",
+      "noteId": "67d3ba57000000001d006ab5",
+      "content": "你是真的焦虑hhhh",
+      "subCommentCount": "0",
+      "status": 0,
+      "createTime": 1742135972000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "67d4f6cd00000000180127cd",
+      "noteId": "67d3ba57000000001d006ab5",
+      "status": 0,
+      "likeCount": "1",
+      "showTags": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB1UgJd0Ty4c8rQjei34MgCt6Z2VYLD0qth3SvSQKHbxk=",
+        "userId": "5cce8e770000000010028bd4",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1742010061000,
+      "ipLocation": "湖北",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "没事 感觉直接申就好[点赞R]",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 选课",
+  "search_item": {
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-03-14"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "数学本申美硕CS先修课求助",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qt6j1hqk800g5o8051lg851mplribjo?imageView2/2/w/80/format/jpg",
+        "userId": "6100286b0000000001001436",
+        "nickname": "ExpectoPatronum",
+        "xsecToken": "ABN7d-6VPH2XpwcrCdZJKNKGIwaLRMqihdpB-p1bwO710=",
+        "nickName": "ExpectoPatronum"
+      },
+      "interactInfo": {
+        "likedCount": "22",
+        "collected": false,
+        "collectedCount": "17",
+        "commentCount": "9",
+        "sharedCount": "2",
+        "liked": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251403/a22046eaf9f068212d63ae665c840c8b/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251403/7413c0868471f11053ff1774085846b1/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/a22046eaf9f068212d63ae665c840c8b/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/7413c0868471f11053ff1774085846b1/1040g00831f0enn5f6o005o8051lg851mtlqgqd8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600
+        }
+      ]
+    },
+    "xsecToken": "ABmGDnL1Kj6Xc5p1qnhXKdCesxeWKxqDMMz9zvBEByA2w=",
+    "id": "67d3ba57000000001d006ab5",
+    "modelType": "note",
+    "index": 3,
+    "exposed": true,
+    "trackId": "67d3ba57000000001d006ab5"
+  }
+}

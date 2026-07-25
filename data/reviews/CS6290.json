@@ -2,16 +2,11 @@
   "courseCode": "CS6290",
   "fields": {
     "examFormat": {
-      "value": "closed_book",
-      "label": "闭卷",
-      "confidence": "disputed",
-      "sourceCount": 4,
-      "distinctSources": 4,
-      "note": "来源说法不一：闭卷×2、开卷×2",
-      "variants": {
-        "closed_book": 2,
-        "open_book": 2
-      }
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 6,
+      "distinctSources": 6
     },
     "difficulty": {
       "value": "easy",
@@ -95,6 +90,15 @@
       "postTitle": "CityU MSc CS Sem B课程评价（全A上岸啦）"
     },
     {
+      "noteId": "6a016b410000000035021175",
+      "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
+      "excerpt": "3. CS6290-Privacy Enhancing Technologies；老师：老师非常随和，聊过几次天，像和学长沟通一样，完全没架子。；考试：Quiz 可以搜题，甚至不需要本人到场，缺席了后续还能补，期末考试为开卷，没有任何难题。；项目：Project 难度低，利用ai完全可以胜任，答辩很轻松",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU MSc Computer Science 课程经验总结"
+    },
+    {
       "noteId": "69fdd97b000000003601efb7",
       "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
       "excerpt": "CS6290 Privacy-enhancing Technology 必选！日常任务完全拥抱ai，且平时分占比高。期末考开卷且基本抄了就能会，项目自由度很高",
@@ -124,6 +128,19 @@
   ],
   "commentSources": [
     {
+      "noteId": "69f71f83000000003703582c",
+      "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+      "excerpt": "博主，你好，很感谢你这篇6290的帖子对我的帮助。其实我想请问一下，您那里还有最后开卷的cheatsheet吗？想看看你的，准备一下考试，非常感谢你，祝你生活愉快，天天开心！",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityU CS6290 课程锐评",
+      "commentId": "6a5dc1f7000000002b02a9b7",
+      "author": "洋葱",
+      "likes": 0,
+      "role": "correction"
+    },
+    {
       "noteId": "68a545a7000000001c030804",
       "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
       "excerpt": "其实我现在觉得卷Distinction还不如混一混把时间空出来多敲一个项目呢",
@@ -146,6 +163,19 @@
       "postTitle": "Cityu Msc CS St 课程评价",
       "commentId": "6a5d789f00000000290182c3",
       "author": "Restraint丶",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "69f71f83000000003703582c",
+      "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+      "excerpt": "不好意思 cheatsheet我并没有留存下来呢 祝你好运",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "CityU CS6290 课程锐评",
+      "commentId": "6a5dd3cd0000000015011f3a",
+      "author": "efan404",
       "likes": 0,
       "role": "supplement"
     },
@@ -198,32 +228,6 @@
       "postTitle": "港城计算机 CityU CS 学期A & ST 选课",
       "commentId": "6a1aec0d000000002702b1f7",
       "author": "momo",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "68a545a7000000001c030804",
-      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
-      "excerpt": "羡慕distinct，我这种混子只求及格",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "Cityu Msc CS St 课程评价",
-      "commentId": "68a54fad000000002603bf9d",
-      "author": "长乐",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "68a545a7000000001c030804",
-      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
-      "excerpt": "恭喜恭喜，感谢学长（姐）的分享！帮助很大",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "Cityu Msc CS St 课程评价",
-      "commentId": "68a7c5550000000026039bcd",
-      "author": "offer四面八方来",
       "likes": 0,
       "role": "supplement"
     }

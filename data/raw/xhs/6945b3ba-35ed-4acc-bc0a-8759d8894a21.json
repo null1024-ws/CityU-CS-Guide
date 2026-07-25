@@ -1,0 +1,43 @@
+{
+  "note_id": "6945b3ba-35ed-4acc-bc0a-8759d8894a21",
+  "url": "https://www.xiaohongshu.com/explore/6945b3ba-35ed-4acc-bc0a-8759d8894a21?xsec_token=ABSc-r4LOg0QTA-mrxjRA92y-zavhCDjQTKsv7QeMjlYir2Rw6mt-YddsTCINbT6-kpNonF3pKIXFy8wfG4cvkK7E5HnKThAByI-t1BGbXHjA=",
+  "fetched_at": 1784959296.9957335,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6187 CityU",
+  "search_item": {
+    "id": "6945b3ba-35ed-4acc-bc0a-8759d8894a21#1784959296143",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "6945b3ba-35ed-4acc-bc0a-8759d8894a21#1784959296143",
+      "queries": [
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "cityu计算学院",
+          "name": "cityu计算学院",
+          "searchWord": "cityu计算学院"
+        },
+        {
+          "id": "cityu数据科学",
+          "name": "cityu数据科学",
+          "searchWord": "cityu数据科学"
+        },
+        {
+          "id": "cityu入学",
+          "name": "cityu入学",
+          "searchWord": "cityu入学"
+        }
+      ]
+    },
+    "xsecToken": "ABSc-r4LOg0QTA-mrxjRA92y-zavhCDjQTKsv7QeMjlYir2Rw6mt-YddsTCINbT6-kpNonF3pKIXFy8wfG4cvkK7E5HnKThAByI-t1BGbXHjA=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6945b3ba-35ed-4acc-bc0a-8759d8894a21#1784959296143"
+  }
+}

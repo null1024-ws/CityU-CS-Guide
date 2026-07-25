@@ -1,0 +1,737 @@
+{
+  "note_id": "6943e90f000000000d00dda4",
+  "url": "https://www.xiaohongshu.com/explore/6943e90f000000000d00dda4?xsec_token=ABxLR-OQ7BBvJIxFRj7ATNJUYJlGxi3_AX73kR9bD_AgY=",
+  "fetched_at": 1784959452.948672,
+  "note": {
+    "xsecToken": "ABxLR-OQ7BBvJIxFRj7ATNJUYJlGxi3_AX73kR9bD_AgY=",
+    "imageList": [
+      {
+        "stream": {},
+        "fileId": "1040g00831q82r9kv7g004004961ji2pk6u61nm0",
+        "height": 1096,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251404/0f18cff4e06ec330b32ee4b3f3023416/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nd_prv_wgth_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251404/478e4ea9956b5d2188d4c35d5d283673/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nd_dft_wgth_webp_3"
+          }
+        ],
+        "livePhoto": false,
+        "width": 1439,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251404/0f18cff4e06ec330b32ee4b3f3023416/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nd_prv_wgth_webp_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251404/478e4ea9956b5d2188d4c35d5d283673/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nd_dft_wgth_webp_3"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1766118975000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6943e90f000000000d00dda4",
+    "type": "normal",
+    "tagList": [
+      {
+        "id": "680101e700000000180129ca",
+        "name": "姚顺雨",
+        "type": "topic"
+      },
+      {
+        "id": "5e2cba4d0000000001002f38",
+        "name": "数据科学",
+        "type": "topic"
+      },
+      {
+        "name": "人工智能就业",
+        "type": "topic",
+        "id": "63174ccb0000000001000f37"
+      },
+      {
+        "id": "5c6bb611000000000f0101ee",
+        "name": "机器学习",
+        "type": "topic"
+      },
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "id": "5f92935500000000010078dc",
+        "name": "博士留学",
+        "type": "topic"
+      },
+      {
+        "id": "64222e9b0000000011037a33",
+        "name": "人工智能发展",
+        "type": "topic"
+      },
+      {
+        "id": "624d11eb000000000101e223",
+        "name": "大模型",
+        "type": "topic"
+      },
+      {
+        "id": "5c3178f400000000090274bf",
+        "name": "学术",
+        "type": "topic"
+      }
+    ],
+    "time": 1766058255000,
+    "title": "",
+    "desc": "不太理解：姚顺雨明明是做Agent的，代表作是ReAct、SWE-agent这些，为什么腾讯要让他去管”大语言模型”？\n是觉得Agent比预训练更重要，还是觉得反正也卷不过DeepSeek，不如把资源押在应用层？有没有懂的朋友来讲讲🤔\n\t\n#姚顺雨[话题]# #数据科学[话题]# #人工智能就业[话题]# #机器学习[话题]# #PhD[话题]# #博士留学[话题]# #人工智能发展[话题]# #大模型[话题]# #学术[话题]#",
+    "user": {
+      "nickname": "硬核戴老板",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/666770c8b23a33d71f351e17.jpg",
+      "xsecToken": "AB1-Ee32XuJIUZMJZourYmKKPjPI0NxrbQzz3gKe1s7hQ=",
+      "userId": "53db4339b4c4d61da5f00b34"
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "372",
+      "commentCount": "149",
+      "shareCount": "206",
+      "liked": false,
+      "likedCount": "722",
+      "followed": false,
+      "relation": "none"
+    }
+  },
+  "comments": [
+    {
+      "id": "6944b24a000000001403e25a",
+      "createTime": 1766109771000,
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "6801eae3000000000e02c9c1",
+            "nickname": "jdjj",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p7e4anb2u6g5q01tbhjlie1bjce8f0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABXRf3si6CwtTAnlV-H6gpzTMuf6UOO2LF50-uSopaTL4="
+          },
+          "showTags": [],
+          "createTime": 1768409696000,
+          "targetComment": {
+            "id": "6944b24a000000001403e25a",
+            "userInfo": {
+              "userId": "633c2f66000000001802d823",
+              "nickname": "zzzzzzzzz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63933ab8ead25995c5ddb9cc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABTuPfkEu-UlqHBO1_3QVotdB4OZuA_Hjc0tBh2DXptAo="
+            }
+          },
+          "id": "6967ca5f000000000b03626a",
+          "atUsers": [],
+          "likeCount": "57",
+          "ipLocation": "中国香港",
+          "pictures": [],
+          "invalid": false,
+          "noteId": "6943e90f000000000d00dda4",
+          "status": 0,
+          "content": "看了这么多，就这个是明白人",
+          "liked": false
+        }
+      ],
+      "noteId": "6943e90f000000000d00dda4",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "633c2f66000000001802d823",
+        "nickname": "zzzzzzzzz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63933ab8ead25995c5ddb9cc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTuPfkEu-UlqHBO1_3QVotdB4OZuA_Hjc0tBh2DXptAo="
+      },
+      "ipLocation": "四川",
+      "subCommentCount": "11",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "showTags": [],
+      "pictures": [],
+      "subCommentCursor": "6967ca5f000000000b03626a",
+      "content": "招他不是招他一个人，而是利用他的影响力招一批人进来",
+      "likeCount": "483",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 3,
+      "content": "他的管理经验多吗？",
+      "noteId": "6943e90f000000000d00dda4",
+      "userInfo": {
+        "nickname": "薯蜀黍",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6666839028ae847124b408dc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6basdxkdgEp7gcHvU0YbED_ybbC36LP80pjHjCCG_Yw=",
+        "userId": "5ebbe5f2000000000101eb26"
+      },
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "userId": "6632259d0000000007005ea7",
+            "nickname": "toughpapershooter",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3220lev5l7a6g5phi4mehonl7dgkuir8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABXpK748PTXrFrThr6t8SYtP1B_qFWo6rrTJZwtulHLtk="
+          },
+          "showTags": [],
+          "createTime": 1766077043000,
+          "atUsers": [],
+          "likeCount": "78",
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "694425ec00000000160227ed",
+            "userInfo": {
+              "nickname": "薯蜀黍",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6666839028ae847124b408dc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6basdxkdgEp7gcHvU0YbED_ybbC36LP80pjHjCCG_Yw=",
+              "userId": "5ebbe5f2000000000101eb26"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "694432730000000039000c3b",
+          "noteId": "6943e90f000000000d00dda4",
+          "status": 3,
+          "content": "0"
+        }
+      ],
+      "subCommentCursor": "694432730000000039000c3b",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "10",
+      "showTags": [],
+      "pictures": [],
+      "invalid": false,
+      "id": "694425ec00000000160227ed",
+      "createTime": 1766073836000,
+      "subCommentCount": "9",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "atUsers": [],
+      "id": "69443583000000001403d880",
+      "noteId": "6943e90f000000000d00dda4",
+      "content": "难道应用不比底层模型更重要吗？我自己觉得腾讯这步棋走对了",
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "694446bb000000001403472c",
+          "status": 0,
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1766082235000,
+          "ipLocation": "阿联酋",
+          "targetComment": {
+            "id": "69443583000000001403d880",
+            "userInfo": {
+              "userId": "5ee670c8000000000101d93f",
+              "nickname": "vicki",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pmf8ud250005nn6e340bm9v08t8600?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABhxgn1fSQyjvX3cIQSuUAgbtfrU1QUGgbBzENTwLw4do="
+            }
+          },
+          "pictures": [],
+          "noteId": "6943e90f000000000d00dda4",
+          "content": "注重应用层也很符合腾讯一贯的风格",
+          "liked": false,
+          "likeCount": "61",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nelvlh76e605on2530nqun7an9spco?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbey8QSzOEqIDNw-bZ2p0QRBBrUm3M_DzkFMLD28aWa8=",
+            "userId": "62e228c1000000001f017ae7",
+            "nickname": "Rick "
+          }
+        }
+      ],
+      "subCommentCursor": "694446bb000000001403472c",
+      "subCommentHasMore": true,
+      "status": 0,
+      "likeCount": "80",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABhxgn1fSQyjvX3cIQSuUAgbtfrU1QUGgbBzENTwLw4do=",
+        "userId": "5ee670c8000000000101d93f",
+        "nickname": "vicki",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pmf8ud250005nn6e340bm9v08t8600?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "美国",
+      "subCommentCount": "7",
+      "pictures": [],
+      "createTime": 1766077828000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69468760000000001702eca9",
+      "content": "不断卷基模去刷榜只会重蹈上一轮cv浪潮商汤旷视的老路，只有面向应用才有活路",
+      "likeCount": "73",
+      "subCommentCursor": "6946cd820000000016024020",
+      "pictures": [],
+      "invalid": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABUyWVP-RCflFQcNko0LJH8a-nHLgXFVaHTJKYao2jsqQ=",
+        "userId": "684500e3000000001d0173da",
+        "nickname": "小红薯6845AFC5",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pq6t4k7km0g5q2503hnasuqfv2gafg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "65e1bc90000000000500ff81",
+            "nickname": "不爱做梦的狗",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/66901b423c4fd2842f347f45.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYRahUZJ20c5luGDb6g-cCjIMJujt-lSDp2tRqZ4YooY="
+          },
+          "ipLocation": "广东",
+          "content": "赞同",
+          "showTags": [],
+          "createTime": 1766247810000,
+          "targetComment": {
+            "userInfo": {
+              "nickname": "小红薯6845AFC5",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pq6t4k7km0g5q2503hnasuqfv2gafg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUyWVP-RCflFQcNko0LJH8a-nHLgXFVaHTJKYao2jsqQ=",
+              "userId": "684500e3000000001d0173da"
+            },
+            "id": "69468760000000001702eca9"
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6946cd820000000016024020",
+          "noteId": "6943e90f000000000d00dda4",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "5"
+        }
+      ],
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "ipLocation": "北京",
+      "noteId": "6943e90f000000000d00dda4",
+      "status": 0,
+      "liked": false,
+      "createTime": 1766229857000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "694486b0000000000601a875",
+      "noteId": "6943e90f000000000d00dda4",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABkFKq7iAyuC04Z00lqAayI12wEiulVrhYdbZ5Idfv9Lc=",
+        "userId": "5fc7388c00000000010067ab",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31icbqh8e7s6g5nu772608ptb6kpilq0?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": true,
+      "subCommentCursor": "694eb15d000000000601a86d",
+      "status": 0,
+      "content": "预训练的scaling law很可能撞墙了，后面怎么搞应用可能更重要",
+      "likeCount": "8",
+      "createTime": 1766098608000,
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b800677c97ef1a2abc7e0.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABz9sNS_E54dcUOirwPC5W5xP96GW7EIjie-fjz4t_SQs=",
+            "userId": "5e99b33b0000000001001615",
+            "nickname": "Boltzmann"
+          },
+          "showTags": [],
+          "createTime": 1766764894000,
+          "ipLocation": "美国",
+          "pictures": [],
+          "id": "694eb15d000000000601a86d",
+          "content": "撞墙的是一线frontier labs，像腾讯这种可是连墙都看不到",
+          "atUsers": [],
+          "likeCount": "12",
+          "targetComment": {
+            "id": "694486b0000000000601a875",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABkFKq7iAyuC04Z00lqAayI12wEiulVrhYdbZ5Idfv9Lc=",
+              "userId": "5fc7388c00000000010067ab",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31icbqh8e7s6g5nu772608ptb6kpilq0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "6943e90f000000000d00dda4"
+        }
+      ],
+      "pictures": [],
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "广东",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1766115613000,
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [],
+          "createTime": 1766117662000,
+          "invalid": false,
+          "noteId": "6943e90f000000000d00dda4",
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABxkZuiYJLqKoLsIJaMDICEZqetUglpE-8yIkZSpBwHkc=",
+            "userId": "5899b5c77fc5b8577d826a01",
+            "nickname": "wyx",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/636798e9662e94c780f346f7.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6944c91d000000001d01f35e",
+            "userInfo": {
+              "userId": "658001c4000000001c01b88c",
+              "nickname": "沐AuAu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nqll3qa06005pc007273e4c06sni4g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKX4G0tWAv3BKKxvRl0ZkT7tqgOAe1BfYHjbCa-n4mo4="
+            }
+          },
+          "pictures": [],
+          "id": "6944d11d0000000038033cce",
+          "status": 0,
+          "content": "挺有见地的。但有个挑战是现在agent真的到了能killer app的程度了吗（虽然确实也出了高流量的app如阿福 manus，但总觉得模型测能力还需要飞越）"
+        }
+      ],
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "noteId": "6943e90f000000000d00dda4",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABKX4G0tWAv3BKKxvRl0ZkT7tqgOAe1BfYHjbCa-n4mo4=",
+        "userId": "658001c4000000001c01b88c",
+        "nickname": "沐AuAu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nqll3qa06005pc007273e4c06sni4g?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "广东",
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "6944d11d0000000038033cce",
+      "content": "我更倾向于认为，腾讯并不是放弃底层模型，而是对“底层”的定义发生了变化。对腾讯这样的公司来说，决定性因素不再是模型在benchmark 上能做到多高，而是一个模型能否在大规模、复杂、受约束的真实业务场景中被稳定地使用。在这种目标函数下，Agent 视角反而非常关键，因为它直接决定了模型推理/行动/与系统和人协作。所以从这个角度看，让ReAct的作者来操盘 LLM，并不能证明腾讯放弃模型，反而可以看成腾讯是在押注一种以动态推理和行动为核心的模型智能体协同设计的新的底层形态。",
+      "liked": false,
+      "subCommentCount": "2",
+      "id": "6944c91d000000001d01f35e",
+      "atUsers": [],
+      "likeCount": "38",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "id": "6944d5a80000000016026adf",
+      "createTime": 1766118825000,
+      "subCommentCursor": "6944f8f8000000001600e0b4",
+      "content": "xhs：还得练[doge]",
+      "liked": false,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6944d5a80000000016026adf",
+            "userInfo": {
+              "userId": "5d1c06d60000000016011f67",
+              "nickname": "泡脚盖饭!",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qhqrj6d7o705n8s0rb5i7r7egbutn0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGsNFMgHOq35FtObeupo_UMKdKaYD0_nseorspZQrOV0="
+            }
+          },
+          "pictures": [
+            {
+              "infoList": [
+                {
+                  "imageScene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251404/f6171e46f642caa6591360c94c726321/comment/1040g2h031q91kcda0a00494kpd6n0q3hkq9eemo!nc_n_webp_mw_1"
+                },
+                {
+                  "imageScene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202607251404/af8be09d8416fa042c8644197d95b539/comment/1040g2h031q91kcda0a00494kpd6n0q3hkq9eemo!nd_whlt34_webp_wm_1"
+                }
+              ],
+              "height": 1291,
+              "width": 1296,
+              "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251404/f6171e46f642caa6591360c94c726321/comment/1040g2h031q91kcda0a00494kpd6n0q3hkq9eemo!nc_n_webp_mw_1",
+              "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251404/af8be09d8416fa042c8644197d95b539/comment/1040g2h031q91kcda0a00494kpd6n0q3hkq9eemo!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "id": "6944f8f8000000001600e0b4",
+          "noteId": "6943e90f000000000d00dda4",
+          "atUsers": [],
+          "likeCount": "3",
+          "userInfo": {
+            "userId": "589e8d7082ec3971dba26871",
+            "nickname": "山野有雾灯",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63e6e16ad3d340dbe0360321.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4kguXzksxkTks_pG11sByqFYsQexaWueuQzPFgnlEFk="
+          },
+          "createTime": 1766127866000,
+          "invalid": false,
+          "status": 0,
+          "content": "",
+          "liked": false,
+          "showTags": [],
+          "ipLocation": "中国香港"
+        }
+      ],
+      "noteId": "6943e90f000000000d00dda4",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5d1c06d60000000016011f67",
+        "nickname": "泡脚盖饭!",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qhqrj6d7o705n8s0rb5i7r7egbutn0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABGsNFMgHOq35FtObeupo_UMKdKaYD0_nseorspZQrOV0="
+      },
+      "showTags": [],
+      "likeCount": "67",
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "加拿大",
+      "subCommentHasMore": false,
+      "subCommentCursor": "6944ce610000000016020e11",
+      "id": "69443c380000000038014efb",
+      "noteId": "6943e90f000000000d00dda4",
+      "content": "腾讯目标： 搞好agent ， 然后裁一半人；留下的提高效率3倍。小姚你好好去做吧",
+      "liked": false,
+      "likeCount": "33",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1766116961000,
+          "targetComment": {
+            "id": "69443c380000000038014efb",
+            "userInfo": {
+              "nickname": "2026",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvrkplvmu005nofo9008tg64tafl3o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpNrVtYGr_mtMdiYugQs60vGz5PWFCynOcRayqXZea-M=",
+              "userId": "5f0fc2400000000001007606"
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABz5pqht6_UVoDK8k43IaPGospKrpp38wjlns_D7p7WDw=",
+            "userId": "555fd874f5a2633461dd2af3",
+            "nickname": "萌萌爱吃巧克力可颂🥐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uqb55eg2q0g40lpadc78anj9rq365o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "中国香港",
+          "pictures": [],
+          "invalid": false,
+          "id": "6944ce610000000016020e11",
+          "noteId": "6943e90f000000000d00dda4",
+          "status": 0,
+          "content": "哈哈哈"
+        }
+      ],
+      "pictures": [],
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvrkplvmu005nofo9008tg64tafl3o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpNrVtYGr_mtMdiYugQs60vGz5PWFCynOcRayqXZea-M=",
+        "userId": "5f0fc2400000000001007606",
+        "nickname": "2026"
+      },
+      "showTags": [],
+      "createTime": 1766079545000,
+      "invalid": false,
+      "status": 0,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6943e90f000000000d00dda4",
+      "createTime": 1766060723000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "把消息放出去，腾讯股票就能📈 [偷笑R]",
+      "userInfo": {
+        "userId": "6690aa8f000000000f03666f",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lsvf7scku6g5pkgla7jupjfe1vd9q8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCPtY_TFyZwtcpcAZR-7uJgR1FCr6q6HDO4TQk2VdH3Y="
+      },
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "安徽",
+      "invalid": false,
+      "id": "6943f2b30000000006019ad4",
+      "liked": false,
+      "likeCount": "10",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69440ccf00000000160222ce",
+      "showTags": [],
+      "createTime": 1766067408000,
+      "noteId": "6943e90f000000000d00dda4",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABtGCZIpBa1QWiVJk1oN-lPRvMTyMWK39xlenX6UcR3Xk=",
+        "userId": "61210ddb0000000001006c85",
+        "nickname": "Wusu～",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q0umjq5ng405o911ndg8r45hniia20?imageView2/2/w/120/format/jpg"
+      },
+      "status": 0,
+      "liked": false,
+      "likeCount": "8",
+      "ipLocation": "浙江",
+      "content": "和产品团队可以由研发老大直管一个道理。战略管理层角色，更大的scope，但不一定用专精",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "pictures": [],
+          "invalid": false,
+          "id": "694453c800000000300246b3",
+          "noteId": "6943e90f000000000d00dda4",
+          "status": 0,
+          "content": "类似逻辑，张志东和汤道生二十年前的工程水平顶尖，也一步步做总裁开始带不局限于自己专精领域的团队",
+          "likeCount": "2",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABtGCZIpBa1QWiVJk1oN-lPRvMTyMWK39xlenX6UcR3Xk=",
+            "userId": "61210ddb0000000001006c85",
+            "nickname": "Wusu～",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q0umjq5ng405o911ndg8r45hniia20?imageView2/2/w/120/format/jpg"
+          },
+          "targetComment": {
+            "id": "69440ccf00000000160222ce",
+            "userInfo": {
+              "userId": "61210ddb0000000001006c85",
+              "nickname": "Wusu～",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q0umjq5ng405o911ndg8r45hniia20?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtGCZIpBa1QWiVJk1oN-lPRvMTyMWK39xlenX6UcR3Xk="
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "createTime": 1766085577000,
+          "ipLocation": "美国"
+        }
+      ],
+      "subCommentCursor": "694453c800000000300246b3",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 体验",
+  "search_item": {
+    "id": "6943e90f000000000d00dda4",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "user": {
+        "xsecToken": "ABOkfu7tyTMd0XkWPbNETbPmCf8mVN2EUebu99HLINht4=",
+        "nickName": "硬核戴老板",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/666770c8b23a33d71f351e17.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "53db4339b4c4d61da5f00b34",
+        "nickname": "硬核戴老板"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "722",
+        "collected": false,
+        "collectedCount": "372",
+        "commentCount": "149",
+        "sharedCount": "206"
+      },
+      "cover": {
+        "width": 1439,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251403/dae73373141a5f4f07a8e53c7b81a8a8/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251403/2567083fb3071d3d5713dd2f8cfee002/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nc_n_webp_prv_1",
+        "height": 1096
+      },
+      "imageList": [
+        {
+          "height": 1096,
+          "width": 1439,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/dae73373141a5f4f07a8e53c7b81a8a8/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/2567083fb3071d3d5713dd2f8cfee002/1040g00831q82r9kv7g004004961ji2pk6u61nm0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-19"
+        }
+      ]
+    },
+    "xsecToken": "ABxLR-OQ7BBvJIxFRj7ATNJUYJlGxi3_AX73kR9bD_AgY=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6943e90f000000000d00dda4"
+  }
+}

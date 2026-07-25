@@ -1,0 +1,58 @@
+{
+  "note_id": "694ea133000000001d03e3bc",
+  "url": "https://www.xiaohongshu.com/explore/694ea133000000001d03e3bc?xsec_token=ABgsaB5tJXQ4rFPaORo1mtYfD14uJ2swpRy3J_48eXfLs=",
+  "fetched_at": 1784960064.2270074,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "敏感case北京O1面签dp",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "大厂rs，ai相关，之前美本cs专业，cv/scholar/主页/linkedin两周前全做了脱敏，有惊无险的没被check\n\t\nQ: 你为什么办O1？\nA: 我符合xxx条件，并且我要去工作\n(然后签证官拿着我的护照就进去找了三个同事来回聊了得有10分钟)\nQ: 你的工作涉及到ML/AI吗？\nA：我只使用AI不做训练，我平时的工作内容是xxx，比如在最近的项目里xxx，我带了resume你要看吗？\n(先说不用，又说actually yes然后拿走了cv）\nQ：你publication里这个vision language model是什么？\nA：（暗叫不好，忘了删这个了）简单介绍什么是VLM，并表示我这是个trick没有大规模训练，而且应用范围小\nQ：你过了\n\t\n感觉本来要check的但是看完我主动提供的cv给过了，运气确实不错。另外提醒大家**一定要邮寄！！**我选的pickup发现很坑极限改的邮寄还是担心了几天",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "o1还要脱敏吗 那如果真搞AI还真有可能面签被拒吗[失望R]",
+      "sourceRef": "comment:694ea5b800000000160241f4",
+      "commentId": "694ea5b800000000160241f4",
+      "likes": 1,
+      "author": "ㅤ"
+    },
+    {
+      "type": "sub_comment",
+      "text": "避免被check啊",
+      "sourceRef": "comment:694eab47000000001502e368",
+      "commentId": "694eab47000000001502e368",
+      "likes": 0,
+      "author": "runningaway"
+    },
+    {
+      "type": "comment",
+      "text": "怎么脱敏？",
+      "sourceRef": "comment:694ef7f9000000001403e99f",
+      "commentId": "694ef7f9000000001403e99f",
+      "likes": 2,
+      "author": "Pathway"
+    },
+    {
+      "type": "comment",
+      "text": "所以是不做training就没事吗[看R]",
+      "sourceRef": "comment:694f0809000000000f01910e",
+      "commentId": "694f0809000000000f01910e",
+      "likes": 0,
+      "author": "会有猫的a"
+    },
+    {
+      "type": "sub_comment",
+      "text": "也不一定",
+      "sourceRef": "comment:6950074f00000000060197c4",
+      "commentId": "6950074f00000000060197c4",
+      "likes": 0,
+      "author": "runningaway"
+    }
+  ]
+}

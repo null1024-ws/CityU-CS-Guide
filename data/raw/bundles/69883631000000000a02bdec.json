@@ -1,0 +1,130 @@
+{
+  "note_id": "69883631000000000a02bdec",
+  "url": "https://www.xiaohongshu.com/explore/69883631000000000a02bdec?xsec_token=ABWk3xhJS4ggNC2y2V9M8lmD6k1PzrtJ_RfId1_7IUZgI=",
+  "fetched_at": 1784959984.8184128,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "推广一下自己第一个VLN作品！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "论文标题：Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation\n论文链接：https://arxiv.org/abs/2601.21751\n代码链接：https://github.com/shannanshouyin/DGNav\n\t\n发现并解决核心问题：首次明确指出VLN-CE中拓扑规划方法的粒度刚性（Granularity Rigidity） 问题，即固定几何阈值导致简单区域节点过采样、复杂高不确定性区域欠采样的矛盾，提出DGNav框架并设计场景感知自适应策略，基于航点不确定性动态调制图构建阈值，首次实现了图粒度的自适应调控，解决了复杂区域节点稀疏与简单区域计算冗余的冲突。\n\t\n提出多模态动态图Transformer：摒弃传统静态几何连通性设计，融合视觉语义、指令相关性和几何约束三种模态信息重构图的边权重，抑制拓扑噪声，显著提升路径规划中对语言指令的贴合度，解决了现有方法的“导航近视”问题。\n\t\n开展全面实验验证：在R2R-CE和RxR-CE两大VLN-CE基准数据集上完成大量实验，证明DGNav相比端到端学习和传统显式地图方法，在导航精度、效率和泛化能力上均建立新基准；同时探究了多种先进训练策略，分析了隐式几何解耦对性能上界的影响，为复杂场景下提升导航鲁棒性提供了实证依据。\n\t\n实现效率与安全性的最优平衡：消融实验验证了DGNav在导航效率和安全探索之间达到了最优权衡，且动态机制引入的计算开销可忽略不计，兼具实用性和性能优势。\n\t\n期待和各位专家同行交流讨论！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "您好，26年2之后似乎evalai平台中的r2r-ce、rxr-ce挑战关闭了，请问还有什么办法进行验证呢？",
+      "sourceRef": "comment:69ca4e720000000018022056",
+      "commentId": "69ca4e720000000018022056",
+      "likes": 0,
+      "author": "yzxtz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "vlnce本身自带val-unseen数据集，也是训练时未见过的指令",
+      "sourceRef": "comment:69ca91b6000000000203568e",
+      "commentId": "69ca91b6000000000203568e",
+      "likes": 1,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "这个环境能提到3.8吗，因为ETPNav是3.6的版本",
+      "sourceRef": "comment:69bfda7c0000000030024c55",
+      "commentId": "69bfda7c0000000030024c55",
+      "likes": 0,
+      "author": "WEIRDO"
+    },
+    {
+      "type": "sub_comment",
+      "text": "3.6,3.7,3.8都可以",
+      "sourceRef": "comment:69c0c856000000000c03060d",
+      "commentId": "69c0c856000000000c03060d",
+      "likes": 1,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "强！很少见的不基于vlm进行finetune，自己搭个模型进行training的方法",
+      "sourceRef": "comment:69ab010b0000000015015505",
+      "commentId": "69ab010b0000000015015505",
+      "likes": 0,
+      "author": "鸿小毅"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都是算力不足导致的[哭惹R]",
+      "sourceRef": "comment:69aba706000000000600b7a2",
+      "commentId": "69aba706000000000600b7a2",
+      "likes": 0,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "好强！看到主页 11 月份还在复现其他工作，1 月就挂 arxiv 了！强！快！狠！",
+      "sourceRef": "comment:6988a20a000000000800de4d",
+      "commentId": "6988a20a000000000800de4d",
+      "likes": 0,
+      "author": "我要欧泡我要欧泡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "还需努力[害羞R]",
+      "sourceRef": "comment:6988a36200000000040031fc",
+      "commentId": "6988a36200000000040031fc",
+      "likes": 0,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "强[棒R]刚入坑vln，向大佬学习[点赞R]",
+      "sourceRef": "comment:69ab0f5c000000000c015512",
+      "commentId": "69ab0f5c000000000c015512",
+      "likes": 0,
+      "author": "PPPXY"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢！随时交流[派对R]",
+      "sourceRef": "comment:69aba71c000000000600bccf",
+      "commentId": "69aba71c000000000600bccf",
+      "likes": 0,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "interesting work！",
+      "sourceRef": "comment:6988653d00000000050325d2",
+      "commentId": "6988653d00000000050325d2",
+      "likes": 0,
+      "author": "小小小盐"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Thanks[派对R]",
+      "sourceRef": "comment:698865f6000000000600811a",
+      "commentId": "698865f6000000000600811a",
+      "likes": 0,
+      "author": "pnt1024"
+    },
+    {
+      "type": "comment",
+      "text": "大佬牛犇",
+      "sourceRef": "comment:69b620ef000000000d03ff83",
+      "commentId": "69b620ef000000000d03ff83",
+      "likes": 0,
+      "author": "11"
+    },
+    {
+      "type": "comment",
+      "text": "哎我刚复现了你的就在小红书上刷到你了，这么巧吗[偷笑R]",
+      "sourceRef": "comment:69ac161e0000000015008188",
+      "commentId": "69ac161e0000000015008188",
+      "likes": 0,
+      "author": "。"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_id": "691c9cd4000000000d03697e",
+  "url": "https://www.xiaohongshu.com/explore/691c9cd4000000000d03697e?xsec_token=ABAjt2LhVvyodyMlXUEYkfWZwgTJP3GBKfLqIiZKc4vUo=",
+  "fetched_at": 1784971543.7821338,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🇭🇰CUHK CSE 26Fall正式批线下笔面经",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "线下笔试1h+面试20min，因为笔试题目不允许泄露，所以只写每道题的范围\n1.线性无关  2.概率题\n3.排列组合  4.行阶梯式\n5.复杂度       6.排序\n7.写代码       8.算法设计\n\t\n面试官是两个教授，按照惯例先self-intro，然后问笔试的题目，最后时间不多了就只问了两个数学问题\n1.写出Gaussian distribution。有两个这种分布的random variable X和Y，问X+Y和XY是Gaussian distribution吗\n2.写出Taylor formula。问basic idea，以及公式的使用对函数的要求\n可能因为本人是物理系本硕所以没问代码和CS的东西[笑哭R]btw面试官发出的is it true灵魂质问真的很可怕😭\n\t\n准备过程中复习了那两门数学（找教材过遍英文）以及学了数据结构和算法分析（中视频+英教材），但是没能来得及看代码实现\n#CUHK[话题]# #港中文[话题]# #PhD[话题]# #CS[话题]# #计算机科学[话题]# #面试[话题]# #正式批[话题]# #笔试[话题]# #量子计算[话题]# #面经[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问只有phd需要笔试嘛？还是mphil也要的",
+      "sourceRef": "comment:69616ce80000000016021493",
+      "commentId": "69616ce80000000016021493",
+      "likes": 0,
+      "author": "lxzzzzzzzz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看program吧，申的是这个program那就一视同仁",
+      "sourceRef": "comment:6961cfbb000000001600f1e3",
+      "commentId": "6961cfbb000000001600f1e3",
+      "likes": 1,
+      "author": "Deep Space"
+    },
+    {
+      "type": "comment",
+      "text": "笔试可以waive吗",
+      "sourceRef": "comment:6924f426000000001403f78c",
+      "commentId": "6924f426000000001403f78c",
+      "likes": 0,
+      "author": "小红薯641CEFC9"
+    },
+    {
+      "type": "sub_comment",
+      "text": "特别优秀的CS专业的可能可以",
+      "sourceRef": "comment:69250e780000000016021a20",
+      "commentId": "69250e780000000016021a20",
+      "likes": 0,
+      "author": "Deep Space"
+    },
+    {
+      "type": "comment",
+      "text": "请问这个面试需要带打印的材料吗？比如成绩单啥的。",
+      "sourceRef": "comment:6984b38f00000000050397fe",
+      "commentId": "6984b38f00000000050397fe",
+      "likes": 0,
+      "author": "yh"
+    },
+    {
+      "type": "comment",
+      "text": "正常批的也都需要笔试？",
+      "sourceRef": "comment:6921fc070000000030027dd8",
+      "commentId": "6921fc070000000030027dd8",
+      "likes": 3,
+      "author": "木梓"
+    }
+  ]
+}

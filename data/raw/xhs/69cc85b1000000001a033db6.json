@@ -1,0 +1,485 @@
+{
+  "note_id": "69cc85b1000000001a033db6",
+  "url": "https://www.xiaohongshu.com/explore/69cc85b1000000001a033db6?xsec_token=ABDKRLGvlFixdLqJzUTv5ob5GHMO_ujARded5Yngmj7uk=",
+  "fetched_at": 1784959890.5232894,
+  "note": {
+    "xsecToken": "ABDKRLGvlFixdLqJzUTv5ob5GHMO_ujARded5Yngmj7uk=",
+    "title": "我将收回对哥大CS教学质量的质疑",
+    "interactInfo": {
+      "likedCount": "577",
+      "collected": false,
+      "collectedCount": "155",
+      "shareCount": "76",
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "36",
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "6198f6380000000001002175",
+        "name": "claude",
+        "type": "topic"
+      },
+      {
+        "id": "5c447457000000000e016796",
+        "name": "哥大",
+        "type": "topic"
+      }
+    ],
+    "time": 1775011249000,
+    "lastUpdateTime": 1775011249000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "这才是我心目中cs课应该讨论的\n而不是用20年前的syllabus然后老师全程念ppt还记attendence的某必修课\n\t\n#claude[话题]# #哥大[话题]#",
+    "user": {
+      "userId": "5ffbeb3e0000000001003aed",
+      "nickname": "木木木风",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5ffbeb3e0000000001003aed.jpg",
+      "xsecToken": "ABZ5MPk1xjMshcqQWpaFZEybrDY15FRRXGjg5zz1kzQr0="
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251411/0db66359d2974a403b36d0fe13298ea7/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "height": 2436,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251411/1150dbb1e3f031d8600d390c9e5a3559/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg",
+        "width": 1125,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251411/0db66359d2974a403b36d0fe13298ea7/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251411/1150dbb1e3f031d8600d390c9e5a3559/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "atUserList": [],
+    "noteId": "69cc85b1000000001a033db6"
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "likeCount": "7",
+      "showTags": [],
+      "ipLocation": "美国",
+      "invalid": false,
+      "id": "69cca721000000000d0127be",
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "content": "想请问下这是哪节课/prof？谢谢",
+      "userInfo": {
+        "userId": "5b1a7beae8ac2b70e719b67e",
+        "nickname": "m0m0",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31to9qp4sn8004a62eqtuldjum8a89l0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfv87JWd26DxgH1nNwugYj7YM1xuWF7OPh5y_szD151Q="
+      },
+      "subComments": [
+        {
+          "noteId": "69cc85b1000000001a033db6",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1775020961000,
+          "targetComment": {
+            "id": "69cca721000000000d0127be",
+            "userInfo": {
+              "userId": "5b1a7beae8ac2b70e719b67e",
+              "nickname": "m0m0",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31to9qp4sn8004a62eqtuldjum8a89l0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfv87JWd26DxgH1nNwugYj7YM1xuWF7OPh5y_szD151Q="
+            }
+          },
+          "id": "69ccaba00000000015003671",
+          "content": "zhuo zhang/ ai for security",
+          "likeCount": "41",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABUvtBt2zM7MT-NGQgYuXSfZ70ia_AiR-fxzNTfStztcU=",
+            "userId": "5ffbeb3e0000000001003aed",
+            "nickname": "木木木风",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5ffbeb3e0000000001003aed.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "subCommentCount": "9",
+      "liked": false,
+      "createTime": 1775019809000,
+      "subCommentCursor": "69ccaba00000000015003671",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "userInfo": {
+        "userId": "5ae6c281e8ac2b3513edb327",
+        "nickname": "布洛克-小滨橘版",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6233ffa3d16b1e56cef7483a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIQ-LMD8rW8ouuXIpMsjX8HIAJVxQnAnBZyETBOp8-cw="
+      },
+      "createTime": 1775169335000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "content": "我很respect这种虽然学生讲，但是老师要提前严格把关的模式。这前期的交流讨论和指导修改的工作，也许比教授纯自己准备课件还麻烦",
+      "likeCount": "65",
+      "atUsers": [],
+      "showTags": [],
+      "id": "69ceef36000000001d00a205",
+      "liked": false,
+      "ipLocation": "美国",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1775040992000,
+      "ipLocation": "上海",
+      "subCommentCount": "3",
+      "subCommentCursor": "69cd656d000000000503ab3e",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "632bf819000000002303ba44",
+        "nickname": "家人们谁懂啊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sf0vhqv5k005opbv0covei4rl6nasg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMtDD06aVclQAmwbYrQrVTwNvqeNb4Sowl3_l95dClfY="
+      },
+      "subCommentHasMore": true,
+      "content": "所以说第二个说的必修课是哪节[doge]",
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "69cd656d000000000503ab3e",
+          "noteId": "69cc85b1000000001a033db6",
+          "content": "fundies or ap",
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABNuM8PSiZ-CrJ-OkzG0LgPoyh9ie8QLxVh_SmtIotHZo=",
+            "userId": "614164f3000000001f03f3e4",
+            "nickname": "yyyiii",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/62601b0a62dc67c36cb9a967.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "createTime": 1775068526000,
+          "targetComment": {
+            "id": "69ccf9df0000000009035d9a",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sf0vhqv5k005opbv0covei4rl6nasg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMtDD06aVclQAmwbYrQrVTwNvqeNb4Sowl3_l95dClfY=",
+              "userId": "632bf819000000002303ba44",
+              "nickname": "家人们谁懂啊"
+            }
+          }
+        }
+      ],
+      "id": "69ccf9df0000000009035d9a",
+      "likeCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69cd45600000000015007919",
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "content": "老師自己懶得看 讓學生present 也太懶了吧[笑哭R]",
+      "userInfo": {
+        "userId": "6119c01b0000000001001228",
+        "nickname": "海马",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6119c01b0000000001001228.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoo4PNHtSnp6nKUKDKJmEw5xlZcgRkpao-zMrfwRP85k="
+      },
+      "subCommentCount": "1",
+      "subCommentCursor": "69cd464600000000140093ca",
+      "likeCount": "14",
+      "showTags": [],
+      "createTime": 1775060320000,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "69cd45600000000015007919",
+            "userInfo": {
+              "xsecToken": "ABoo4PNHtSnp6nKUKDKJmEw5xlZcgRkpao-zMrfwRP85k=",
+              "userId": "6119c01b0000000001001228",
+              "nickname": "海马",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6119c01b0000000001001228.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "69cd464600000000140093ca",
+          "status": 0,
+          "content": "额我们这节课就不是lecture的模式...之前上课也是做project+学生讲paper",
+          "liked": false,
+          "likeCount": "27",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABUvtBt2zM7MT-NGQgYuXSfZ70ia_AiR-fxzNTfStztcU=",
+            "userId": "5ffbeb3e0000000001003aed",
+            "nickname": "木木木风",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5ffbeb3e0000000001003aed.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1775060551000,
+          "noteId": "69cc85b1000000001a033db6",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国"
+        }
+      ],
+      "invalid": false,
+      "atUsers": [],
+      "ipLocation": "美国",
+      "liked": false,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "67aa9eec000000001b034ddf",
+        "nickname": "🍗",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vegkjpf2q005ptajrm6ujev3l90vgg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVxC1PCQ9nnp2lQczfVKEuKNFtfGeaOeGvmuRze3aFz8="
+      },
+      "subCommentHasMore": false,
+      "ipLocation": "法国",
+      "subComments": [],
+      "subCommentCursor": "",
+      "content": "毕竟学生是客户",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "id": "69cdc4ab00000000150080fb",
+      "createTime": 1775092907000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABnYZSV3I9bEnas4u_rkCo-8X_bFEy4gWoFq8Bo3gjoDw=",
+        "userId": "635fccbf000000001901cc30",
+        "nickname": "Catcchy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nnhsen07k6g5oqvpivmbj1gfkjuke0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1775067417000,
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "69cc85b1000000001a033db6",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "id": "69cd6119000000001501357e",
+      "status": 0,
+      "showTags": [],
+      "subComments": [],
+      "content": "可以旁听吗",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "id": "69cccf950000000014008ed5",
+      "subComments": [],
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "content": "真好啊真好啊",
+      "userInfo": {
+        "userId": "548bf0e8b4c4d63025dcc554",
+        "nickname": "emmmmmmmmmm",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v0m4t9a2g00400sm2oehhakjm66kdg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABAK6BlAgTfcGs_S_jR1lK7WulS1fH0BgiMdaiXjV5sKQ="
+      },
+      "createTime": 1775030165000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "69cc85b1000000001a033db6",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "createTime": 1775278352000,
+      "subCommentCount": "0",
+      "id": "69d09910000000000c030465",
+      "userInfo": {
+        "xsecToken": "ABFRzzTBNOOEKO9TT-DDkda5hsHjCtNwQg-w3sQ9ByYog=",
+        "userId": "63e4c13700000000260067ce",
+        "nickname": "这路口每小时会过去多少人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63e8fc67eb69cbc60967344d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "flipped classroom，以前做过这个研究，但是遇到糊弄的学生工作量会加倍",
+      "showTags": [],
+      "ipLocation": "北京",
+      "noteId": "69cc85b1000000001a033db6",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5f65a238000000000100472c",
+        "nickname": "在学习的皮卡丘",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tl7i7t5km6g5nr5k8s08hpc6fdfi28?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByuY4mIjzaoDwONpVhnDbdedT3Gs1krdx7tq2ZupAI9Q="
+      },
+      "createTime": 1776070232000,
+      "ipLocation": "英国",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "id": "69dcae58000000000103c91a",
+      "noteId": "69cc85b1000000001a033db6",
+      "subCommentCursor": "",
+      "content": "太牛了啊",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69db74360000000015008710",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "英国",
+      "subCommentCursor": "",
+      "noteId": "69cc85b1000000001a033db6",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "content": "真好老师",
+      "userInfo": {
+        "userId": "65d2c2e700000000050338bf",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dp9hnan0s005peiobjhee5v2p0gsrg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWSPXnGqqcmY3PGXL7S5PL3mriO2efjXsO9kmhpuTWoI="
+      },
+      "showTags": [],
+      "createTime": 1775989814000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 视觉语言",
+  "search_item": {
+    "id": "69cc85b1000000001a033db6",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "我将收回对哥大CS教学质量的质疑",
+      "user": {
+        "xsecToken": "ABCN1kYf0TOg5Br11VeZ3tUJIYQ3OD_4z0tAQIG9MIDUY=",
+        "nickName": "木木木风",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5ffbeb3e0000000001003aed.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5ffbeb3e0000000001003aed",
+        "nickname": "木木木风"
+      },
+      "interactInfo": {
+        "commentCount": "36",
+        "sharedCount": "76",
+        "liked": false,
+        "likedCount": "577",
+        "collected": false,
+        "collectedCount": "155"
+      },
+      "cover": {
+        "height": 2436,
+        "width": 1125,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251411/b0351fe7326697a3b95b1b58c923a713/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251411/92d715cdbcc4b06508aacb39373c8050/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251411/b0351fe7326697a3b95b1b58c923a713/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251411/92d715cdbcc4b06508aacb39373c8050/notes_pre_post/1040g3k831uddcenk2gl05nvrtcv08endejkopeg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2436,
+          "width": 1125
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-01"
+        }
+      ]
+    },
+    "xsecToken": "ABDKRLGvlFixdLqJzUTv5ob5GHMO_ujARded5Yngmj7uk=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "69cc85b1000000001a033db6"
+  }
+}

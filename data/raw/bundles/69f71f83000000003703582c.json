@@ -1,0 +1,52 @@
+{
+  "note_id": "69f71f83000000003703582c",
+  "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+  "fetched_at": 1784961637.5690768,
+  "course_codes": [
+    "CS6290"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS6290 课程锐评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "首先这个课程会在 semester b 和 summer term 开课，授课的老师人也比较nice，比较推崇你在课程中使用 AI 进行辅助学习（会教 spec development 开发项目\n\t\n其次课程的平时分有：\n- 四次 paper 阅读 占比 20%\n- 四次随堂 quiz 占比20%\n- 小组项目 20%\n\t\n期末考试开卷，可带两张A4手写笔记。占比40%\n\t\n考试内容回忆大概如下：\n\t\n五个部分\n第一部分是 十道概念题 每个3分\ncommon input ownership and pay join\nNothing at stake problem\nOver collateralization\nHow to defense sandwich attack\nMPC ceremony\nCasper FFG slashing\ntrusted setup\n\t\n第二部分 monero 概念及理解\n四个小问\n\t\n第三部 AMM 概念及计算 15分\n1.AMM definition and compare to ordered book exchange\n2.calculuatio\n3.impermanent loss\n\t\n第四部分是consensus\n首先是Pos比Pow的三个优势\n\t\n第五部分是rollup这块\nOptimistic rollup and ZK rollup 优劣势\nzcash 的zkp主要的技术实现的困难是什么\n使用这个之后能不能防MEV\n\t\n总体来即使是0基础 考前把PoS/AMM/Rollup/Ethurerm这块的知识理解清楚混个及格没有问题\n（图二是历年的平均分数\n#cs6290[话题]# #港硕[话题]# #留学生考试[话题]# #计算机[话题]# #cityu[话题]# #cs[话题]# #期末备考[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "博主想问下quiz是必须到场才能做嘛[害羞R]",
+      "sourceRef": "comment:6a26cc99000000002800ab5e",
+      "commentId": "6a26cc99000000002800ab5e",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "远程就可以做",
+      "sourceRef": "comment:6a26d09b000000002900c7c5",
+      "commentId": "6a26d09b000000002900c7c5",
+      "likes": 0,
+      "author": "efan404"
+    },
+    {
+      "type": "comment",
+      "text": "博主，你好，很感谢你这篇6290的帖子对我的帮助。其实我想请问一下，您那里还有最后开卷的cheatsheet吗？想看看你的，准备一下考试，非常感谢你，祝你生活愉快，天天开心！",
+      "sourceRef": "comment:6a5dc1f7000000002b02a9b7",
+      "commentId": "6a5dc1f7000000002b02a9b7",
+      "likes": 0,
+      "author": "洋葱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[笑哭R]不好意思 cheatsheet我并没有留存下来呢 祝你好运",
+      "sourceRef": "comment:6a5dd3cd0000000015011f3a",
+      "commentId": "6a5dd3cd0000000015011f3a",
+      "likes": 0,
+      "author": "efan404"
+    }
+  ]
+}

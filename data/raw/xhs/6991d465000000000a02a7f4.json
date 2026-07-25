@@ -1,0 +1,61 @@
+{
+  "note_id": "6991d465000000000a02a7f4",
+  "url": "https://www.xiaohongshu.com/explore/6991d465000000000a02a7f4?xsec_token=ABvpQympu_qja__N2x4nFvOnF1N3rIIYm7HGHIeLot7LU=",
+  "fetched_at": 1784960124.914341,
+  "search_query": "CS6520 城大",
+  "search_item": {
+    "id": "6991d465000000000a02a7f4",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "26fall港城申请",
+      "user": {
+        "xsecToken": "ABvjjehNhc59GKt4eYModi-3RefUplqDMN5uCujE3Z3y8=",
+        "nickName": "一只眠羊🎀",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6314c35541bab79957a4ade1.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5d2f21d3000000001101e3b9",
+        "nickname": "一只眠羊🎀"
+      },
+      "interactInfo": {
+        "commentCount": "27",
+        "sharedCount": "7",
+        "liked": false,
+        "likedCount": "14",
+        "collected": false,
+        "collectedCount": "5"
+      },
+      "cover": {
+        "height": 760,
+        "width": 1180,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251415/30c44d66b544ca6baf096bc91788b0f3/1040g00831sk371j2l6005n9f479kbotps1pcir0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251415/0ce794370b6914b38aaf92b990e9438b/1040g00831sk371j2l6005n9f479kbotps1pcir0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1180,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251415/30c44d66b544ca6baf096bc91788b0f3/1040g00831sk371j2l6005n9f479kbotps1pcir0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251415/0ce794370b6914b38aaf92b990e9438b/1040g00831sk371j2l6005n9f479kbotps1pcir0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 760
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "02-15"
+        }
+      ]
+    },
+    "xsecToken": "ABvpQympu_qja__N2x4nFvOnF1N3rIIYm7HGHIeLot7LU=",
+    "index": 9,
+    "exposed": true,
+    "trackId": "6991d465000000000a02a7f4"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "note_id": "6a548272000000000702e7a9",
+  "url": "https://www.xiaohongshu.com/explore/6a548272000000000702e7a9?xsec_token=AB9TxaU_WPxUqsFW90y8ra6xWPvh_QbxHZKeNHgT9ZSSo=",
+  "fetched_at": 1784961743.963732,
+  "search_query": "CS6520 避雷",
+  "search_item": {
+    "id": "6a548272000000000702e7a9",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "有没有学长学姐现身说法",
+      "user": {
+        "nickName": "自私懒惰无敌mo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n1rji4lmg205nvmnrt08gdjskd2980?imageView2/2/w/80/format/jpg",
+        "userId": "5ff6befa00000000010041b3",
+        "nickname": "自私懒惰无敌mo",
+        "xsecToken": "ABTKIMLGU2OxfRA1ijaHD_J28W-TEzqMzxQhBg2KBklrc="
+      },
+      "interactInfo": {
+        "likedCount": "16",
+        "collected": false,
+        "collectedCount": "33",
+        "commentCount": "19",
+        "sharedCount": "5",
+        "liked": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251442/ba8b14326e668286b9ace4a84e8f7c34/1040g008322i6tsjo7k5g5nvmnrt08gdjrb6s268!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251442/df25187dc94423334b9e9d72442d5f83/1040g008322i6tsjo7k5g5nvmnrt08gdjrb6s268!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/ba8b14326e668286b9ace4a84e8f7c34/1040g008322i6tsjo7k5g5nvmnrt08gdjrb6s268!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251442/df25187dc94423334b9e9d72442d5f83/1040g008322i6tsjo7k5g5nvmnrt08gdjrb6s268!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-13"
+        }
+      ]
+    },
+    "xsecToken": "AB9TxaU_WPxUqsFW90y8ra6xWPvh_QbxHZKeNHgT9ZSSo=",
+    "index": 10,
+    "exposed": false,
+    "trackId": "6a548272000000000702e7a9"
+  }
+}

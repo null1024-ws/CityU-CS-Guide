@@ -1,0 +1,404 @@
+{
+  "note_id": "691c9cd4000000000d03697e",
+  "url": "https://www.xiaohongshu.com/explore/691c9cd4000000000d03697e?xsec_token=ABAjt2LhVvyodyMlXUEYkfWZwgTJP3GBKfLqIiZKc4vUo=",
+  "fetched_at": 1784971543.7821338,
+  "note": {
+    "xsecToken": "ABAjt2LhVvyodyMlXUEYkfWZwgTJP3GBKfLqIiZKc4vUo=",
+    "noteId": "691c9cd4000000000d03697e",
+    "title": "🇭🇰CUHK CSE 26Fall正式批线下笔面经",
+    "user": {
+      "xsecToken": "ABVZwM3lbwU7aD4c_0UVg1bpgBTL8yYrm5hMTeFQQeC4c=",
+      "userId": "6516896f000000002302597c",
+      "nickname": "Deep Space",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0"
+    },
+    "tagList": [
+      {
+        "name": "CUHK",
+        "type": "topic",
+        "id": "6117ab8e000000000100ae0d"
+      },
+      {
+        "name": "港中文",
+        "type": "topic",
+        "id": "5d8882bf0000000002002f46"
+      },
+      {
+        "type": "topic",
+        "id": "5dfb889600000000010090be",
+        "name": "PhD"
+      },
+      {
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5be1be5ab6fd09000160692c",
+        "name": "面试"
+      },
+      {
+        "id": "621846cf0000000001008d04",
+        "name": "正式批",
+        "type": "topic"
+      },
+      {
+        "id": "5c0fc9b937c6ea00018007b4",
+        "name": "笔试",
+        "type": "topic"
+      },
+      {
+        "id": "610bb0120000000001009f98",
+        "name": "量子计算",
+        "type": "topic"
+      },
+      {
+        "id": "5c12185d5237920001d589d9",
+        "name": "面经",
+        "type": "topic"
+      }
+    ],
+    "time": 1763482836000,
+    "lastUpdateTime": 1763483335000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "线下笔试1h+面试20min，因为笔试题目不允许泄露，所以只写每道题的范围\n1.线性无关  2.概率题\n3.排列组合  4.行阶梯式\n5.复杂度       6.排序\n7.写代码       8.算法设计\n\t\n面试官是两个教授，按照惯例先self-intro，然后问笔试的题目，最后时间不多了就只问了两个数学问题\n1.写出Gaussian distribution。有两个这种分布的random variable X和Y，问X+Y和XY是Gaussian distribution吗\n2.写出Taylor formula。问basic idea，以及公式的使用对函数的要求\n可能因为本人是物理系本硕所以没问代码和CS的东西[笑哭R]btw面试官发出的is it true灵魂质问真的很可怕😭\n\t\n准备过程中复习了那两门数学（找教材过遍英文）以及学了数据结构和算法分析（中视频+英教材），但是没能来得及看代码实现\n#CUHK[话题]# #港中文[话题]# #PhD[话题]# #CS[话题]# #计算机科学[话题]# #面试[话题]# #正式批[话题]# #笔试[话题]# #量子计算[话题]# #面经[话题]#",
+    "interactInfo": {
+      "collectedCount": "48",
+      "commentCount": "8",
+      "collected": false,
+      "shareCount": "22",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "49"
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251725/e358d245c1ba1bd3d29e29b8ba38bec5/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nd_prv_wlteh_jpg_3",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251725/e358d245c1ba1bd3d29e29b8ba38bec5/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251725/06575559bae9a910f4f1739cc9d6eef5/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251725/06575559bae9a910f4f1739cc9d6eef5/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0",
+        "height": 2072,
+        "width": 1260,
+        "url": ""
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "id": "69616ce80000000016021493",
+      "showTags": [],
+      "createTime": 1767992552000,
+      "ipLocation": "江苏",
+      "noteId": "691c9cd4000000000d03697e",
+      "status": 0,
+      "content": "请问只有phd需要笔试嘛？还是mphil也要的",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5879a62e5e87e7139ea7ba68",
+        "nickname": "lxzzzzzzzz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpuIcYSvRuwalXkxqoc67--hRuspyLNAIazMydq99n4g="
+      },
+      "subCommentCount": "1",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "userInfo": {
+            "xsecToken": "AB1h2ldNeCxQRz3VE2hId8rF_h0ke2nIOBvauRM0kwUqs=",
+            "userId": "6516896f000000002302597c",
+            "nickname": "Deep Space",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "69616ce80000000016021493",
+            "userInfo": {
+              "userId": "5879a62e5e87e7139ea7ba68",
+              "nickname": "lxzzzzzzzz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpuIcYSvRuwalXkxqoc67--hRuspyLNAIazMydq99n4g="
+            }
+          },
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768017851000,
+          "ipLocation": "广东",
+          "id": "6961cfbb000000001600f1e3",
+          "noteId": "691c9cd4000000000d03697e",
+          "status": 0,
+          "content": "看program吧，申的是这个program那就一视同仁"
+        }
+      ],
+      "subCommentCursor": "6961cfbb000000001600f1e3",
+      "subCommentHasMore": false,
+      "liked": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "641ca76d0000000011020741",
+        "nickname": "小红薯641CEFC9",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a6cpkid6o005p0sktmkc1q1efsdoh0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6n3YCKThcNFi-Oe2g6_l_ahmzaFgEcxSD8CGMAVhhuo="
+      },
+      "createTime": 1764029478000,
+      "id": "6924f426000000001403f78c",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "ipLocation": "广东",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6924f426000000001403f78c",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB6n3YCKThcNFi-Oe2g6_l_ahmzaFgEcxSD8CGMAVhhuo=",
+              "userId": "641ca76d0000000011020741",
+              "nickname": "小红薯641CEFC9",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a6cpkid6o005p0sktmkc1q1efsdoh0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "69250e780000000016021a20",
+          "noteId": "691c9cd4000000000d03697e",
+          "content": "特别优秀的CS专业的可能可以",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB1h2ldNeCxQRz3VE2hId8rF_h0ke2nIOBvauRM0kwUqs=",
+            "userId": "6516896f000000002302597c",
+            "nickname": "Deep Space",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1764036216000
+        }
+      ],
+      "subCommentCursor": "69250e780000000016021a20",
+      "invalid": false,
+      "noteId": "691c9cd4000000000d03697e",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "英国",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subCommentCount": "1",
+      "content": "笔试可以waive吗",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "请问这个面试需要带打印的材料吗？比如成绩单啥的。",
+      "noteId": "691c9cd4000000000d03697e",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCursor": "6984b5a6000000000c00b415",
+      "id": "6984b38f00000000050397fe",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6516896f000000002302597c",
+            "nickname": "Deep Space",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1h2ldNeCxQRz3VE2hId8rF_h0ke2nIOBvauRM0kwUqs="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1770304935000,
+          "content": "不用",
+          "liked": false,
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABItMrnhdk8M4kz4pt3a0z5f6wyIq8MtGr5jraISVT6uk=",
+              "userId": "64376b230000000029015606",
+              "nickname": "yh",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q58fhb6noe05p1ndchqalg6v5bb6t0?imageView2/2/w/120/format/jpg"
+            },
+            "id": "6984b38f00000000050397fe"
+          },
+          "invalid": false,
+          "id": "6984b5a6000000000c00b415",
+          "noteId": "691c9cd4000000000d03697e",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "64376b230000000029015606",
+        "nickname": "yh",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q58fhb6noe05p1ndchqalg6v5bb6t0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABItMrnhdk8M4kz4pt3a0z5f6wyIq8MtGr5jraISVT6uk="
+      },
+      "createTime": 1770304400000,
+      "ipLocation": "广东",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "content": "正常批的也都需要笔试？",
+      "atUsers": [],
+      "subCommentCursor": "69226d560000000016022c46",
+      "likeCount": "3",
+      "userInfo": {
+        "userId": "687a66c4000000001e00826e",
+        "nickname": "木梓",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3214l9o45nu5g5q3qcr27h0jennlk490?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiCuB0zy5N0ZEEgIIBD-HglfC8fcecdv0LDFjllJyYf8="
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "69226d560000000016022c46",
+          "status": 0,
+          "content": "嗯",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1763863895000,
+          "ipLocation": "广东",
+          "noteId": "691c9cd4000000000d03697e",
+          "userInfo": {
+            "userId": "6516896f000000002302597c",
+            "nickname": "Deep Space",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1h2ldNeCxQRz3VE2hId8rF_h0ke2nIOBvauRM0kwUqs="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6921fc070000000030027dd8",
+            "userInfo": {
+              "userId": "687a66c4000000001e00826e",
+              "nickname": "木梓",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3214l9o45nu5g5q3qcr27h0jennlk490?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABiCuB0zy5N0ZEEgIIBD-HglfC8fcecdv0LDFjllJyYf8="
+            }
+          }
+        }
+      ],
+      "noteId": "691c9cd4000000000d03697e",
+      "liked": false,
+      "createTime": 1763834887000,
+      "ipLocation": "安徽",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6921fc070000000030027dd8",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6520 给分",
+  "search_item": {
+    "id": "691c9cd4000000000d03697e",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "49",
+        "collected": false,
+        "collectedCount": "48",
+        "commentCount": "8",
+        "sharedCount": "22"
+      },
+      "cover": {
+        "height": 2072,
+        "width": 1260,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251725/63bfe868a425b0e83a7d22ddf32389f4/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251725/3a63c0d56a0c2bb2129aaeb5e3a40c97/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 2072,
+          "width": 1260,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251725/63bfe868a425b0e83a7d22ddf32389f4/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251725/3a63c0d56a0c2bb2129aaeb5e3a40c97/notes_pre_post/1040g3k831p1ka5pg2o005p8mh5nosmbsngebsc0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-11-19"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🇭🇰CUHK CSE 26Fall正式批线下笔面经",
+      "user": {
+        "nickName": "Deep Space",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30toomdac4k6g5p8mh5nosmbsa3nqrk0?imageView2/2/w/80/format/jpg",
+        "userId": "6516896f000000002302597c",
+        "nickname": "Deep Space",
+        "xsecToken": "ABHOYHfhSL4Kj6Wzx2tdvDTygwuTNqHJYhwb_Nc6WydJw="
+      }
+    },
+    "xsecToken": "ABAjt2LhVvyodyMlXUEYkfWZwgTJP3GBKfLqIiZKc4vUo=",
+    "index": 11,
+    "exposed": true,
+    "trackId": "691c9cd4000000000d03697e"
+  }
+}

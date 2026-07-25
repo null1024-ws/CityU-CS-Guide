@@ -2000,6 +2000,195 @@
       "new_notes": 2,
       "cross_refs": 13,
       "at": 1784956446.220072
+    },
+    {
+      "query": "CS6187 城大CS",
+      "items_found": 41,
+      "new_notes": 2,
+      "cross_refs": 1,
+      "at": 1784959278.629331
+    },
+    {
+      "query": "CS6187 CityU",
+      "items_found": 42,
+      "new_notes": 2,
+      "cross_refs": 10,
+      "at": 1784959328.392448
+    },
+    {
+      "query": "城大CS6187",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 5,
+      "at": 1784959375.1050308
+    },
+    {
+      "query": "CS6187 选课",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 9,
+      "at": 1784959420.1684177
+    },
+    {
+      "query": "CS6187 体验",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 5,
+      "at": 1784959466.6112742
+    },
+    {
+      "query": "CS6187 评价",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 6,
+      "at": 1784959513.0308628
+    },
+    {
+      "query": "CS6187 怎么样",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 2,
+      "at": 1784959629.0696504
+    },
+    {
+      "query": "CS6187 避雷",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 1,
+      "at": 1784959677.3305655
+    },
+    {
+      "query": "CS6187 给分",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 4,
+      "at": 1784959722.355374
+    },
+    {
+      "query": "CityU CS6187",
+      "items_found": 42,
+      "new_notes": 2,
+      "cross_refs": 13,
+      "at": 1784959776.2292461
+    },
+    {
+      "query": "港城 CS6187",
+      "items_found": 0,
+      "new_notes": 0,
+      "cross_refs": 0,
+      "at": 1784959809.0051136
+    },
+    {
+      "query": "城大 视觉语言",
+      "items_found": 41,
+      "new_notes": 2,
+      "cross_refs": 0,
+      "at": 1784959857.8498113
+    },
+    {
+      "query": "CS6187 视觉语言",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 6,
+      "at": 1784959904.1400013
+    },
+    {
+      "query": "城大 vision language",
+      "items_found": 42,
+      "new_notes": 2,
+      "cross_refs": 0,
+      "at": 1784959951.8495417
+    },
+    {
+      "query": "CS6187 vision language",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 0,
+      "at": 1784959998.1276233
+    },
+    {
+      "query": "城大 Vision and Language",
+      "items_found": 42,
+      "new_notes": 2,
+      "cross_refs": 1,
+      "at": 1784960045.3150465
+    },
+    {
+      "query": "CS6187 Vision and Language",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 2,
+      "at": 1784960091.4425118
+    },
+    {
+      "query": "CS6520 城大",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 8,
+      "at": 1784961388.237234
+    },
+    {
+      "query": "CS6520 城大CS",
+      "items_found": 21,
+      "new_notes": 2,
+      "cross_refs": 5,
+      "at": 1784961438.4399714
+    },
+    {
+      "query": "CS6520 CityU",
+      "items_found": 42,
+      "new_notes": 2,
+      "cross_refs": 2,
+      "at": 1784961483.8750694
+    },
+    {
+      "query": "城大CS6520",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 6,
+      "at": 1784961530.137319
+    },
+    {
+      "query": "CS6520 选课",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 10,
+      "at": 1784961573.913491
+    },
+    {
+      "query": "CS6520 体验",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 4,
+      "at": 1784961618.6870346
+    },
+    {
+      "query": "CS6520 评价",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 10,
+      "at": 1784961665.4194865
+    },
+    {
+      "query": "CS6520 怎么样",
+      "items_found": 20,
+      "new_notes": 2,
+      "cross_refs": 1,
+      "at": 1784961710.9197989
+    },
+    {
+      "query": "CS6520 避雷",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 9,
+      "at": 1784971508.4193864
+    },
+    {
+      "query": "CS6520 给分",
+      "items_found": 40,
+      "new_notes": 2,
+      "cross_refs": 10,
+      "at": 1784971558.3864295
     }
   ],
   "notes": {
@@ -2008,7 +2197,10 @@
       "query": "城大 MSc CS 选课",
       "fetched_at": 1784873912.9847817,
       "queries": [
-        "城大 MSc CS 选课"
+        "城大 MSc CS 选课",
+        "CS6187 CityU",
+        "城大CS6187",
+        "CityU CS6187"
       ]
     },
     "683476a700000000220270f9": {
@@ -2032,7 +2224,8 @@
         "城大 IS guided study",
         "CS6537 Guided Study in",
         "CS5367 避雷",
-        "CS5367 给分"
+        "CS5367 给分",
+        "CS6520 给分"
       ]
     },
     "696087d2000000001a0343bf": {
@@ -2073,7 +2266,11 @@
         "CS5367 给分",
         "CityU CS5367",
         "CS5367 Computer Games Design",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 体验",
+        "CS6187 给分",
+        "CS6520 评价",
+        "CS6520 避雷"
       ]
     },
     "6a0c17bd000000000702ea2c": {
@@ -2105,7 +2302,13 @@
         "CityU CS5367",
         "港城 CS5367",
         "城大 Computer Games Design",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 CityU",
+        "CS6187 选课",
+        "CS6187 给分",
+        "CityU CS6187",
+        "CS6187 视觉语言",
+        "CS6187 Vision and Language"
       ]
     },
     "695c948d000000002102ad0b": {
@@ -2114,7 +2317,8 @@
       "fetched_at": 1784873948.4171093,
       "queries": [
         "城市大学 计算机硕士 选课攻略",
-        "城大 大数据 选课"
+        "城大 大数据 选课",
+        "CityU CS6187"
       ]
     },
     "6a51bf340000000006037117": {
@@ -2250,7 +2454,19 @@
         "CS5367 选课",
         "CS5367 怎么样",
         "CS5367 Computer Games Design",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 城大CS",
+        "CS6187 CityU",
+        "CS6187 选课",
+        "CS6187 体验",
+        "CS6187 评价",
+        "CS6187 给分",
+        "CityU CS6187",
+        "CS6187 视觉语言",
+        "CS6520 城大CS",
+        "CS6520 选课",
+        "CS6520 体验",
+        "CS6520 给分"
       ]
     },
     "69fdd97b000000003601efb7": {
@@ -2262,7 +2478,8 @@
         "城大CS6537",
         "城大 信息安全 stream 选课",
         "城大CS5367",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 评价"
       ]
     },
     "67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724": {
@@ -2322,7 +2539,8 @@
       "query": "CS5222 CityU",
       "fetched_at": 1784874185.4752533,
       "queries": [
-        "CS5222 CityU"
+        "CS5222 CityU",
+        "CS6187 Vision and Language"
       ]
     },
     "6a2a6ae20000000006021721": {
@@ -2378,7 +2596,8 @@
       "query": "CS5351 CityU",
       "fetched_at": 1784874238.579537,
       "queries": [
-        "CS5351 CityU"
+        "CS5351 CityU",
+        "CS6187 视觉语言"
       ]
     },
     "676793ee000000000b00d2b1": {
@@ -2419,7 +2638,8 @@
       "query": "CS5481 城大",
       "fetched_at": 1784874272.7830503,
       "queries": [
-        "CS5481 城大"
+        "CS5481 城大",
+        "CS6187 体验"
       ]
     },
     "31203009-3377-4a0d-89f9-3a121b58f9a2#1784874281886": {
@@ -2461,7 +2681,8 @@
       "queries": [
         "城大CS5481",
         "CS6535 Guided Study in",
-        "CS6536 Guided Study in"
+        "CS6536 Guided Study in",
+        "CS6520 选课"
       ]
     },
     "6898aaf1000000002501b0eb": {
@@ -2486,7 +2707,9 @@
       "query": "CS5487 城大",
       "fetched_at": 1784874333.9166253,
       "queries": [
-        "CS5487 城大"
+        "CS5487 城大",
+        "CS6520 评价",
+        "CS6520 避雷"
       ]
     },
     "6a0be10c00000000350215c2": {
@@ -2508,7 +2731,16 @@
         "城大CS6537",
         "CS5367 城大",
         "CS5367 城大CS",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 CityU",
+        "CS6187 评价",
+        "CS6187 给分",
+        "CityU CS6187",
+        "CS6187 视觉语言",
+        "CS6520 选课",
+        "CS6520 体验",
+        "CS6520 评价",
+        "CS6520 避雷"
       ]
     },
     "6a3cfb82000000001102fdc0": {
@@ -2542,7 +2774,8 @@
         "CS6536 选课",
         "CS6537 选课",
         "CS5367 选课",
-        "CS5367 体验"
+        "CS5367 体验",
+        "CS6187 选课"
       ]
     },
     "6a0bf902000000003601f97b": {
@@ -2556,7 +2789,8 @@
         "城大CS5367",
         "CS5367 避雷",
         "CS5367 给分",
-        "CityU CS5367"
+        "CityU CS5367",
+        "CS6187 选课"
       ]
     },
     "677a9b800000000013009ebc": {
@@ -2597,7 +2831,15 @@
         "CityU CS5367",
         "CS5367 game design",
         "城大 Computer Games Design",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 CityU",
+        "CS6187 体验",
+        "CS6187 评价",
+        "CS6520 城大",
+        "CS6520 城大CS",
+        "CS6520 体验",
+        "CS6520 评价",
+        "CS6520 避雷"
       ]
     },
     "85aa106a-85b4-4a0e-ae9a-a609668d5220#1784949879292": {
@@ -2632,7 +2874,8 @@
       "query": "城大CS6537",
       "fetched_at": 1784949928.7499464,
       "queries": [
-        "城大CS6537"
+        "城大CS6537",
+        "CityU CS6187"
       ]
     },
     "6a6418660000000014005acd": {
@@ -2641,7 +2884,8 @@
       "fetched_at": 1784949951.2154589,
       "queries": [
         "CS5367 城大",
-        "CityU CS6536"
+        "CityU CS6536",
+        "CityU CS6187"
       ]
     },
     "6a5284b20000000017008fe0": {
@@ -2658,7 +2902,9 @@
       "fetched_at": 1784949960.830869,
       "queries": [
         "CS5367 城大",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6187 CityU",
+        "CS6520 城大CS"
       ]
     },
     "6944d2ee000000001b022ac0": {
@@ -2666,7 +2912,8 @@
       "query": "CS5367 城大CS",
       "fetched_at": 1784949980.7838426,
       "queries": [
-        "CS5367 城大CS"
+        "CS5367 城大CS",
+        "CS6520 城大CS"
       ]
     },
     "6940b7e1000000001f00e7d0": {
@@ -2674,7 +2921,8 @@
       "query": "CS5367 城大CS",
       "fetched_at": 1784949989.4850965,
       "queries": [
-        "CS5367 城大CS"
+        "CS5367 城大CS",
+        "CityU CS6187"
       ]
     },
     "68997ebb00000000030309ed": {
@@ -2709,7 +2957,8 @@
         "城大 CS5286 DS",
         "CS6537 城大CS",
         "CS6537 信息安全 导修",
-        "港城 CS5367"
+        "港城 CS5367",
+        "CS6187 CityU"
       ]
     },
     "69ba76460000000021013717": {
@@ -2717,7 +2966,9 @@
       "query": "CS5367 CityU",
       "fetched_at": 1784950035.5792735,
       "queries": [
-        "CS5367 CityU"
+        "CS5367 CityU",
+        "城大CS6187",
+        "城大CS6520"
       ]
     },
     "68ad4a76000000001d02e7c2": {
@@ -2725,7 +2976,10 @@
       "query": "城大CS5367",
       "fetched_at": 1784950055.0901597,
       "queries": [
-        "城大CS5367"
+        "城大CS5367",
+        "城大CS6187",
+        "CS6520 城大",
+        "城大CS6520"
       ]
     },
     "6a63005b000000000503831e": {
@@ -2734,7 +2988,8 @@
       "fetched_at": 1784950060.1898577,
       "queries": [
         "城大CS5367",
-        "CityU CS5367"
+        "CityU CS5367",
+        "城大CS6187"
       ]
     },
     "68c7c654000000001d029694": {
@@ -2767,7 +3022,8 @@
       "query": "CS6187 城大",
       "fetched_at": 1784950103.84486,
       "queries": [
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6520 城大"
       ]
     },
     "68907c1e0000000023037882": {
@@ -2810,7 +3066,8 @@
         "CS6535 城大CS",
         "CS6535 CityU",
         "港城 CS6535",
-        "城大 CS6535 AI"
+        "城大 CS6535 AI",
+        "CS6187 怎么样"
       ],
       "fetched_at": 1784951383.7406137
     },
@@ -2820,7 +3077,8 @@
       "queries": [
         "CS6535 城大CS",
         "CS5367 城大",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS6520 城大"
       ],
       "fetched_at": 1784951397.8238904
     },
@@ -2913,7 +3171,9 @@
         "CS5367 体验",
         "CS5367 评价",
         "CS5367 避雷",
-        "CS5367 给分"
+        "CS5367 给分",
+        "CS6187 选课",
+        "CS6520 给分"
       ],
       "fetched_at": 1784951648.8098607
     },
@@ -3028,7 +3288,8 @@
       "url": "https://www.xiaohongshu.com/explore/682d6a2a000000002301cb16?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXL-xOHFtL9360dADHFMWwyw=",
       "query": "城大 人工智能 方向 选课",
       "queries": [
-        "城大 人工智能 方向 选课"
+        "城大 人工智能 方向 选课",
+        "CS6187 体验"
       ],
       "fetched_at": 1784952052.3575585
     },
@@ -3136,7 +3397,17 @@
         "城大 Guided Study in",
         "CS6536 避雷",
         "CS6537 体验",
-        "城大 IS guided study"
+        "城大 IS guided study",
+        "CS6520 城大",
+        "CS6520 城大CS",
+        "CS6520 CityU",
+        "城大CS6520",
+        "CS6520 选课",
+        "CS6520 体验",
+        "CS6520 评价",
+        "CS6520 怎么样",
+        "CS6520 避雷",
+        "CS6520 给分"
       ],
       "fetched_at": 1784952351.6548767
     },
@@ -3153,7 +3424,8 @@
       "query": "CS6535 Guided Study in",
       "queries": [
         "CS6535 Guided Study in",
-        "CS6537 IS guided study"
+        "CS6537 IS guided study",
+        "CS6520 选课"
       ],
       "fetched_at": 1784952402.5020447
     },
@@ -3250,7 +3522,10 @@
       "queries": [
         "CS5286 体验",
         "CS6536 避雷",
-        "CS6537 体验"
+        "CS6537 体验",
+        "CS6187 避雷",
+        "CS6520 评价",
+        "CS6520 避雷"
       ],
       "fetched_at": 1784952685.3172402
     },
@@ -3270,7 +3545,8 @@
         "CS5286 评价",
         "CS6536 体验",
         "CS5367 评价",
-        "CityU CS5367"
+        "CityU CS5367",
+        "CityU CS6187"
       ],
       "fetched_at": 1784952744.7278194
     },
@@ -3361,7 +3637,9 @@
         "城大 信息安全 导修",
         "CS6537 信息安全 导修",
         "CityU CS5367",
-        "港城 CS5367"
+        "港城 CS5367",
+        "城大CS6187",
+        "城大CS6520"
       ],
       "fetched_at": 1784953056.952602
     },
@@ -3433,7 +3711,9 @@
         "城大 data science guided",
         "城大 信息安全 stream 选课",
         "城大 网安 选课",
-        "港城 CS5367"
+        "港城 CS5367",
+        "CS6187 CityU",
+        "CityU CS6187"
       ],
       "fetched_at": 1784953315.5541623
     },
@@ -3468,7 +3748,12 @@
         "CS5286 Algorithms & Techniques",
         "CS6537 给分",
         "CS6537 IS guided study",
-        "CS5367 game design"
+        "CS5367 game design",
+        "CS6187 选课",
+        "CS6187 评价",
+        "CS6187 视觉语言",
+        "CS6520 选课",
+        "CS6520 给分"
       ],
       "fetched_at": 1784953452.162672
     },
@@ -3569,7 +3854,8 @@
       "url": "https://www.xiaohongshu.com/explore/6a630b7e000000001302613f?xsec_token=ABTM39FJhXHUNOgukKvndFPVSqv1u9M7GJNeir0Bq0di0=",
       "query": "CS6536 避雷",
       "queries": [
-        "CS6536 避雷"
+        "CS6536 避雷",
+        "CS6520 评价"
       ],
       "fetched_at": 1784953818.5267785
     },
@@ -3780,7 +4066,8 @@
       "queries": [
         "CS6537 体验",
         "城大CS5367",
-        "港城 CS5367"
+        "港城 CS5367",
+        "CS6520 给分"
       ],
       "fetched_at": 1784954663.534153
     },
@@ -3799,7 +4086,13 @@
       "queries": [
         "CS6537 评价",
         "CityU CS6537",
-        "CS5367 避雷"
+        "CS5367 避雷",
+        "CS6187 CityU",
+        "CityU CS6187",
+        "CS6520 选课",
+        "CS6520 评价",
+        "CS6520 避雷",
+        "CS6520 给分"
       ],
       "fetched_at": 1784954731.0722344
     },
@@ -3815,7 +4108,8 @@
       "url": "https://www.xiaohongshu.com/explore/6833e489000000002100959a?xsec_token=ABvkTo_vAWz4oL3OSgN1rK65UuR_GUD0Idq6V9eYB_V8A=",
       "query": "CS6537 怎么样",
       "queries": [
-        "CS6537 怎么样"
+        "CS6537 怎么样",
+        "CS6520 CityU"
       ],
       "fetched_at": 1784954793.3921502
     },
@@ -3989,7 +4283,8 @@
       "url": "https://www.xiaohongshu.com/explore/695d259d000000001a036274?xsec_token=ABGy73TvojNEVuLiIZyuM1jdy5D0fDPP0Z_diIcvmA1Nw=",
       "query": "CS5367 城大",
       "queries": [
-        "CS5367 城大"
+        "CS5367 城大",
+        "CS6520 评价"
       ],
       "fetched_at": 1784955459.54113
     },
@@ -4005,7 +4300,8 @@
       "url": "https://www.xiaohongshu.com/explore/6a33d313000000001003cd26?xsec_token=ABHkX21GM5nvEH6bvfeszyT-B1wnh7VEGqhTan1kt-qFU=",
       "query": "CS5367 城大CS",
       "queries": [
-        "CS5367 城大CS"
+        "CS5367 城大CS",
+        "CityU CS6187"
       ],
       "fetched_at": 1784955513.1207821
     },
@@ -4039,7 +4335,9 @@
       "query": "CS5367 选课",
       "queries": [
         "CS5367 选课",
-        "CS5367 给分"
+        "CS5367 给分",
+        "CS6520 选课",
+        "CS6520 给分"
       ],
       "fetched_at": 1784955677.405601
     },
@@ -4128,7 +4426,9 @@
       "url": "https://www.xiaohongshu.com/explore/6a58ecd70000000014006a5e?xsec_token=ABE9J8NmDTKSdpTlPU3QNHsQ0EYof2mDBW97fAb8CJfnE=",
       "query": "CS5367 给分",
       "queries": [
-        "CS5367 给分"
+        "CS5367 给分",
+        "CS6187 选课",
+        "CS6520 选课"
       ],
       "fetched_at": 1784956006.592733
     },
@@ -4243,6 +4543,441 @@
         "CS6187 城大"
       ],
       "fetched_at": 1784956431.184871
+    },
+    "69ecda3c000000003700c20e": {
+      "url": "https://www.xiaohongshu.com/explore/69ecda3c000000003700c20e?xsec_token=ABRexGCUwJMe8Gpvh8xkY7K4JaWgzKgL5JqgkPWmCbaVU=",
+      "query": "CS6187 城大CS",
+      "queries": [
+        "CS6187 城大CS",
+        "CS6187 CityU",
+        "CS6187 选课",
+        "CS6187 评价",
+        "CS6187 怎么样",
+        "CityU CS6187",
+        "CS6187 视觉语言"
+      ],
+      "fetched_at": 1784959250.8863337
+    },
+    "6a4d237a000000000f006a63": {
+      "url": "https://www.xiaohongshu.com/explore/6a4d237a000000000f006a63?xsec_token=ABwKoazl5wO1OC8TBWo7rwHjpJ9gX-Lky4odgvau_W0ag=",
+      "query": "CS6187 城大CS",
+      "queries": [
+        "CS6187 城大CS"
+      ],
+      "fetched_at": 1784959263.680861
+    },
+    "6945b3ba-35ed-4acc-bc0a-8759d8894a21": {
+      "url": "https://www.xiaohongshu.com/explore/6945b3ba-35ed-4acc-bc0a-8759d8894a21?xsec_token=ABSc-r4LOg0QTA-mrxjRA92y-zavhCDjQTKsv7QeMjlYir2Rw6mt-YddsTCINbT6-kpNonF3pKIXFy8wfG4cvkK7E5HnKThAByI-t1BGbXHjA=",
+      "query": "CS6187 CityU",
+      "queries": [
+        "CS6187 CityU"
+      ],
+      "fetched_at": 1784959296.9957335
+    },
+    "6a016b410000000035021175": {
+      "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
+      "query": "CS6187 CityU",
+      "queries": [
+        "CS6187 CityU",
+        "CS6187 选课"
+      ],
+      "fetched_at": 1784959315.305006
+    },
+    "69cb5b83000000001b0200d8": {
+      "url": "https://www.xiaohongshu.com/explore/69cb5b83000000001b0200d8?xsec_token=ABtpZEa9Ko05Q5jA_ysqQc-5CfiwThE_QH7eC9udW-8z4=",
+      "query": "城大CS6187",
+      "queries": [
+        "城大CS6187",
+        "CS6520 城大"
+      ],
+      "fetched_at": 1784959347.9117672
+    },
+    "69cbaddc0000000023007f1f": {
+      "url": "https://www.xiaohongshu.com/explore/69cbaddc0000000023007f1f?xsec_token=ABtpZEa9Ko05Q5jA_ysqQc-yl8OSpFcvzvw97aNJWUEYc=",
+      "query": "城大CS6187",
+      "queries": [
+        "城大CS6187",
+        "CS6520 城大",
+        "城大CS6520",
+        "CS6520 给分"
+      ],
+      "fetched_at": 1784959361.3166802
+    },
+    "67d3ba57000000001d006ab5": {
+      "url": "https://www.xiaohongshu.com/explore/67d3ba57000000001d006ab5?xsec_token=ABmGDnL1Kj6Xc5p1qnhXKdCesxeWKxqDMMz9zvBEByA2w=",
+      "query": "CS6187 选课",
+      "queries": [
+        "CS6187 选课"
+      ],
+      "fetched_at": 1784959393.5242248
+    },
+    "695cbad800000000210323c1": {
+      "url": "https://www.xiaohongshu.com/explore/695cbad800000000210323c1?xsec_token=ABov_zZ3pPNK4Pi835VV_qAUHSFCvQvV9V5t14PGcke3A=",
+      "query": "CS6187 选课",
+      "queries": [
+        "CS6187 选课"
+      ],
+      "fetched_at": 1784959405.8014812
+    },
+    "688b03d800000000250206c4": {
+      "url": "https://www.xiaohongshu.com/explore/688b03d800000000250206c4?xsec_token=ABgJkR4XefbwOx0AF3JcPG_Xp5iU46YOnz5_28P4Js5EM=",
+      "query": "CS6187 体验",
+      "queries": [
+        "CS6187 体验"
+      ],
+      "fetched_at": 1784959439.2947676
+    },
+    "6943e90f000000000d00dda4": {
+      "url": "https://www.xiaohongshu.com/explore/6943e90f000000000d00dda4?xsec_token=ABxLR-OQ7BBvJIxFRj7ATNJUYJlGxi3_AX73kR9bD_AgY=",
+      "query": "CS6187 体验",
+      "queries": [
+        "CS6187 体验"
+      ],
+      "fetched_at": 1784959452.948672
+    },
+    "68960125000000002501ac81": {
+      "url": "https://www.xiaohongshu.com/explore/68960125000000002501ac81?xsec_token=ABgRVz4lYuYJz3jUIsqsVeGs0tushWOkQaQS-nhz3N8Oo=",
+      "query": "CS6187 评价",
+      "queries": [
+        "CS6187 评价"
+      ],
+      "fetched_at": 1784959485.588344
+    },
+    "6a54e31a00000000070104a3": {
+      "url": "https://www.xiaohongshu.com/explore/6a54e31a00000000070104a3?xsec_token=AB9TxaU_WPxUqsFW90y8ra67Bp_o0lehFV-hwew17oOAo=",
+      "query": "CS6187 评价",
+      "queries": [
+        "CS6187 评价"
+      ],
+      "fetched_at": 1784959498.558987
+    },
+    "6a01c05c000000003502a9c7": {
+      "url": "https://www.xiaohongshu.com/explore/6a01c05c000000003502a9c7?xsec_token=AB-8OTA5utOCJ53TXk2zNghwZsC8jklfSBjxRBfL274lE=",
+      "query": "CS6187 怎么样",
+      "queries": [
+        "CS6187 怎么样",
+        "CS6520 避雷"
+      ],
+      "fetched_at": 1784959600.5383255
+    },
+    "69cac037000000002101045f": {
+      "url": "https://www.xiaohongshu.com/explore/69cac037000000002101045f?xsec_token=ABm5RQ1hPN7D6WR1TEYMkocVJYFUSVtI7hQcVifHvfVnY=",
+      "query": "CS6187 怎么样",
+      "queries": [
+        "CS6187 怎么样"
+      ],
+      "fetched_at": 1784959614.4380817
+    },
+    "6945fccb000000000d03ced0": {
+      "url": "https://www.xiaohongshu.com/explore/6945fccb000000000d03ced0?xsec_token=ABGjCuccjyPt2kEq-QtVsyvVVmFqcR-nSkE3kqNO4bfBw=",
+      "query": "CS6187 避雷",
+      "queries": [
+        "CS6187 避雷"
+      ],
+      "fetched_at": 1784959649.0543988
+    },
+    "69b2053a0000000026030981": {
+      "url": "https://www.xiaohongshu.com/explore/69b2053a0000000026030981?xsec_token=ABl_3-axLvtdzoSjAs2KIwPKxLq4C-XYhn52OgC_iKLdo=",
+      "query": "CS6187 避雷",
+      "queries": [
+        "CS6187 避雷",
+        "CS6520 评价"
+      ],
+      "fetched_at": 1784959663.3768873
+    },
+    "6a2a3e61000000001603d5c5": {
+      "url": "https://www.xiaohongshu.com/explore/6a2a3e61000000001603d5c5?xsec_token=ABHROwrxh7CUPvByz_ctEFMGCbOojTv2lTc2jUnCvjRaI=",
+      "query": "CS6187 给分",
+      "queries": [
+        "CS6187 给分",
+        "CS6520 给分"
+      ],
+      "fetched_at": 1784959696.3308716
+    },
+    "6a05f61700000000080324af": {
+      "url": "https://www.xiaohongshu.com/explore/6a05f61700000000080324af?xsec_token=AB_OxyhgZfs4Q5-SvPL1RGD-tx4xShqGrm-Yo-Vm2c9pM=",
+      "query": "CS6187 给分",
+      "queries": [
+        "CS6187 给分"
+      ],
+      "fetched_at": 1784959708.6699116
+    },
+    "fff7e5bc-5544-4b3f-b665-213fec1eae60": {
+      "url": "https://www.xiaohongshu.com/explore/fff7e5bc-5544-4b3f-b665-213fec1eae60?xsec_token=AB0MdU-IjQFlmoytqRFZprwaSNLhHcIGjM-ZvQ6XpCZkDsb7lehD__wO1B1uawHsA5vt7XH58fF0t3u4VIz4xWQgR4vZzud09QscVGwOaOobA=",
+      "query": "CityU CS6187",
+      "queries": [
+        "CityU CS6187"
+      ],
+      "fetched_at": 1784959742.113909
+    },
+    "6a644c5d0000000001002f88": {
+      "url": "https://www.xiaohongshu.com/explore/6a644c5d0000000001002f88?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3buLZgX06cuqxT0abg8L6IPg=",
+      "query": "CityU CS6187",
+      "queries": [
+        "CityU CS6187"
+      ],
+      "fetched_at": 1784959759.2770417
+    },
+    "6a2a51020000000022017491": {
+      "url": "https://www.xiaohongshu.com/explore/6a2a51020000000022017491?xsec_token=ABHROwrxh7CUPvByz_ctEFMBKNl6x1h0UxdrstUXJt43A=",
+      "query": "城大 视觉语言",
+      "queries": [
+        "城大 视觉语言",
+        "城大 Vision and Language",
+        "CS6520 城大"
+      ],
+      "fetched_at": 1784959829.2556884
+    },
+    "687d19940000000024009b0c": {
+      "url": "https://www.xiaohongshu.com/explore/687d19940000000024009b0c?xsec_token=ABXPcnqP_9TbZ_lrlwzcZdlANOwOh_3YQuCVewix0ZgDc=",
+      "query": "城大 视觉语言",
+      "queries": [
+        "城大 视觉语言"
+      ],
+      "fetched_at": 1784959843.2384534
+    },
+    "6a17ca39000000003501ff8b": {
+      "url": "https://www.xiaohongshu.com/explore/6a17ca39000000003501ff8b?xsec_token=ABWeQLmAqvFF_m4PFvjCS_wui3BaOjXE907F-4HSHPAQ4=",
+      "query": "CS6187 视觉语言",
+      "queries": [
+        "CS6187 视觉语言",
+        "CS6520 选课"
+      ],
+      "fetched_at": 1784959876.987943
+    },
+    "69cc85b1000000001a033db6": {
+      "url": "https://www.xiaohongshu.com/explore/69cc85b1000000001a033db6?xsec_token=ABDKRLGvlFixdLqJzUTv5ob5GHMO_ujARded5Yngmj7uk=",
+      "query": "CS6187 视觉语言",
+      "queries": [
+        "CS6187 视觉语言"
+      ],
+      "fetched_at": 1784959890.5232894
+    },
+    "69c240b4000000001b00112d": {
+      "url": "https://www.xiaohongshu.com/explore/69c240b4000000001b00112d?xsec_token=ABcNFKgbqP658QVwUmykVKOjTvO9dXUah_OzW133wpnsg=",
+      "query": "城大 vision language",
+      "queries": [
+        "城大 vision language"
+      ],
+      "fetched_at": 1784959923.6008885
+    },
+    "696791d4000000001a029874": {
+      "url": "https://www.xiaohongshu.com/explore/696791d4000000001a029874?xsec_token=AB3qp7xgzR_BFDvfgawRm7pZyMpBoR5Od_b3Claq-Iz78=",
+      "query": "城大 vision language",
+      "queries": [
+        "城大 vision language"
+      ],
+      "fetched_at": 1784959937.0043514
+    },
+    "6a64538c0000000008009c01": {
+      "url": "https://www.xiaohongshu.com/explore/6a64538c0000000008009c01?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bhNZTXqLplKdHdx7q1yxZIo=",
+      "query": "CS6187 vision language",
+      "queries": [
+        "CS6187 vision language"
+      ],
+      "fetched_at": 1784959971.3864403
+    },
+    "69883631000000000a02bdec": {
+      "url": "https://www.xiaohongshu.com/explore/69883631000000000a02bdec?xsec_token=ABWk3xhJS4ggNC2y2V9M8lmD6k1PzrtJ_RfId1_7IUZgI=",
+      "query": "CS6187 vision language",
+      "queries": [
+        "CS6187 vision language"
+      ],
+      "fetched_at": 1784959984.8184128
+    },
+    "69ca235f000000002300525e": {
+      "url": "https://www.xiaohongshu.com/explore/69ca235f000000002300525e?xsec_token=ABm5RQ1hPN7D6WR1TEYMkocQ2S8dE9hbD9-cWE1pIHuDA=",
+      "query": "城大 Vision and Language",
+      "queries": [
+        "城大 Vision and Language"
+      ],
+      "fetched_at": 1784960017.2895765
+    },
+    "6a0ee46e000000000803ef46": {
+      "url": "https://www.xiaohongshu.com/explore/6a0ee46e000000000803ef46?xsec_token=AB8NpFOkXzpohx8VoP7cQnYdOahR41OYJNaKvjf_k8Xrc=",
+      "query": "城大 Vision and Language",
+      "queries": [
+        "城大 Vision and Language"
+      ],
+      "fetched_at": 1784960031.619571
+    },
+    "694ea133000000001d03e3bc": {
+      "url": "https://www.xiaohongshu.com/explore/694ea133000000001d03e3bc?xsec_token=ABgsaB5tJXQ4rFPaORo1mtYfD14uJ2swpRy3J_48eXfLs=",
+      "query": "CS6187 Vision and Language",
+      "queries": [
+        "CS6187 Vision and Language"
+      ],
+      "fetched_at": 1784960064.2270074
+    },
+    "66ab69d9000000002701fe9d": {
+      "url": "https://www.xiaohongshu.com/explore/66ab69d9000000002701fe9d?xsec_token=ABZVe5s8-OIe50t3zPgPwlg4FJyBPzY9Tz05asVm8LKf4=",
+      "query": "CS6187 Vision and Language",
+      "queries": [
+        "CS6187 Vision and Language"
+      ],
+      "fetched_at": 1784960077.6296954
+    },
+    "6a0af7c00000000036003e82": {
+      "url": "https://www.xiaohongshu.com/explore/6a0af7c00000000036003e82?xsec_token=ABC3_M8NNG6nxyqBeRrPr5sTsd37UCf9MJ7T14gpDrzFc=",
+      "query": "CS6520 城大",
+      "queries": [
+        "CS6520 城大",
+        "城大CS6520"
+      ],
+      "fetched_at": 1784960110.2770834
+    },
+    "6991d465000000000a02a7f4": {
+      "url": "https://www.xiaohongshu.com/explore/6991d465000000000a02a7f4?xsec_token=ABvpQympu_qja__N2x4nFvOnF1N3rIIYm7HGHIeLot7LU=",
+      "query": "CS6520 城大",
+      "queries": [
+        "CS6520 城大"
+      ],
+      "fetched_at": 1784960124.914341
+    },
+    "6606372a000000001a01417f": {
+      "url": "https://www.xiaohongshu.com/explore/6606372a000000001a01417f?xsec_token=AB5Rd3ybpS42iK4sEtUwFMpNIBICnVDxfmlPHAC53TsHw=",
+      "query": "CS6520 城大CS",
+      "queries": [
+        "CS6520 城大CS"
+      ],
+      "fetched_at": 1784961406.2780452
+    },
+    "15d1e699-ad98-48dc-922f-6ca1e418d8e2": {
+      "url": "https://www.xiaohongshu.com/explore/15d1e699-ad98-48dc-922f-6ca1e418d8e2?xsec_token=ABEVgmDtDWXdPUIsM530j0zd6GONydu3aXOusGZP6JZHHY4k0Z-1yB4XkRCYNFi3zynIvAGGZfsErFUwechQCYuTLeXl9keTzPAEAcNxJc8VU=",
+      "query": "CS6520 城大CS",
+      "queries": [
+        "CS6520 城大CS"
+      ],
+      "fetched_at": 1784961421.3551793
+    },
+    "680ee52600000000220350e5": {
+      "url": "https://www.xiaohongshu.com/explore/680ee52600000000220350e5?xsec_token=ABOpyYsng1ARi4DQ8HvA1KBrr4F3Al-uVSf6luHBhZ9a4=",
+      "query": "CS6520 CityU",
+      "queries": [
+        "CS6520 CityU"
+      ],
+      "fetched_at": 1784961456.781049
+    },
+    "68072670000000001b03b03e": {
+      "url": "https://www.xiaohongshu.com/explore/68072670000000001b03b03e?xsec_token=ABunmC_mXzc3WfioTcR7jDpq1rQg__jXGSmZ7wVp2VZYM=",
+      "query": "CS6520 CityU",
+      "queries": [
+        "CS6520 CityU"
+      ],
+      "fetched_at": 1784961469.876925
+    },
+    "6a5719a6000000001c024387": {
+      "url": "https://www.xiaohongshu.com/explore/6a5719a6000000001c024387?xsec_token=ABuRomuY5ckt71QKUYQakPJRSGPnAvJZibGSE5IEb9-E8=",
+      "query": "城大CS6520",
+      "queries": [
+        "城大CS6520"
+      ],
+      "fetched_at": 1784961502.8466995
+    },
+    "6957b138000000002203b480": {
+      "url": "https://www.xiaohongshu.com/explore/6957b138000000002203b480?xsec_token=ABntCOAZj5LYncbUZjxaFVAtPL6_5B8mtAzcKGb80qvN0=",
+      "query": "城大CS6520",
+      "queries": [
+        "城大CS6520"
+      ],
+      "fetched_at": 1784961516.8156295
+    },
+    "66c1c449000000000d033519": {
+      "url": "https://www.xiaohongshu.com/explore/66c1c449000000000d033519?xsec_token=ABftP2EkvXkZVDUdCv70opO5CUbfqYn7nGf3P-ryQdv9A=",
+      "query": "CS6520 选课",
+      "queries": [
+        "CS6520 选课"
+      ],
+      "fetched_at": 1784961548.771525
+    },
+    "692d2589000000001d03ed09": {
+      "url": "https://www.xiaohongshu.com/explore/692d2589000000001d03ed09?xsec_token=AB3a96hI6EcZ5-9mg4eh3K_EaTnFdzz4Zh2f4lrZQ322E=",
+      "query": "CS6520 选课",
+      "queries": [
+        "CS6520 选课"
+      ],
+      "fetched_at": 1784961561.8316114
+    },
+    "688b393c00000000250290e5": {
+      "url": "https://www.xiaohongshu.com/explore/688b393c00000000250290e5?xsec_token=ABgJkR4XefbwOx0AF3JcPG_XJK3M1U_4mtDDn_y4Zkja4=",
+      "query": "CS6520 体验",
+      "queries": [
+        "CS6520 体验"
+      ],
+      "fetched_at": 1784961592.5318437
+    },
+    "69c3c689000000001a02c558": {
+      "url": "https://www.xiaohongshu.com/explore/69c3c689000000001a02c558?xsec_token=AB9W2jbzSyZ6zHmokMLeGbwSH_lat4EabAZnqQd7KQjrY=",
+      "query": "CS6520 体验",
+      "queries": [
+        "CS6520 体验"
+      ],
+      "fetched_at": 1784961606.3394682
+    },
+    "69f71f83000000003703582c": {
+      "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
+      "query": "CS6520 评价",
+      "queries": [
+        "CS6520 评价",
+        "CS6520 避雷"
+      ],
+      "fetched_at": 1784961637.5690768
+    },
+    "69d00c5900000000220293bb": {
+      "url": "https://www.xiaohongshu.com/explore/69d00c5900000000220293bb?xsec_token=ABDkPlpzWXUaPcaVHOv-e4dYLL-OWVlZUH5I29SYaS97k=",
+      "query": "CS6520 评价",
+      "queries": [
+        "CS6520 评价"
+      ],
+      "fetched_at": 1784961651.4644885
+    },
+    "6977949e00000000220327ca": {
+      "url": "https://www.xiaohongshu.com/explore/6977949e00000000220327ca?xsec_token=ABNM_1pWB-ZE7GfHYaSIhVYU8_CA2JyV7cboUa7OG1-BU=",
+      "query": "CS6520 怎么样",
+      "queries": [
+        "CS6520 怎么样"
+      ],
+      "fetched_at": 1784961682.929967
+    },
+    "6a37ede000000000070262bd": {
+      "url": "https://www.xiaohongshu.com/explore/6a37ede000000000070262bd?xsec_token=ABXuyLOmJruUtW8Gdr38Uk8Sjmuup45l1qNj7VgNpcou8=",
+      "query": "CS6520 怎么样",
+      "queries": [
+        "CS6520 怎么样"
+      ],
+      "fetched_at": 1784961697.5317247
+    },
+    "69e70e8a000000001a020adf": {
+      "url": "https://www.xiaohongshu.com/explore/69e70e8a000000001a020adf?xsec_token=ABpJN0KBkqOvv1R_VjUaAB6rRy49yLn4P-b7Kmz55sgbM=",
+      "query": "CS6520 避雷",
+      "queries": [
+        "CS6520 避雷"
+      ],
+      "fetched_at": 1784961729.9511323
+    },
+    "6a548272000000000702e7a9": {
+      "url": "https://www.xiaohongshu.com/explore/6a548272000000000702e7a9?xsec_token=AB9TxaU_WPxUqsFW90y8ra6xWPvh_QbxHZKeNHgT9ZSSo=",
+      "query": "CS6520 避雷",
+      "queries": [
+        "CS6520 避雷"
+      ],
+      "fetched_at": 1784961743.963732
+    },
+    "6a1c8ad500000000070122b7": {
+      "url": "https://www.xiaohongshu.com/explore/6a1c8ad500000000070122b7?xsec_token=ABCBx3tOSOXIGOkApjdlTyG7F2N7jP59P9d4DsAryqL10=",
+      "query": "CS6520 给分",
+      "queries": [
+        "CS6520 给分"
+      ],
+      "fetched_at": 1784971529.7022846
+    },
+    "691c9cd4000000000d03697e": {
+      "url": "https://www.xiaohongshu.com/explore/691c9cd4000000000d03697e?xsec_token=ABAjt2LhVvyodyMlXUEYkfWZwgTJP3GBKfLqIiZKc4vUo=",
+      "query": "CS6520 给分",
+      "queries": [
+        "CS6520 给分"
+      ],
+      "fetched_at": 1784971543.7821338
     }
   },
   "checkpoint": {
@@ -4406,7 +5141,46 @@
       "CS5367 game design",
       "城大 Computer Games Design",
       "CS5367 Computer Games Design",
-      "CS6187 城大"
-    ]
+      "CS6187 城大",
+      "CS6187 城大CS",
+      "CS6187 CityU",
+      "城大CS6187",
+      "CS6187 选课",
+      "CS6187 体验",
+      "CS6187 评价",
+      "CS6187 怎么样",
+      "CS6187 避雷",
+      "CS6187 给分",
+      "CityU CS6187",
+      "港城 CS6187",
+      "城大 视觉语言",
+      "CS6187 视觉语言",
+      "城大 vision language",
+      "CS6187 vision language",
+      "城大 Vision and Language",
+      "CS6187 Vision and Language",
+      "CS6520 城大",
+      "CS6520 城大CS",
+      "CS6520 CityU",
+      "城大CS6520",
+      "CS6520 选课",
+      "CS6520 体验",
+      "CS6520 评价",
+      "CS6520 怎么样",
+      "CS6520 避雷",
+      "CS6520 给分"
+    ],
+    "paused_at": "2026-07-25T09:29:04Z",
+    "pause_reason": "user_requested",
+    "batch_progress": {
+      "scope": "16 zero-source courses per-course search",
+      "completed": 126,
+      "total": 294,
+      "pending": 168,
+      "notes_total": 292,
+      "last_completed_query": "CS6520 给分",
+      "next_pending_query": "CS6520 CityU",
+      "resume_command": "python scripts/xhs_collect.py --per-course --skip-global --courses CS6535,CS5286,CS6536,CS6537,CS5367,CS6187,CS6520,CS6521,CS6538,CS5486,CS5288,CS5294,CS5185,CS5282,CS5348,CS6175 --max-notes 2 --sleep 8"
+    }
   }
 }

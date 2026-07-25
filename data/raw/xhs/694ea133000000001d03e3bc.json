@@ -1,0 +1,261 @@
+{
+  "note_id": "694ea133000000001d03e3bc",
+  "url": "https://www.xiaohongshu.com/explore/694ea133000000001d03e3bc?xsec_token=ABgsaB5tJXQ4rFPaORo1mtYfD14uJ2swpRy3J_48eXfLs=",
+  "fetched_at": 1784960064.2270074,
+  "note": {
+    "xsecToken": "ABgsaB5tJXQ4rFPaORo1mtYfD14uJ2swpRy3J_48eXfLs=",
+    "type": "normal",
+    "desc": "大厂rs，ai相关，之前美本cs专业，cv/scholar/主页/linkedin两周前全做了脱敏，有惊无险的没被check\n\t\nQ: 你为什么办O1？\nA: 我符合xxx条件，并且我要去工作\n(然后签证官拿着我的护照就进去找了三个同事来回聊了得有10分钟)\nQ: 你的工作涉及到ML/AI吗？\nA：我只使用AI不做训练，我平时的工作内容是xxx，比如在最近的项目里xxx，我带了resume你要看吗？\n(先说不用，又说actually yes然后拿走了cv）\nQ：你publication里这个vision language model是什么？\nA：（暗叫不好，忘了删这个了）简单介绍什么是VLM，并表示我这是个trick没有大规模训练，而且应用范围小\nQ：你过了\n\t\n感觉本来要check的但是看完我主动提供的cv给过了，运气确实不错。另外提醒大家**一定要邮寄！！**我选的pickup发现很坑极限改的邮寄还是担心了几天",
+    "tagList": [],
+    "atUserList": [],
+    "lastUpdateTime": 1766760756000,
+    "noteId": "694ea133000000001d03e3bc",
+    "title": "敏感case北京O1面签dp",
+    "user": {
+      "userId": "6209aae7000000001000d199",
+      "nickname": "runningaway",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h3iiscjja005og9lbjk1kcp1v8e140",
+      "xsecToken": "ABEwmTfbjBbLJvEjsQdJ48NpSobevLer3aSiY9sIPpJOs="
+    },
+    "interactInfo": {
+      "likedCount": "24",
+      "collectedCount": "33",
+      "commentCount": "5",
+      "followed": false,
+      "liked": false,
+      "collected": false,
+      "shareCount": "15",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831qifdgdl72005og9lbjk1kcprpekb9g",
+        "height": 2560,
+        "width": 1928,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251414/118117826de32f70b3b9061de0c02971/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251414/3bbe982ce81a6e8e669c530f7c4ef738/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251414/118117826de32f70b3b9061de0c02971/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251414/3bbe982ce81a6e8e669c530f7c4ef738/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "time": 1766760755000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "noteId": "694ea133000000001d03e3bc",
+      "content": "o1还要脱敏吗 那如果真搞AI还真有可能面签被拒吗[失望R]",
+      "liked": false,
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6209aae7000000001000d199",
+            "nickname": "runningaway",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h3iiscjja005og9lbjk1kcp1v8e140?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABAHtvaExq86uILhEbheGD7VT8oKkyImj3jMBiYSLY0Jc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766763336000,
+          "targetComment": {
+            "id": "694ea5b800000000160241f4",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nuhhojflm005oh08dqk1i885ca2o68?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvu_zNp48AwaBoieuu8LzNk8HQuLq0sYG3MwCNyvoeqI=",
+              "userId": "62204375000000001000c908",
+              "nickname": "ㅤ"
+            }
+          },
+          "id": "694eab47000000001502e368",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "北京",
+          "invalid": false,
+          "noteId": "694ea133000000001d03e3bc",
+          "content": "避免被check啊"
+        }
+      ],
+      "subCommentCursor": "694eab47000000001502e368",
+      "invalid": false,
+      "id": "694ea5b800000000160241f4",
+      "status": 0,
+      "userInfo": {
+        "userId": "62204375000000001000c908",
+        "nickname": "ㅤ",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nuhhojflm005oh08dqk1i885ca2o68?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvu_zNp48AwaBoieuu8LzNk8HQuLq0sYG3MwCNyvoeqI="
+      },
+      "createTime": 1766761912000,
+      "ipLocation": "新加坡",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABHxTX70lUUdCFWnOD4jOQLP4CfpbrDB0iCdcZ9H4HFno=",
+        "userId": "630feade0000000012001bc2",
+        "nickname": "Pathway",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1766782970000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "id": "694ef7f9000000001403e99f",
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "694ea133000000001d03e3bc",
+      "status": 0,
+      "content": "怎么脱敏？",
+      "liked": false,
+      "subCommentHasMore": false,
+      "likeCount": "2",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "会有猫的a",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ufbg6vj5a605n9713k4atncn3rnr50?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgKIgjZpKoNXJ-fklT-oI_4Aiaeus6kq0sXOkia7b0rQ=",
+        "userId": "5d2708e800000000110176ec"
+      },
+      "ipLocation": "加拿大",
+      "id": "694f0809000000000f01910e",
+      "atUsers": [],
+      "content": "所以是不做training就没事吗[看R]",
+      "liked": false,
+      "createTime": 1766787081000,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "694ea133000000001d03e3bc",
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "694f0809000000000f01910e",
+            "userInfo": {
+              "userId": "5d2708e800000000110176ec",
+              "nickname": "会有猫的a",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ufbg6vj5a605n9713k4atncn3rnr50?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABgKIgjZpKoNXJ-fklT-oI_4Aiaeus6kq0sXOkia7b0rQ="
+            }
+          },
+          "id": "6950074f00000000060197c4",
+          "content": "也不一定",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "6209aae7000000001000d199",
+            "nickname": "runningaway",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h3iiscjja005og9lbjk1kcp1v8e140?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABAHtvaExq86uILhEbheGD7VT8oKkyImj3jMBiYSLY0Jc="
+          },
+          "createTime": 1766852431000,
+          "ipLocation": "北京",
+          "invalid": false,
+          "noteId": "694ea133000000001d03e3bc",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "6950074f00000000060197c4",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 Vision and Language",
+  "search_item": {
+    "id": "694ea133000000001d03e3bc",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "敏感case北京O1面签dp",
+      "user": {
+        "nickName": "runningaway",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h3iiscjja005og9lbjk1kcp1v8e140?imageView2/2/w/80/format/jpg",
+        "userId": "6209aae7000000001000d199",
+        "nickname": "runningaway",
+        "xsecToken": "AB6HszYCvbff6AX60-WEmE6bZt4Bdasm9yXBG2xFtljy0="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "33",
+        "commentCount": "5",
+        "sharedCount": "15",
+        "liked": false,
+        "likedCount": "24"
+      },
+      "cover": {
+        "height": 2560,
+        "width": 1928,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251414/1c5d419012b55f4b5edef5d602576f4e/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251414/1da671ca32cd08c21cdb34d15b38f1b6/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1928,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251414/1c5d419012b55f4b5edef5d602576f4e/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251414/1da671ca32cd08c21cdb34d15b38f1b6/1040g00831qifdgdl72005og9lbjk1kcprpekb9g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2560
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-26"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABgsaB5tJXQ4rFPaORo1mtYfD14uJ2swpRy3J_48eXfLs=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "694ea133000000001d03e3bc"
+  }
+}

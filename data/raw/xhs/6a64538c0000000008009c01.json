@@ -1,0 +1,172 @@
+{
+  "note_id": "6a64538c0000000008009c01",
+  "url": "https://www.xiaohongshu.com/explore/6a64538c0000000008009c01?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bhNZTXqLplKdHdx7q1yxZIo=",
+  "fetched_at": 1784959971.3864403,
+  "note": {
+    "xsecToken": "ABj2Cu4GcfjlWcZF7HFqq3bhNZTXqLplKdHdx7q1yxZIo=",
+    "user": {
+      "userId": "64e98c8e00000000010068e3",
+      "nickname": "Jiafei Duan",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314mi5ou66g005p79hi708q734e589j8",
+      "xsecToken": "ABDtVDCzJ2VDRK_D-sYIAiV1w_aYu2WJSpfOd_tb1VIMQ="
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "fileId": "oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0",
+        "height": 2060,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251413/d55bfd057dea7786311b14333e702d24/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251413/826c2b31133c30377d30bf294db76150/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251413/d55bfd057dea7786311b14333e702d24/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "width": 1206,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251413/826c2b31133c30377d30bf294db76150/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e3023310000000001003597",
+        "name": "NUS",
+        "type": "topic"
+      },
+      {
+        "name": "机器人学习",
+        "type": "topic",
+        "id": "617ebed4000000000100b7fe"
+      },
+      {
+        "name": "具身智能",
+        "type": "topic",
+        "id": "6469ff03000000001c025872"
+      },
+      {
+        "id": "67678192000000000401a4fc",
+        "name": "RobotLearning",
+        "type": "topic"
+      },
+      {
+        "id": "66206091000000001b03e28e",
+        "name": "EmbodiedAI",
+        "type": "topic"
+      },
+      {
+        "id": "617d5bc90000000001008c05",
+        "name": "VLA",
+        "type": "topic"
+      },
+      {
+        "name": "新加坡国立大学",
+        "type": "topic",
+        "id": "5ef2c273000000000100594a"
+      },
+      {
+        "id": "620cd421000000000100130c",
+        "name": "人工智能",
+        "type": "topic"
+      },
+      {
+        "id": "67a17a09000000000400dd8b",
+        "name": "LeRobot",
+        "type": "topic"
+      },
+      {
+        "id": "6112b696000000000101e8de",
+        "name": "研究生选课",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5eba2d4a000000000101e240",
+        "name": "科研日常"
+      }
+    ],
+    "time": 1784959884000,
+    "lastUpdateTime": 1784959885000,
+    "noteId": "6a64538c0000000008009c01",
+    "type": "normal",
+    "title": "🔥 NUS新课｜这学期你可以亲手训练机器人",
+    "desc": "🤖 我在NUS开了一门机器人课！\n\t\n这学期我在 NUS School of Computing 正式开课啦👉 CS 6283: Robot Learning in the Era of Foundation Models 🔥\n\t\n这是一门讲 具身智能 (Embodied AI) 的进阶课，从最基础的 robotic manipulation、imitation learning、reinforcement learning，一路讲到现在最火的 Vision-Language-Action (VLA) models 和 robotics foundation models 🚀\n\t\n和刷paper的纯理论课不一样——这门课我们是真的要上手摸机器人的 🦾\n\t\n✨ 重点来了：我正在争取搞一批 SO-101 机械臂（就是 Hugging Face LeRobot 那款开源3D打印小臂）给大家做 hands-on project！从 teleoperation 采数据，到一键训练 imitation learning 模型，让机器人自己学会抓取、放置、完成任务——整个 pipeline 你都能亲手跑一遍 👐\n\t\n📚 你会学到：\n· 机器人操作 + robot learning 的核心原理\n· 怎么用 foundation models 解决真实操作任务\n· 把算法部署到 open-world manipulation 场景\n· 独立做 embodied AI 研究的能力\n\t\n🗓 每周一 4–6pm｜COM1-VCRM｜2026年8月开课\n👨‍🏫 授课：段嘉飞 (Duan Jiafei)\n\t\n对机器人、具身智能、VLA 感兴趣的同学，快冲！有问题欢迎邮件我或评论区找我～ 让我们一起把机器人玩明白 💪\n\t\n#NUS[话题]# #机器人学习[话题]# #具身智能[话题]# #RobotLearning[话题]# #EmbodiedAI[话题]# #VLA[话题]# #新加坡国立大学[话题]# #人工智能[话题]# #LeRobot[话题]# #研究生选课[话题]# #科研日常[话题]#",
+    "interactInfo": {
+      "collectedCount": "",
+      "commentCount": "",
+      "followed": false,
+      "liked": false,
+      "likedCount": "",
+      "collected": false,
+      "shareCount": "",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [],
+  "search_query": "CS6187 vision language",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "1分钟前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🔥 NUS新课｜这学期你可以亲手训练机器人",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314mi5ou66g005p79hi708q734e589j8?imageView2/2/w/80/format/jpg",
+        "userId": "64e98c8e00000000010068e3",
+        "nickname": "Jiafei Duan",
+        "xsecToken": "ABUT5T4dlC1te_N6b3SE-68zH7XLYfi50oYJ-egVS_m3Y=",
+        "nickName": "Jiafei Duan"
+      },
+      "interactInfo": {
+        "commentCount": "0",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "0",
+        "collected": false,
+        "collectedCount": "0"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251412/7a6ef7f3b62147cf2968c6cdb674315f/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nc_n_webp_prv_1",
+        "height": 2060,
+        "width": 1206,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251412/0bce36f0231aeb8fd95a74e543de781e/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 2060,
+          "width": 1206,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251412/0bce36f0231aeb8fd95a74e543de781e/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251412/7a6ef7f3b62147cf2968c6cdb674315f/oss-sg/notes_pre_post/1040g3mo3231laqblno0g5p79hi708q73a7kpfd0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABj2Cu4GcfjlWcZF7HFqq3bhNZTXqLplKdHdx7q1yxZIo=",
+    "id": "6a64538c0000000008009c01",
+    "index": 0,
+    "exposed": true,
+    "trackId": "6a64538c0000000008009c01"
+  }
+}

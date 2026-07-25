@@ -1,0 +1,517 @@
+{
+  "note_id": "69d00c5900000000220293bb",
+  "url": "https://www.xiaohongshu.com/explore/69d00c5900000000220293bb?xsec_token=ABDkPlpzWXUaPcaVHOv-e4dYLL-OWVlZUH5I29SYaS97k=",
+  "fetched_at": 1784961651.4644885,
+  "note": {
+    "xsecToken": "ABDkPlpzWXUaPcaVHOv-e4dYLL-OWVlZUH5I29SYaS97k=",
+    "user": {
+      "userId": "668b3a170000000003033046",
+      "nickname": "MoMo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321aese47ni005pkb78bguc261tk70ro",
+      "xsecToken": "ABEbIwX7AvTPtjcTTSdJTWSv6ydnpQu2zRlsRgc4_elBY="
+    },
+    "time": 1775242329000,
+    "lastUpdateTime": 1775242329000,
+    "desc": "2026最没用的master学位：\n\t\n#硕士[话题]# #一年制硕士[话题]# #世界大学排名[话题]#\nFinance & Accounting\nData science\nLaw\nCOMPUTER SCIENCE\nCybersecurity\nPhysics\nBusiness administration\nGeneral communications",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "97",
+      "collectedCount": "25",
+      "commentCount": "27",
+      "shareCount": "15",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "collected": false
+    },
+    "imageList": [
+      {
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251441/a1c3e5f953a19a47e02f789218db5b49/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251441/b131fce43c14f7edb20cdf0b1dff3974/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251441/b131fce43c14f7edb20cdf0b1dff3974/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1600,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251441/a1c3e5f953a19a47e02f789218db5b49/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c012cbf0925450001c2d242",
+        "name": "硕士",
+        "type": "topic"
+      },
+      {
+        "id": "6004ed4f0000000001003486",
+        "name": "一年制硕士",
+        "type": "topic"
+      },
+      {
+        "id": "5d09d1ea000000000e0022dc",
+        "name": "世界大学排名",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69d00c5900000000220293bb",
+    "type": "normal",
+    "title": "2026最没用的硕士学位"
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "likeCount": "1",
+      "showTags": [],
+      "invalid": false,
+      "id": "6a55b1d4000000002901aba0",
+      "noteId": "69d00c5900000000220293bb",
+      "createTime": 1784000980000,
+      "subCommentCount": "1",
+      "liked": false,
+      "subComments": [
+        {
+          "liked": false,
+          "createTime": 1784801362000,
+          "id": "6a61e851000000000802fac2",
+          "status": -2,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "葡萄柚",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31op1p7e5ks105o8ahmkg8n5g8373c00?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB04qFMybfCNyIWh6v9a3gqfyJNzj0DL3C9jDbP0h2DaQ=",
+            "userId": "610a8da90000000001005cb0"
+          },
+          "showTags": [],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a55b1d4000000002901aba0",
+            "userInfo": {
+              "xsecToken": "ABslPBveJS2Jof6bmVnTOxgOvjnUTVH77yzeUFq6eIr3k=",
+              "userId": "69c0d93c0000000034018f8d",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b806f731e07eb8ca3d845.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "69d00c5900000000220293bb",
+          "content": "这里面最烂的就是CS，投简历连sales都不给面试的那种[笑哭R]DS比CS烂十倍。",
+          "atUsers": []
+        }
+      ],
+      "subCommentCursor": "6a61e851000000000802fac2",
+      "content": "cs和ds还行 其他的没那么有用",
+      "userInfo": {
+        "userId": "69c0d93c0000000034018f8d",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b806f731e07eb8ca3d845.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABslPBveJS2Jof6bmVnTOxgOvjnUTVH77yzeUFq6eIr3k="
+      },
+      "ipLocation": "湖北",
+      "subCommentHasMore": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "我就想读data science",
+      "showTags": [],
+      "subCommentCursor": "6a3f63d9000000002b02bae9",
+      "subCommentHasMore": true,
+      "liked": false,
+      "ipLocation": "北京",
+      "createTime": 1781435078000,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "content": "主要是也没别的可读，也没啥更好的选择",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/61ebf58f000000001000d786.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJE8qomLq3x5vYgf_jedFabe78hbGWFnjYW_t7CILpeg=",
+            "userId": "61ebf58f000000001000d786",
+            "nickname": "echo"
+          },
+          "showTags": [],
+          "liked": false,
+          "createTime": 1782539226000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a3f3cf80000000029036c0f",
+            "userInfo": {
+              "userId": "621db251000000001000ce13",
+              "nickname": "CA$H CAT💵",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322gqd8oo7u705ogtm98k1jgj74erjeo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABz8K6MLHIqgMTjfr9s-6XVw_LsLzCyhCmIB_HWCaG1U4="
+            }
+          },
+          "invalid": false,
+          "id": "6a3f63d9000000002b02bae9",
+          "noteId": "69d00c5900000000220293bb",
+          "status": 0
+        }
+      ],
+      "invalid": false,
+      "id": "6a2e8ac6000000002a031e90",
+      "noteId": "69d00c5900000000220293bb",
+      "atUsers": [],
+      "likeCount": "5",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABJE8qomLq3x5vYgf_jedFabe78hbGWFnjYW_t7CILpeg=",
+        "userId": "61ebf58f000000001000d786",
+        "nickname": "echo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61ebf58f000000001000d786.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "nickname": "PopoX",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sl9aupols0044v09c7epeeqsqb8kjo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-vVAGRPbiPvsfaE1Rm0cyOpYF-p4pxjxOhx2fp8MR8Q=",
+        "userId": "56878eecb8ce1a66fc78b9da"
+      },
+      "subComments": [],
+      "subCommentCursor": "",
+      "status": 0,
+      "content": "还有历史",
+      "showTags": [],
+      "createTime": 1784880244000,
+      "noteId": "69d00c5900000000220293bb",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "id": "6a631c7300000000230021c8",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1780450155000,
+      "noteId": "69d00c5900000000220293bb",
+      "content": "为什么没有用呢[doge]",
+      "liked": false,
+      "likeCount": "7",
+      "ipLocation": "马来西亚",
+      "invalid": false,
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [],
+          "ipLocation": "马来西亚",
+          "targetComment": {
+            "id": "6a1f836a000000000d022802",
+            "userInfo": {
+              "userId": "5ecba108000000000100246e",
+              "nickname": "在逃校草",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ppschfn6005nmbk440893ean9nvm8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABWupuWmY8-VjbpXCUppSg8rr_GostrWojzu6WoGx6Rqs="
+            }
+          },
+          "id": "6a269e2e000000000d021800",
+          "content": "有没有用我不知道 反正在这里看到一个校草了 hahahahah",
+          "likeCount": "8",
+          "userInfo": {
+            "userId": "6a0b5190000000000d034c01",
+            "nickname": "你好呀 是我",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320g9rbchmm605qgba683ej01uu4mck8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsvSpUYuCcDxqu5h9RuBZx0F1r68yfIMU3_jF2ToaYvc="
+          },
+          "createTime": 1780915758000,
+          "invalid": false,
+          "noteId": "69d00c5900000000220293bb",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "subCommentCursor": "6a269e2e000000000d021800",
+      "subCommentCount": "1",
+      "id": "6a1f836a000000000d022802",
+      "userInfo": {
+        "userId": "5ecba108000000000100246e",
+        "nickname": "在逃校草",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321ppschfn6005nmbk440893ean9nvm8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWupuWmY8-VjbpXCUppSg8rr_GostrWojzu6WoGx6Rqs="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a36b267000000000d022801",
+      "atUsers": [],
+      "likeCount": "35",
+      "createTime": 1781969512000,
+      "ipLocation": "法国",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "69d00c5900000000220293bb",
+      "liked": false,
+      "userInfo": {
+        "userId": "6420a4760000000011021c0a",
+        "nickname": "Ray不想转体270",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310f5gl9qmc6g5p10khr4c70ajn5c3l8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_pJgzd0i6Hom3kWZtRikZoPkL8e37fjAenONrk5JRS4="
+      },
+      "showTags": [],
+      "invalid": false,
+      "status": 0,
+      "subCommentHasMore": false,
+      "content": "啊？主包什么背景能排出这个名次？",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "为什么说Finance & Accounting没用呢 可以问问具体原因吗",
+      "subCommentCursor": "6a5d96cc00000000150093a9",
+      "noteId": "69d00c5900000000220293bb",
+      "liked": false,
+      "userInfo": {
+        "userId": "5d5cc7a40000000001003f5f",
+        "nickname": "多多鱼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317g71gcfgs005nasoui08fqvo1v2qdg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwBBm9ZKjsoGKdHwwtR-MPR7ETUXms8vPwAZOKHIVXzQ="
+      },
+      "likeCount": "2",
+      "ipLocation": "新加坡",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "67ce6c7e000000000e01dd34",
+            "nickname": "bubblegumwitch",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vntat4c2a005puedhv3jn9k59ev4og?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPebXEglsg27QFhXPfLCU_e7Kp3uBl1UDU-Zx1Crghio="
+          },
+          "showTags": [],
+          "id": "6a5d96cc00000000150093a9",
+          "createTime": 1784518349000,
+          "ipLocation": "澳大利亚",
+          "targetComment": {
+            "id": "6a3de6b900000000050161d0",
+            "userInfo": {
+              "userId": "5d5cc7a40000000001003f5f",
+              "nickname": "多多鱼",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317g71gcfgs005nasoui08fqvo1v2qdg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwBBm9ZKjsoGKdHwwtR-MPR7ETUXms8vPwAZOKHIVXzQ="
+            }
+          },
+          "invalid": false,
+          "noteId": "69d00c5900000000220293bb",
+          "status": 0,
+          "content": "找不到工作",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "id": "6a3de6b900000000050161d0",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1782441657000,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "content": "你读oxbridge就不会觉得没用了[笑哭R][笑哭R]",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABwqNJwgPTzLWN2YRtCO53lvLDTxKyi9GCMoDf_RZt_Kk=",
+        "userId": "601ea0d900000000010002e0",
+        "nickname": "Orbit",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k2vnuqh3q005o0uk3cg80n0ufopas8?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "上海",
+      "id": "6a6170bc0000000005017a23",
+      "noteId": "69d00c5900000000220293bb",
+      "invalid": false,
+      "status": 0,
+      "createTime": 1784770748000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "subCommentCount": "0",
+      "id": "6a61e7f5000000000403a70e",
+      "noteId": "69d00c5900000000220293bb",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "葡萄柚",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31op1p7e5ks105o8ahmkg8n5g8373c00?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB04qFMybfCNyIWh6v9a3gqfyJNzj0DL3C9jDbP0h2DaQ=",
+        "userId": "610a8da90000000001005cb0"
+      },
+      "showTags": [],
+      "invalid": false,
+      "subCommentHasMore": false,
+      "subComments": [],
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "content": "这里面physics还是有点用的，很多美国公立初中都在收教学老师。至于其他专业，确实都没有。",
+      "liked": false,
+      "createTime": 1784801269000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "noteId": "69d00c5900000000220293bb",
+      "content": "仅限内地人",
+      "likeCount": "19",
+      "userInfo": {
+        "userId": "63fdf9d4000000001f032835",
+        "nickname": "冰开水",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v5afrocju005ovtv7a7ua1lu6aua4g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPE7NGrJfIWv55lsFXvXHxCE7DWL_P_2hbZg1XZ-AbC8="
+      },
+      "createTime": 1781174248000,
+      "ipLocation": "澳大利亚",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a2a8fe700000000280080d2",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a244089000000000d022c00",
+      "noteId": "69d00c5900000000220293bb",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "content": "加一个econ哈哈",
+      "atUsers": [],
+      "likeCount": "7",
+      "createTime": 1780760713000,
+      "ipLocation": "加拿大",
+      "subCommentCursor": "",
+      "status": 0,
+      "userInfo": {
+        "userId": "62bbab90000000001b028fde",
+        "nickname": "Jennie",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31urisn8rjm005olrle86t3uubvueeeg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJxGoTdWLlNBO_bxymnxPc8WGs0gG5R6LprZCjOCQuqE="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6520 评价",
+  "search_item": {
+    "id": "69d00c5900000000220293bb",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-04"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "2026最没用的硕士学位",
+      "user": {
+        "nickName": "MoMo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321aese47ni005pkb78bguc261tk70ro?imageView2/2/w/80/format/jpg",
+        "userId": "668b3a170000000003033046",
+        "nickname": "MoMo",
+        "xsecToken": "ABipKafFnzG1hNVFlw45oqPROV7z7CMmHoqre0rZiv8u0="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "25",
+        "commentCount": "27",
+        "sharedCount": "15",
+        "liked": false,
+        "likedCount": "97"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251440/00948d0e97157a1f10de99f3d6af9725/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251440/a86fa8b572faf5be355a3d9530e12631/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/00948d0e97157a1f10de99f3d6af9725/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251440/a86fa8b572faf5be355a3d9530e12631/notes_pre_post/1040g3k831ugrn1eh2i705pkb78bguc26iblv3sg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABDkPlpzWXUaPcaVHOv-e4dYLL-OWVlZUH5I29SYaS97k=",
+    "index": 11,
+    "exposed": false,
+    "trackId": "69d00c5900000000220293bb"
+  }
+}

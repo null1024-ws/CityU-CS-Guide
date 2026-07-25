@@ -1,0 +1,523 @@
+{
+  "note_id": "6a05f61700000000080324af",
+  "url": "https://www.xiaohongshu.com/explore/6a05f61700000000080324af?xsec_token=AB_OxyhgZfs4Q5-SvPL1RGD-tx4xShqGrm-Yo-Vm2c9pM=",
+  "fetched_at": 1784959708.6699116,
+  "note": {
+    "xsecToken": "AB_OxyhgZfs4Q5-SvPL1RGD-tx4xShqGrm-Yo-Vm2c9pM=",
+    "desc": "听别人说官匹10000分相当于c＋，给我气笑了，关键一堆人认同，我怎么感觉完美，5e的b＋也没官匹这么难打呢#CS[话题]# #完美[话题]##官匹[话题]##优先[话题]#",
+    "user": {
+      "nickname": "忆鸢词",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3205g2lj3ia605pjfli60u356q16tv20",
+      "xsecToken": "ABthau1byAh1S783Qt3AW-EthGvGkhiekwo0ZDmFKdXDA=",
+      "userId": "666fac8c0000000003030ca6"
+    },
+    "interactInfo": {
+      "shareCount": "",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "8",
+      "collected": false,
+      "collectedCount": "",
+      "commentCount": "82"
+    },
+    "tagList": [
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      },
+      {
+        "id": "5c1d9049000000000900ed5f",
+        "name": "完美",
+        "type": "topic"
+      },
+      {
+        "id": "60ca0e4f000000000100133a",
+        "name": "官匹",
+        "type": "topic"
+      },
+      {
+        "id": "56c75cbbfaa0520a5592cacc",
+        "name": "优先",
+        "type": "topic"
+      }
+    ],
+    "time": 1778775575000,
+    "noteId": "6a05f61700000000080324af",
+    "type": "normal",
+    "title": "官匹为什么这么难打",
+    "imageList": [
+      {
+        "fileId": "note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro",
+        "width": 4080,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251408/ce71c8c8f3bd8a1a640d1aac4607d466/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nd_prv_wgth_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251408/256673df313c6553d50c618eecd4757c/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nd_dft_wgth_webp_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251408/256673df313c6553d50c618eecd4757c/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nd_dft_wgth_webp_3",
+        "livePhoto": false,
+        "height": 3072,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251408/ce71c8c8f3bd8a1a640d1aac4607d466/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nd_prv_wgth_webp_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1778775576000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "content": "完美黄金b+  官匹15000-17000 现在",
+      "liked": false,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a14f7060000000027015e12",
+          "noteId": "6a05f61700000000080324af",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABiaSlXSPnTA7-7uzr-gMZBy16cJcNaKtfRSn0raTePY4=",
+            "userId": "5c54094d000000001803f2f5",
+            "nickname": "Zh.空间设计",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2nkpmsa8k80605n2k156m7snlfvkbgh0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "createTime": 1779758854000,
+          "ipLocation": "上海",
+          "status": 0,
+          "content": "现在掉到b+  官匹14000了[笑哭R]",
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6a14f6e5000000002800b4e8",
+            "userInfo": {
+              "xsecToken": "ABiaSlXSPnTA7-7uzr-gMZBy16cJcNaKtfRSn0raTePY4=",
+              "userId": "5c54094d000000001803f2f5",
+              "nickname": "Zh.空间设计",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2nkpmsa8k80605n2k156m7snlfvkbgh0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "subCommentHasMore": true,
+      "pictures": [],
+      "ipLocation": "上海",
+      "noteId": "6a05f61700000000080324af",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2nkpmsa8k80605n2k156m7snlfvkbgh0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiaSlXSPnTA7-7uzr-gMZBy16cJcNaKtfRSn0raTePY4=",
+        "userId": "5c54094d000000001803f2f5",
+        "nickname": "Zh.空间设计"
+      },
+      "id": "6a14f6e5000000002800b4e8",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1779758822000,
+      "subCommentCount": "18",
+      "subCommentCursor": "6a14f7060000000027015e12",
+      "invalid": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1778807162000,
+      "ipLocation": "四川",
+      "subCommentCount": "13",
+      "pictures": [],
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": true,
+      "id": "6a067179000000002701450c",
+      "content": "我5e，b+，官匹二万二",
+      "liked": false,
+      "subComments": [
+        {
+          "content": "我朋友完美，5e双s，官匹15000上不去",
+          "liked": false,
+          "userInfo": {
+            "userId": "666fac8c0000000003030ca6",
+            "nickname": "忆鸢词",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3205g2lj3ia605pjfli60u356q16tv20?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2RBUL1TMalLdHVTvFPNMvkZlXAe7Q23bPCCMB_DIfqQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "上海",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1778816301000,
+          "targetComment": {
+            "id": "6a067179000000002701450c",
+            "userInfo": {
+              "userId": "6964dc05000000000300f1d3",
+              "nickname": "芋儿鸡",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31touru24mq5g5qb4rg2gpsejt395peg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzabAEK48X4t6HLoRFnbF08aRLykj9q-NfFq_mQCvVKs="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a06952d000000002a0270dc",
+          "noteId": "6a05f61700000000080324af",
+          "status": 0
+        }
+      ],
+      "subCommentCursor": "6a06952d000000002a0270dc",
+      "noteId": "6a05f61700000000080324af",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31touru24mq5g5qb4rg2gpsejt395peg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzabAEK48X4t6HLoRFnbF08aRLykj9q-NfFq_mQCvVKs=",
+        "userId": "6964dc05000000000300f1d3",
+        "nickname": "芋儿鸡"
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "优先基本段位大乱斗的，人满就开，我0-2w5的都排过，刚入坑的新手和钻S都匹过",
+      "atUsers": [],
+      "showTags": [],
+      "status": 0,
+      "createTime": 1779074062000,
+      "subComments": [],
+      "id": "6a0a840d000000002100d3d1",
+      "noteId": "6a05f61700000000080324af",
+      "userInfo": {
+        "userId": "61974bc8000000001000c162",
+        "nickname": "可愛Femboy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p6abldpjcdg5ocn9f441gb2g722b50?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABlkwhSFi_qBTKU0ov7QZqPJ2Z0L72OGNldslPb26IuT0="
+      },
+      "ipLocation": "中国台湾",
+      "subCommentCount": "0",
+      "pictures": [],
+      "liked": false,
+      "likeCount": "3",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "id": "6a5e32e7000000002902581a",
+      "noteId": "6a05f61700000000080324af",
+      "status": 0,
+      "userInfo": {
+        "userId": "686d3f73000000001b018042",
+        "nickname": "小红薯686E36AF",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABw9S1vtXlsmPrH9q0sp6IVN1pj4U6WGrD6eqM-diJU44="
+      },
+      "createTime": 1784558312000,
+      "invalid": false,
+      "content": "1.5差不多完美a[偷笑R]官匹真的难打",
+      "ipLocation": "湖北",
+      "subComments": [],
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "官匹隔几天打上分才快，每天打反而慢，每次开段相当于重新定级一次加两三千分[笑哭R]",
+      "subComments": [],
+      "noteId": "6a05f61700000000080324af",
+      "invalid": false,
+      "id": "6a0bba43000000002901333c",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1779153475000,
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "64e577f9000000000100f4bd",
+        "nickname": "陈东尔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhfl3jcl8005p75evsg9t5tke1hal0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABREvwFe-8TZJH2eZ8PnpSgli70yk9cmqMjWbQV4az2X4="
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a05f61700000000080324af",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCursor": "6a070b2d0000000027022f2b",
+      "id": "6a070afa000000002702c396",
+      "content": "我c+，但官匹6000。",
+      "liked": false,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "68f4475500000000370022dc",
+            "nickname": "风也不等雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vi79h99is605q7k8tato8ms893b6i0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDLlk5jv-tfagXjoKvUVuBthK4iQ3PX4XQeWW5Ev6CSI="
+          },
+          "ipLocation": "广东",
+          "noteId": "6a05f61700000000080324af",
+          "liked": false,
+          "showTags": [],
+          "createTime": 1778846510000,
+          "targetComment": {
+            "id": "6a070afa000000002702c396",
+            "userInfo": {
+              "xsecToken": "ABDLlk5jv-tfagXjoKvUVuBthK4iQ3PX4XQeWW5Ev6CSI=",
+              "userId": "68f4475500000000370022dc",
+              "nickname": "风也不等雨",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vi79h99is605q7k8tato8ms893b6i0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a070b2d0000000027022f2b",
+          "status": 0,
+          "content": "上赛季掉到3000多后再没到4000",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "likeCount": "0",
+      "createTime": 1778846458000,
+      "ipLocation": "广东",
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "nickname": "风也不等雨",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vi79h99is605q7k8tato8ms893b6i0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDLlk5jv-tfagXjoKvUVuBthK4iQ3PX4XQeWW5Ev6CSI=",
+        "userId": "68f4475500000000370022dc"
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "江西",
+      "likeCount": "0",
+      "subComments": [],
+      "id": "6a07a26f0000000027021939",
+      "noteId": "6a05f61700000000080324af",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "63d71f5c0000000026013c63",
+        "nickname": "Bno0ne",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c2be13fb1b7c3facab187a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABb-mRDqxuBLPNGqWLmjH4cSo9DWc4sULeJQR9140nPL8="
+      },
+      "createTime": 1778885233000,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "subCommentHasMore": false,
+      "pictures": [
+        {
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251408/c4b3f6e4a92c2251d511431ec0bfe942/comment/1040g4b832074qbju5cd05oun3te9if33fkc10p0!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251408/dfe4cbb073a83086b7b025b5990c2bb9/comment/1040g4b832074qbju5cd05oun3te9if33fkc10p0!nd_whgt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251408/c4b3f6e4a92c2251d511431ec0bfe942/comment/1040g4b832074qbju5cd05oun3te9if33fkc10p0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251408/dfe4cbb073a83086b7b025b5990c2bb9/comment/1040g4b832074qbju5cd05oun3te9if33fkc10p0!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 3200,
+          "width": 1440
+        }
+      ],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "content": "不如这把对局，我们家三个答辩s，一个魔王，一个砖s44⭐，对面一个挂带一个40⭐一个金s，勉强取胜，我以为只是有挂，没想到对局质量这么高",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1781173008000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "id": "6a2a8b10000000002a02d087",
+      "content": "官匹有么",
+      "likeCount": "0",
+      "ipLocation": "河北",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "6805ff54000000000a03d468",
+        "nickname": "回不去的何止是时间",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32197m33ene005q05vta2nl383f1mfo0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtgOrW6AKoMCWW7BlLOwDDKMhpKG2cyAoJ34D6n-Za_c="
+      },
+      "pictures": [],
+      "noteId": "6a05f61700000000080324af",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "重庆",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABSrPy7H45nGiVN8PDjxWNzs_D-IIy0cmD2WRIL623cw0=",
+        "userId": "670129a6000000001d03249a",
+        "nickname": "deepgrey",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6a05f61700000000080324af",
+      "content": "官皮不好说也看你那个隐藏分数要是你被举报的多或者是举报别人多 你的隐藏分就比较低然后 会匹配一些 不干净的牛鬼蛇神你的官皮可能就比较难打",
+      "likeCount": "0",
+      "createTime": 1780294159000,
+      "subCommentCount": "0",
+      "id": "6a1d220f000000002a031e87",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a05f61700000000080324af",
+      "showTags": [],
+      "createTime": 1781067208000,
+      "ipLocation": "马来西亚",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "pictures": [],
+      "id": "6a28edc7000000000d021c03",
+      "status": 0,
+      "content": "确实 尤其是18k以上 队友都不是人类  打faceit lvl10都没那么难[笑哭R][捂脸R]",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fd649fc000000000100a8d3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhq8hVrkmEfRjTvlyk9GOnaJ66iIKRxNggtctKXtqbDc=",
+        "userId": "5fd649fc000000000100a8d3",
+        "nickname": "🚶"
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "liked": false,
+      "likeCount": "1",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 给分",
+  "search_item": {
+    "id": "6a05f61700000000080324af",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "官匹为什么这么难打",
+      "user": {
+        "xsecToken": "ABCcelnix4L5D43mXDgO4Dhjn3eEW6fpqBsv6vtXFvCRc=",
+        "nickName": "忆鸢词",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3205g2lj3ia605pjfli60u356q16tv20?imageView2/2/w/80/format/jpg",
+        "userId": "666fac8c0000000003030ca6",
+        "nickname": "忆鸢词"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "8",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "82",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251408/522d23ebbd2870271793d6dd3cf8643c/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nc_n_webp_prv_1",
+        "height": 3072,
+        "width": 4080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251408/279b4e2be482f332f7dd1432394d4d6b/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251408/279b4e2be482f332f7dd1432394d4d6b/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251408/522d23ebbd2870271793d6dd3cf8643c/note_pre_post_uhdr/1040g3r03205gdo552a6g5pjfli60u3562hj8mro!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 3072,
+          "width": 4080
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-15"
+        }
+      ]
+    },
+    "xsecToken": "AB_OxyhgZfs4Q5-SvPL1RGD-tx4xShqGrm-Yo-Vm2c9pM=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a05f61700000000080324af"
+  }
+}

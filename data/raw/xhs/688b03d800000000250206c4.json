@@ -1,0 +1,459 @@
+{
+  "note_id": "688b03d800000000250206c4",
+  "url": "https://www.xiaohongshu.com/explore/688b03d800000000250206c4?xsec_token=ABgJkR4XefbwOx0AF3JcPG_Xp5iU46YOnz5_28P4Js5EM=",
+  "fetched_at": 1784959439.2947676,
+  "note": {
+    "xsecToken": "ABgJkR4XefbwOx0AF3JcPG_Xp5iU46YOnz5_28P4Js5EM=",
+    "atUserList": [],
+    "time": 1753940952000,
+    "lastUpdateTime": 1754164841000,
+    "type": "normal",
+    "title": "OMSCS 25 Summer GA CS6515体验",
+    "desc": "Summer选课最后一天刷到了GA的空位，犹豫了一下还是决定第三门课就冲了 [doge] Summer真的时间压力拉满，2个月内3场考试，每隔两周就考一次，精神高度紧绷 ，累[捂脸R]，所以个人建议：如果可以，还是Fall/Spring上这门课更合适，时间充裕很多，心态也能轻松不少。\n\t\n3次考试占90%（最高占35%+中间30%+最低占25%）+10%开卷quiz，好处是不用担心以前的hw查重问题，坏处就是考试分量太大，压力山大 [扶墙R]。评分很直接：85+是A，70+是B，不会curve。\n\t\nHomework：每周都有一份，可交到Gradescope，TA会按考试标准打分，但不计入总评。建议都做，再加上practice problems（TA会给标准答案），简答题基本都是它们的变体，我临考前会把答案都看一遍，很有帮助。\n\t\nOffice Hour：\n•\t教授每周一次（1h左右），主要讲 HW，可能在周中和工作时间冲突，看回放就好。\n•\tJoves的OH（2-3h，周末），强烈推荐！Google大佬，人很好，复习概念+考试格式+常见错误，然后带着过DPV练习题。考前还有超长 exam review（3-4h），看前 2/3 基本够用了，最后一两道一般都很难，没啥用。\n\t\n考试：\n第一次：DP + Divide & Conquer （两道dp各10分+一道dc20分+选择20分）\n第二次：Graph + Max Flow （Graph，Max Flow各20分一道+选择20分）\n第三次：NP + Linear Programming（NP一道20分+选择40分）\n每场三小时，room scan一定要按照ed上要求来，比如得专门展示手腕，不然会被倒扣分。考试不用写 pseudocode，简答题一定要按照TA 在ed给的格式，一般都是写narratives，每次出分都会有不少同学提交regrade申请和TA掰头[笑哭R]选择题都出自 lecture，我是第一遍认真做笔记，考前带着笔记快速过第二遍，效果不错。至于每周assign的DPV reading？我全程没看，实测没影响 [doge]。有个小坑，教授不是英语母语，每次考试都有一两道选择题的措辞略迷惑，让我很纠结，然后就选错了[笑哭R]\n#gatech[话题]# #omscs[话题]# #佐治亚理工[话题]# #cs6515[话题]#",
+    "tagList": [
+      {
+        "id": "612c06ca000000000100b8ee",
+        "name": "gatech",
+        "type": "topic"
+      },
+      {
+        "id": "5fe2511f0000000001005622",
+        "name": "omscs",
+        "type": "topic"
+      },
+      {
+        "name": "佐治亚理工",
+        "type": "topic",
+        "id": "610841a60000000001001173"
+      },
+      {
+        "id": "66be6938000000002302c991",
+        "name": "cs6515",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "688b03d800000000250206c4",
+    "user": {
+      "userId": "5c3197e100000000060035c8",
+      "nickname": "ᅠᅠᅠ",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg",
+      "xsecToken": "ABuvi2Yx8V7O0DHPTgMsZDlHlcawJ3MM7EFc0dbTGKs_U="
+    },
+    "interactInfo": {
+      "likedCount": "91",
+      "collectedCount": "119",
+      "shareCount": "29",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "15",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831kjdkme12a005n1hivghgde8mm97958",
+        "height": 1440,
+        "width": 1170,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251404/bd986c08268be1ad19407ac1c9b8fd57/1040g00831kjdkme12a005n1hivghgde8mm97958!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607251404/037f1354fc4abd9366596a87d925b47f/1040g00831kjdkme12a005n1hivghgde8mm97958!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251404/037f1354fc4abd9366596a87d925b47f/1040g00831kjdkme12a005n1hivghgde8mm97958!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251404/bd986c08268be1ad19407ac1c9b8fd57/1040g00831kjdkme12a005n1hivghgde8mm97958!nd_prv_wlteh_jpg_3"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "id": "68b3a437000000000b0283d8",
+      "noteId": "688b03d800000000250206c4",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "68b3a437000000000b0283d8",
+            "userInfo": {
+              "userId": "564eeb5b03eb84696a3548c8",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qa5qf8a7e0042ln3pllmi68i6rat08?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABhgDLIeviNQHFcHpj2unvJ5BB9HGDCv-Od-Lt4B-y1vs="
+            }
+          },
+          "id": "68b3a5bc000000003000e205",
+          "noteId": "688b03d800000000250206c4",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "ᅠᅠᅠ",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2mU2mGndlbYKtkpPBVhZMz1AcRPGjm4QAnB4enwArwI=",
+            "userId": "5c3197e100000000060035c8"
+          },
+          "createTime": 1756603836000,
+          "ipLocation": "云南",
+          "invalid": false,
+          "content": "canvas上输入答案，不支持latex，可以带五张空白草稿纸",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "subCommentCursor": "68b3a5bc000000003000e205",
+      "userInfo": {
+        "userId": "564eeb5b03eb84696a3548c8",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qa5qf8a7e0042ln3pllmi68i6rat08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhgDLIeviNQHFcHpj2unvJ5BB9HGDCv-Od-Lt4B-y1vs="
+      },
+      "createTime": 1756603448000,
+      "status": 0,
+      "content": "考试的时候 是直接在电脑上面输入自己答案吗，还是可以手写在纸上？ 可以用演草纸吗",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "ipLocation": "美国",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentCursor": "68bb71bc00000000300137d2",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "showTags": [],
+      "createTime": 1757085410000,
+      "subComments": [
+        {
+          "id": "68bb71bc00000000300137d2",
+          "noteId": "688b03d800000000250206c4",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1757114813000,
+          "targetComment": {
+            "id": "68bafee2000000000a00de7f",
+            "userInfo": {
+              "nickname": "小木",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f8d34b3d8168e0001161d45.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB13YXgZv7-YPwXUvKjH7GpQMZan0oGM88mv3xiSF4fng=",
+              "userId": "5a7ab2e411be1076ab3e48c8"
+            }
+          },
+          "status": 0,
+          "content": "考试不能用latex，虽然canvas支持latex，但是批改是在gradescope上的，TA说用latex会乱码，所以只能直接写plain text。",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5c3197e100000000060035c8",
+            "nickname": "ᅠᅠᅠ",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2mU2mGndlbYKtkpPBVhZMz1AcRPGjm4QAnB4enwArwI="
+          },
+          "ipLocation": "云南",
+          "invalid": false
+        }
+      ],
+      "id": "68bafee2000000000a00de7f",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5a7ab2e411be1076ab3e48c8",
+        "nickname": "小木",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f8d34b3d8168e0001161d45.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB13YXgZv7-YPwXUvKjH7GpQMZan0oGM88mv3xiSF4fng="
+      },
+      "subCommentCount": "2",
+      "noteId": "688b03d800000000250206c4",
+      "status": 0,
+      "content": "考试需要用latex写公式吗",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "noteId": "688b03d800000000250206c4",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2mU2mGndlbYKtkpPBVhZMz1AcRPGjm4QAnB4enwArwI=",
+            "userId": "5c3197e100000000060035c8",
+            "nickname": "ᅠᅠᅠ"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1755641529000,
+          "ipLocation": "加拿大",
+          "content": "是的，free response直接在canvas上打字写。我三次考试都把三个小时用完了[笑哭R]",
+          "atUsers": [],
+          "likeCount": "1",
+          "targetComment": {
+            "id": "68a4d7fa000000002700d583",
+            "userInfo": {
+              "userId": "5d02072f0000000010034eb2",
+              "nickname": "小面包金VV",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d0213b0b212fa00015ad29a.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABVoEJwUAWb7EIHwdmYy7tKDpuwl84vxoHBR9k86WQM_U="
+            }
+          },
+          "invalid": false,
+          "id": "68a4f6b80000000030019fd9"
+        }
+      ],
+      "subCommentCursor": "68a4f6b80000000030019fd9",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABVoEJwUAWb7EIHwdmYy7tKDpuwl84vxoHBR9k86WQM_U=",
+        "userId": "5d02072f0000000010034eb2",
+        "nickname": "小面包金VV",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d0213b0b212fa00015ad29a.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "美国",
+      "id": "68a4d7fa000000002700d583",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "noteId": "688b03d800000000250206c4",
+      "content": "考试是在电脑上打字写证明吗？三个小时的考试，时间全得用上吗？还是说有多余的时间",
+      "subCommentHasMore": true,
+      "status": 0,
+      "showTags": [],
+      "createTime": 1755633658000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "id": "68929374000000002a00eb4b",
+          "status": 0,
+          "content": "1000+，不过这门课除了一开始的dp算是和leetcode有点关系，其他地方没啥关联，这门课也不用写pseudocode，相对比较偏理论。",
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5c3197e100000000060035c8",
+            "nickname": "ᅠᅠᅠ",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2mU2mGndlbYKtkpPBVhZMz1AcRPGjm4QAnB4enwArwI="
+          },
+          "createTime": 1754436469000,
+          "targetComment": {
+            "id": "689272af000000002b01d21a",
+            "userInfo": {
+              "userId": "5b2ac25ae8ac2b3e8001988a",
+              "nickname": "Sakura依依",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/64bc8a1054d001c4664161f6.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmBb3uz-fLMv5dOSLC1DMifjgF7Lguwp3hN6SJKcxFIk="
+            }
+          },
+          "invalid": false,
+          "noteId": "688b03d800000000250206c4",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "加拿大"
+        }
+      ],
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "noteId": "688b03d800000000250206c4",
+      "createTime": 1754428080000,
+      "subCommentCursor": "68929374000000002a00eb4b",
+      "id": "689272af000000002b01d21a",
+      "content": "请问你上课前刷了多少题了",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64bc8a1054d001c4664161f6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmBb3uz-fLMv5dOSLC1DMifjgF7Lguwp3hN6SJKcxFIk=",
+        "userId": "5b2ac25ae8ac2b3e8001988a",
+        "nickname": "Sakura依依"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1753942096000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "ᅠᅠᅠ",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2mU2mGndlbYKtkpPBVhZMz1AcRPGjm4QAnB4enwArwI=",
+            "userId": "5c3197e100000000060035c8"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1753987712000,
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "加拿大",
+          "targetComment": {
+            "id": "688b084f000000002903a1b4",
+            "userInfo": {
+              "nickname": "hihi",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhmm6ufg4004a37k7ljutkp0bkifu8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB_gnfmVffFOW1JdCOP-eGIn6Cm1jODzu6Kxg4MlYIo40=",
+              "userId": "5aa2ab3f4eacab3bc97e7699"
+            }
+          },
+          "invalid": false,
+          "id": "688bba80000000002a001d9c",
+          "noteId": "688b03d800000000250206c4",
+          "status": 0,
+          "content": "冲冲冲[doge]",
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "688bba80000000002a001d9c",
+      "subCommentHasMore": false,
+      "id": "688b084f000000002903a1b4",
+      "userInfo": {
+        "userId": "5aa2ab3f4eacab3bc97e7699",
+        "nickname": "hihi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhmm6ufg4004a37k7ljutkp0bkifu8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_gnfmVffFOW1JdCOP-eGIn6Cm1jODzu6Kxg4MlYIo40="
+      },
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "688b03d800000000250206c4",
+      "content": "th老师太牛啦 到时候上GA就照着你这个来[偷笑R]",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "createTime": 1754427005000,
+      "id": "68926e7c0000000029039d9e",
+      "noteId": "688b03d800000000250206c4",
+      "likeCount": "1",
+      "showTags": [],
+      "ipLocation": "加拿大",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "userId": "5e18efe7000000000100a7ba",
+        "nickname": "LivingInTO",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o2438fhmg005ngotvjg99tq47nkj70?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7cG4ICU4wkMY8y_MNIWHuj1goqNYhYVcYA1zxS4DP3o="
+      },
+      "subCommentCount": "0",
+      "content": "真的90多分吗[doge]太厉害了啊",
+      "atUsers": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 体验",
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "OMSCS 25 Summer GA CS6515体验",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63b27e14b6c054b4b0804800.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5c3197e100000000060035c8",
+        "nickname": "ᅠᅠᅠ",
+        "xsecToken": "ABbU61FKX_BAZF61sjwj7hSi4LjaDBW1FxttncJ6FhF1E=",
+        "nickName": "ᅠᅠᅠ"
+      },
+      "interactInfo": {
+        "collectedCount": "119",
+        "commentCount": "15",
+        "sharedCount": "29",
+        "liked": false,
+        "likedCount": "91",
+        "collected": false
+      },
+      "cover": {
+        "height": 1440,
+        "width": 1170,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607251403/4ec5931a0778a9fb6d59d4b661f29e8c/1040g00831kjdkme12a005n1hivghgde8mm97958!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607251403/ae329e1abc8d17e50900c86412d6dee8/1040g00831kjdkme12a005n1hivghgde8mm97958!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1170,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/4ec5931a0778a9fb6d59d4b661f29e8c/1040g00831kjdkme12a005n1hivghgde8mm97958!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607251403/ae329e1abc8d17e50900c86412d6dee8/1040g00831kjdkme12a005n1hivghgde8mm97958!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1440
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-03"
+        }
+      ]
+    },
+    "xsecToken": "ABgJkR4XefbwOx0AF3JcPG_Xp5iU46YOnz5_28P4Js5EM=",
+    "id": "688b03d800000000250206c4",
+    "modelType": "note",
+    "index": 1,
+    "exposed": true,
+    "trackId": "688b03d800000000250206c4"
+  }
+}

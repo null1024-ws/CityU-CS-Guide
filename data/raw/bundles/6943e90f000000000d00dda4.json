@@ -1,0 +1,133 @@
+{
+  "note_id": "6943e90f000000000d00dda4",
+  "url": "https://www.xiaohongshu.com/explore/6943e90f000000000d00dda4?xsec_token=ABxLR-OQ7BBvJIxFRj7ATNJUYJlGxi3_AX73kR9bD_AgY=",
+  "fetched_at": 1784959452.948672,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "不太理解：姚顺雨明明是做Agent的，代表作是ReAct、SWE-agent这些，为什么腾讯要让他去管”大语言模型”？\n是觉得Agent比预训练更重要，还是觉得反正也卷不过DeepSeek，不如把资源押在应用层？有没有懂的朋友来讲讲🤔\n\t\n#姚顺雨[话题]# #数据科学[话题]# #人工智能就业[话题]# #机器学习[话题]# #PhD[话题]# #博士留学[话题]# #人工智能发展[话题]# #大模型[话题]# #学术[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "招他不是招他一个人，而是利用他的影响力招一批人进来",
+      "sourceRef": "comment:6944b24a000000001403e25a",
+      "commentId": "6944b24a000000001403e25a",
+      "likes": 483,
+      "author": "zzzzzzzzz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看了这么多，就这个是明白人",
+      "sourceRef": "comment:6967ca5f000000000b03626a",
+      "commentId": "6967ca5f000000000b03626a",
+      "likes": 57,
+      "author": "jdjj"
+    },
+    {
+      "type": "comment",
+      "text": "他的管理经验多吗？",
+      "sourceRef": "comment:694425ec00000000160227ed",
+      "commentId": "694425ec00000000160227ed",
+      "likes": 10,
+      "author": "薯蜀黍"
+    },
+    {
+      "type": "comment",
+      "text": "难道应用不比底层模型更重要吗？我自己觉得腾讯这步棋走对了",
+      "sourceRef": "comment:69443583000000001403d880",
+      "commentId": "69443583000000001403d880",
+      "likes": 80,
+      "author": "vicki"
+    },
+    {
+      "type": "sub_comment",
+      "text": "注重应用层也很符合腾讯一贯的风格",
+      "sourceRef": "comment:694446bb000000001403472c",
+      "commentId": "694446bb000000001403472c",
+      "likes": 61,
+      "author": "Rick "
+    },
+    {
+      "type": "comment",
+      "text": "不断卷基模去刷榜只会重蹈上一轮cv浪潮商汤旷视的老路，只有面向应用才有活路",
+      "sourceRef": "comment:69468760000000001702eca9",
+      "commentId": "69468760000000001702eca9",
+      "likes": 73,
+      "author": "小红薯6845AFC5"
+    },
+    {
+      "type": "comment",
+      "text": "预训练的scaling law很可能撞墙了，后面怎么搞应用可能更重要",
+      "sourceRef": "comment:694486b0000000000601a875",
+      "commentId": "694486b0000000000601a875",
+      "likes": 8,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "撞墙的是一线frontier labs，像腾讯这种可是连墙都看不到",
+      "sourceRef": "comment:694eb15d000000000601a86d",
+      "commentId": "694eb15d000000000601a86d",
+      "likes": 12,
+      "author": "Boltzmann"
+    },
+    {
+      "type": "comment",
+      "text": "我更倾向于认为，腾讯并不是放弃底层模型，而是对“底层”的定义发生了变化。对腾讯这样的公司来说，决定性因素不再是模型在benchmark 上能做到多高，而是一个模型能否在大规模、复杂、受约束的真实业务场景中被稳定地使用。在这种目标函数下，Agent 视角反而非常关键，因为它直接决定了模型推理/行动/与系统和人协作。所以从这个角度看，让ReAct的作者来操盘 LLM，并不能证明腾讯放弃模型，反而可以看成腾讯是在押注一种以动态推理和行动为核心的模型智能体协同设计的新的底层形态。",
+      "sourceRef": "comment:6944c91d000000001d01f35e",
+      "commentId": "6944c91d000000001d01f35e",
+      "likes": 38,
+      "author": "沐AuAu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "挺有见地的。但有个挑战是现在agent真的到了能killer app的程度了吗（虽然确实也出了高流量的app如阿福 manus，但总觉得模型测能力还需要飞越）",
+      "sourceRef": "comment:6944d11d0000000038033cce",
+      "commentId": "6944d11d0000000038033cce",
+      "likes": 1,
+      "author": "wyx"
+    },
+    {
+      "type": "comment",
+      "text": "xhs：还得练[doge]",
+      "sourceRef": "comment:6944d5a80000000016026adf",
+      "commentId": "6944d5a80000000016026adf",
+      "likes": 67,
+      "author": "泡脚盖饭!"
+    },
+    {
+      "type": "comment",
+      "text": "腾讯目标： 搞好agent ， 然后裁一半人；留下的提高效率3倍。小姚你好好去做吧",
+      "sourceRef": "comment:69443c380000000038014efb",
+      "commentId": "69443c380000000038014efb",
+      "likes": 33,
+      "author": "2026"
+    },
+    {
+      "type": "comment",
+      "text": "把消息放出去，腾讯股票就能📈 [偷笑R]",
+      "sourceRef": "comment:6943f2b30000000006019ad4",
+      "commentId": "6943f2b30000000006019ad4",
+      "likes": 10,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "和产品团队可以由研发老大直管一个道理。战略管理层角色，更大的scope，但不一定用专精",
+      "sourceRef": "comment:69440ccf00000000160222ce",
+      "commentId": "69440ccf00000000160222ce",
+      "likes": 8,
+      "author": "Wusu～"
+    },
+    {
+      "type": "sub_comment",
+      "text": "类似逻辑，张志东和汤道生二十年前的工程水平顶尖，也一步步做总裁开始带不局限于自己专精领域的团队",
+      "sourceRef": "comment:694453c800000000300246b3",
+      "commentId": "694453c800000000300246b3",
+      "likes": 2,
+      "author": "Wusu～"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "note_id": "69b2053a0000000026030981",
+  "url": "https://www.xiaohongshu.com/explore/69b2053a0000000026030981?xsec_token=ABl_3-axLvtdzoSjAs2KIwPKxLq4C-XYhn52OgC_iKLdo=",
+  "fetched_at": 1784959663.3768873,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "被项目里的master整破防了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "真的求不喜欢做research的同学，别为了幻想成为phd或者逃避就业为了推荐信进项目组了。\n\t\n今天被项目里的一个master破防了，让帮忙复现一个之前一个开源并通过了AEC的工作，写了3个月还是AI style加完全跑不了。就算是这样也就算了，0作用的人也见过不少，但偏偏每次开完会还要装模作样来问我问题，平时从来见不到人，slack消息也是回一两句不回了。本来想着下周spring break我自己把那部分做了就完事，结果这个master自己瞎搞半天还是搞不明白之前工作的idea，扔几个log要我帮忙debug，纯纯的负作用。直接给我整破防了。\n\t\n再次求求不喜欢做科研的同学别加项目组折磨本来就苦逼的phd牛马了，放过我们吧。\n\t\n#科研人精神状态[话题]##PhD[话题]##computer_science[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我以前读phd的时候带过一个这样的硕士。啥都不会结果导师给他收烂摊子。后来他申请到了我们专业排名比较靠前的一个phd项目。毕业后去了一个R2。",
+      "sourceRef": "comment:69b20dee000000001803bc06",
+      "commentId": "69b20dee000000001803bc06",
+      "likes": 130,
+      "author": "Yang"
+    },
+    {
+      "type": "sub_comment",
+      "text": "又是申请到好的项目又去了R2，可能人家真的有点东西没被你们发现（没有任何冒犯的意思，只是我个人主观的看法）",
+      "sourceRef": "comment:69b39c8e00000000010074a3",
+      "commentId": "69b39c8e00000000010074a3",
+      "likes": 226,
+      "author": "嘟嘟嘟（限流版）"
+    },
+    {
+      "type": "comment",
+      "text": "最怕老板还觉得他有上进心给他分配工作，让你看着点，结果变成你给他擦屁股，你擦的不好还要怪你。cs实验相对来说即时危险性还小点（除非你碰到神人要删你的库），物化实验你是真怕他随手布置的小陷阱把你炸死",
+      "sourceRef": "comment:69b9868e000000000d03ca10",
+      "commentId": "69b9868e000000000d03ca10",
+      "likes": 15,
+      "author": "unre"
+    },
+    {
+      "type": "sub_comment",
+      "text": "想问问大神们 这个案例算不算神人 硕博过度阶段当时上了一节课 那节课比较难有个神人求我跟他一组 这个神人跟我朋友搞暧昧 看在朋友面子上跟这个神人一组 结果这个神人刚开始就在小组里抱团 必须按照他说的做 教授看了proposal说不行 这位神人根本不care 后面结果跑出来太糟糕  教授不同意 这位神人桶了篓子收不了场他和他的小团体集体跑路 我一个人拿半个月重做 做出来了 神人让我让我带他名字 不带他名字就给我朋友告状 我朋友来怪我 没办法妥协了 结果趁我不注意 把参数数据拿走了[哭惹R][哭惹R] 本来说好了只是带个他名字应付课程任务 我做的这个比较好后续还可以做 .....结果数据被拿走了.",
+      "sourceRef": "comment:6a5e4500000000000d023000",
+      "commentId": "6a5e4500000000000d023000",
+      "likes": 0,
+      "author": "Helen"
+    },
+    {
+      "type": "comment",
+      "text": "+1 零作用没问题，最怕的就是那些为了装模作样来耽误我时间导致副作用的人。我现在遇到那些不想做了直接ghost的人都特别感恩。",
+      "sourceRef": "comment:69b20fb50000000001004bef",
+      "commentId": "69b20fb50000000001004bef",
+      "likes": 163,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "零作用还没问题，真希望遇到你们啊[完啦R][完啦R]",
+      "sourceRef": "comment:69b26c680000000015008a1c",
+      "commentId": "69b26c680000000015008a1c",
+      "likes": 10,
+      "author": "我一路向北离开有你的季节"
+    },
+    {
+      "type": "comment",
+      "text": "国内这种宝宝多的是",
+      "sourceRef": "comment:69b2152b0000000016017c2a",
+      "commentId": "69b2152b0000000016017c2a",
+      "likes": 34,
+      "author": "PhD和Ta们的导师"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本质上还是教育制度的问题，要分流去工业的PhD和master和纯纯学术master. PhD。每个人目的不一样，进来的博士有的只是要一个毕业证，因为他评级需要这个学历。硕士同理，有的只是进来学一点然后要这个毕业证找工作。有些是为了科研梦。[微笑R]就拿硕士看说，国内的硕士现在就像00初时候的本科一样，成为了一种标配。不是他想不想科研的问题，而是一个基本的教育标配，他必须拿这个毕业证才有下一步的资格。[微笑R]不过我并不认为国内能把这个分流整明白，就像职业大学和普通大学分不清，专硕学硕还是分不清。在惟有读书高的思想下，职业大学和专硕受到鄙视，只能往普通大学和学硕里面钻",
+      "sourceRef": "comment:69cdbdd6000000000f01ebee",
+      "commentId": "69cdbdd6000000000f01ebee",
+      "likes": 23,
+      "author": "JUSTIN KIM"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得一个要publish的project里的任何东西都不应该全权交给ms，分一点给他们当练习好了，但要做好那个部份得自己全部重做的心理准备[笑哭R]",
+      "sourceRef": "comment:69b343390000000015017487",
+      "commentId": "69b343390000000015017487",
+      "likes": 3,
+      "author": "克里三小姐"
+    },
+    {
+      "type": "comment",
+      "text": "💩+ai = 高效自动💩产生器",
+      "sourceRef": "comment:69b3ff2b000000000d03e6fc",
+      "commentId": "69b3ff2b000000000d03e6fc",
+      "likes": 17,
+      "author": "大红薯（想留北京版）"
+    },
+    {
+      "type": "comment",
+      "text": "不喜欢有可能只是和你们lab不match[坏笑R]人家换个环境就成仙了",
+      "sourceRef": "comment:69b48984000000000f00c100",
+      "commentId": "69b48984000000000f00c100",
+      "likes": 13,
+      "author": "学习稳赚不到钱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那真心希望她能赶紧去别的组发光发热了[合十R][合十R]",
+      "sourceRef": "comment:69b491c500000000020366a4",
+      "commentId": "69b491c500000000020366a4",
+      "likes": 3,
+      "author": "Tz😮"
+    },
+    {
+      "type": "comment",
+      "text": "大哥，那我本科生来纯粹混一下，0作用不耽误你行不行，就是为了混个推荐信[笑哭R]",
+      "sourceRef": "comment:69cd9ac2000000000d0107b4",
+      "commentId": "69cd9ac2000000000d0107b4",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "问题是这样拿到的推荐信也是0作用，甚至是负作用[笑哭R]",
+      "sourceRef": "comment:69cf00c1000000000103c109",
+      "commentId": "69cf00c1000000000103c109",
+      "likes": 14,
+      "author": "Tz😮"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没在四大待过，但在待过的两个top10都有这种情况。",
+      "sourceRef": "comment:69b2f00a0000000002034ac1",
+      "commentId": "69b2f00a0000000002034ac1",
+      "likes": 3,
+      "author": "Tz😮"
+    },
+    {
+      "type": "comment",
+      "text": "笑死[偷笑R]以前刷到很多骄傲的master[偷笑R]",
+      "sourceRef": "comment:69dcabe10000000016015dfd",
+      "commentId": "69dcabe10000000016015dfd",
+      "likes": 1,
+      "author": "小红薯6A056CB2"
+    }
+  ]
+}
