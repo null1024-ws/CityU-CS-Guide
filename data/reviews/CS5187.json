@@ -43,7 +43,7 @@
     }
   },
   "tips": [
-    "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙[doge]，所以应该是为了避免学生套壳使用）",
+    "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）",
     "CS5187 vision and image 必选"
   ],
   "sources": [

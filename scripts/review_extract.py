@@ -77,6 +77,11 @@ REVIEW_SIGNAL_RE = re.compile(
     re.I,
 )
 TIP_NOISE_RE = re.compile(r"^(您好|请问|怎么选|哪个老师|蹲一个|学长\s*下学期)", re.I)
+COURSE_TIP_RE = re.compile(r"(推荐|建议|必选|慎选|无脑选|闭眼选)", re.I)
+TIP_PRAISE_FRAGMENT_RE = re.compile(
+    r"^.{0,30}老师.{0,20}(好|不错|负责|捞|大好人|清楚|清晰|温柔|认真|给力|善良)",
+    re.I,
+)
 MARKETING_RE = re.compile(r"专属咨询|付费选课|备考咨询|-付费")
 COMMENT_NOISE_RE = re.compile(
     r"^(你好|请问|学长|姐妹|感谢|谢谢|这么狠|高水平|哈哈|蹲一个)",
@@ -105,6 +110,45 @@ def normalize_review_line(line: str) -> str:
     line = re.sub(r"[:：]\s*$", "", line)
     line = re.sub(r"\s{2,}", " ", line).strip()
     return line
+
+
+def consolidate_tips(tips: list[str], code: str) -> list[str]:
+    """Merge short teacher-praise fragments into the main course recommendation tip."""
+    normalized: list[str] = []
+    for tip in tips:
+        line = normalize_review_line(tip)
+        if line and line not in normalized:
+            normalized.append(line)
+    if len(normalized) < 2:
+        return normalized[:8]
+
+    anchors: list[str] = []
+    fragments: list[str] = []
+    for tip in normalized:
+        is_fragment = (
+            code.upper() not in tip.upper()
+            and len(tip) <= 30
+            and TIP_PRAISE_FRAGMENT_RE.search(tip)
+            and not COURSE_TIP_RE.search(tip)
+        )
+        if is_fragment:
+            fragments.append(tip)
+        else:
+            anchors.append(tip)
+
+    if anchors and fragments:
+        primary_idx = next(
+            (
+                i
+                for i, tip in enumerate(anchors)
+                if COURSE_TIP_RE.search(tip) or code.upper() in tip.upper()
+            ),
+            0,
+        )
+        anchors[primary_idx] = anchors[primary_idx] + "；" + "；".join(fragments)
+        return anchors[:8]
+
+    return normalized[:8]
 
 
 def is_noise_line(line: str) -> bool:
@@ -353,7 +397,7 @@ def process_bundles(bundles: list[dict], code: str) -> dict:
     return {
         "courseCode": code,
         "field_hits": dict(field_hits),
-        "tips": list(dict.fromkeys(tips))[:8],
+        "tips": consolidate_tips(list(dict.fromkeys(tips)), code),
         "post_sources": post_sources[:8],
         "comment_sources": comment_sources[:8],
     }
