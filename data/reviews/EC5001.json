@@ -15,14 +15,13 @@
       "sourceCount": 4,
       "distinctSources": 2
     },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
     "grading": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "workload": {
       "value": "unknown",
       "confidence": "unknown",
       "sourceCount": 0,

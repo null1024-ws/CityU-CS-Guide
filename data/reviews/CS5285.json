@@ -5,22 +5,27 @@
       "value": "hard",
       "label": "较难",
       "confidence": "confirmed",
-      "sourceCount": 12,
+      "sourceCount": 10,
       "distinctSources": 6
     },
     "workload": {
       "value": "light",
       "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 5
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：轻松×1、繁重×1",
+      "variants": {
+        "light": 1,
+        "heavy": 1
+      }
     },
     "examFormat": {
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 9,
-      "distinctSources": 6
+      "sourceCount": 11,
+      "distinctSources": 5
     },
     "grading": {
       "value": "generous",
@@ -44,8 +49,6 @@
     }
   },
   "tips": [
-    "友友，ec和ds您建议选哪个，近从就业角度",
-    "友友，ec和ds您建议选哪个，仅从就业角度",
     "CS5285 Information Security for e-commerce 无密码学基础的慎选，不怕学不懂的话硬着头皮冲可以期末给分高"
   ],
   "sources": [
@@ -189,6 +192,19 @@
       "role": "supplement"
     },
     {
+      "noteId": "67d048c600000000070342ec",
+      "url": "https://www.xiaohongshu.com/explore/67d048c600000000070342ec?xsec_token=AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+      "excerpt": "这让我怎么说呢，我只能说原则上按考试规定不可以，TA印象里大概看的不严。",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "聊聊香港城市大学CS5285 信息安全",
+      "commentId": "68e8c02c0000000037024471",
+      "author": "Richett_L",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
       "noteId": "677d6c92000000000800e8a7",
       "url": "https://www.xiaohongshu.com/explore/677d6c92000000000800e8a7?xsec_token=AB2o9CfZn__ofkuLhTbnXlK6D70gawyf3zl6T-5Jk7dwU=",
       "excerpt": "可以问问5003的final大概是什么题型 有什么重点吗快考试了很慌",
@@ -202,28 +218,15 @@
       "role": "supplement"
     },
     {
-      "noteId": "695d3eb3000000002102be0b",
-      "url": "https://www.xiaohongshu.com/explore/695d3eb3000000002102be0b?xsec_token=ABGy73TvojNEVuLiIZyuM1jT1pSlUVc1rBbAtTYj_5asE=",
-      "excerpt": "理论上是可以的，具体实操要看你们这届的课程和学分安排",
+      "noteId": "67d048c600000000070342ec",
+      "url": "https://www.xiaohongshu.com/explore/67d048c600000000070342ec?xsec_token=AB4StWrMX1RJuIDU6IrnibLrqmdssJJz3UE8kSI_1iDAQ=",
+      "excerpt": "计算+简答，应该总计5道大题，课件+tutorial复习完就差不多",
       "extractedFrom": [
         "sub_comment"
       ],
-      "postTitle": "CityUHK Data Science Sem A结算",
-      "commentId": "695f8486000000001601e38f",
-      "author": "村头的鹅守卫",
-      "likes": 1,
-      "role": "supplement"
-    },
-    {
-      "noteId": "695d3eb3000000002102be0b",
-      "url": "https://www.xiaohongshu.com/explore/695d3eb3000000002102be0b?xsec_token=ABGy73TvojNEVuLiIZyuM1jT1pSlUVc1rBbAtTYj_5asE=",
-      "excerpt": "hello hello，请问考试是纸笔还是上机呀？",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityUHK Data Science Sem A结算",
-      "commentId": "6a5c7b04000000000802f05c",
-      "author": "何铁牛🐃",
+      "postTitle": "聊聊香港城市大学CS5285 信息安全",
+      "commentId": "68eccbf40000000033027d2a",
+      "author": "Richett_L",
       "likes": 0,
       "role": "supplement"
     }

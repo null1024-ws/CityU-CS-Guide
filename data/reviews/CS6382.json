@@ -9,8 +9,8 @@
       "distinctSources": 1
     },
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
+      "value": "hard",
+      "label": "较难",
       "confidence": "confirmed",
       "sourceCount": 3,
       "distinctSources": 2

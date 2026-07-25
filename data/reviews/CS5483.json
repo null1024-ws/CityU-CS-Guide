@@ -2,11 +2,17 @@
   "courseCode": "CS5483",
   "fields": {
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "confirmed",
-      "sourceCount": 4,
-      "distinctSources": 3
+      "value": "medium",
+      "label": "适中",
+      "confidence": "disputed",
+      "sourceCount": 3,
+      "distinctSources": 3,
+      "note": "来源说法不一：适中×1、简单×1、较难×1",
+      "variants": {
+        "medium": 1,
+        "easy": 1,
+        "hard": 1
+      }
     },
     "grading": {
       "value": "harsh",

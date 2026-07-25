@@ -2,12 +2,16 @@
   "courseCode": "CS6537",
   "fields": {
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "reported",
-      "sourceCount": 3,
+      "value": "hard",
+      "label": "较难",
+      "confidence": "disputed",
+      "sourceCount": 2,
       "distinctSources": 1,
-      "note": "同一帖子多次提及，待更多独立来源确认"
+      "note": "来源说法不一：较难×1、简单×1",
+      "variants": {
+        "hard": 1,
+        "easy": 1
+      }
     },
     "grading": {
       "value": "unknown",

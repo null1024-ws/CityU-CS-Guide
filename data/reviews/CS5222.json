@@ -16,18 +16,11 @@
       "distinctSources": 9
     },
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
+      "value": "medium",
+      "label": "适中",
       "confidence": "confirmed",
-      "sourceCount": 10,
-      "distinctSources": 6
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 4,
-      "distinctSources": 3
+      "sourceCount": 7,
+      "distinctSources": 5
     },
     "grading": {
       "value": "harsh",
@@ -35,6 +28,13 @@
       "confidence": "confirmed",
       "sourceCount": 3,
       "distinctSources": 3
+    },
+    "workload": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "attendance": {
       "value": "not_strict",

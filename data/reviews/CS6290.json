@@ -5,20 +5,19 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 6,
+      "sourceCount": 7,
       "distinctSources": 6
     },
     "difficulty": {
       "value": "easy",
       "label": "简单",
       "confidence": "disputed",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "distinctSources": 1,
-      "note": "来源说法不一：简单×1、适中×1、较难×1",
+      "note": "来源说法不一：简单×1、适中×1",
       "variants": {
         "easy": 1,
-        "medium": 1,
-        "hard": 1
+        "medium": 1
       }
     },
     "hasRecording": {
@@ -154,19 +153,6 @@
       "role": "correction"
     },
     {
-      "noteId": "68a545a7000000001c030804",
-      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
-      "excerpt": "如果课程要求变化了，还是以新要求为准，我之前的经验仅供参考",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "Cityu Msc CS St 课程评价",
-      "commentId": "6a5d789f00000000290182c3",
-      "author": "Restraint丶",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
       "noteId": "69f71f83000000003703582c",
       "url": "https://www.xiaohongshu.com/explore/69f71f83000000003703582c?xsec_token=ABrheCMLzfMn_Eygy9iVVQow8GUxWmstL7om65hYqYpJQ=",
       "excerpt": "不好意思 cheatsheet我并没有留存下来呢 祝你好运",
@@ -180,19 +166,6 @@
       "role": "supplement"
     },
     {
-      "noteId": "68a545a7000000001c030804",
-      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
-      "excerpt": "上一届是SemB结束后选，和别的选课形式上没有区别",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "Cityu Msc CS St 课程评价",
-      "commentId": "692b9a2a000000003803e94c",
-      "author": "Restraint丶",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
       "noteId": "6888c001000000000500b6a5",
       "url": "https://www.xiaohongshu.com/explore/6888c001000000000500b6a5?xsec_token=ABk0dyRCfRGayzi-lu8c3CSg6aGJRZFzU0mnQYS0J_dik=",
       "excerpt": "想问问 cs6290 第一周会有quiz吗",
@@ -201,19 +174,6 @@
       ],
       "postTitle": "香港城市大学 CS6290 隐私强化技术测评",
       "commentId": "6a1aebd10000000027015089",
-      "author": "momo",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "68a545a7000000001c030804",
-      "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
-      "excerpt": "主包，st能选的课是semB结束才会知道吗",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "Cityu Msc CS St 课程评价",
-      "commentId": "6a0bfa88000000002902c20f",
       "author": "momo",
       "likes": 0,
       "role": "supplement"

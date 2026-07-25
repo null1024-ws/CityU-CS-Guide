@@ -1,19 +1,19 @@
 {
   "courseCode": "CS5351",
   "fields": {
-    "difficulty": {
-      "value": "hard",
-      "label": "较难",
-      "confidence": "confirmed",
-      "sourceCount": 6,
-      "distinctSources": 6
-    },
     "examFormat": {
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 6,
-      "distinctSources": 4
+      "sourceCount": 7,
+      "distinctSources": 5
+    },
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
     },
     "hasRecording": {
       "value": "true",
@@ -48,9 +48,7 @@
       "label": "暂无数据"
     }
   },
-  "tips": [
-    "我两个学期十门课这门课独一档的烦，强烈建议申请豁免"
-  ],
+  "tips": [],
   "sources": [
     {
       "noteId": "68ab30eb000000001d034d6b",
@@ -150,19 +148,6 @@
       "commentId": "69f1a70500000000270235bb",
       "author": "嘻嘻哈哈",
       "likes": 2,
-      "role": "supplement"
-    },
-    {
-      "noteId": "69f1a339000000003601cda6",
-      "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
-      "excerpt": "中介和代写别来骚扰我。 同时支持付费咨询",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityUHK CS5351 课程锐评",
-      "commentId": "69f1ede80000000028030246",
-      "author": "efan404",
-      "likes": 0,
       "role": "supplement"
     }
   ],

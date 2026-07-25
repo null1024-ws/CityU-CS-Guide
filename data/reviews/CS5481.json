@@ -5,7 +5,7 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 10,
+      "sourceCount": 7,
       "distinctSources": 5
     },
     "hasRecording": {
@@ -22,19 +22,18 @@
       "sourceCount": 5,
       "distinctSources": 4
     },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
       "sourceCount": 6,
       "distinctSources": 6
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
     },
     "attendance": {
       "value": "unknown",
@@ -120,33 +119,6 @@
       "postTitle": "CityU MSc Computer Science 课程经验总结"
     }
   ],
-  "commentSources": [
-    {
-      "noteId": "67584bb70000000002016c6b",
-      "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
-      "excerpt": "前置课一般来说没法选，可以提交一个本科成绩单证明修过类似的课程豁免",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "香港城市大学CS5481 Data Engineering",
-      "commentId": "688c80fd0000000029033507",
-      "author": "Richett_L",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "67584bb70000000002016c6b",
-      "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
-      "excerpt": "因为看到有人这个课6点开始，前后两个教室",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "香港城市大学CS5481 Data Engineering",
-      "commentId": "6a4c9d22000000001500120e",
-      "author": "不错不错",
-      "likes": 0,
-      "role": "supplement"
-    }
-  ],
+  "commentSources": [],
   "lastUpdated": "2026-07-25"
 }

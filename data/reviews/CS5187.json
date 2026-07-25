@@ -5,8 +5,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 10,
-      "distinctSources": 6
+      "sourceCount": 7,
+      "distinctSources": 4
     },
     "examFormat": {
       "value": "open_book",
@@ -43,8 +43,6 @@
     }
   },
   "tips": [
-    "没有用教材，只用了老师的 ppt",
-    "dapeng老师我们喜欢你",
     "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）",
     "CS5187 vision and image 必选"
   ],
@@ -122,32 +120,6 @@
       "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
     }
   ],
-  "commentSources": [
-    {
-      "noteId": "68960125000000002501ac81",
-      "url": "https://www.xiaohongshu.com/explore/68960125000000002501ac81?xsec_token=ABgRVz4lYuYJz3jUIsqsVeGs0tushWOkQaQS-nhz3N8Oo=",
-      "excerpt": "隔壁25fallec表示看学长学姐们都对5187好评很想去，但是今年和5285必修课冲突了",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityU CS 选课血泪史2⃣",
-      "commentId": "68960e42000000002a0053cb",
-      "author": "momo",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "6a63005b000000000503831e",
-      "url": "https://www.xiaohongshu.com/explore/6a63005b000000000503831e?xsec_token=ABU9gdH9uOMWLrNRJKmKUuGZa0Jovf1T1JC13ru55laF0=",
-      "excerpt": "CityUCS周末没课的 semA必修大部分都是工作时间 一些是晚课",
-      "extractedFrom": [
-        "comment"
-      ],
-      "commentId": "6a633852000000000403804b",
-      "author": "momo",
-      "likes": 0,
-      "role": "supplement"
-    }
-  ],
+  "commentSources": [],
   "lastUpdated": "2026-07-25"
 }

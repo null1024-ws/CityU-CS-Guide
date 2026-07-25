@@ -12,15 +12,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 11,
-      "distinctSources": 7
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 4
+      "sourceCount": 10,
+      "distinctSources": 6
     },
     "attendance": {
       "value": "not_strict",
@@ -28,6 +21,13 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
     },
     "grading": {
       "value": "generous",

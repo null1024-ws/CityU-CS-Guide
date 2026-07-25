@@ -17,9 +17,9 @@ CODE_PATTERN = re.compile(COURSE_CODE_RE, re.IGNORECASE)
 
 FIELD_PATTERNS: dict[str, list[tuple[str, re.Pattern[str]]]] = {
     "difficulty": [
-        ("easy", re.compile(r"水课|好水|无脑选|事少|(?<![\u4e00-\u9fff])水(?![货类])|简单|不难|好拿|轻松(?=.*(?:课|整体|总体))", re.I)),
-        ("medium", re.compile(r"适中|一般|中等|还行|难度不大|难度一般", re.I)),
-        ("hard", re.compile(r"(?<![\u4e00-\u9fff])难(?![度听懂])|(?<![开闭])卷(?![卷])|很卷|太卷|卷课|硬核|劝退|地狱|崩溃|恶心|折磨|做不完|最难", re.I)),
+        ("easy", re.compile(r"水课|好水|无脑选|(?<![\u4e00-\u9fff])水(?![货类])|(?:课|难度|学起来|整体|总体).{0,10}简单|简单.{0,10}(?:课|难度)|不难|好拿|轻松(?=.*(?:课|整体|总体))", re.I)),
+        ("medium", re.compile(r"适中|一般|中等|还行|难度不大|难度一般|没想象.*?难", re.I)),
+        ("hard", re.compile(r"(?<![\u4e00-\u9fff])难(?![度听懂])|(?<![开闭])卷(?![卷])|很卷|太卷|卷课|硬核|劝退|地狱|崩溃|恶心|折磨|做不完|最难|难爆|吃力", re.I)),
     ],
     "grading": [
         ("generous", re.compile(r"给分.*?(高|好|松|友好|大方|慷慨|很高|不错)|高分|不压分|捞人|改卷.*?松|给分很高", re.I)),
@@ -27,7 +27,7 @@ FIELD_PATTERNS: dict[str, list[tuple[str, re.Pattern[str]]]] = {
         ("fair", re.compile(r"给分.*?(正常|fair)", re.I)),
     ],
     "workload": [
-        ("light", re.compile(r"作业(?:很|非常)?少|作业不算多|工作量(?:很|非常)?小|事少|无作业|workload.*?小|不多", re.I)),
+        ("light", re.compile(r"作业(?:很|非常)?少|作业不算多|作业不多|工作量(?:很|非常)?小|事少|无作业|workload.*?小|工作量不大", re.I)),
         ("heavy", re.compile(r"作业(?:很|非常|比较|超)?多|作业不少|工作量大|熬夜|ddl.*?多|workload.*?大|繁琐", re.I)),
         ("medium", re.compile(r"作业.*?适中|工作量.*?一般|中等偏", re.I)),
     ],
@@ -40,7 +40,7 @@ FIELD_PATTERNS: dict[str, list[tuple[str, re.Pattern[str]]]] = {
         ("not_strict", re.compile(r"不点名|考勤.*?松|不查|随便|无考勤|不考勤|不用去", re.I)),
     ],
     "examFormat": [
-        ("open_book", re.compile(r"开卷|open.?book|可带资料|全开卷|半开卷", re.I)),
+        ("open_book", re.compile(r"开卷|open.?book|可带资料|全开卷|半开卷|cheat\s*sheet|cheatsheet|小抄", re.I)),
         ("closed_book", re.compile(r"闭卷|closed.?book", re.I)),
         ("take_home", re.compile(r"take.?home|带回家", re.I)),
     ],
@@ -73,7 +73,7 @@ TUTOR_SPAM_RE = re.compile(
     re.I,
 )
 REVIEW_SIGNAL_RE = re.compile(
-    r"水|难|卷|作业|给分|压分|回放|录播|zoom|点名|考勤|开卷|闭卷|考试|tutorial|assignment|推荐|慎选|好课|劝退|体验|项目|期末",
+    r"水|难|卷|作业|给分|压分|回放|录播|zoom|点名|考勤|开卷|闭卷|考试|tutorial|assignment|推荐|慎选|好课|劝退|体验|项目|期末|捞|workload|cheat",
     re.I,
 )
 TIP_NOISE_RE = re.compile(r"^(您好|请问|怎么选|哪个老师|蹲一个|学长\s*下学期)", re.I)
@@ -82,6 +82,16 @@ TIP_PRAISE_FRAGMENT_RE = re.compile(
     r"^.{0,30}老师.{0,20}(好|不错|负责|捞|大好人|清楚|清晰|温柔|认真|给力|善良)",
     re.I,
 )
+DIFFICULTY_EASY_SKIP_RE = re.compile(
+    r"想选.*简单|最简单的一|你想简单|选个简单|qual\s*exam|问题集|github|coursehero",
+    re.I,
+)
+GRADING_EASY_SKIP_RE = re.compile(r"拿分|给分|得分|分数|考.{0,8}分", re.I)
+OFF_TOPIC_COMMENT_RE = re.compile(
+    r"guided\s*study|guide\s*study|暑(?:期|假)|旁听|绩点多少|github\.com|可以旁听",
+    re.I,
+)
+OTHER_CODE_IN_SENTENCE_RE = re.compile(COURSE_CODE_RE, re.I)
 MARKETING_RE = re.compile(r"专属咨询|付费选课|备考咨询|-付费")
 COMMENT_NOISE_RE = re.compile(
     r"^(你好|请问|学长|姐妹|感谢|谢谢|这么狠|高水平|哈哈|蹲一个)",
@@ -222,6 +232,8 @@ def is_useful_comment(text: str, code: str) -> bool:
         return False
     if COMMENT_NOISE_RE.search(t):
         return False
+    if code.upper() not in t.upper() and sentence_mentions_other_course(t, code):
+        return False
     if re.search(r"(怎么选|何时选|什么时候|在哪看|可以选上|邮件联系|成绩界面)", t):
         if code.upper() not in t.upper():
             return False
@@ -264,23 +276,69 @@ def split_course_sections(text: str) -> list[tuple[str | None, str]]:
     return sections
 
 
+def sentence_mentions_other_course(sentence: str, code: str) -> bool:
+    for match in OTHER_CODE_IN_SENTENCE_RE.finditer(sentence):
+        if match.group(0).upper() != code.upper():
+            return True
+    code_digits = re.sub(r"\D", "", code)
+    for num in re.findall(r"(?<![A-Za-z0-9])(\d{4})(?![0-9])", sentence):
+        if num != code_digits and num.startswith(("51", "52", "53", "54", "61", "62", "64", "65")):
+            return True
+    return False
+
+
+def is_dedicated_course_post(post_title: str, code: str) -> bool:
+    return code.upper() in post_title.upper()
+
+
+def chunk_scope_for_code(chunk: dict, code: str, all_codes_in_note: list[str], post_title: str = "") -> bool:
+    text = chunk["text"]
+    if code.upper() in text.upper():
+        return True
+    if chunk.get("type") not in {"comment", "sub_comment"}:
+        if len(all_codes_in_note) == 1 and all_codes_in_note[0].upper() == code.upper():
+            return True
+        return False
+    if sentence_mentions_other_course(text, code):
+        return False
+    if OFF_TOPIC_COMMENT_RE.search(text):
+        return False
+    if not REVIEW_SIGNAL_RE.search(text):
+        return False
+    if is_dedicated_course_post(post_title, code):
+        return True
+    if len(all_codes_in_note) == 1 and all_codes_in_note[0].upper() == code.upper():
+        return True
+    return False
+
+
 def extract_field_values(sentence: str) -> dict[str, str]:
     found: dict[str, str] = {}
     for field, patterns in FIELD_PATTERNS.items():
         for value, pattern in patterns:
+            if field == "difficulty" and value == "easy":
+                if DIFFICULTY_EASY_SKIP_RE.search(sentence):
+                    continue
+                if GRADING_EASY_SKIP_RE.search(sentence) and pattern.search(sentence):
+                    continue
             if pattern.search(sentence):
                 found[field] = value
                 break
     return found
 
 
-def chunk_scope_for_code(chunk: dict, code: str, all_codes_in_note: list[str]) -> bool:
-    text = chunk["text"]
-    if code.upper() in text.upper():
+def field_sentence_applies(sentence: str, code: str, chunk: dict, post_title: str) -> bool:
+    if code.upper() in sentence.upper():
         return True
-    if len(all_codes_in_note) == 1 and all_codes_in_note[0].upper() == code.upper():
+    if chunk.get("type") not in {"comment", "sub_comment"}:
         return True
-    return False
+    if sentence_mentions_other_course(sentence, code):
+        return False
+    if OFF_TOPIC_COMMENT_RE.search(sentence):
+        return False
+    if not REVIEW_SIGNAL_RE.search(sentence):
+        return False
+    return is_dedicated_course_post(post_title, code)
 
 
 def process_text_block(
@@ -300,6 +358,8 @@ def process_text_block(
         return
 
     for sentence in split_sentences(text):
+        if not field_sentence_applies(sentence, code, chunk, post_title):
+            continue
         fields = extract_field_values(sentence)
         for field, value in fields.items():
             field_hits[field].append({
@@ -314,7 +374,12 @@ def process_text_block(
             })
 
         if len(sentence) >= 10 and any(k in sentence for k in ("建议", "推荐", "注意", "教授", "老师", "必选", "慎选", "总结")):
-            if code.upper() in sentence.upper() or chunk.get("type") in {"comment", "sub_comment"}:
+            if code.upper() in sentence.upper() or (
+                chunk.get("type") in {"comment", "sub_comment"}
+                and is_dedicated_course_post(post_title, code)
+                and not OFF_TOPIC_COMMENT_RE.search(sentence)
+                and not sentence_mentions_other_course(sentence, code)
+            ):
                 if not TIP_NOISE_RE.search(sentence.strip()):
                     tips.append(sentence[:200])
 
@@ -384,7 +449,7 @@ def process_bundles(bundles: list[dict], code: str) -> dict:
                     )
             elif chunk_type == "post_title":
                 continue
-            elif chunk_scope_for_code(chunk, code, codes):
+            elif chunk_scope_for_code(chunk, code, codes, post_title=post_title):
                 process_text_block(
                     chunk["text"], code, note_id, url, chunk,
                     field_hits, tips, post_sources, comment_sources,

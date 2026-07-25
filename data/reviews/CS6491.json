@@ -1,21 +1,16 @@
 {
   "courseCode": "CS6491",
   "fields": {
-    "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 2,
-      "note": "来源说法不一：简单×1、较难×1",
-      "variants": {
-        "easy": 1,
-        "hard": 1
-      }
-    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1

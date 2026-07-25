@@ -4,32 +4,31 @@
     "difficulty": {
       "value": "medium",
       "label": "适中",
-      "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 2
-    },
-    "workload": {
-      "value": "heavy",
-      "label": "繁重",
-      "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 2
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "grading": {
       "value": "generous",
       "label": "给分友好",
-      "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
-    "attendance": {
-      "value": "strict",
-      "label": "考勤严",
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
     },
     "hasRecording": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
+    },
+    "attendance": {
       "value": "unknown",
       "confidence": "unknown",
       "sourceCount": 0,
@@ -98,19 +97,6 @@
     {
       "noteId": "682d519f000000000303c435",
       "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "能请问一下Topics on Information Security有midterm吗和日常签到吗，，球球了",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "6948aea8000000003102f4e5",
-      "author": "小楼昨夜又东风",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
       "excerpt": "每个项目要求不一样吧，统一的要求类似本科毕设，要开题报告、中期报告、项目代码和终期报告以及最终的答辩",
       "extractedFrom": [
         "sub_comment"
@@ -131,58 +117,6 @@
       "postTitle": "cityu港硕CS SemB结束啦",
       "commentId": "695bacc6000000001702ff5c",
       "author": "想喝椰云拿铁",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "主要学习数据挖掘相关的决策树等等的相关知识，仓库内容不多",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "6881de33000000000201923a",
-      "author": "想喝椰云拿铁",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "求教5293 info security是什么感受",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "695babc20000000009035d60",
-      "author": "Butterfly",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "想问一下主包guide study给分怎么样呀",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "69fddfed000000002803774f",
-      "author": "Aurora",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "师姐好！可以了解下数据挖掘和仓库都学习些什么吗",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "6869ea7f000000000400fcaa",
-      "author": "肥皂",
       "likes": 0,
       "role": "supplement"
     }

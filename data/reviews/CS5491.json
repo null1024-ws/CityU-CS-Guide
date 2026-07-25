@@ -12,14 +12,7 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 9,
-      "distinctSources": 6
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 3,
+      "sourceCount": 5,
       "distinctSources": 3
     },
     "hasRecording": {
@@ -36,6 +29,13 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
     "grading": {
       "value": "unknown",
       "confidence": "unknown",
@@ -44,7 +44,7 @@
     }
   },
   "tips": [
-    "1. CS5491 Artificial Intelligence（推荐所有人选）；陆老师是好老师"
+    "1. CS5491 Artificial Intelligence（推荐所有人选）"
   ],
   "sources": [
     {

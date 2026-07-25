@@ -1,13 +1,6 @@
 {
   "courseCode": "CS6493",
   "fields": {
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
-    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
@@ -23,11 +16,16 @@
       "distinctSources": 3
     },
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 3
+      "value": "hard",
+      "label": "较难",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：较难×1、适中×1",
+      "variants": {
+        "hard": 1,
+        "medium": 1
+      }
     },
     "attendance": {
       "value": "not_strict",
@@ -35,6 +33,12 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
+    },
+    "workload": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
     },
     "hasRecording": {
       "value": "unknown",

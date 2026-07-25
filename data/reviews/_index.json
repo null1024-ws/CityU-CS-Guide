@@ -7,12 +7,12 @@
   {
     "code": "CS5351",
     "coveredFields": 5,
-    "sourceCount": 11
+    "sourceCount": 10
   },
   {
     "code": "CS5481",
-    "coveredFields": 5,
-    "sourceCount": 10
+    "coveredFields": 4,
+    "sourceCount": 8
   },
   {
     "code": "CS5487",
@@ -21,7 +21,7 @@
   },
   {
     "code": "CS6493",
-    "coveredFields": 5,
+    "coveredFields": 4,
     "sourceCount": 8
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "code": "CS5489",
-    "coveredFields": 4,
+    "coveredFields": 5,
     "sourceCount": 8
   },
   {
@@ -51,13 +51,13 @@
   },
   {
     "code": "CS5293",
-    "coveredFields": 4,
-    "sourceCount": 12
+    "coveredFields": 3,
+    "sourceCount": 7
   },
   {
     "code": "CS6290",
     "coveredFields": 5,
-    "sourceCount": 16
+    "sourceCount": 13
   },
   {
     "code": "CS6537",
@@ -66,7 +66,7 @@
   },
   {
     "code": "CS5188",
-    "coveredFields": 4,
+    "coveredFields": 3,
     "sourceCount": 6
   },
   {
@@ -97,7 +97,7 @@
   {
     "code": "CS6521",
     "coveredFields": 0,
-    "sourceCount": 6
+    "sourceCount": 0
   },
   {
     "code": "CS6538",
@@ -112,7 +112,7 @@
   {
     "code": "CS5187",
     "coveredFields": 4,
-    "sourceCount": 10
+    "sourceCount": 8
   },
   {
     "code": "CS5486",
@@ -176,7 +176,7 @@
   },
   {
     "code": "EC5001",
-    "coveredFields": 3,
+    "coveredFields": 2,
     "sourceCount": 4
   }
 ]

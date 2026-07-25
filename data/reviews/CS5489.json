@@ -8,28 +8,16 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 2,
-      "note": "来源说法不一：轻松×1、繁重×1",
-      "variants": {
-        "light": 1,
-        "heavy": 1
-      }
-    },
     "difficulty": {
       "value": "hard",
       "label": "较难",
       "confidence": "disputed",
       "sourceCount": 2,
       "distinctSources": 1,
-      "note": "来源说法不一：较难×1、简单×1",
+      "note": "来源说法不一：较难×1、适中×1",
       "variants": {
         "hard": 1,
-        "easy": 1
+        "medium": 1
       }
     },
     "hasRecording": {
@@ -39,13 +27,21 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
-    "attendance": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
-    },
     "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
       "value": "unknown",
       "confidence": "unknown",
       "sourceCount": 0,

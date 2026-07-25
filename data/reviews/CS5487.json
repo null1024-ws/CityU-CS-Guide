@@ -1,23 +1,23 @@
 {
   "courseCode": "CS5487",
   "fields": {
-    "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "confirmed",
-      "sourceCount": 9,
-      "distinctSources": 6
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 4
-    },
     "grading": {
       "value": "generous",
       "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 4
+    },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
       "confidence": "confirmed",
       "sourceCount": 2,
       "distinctSources": 2
@@ -29,9 +29,9 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
-    "examFormat": {
-      "value": "open_book",
-      "label": "开卷",
+    "workload": {
+      "value": "heavy",
+      "label": "繁重",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -44,14 +44,11 @@
     }
   },
   "tips": [
-    "具体内容应该是跟着指导老师在某一方面做一做实验读一读文章然后写一篇小论文吧应该，不要求发表，应该是带的老师负责答辩",
     "作业做的人真的想鼠，但是不得不说，确实是学得最多的一门课，希望老师手下留情吧",
-    "不过仅个人角度来看，感觉antoni的5487是我本科到phd上过的课程里，老师讲的最好的，自己也收获最多的课程",
-    "这个的费劲程度 比很多博士课都高 不过老师是好老师 读博选修这个复习基础很不错",
-    "这个课如果老师捞我我寒假补补下学期还要选5489，学得稀里糊涂但也是真的很有意思但我考得一塌胡涂",
-    "再吹一波antoni，前半部分讲得是真的透，后面换老师了，感觉听不太懂了就",
     "这门课会挂人，不推荐；老师捞人了",
-    "我们系的成绩竟然还没出完，12月底老师就把分数post到canvas了"
+    "总结：cs5187必选，cs5487没想象的难，三门必修考前突击拿B还是没问题的",
+    "cs5487和cs6491偏理论，如果是做理论推导方向的朋友比较推荐",
+    "CS5487 ML理论：25级学期 A 变成了ML实践，但形式应该还是Atoni大佬+新老师，听着费劲的可以去开小灶 -> B站白板推导"
   ],
   "sources": [
     {
@@ -129,32 +126,6 @@
   ],
   "commentSources": [
     {
-      "noteId": "6758479a00000000020179ad",
-      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "可能因人而异，也确实像楼主说的选之前要权衡考虑下。不过仅个人角度来看，感觉antoni的5487是我本科到phd上过的课程里，老师讲的最好的，自己也收获最多的课程。5489也不错，就是有点偏应用了，主要就是一直在写代码。功利一点的角度来看5487考试，自己认为平常认真做作业，然后考前一周花些时间回顾antoni的祖传板书以及把提供的problem set至少都过一下应该没太大问题应付期末。而且antoni给分挺nice的。另外，对于phd，5487 or 5489将是qual exam里最简单的一部分",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "香港城市大学CS5487浅浅吐槽",
-      "commentId": "675c04ba000000001101b5ad",
-      "author": "冇知道",
-      "likes": 5,
-      "role": "correction"
-    },
-    {
-      "noteId": "6a2a6ae20000000006021721",
-      "url": "https://www.xiaohongshu.com/explore/6a2a6ae20000000006021721?xsec_token=AB5lYYgdMCSzseNHFbM41yp2KhHJq3nG8dPO7bEWYfGpA=",
-      "excerpt": "补一下 6537，这门和 6535 一样是项目课，不过是 B 学期才能选的，只需要中期和期末两次单独 pre。老师和助教人都很好，主要关注你内容的创新点而不是一些细枝末节的东西，英文讲不明白直接和老师用中文 pre 就行，给分的话只要创新点不错分就不低。有好的创新点老师还会鼓励你去选毕业要求的那个论文学分，比较推荐有想继续深造的朋友选，因为有很多能和老师单独交流的机会，也算是另一种形式的毕业设计了。",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "从夯到拉锐评港城莞cs课程推荐度",
-      "commentId": "6a2a73b0000000002701c96e",
-      "author": "T1meLapse",
-      "likes": 2,
-      "role": "supplement"
-    },
-    {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
       "excerpt": "cs5487虽然说作业都有答案，然后考试基本上从题库里出，但是还是需要花时间的。guided study 就是联系老师做个小课题，然后线上答辩，轻松应该还是guided study轻松一些",
@@ -164,19 +135,6 @@
       "postTitle": "Cityu cs semA 课程测评",
       "commentId": "68a531a400000000300271e4",
       "author": "十一",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "6758479a00000000020179ad",
-      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "ec是没暑假的guided study了，CS好像有。具体内容应该是跟着指导老师在某一方面做一做实验读一读文章然后写一篇小论文吧应该，不要求发表，应该是带的老师负责答辩。",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "香港城市大学CS5487浅浅吐槽",
-      "commentId": "680eeba60000000013010962",
-      "author": "Richett_L",
       "likes": 0,
       "role": "supplement"
     },
@@ -194,32 +152,6 @@
       "role": "supplement"
     },
     {
-      "noteId": "6a2a6ae20000000006021721",
-      "url": "https://www.xiaohongshu.com/explore/6a2a6ae20000000006021721?xsec_token=AB5lYYgdMCSzseNHFbM41yp2KhHJq3nG8dPO7bEWYfGpA=",
-      "excerpt": "24级cs学长整理的资料https://github.com/ monkeywoora /cityu-dg-cs",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "从夯到拉锐评港城莞cs课程推荐度",
-      "commentId": "6a48d9b5000000002901b2be",
-      "author": "不吃猪饲料（批发版）",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "6758479a00000000020179ad",
-      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "这个课如果老师捞我我寒假补补下学期还要选5489，学得稀里糊涂但也是真的很有意思但我考得一塌胡涂",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "香港城市大学CS5487浅浅吐槽",
-      "commentId": "67587679000000000803e273",
-      "author": "ALIFEROUS%T",
-      "likes": 5,
-      "role": "supplement"
-    },
-    {
       "noteId": "677bba6d000000001a01c3d6",
       "url": "https://www.xiaohongshu.com/explore/677bba6d000000001a01c3d6?xsec_token=ABrBs_Tyf5yyUss1RtIfuoAE-0m3ORV7fPYEUe0tozKmE=",
       "excerpt": "内容偏数学，平时任务挺繁重的每周有作业，定期做编程和project然后学习内容的话感觉也挺难的。",
@@ -230,6 +162,71 @@
       "commentId": "677bc1ef000000002102e7f2",
       "author": "晴",
       "likes": 2,
+      "role": "supplement"
+    },
+    {
+      "noteId": "6758479a00000000020179ad",
+      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
+      "excerpt": "这个课其实就是b站的白板推导 毕竟都是prml的体系数学也没很难主要是要熟悉那个套路",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "香港城市大学CS5487浅浅吐槽",
+      "commentId": "67591a470000000007016316",
+      "author": "momo",
+      "likes": 3,
+      "role": "correction"
+    },
+    {
+      "noteId": "6758479a00000000020179ad",
+      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
+      "excerpt": "录播下载不了，不过b站的白板机器学习难度我觉得和这门课差不多，但会讲的更多一些",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "香港城市大学CS5487浅浅吐槽",
+      "commentId": "6758e9af0000000007001dfe",
+      "author": "Richett_L",
+      "likes": 2,
+      "role": "supplement"
+    },
+    {
+      "noteId": "6758479a00000000020179ad",
+      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
+      "excerpt": "作业做的人真的想鼠，但是不得不说，确实是学得最多的一门课，希望老师手下留情吧",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "香港城市大学CS5487浅浅吐槽",
+      "commentId": "67587033000000001b002c58",
+      "author": "Mangooooo",
+      "likes": 1,
+      "role": "supplement"
+    },
+    {
+      "noteId": "675bf7a000000000020245ee",
+      "url": "https://www.xiaohongshu.com/explore/675bf7a000000000020245ee?xsec_token=ABaBQIAAwiPSWJd2WX2SEAedyDVazJt3LRKQ_1lu8Mrgw=",
+      "excerpt": "就算是考试的题都在我的cheat sheet上面最后都没有抄完感觉时间太紧了",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CS5487学习经历与未来的选课建议",
+      "commentId": "675c04a5000000000e00d00f",
+      "author": "Raven_br",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "6a2a6ae20000000006021721",
+      "url": "https://www.xiaohongshu.com/explore/6a2a6ae20000000006021721?xsec_token=AB5lYYgdMCSzseNHFbM41yp2KhHJq3nG8dPO7bEWYfGpA=",
+      "excerpt": "还有个cs5487 凯哥的ml，和ds一起上的，考试前直接说原题夯爆了",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "从夯到拉锐评港城莞cs课程推荐度",
+      "commentId": "6a2a897c000000002902549b",
+      "author": "Brench",
+      "likes": 4,
       "role": "supplement"
     }
   ],

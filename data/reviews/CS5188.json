@@ -1,13 +1,6 @@
 {
   "courseCode": "CS5188",
   "fields": {
-    "difficulty": {
-      "value": "easy",
-      "label": "简单",
-      "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 3
-    },
     "workload": {
       "value": "heavy",
       "label": "繁重",
@@ -28,6 +21,12 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
+    },
+    "difficulty": {
+      "value": "unknown",
+      "confidence": "unknown",
+      "sourceCount": 0,
+      "label": "暂无数据"
     },
     "hasRecording": {
       "value": "unknown",
