@@ -13,6 +13,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _paths import (  # noqa: E402
     RAW_XHS,
+    REVIEWS_DIR,
     ensure_dirs,
     load_courses,
     load_raw_index,
@@ -274,6 +275,61 @@ def clear_checkpoint_queries(index: dict, queries: list[str]) -> int:
     return before - len(index["checkpoint"]["completed_searches"])
 
 
+def load_review_priority() -> dict[str, tuple[int, int]]:
+    """Return course_code -> (sourceCount, coveredFields) from reviews index."""
+    path = REVIEWS_DIR / "_index.json"
+    if not path.is_file():
+        return {}
+    try:
+        rows = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    out: dict[str, tuple[int, int]] = {}
+    for row in rows:
+        if isinstance(row, dict) and row.get("code"):
+            out[row["code"]] = (int(row.get("sourceCount") or 0), int(row.get("coveredFields") or 0))
+    return out
+
+
+def course_code_in_query(query: str, course_codes: set[str]) -> str | None:
+    for code in sorted(course_codes, key=len, reverse=True):
+        if code in query.upper():
+            return code
+    return None
+
+
+def prioritize_queries(queries: list[str], course_codes: set[str]) -> list[str]:
+    """Run zero-source / zero-field courses before others; keep per-course query order."""
+    priority = load_review_priority()
+
+    def sort_key(query: str) -> tuple[int, str, str]:
+        code = course_code_in_query(query, course_codes)
+        if code and code in priority:
+            source_count, covered_fields = priority[code]
+            if source_count == 0:
+                tier = 0
+            elif covered_fields == 0:
+                tier = 1
+            else:
+                tier = 2
+            return (tier, code, query)
+        return (3, query, query)
+
+    return sorted(queries, key=sort_key)
+
+
+def queries_for_course_codes(courses: list[dict], codes: set[str]) -> list[str]:
+    selected = [c for c in courses if c["code"] in codes]
+    out: list[str] = []
+    seen: set[str] = set()
+    for course in selected:
+        for query in build_queries([course], per_course=True, course_filter={course["code"]}, skip_global=True):
+            if query not in seen:
+                seen.add(query)
+                out.append(query)
+    return out
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Collect XHS course review posts")
     parser.add_argument("--per-course", action="store_true", help="Search every course code")
@@ -292,6 +348,16 @@ def main() -> None:
         "--skip-global",
         action="store_true",
         help="Skip global discovery queries (useful when focusing on per-course search)",
+    )
+    parser.add_argument(
+        "--prioritize-empty",
+        action="store_true",
+        help="Run zero-source / zero-field courses before others",
+    )
+    parser.add_argument(
+        "--retry-empty",
+        action="store_true",
+        help="Clear checkpoint for courses with sourceCount=0 so they can be searched again",
     )
     args = parser.parse_args()
 
@@ -315,6 +381,20 @@ def main() -> None:
         cleared = clear_checkpoint_queries(index, queries)
         save_raw_index(index)
         print(f"Cleared {cleared} checkpoint entries for retry.")
+
+    if args.retry_empty and course_filter:
+        priority = load_review_priority()
+        empty_codes = {code for code in course_filter if priority.get(code, (0, 0))[0] == 0}
+        if empty_codes:
+            retry_queries = queries_for_course_codes(courses, empty_codes)
+            cleared = clear_checkpoint_queries(index, retry_queries)
+            save_raw_index(index)
+            print(f"Cleared {cleared} checkpoint entries for {len(empty_codes)} zero-source course(s).")
+
+    if args.prioritize_empty and course_filter:
+        queries = prioritize_queries(queries, course_filter)
+        head = ", ".join(course_code_in_query(q, course_filter) or "?" for q in queries[:6])
+        print(f"Query order prioritized for empty courses. Next: {head}")
 
     if args.refresh_global:
         cleared = clear_checkpoint_queries(index, GLOBAL_QUERIES)

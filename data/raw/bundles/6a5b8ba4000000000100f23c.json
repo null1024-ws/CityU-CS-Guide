@@ -1,0 +1,138 @@
+{
+  "note_id": "6a5b8ba4000000000100f23c",
+  "url": "https://www.xiaohongshu.com/explore/6a5b8ba4000000000100f23c?xsec_token=AB36IQwV0I88aT9eXIfMgqpc2vAqa56qeNNrENPcyBWiw=",
+  "fetched_at": 1785222776.0847595,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "计算机paper还有用吗？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "看见一个老哥详细又严肃的回答",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我主要做agent的。虽然我也认同预训练>后训练>train free。但是放到学术界发论文来说，预训练基座模型我想都不敢想，训个垂直领域小的完全又是玩具被大模型爆杀。后训练在各种合成数据集上搞点agentic rl到还行，但也是发论文做toy demo，为的就是当入场劵去大厂做真正有意义的。train free搭各种agent 框架，搞些什么harness/自进化，编故事发论文还能学点工程技术，才是我们小菜鸡们能搞的[笑哭R]",
+      "sourceRef": "comment:6a5bcc42000000000d022800",
+      "commentId": "6a5bcc42000000000d022800",
+      "likes": 109,
+      "author": "肥嘟嘟左右卫门"
+    },
+    {
+      "type": "sub_comment",
+      "text": "想请教一下，为什么大家都不认可 training free 呢？如果不训练就能有效果，不是也很好吗",
+      "sourceRef": "comment:6a5c86c9000000000b03b9a3",
+      "commentId": "6a5c86c9000000000b03b9a3",
+      "likes": 5,
+      "author": "久久帆"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得实习远大于不匹配的论文",
+      "sourceRef": "comment:6a5b946d0000000004038cf5",
+      "commentId": "6a5b946d0000000004038cf5",
+      "likes": 101,
+      "author": "喝咖啡的 momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "问题是没论文压根去不了有价值的实习，鸡生蛋还是蛋生鸡的矛盾",
+      "sourceRef": "comment:6a5c1650000000002b003020",
+      "commentId": "6a5c1650000000002b003020",
+      "likes": 88,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "未来paper越来越没用肯定是个趋势，这两年会议体系都快崩塌了，现在给我一种整个会议没有人类的感觉了（对包括审稿的也没几个真人了，全是ai抽奖来撞大运），在这种状况下当然是实习最重要了，好歹能证明你是个合格的牛马[吐舌头H]",
+      "sourceRef": "comment:6a5d7ff3000000000802e59d",
+      "commentId": "6a5d7ff3000000000802e59d",
+      "likes": 18,
+      "author": "Uknow02"
+    },
+    {
+      "type": "comment",
+      "text": "比较好奇kdd算什么类型的",
+      "sourceRef": "comment:6a5d2c17000000002b0251e4",
+      "commentId": "6a5d2c17000000002b0251e4",
+      "likes": 0,
+      "author": "竹叶青青青"
+    },
+    {
+      "type": "sub_comment",
+      "text": "到底谁会投圈子会",
+      "sourceRef": "comment:6a632f52000000002a024154",
+      "commentId": "6a632f52000000002a024154",
+      "likes": 0,
+      "author": "🐠"
+    },
+    {
+      "type": "comment",
+      "text": "没论文的话一开始咋找实习呢[哭惹R][哭惹R]",
+      "sourceRef": "comment:6a5ba6fd0000000015008a17",
+      "commentId": "6a5ba6fd0000000015008a17",
+      "likes": 8,
+      "author": "乔丽波普象"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好问题[笑哭R]",
+      "sourceRef": "comment:6a5bacb10000000015004311",
+      "commentId": "6a5bacb10000000015004311",
+      "likes": 3,
+      "author": "Happy"
+    },
+    {
+      "type": "comment",
+      "text": "论文大于实习吗[笑哭R]",
+      "sourceRef": "comment:6a5b8c200000000015004971",
+      "commentId": "6a5b8c200000000015004971",
+      "likes": 2,
+      "author": "嘿嘿嘿"
+    },
+    {
+      "type": "sub_comment",
+      "text": "实习＞论文[doge]",
+      "sourceRef": "comment:6a5b8df70000000015004acb",
+      "commentId": "6a5b8df70000000015004acb",
+      "likes": 29,
+      "author": "Happy"
+    },
+    {
+      "type": "comment",
+      "text": "两篇一作aaai应该是横着走的",
+      "sourceRef": "comment:6a5f35be0000000015009663",
+      "commentId": "6a5f35be0000000015009663",
+      "likes": 0,
+      "author": "llamaGo"
+    },
+    {
+      "type": "comment",
+      "text": "SIGGRAPHasia一般都按和本体等同看的吧，也算是a的认可度",
+      "sourceRef": "comment:6a5dcecd00000000150105fe",
+      "commentId": "6a5dcecd00000000150105fe",
+      "likes": 0,
+      "author": "kotori"
+    },
+    {
+      "type": "comment",
+      "text": "垂直论文基本上肯定在公司 基本上就是有实习的",
+      "sourceRef": "comment:6a5ba21a0000000015010a33",
+      "commentId": "6a5ba21a0000000015010a33",
+      "likes": 8,
+      "author": "Wade"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好像确实是这样，一次性解决问题[doge]",
+      "sourceRef": "comment:6a5ba613000000001403b5da",
+      "commentId": "6a5ba613000000001403b5da",
+      "likes": 2,
+      "author": "Happy"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "note_id": "5305a07a-9a57-4ed6-8dab-b504a7c5eb11",
+  "url": "https://www.xiaohongshu.com/explore/5305a07a-9a57-4ed6-8dab-b504a7c5eb11?xsec_token=ABCj5a4ktFgAWjA6s8OObXxLDcJ8A8uZPphyoTSVIuTRHzSxW9Luroic1MCFPE2tEdvyjJYcQil2j3G8DoNuAoSlgvcfxOPrNFqF1Ain2ZPNc=",
+  "fetched_at": 1785222880.0525527,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5185 CityU",
+  "search_item": {
+    "id": "5305a07a-9a57-4ed6-8dab-b504a7c5eb11#1785222877839",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "5305a07a-9a57-4ed6-8dab-b504a7c5eb11#1785222877839",
+      "queries": [
+        {
+          "id": "cityu cs选课",
+          "name": "cityu cs选课",
+          "searchWord": "cityu cs选课"
+        },
+        {
+          "name": "cityu奖学金申请",
+          "searchWord": "cityu奖学金申请",
+          "id": "cityu奖学金申请"
+        },
+        {
+          "id": "香港cityu大学",
+          "name": "香港cityu大学",
+          "searchWord": "香港cityu大学"
+        },
+        {
+          "id": "cityu排名",
+          "name": "cityu排名",
+          "searchWord": "cityu排名"
+        }
+      ]
+    },
+    "xsecToken": "ABCj5a4ktFgAWjA6s8OObXxLDcJ8A8uZPphyoTSVIuTRHzSxW9Luroic1MCFPE2tEdvyjJYcQil2j3G8DoNuAoSlgvcfxOPrNFqF1Ain2ZPNc=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "5305a07a-9a57-4ed6-8dab-b504a7c5eb11#1785222877839"
+  }
+}

@@ -56,6 +56,17 @@ python scripts/run_pipeline.py
 python scripts/build_site.py --local
 ```
 
+补采尚无来源的课程（优先 `sourceCount=0`，可重试已搜过仍空的课）：
+
+```powershell
+python scripts/xhs_collect.py --per-course --skip-global --prioritize-empty --retry-empty `
+  --courses CS5185,CS5282,CS5348,CS6175 --max-notes 3 --sleep 8
+```
+
+- `--prioritize-empty`：先跑暂无来源 / 暂无字段结论的课程
+- `--retry-empty`：清零这些课的 checkpoint，便于提高 `--max-notes` 后再搜
+- 进度与恢复命令见 `data/raw/index.json` → `checkpoint.batch_progress`
+
 Cookie 保存在 `~/.xhs-cli/cookies.json`。若 QR 登录触发风控，可从浏览器 DevTools 复制 `a1` 与 `web_session`：
 
 ```powershell
@@ -71,7 +82,7 @@ xhs login --cookie "a1=...; web_session=..."
 | **存疑** | 不同来源说法冲突 |
 | **暂无数据** | 未找到有效评价摘录 |
 
-流水线会自动过滤：豁免攻略、课业辅导广告、仅列出课号无实质内容的帖子。运行 `python scripts/audit_reviews.py` 可检查剩余来源与 bundle 是否一致。
+流水线会自动过滤：豁免攻略、课业辅导广告、仅列出课号无实质内容的帖子；评论区会剔除纯提问（如「有了解不」）、社交灌水（同问/插眼/+1）及无课评信号的评论。运行 `python scripts/audit_reviews.py` 可检查剩余来源与 bundle 是否一致。
 
 ## 项目结构
 
@@ -81,7 +92,7 @@ xhs login --cookie "a1=...; web_session=..."
 | `data/raw/xhs/` | xhs-cli 原始抓取 |
 | `data/raw/bundles/` | 合并后的文本块 |
 | `data/reviews/` | 每课评价 JSON |
-| `scripts/xhs_collect.py` | 采集器（多关键词 + 交叉验证） |
+| `scripts/xhs_collect.py` | 采集器（多关键词 + 交叉验证 + 空课优先） |
 | `scripts/search_queries.py` | 全局/按课搜索词 |
 | `scripts/content_bundle.py` | 解析 xhs-cli JSON（含 camelCase 字段） |
 | `scripts/review_extract.py` | 正则抽取 + 摘录清洗 |

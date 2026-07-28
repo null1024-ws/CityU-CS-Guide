@@ -1,0 +1,425 @@
+{
+  "note_id": "697811e8000000002800980a",
+  "url": "https://www.xiaohongshu.com/explore/697811e8000000002800980a?xsec_token=ABIyiRtus7SDOs25fbuS5ol2XXdJr8CWNJCUxbEtY1WD4=",
+  "fetched_at": 1785222749.8240032,
+  "note": {
+    "xsecToken": "ABIyiRtus7SDOs25fbuS5ol2XXdJr8CWNJCUxbEtY1WD4=",
+    "imageList": [
+      {
+        "height": 1440,
+        "width": 1920,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281512/b59b966dfa7d3cb20dd84bd874367fc9/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281512/6fb020f283cfad0c7178e97ce3eec92e/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {
+          "EF6": [],
+          "EF5": [],
+          "EF7": [],
+          "EF4": [
+            {
+              "weight": 62,
+              "qualityType": "HD",
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/1/10/19/01e97811641a685d010050039bfd06192d_19.mp4?sign=23fc7a29d66990fc9dd6b8ecd9a2418a&t=6a6cf3ad",
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e97811641a685d010050039bfd06192d_19.mp4"
+              ],
+              "hdrType": 0,
+              "vmaf": -1,
+              "psnr": 0,
+              "ssim": 0
+            }
+          ]
+        },
+        "livePhoto": true,
+        "fileId": "notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg",
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281512/b59b966dfa7d3cb20dd84bd874367fc9/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281512/6fb020f283cfad0c7178e97ce3eec92e/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "time": 1769476584000,
+    "noteId": "697811e8000000002800980a",
+    "user": {
+      "userId": "5ca4eb6d00000000160166fe",
+      "nickname": "KAI",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vdk62ogjq005n54tdmlipnu2iq98k0",
+      "xsecToken": "ABjcSIIQP69okpoQeEd3WZHiaxUIcPD8WrT7hnLHPEuCY="
+    },
+    "tagList": [
+      {
+        "id": "5c7d9b81000000000e00067a",
+        "name": "哥伦比亚大学",
+        "type": "topic"
+      },
+      {
+        "id": "62d7b205000000000101ca70",
+        "name": "cs硕士",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1769476584000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "哥大cs master第一学期课程总结",
+    "desc": "Applied deep learning\n给分很松，只有作业加考试，都是有额外分数再加一个分数上限。作业也简单，一个作业三四个小时可以完成。内容都是NLP，课程最后会带过LLM一系列比较新的内容。slides上全都是字，老师对着念。后来我都不听课，对着slides和GPT学比较快。\n\t\nhigh performance machine learning\nGrade应该也比较松，有quiz，作业，project。老师非常nice，有问题都会耐心解答。相当硬核，我没有machine learning基础老师讲的可能只能吸收个30%，会涉及pytorch，train，CUDA这些很低层的东西，还有quantization，flash attention这种优化技术。\n作业巨难，一个作业得做个两三天，钻牛角尖钻到最后还容易破防。\n\t\nneural network & deep learning\n以我现在的角度来看这个课比较一般，内容涉及NLP和cv最基础的模型，大部分内容也是LLM时代之前的，会从比较high level的角度来讲，讲一些概念和instinction。教授的看法很old school，觉得现在prompt engineer，agent什么的没有学术深度。\n考试很迷，不知道题目想考什么，我最后拿的分也一般。作业也一般，要两三天完成。一个作业文档有十几页，但看得出来TA没有用心维护。最后project给的时间很少，而且难度差异很大，有个cv识别题很简单。\n\t\nquantum computing\n有考试，作业，quiz。整个课和数学课差不多，一开始挺喜欢这个课的，学起来很轻松，到后半部分讲quantum alorithm就变成折磨了，感觉老师塞的东西太多，有点难。\n作业很难，两三天的工作量。考试还行，数学课学的好这个课也没啥问题。\n教授很nice很阳光，感觉他很喜欢这个领域也很乐意教学生。\n\t\n实在看不出这个学上的和水硕有什么关系，workload和我本科大三一样大。\n越学越怀疑这个时代上学的意义，公开课像stanford开的，还有网上blog的资源都比学校的课前沿的多，还能自己选择想学什么，也不用浪费时间做没必要的toy homework。找工作bar也明显变高，感觉公司要的是engineer而不是成绩好的学生\n#哥伦比亚大学[话题]# #cs硕士[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "89",
+      "collected": false,
+      "collectedCount": "77",
+      "commentCount": "15",
+      "shareCount": "20",
+      "relation": "none",
+      "niceCount": "",
+      "followed": false
+    }
+  },
+  "comments": [
+    {
+      "subCommentCursor": "69791e28000000000600d026",
+      "noteId": "697811e8000000002800980a",
+      "userInfo": {
+        "userId": "5e6120740000000001003263",
+        "nickname": "气球",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eg90orv0u005nj141q08cj31oaeq9g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB9tKuLbUKDhuGtStYUQgAUmJuBLZpoCRhqWxhcBaJdr4="
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6978ce2c00000000080334f1",
+      "status": 0,
+      "liked": false,
+      "likeCount": "14",
+      "content": "哥大的工科不水，workload真的很大。但是我的感觉整个项目的问题是实习机会和资源太少，课程开的也不够多，而且课程太重理论和研究，有的时候有点跟工业界脱节的感觉。比较适合有做research计划的，并不是一个很找工base的学校。我上到现在的感觉是他并不水，但是在找工助力方面也并不是一个合格的ms的项目。绝大部分时间都在应对学校的作业啥的了，反而没时间和精力去准备简历和面试刷题了[石化R][石化R][石化R]",
+      "createTime": 1769524780000,
+      "ipLocation": "美国",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "613acdca000000000201a670",
+            "nickname": "就想自己发个疯都不行吗",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321782lj672005o9qpn50j9jgkqqcc2o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABGqQuofVcrGO6ueJNTs1yemq98xFUAdCpHICwoTsE8gM="
+          },
+          "ipLocation": "美国",
+          "id": "69791e28000000000600d026",
+          "noteId": "697811e8000000002800980a",
+          "status": 0,
+          "likeCount": "3",
+          "showTags": [],
+          "createTime": 1769545257000,
+          "targetComment": {
+            "id": "6978ce2c00000000080334f1",
+            "userInfo": {
+              "userId": "5e6120740000000001003263",
+              "nickname": "气球",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eg90orv0u005nj141q08cj31oaeq9g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9tKuLbUKDhuGtStYUQgAUmJuBLZpoCRhqWxhcBaJdr4="
+            }
+          },
+          "invalid": false,
+          "content": "点了",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "697811e8000000002800980a",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABK-5HCvsxX2IoDWZ5ceoZZMHq6huD1wOTtEga5JCkMmA=",
+        "userId": "5f4e5b590000000001007af3",
+        "nickname": "Sakamoto",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317c5od3bju005nqebdcg8unj1nesvr0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "id": "697acbf10000000018020574",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5ca4eb6d00000000160166fe",
+            "nickname": "KAI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vdk62ogjq005n54tdmlipnu2iq98k0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABctqHVxygZcrSQGdAeBgs0pQOSJ0B6T5jfnxuswEZP5M="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1769655281000,
+          "invalid": false,
+          "noteId": "697811e8000000002800980a",
+          "content": "正在问教授 回复率太低了",
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69784aa6000000000902103b",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABK-5HCvsxX2IoDWZ5ceoZZMHq6huD1wOTtEga5JCkMmA=",
+              "userId": "5f4e5b590000000001007af3",
+              "nickname": "Sakamoto",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317c5od3bju005nqebdcg8unj1nesvr0?imageView2/2/w/120/format/jpg"
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "我也感觉上课意义不大，找些科研和实习吧，哥大科研机会不少",
+      "atUsers": [],
+      "subCommentCursor": "697acbf10000000018020574",
+      "showTags": [],
+      "createTime": 1769491111000,
+      "ipLocation": "河北",
+      "subCommentCount": "2",
+      "invalid": false,
+      "id": "69784aa6000000000902103b",
+      "likeCount": "4",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "美国",
+      "createTime": 1772470206000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "subComments": [],
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "noteId": "697811e8000000002800980a",
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "id": "69a5bfbe0000000030025fae",
+      "content": "看我主页 必须专业的",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABx3vzTG3RTsQb9SsPnInLNMmbT533i8Qvde0G8XyQBxc=",
+        "userId": "6884a02c000000001d00b335",
+        "nickname": "用户已注销"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "liked": false,
+      "id": "697df34a000000000c00a511",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABG30JpYSEyUYjg0IWNfX78HmrnKpz5HjyjbhtUreOiKg=",
+        "userId": "67511351000000001c0194fd",
+        "nickname": "贰肆NYNJ房探",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jbmu35nj26g5pqh2d8n357t8769p58?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1769861962000,
+      "subComments": [],
+      "noteId": "697811e8000000002800980a",
+      "status": 0,
+      "content": "4【复制全文→返回薯队APP】 仅限2月28日内，\"哥大租房/二手交流平台\"等你很久了 CZ3725 :/#a🥮🍐🍊😗🍅🤣😏🥕🍆🥯🐤😘",
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69fac199000000002b025ec8",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1778041242000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABi837pFaQAy4mPmJQmpkqn8BulA-Af6eed3tb2RjRbsY=",
+        "userId": "639ef1660000000026012200",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lm5vjh1l86g5osuu5j9i8g0u5sn3mo?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subComments": [],
+      "noteId": "697811e8000000002800980a",
+      "content": "可以问一下applied dl和neural network＆dl的教授分别是谁吗",
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "id": "697838450000000006032800",
+      "liked": false,
+      "showTags": [],
+      "content": "26 CU新生交流",
+      "createTime": 1769486405000,
+      "ipLocation": "美国",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "697811e8000000002800980a",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q56c2j9g25g5q9re4ddtesecvkbn2o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUJYhkLjtFIMifCejaKrT0y2Ene0oj8OzNc5PoBPlcGY=",
+        "userId": "693b711a000000003702bb8e",
+        "nickname": "非接晶"
+      },
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "697811e8000000002800980a",
+      "invalid": false,
+      "status": -2,
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1769532241000,
+      "subCommentCount": "5",
+      "content": "认真的说，你🦶大三不应该是最轻松的一年之一么",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "66acf7df000000001b016976",
+        "nickname": "oyoy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rs3qm1322005plcuvfmqqbm9b5jpu8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABeRtWdabUr1LzuvyLMq0cEo6_WeurVxgab51-JcHQOs8="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1769655316000,
+          "targetComment": {
+            "id": "6978eb50000000000603302e",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABeRtWdabUr1LzuvyLMq0cEo6_WeurVxgab51-JcHQOs8=",
+              "userId": "66acf7df000000001b016976",
+              "nickname": "oyoy",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rs3qm1322005plcuvfmqqbm9b5jpu8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "697acc14000000000f01e17b",
+          "status": 0,
+          "content": "大三全是专业课，每个课都来个类似写software的project",
+          "liked": false,
+          "userInfo": {
+            "userId": "5ca4eb6d00000000160166fe",
+            "nickname": "KAI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vdk62ogjq005n54tdmlipnu2iq98k0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABctqHVxygZcrSQGdAeBgs0pQOSJ0B6T5jfnxuswEZP5M="
+          },
+          "ipLocation": "美国",
+          "invalid": false,
+          "noteId": "697811e8000000002800980a"
+        }
+      ],
+      "subCommentCursor": "697acc14000000000f01e17b",
+      "subCommentHasMore": true,
+      "id": "6978eb50000000000603302e",
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5185 体验",
+  "search_item": {
+    "id": "697811e8000000002800980a",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "哥大cs master第一学期课程总结",
+      "user": {
+        "nickName": "KAI",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vdk62ogjq005n54tdmlipnu2iq98k0?imageView2/2/w/80/format/jpg",
+        "userId": "5ca4eb6d00000000160166fe",
+        "nickname": "KAI",
+        "xsecToken": "ABlXJ4SfCeLN3KVe8HlxXrBHMcjeNWLkKrtYN6zUSWKeI="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "89",
+        "collected": false,
+        "collectedCount": "77",
+        "commentCount": "15",
+        "sharedCount": "20"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281512/15677bf719b02faf0fd105166d812b53/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281512/f2947de67a0da2f3d596b897f0145423/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nc_n_webp_prv_1",
+        "height": 1440,
+        "width": 1920
+      },
+      "imageList": [
+        {
+          "height": 1440,
+          "width": 1920,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/15677bf719b02faf0fd105166d812b53/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/f2947de67a0da2f3d596b897f0145423/notes_pre_post/1040g3k031rqubmhk2s005n54tdmlipnus275agg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-27"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABIyiRtus7SDOs25fbuS5ol2XXdJr8CWNJCUxbEtY1WD4=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "697811e8000000002800980a"
+  }
+}

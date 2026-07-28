@@ -94,7 +94,15 @@ OFF_TOPIC_COMMENT_RE = re.compile(
 OTHER_CODE_IN_SENTENCE_RE = re.compile(COURSE_CODE_RE, re.I)
 MARKETING_RE = re.compile(r"专属咨询|付费选课|备考咨询|-付费")
 COMMENT_NOISE_RE = re.compile(
-    r"^(你好|请问|学长|姐妹|感谢|谢谢|这么狠|高水平|哈哈|蹲一个)",
+    r"^(你好|您好|请问|学长|学姐|姐妹|感谢|谢谢|这么狠|高水平|哈哈|蹲一个|同问|插眼|mark|收藏了)",
+    re.I,
+)
+COMMENT_QUESTION_RE = re.compile(
+    r"(有了解不|了解不|友友了解|谁知道|求问|有没有选过|选过.{0,6}吗|之前就有吗|这个课您|可以选上吗|在哪看|邮件联系)",
+    re.I,
+)
+COMMENT_SOCIAL_RE = re.compile(
+    r"^(?:\+1|点了|顶|up|same|me too|蹲|cy)$|^(?:好|嗯|哦|啊|哇|赞|棒|顶)[!！。~]*$",
     re.I,
 )
 ENGLISH_TITLE_HEADER_RE = re.compile(
@@ -230,7 +238,13 @@ def is_useful_comment(text: str, code: str) -> bool:
     t = text.strip()
     if len(t) < 12:
         return False
-    if COMMENT_NOISE_RE.search(t):
+    if COMMENT_NOISE_RE.search(t) or COMMENT_SOCIAL_RE.search(t):
+        return False
+    if COMMENT_QUESTION_RE.search(t) and not REVIEW_SIGNAL_RE.search(t):
+        return False
+    if is_weak_catalog_excerpt(t, code):
+        return False
+    if not REVIEW_SIGNAL_RE.search(t):
         return False
     if code.upper() not in t.upper() and sentence_mentions_other_course(t, code):
         return False

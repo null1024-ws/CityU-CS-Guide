@@ -1,0 +1,515 @@
+{
+  "note_id": "6831160e00000000230020d9",
+  "url": "https://www.xiaohongshu.com/explore/6831160e00000000230020d9?xsec_token=ABEbJ6DmFB17gcvCG11S9KwkOo00nzBwPFttu3Oa8Sr4g=",
+  "fetched_at": 1785222732.6830235,
+  "note": {
+    "xsecToken": "ABEbJ6DmFB17gcvCG11S9KwkOo00nzBwPFttu3Oa8Sr4g=",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6831160e00000000230020d9",
+    "title": "哥大MSCS选课评价(1)",
+    "desc": "先叠个甲，本人的需求是在有充足找工时间下尽可能丰富简历，比较倾向应用类的课。所以我选了ML Track，但选课偏system&software。\n\t\nAPPLIED MACHINE LEARNING(COMS4995)，Vijay Pappu:\n非常好的一节ML入门课，讲了很多DS，MLE面试会遇到的八股问题。作业和project不难拿满分，考试考到80%左右估计就能A。Coding作业5次一共50%，Midterm1次20%，Project1个30%。可惜这个教授25fall好像不打算继续开这个课。\n\t\nCloud Computing(COMS4153)，Donald Ferguson:\n选这节课为了多点时间找工，学到知识多少看个人花时间程度。不记attendance课程和project相关性不大，水A。Final Project一个100%。简历上甚至可以多一个full stack的项目，血赚！\n\t\nINTRODUCTION TO DATABASES(COMS4111W)，Donald Ferguson:\n有同学推荐才选的，但真实体验和听说的版本大相径庭：没有take home考试，直接转为线下，加上批判的尺度变严，感觉这节课再不是水A无脑选项。Coding作业3次一共25%，Midterm1次25%，Final50%。同样是平均分B+的话，如果真的想学DB相关知识，可以去选Luis Gravano。\n\t\nARTIFICIAL INTELLIGENCE(COMS4701W)，Salleb Ansaf:\n这节课感觉就是前半段应用算法+后半段Applied ML，这节课recitation特别的关键，考试时间比较紧，比较看对知识的熟练程度，总体判分还不错。Conceptual作业5次一共10%，Coding作业5次一共30%，Midterm2次一共60%。这节课不选也可以去上CV，NLP来满足Track Group B的要求。\n\t\n补充：除了AI没有线上课/recording，其他课都可以一直远程上课，但考试是线下考。\n#哥大cs[话题]# #留学[话题]# #mscs[话题]#",
+    "user": {
+      "xsecToken": "AB_pAfoSAXo9_79tHT7iuSKHX22qm4Fs5WeLWshVvx8LY=",
+      "userId": "5e2be33e00000000010047ca",
+      "nickname": "Eastsideboi",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8"
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "107",
+      "collected": false,
+      "commentCount": "22",
+      "relation": "none",
+      "niceCount": "",
+      "collectedCount": "121",
+      "shareCount": "26",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "width": 3440,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281512/d33faf8a12484f441ddbd589e16edaec/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281512/6827d56f1d99836c2aa71636611181c1/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281512/d33faf8a12484f441ddbd589e16edaec/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281512/6827d56f1d99836c2aa71636611181c1/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg",
+        "height": 2580
+      }
+    ],
+    "tagList": [
+      {
+        "id": "63155e59000000000101fe52",
+        "name": "哥大cs",
+        "type": "topic"
+      },
+      {
+        "id": "5bea5e2186535d0001bf235d",
+        "name": "留学",
+        "type": "topic"
+      },
+      {
+        "id": "61b0627d00000000010076d2",
+        "name": "mscs",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "type": "normal",
+    "time": 1748047374000,
+    "lastUpdateTime": 1748195196000
+  },
+  "comments": [
+    {
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB8tNxXMHw4UAM9jF2MIiQMjPHXTdpnvz3ZVRgnEACGn0=",
+        "userId": "5b2b5ccfe8ac2b1833f66ec6",
+        "nickname": "rm -rf ＊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d9120ku0s004a6evtecurm63s95leg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1748050653000,
+      "status": 0,
+      "liked": false,
+      "invalid": false,
+      "id": "683122dc000000000b02d3b9",
+      "noteId": "6831160e00000000230020d9",
+      "content": "Donald纯黑化了，以前不是这样的",
+      "likeCount": "7",
+      "showTags": [],
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "targetComment": {
+            "userInfo": {
+              "userId": "5b2b5ccfe8ac2b1833f66ec6",
+              "nickname": "rm -rf ＊",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d9120ku0s004a6evtecurm63s95leg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB8tNxXMHw4UAM9jF2MIiQMjPHXTdpnvz3ZVRgnEACGn0="
+            },
+            "id": "683122dc000000000b02d3b9"
+          },
+          "status": 0,
+          "userInfo": {
+            "userId": "5e2be33e00000000010047ca",
+            "nickname": "Eastsideboi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs="
+          },
+          "createTime": 1748050866000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "683123b1000000000900db25",
+          "noteId": "6831160e00000000230020d9",
+          "content": "真的，太夸张了[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "683123b1000000000900db25",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "subCommentCount": "2",
+      "subCommentCursor": "6831264b000000000d01726d",
+      "subCommentHasMore": true,
+      "id": "68312580000000000d0142ea",
+      "subComments": [
+        {
+          "content": "当时还说有一个project来着，后来也不了了之了[笑哭R]",
+          "liked": false,
+          "createTime": 1748051531000,
+          "invalid": false,
+          "id": "6831264b000000000d01726d",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs=",
+            "userId": "5e2be33e00000000010047ca",
+            "nickname": "Eastsideboi"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "68312580000000000d0142ea",
+            "userInfo": {
+              "userId": "5e5f23ac0000000001007f7a",
+              "nickname": "Mr.好好先生",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6469b463a556b9a166e131af.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvsvutE17lcJ-8hRCcGFOQDVMn7ZvOuUt_i0wYaorfGE="
+            }
+          },
+          "noteId": "6831160e00000000230020d9",
+          "status": 0
+        }
+      ],
+      "noteId": "6831160e00000000230020d9",
+      "content": "一个是老唐被学院上强度了，二是老唐很摆，手下大部分TA不干事[失望R][失望R]",
+      "likeCount": "6",
+      "showTags": [],
+      "ipLocation": "美国",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABvsvutE17lcJ-8hRCcGFOQDVMn7ZvOuUt_i0wYaorfGE=",
+        "userId": "5e5f23ac0000000001007f7a",
+        "nickname": "Mr.好好先生",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6469b463a556b9a166e131af.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1748051329000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "机会应该不大...这节课是department管的，下学期应该还有",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "61c8eba7000000001000b9ca",
+              "nickname": "蒜噜",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30o7iedfd2ee05oe8tejk1eeada59cho?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABcLOBeq2PHmsDQI9durT1BXtnIUO4itDzsc2sBYxsdvE="
+            },
+            "id": "68826df7000000001a02addf"
+          },
+          "invalid": false,
+          "noteId": "6831160e00000000230020d9",
+          "atUsers": [],
+          "likeCount": "2",
+          "userInfo": {
+            "nickname": "Eastsideboi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs=",
+            "userId": "5e2be33e00000000010047ca"
+          },
+          "createTime": 1753378469000,
+          "ipLocation": "美国",
+          "id": "68826ea4000000000600548e"
+        }
+      ],
+      "id": "68826df7000000001a02addf",
+      "noteId": "6831160e00000000230020d9",
+      "status": 0,
+      "content": "想问下4153 waitlist情况是怎么样？reg appt被waitlist还有可能进吗[哭惹R][哭惹R]",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "61c8eba7000000001000b9ca",
+        "nickname": "蒜噜",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30o7iedfd2ee05oe8tejk1eeada59cho?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABcLOBeq2PHmsDQI9durT1BXtnIUO4itDzsc2sBYxsdvE="
+      },
+      "subCommentCursor": "68826ea4000000000600548e",
+      "likeCount": "0",
+      "createTime": 1753378295000,
+      "ipLocation": "美国",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "hello学长，想问问cloud computing是不是要上完intro to database才能选呢？",
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "68abcedf000000003001695c",
+          "noteId": "6831160e00000000230020d9",
+          "content": "可以一起",
+          "atUsers": [],
+          "targetComment": {
+            "id": "68abb8ed000000003001282c",
+            "userInfo": {
+              "userId": "603dea1c00000000010061fc",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3227q6l2g740g5o1tt8e08ofs5ncr55g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB3EC_0vAfCQZ3MdT6xcA8sBhyvilfNX7Dodub2c8sjGg="
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs=",
+            "userId": "5e2be33e00000000010047ca",
+            "nickname": "Eastsideboi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1756090080000,
+          "ipLocation": "美国"
+        }
+      ],
+      "subCommentCursor": "68abcedf000000003001695c",
+      "liked": false,
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "6831160e00000000230020d9",
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3227q6l2g740g5o1tt8e08ofs5ncr55g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB3EC_0vAfCQZ3MdT6xcA8sBhyvilfNX7Dodub2c8sjGg=",
+        "userId": "603dea1c00000000010061fc",
+        "nickname": "momo"
+      },
+      "showTags": [],
+      "createTime": 1756084461000,
+      "subCommentHasMore": false,
+      "ipLocation": "美国",
+      "id": "68abb8ed000000003001282c",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "日本",
+      "subCommentCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5ced4d77000000001102764b",
+        "nickname": "ERIC",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5fba775200d5450001903317.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnoogXdIe2_ljfhcYCzbJdbiWpDfHJSQfiTI4PxoX_H0="
+      },
+      "invalid": false,
+      "id": "68943fc4000000002902fcd5",
+      "noteId": "6831160e00000000230020d9",
+      "createTime": 1754546116000,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "applied ml还是intro to databases求推荐",
+      "showTags": [],
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "liked": false,
+      "ipLocation": "美国",
+      "likeCount": "2",
+      "showTags": [],
+      "subCommentCursor": "",
+      "id": "687d7bb0000000001e0325eb",
+      "noteId": "6831160e00000000230020d9",
+      "status": 0,
+      "content": "mscs incoming student看到这个很感激 呜呜",
+      "userInfo": {
+        "userId": "61b072f6000000001000cde1",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEzcW4d9mBruuDWVyVoOUZH1I7Z1w9HyHyeBWOP_iT2I="
+      },
+      "createTime": 1753054129000,
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "687fd25d000000001e0327df",
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "content": "1. 他的workload很不确定，取决于那个学期他有没有时间，心情好不好，他的TA整体效率也不高 2. 不知道ross，评价不了。 补充一点是不是给分严格，他curve的力度还挺大的，大家抱怨分数的主要原因感觉是本来占比50%的take home变成了线下考试（两张cheatsheet）",
+          "atUsers": [],
+          "createTime": 1753208298000,
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs=",
+            "userId": "5e2be33e00000000010047ca",
+            "nickname": "Eastsideboi"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "687fd25d000000001e0327df",
+            "userInfo": {
+              "userId": "61b072f6000000001000cde1",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEzcW4d9mBruuDWVyVoOUZH1I7Z1w9HyHyeBWOP_iT2I="
+            }
+          },
+          "id": "687fd5e9000000001100dc48",
+          "noteId": "6831160e00000000230020d9"
+        }
+      ],
+      "content": "想问下楼主，如果intro to database donald给分变严格了的话：\n1. workload有增加吗？\n2. 25Fall还开了Ross的intro to database，推荐选他，而不是Donald吗？\n谢谢 [微笑R]",
+      "createTime": 1753207390000,
+      "noteId": "6831160e00000000230020d9",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABEzcW4d9mBruuDWVyVoOUZH1I7Z1w9HyHyeBWOP_iT2I=",
+        "userId": "61b072f6000000001000cde1",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "687fd5e9000000001100dc48",
+      "invalid": false,
+      "ipLocation": "美国",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "美国",
+      "invalid": false,
+      "noteId": "6831160e00000000230020d9",
+      "content": "credit给到@Mr.好好先生 ，之前在地里看到学长三篇精华就读体验，非常有用[赞R]",
+      "subCommentCursor": "",
+      "status": 0,
+      "showTags": [
+        "is_author"
+      ],
+      "createTime": 1748052031000,
+      "subComments": [],
+      "likeCount": "2",
+      "userInfo": {
+        "xsecToken": "ABg5X0FBenAF9c72qbXO-J_snyhjclxLKahm16sieLyqs=",
+        "userId": "5e2be33e00000000010047ca",
+        "nickname": "Eastsideboi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6831283f000000000b0146e9",
+      "atUsers": [
+        {
+          "userId": "5e5f23ac0000000001007f7a",
+          "nickname": "Mr.好好先生",
+          "aiAgent": false,
+          "xsecToken": "ABvsvutE17lcJ-8hRCcGFOQDVMn7ZvOuUt_i0wYaorfGE="
+        }
+      ],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 体验",
+  "search_item": {
+    "id": "6831160e00000000230020d9",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "哥大MSCS选课评价(1)",
+      "user": {
+        "nickname": "Eastsideboi",
+        "xsecToken": "ABnhN95I-YIes6yhwD3m89CSALjIlC4ICV4br9YWaEhck=",
+        "nickName": "Eastsideboi",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fkeli54ng005nhbscv08huaqe1sit8?imageView2/2/w/80/format/jpg",
+        "userId": "5e2be33e00000000010047ca"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "121",
+        "commentCount": "22",
+        "sharedCount": "26",
+        "liked": false,
+        "likedCount": "107"
+      },
+      "cover": {
+        "height": 2580,
+        "width": 3440,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281512/ab1b7c722a03240abb9ff33f5c6eeb28/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281512/34a36f14388bde313ca901e6fb24acd7/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 3440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/ab1b7c722a03240abb9ff33f5c6eeb28/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/34a36f14388bde313ca901e6fb24acd7/notes_pre_post/1040g3k031hrk1an0ja005nhbscv08hua046dklg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2580
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-26"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABEbJ6DmFB17gcvCG11S9KwkOo00nzBwPFttu3Oa8Sr4g=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6831160e00000000230020d9"
+  }
+}

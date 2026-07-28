@@ -2665,6 +2665,41 @@
       "new_notes": 2,
       "cross_refs": 4,
       "at": 1785221699.7508478
+    },
+    {
+      "query": "CS5185 CityU",
+      "items_found": 0,
+      "new_notes": 0,
+      "cross_refs": 0,
+      "at": 1785222574.157306
+    },
+    {
+      "query": "CS5185 Multimedia Technologies and",
+      "items_found": 40,
+      "new_notes": 3,
+      "cross_refs": 0,
+      "at": 1785222642.3621783
+    },
+    {
+      "query": "CS5185 multimedia",
+      "items_found": 20,
+      "new_notes": 3,
+      "cross_refs": 2,
+      "at": 1785222710.735806
+    },
+    {
+      "query": "CS5185 体验",
+      "items_found": 40,
+      "new_notes": 3,
+      "cross_refs": 6,
+      "at": 1785222791.8636973
+    },
+    {
+      "query": "CS5185 城大",
+      "items_found": 40,
+      "new_notes": 3,
+      "cross_refs": 16,
+      "at": 1785222862.4032326
     }
   ],
   "notes": {
@@ -2755,7 +2790,8 @@
         "港城 CS5486",
         "CS5486 智能系统",
         "CS5288 体验",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 体验"
       ]
     },
     "6a0c17bd000000000702ea2c": {
@@ -3166,7 +3202,8 @@
       "queries": [
         "CS5481 城大",
         "CS6187 体验",
-        "CS5288 怎么样"
+        "CS5288 怎么样",
+        "CS5185 体验"
       ]
     },
     "31203009-3377-4a0d-89f9-3a121b58f9a2#1784874281886": {
@@ -3411,7 +3448,9 @@
         "CS5288 CityU",
         "城大CS5288",
         "CS5288 体验",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 体验",
+        "CS5185 城大"
       ]
     },
     "85aa106a-85b4-4a0e-ae9a-a609668d5220#1784949879292": {
@@ -3438,7 +3477,8 @@
         "城大CS6537",
         "城大CS5367",
         "CityU CS5367",
-        "CS6187 城大"
+        "CS6187 城大",
+        "CS5185 城大"
       ]
     },
     "6904556a0000000004014c6a": {
@@ -3488,7 +3528,8 @@
         "CS5288 城大CS",
         "CS5288 CityU",
         "城大CS5288",
-        "CS5288 体验"
+        "CS5288 体验",
+        "CS5185 城大"
       ]
     },
     "6a5284b20000000017008fe0": {
@@ -3511,7 +3552,8 @@
         "城大CS6538",
         "CS5486 城大CS",
         "城大CS5486",
-        "CS5288 CityU"
+        "CS5288 CityU",
+        "CS5185 城大"
       ]
     },
     "6944d2ee000000001b022ac0": {
@@ -3534,7 +3576,8 @@
         "CS6520 城大 CS 项目",
         "CS5486 城大",
         "CS5486 城大CS",
-        "城大CS5288"
+        "城大CS5288",
+        "CS5185 城大"
       ]
     },
     "68997ebb00000000030309ed": {
@@ -3605,7 +3648,8 @@
         "城大CS6538",
         "城大 internship project 城大",
         "CS6538 internship project 城大",
-        "CS6538 城大 实习项目"
+        "CS6538 城大 实习项目",
+        "CS5185 城大"
       ]
     },
     "6a63005b000000000503831e": {
@@ -3645,7 +3689,8 @@
       "fetched_at": 1784950097.7236307,
       "queries": [
         "CS6187 城大",
-        "CS6521 城大 研究项目"
+        "CS6521 城大 研究项目",
+        "CS5185 城大"
       ]
     },
     "69d51503000000001b0205c8": {
@@ -3948,7 +3993,8 @@
       "queries": [
         "城大 人工智能 方向 选课",
         "CS6187 体验",
-        "CS5486 怎么样"
+        "CS5486 怎么样",
+        "CS5185 体验"
       ],
       "fetched_at": 1784952052.3575585
     },
@@ -4418,7 +4464,8 @@
       "url": "https://www.xiaohongshu.com/explore/6775f253000000001300a3bc?xsec_token=ABqZVRyr5ZgXlSfm4Zc2X_XhIMrAwd4fsVRhS39FY6ISk=",
       "query": "CS5286 Algorithms & Techniques",
       "queries": [
-        "CS5286 Algorithms & Techniques"
+        "CS5286 Algorithms & Techniques",
+        "CS5185 体验"
       ],
       "fetched_at": 1784953436.6199644
     },
@@ -5032,7 +5079,8 @@
         "CityU CS6538",
         "城大 CS5486 AI",
         "CS5288 城大",
-        "CS5288 城大CS"
+        "CS5288 城大CS",
+        "CS5185 城大"
       ],
       "fetched_at": 1784955513.1207821
     },
@@ -5079,7 +5127,8 @@
       "url": "https://www.xiaohongshu.com/explore/6951f045000000002203a502?xsec_token=ABmwHyAkMCMJtFdYEZKtDy5QMnvoeMGcTmjRYwEe-tEC4=",
       "query": "CS5367 选课",
       "queries": [
-        "CS5367 选课"
+        "CS5367 选课",
+        "CS5185 multimedia"
       ],
       "fetched_at": 1784955692.329035
     },
@@ -5327,7 +5376,8 @@
       "queries": [
         "城大CS6187",
         "CS6520 城大",
-        "CS6538 城大"
+        "CS6538 城大",
+        "CS5185 城大"
       ],
       "fetched_at": 1784959347.9117672
     },
@@ -5765,7 +5815,8 @@
         "港城 CS6538",
         "港城 CS5486",
         "CS5288 城大",
-        "CS5288 城大CS"
+        "CS5288 城大CS",
+        "CS5185 城大"
       ],
       "fetched_at": 1785208591.1188252
     },
@@ -5783,7 +5834,8 @@
       "query": "城大 城大 CS 项目",
       "queries": [
         "城大 城大 CS 项目",
-        "港城 CS6538"
+        "港城 CS6538",
+        "CS5185 城大"
       ],
       "fetched_at": 1785208655.005777
     },
@@ -5845,7 +5897,8 @@
         "CS5486 CityU",
         "CS5486 怎么样",
         "CS5288 城大",
-        "CS5288 CityU"
+        "CS5288 CityU",
+        "CS5185 城大"
       ],
       "fetched_at": 1785208941.3254802
     },
@@ -5928,7 +5981,8 @@
         "CS5486 怎么样",
         "CS5486 给分",
         "CS5288 城大",
-        "CS5288 CityU"
+        "CS5288 CityU",
+        "CS5185 城大"
       ],
       "fetched_at": 1785209201.550716
     },
@@ -5970,7 +6024,8 @@
       "url": "https://www.xiaohongshu.com/explore/695cb992000000000b01285d?xsec_token=ABov_zZ3pPNK4Pi835VV_qAVjoOXapHHMcJQTwLW3WxxM=",
       "query": "CS6521 给分",
       "queries": [
-        "CS6521 给分"
+        "CS6521 给分",
+        "CS5185 体验"
       ],
       "fetched_at": 1785209372.937152
     },
@@ -6089,7 +6144,8 @@
       "query": "CS6538 城大",
       "queries": [
         "CS6538 城大",
-        "城大CS6538"
+        "城大CS6538",
+        "CS5185 城大"
       ],
       "fetched_at": 1785209809.26511
     },
@@ -6229,7 +6285,8 @@
       "query": "CS6538 避雷",
       "queries": [
         "CS6538 避雷",
-        "港城 CS6538"
+        "港城 CS6538",
+        "CS5185 城大"
       ],
       "fetched_at": 1785210283.779384
     },
@@ -6668,7 +6725,8 @@
       "url": "https://www.xiaohongshu.com/explore/69378483000000001e00f42c?xsec_token=AB-eFlvF0AzVMs_I5-1NrQ1KSrJpZeqSEvCcX7ijNDGRM=",
       "query": "城大CS5288",
       "queries": [
-        "城大CS5288"
+        "城大CS5288",
+        "CS5185 城大"
       ],
       "fetched_at": 1785215994.1434536
     },
@@ -6727,6 +6785,103 @@
         "CS5288 怎么样"
       ],
       "fetched_at": 1785221684.3965225
+    },
+    "68f052a80000000007016418": {
+      "url": "https://www.xiaohongshu.com/explore/68f052a80000000007016418?xsec_token=AB37VFhdmRzwhAkIkime85e5v1aIoHhJy7tp4JYwIss-c=",
+      "query": "CS5185 Multimedia Technologies and",
+      "queries": [
+        "CS5185 Multimedia Technologies and"
+      ],
+      "fetched_at": 1785222596.2070854
+    },
+    "6a12d06b000000003701cdcb": {
+      "url": "https://www.xiaohongshu.com/explore/6a12d06b000000003701cdcb?xsec_token=ABbToo8l3sSTWRO27Fu7Bj1B5LyJ9yvWAiWHg-xgYm8v0=",
+      "query": "CS5185 Multimedia Technologies and",
+      "queries": [
+        "CS5185 Multimedia Technologies and",
+        "CS5185 multimedia"
+      ],
+      "fetched_at": 1785222611.7820272
+    },
+    "690960750000000003039482": {
+      "url": "https://www.xiaohongshu.com/explore/690960750000000003039482?xsec_token=ABLp3cMurDpEA3jNkstdx_MEwaSQX5e8xbA1xGIFf_wQU=",
+      "query": "CS5185 Multimedia Technologies and",
+      "queries": [
+        "CS5185 Multimedia Technologies and"
+      ],
+      "fetched_at": 1785222627.1105735
+    },
+    "69855ec3000000000a03f859": {
+      "url": "https://www.xiaohongshu.com/explore/69855ec3000000000a03f859?xsec_token=ABWkh3B-QheOr_VCbbRqsaAvJAltrxq4GKenH7Diu52D0=",
+      "query": "CS5185 multimedia",
+      "queries": [
+        "CS5185 multimedia"
+      ],
+      "fetched_at": 1785222663.1289558
+    },
+    "699d2580000000000c03410a": {
+      "url": "https://www.xiaohongshu.com/explore/699d2580000000000c03410a?xsec_token=ABkZ3AMvvEksH9Mo9-1cRdF0XD8KWPCDcN1X_oT_8NTzw=",
+      "query": "CS5185 multimedia",
+      "queries": [
+        "CS5185 multimedia"
+      ],
+      "fetched_at": 1785222677.9434447
+    },
+    "691525c30000000019027d68": {
+      "url": "https://www.xiaohongshu.com/explore/691525c30000000019027d68?xsec_token=ABdVW_Ku0fcoBtjKhDUbOjdooG3sJIiO2CVUGIbmwThak=",
+      "query": "CS5185 multimedia",
+      "queries": [
+        "CS5185 multimedia"
+      ],
+      "fetched_at": 1785222693.6408424
+    },
+    "6831160e00000000230020d9": {
+      "url": "https://www.xiaohongshu.com/explore/6831160e00000000230020d9?xsec_token=ABEbJ6DmFB17gcvCG11S9KwkOo00nzBwPFttu3Oa8Sr4g=",
+      "query": "CS5185 体验",
+      "queries": [
+        "CS5185 体验"
+      ],
+      "fetched_at": 1785222732.6830235
+    },
+    "697811e8000000002800980a": {
+      "url": "https://www.xiaohongshu.com/explore/697811e8000000002800980a?xsec_token=ABIyiRtus7SDOs25fbuS5ol2XXdJr8CWNJCUxbEtY1WD4=",
+      "query": "CS5185 体验",
+      "queries": [
+        "CS5185 体验"
+      ],
+      "fetched_at": 1785222749.8240032
+    },
+    "6a5b8ba4000000000100f23c": {
+      "url": "https://www.xiaohongshu.com/explore/6a5b8ba4000000000100f23c?xsec_token=AB36IQwV0I88aT9eXIfMgqpc2vAqa56qeNNrENPcyBWiw=",
+      "query": "CS5185 体验",
+      "queries": [
+        "CS5185 体验"
+      ],
+      "fetched_at": 1785222776.0847595
+    },
+    "69cc3600000000001a036161": {
+      "url": "https://www.xiaohongshu.com/explore/69cc3600000000001a036161?xsec_token=ABDKRLGvlFixdLqJzUTv5ob7bn35XtbVbEYkKe8NfUvrU=",
+      "query": "CS5185 城大",
+      "queries": [
+        "CS5185 城大"
+      ],
+      "fetched_at": 1785222814.066258
+    },
+    "6a47c6ef0000000006035696": {
+      "url": "https://www.xiaohongshu.com/explore/6a47c6ef0000000006035696?xsec_token=ABqmmBfYHcSfAK4emFvUr76jwdOOwsdNx3HJ7dScIGpoc=",
+      "query": "CS5185 城大",
+      "queries": [
+        "CS5185 城大"
+      ],
+      "fetched_at": 1785222832.9861028
+    },
+    "69c3ea780000000022029ffa": {
+      "url": "https://www.xiaohongshu.com/explore/69c3ea780000000022029ffa?xsec_token=AB9W2jbzSyZ6zHmokMLeGbweTApci917pvPaC8B6KQNdo=",
+      "query": "CS5185 城大",
+      "queries": [
+        "CS5185 城大"
+      ],
+      "fetched_at": 1785222848.2779455
     }
   },
   "checkpoint": {
@@ -6792,66 +6947,6 @@
       "CityU CS 硕士 课程评价",
       "城大计算机硕士 选课",
       "香港城市大学 CS 选课",
-      "CS6535 城大",
-      "CS6535 城大CS",
-      "CS6535 CityU",
-      "城大CS6535",
-      "CS6535 选课",
-      "CS6535 体验",
-      "CS6535 评价",
-      "CS6535 怎么样",
-      "CS6535 避雷",
-      "CS6535 给分",
-      "CityU CS6535",
-      "港城 CS6535",
-      "城大 CS6535 AI",
-      "城大 CS AI stream 选课",
-      "城大 人工智能 方向 选课",
-      "城大 AI guided study",
-      "CS6535 AI guided study",
-      "城大 人工智能 导修",
-      "CS6535 人工智能 导修",
-      "城大 Guided Study in",
-      "CS6535 Guided Study in",
-      "CS5286 城大",
-      "CS5286 城大CS",
-      "CS5286 CityU",
-      "城大CS5286",
-      "CS5286 选课",
-      "CS5286 体验",
-      "CS5286 评价",
-      "CS5286 怎么样",
-      "CS5286 避雷",
-      "CS5286 给分",
-      "CityU CS5286",
-      "港城 CS5286",
-      "城大 CS5286 DS",
-      "城大 CS 数据科学 stream",
-      "城大 大数据 选课",
-      "城大 搜索引擎",
-      "CS5286 搜索引擎",
-      "城大 web search",
-      "CS5286 web search",
-      "城大 Algorithms & Techniques",
-      "CS5286 Algorithms & Techniques",
-      "CS6536 城大",
-      "CS6536 城大CS",
-      "CS6536 CityU",
-      "城大CS6536",
-      "CS6536 选课",
-      "CS6536 体验",
-      "CS6536 评价",
-      "CS6536 怎么样",
-      "CS6536 避雷",
-      "CS6536 给分",
-      "CityU CS6536",
-      "港城 CS6536",
-      "城大 CS6536 DS",
-      "城大 数据科学 导修",
-      "CS6536 数据科学 导修",
-      "城大 data science guided",
-      "CS6536 data science guided",
-      "CS6536 Guided Study in",
       "CS6537 城大",
       "CS6537 城大CS",
       "CS6537 CityU",
@@ -6872,42 +6967,6 @@
       "城大 IS guided study",
       "CS6537 IS guided study",
       "CS6537 Guided Study in",
-      "CS5367 城大",
-      "CS5367 城大CS",
-      "CS5367 CityU",
-      "城大CS5367",
-      "CS5367 选课",
-      "CS5367 体验",
-      "CS5367 评价",
-      "CS5367 怎么样",
-      "CS5367 避雷",
-      "CS5367 给分",
-      "CityU CS5367",
-      "港城 CS5367",
-      "城大 游戏设计",
-      "CS5367 游戏设计",
-      "城大 game design",
-      "CS5367 game design",
-      "城大 Computer Games Design",
-      "CS5367 Computer Games Design",
-      "CS6187 城大",
-      "CS6187 城大CS",
-      "CS6187 CityU",
-      "城大CS6187",
-      "CS6187 选课",
-      "CS6187 体验",
-      "CS6187 评价",
-      "CS6187 怎么样",
-      "CS6187 避雷",
-      "CS6187 给分",
-      "CityU CS6187",
-      "港城 CS6187",
-      "城大 视觉语言",
-      "CS6187 视觉语言",
-      "城大 vision language",
-      "CS6187 vision language",
-      "城大 Vision and Language",
-      "CS6187 Vision and Language",
       "CS6520 城大",
       "CS6520 城大CS",
       "CS6520 CityU",
@@ -6926,41 +6985,6 @@
       "CS6520 城大 CS 项目",
       "城大 Project",
       "CS6520 Project",
-      "CS6521 城大",
-      "CS6521 城大CS",
-      "CS6521 CityU",
-      "城大CS6521",
-      "CS6521 选课",
-      "CS6521 体验",
-      "CS6521 评价",
-      "CS6521 怎么样",
-      "CS6521 避雷",
-      "CS6521 给分",
-      "CityU CS6521",
-      "港城 CS6521",
-      "城大 research project 城大",
-      "CS6521 research project 城大",
-      "城大 城大 研究项目",
-      "CS6521 城大 研究项目",
-      "城大 Research/Internship Project",
-      "CS6521 Research/Internship Project",
-      "CS6538 城大",
-      "CS6538 城大CS",
-      "CS6538 CityU",
-      "城大CS6538",
-      "CS6538 选课",
-      "CS6538 体验",
-      "CS6538 评价",
-      "CS6538 怎么样",
-      "CS6538 避雷",
-      "CS6538 给分",
-      "CityU CS6538",
-      "港城 CS6538",
-      "城大 internship project 城大",
-      "CS6538 internship project 城大",
-      "城大 城大 实习项目",
-      "CS6538 城大 实习项目",
-      "CS6538 Research/Internship Project",
       "CS5486 城大",
       "CS5486 城大CS",
       "CS5486 CityU",

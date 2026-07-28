@@ -1,0 +1,570 @@
+{
+  "note_id": "6a5b8ba4000000000100f23c",
+  "url": "https://www.xiaohongshu.com/explore/6a5b8ba4000000000100f23c?xsec_token=AB36IQwV0I88aT9eXIfMgqpc2vAqa56qeNNrENPcyBWiw=",
+  "fetched_at": 1785222776.0847595,
+  "note": {
+    "xsecToken": "AB36IQwV0I88aT9eXIfMgqpc2vAqa56qeNNrENPcyBWiw=",
+    "tagList": [],
+    "time": 1784384420000,
+    "title": "计算机paper还有用吗？",
+    "desc": "看见一个老哥详细又严肃的回答",
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281513/7946c817c97df6a2cb530fee01843fc0/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281513/577229eac5c7eb8ed221b253de400c6f/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281513/577229eac5c7eb8ed221b253de400c6f/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281513/7946c817c97df6a2cb530fee01843fc0/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88",
+        "height": 1002,
+        "width": 1080
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1784384420000,
+    "ipLocation": "上海",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a5b8ba4000000000100f23c",
+    "type": "normal",
+    "user": {
+      "userId": "5d3723a0000000001100589d",
+      "nickname": "Happy",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63929f58b2345528f718b409.jpg",
+      "xsecToken": "ABmr48qOjigFT-7oTSmP18ToTUkmlXuVUTuAjjdNnIsb8="
+    },
+    "interactInfo": {
+      "collectedCount": "505",
+      "shareCount": "112",
+      "likedCount": "519",
+      "collected": false,
+      "commentCount": "57",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false
+    }
+  },
+  "comments": [
+    {
+      "subCommentHasMore": true,
+      "liked": false,
+      "noteId": "6a5b8ba4000000000100f23c",
+      "likeCount": "109",
+      "showTags": [],
+      "subCommentCount": "5",
+      "invalid": false,
+      "id": "6a5bcc42000000000d022800",
+      "content": "我主要做agent的。虽然我也认同预训练>后训练>train free。但是放到学术界发论文来说，预训练基座模型我想都不敢想，训个垂直领域小的完全又是玩具被大模型爆杀。后训练在各种合成数据集上搞点agentic rl到还行，但也是发论文做toy demo，为的就是当入场劵去大厂做真正有意义的。train free搭各种agent 框架，搞些什么harness/自进化，编故事发论文还能学点工程技术，才是我们小菜鸡们能搞的[笑哭R]",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f13c442000000000100171a",
+        "nickname": "肥嘟嘟左右卫门",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oaotug7mm005nojoh1085oqptab7i8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABl1M_odT2T7Xzq-Z5cDQeGLoo3PvOST7jHuFKplrdOa4="
+      },
+      "ipLocation": "英国",
+      "subComments": [
+        {
+          "id": "6a5c86c9000000000b03b9a3",
+          "noteId": "6a5b8ba4000000000100f23c",
+          "content": "想请教一下，为什么大家都不认可 training free 呢？如果不训练就能有效果，不是也很好吗",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "5",
+          "ipLocation": "山东",
+          "invalid": false,
+          "status": 0,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6361566c627ab424d5480b6d.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCyi70w6yRFiwY1lRtuNI5I1-jX8vFBVomxMG0-m_ZTE=",
+            "userId": "6077c94600000000010083ac",
+            "nickname": "久久帆"
+          },
+          "showTags": [],
+          "createTime": 1784448714000,
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABl1M_odT2T7Xzq-Z5cDQeGLoo3PvOST7jHuFKplrdOa4=",
+              "userId": "5f13c442000000000100171a",
+              "nickname": "肥嘟嘟左右卫门",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oaotug7mm005nojoh1085oqptab7i8?imageView2/2/w/120/format/jpg"
+            },
+            "id": "6a5bcc42000000000d022800"
+          }
+        }
+      ],
+      "subCommentCursor": "6a5c86c9000000000b03b9a3",
+      "status": 0,
+      "createTime": 1784400962000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "我觉得实习远大于不匹配的论文",
+      "subCommentCount": "11",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "101",
+      "userInfo": {
+        "userId": "6124c7bd0000000001014eec",
+        "nickname": "喝咖啡的 momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3122scl4kjq6g5o94ouugajnc5962m98?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIaPT-6qLPGxLByb_ZmWbnNc8OLiwkIcfoJSYIH3vk2I="
+      },
+      "createTime": 1784386669000,
+      "subCommentCursor": "6a5c1650000000002b003020",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "subComments": [
+        {
+          "content": "问题是没论文压根去不了有价值的实习，鸡生蛋还是蛋生鸡的矛盾",
+          "liked": false,
+          "likeCount": "88",
+          "userInfo": {
+            "userId": "5fee748f0000000001002bdc",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p0upaaj2s005nveei7g8aushvsbi48?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABNUOYctgeduSOlIrhaR95_Ii4tHQvrcIpb-cDQ60MnYE="
+          },
+          "showTags": [],
+          "atUsers": [],
+          "createTime": 1784419920000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a5b946d0000000004038cf5",
+            "userInfo": {
+              "userId": "6124c7bd0000000001014eec",
+              "nickname": "喝咖啡的 momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3122scl4kjq6g5o94ouugajnc5962m98?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIaPT-6qLPGxLByb_ZmWbnNc8OLiwkIcfoJSYIH3vk2I="
+            }
+          },
+          "invalid": false,
+          "id": "6a5c1650000000002b003020",
+          "noteId": "6a5b8ba4000000000100f23c",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a5b946d0000000004038cf5",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "未来paper越来越没用肯定是个趋势，这两年会议体系都快崩塌了，现在给我一种整个会议没有人类的感觉了（对包括审稿的也没几个真人了，全是ai抽奖来撞大运），在这种状况下当然是实习最重要了，好歹能证明你是个合格的牛马[吐舌头H]",
+      "liked": false,
+      "createTime": 1784512500000,
+      "invalid": false,
+      "likeCount": "18",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB_N7LhyhEioGomDuGyU1FzFulT3tloScBugxsOBQjWOU=",
+        "userId": "5f58a3490000000001000c3b",
+        "nickname": "Uknow02",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ps3rn5l3q605nqokd4g831r9jgq3pg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "ipLocation": "北京",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "6a5d7ff3000000000802e59d",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "atUsers": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a5b8ba4000000000100f23c",
+      "subCommentCount": "4",
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "6a632f52000000002a024154",
+      "invalid": false,
+      "content": "比较好奇kdd算什么类型的",
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5f3ce0d9000000000100a83e",
+            "nickname": "🐠",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f3ce0d9000000000100a83e.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABfzr59EJKAzC_ua14PrWgJzbatWk8h8oVthvxDU5p9t4="
+          },
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "6a5d2c17000000002b0251e4",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABaIM4vZrJFSK_5bAQjcgh33G24FL5Qyux0aRH1tqsehA=",
+              "userId": "66c866a4000000001d03029e",
+              "nickname": "竹叶青青青",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rvcsi5tku6g5pm8cqi7e0kum0hmd18?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "noteId": "6a5b8ba4000000000100f23c",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1784885075000,
+          "invalid": false,
+          "id": "6a632f52000000002a024154",
+          "content": "到底谁会投圈子会"
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a5d2c17000000002b0251e4",
+      "userInfo": {
+        "userId": "66c866a4000000001d03029e",
+        "nickname": "竹叶青青青",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rvcsi5tku6g5pm8cqi7e0kum0hmd18?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABaIM4vZrJFSK_5bAQjcgh33G24FL5Qyux0aRH1tqsehA="
+      },
+      "showTags": [],
+      "createTime": 1784491032000,
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "content": "好问题[笑哭R]",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "6a5b8ba4000000000100f23c",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "3",
+          "userInfo": {
+            "nickname": "Happy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63929f58b2345528f718b409.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCHCX1SnrwTXuwQoKrNzSorFi9q6l5bsWu7wJzO4slUs=",
+            "userId": "5d3723a0000000001100589d"
+          },
+          "createTime": 1784392882000,
+          "ipLocation": "上海",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5b3bfc726b58b70147e6e01c",
+              "nickname": "乔丽波普象",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qad41t0js0004a6qgku75o0sq14e1c0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABq8zpiOKI8DDjZCWkljQxTMEPe4Gbrh7t_uNLg2NIVYc="
+            },
+            "id": "6a5ba6fd0000000015008a17"
+          },
+          "id": "6a5bacb10000000015004311",
+          "status": 0
+        }
+      ],
+      "status": 0,
+      "content": "没论文的话一开始咋找实习呢[哭惹R][哭惹R]",
+      "showTags": [],
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABq8zpiOKI8DDjZCWkljQxTMEPe4Gbrh7t_uNLg2NIVYc=",
+        "userId": "5b3bfc726b58b70147e6e01c",
+        "nickname": "乔丽波普象",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qad41t0js0004a6qgku75o0sq14e1c0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "美国",
+      "subCommentCursor": "6a5bacb10000000015004311",
+      "id": "6a5ba6fd0000000015008a17",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "liked": false,
+      "likeCount": "8",
+      "createTime": 1784391422000,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "subCommentCount": "8",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "论文大于实习吗[笑哭R]",
+      "liked": false,
+      "likeCount": "2",
+      "ipLocation": "天津",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "实习＞论文[doge]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5d3723a0000000001100589d",
+            "nickname": "Happy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63929f58b2345528f718b409.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCHCX1SnrwTXuwQoKrNzSorFi9q6l5bsWu7wJzO4slUs="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784385015000,
+          "noteId": "6a5b8ba4000000000100f23c",
+          "likeCount": "29",
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a5b8c200000000015004971",
+            "userInfo": {
+              "userId": "63be7b22000000002702b5ab",
+              "nickname": "嘿嘿嘿",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317gpohcf4a5g5otufch9tddbua92co0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABOKn7tMwuLEV6hwQ1K0DV-djq-cbQ0TydSGCfO3MMBvY="
+            }
+          },
+          "invalid": false,
+          "id": "6a5b8df70000000015004acb"
+        }
+      ],
+      "subCommentCursor": "6a5b8df70000000015004acb",
+      "id": "6a5b8c200000000015004971",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "status": 0,
+      "userInfo": {
+        "userId": "63be7b22000000002702b5ab",
+        "nickname": "嘿嘿嘿",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317gpohcf4a5g5otufch9tddbua92co0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOKn7tMwuLEV6hwQ1K0DV-djq-cbQ0TydSGCfO3MMBvY="
+      },
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCount": "5",
+      "showTags": [],
+      "createTime": 1784384544000,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a5f35be0000000015009663",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "content": "两篇一作aaai应该是横着走的",
+      "userInfo": {
+        "userId": "6765ea7100000000180165f6",
+        "nickname": "llamaGo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vheso84iq005pr5t9om2pfm8n404hg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWrhh4Cn6WeXQFYYvSAtxPbwbohFvyg7l0BOH2ZC1vxM="
+      },
+      "createTime": 1784624574000,
+      "ipLocation": "韩国",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "liked": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a5dcecd00000000150105fe",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316m9gk2fje6g5pe709hkahvbbn6vq2g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB90lE9Qo_UiiyZL6q1hraCQWyLdk6_zANG_uc5K7A5es=",
+        "userId": "65c7026300000000110147eb",
+        "nickname": "kotori"
+      },
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "6a5b8ba4000000000100f23c",
+      "showTags": [],
+      "subCommentCursor": "",
+      "content": "SIGGRAPHasia一般都按和本体等同看的吧，也算是a的认可度",
+      "liked": false,
+      "subCommentHasMore": false,
+      "status": 0,
+      "createTime": 1784532685000,
+      "ipLocation": "上海",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "卷啊",
+      "createTime": 1784557641000,
+      "subComments": [],
+      "noteId": "6a5b8ba4000000000100f23c",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vieh9gsig605nm9fta083kdn70v260?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgJJGo1vm3DfBUbnG3TKMZSnUC6AIV1FDFbpj9-s6pkU=",
+        "userId": "5ec97f540000000001000e8d",
+        "nickname": "momi"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a5e3049000000002901b3a9",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "1",
+      "subCommentCursor": "6a5ba613000000001403b5da",
+      "subCommentHasMore": false,
+      "liked": false,
+      "likeCount": "8",
+      "noteId": "6a5b8ba4000000000100f23c",
+      "status": 0,
+      "atUsers": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a5ba21a0000000015010a33",
+            "userInfo": {
+              "xsecToken": "ABXRhAVQ4JVWveHM383Wqey0meVgUNrmxhqb6KnrI4Dxs=",
+              "userId": "6248dcb3000000001000689b",
+              "nickname": "Wade",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nc0fqgnmk005oi8ripk0q4rr1kgj8g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "content": "好像确实是这样，一次性解决问题[doge]",
+          "liked": false,
+          "userInfo": {
+            "userId": "5d3723a0000000001100589d",
+            "nickname": "Happy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63929f58b2345528f718b409.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCHCX1SnrwTXuwQoKrNzSorFi9q6l5bsWu7wJzO4slUs="
+          },
+          "createTime": 1784391187000,
+          "ipLocation": "上海",
+          "invalid": false,
+          "id": "6a5ba613000000001403b5da",
+          "noteId": "6a5b8ba4000000000100f23c",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "invalid": false,
+      "userInfo": {
+        "nickname": "Wade",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nc0fqgnmk005oi8ripk0q4rr1kgj8g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXRhAVQ4JVWveHM383Wqey0meVgUNrmxhqb6KnrI4Dxs=",
+        "userId": "6248dcb3000000001000689b"
+      },
+      "showTags": [],
+      "createTime": 1784390171000,
+      "ipLocation": "美国",
+      "id": "6a5ba21a0000000015010a33",
+      "content": "垂直论文基本上肯定在公司 基本上就是有实习的",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 体验",
+  "search_item": {
+    "id": "6a5b8ba4000000000100f23c",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickname": "Happy",
+        "xsecToken": "ABmunyICIzmwBjGEnPaj47PIC0HDLFmOfmqrZId4YI2VY=",
+        "nickName": "Happy",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63929f58b2345528f718b409.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5d3723a0000000001100589d"
+      },
+      "interactInfo": {
+        "likedCount": "519",
+        "collected": false,
+        "collectedCount": "505",
+        "commentCount": "57",
+        "sharedCount": "112",
+        "liked": false
+      },
+      "cover": {
+        "height": 1002,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281512/2027cf54778cb9a5a99fc434f5c276b9/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281512/baad28a1d51244a3ba8f73fd7ba35c5b/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/2027cf54778cb9a5a99fc434f5c276b9/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281512/baad28a1d51244a3ba8f73fd7ba35c5b/1040g2sg322p309pvnak05n9n4eg48m4t2sjcj88!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1002,
+          "width": 1080
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "07-18",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "计算机paper还有用吗？"
+    },
+    "xsecToken": "AB36IQwV0I88aT9eXIfMgqpc2vAqa56qeNNrENPcyBWiw=",
+    "index": 8,
+    "exposed": true,
+    "trackId": "6a5b8ba4000000000100f23c"
+  }
+}

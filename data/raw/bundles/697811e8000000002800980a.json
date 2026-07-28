@@ -1,0 +1,90 @@
+{
+  "note_id": "697811e8000000002800980a",
+  "url": "https://www.xiaohongshu.com/explore/697811e8000000002800980a?xsec_token=ABIyiRtus7SDOs25fbuS5ol2XXdJr8CWNJCUxbEtY1WD4=",
+  "fetched_at": 1785222749.8240032,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "哥大cs master第一学期课程总结",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Applied deep learning\n给分很松，只有作业加考试，都是有额外分数再加一个分数上限。作业也简单，一个作业三四个小时可以完成。内容都是NLP，课程最后会带过LLM一系列比较新的内容。slides上全都是字，老师对着念。后来我都不听课，对着slides和GPT学比较快。\n\t\nhigh performance machine learning\nGrade应该也比较松，有quiz，作业，project。老师非常nice，有问题都会耐心解答。相当硬核，我没有machine learning基础老师讲的可能只能吸收个30%，会涉及pytorch，train，CUDA这些很低层的东西，还有quantization，flash attention这种优化技术。\n作业巨难，一个作业得做个两三天，钻牛角尖钻到最后还容易破防。\n\t\nneural network & deep learning\n以我现在的角度来看这个课比较一般，内容涉及NLP和cv最基础的模型，大部分内容也是LLM时代之前的，会从比较high level的角度来讲，讲一些概念和instinction。教授的看法很old school，觉得现在prompt engineer，agent什么的没有学术深度。\n考试很迷，不知道题目想考什么，我最后拿的分也一般。作业也一般，要两三天完成。一个作业文档有十几页，但看得出来TA没有用心维护。最后project给的时间很少，而且难度差异很大，有个cv识别题很简单。\n\t\nquantum computing\n有考试，作业，quiz。整个课和数学课差不多，一开始挺喜欢这个课的，学起来很轻松，到后半部分讲quantum alorithm就变成折磨了，感觉老师塞的东西太多，有点难。\n作业很难，两三天的工作量。考试还行，数学课学的好这个课也没啥问题。\n教授很nice很阳光，感觉他很喜欢这个领域也很乐意教学生。\n\t\n实在看不出这个学上的和水硕有什么关系，workload和我本科大三一样大。\n越学越怀疑这个时代上学的意义，公开课像stanford开的，还有网上blog的资源都比学校的课前沿的多，还能自己选择想学什么，也不用浪费时间做没必要的toy homework。找工作bar也明显变高，感觉公司要的是engineer而不是成绩好的学生\n#哥伦比亚大学[话题]# #cs硕士[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "哥大的工科不水，workload真的很大。但是我的感觉整个项目的问题是实习机会和资源太少，课程开的也不够多，而且课程太重理论和研究，有的时候有点跟工业界脱节的感觉。比较适合有做research计划的，并不是一个很找工base的学校。我上到现在的感觉是他并不水，但是在找工助力方面也并不是一个合格的ms的项目。绝大部分时间都在应对学校的作业啥的了，反而没时间和精力去准备简历和面试刷题了[石化R][石化R][石化R]",
+      "sourceRef": "comment:6978ce2c00000000080334f1",
+      "commentId": "6978ce2c00000000080334f1",
+      "likes": 14,
+      "author": "气球"
+    },
+    {
+      "type": "comment",
+      "text": "我也感觉上课意义不大，找些科研和实习吧，哥大科研机会不少",
+      "sourceRef": "comment:69784aa6000000000902103b",
+      "commentId": "69784aa6000000000902103b",
+      "likes": 4,
+      "author": "Sakamoto"
+    },
+    {
+      "type": "sub_comment",
+      "text": "正在问教授 回复率太低了",
+      "sourceRef": "comment:697acbf10000000018020574",
+      "commentId": "697acbf10000000018020574",
+      "likes": 0,
+      "author": "KAI"
+    },
+    {
+      "type": "comment",
+      "text": "看我主页 必须专业的",
+      "sourceRef": "comment:69a5bfbe0000000030025fae",
+      "commentId": "69a5bfbe0000000030025fae",
+      "likes": 0,
+      "author": "用户已注销"
+    },
+    {
+      "type": "comment",
+      "text": "4【复制全文→返回薯队APP】 仅限2月28日内，\"哥大租房/二手交流平台\"等你很久了 CZ3725 :/#a🥮🍐🍊😗🍅🤣😏🥕🍆🥯🐤😘",
+      "sourceRef": "comment:697df34a000000000c00a511",
+      "commentId": "697df34a000000000c00a511",
+      "likes": 0,
+      "author": "贰肆NYNJ房探"
+    },
+    {
+      "type": "comment",
+      "text": "可以问一下applied dl和neural network＆dl的教授分别是谁吗",
+      "sourceRef": "comment:69fac199000000002b025ec8",
+      "commentId": "69fac199000000002b025ec8",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "26 CU新生交流",
+      "sourceRef": "comment:697838450000000006032800",
+      "commentId": "697838450000000006032800",
+      "likes": 0,
+      "author": "非接晶"
+    },
+    {
+      "type": "comment",
+      "text": "认真的说，你🦶大三不应该是最轻松的一年之一么",
+      "sourceRef": "comment:6978eb50000000000603302e",
+      "commentId": "6978eb50000000000603302e",
+      "likes": 0,
+      "author": "oyoy"
+    },
+    {
+      "type": "sub_comment",
+      "text": "大三全是专业课，每个课都来个类似写software的project",
+      "sourceRef": "comment:697acc14000000000f01e17b",
+      "commentId": "697acc14000000000f01e17b",
+      "likes": 0,
+      "author": "KAI"
+    }
+  ]
+}

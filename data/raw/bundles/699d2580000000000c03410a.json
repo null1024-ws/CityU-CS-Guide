@@ -1,0 +1,162 @@
+{
+  "note_id": "699d2580000000000c03410a",
+  "url": "https://www.xiaohongshu.com/explore/699d2580000000000c03410a?xsec_token=ABkZ3AMvvEksH9Mo9-1cRdF0XD8KWPCDcN1X_oT_8NTzw=",
+  "fetched_at": 1785222677.9434447,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "担任ACM Multimedia Co-Chair",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "[派对R][派对R]很荣幸担任\n多模态顶会ACM Multimedia的\nOpen Source Software co-chair，\n努力服务好大家💪！\n也给会议打个广告：ACM Multimedia是CCF-A类会议，很多做多模态比如计算机视觉与自然语言处理交叉的都可以考虑投稿，会议DDL在四月-五月，十一月份在巴西开会[哇R]\n当年刷TRECVID的辛酸苦辣谁懂啊[偷笑R]\n#人工智能[话题]# #学术[话题]# #学术顶会[话题]# #学术会议[话题]# #多模态[话题]# #多模态融合[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "非粉丝都不回复哦[偷笑R]",
+      "sourceRef": "comment:69acffcb0000000001004de8",
+      "commentId": "69acffcb0000000001004de8",
+      "likes": 1,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "robot learning能投吗[呃R]",
+      "sourceRef": "comment:699d37c9000000000800d5d0",
+      "commentId": "699d37c9000000000800d5d0",
+      "likes": 0,
+      "author": "Andrew"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不建议投，具身智能主要看CoRL/RSS/ICRA/IROS[doge]",
+      "sourceRef": "comment:699d38b4000000000601d1c3",
+      "commentId": "699d38b4000000000601d1c3",
+      "likes": 1,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "想问问老师VR+严肃性游戏（针对无障碍领域）这种可以投递吗",
+      "sourceRef": "comment:699d90eb000000000f02f1d1",
+      "commentId": "699d90eb000000000f02f1d1",
+      "likes": 1,
+      "author": "Min"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[doge]不了解这个领域",
+      "sourceRef": "comment:699ebb38000000000600e78b",
+      "commentId": "699ebb38000000000600e78b",
+      "likes": 0,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "梁老师好！请问视觉—知识模态结合棋类博弈方向可以投吗",
+      "sourceRef": "comment:699d7385000000000600a4c3",
+      "commentId": "699d7385000000000600a4c3",
+      "likes": 1,
+      "author": "Mob"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个妥妥多模态啊",
+      "sourceRef": "comment:699ebb7b0000000005030bc3",
+      "commentId": "699ebb7b0000000005030bc3",
+      "likes": 1,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "老师3d grounding适合投么或者建议投哪个[红色心形R]",
+      "sourceRef": "comment:69a13168000000001500e6e2",
+      "commentId": "69a13168000000001500e6e2",
+      "likes": 0,
+      "author": "酪梨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个属于多模态很合适，我们3D Visual Grounding投的cvpr neurips",
+      "sourceRef": "comment:69a13562000000000400142d",
+      "commentId": "69a13562000000000400142d",
+      "likes": 1,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "computer vision 单模态可以吗？",
+      "sourceRef": "comment:699d4dfb0000000009006485",
+      "commentId": "699d4dfb0000000009006485",
+      "likes": 2,
+      "author": "Bryan"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以的，虽然更建议投eccv",
+      "sourceRef": "comment:699d4e6d000000000600a173",
+      "commentId": "699d4e6d000000000600a173",
+      "likes": 1,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "老师 mllm agent可以投吗",
+      "sourceRef": "comment:699d535e000000000c00a002",
+      "commentId": "699d535e000000000c00a002",
+      "likes": 0,
+      "author": "薛定谔的猫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "多模态就很合适",
+      "sourceRef": "comment:699d54f7000000000600bb13",
+      "commentId": "699d54f7000000000600bb13",
+      "likes": 0,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "生物信息中的多模态可以吗？工作的具体内容是基于靶点蛋白结构，氨基酸序列和遗传序列的靶向药设计方法，实验结果验证包括了分子动力学模拟，药物化学合成和体外细胞实验",
+      "sourceRef": "comment:69a9c4d50000000006008440",
+      "commentId": "69a9c4d50000000006008440",
+      "likes": 0,
+      "author": "浅度学习"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个得看看之前有没有同类论文在这上面发表了，我觉得悬",
+      "sourceRef": "comment:69aa28be0000000006030aa3",
+      "commentId": "69aa28be0000000006030aa3",
+      "likes": 0,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "梁老师真的是科广之光[赞R][赞R]",
+      "sourceRef": "comment:699d266f000000000c00bc99",
+      "commentId": "699d266f000000000c00bc99",
+      "likes": 1,
+      "author": "Cython-LSY"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈咱们共同努力！[赞R]",
+      "sourceRef": "comment:699d285a000000000600d722",
+      "commentId": "699d285a000000000600d722",
+      "likes": 0,
+      "author": "梁俊卫"
+    },
+    {
+      "type": "comment",
+      "text": "老师，老师，单视觉foundation model，下游任务设计到一点多模态，可以投么",
+      "sourceRef": "comment:69aa72a8000000000600e51f",
+      "commentId": "69aa72a8000000000600e51f",
+      "likes": 0,
+      "author": "细糠吃不了山猪"
+    }
+  ]
+}
