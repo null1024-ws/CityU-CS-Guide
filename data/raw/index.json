@@ -2700,6 +2700,41 @@
       "new_notes": 3,
       "cross_refs": 16,
       "at": 1785222862.4032326
+    },
+    {
+      "query": "CS5185 城大CS",
+      "items_found": 41,
+      "new_notes": 3,
+      "cross_refs": 10,
+      "at": 1785222947.64831
+    },
+    {
+      "query": "CS5185 多媒体",
+      "items_found": 0,
+      "new_notes": 0,
+      "cross_refs": 0,
+      "at": 1785222972.0290651
+    },
+    {
+      "query": "CS5185 怎么样",
+      "items_found": 0,
+      "new_notes": 0,
+      "cross_refs": 0,
+      "at": 1785223007.7748265
+    },
+    {
+      "query": "CS5185 给分",
+      "items_found": 41,
+      "new_notes": 3,
+      "cross_refs": 9,
+      "at": 1785223082.9702854
+    },
+    {
+      "query": "CS5185 评价",
+      "items_found": 40,
+      "new_notes": 3,
+      "cross_refs": 11,
+      "at": 1785223157.600283
     }
   ],
   "notes": {
@@ -2791,7 +2826,8 @@
         "CS5486 智能系统",
         "CS5288 体验",
         "CS5288 评价",
-        "CS5185 体验"
+        "CS5185 体验",
+        "CS5185 给分"
       ]
     },
     "6a0c17bd000000000702ea2c": {
@@ -2841,7 +2877,9 @@
         "CS5486 避雷",
         "CityU CS5486",
         "CS5288 CityU",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 给分",
+        "CS5185 评价"
       ]
     },
     "695c948d000000002102ad0b": {
@@ -3020,7 +3058,10 @@
         "CS5288 城大CS",
         "CS5288 CityU",
         "CS5288 体验",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 城大CS",
+        "CS5185 给分",
+        "CS5185 评价"
       ]
     },
     "69fdd97b000000003601efb7": {
@@ -3040,7 +3081,8 @@
         "港城 CS6538",
         "CS5288 CityU",
         "CS5288 体验",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 评价"
       ]
     },
     "67f52b04-b34b-420f-bb0f-a306c8c1f0f9#1784874038724": {
@@ -3249,7 +3291,8 @@
         "CS6535 Guided Study in",
         "CS6536 Guided Study in",
         "CS6520 选课",
-        "CS5486 给分"
+        "CS5486 给分",
+        "CS5185 给分"
       ]
     },
     "6898aaf1000000002501b0eb": {
@@ -3326,7 +3369,9 @@
         "CityU CS5486",
         "CS5486 智能系统",
         "CS5288 CityU",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 给分",
+        "CS5185 评价"
       ]
     },
     "6a3cfb82000000001102fdc0": {
@@ -3450,7 +3495,9 @@
         "CS5288 体验",
         "CS5288 评价",
         "CS5185 体验",
-        "CS5185 城大"
+        "CS5185 城大",
+        "CS5185 城大CS",
+        "CS5185 评价"
       ]
     },
     "85aa106a-85b4-4a0e-ae9a-a609668d5220#1784949879292": {
@@ -3529,7 +3576,8 @@
         "CS5288 CityU",
         "城大CS5288",
         "CS5288 体验",
-        "CS5185 城大"
+        "CS5185 城大",
+        "CS5185 评价"
       ]
     },
     "6a5284b20000000017008fe0": {
@@ -4136,7 +4184,8 @@
       "queries": [
         "CS6535 Guided Study in",
         "CS6537 IS guided study",
-        "CS6520 选课"
+        "CS6520 选课",
+        "CS5185 给分"
       ],
       "fetched_at": 1784952402.5020447
     },
@@ -4243,7 +4292,8 @@
         "CS6521 避雷",
         "CS6538 评价",
         "CS6538 避雷",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 评价"
       ],
       "fetched_at": 1784952685.3172402
     },
@@ -4383,7 +4433,8 @@
         "城大 CS 数据科学 stream",
         "港城 CS5367",
         "CS6538 CityU",
-        "港城 CS6538"
+        "港城 CS6538",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1784953120.2928548
     },
@@ -4489,7 +4540,8 @@
         "CS6538 评价",
         "CS6538 避雷",
         "CS5486 怎么样",
-        "CS5486 给分"
+        "CS5486 给分",
+        "CS5185 评价"
       ],
       "fetched_at": 1784953452.162672
     },
@@ -4852,7 +4904,9 @@
         "CS5486 给分",
         "CityU CS5486",
         "CS5288 CityU",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 给分",
+        "CS5185 评价"
       ],
       "fetched_at": 1784954731.0722344
     },
@@ -4906,7 +4960,8 @@
         "港城 CS6537",
         "CS6538 城大CS",
         "港城 CS6538",
-        "CS5288 城大"
+        "CS5288 城大",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1784954942.9752185
     },
@@ -5080,7 +5135,8 @@
         "城大 CS5486 AI",
         "CS5288 城大",
         "CS5288 城大CS",
-        "CS5185 城大"
+        "CS5185 城大",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1784955513.1207821
     },
@@ -5119,7 +5175,8 @@
         "CS6520 给分",
         "CS6520 Project",
         "CS6538 评价",
-        "CS6538 避雷"
+        "CS6538 避雷",
+        "CS5185 给分"
       ],
       "fetched_at": 1784955677.405601
     },
@@ -5432,7 +5489,8 @@
       "query": "CS6187 评价",
       "queries": [
         "CS6187 评价",
-        "CS5288 评价"
+        "CS5288 评价",
+        "CS5185 评价"
       ],
       "fetched_at": 1784959485.588344
     },
@@ -5485,7 +5543,8 @@
       "query": "CS6187 给分",
       "queries": [
         "CS6187 给分",
-        "CS6520 给分"
+        "CS6520 给分",
+        "CS5185 给分"
       ],
       "fetched_at": 1784959696.3308716
     },
@@ -5731,7 +5790,8 @@
       "query": "CS6520 体验",
       "queries": [
         "CS6520 体验",
-        "CS5486 评价"
+        "CS5486 评价",
+        "CS5185 评价"
       ],
       "fetched_at": 1784961606.3394682
     },
@@ -5898,7 +5958,8 @@
         "CS5486 怎么样",
         "CS5288 城大",
         "CS5288 CityU",
-        "CS5185 城大"
+        "CS5185 城大",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1785208941.3254802
     },
@@ -6163,7 +6224,8 @@
       "query": "CS6538 城大CS",
       "queries": [
         "CS6538 城大CS",
-        "CS5288 城大"
+        "CS5288 城大",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1785209878.492769
     },
@@ -6188,7 +6250,8 @@
       "query": "CS6538 CityU",
       "queries": [
         "CS6538 CityU",
-        "CS5486 城大CS"
+        "CS5486 城大CS",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1785209953.7866614
     },
@@ -6693,7 +6756,8 @@
       "url": "https://www.xiaohongshu.com/explore/67c7f7220000000028034a59?xsec_token=ABWUoKqvd9nv6Ti2f6CK1L4zwMF1CTQLBsPRbu168ot_E=",
       "query": "CS5288 城大CS",
       "queries": [
-        "CS5288 城大CS"
+        "CS5288 城大CS",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1785215864.3985007
     },
@@ -6863,7 +6927,8 @@
       "url": "https://www.xiaohongshu.com/explore/69cc3600000000001a036161?xsec_token=ABDKRLGvlFixdLqJzUTv5ob7bn35XtbVbEYkKe8NfUvrU=",
       "query": "CS5185 城大",
       "queries": [
-        "CS5185 城大"
+        "CS5185 城大",
+        "CS5185 城大CS"
       ],
       "fetched_at": 1785222814.066258
     },
@@ -6882,6 +6947,78 @@
         "CS5185 城大"
       ],
       "fetched_at": 1785222848.2779455
+    },
+    "2e7abd6d-936b-489b-b434-0e199d78dbe9": {
+      "url": "https://www.xiaohongshu.com/explore/2e7abd6d-936b-489b-b434-0e199d78dbe9?xsec_token=ABHAEq6jVEFl-rLmvRoECKP7-nzM9yt5obgrMbV28-aZiKDYPbMr1mM1Ca23Ay43MbIKxp9lN5ckSxRk9lTCPSUW3IzGMF4QkmyyWFBjQSvqk=",
+      "query": "CS5185 城大CS",
+      "queries": [
+        "CS5185 城大CS"
+      ],
+      "fetched_at": 1785222884.7697024
+    },
+    "6972d7a9000000000d00bc01": {
+      "url": "https://www.xiaohongshu.com/explore/6972d7a9000000000d00bc01?xsec_token=AB94EWFzyuewmEYvJERT3j8Ct_SLC40uDsar5ZZdn8Qz0=",
+      "query": "CS5185 城大CS",
+      "queries": [
+        "CS5185 城大CS"
+      ],
+      "fetched_at": 1785222907.4289222
+    },
+    "67b7e5f70000000006039aa2": {
+      "url": "https://www.xiaohongshu.com/explore/67b7e5f70000000006039aa2?xsec_token=ABl3YHSPfCCtP0W5GHoMqjyit18dq-ocUHBiBFO3sQ1rE=",
+      "query": "CS5185 城大CS",
+      "queries": [
+        "CS5185 城大CS"
+      ],
+      "fetched_at": 1785222926.1974304
+    },
+    "43e65925-9b02-403b-abd5-f623c0b8b741": {
+      "url": "https://www.xiaohongshu.com/explore/43e65925-9b02-403b-abd5-f623c0b8b741?xsec_token=ABEM4A-xxs1uywmmvOKT9tndSU_NCaze8FpPY-eYvS6YDnnl2kPpv05RpLx_shVCo3GsFI_ri0V-3YZ5lL4y5RMbY7XTL19TIrUZYt8ox5CC8=",
+      "query": "CS5185 给分",
+      "queries": [
+        "CS5185 给分"
+      ],
+      "fetched_at": 1785223030.960566
+    },
+    "695c836400000000220224c1": {
+      "url": "https://www.xiaohongshu.com/explore/695c836400000000220224c1?xsec_token=ABov_zZ3pPNK4Pi835VV_qAfaN9IjTwYffeZY0bU7BhmI=",
+      "query": "CS5185 给分",
+      "queries": [
+        "CS5185 给分"
+      ],
+      "fetched_at": 1785223050.4750903
+    },
+    "6997f3a6000000000d00a2ce": {
+      "url": "https://www.xiaohongshu.com/explore/6997f3a6000000000d00a2ce?xsec_token=ABmawEihGU1JDVgU6ey_VYJ2QLAN_b630MQyPSj8kpV6k=",
+      "query": "CS5185 给分",
+      "queries": [
+        "CS5185 给分"
+      ],
+      "fetched_at": 1785223066.412014
+    },
+    "68303ec100000000220063cf": {
+      "url": "https://www.xiaohongshu.com/explore/68303ec100000000220063cf?xsec_token=ABpwBDCmkf43_WsosOVs6VN83TaBYn8rL_ggBu9kfuWag=",
+      "query": "CS5185 评价",
+      "queries": [
+        "CS5185 评价"
+      ],
+      "fetched_at": 1785223103.252911
+    },
+    "693da5fb000000001e023bc0": {
+      "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
+      "query": "CS5185 评价",
+      "queries": [
+        "CS5185 评价"
+      ],
+      "fetched_at": 1785223123.1213014
+    },
+    "6a58ae7f000000000f01695a": {
+      "url": "https://www.xiaohongshu.com/explore/6a58ae7f000000000f01695a?xsec_token=ABWTD5SlSx_k73LrohVv6QwRrn7YCe4mZibBHvEACx5dk=",
+      "query": "CS5185 评价",
+      "queries": [
+        "CS5185 评价"
+      ],
+      "fetched_at": 1785223140.4013183
     }
   },
   "checkpoint": {
@@ -7009,19 +7146,29 @@
       "CS5288 选课",
       "CS5288 体验",
       "CS5288 评价",
-      "CS5288 怎么样"
+      "CS5288 怎么样",
+      "CS5185 CityU",
+      "CS5185 Multimedia Technologies and",
+      "CS5185 multimedia",
+      "CS5185 体验",
+      "CS5185 城大",
+      "CS5185 城大CS",
+      "CS5185 多媒体",
+      "CS5185 怎么样",
+      "CS5185 给分",
+      "CS5185 评价"
     ],
-    "paused_at": "2026-07-28T06:55:26Z",
+    "paused_at": "2026-07-28T07:19:34Z",
     "pause_reason": "user_requested",
     "batch_progress": {
-      "scope": "16 zero-source courses per-course search",
-      "completed": 194,
+      "scope": "16 courses, prioritize empty, max-notes 3",
+      "completed": 73,
       "total": 294,
-      "pending": 100,
-      "notes_total": 406,
-      "last_completed_query": "CS5288 怎么样",
-      "next_pending_query": "CS5288 避雷",
-      "resume_command": "python scripts/xhs_collect.py --per-course --skip-global --courses CS6535,CS5286,CS6536,CS6537,CS5367,CS6187,CS6520,CS6521,CS6538,CS5486,CS5288,CS5294,CS5185,CS5282,CS5348,CS6175 --max-notes 2 --sleep 8"
+      "pending": 221,
+      "notes_total": 427,
+      "last_completed_query": "CS5185 评价",
+      "next_pending_query": "CS5185 选课",
+      "resume_command": "python scripts/xhs_collect.py --per-course --skip-global --prioritize-empty --retry-empty --courses CS5185,CS5282,CS5348,CS6175,CS6535,CS5286,CS6536,CS5367,CS6187,CS6521,CS6538,CS5288,CS5294,CS5486,CS6537,CS6520 --max-notes 3 --sleep 8"
     }
   }
 }

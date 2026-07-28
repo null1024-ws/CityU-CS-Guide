@@ -104,6 +104,10 @@ xhs login --cookie "a1=...; web_session=..."
 
 推送到 `main` 后 GitHub Actions 自动部署 Pages。
 
+## 致谢
+
+本站页面样式基于 [Kami](https://github.com/tw93/kami)（tw93）— 纸感阅读主题，由 `scripts/build_site.py` 生成静态页时沿用其排版与视觉风格。感谢作者开源。
+
 ## 免责声明
 
 本站信息来自小红书社区，未经 CityU 官方核实。选课请以学校通知与课程大纲为准。

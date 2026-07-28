@@ -1,0 +1,43 @@
+{
+  "note_id": "051a8178-09cc-47d7-b1fc-61a00ba60449",
+  "url": "https://www.xiaohongshu.com/explore/051a8178-09cc-47d7-b1fc-61a00ba60449?xsec_token=ABDEqa2AHXsNfhO_ZRpiNlfyW4fJlsaaVSf-UpR_iiUmzu3MWjqGRB-wY86Hfrkx8bXKGQ5HDQRPVYJtxHuu_H6NBJlFyvq33lfARAnP9AvEc=",
+  "fetched_at": 1785223118.397416,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5185 城大CS",
+  "search_item": {
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "051a8178-09cc-47d7-b1fc-61a00ba60449#1785223116937",
+      "queries": [
+        {
+          "searchWord": "香港城市大学cs课程",
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程"
+        },
+        {
+          "id": "cityu cs课表",
+          "name": "cityu cs课表",
+          "searchWord": "cityu cs课表"
+        },
+        {
+          "id": "城大计算机",
+          "name": "城大计算机",
+          "searchWord": "城大计算机"
+        },
+        {
+          "id": "cityu cs学费",
+          "name": "cityu cs学费",
+          "searchWord": "cityu cs学费"
+        }
+      ]
+    },
+    "xsecToken": "ABDEqa2AHXsNfhO_ZRpiNlfyW4fJlsaaVSf-UpR_iiUmzu3MWjqGRB-wY86Hfrkx8bXKGQ5HDQRPVYJtxHuu_H6NBJlFyvq33lfARAnP9AvEc=",
+    "id": "051a8178-09cc-47d7-b1fc-61a00ba60449#1785223116937",
+    "modelType": "rec_query",
+    "index": 6,
+    "exposed": false,
+    "trackId": "051a8178-09cc-47d7-b1fc-61a00ba60449#1785223116937"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "note_id": "695c836400000000220224c1",
+  "url": "https://www.xiaohongshu.com/explore/695c836400000000220224c1?xsec_token=ABov_zZ3pPNK4Pi835VV_qAfaN9IjTwYffeZY0bU7BhmI=",
+  "fetched_at": 1785223050.4750903,
+  "note": {
+    "xsecToken": "ABov_zZ3pPNK4Pi835VV_qAfaN9IjTwYffeZY0bU7BhmI=",
+    "type": "normal",
+    "desc": "#cityu期末出分[话题]# #cityu[话题]#",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "3",
+      "shareCount": "10",
+      "followed": false,
+      "liked": false,
+      "likedCount": "28",
+      "commentCount": "18",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281517/206bf84410fe974e5eae2a30733b9c14/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0",
+        "height": 566,
+        "width": 1642,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281517/6b6678937b15bd3aed1373753b3c56f0/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281517/206bf84410fe974e5eae2a30733b9c14/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281517/6b6678937b15bd3aed1373753b3c56f0/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nd_prv_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "63b46d2700000000010084e3",
+        "name": "cityu期末出分",
+        "type": "topic"
+      },
+      {
+        "name": "cityu",
+        "type": "topic",
+        "id": "5e7ffe040000000001004ef4"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "大一上学期平稳落地，cs出分太慢了",
+    "user": {
+      "userId": "5ea1904100000000010055a6",
+      "nickname": "sleep",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qoliqkc7o005nl1i10g8ld6roft89g",
+      "xsecToken": "ABAb71-NWtu1Xq5bjzdlevActraT_MZ8GDXH2qQEVqph0="
+    },
+    "atUserList": [],
+    "time": 1767670628000,
+    "lastUpdateTime": 1767670629000,
+    "noteId": "695c836400000000220224c1"
+  },
+  "comments": [
+    {
+      "noteId": "695c836400000000220224c1",
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "noteId": "695c836400000000220224c1",
+          "content": "lc不算绩点哈哈哈",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "sleep",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qoliqkc7o005nl1i10g8ld6roft89g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7aYbHomswcwJWf1syUAb6RFxVn4bcWNQ-ZhCAUrB7uU=",
+            "userId": "5ea1904100000000010055a6"
+          },
+          "createTime": 1767672236000,
+          "ipLocation": "河北",
+          "targetComment": {
+            "id": "695c896700000000190010cc",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320tcjp0e7o6g5oeuon5412o66fbhbko?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABikkgLuDoZ_tV2ivCMGurKTNXMqmf0XjOJXerLYwyTEA=",
+              "userId": "61dec5ca0000000010008b06",
+              "nickname": "冷風吹～"
+            }
+          },
+          "id": "695c89ab0000000016022089",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "695c896700000000190010cc",
+      "status": 0,
+      "content": "牛逼啊，怎么有个c减还能干到四？[笑哭R][笑哭R]",
+      "liked": false,
+      "likeCount": "2",
+      "showTags": [],
+      "createTime": 1767672167000,
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320tcjp0e7o6g5oeuon5412o66fbhbko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABikkgLuDoZ_tV2ivCMGurKTNXMqmf0XjOJXerLYwyTEA=",
+        "userId": "61dec5ca0000000010008b06",
+        "nickname": "冷風吹～"
+      },
+      "subCommentCount": "9",
+      "subCommentCursor": "695c89ab0000000016022089",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "主包为了发这条帖子特意开了个号吗[doge]",
+      "createTime": 1767673489000,
+      "subCommentHasMore": false,
+      "noteId": "695c836400000000220224c1",
+      "atUsers": [],
+      "subCommentCount": "1",
+      "invalid": false,
+      "id": "695c8e91000000000f0196b7",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABKjIxNoNLdnJDE0WLjVa2MgWl_r5CkmdmN0N_qlUJpB4=",
+        "userId": "61eea1c6000000001000804a",
+        "nickname": "Jessie 楊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63a98eacdaa810d35a518db9.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "likeCount": "0",
+      "ipLocation": "山东",
+      "subComments": [
+        {
+          "noteId": "695c836400000000220224c1",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qoliqkc7o005nl1i10g8ld6roft89g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7aYbHomswcwJWf1syUAb6RFxVn4bcWNQ-ZhCAUrB7uU=",
+            "userId": "5ea1904100000000010055a6",
+            "nickname": "sleep"
+          },
+          "createTime": 1767673574000,
+          "ipLocation": "河北",
+          "invalid": false,
+          "id": "695c8ee600000000160220db",
+          "content": "早就有这个号了哈哈哈",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "61eea1c6000000001000804a",
+              "nickname": "Jessie 楊",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63a98eacdaa810d35a518db9.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKjIxNoNLdnJDE0WLjVa2MgWl_r5CkmdmN0N_qlUJpB4="
+            },
+            "id": "695c8e91000000000f0196b7"
+          }
+        }
+      ],
+      "subCommentCursor": "695c8ee600000000160220db",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABSfQQT5rJt1KlS9depoIEsJX4Hzhy-a9BCNIUYQ41SB8=",
+        "userId": "653699dc0000000006004512",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31of7ijk8l0005p9mj7e1gh8ikq6s9a8?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "status": 0,
+      "likeCount": "0",
+      "id": "695cca540000000014037b7a",
+      "noteId": "695c836400000000220224c1",
+      "content": "太牛了[石化R][石化R]",
+      "liked": false,
+      "createTime": 1767688788000,
+      "invalid": false,
+      "showTags": [],
+      "ipLocation": "山东",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "noteId": "695c836400000000220224c1",
+      "status": 0,
+      "content": "太牛了[飞吻R]",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "nickname": "萤火绘梦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q94vtvj0c6g5pjrqme0u9pka2obvag?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABG2hgCnUCzj0QdTP5fHeSQebHtTslIci1Izv9tfdvYVQ=",
+        "userId": "667bd59c0000000003032734"
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "695cb9b9000000000601a3a5",
+      "likeCount": "0",
+      "createTime": 1767684538000,
+      "ipLocation": "河南",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1767683923000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "695c836400000000220224c1",
+      "status": 0,
+      "content": "太猛了",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "68d76de50000000021018bc9",
+        "nickname": "Khalil",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sge4nl062005q6ndniob2u9ah56v30?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABap4cCOBW4lULCQXAm41fIQIeNKHTXYKMwMxdVtj4Y5E="
+      },
+      "subComments": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "id": "695cb753000000001d01def0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "河北",
+      "subCommentCursor": "",
+      "noteId": "695c836400000000220224c1",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "[点赞R][点赞R][点赞R]主播好牛",
+      "atUsers": [],
+      "createTime": 1767683395000,
+      "subCommentCount": "0",
+      "id": "695cb5430000000009037586",
+      "liked": false,
+      "userInfo": {
+        "userId": "5eab6e0f00000000010027fe",
+        "nickname": "茉莉咪",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p6kh0k2jc005nlbdo7g89vue92ccoo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB88QIWYuE7xDEvMCwAwG0gaewcisydfxiV-jYZjGpeqE="
+      },
+      "subComments": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "695c836400000000220224c1",
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "id": "695c9230000000001d01f292",
+      "content": "我去这么猛 有点实力啊",
+      "showTags": [],
+      "createTime": 1767674417000,
+      "status": 0,
+      "userInfo": {
+        "userId": "63bd46da000000002601231d",
+        "nickname": "无影步",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3117ds6jkmi6g5ott8rd9i8otcngq9eo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABN1Q-xPqD-_YCO_RH3vkzdEv9nA5eN7Gqfi7tW9FGDzI="
+      },
+      "ipLocation": "上海",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": -2,
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "64e5ba5400000000010114e0",
+        "nickname": "Allen学长留学申诉站",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vovaopr5s005p75n9a0a570dtqs510?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABREvwFe-8TZJH2eZ8PnpSgi3xAg5Wxk9TXDYKwxsXJUw="
+      },
+      "showTags": [],
+      "createTime": 1767692810000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "ipLocation": "美国",
+      "invalid": false,
+      "id": "695cda09000000001d0256a7",
+      "noteId": "695c836400000000220224c1",
+      "content": "🐮🍺",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 给分",
+  "search_item": {
+    "id": "695c836400000000220224c1",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "width": 1642,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281517/87377f619f3d7648472d2f4132db2a3d/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281517/e3b0127dca6c67533f3a6b4d1b5e799f/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nc_n_webp_prv_1",
+        "height": 566
+      },
+      "imageList": [
+        {
+          "height": 566,
+          "width": 1642,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281517/87377f619f3d7648472d2f4132db2a3d/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281517/e3b0127dca6c67533f3a6b4d1b5e799f/1040g00831r017mnv7u005nl1i10g8ld6tj8tfr0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-06"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "大一上学期平稳落地，cs出分太慢了",
+      "user": {
+        "nickName": "sleep",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qoliqkc7o005nl1i10g8ld6roft89g?imageView2/2/w/80/format/jpg",
+        "userId": "5ea1904100000000010055a6",
+        "nickname": "sleep",
+        "xsecToken": "ABj9_w54FxZbvSVcqVsJZsApdj8OH_tmD4tO_Gm89UUzE="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "28",
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "18",
+        "sharedCount": "10"
+      }
+    },
+    "xsecToken": "ABov_zZ3pPNK4Pi835VV_qAfaN9IjTwYffeZY0bU7BhmI=",
+    "index": 10,
+    "exposed": true,
+    "trackId": "695c836400000000220224c1"
+  }
+}

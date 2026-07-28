@@ -1,0 +1,43 @@
+{
+  "note_id": "43e65925-9b02-403b-abd5-f623c0b8b741",
+  "url": "https://www.xiaohongshu.com/explore/43e65925-9b02-403b-abd5-f623c0b8b741?xsec_token=ABEM4A-xxs1uywmmvOKT9tndSU_NCaze8FpPY-eYvS6YDnnl2kPpv05RpLx_shVCo3GsFI_ri0V-3YZ5lL4y5RMbY7XTL19TIrUZYt8ox5CC8=",
+  "fetched_at": 1785223030.960566,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5185 给分",
+  "search_item": {
+    "id": "43e65925-9b02-403b-abd5-f623c0b8b741#1785223029126",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "43e65925-9b02-403b-abd5-f623c0b8b741#1785223029126",
+      "queries": [
+        {
+          "id": "csgo综合得分",
+          "name": "csgo综合得分",
+          "searchWord": "csgo综合得分"
+        },
+        {
+          "id": "cs上分价格",
+          "name": "cs上分价格",
+          "searchWord": "cs上分价格"
+        },
+        {
+          "id": "cs带上分",
+          "name": "cs带上分",
+          "searchWord": "cs带上分"
+        },
+        {
+          "id": "cs优先上分",
+          "name": "cs优先上分",
+          "searchWord": "cs优先上分"
+        }
+      ]
+    },
+    "xsecToken": "ABEM4A-xxs1uywmmvOKT9tndSU_NCaze8FpPY-eYvS6YDnnl2kPpv05RpLx_shVCo3GsFI_ri0V-3YZ5lL4y5RMbY7XTL19TIrUZYt8ox5CC8=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "43e65925-9b02-403b-abd5-f623c0b8b741#1785223029126"
+  }
+}
