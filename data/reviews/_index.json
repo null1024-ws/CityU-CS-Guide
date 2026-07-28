@@ -111,7 +111,7 @@
   },
   {
     "code": "CS5187",
-    "coveredFields": 4,
+    "coveredFields": 6,
     "sourceCount": 8
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "code": "CS5285",
-    "coveredFields": 5,
+    "coveredFields": 6,
     "sourceCount": 16
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "code": "EC5001",
-    "coveredFields": 2,
-    "sourceCount": 3
+    "coveredFields": 4,
+    "sourceCount": 4
   }
 ]

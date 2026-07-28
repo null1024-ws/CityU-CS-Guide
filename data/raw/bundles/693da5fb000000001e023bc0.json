@@ -1,0 +1,46 @@
+{
+  "note_id": "693da5fb000000001e023bc0",
+  "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
+  "fetched_at": 1785223123.1213014,
+  "course_codes": [
+    "CS5187",
+    "CS5285",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu ec选课分享（更新中",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "期末复习不下去了 分享一下新鲜选课经验攒人品^ ^\n\t\nac5803 绝世好课。无期末考无考勤，3次个人作业，1个小组作业，1次期末pre，都很简单。\ncs5285 密码学与网络安全。很难，可惜是ec必修课不得不选，无考勤有回放（虽然没看过）。2次个人作业，1次开卷期中考，期末1页cheatsheet。通过应该还是相对容易（老师很善良：只要你写了我会想象它是对的^ ^）。\ncs5187 视觉与图像。2次个人作业，1个期末个人项目，作业听说交了就有90+ 。无考勤无回放，期末开卷，时间很充裕多打印点资料可以现场学习（\nec5001 前半学期是商科的课，有考勤，基本每周都有小组作业，不过工作量不大。需要完成一个商业计划，然后录一个pre视频。后半学期是讲商业技术（？无考勤，有一次简单的作业。期末闭卷，主观题比较多，多写点应该可以通过。\n#港硕[话题]# #香港城市大学[话题]# #港城ec[话题]#  #cs[话题]# #选课[话题]# #cityu[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问ec两年是无条件吗，会不会卡人呢[微笑R]",
+      "sourceRef": "comment:69a2f3550000000006009624",
+      "commentId": "69a2f3550000000006009624",
+      "likes": 1,
+      "author": "fefefe"
+    },
+    {
+      "type": "sub_comment",
+      "text": "两年的话需要第二年选实习课",
+      "sourceRef": "comment:6a0e6b13000000002a0305f8",
+      "commentId": "6a0e6b13000000002a0305f8",
+      "likes": 0,
+      "author": "kk脆汁机"
+    },
+    {
+      "type": "comment",
+      "text": "hancke好[点赞R] dapeng好[点赞R]",
+      "sourceRef": "comment:693e357f0000000038027c3a",
+      "commentId": "693e357f0000000038027c3a",
+      "likes": 2,
+      "author": "水溶C445"
+    }
+  ]
+}

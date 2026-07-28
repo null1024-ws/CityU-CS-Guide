@@ -12,8 +12,22 @@
       "value": "strict",
       "label": "考勤严",
       "confidence": "confirmed",
-      "sourceCount": 4,
-      "distinctSources": 2
+      "sourceCount": 5,
+      "distinctSources": 3
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "grading": {
       "value": "unknown",
@@ -21,19 +35,7 @@
       "sourceCount": 0,
       "label": "暂无数据"
     },
-    "workload": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
-    },
     "hasRecording": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
-    },
-    "examFormat": {
       "value": "unknown",
       "confidence": "unknown",
       "sourceCount": 0,
@@ -59,6 +61,15 @@
         "post_body"
       ],
       "postTitle": "cityu CS课程评价(一)"
+    },
+    {
+      "noteId": "693da5fb000000001e023bc0",
+      "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
+      "excerpt": "ec5001 前半学期是商科的课，有考勤，基本每周都有小组作业，不过工作量不大。需要完成一个商业计划，然后录一个pre视频。后半学期是讲商业技术（？无考勤，有一次简单的作业。期末闭卷，主观题比较多，多写点应该可以通过。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "cityu ec选课分享（更新中"
     },
     {
       "noteId": "693a7b0a000000001e00c686",

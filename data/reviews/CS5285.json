@@ -24,8 +24,8 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 11,
-      "distinctSources": 5
+      "sourceCount": 12,
+      "distinctSources": 6
     },
     "grading": {
       "value": "generous",
@@ -34,18 +34,19 @@
       "sourceCount": 9,
       "distinctSources": 4
     },
+    "hasRecording": {
+      "value": "true",
+      "label": "有回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
     "attendance": {
       "value": "not_strict",
       "label": "考勤松",
       "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
-    },
-    "hasRecording": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "sourceCount": 3,
+      "distinctSources": 3
     }
   },
   "tips": [

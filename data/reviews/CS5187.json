@@ -12,8 +12,22 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 3
+      "sourceCount": 4,
+      "distinctSources": 4
+    },
+    "hasRecording": {
+      "value": "false",
+      "label": "无回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "attendance": {
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "grading": {
       "value": "generous",
@@ -28,18 +42,6 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
-    },
-    "hasRecording": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
-    },
-    "attendance": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
     }
   },
   "tips": [
@@ -111,13 +113,13 @@
       "postTitle": "cityu CS课程评价(一)"
     },
     {
-      "noteId": "69fdd97b000000003601efb7",
-      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
-      "excerpt": "CS5187 vision and image 必选！事少简单开卷考",
+      "noteId": "693da5fb000000001e023bc0",
+      "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
+      "excerpt": "cs5187 视觉与图像。2次个人作业，1个期末个人项目，作业听说交了就有90+ 。无考勤无回放，期末开卷，时间很充裕多打印点资料可以现场学习（",
       "extractedFrom": [
         "post_body"
       ],
-      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
+      "postTitle": "cityu ec选课分享（更新中"
     }
   ],
   "commentSources": [],
