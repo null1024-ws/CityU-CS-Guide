@@ -1,0 +1,41 @@
+{
+  "note_id": "40d4018b-8b98-422c-9803-04355098f305",
+  "url": "https://www.xiaohongshu.com/explore/40d4018b-8b98-422c-9803-04355098f305?xsec_token=ABcQNCq_AN0b638bkvU4GBo1SC8ZSM5hzHC2wMDfsbFeojGM4-GYlngDAbhAR1sB6xHf4ahWn41VC5k-MS2P3FA5SSAcx46pX7Ae6K9he-kKo=",
+  "fetched_at": 1785215931.6838717,
+  "search_query": "CS5288 CityU",
+  "search_item": {
+    "id": "40d4018b-8b98-422c-9803-04355098f305#1785215928763",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "40d4018b-8b98-422c-9803-04355098f305#1785215928763",
+      "queries": [
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "cityu计算学院",
+          "name": "cityu计算学院",
+          "searchWord": "cityu计算学院"
+        },
+        {
+          "id": "cityu出成绩",
+          "name": "cityu出成绩",
+          "searchWord": "cityu出成绩"
+        },
+        {
+          "name": "cityu cs选课",
+          "searchWord": "cityu cs选课",
+          "id": "cityu cs选课"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "xsecToken": "ABcQNCq_AN0b638bkvU4GBo1SC8ZSM5hzHC2wMDfsbFeojGM4-GYlngDAbhAR1sB6xHf4ahWn41VC5k-MS2P3FA5SSAcx46pX7Ae6K9he-kKo=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "40d4018b-8b98-422c-9803-04355098f305#1785215928763"
+  }
+}

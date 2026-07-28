@@ -1,0 +1,43 @@
+{
+  "note_id": "403a8eb6-49b9-4e03-bb11-16e8234a7c1f",
+  "url": "https://www.xiaohongshu.com/explore/403a8eb6-49b9-4e03-bb11-16e8234a7c1f?xsec_token=ABTen2pRceGONW7oEUnRnE2Z5ZMiQo36cE6UVLwQ3paQ7FRlp0AZrc9bCbymWRjNo_TurQ_XulNeYE2xUX4YAVunhtNvHPLUDzdkOn2WMPm10=",
+  "fetched_at": 1785214820.6602037,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6538 城大 实习项目",
+  "search_item": {
+    "id": "403a8eb6-49b9-4e03-bb11-16e8234a7c1f#1785214804278",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "403a8eb6-49b9-4e03-bb11-16e8234a7c1f#1785214804278",
+      "queries": [
+        {
+          "id": "cityu找实习",
+          "name": "cityu找实习",
+          "searchWord": "cityu找实习"
+        },
+        {
+          "name": "城大校内实习",
+          "searchWord": "城大校内实习",
+          "id": "城大校内实习"
+        },
+        {
+          "id": "城大实习",
+          "name": "城大实习",
+          "searchWord": "城大实习"
+        },
+        {
+          "name": "cityu实习项目",
+          "searchWord": "cityu实习项目",
+          "id": "cityu实习项目"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "xsecToken": "ABTen2pRceGONW7oEUnRnE2Z5ZMiQo36cE6UVLwQ3paQ7FRlp0AZrc9bCbymWRjNo_TurQ_XulNeYE2xUX4YAVunhtNvHPLUDzdkOn2WMPm10=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "403a8eb6-49b9-4e03-bb11-16e8234a7c1f#1785214804278"
+  }
+}

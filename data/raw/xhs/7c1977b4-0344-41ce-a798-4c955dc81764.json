@@ -1,0 +1,41 @@
+{
+  "note_id": "7c1977b4-0344-41ce-a798-4c955dc81764",
+  "url": "https://www.xiaohongshu.com/explore/7c1977b4-0344-41ce-a798-4c955dc81764?xsec_token=ABp-Oir3RnwwlXqdapT4Zr_cwa6jTcUOSjCrNnrguPi7jmoGcj4R46TX2-_9QVrPZ3tg-1XO5ir1UdgmNv7A6ruXjGdqah_SYOYeopsCQ3fGg=",
+  "fetched_at": 1785215878.4720707,
+  "search_query": "CS5288 城大CS",
+  "search_item": {
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "7c1977b4-0344-41ce-a798-4c955dc81764#1785215862914",
+      "queries": [
+        {
+          "id": "cs4认证",
+          "name": "cs4认证",
+          "searchWord": "cs4认证"
+        },
+        {
+          "id": "cs2025top1",
+          "name": "cs2025top1",
+          "searchWord": "cs2025top1"
+        },
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "cs1800分",
+          "name": "cs1800分",
+          "searchWord": "cs1800分"
+        }
+      ]
+    },
+    "xsecToken": "ABp-Oir3RnwwlXqdapT4Zr_cwa6jTcUOSjCrNnrguPi7jmoGcj4R46TX2-_9QVrPZ3tg-1XO5ir1UdgmNv7A6ruXjGdqah_SYOYeopsCQ3fGg=",
+    "id": "7c1977b4-0344-41ce-a798-4c955dc81764#1785215862914",
+    "index": 6,
+    "exposed": true,
+    "trackId": "7c1977b4-0344-41ce-a798-4c955dc81764#1785215862914"
+  }
+}

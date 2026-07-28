@@ -1,0 +1,61 @@
+{
+  "note_id": "695b500a000000001a021b15",
+  "url": "https://www.xiaohongshu.com/explore/695b500a000000001a021b15?xsec_token=ABI501A6GeRziIXA1MauwniVkSmzg6YisEf2n-B-hRnIE=",
+  "fetched_at": 1785210180.7365866,
+  "search_query": "CS6538 评价",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "UBC cs大四 2025WT1 测评",
+      "user": {
+        "nickName": "三伏未致吗",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qusk5drg0005n1eeo91u8f8oi7qo8g?imageView2/2/w/80/format/jpg",
+        "userId": "5c2e761200000000070321e8",
+        "nickname": "三伏未致吗",
+        "xsecToken": "ABcW9AbnTpMo-JkwstRopq5CZ4pFWF75m4X4y5Xt56mV4="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "71",
+        "collected": false,
+        "collectedCount": "50",
+        "commentCount": "17",
+        "sharedCount": "13"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281142/54f6f94fb6217bf91890316046c3e7a2/1040g2sg31qurlnp77u705n1eeo91u8f855k6jug!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281142/db38d50b4f14580deae767ed6c2499d3/1040g2sg31qurlnp77u705n1eeo91u8f855k6jug!nc_n_webp_prv_1",
+        "height": 893,
+        "width": 1114
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281142/54f6f94fb6217bf91890316046c3e7a2/1040g2sg31qurlnp77u705n1eeo91u8f855k6jug!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281142/db38d50b4f14580deae767ed6c2499d3/1040g2sg31qurlnp77u705n1eeo91u8f855k6jug!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 893,
+          "width": 1114
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-05"
+        }
+      ]
+    },
+    "xsecToken": "ABI501A6GeRziIXA1MauwniVkSmzg6YisEf2n-B-hRnIE=",
+    "id": "695b500a000000001a021b15",
+    "index": 16,
+    "exposed": false,
+    "trackId": "695b500a000000001a021b15"
+  }
+}

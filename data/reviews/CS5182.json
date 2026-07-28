@@ -57,6 +57,15 @@
       "postTitle": "CityU CS 选课血泪史4⃣"
     },
     {
+      "noteId": "68313764000000002001dc41",
+      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+      "excerpt": "CS5182：CG，作业整体不算多，一个project+一次期中+一次期末，平时没有别的作业了。老师比较佛，上课内容偏向理论多一点。期中和老师ppt中给出的习题重叠度很高，强烈建议去做！期末会有复习ppt，矩阵相关的计算题一定要会做（占比不小），其他理论记一记，就没啥问题。project（1-3人）我们组是期末周前临时赶工的，大家最好提前准备...我个人建议是不要做从头到尾自己训练的，可以尝试做微调相关的，这样实验起来快很多。project对电脑型号有要求，自己没有显卡的话就要租用云平台的算力。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS5182 CS5188 课程经验分享"
+    },
+    {
       "noteId": "66c2b41e0000000025031b7f",
       "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
       "excerpt": "CS5182 Computer Graphics；分数构成：midterm，final，project；教授挺好的，大陆人。课程内容就是基础知识（可以b站搜搜），tutorial是神经网络图像处理。Project对我来说有点难，对设备要求比较高，跑一次就得一晚上。另外处理图像和3D点云的内容我从来没接触过，开源代码扒过来也是一头雾水（也可以水一水，拿个现成代码跑通了交，但分数不会高。一般大家会搞个小创新）。midterm和final都不难，大部分课上讲过。",
@@ -109,17 +118,8 @@
         "post_body"
       ],
       "postTitle": "CityU CS Master SemB"
-    },
-    {
-      "noteId": "69fc8470000000003601ea02",
-      "url": "https://www.xiaohongshu.com/explore/69fc8470000000003601ea02?xsec_token=ABvm0UzM6ysaoj6vJetVWRPa4FYxEh_oK5XHoGD3LmAwc=",
-      "excerpt": "2.CS5182，图形学CG；本人背景：学过图形学；期中15，项目25，期末60；项目（1-3人）为复现+改进使用深度学习的图形学相关论文，必须pre；课程内容不涉及具体图形库，如OpenGL；不推荐选。理由：考试占比高（共75%），项目需使用GPU资源（课程不提供GPU，自己租服务器或者本地运行吧）",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "Cityu MSc in CS Semester B课程评价"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-07-25"
+  "lastUpdated": "2026-07-28"
 }

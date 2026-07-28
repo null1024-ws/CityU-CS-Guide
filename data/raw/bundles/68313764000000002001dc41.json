@@ -1,0 +1,69 @@
+{
+  "note_id": "68313764000000002001dc41",
+  "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+  "fetched_at": 1785210130.2197685,
+  "course_codes": [
+    "CS5182",
+    "CS5188"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS5182 CS5188 课程经验分享",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "[棒R]先写一下semB的两门课吧\nCS5182 : Computer Graphics\nCS5188 : Virtual Reality Technologies and Applications\n一门是图形学课程，一门是VR技术和开发相关课程。\n为什么放在一起分享经验，是因为我觉得这两门课程涉及的内容其实很多部分有重叠，所以选课的时候建议一起选。[亲一个R]复习的时候可以互为补充（考试内容会有相似）\n\t\nCS5182：CG，作业整体不算多，一个project+一次期中+一次期末，平时没有别的作业了。老师比较佛，上课内容偏向理论多一点。期中和老师ppt中给出的习题重叠度很高，强烈建议去做！期末会有复习ppt，矩阵相关的计算题一定要会做（占比不小），其他理论记一记，就没啥问题。project（1-3人）我们组是期末周前临时赶工的，大家最好提前准备...[哭惹R]我个人建议是不要做从头到尾自己训练的，可以尝试做微调相关的，这样实验起来快很多。project对电脑型号有要求，自己没有显卡的话就要租用云平台的算力。\n\t\nCS5188: VR，作业设置和CG一样，一个project（1-3人）+一次期中+一次期末，tutorial会有当场习题+讲解（但是不算分）。上课内容偏理论，project基本要自己现学一下UE5，可以做一些简单的小项目，但还是有一定的工程量，建议提早做。考试就是围绕PPT，细枝末节都有可能考，期中甚至考了一个跟耳朵相关的知识点和tutorial上的一个例子，时间充裕的情况下最好多看看PPT，了解知识原理，题目还是比较灵活的，但没有超出ppt范围，也是需要认真复习PPT！\n\t\n这两门课没有公布具体的项目分数和考试成绩，[笑哭R]我的最终等级都是A，其中CG两人组队，VR一人组队，总体感觉课程偏理论知识，熟悉PPT的情况下，考试基本能过。项目的话有难度，不了解给分情况。[赞R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问学姐这两门课都可以一个人做project吗？不是很想组队了[失望R]",
+      "sourceRef": "comment:696dfc75000000000b034662",
+      "commentId": "696dfc75000000000b034662",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "comment",
+      "text": "hello学姐，5188vr是闭卷还是开卷呀",
+      "sourceRef": "comment:6948d3b70000000039008a64",
+      "commentId": "6948d3b70000000039008a64",
+      "likes": 0,
+      "author": "巴巴拉拉能量"
+    },
+    {
+      "type": "comment",
+      "text": "想问问5188期末有tutorial的内容吗[哭惹R]，好多要背的，已死[哭惹R][哭惹R]",
+      "sourceRef": "comment:69f5cd730000000028033656",
+      "commentId": "69f5cd730000000028033656",
+      "likes": 0,
+      "author": "蛋挞幼稚鬼"
+    },
+    {
+      "type": "comment",
+      "text": "佬[哭惹R]",
+      "sourceRef": "comment:68317704000000001c0302f7",
+      "commentId": "68317704000000001c0302f7",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问学姐5188的期中考内容基本都是要背的嘛，还是说要灵活应用？如果想像您一样拿A的话，大概要拿到多少的分数会好一点？[皱眉R][皱眉R]",
+      "sourceRef": "comment:69c483930000000014009b06",
+      "commentId": "69c483930000000014009b06",
+      "likes": 0,
+      "author": "Aurora"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我当时考完心里也没底，记住啥都写上就好[笑哭R]",
+      "sourceRef": "comment:69c48866000000000d012152",
+      "commentId": "69c48866000000000d012152",
+      "likes": 0,
+      "author": "风压新枝"
+    }
+  ]
+}

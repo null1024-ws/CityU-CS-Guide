@@ -1,0 +1,448 @@
+{
+  "note_id": "67bbdfee000000002903501c",
+  "url": "https://www.xiaohongshu.com/explore/67bbdfee000000002903501c?xsec_token=AB3ewsupzMtAhvWuxrJ2TxszCAwPEdbQnvUt_2HKSFg5s=",
+  "fetched_at": 1785214656.09512,
+  "note": {
+    "xsecToken": "AB3ewsupzMtAhvWuxrJ2TxszCAwPEdbQnvUt_2HKSFg5s=",
+    "type": "normal",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "40",
+      "collected": false,
+      "collectedCount": "4",
+      "commentCount": "29",
+      "shareCount": "1",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "height": 415,
+        "width": 1886,
+        "url": "",
+        "traceId": "",
+        "livePhoto": false,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281257/740e47fff6ea3c6fbe1916406dfbe361/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281257/96fe6a0bf2139adfd5963bf7bb3747bf/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281257/740e47fff6ea3c6fbe1916406dfbe361/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281257/96fe6a0bf2139adfd5963bf7bb3747bf/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31e95aib10e705pcqdms8iidb9266gpo"
+      }
+    ],
+    "tagList": [
+      {
+        "name": "申请季",
+        "type": "topic",
+        "id": "5ccbaf31000000000d019175"
+      },
+      {
+        "id": "5e54a1f2000000000100183d",
+        "name": "留学选校",
+        "type": "topic"
+      },
+      {
+        "id": "5d1d701100000000180250fe",
+        "name": "硕士留学",
+        "type": "topic"
+      },
+      {
+        "id": "5c64fec7000000000f00d9f5",
+        "name": "留学offer",
+        "type": "topic"
+      },
+      {
+        "id": "5e10bdfe00000000010071e7",
+        "name": "留学DIY",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5c0f75a1e093d10001c19932",
+        "name": "研究生申请"
+      },
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1740365806000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "67bbdfee000000002903501c",
+    "title": "港城cs和港城ec搁这玩冰火两重天呢",
+    "desc": "前段时间ec给offer没接，再过段时间上去看，cs直接us了#申请季[话题]# #留学选校[话题]# #硕士留学[话题]# #留学offer[话题]# #留学DIY[话题]# #研究生申请[话题]# #香港城市大学[话题]#",
+    "user": {
+      "userId": "659a6db800000000220149ab",
+      "nickname": "Genius",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0",
+      "xsecToken": "ABxfjiRv7OscEItSSpqhvt4lvZHBlJu2Bj0OKFLAf0wHs="
+    },
+    "lastUpdateTime": 1740365807000
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "67bbe73e000000001c001f53",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABHFoXDJ4NGet9hkZbyCQ9StPVdmo7-qp3o7auqkGyID4=",
+              "userId": "64eb15f6000000000100cac4",
+              "nickname": "弗朗西斯科",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fidv8ahgc005p7b2nr09im4ob5j7ko?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "67bbf06d000000001b03dece",
+          "noteId": "67bbdfee000000002903501c",
+          "status": 0,
+          "userInfo": {
+            "xsecToken": "ABmbYceXGRHvEy_aM-ZZIMPW65pKKRQ-uuCLb3EqkDiqo=",
+            "userId": "659a6db800000000220149ab",
+            "nickname": "Genius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1740370029000,
+          "ipLocation": "湖北",
+          "content": "没有消息，就是好消息",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "67bbf06d000000001b03dece",
+      "noteId": "67bbdfee000000002903501c",
+      "content": "cs10月底申，现在没有消息",
+      "atUsers": [],
+      "likeCount": "3",
+      "subCommentHasMore": true,
+      "status": 0,
+      "createTime": 1740367678000,
+      "subCommentCount": "10",
+      "id": "67bbe73e000000001c001f53",
+      "liked": false,
+      "userInfo": {
+        "userId": "64eb15f6000000000100cac4",
+        "nickname": "弗朗西斯科",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fidv8ahgc005p7b2nr09im4ob5j7ko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHFoXDJ4NGet9hkZbyCQ9StPVdmo7-qp3o7auqkGyID4="
+      },
+      "ipLocation": "湖北",
+      "invalid": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "北京",
+      "content": "ec为啥没去[笑哭R]",
+      "liked": false,
+      "userInfo": {
+        "userId": "5fbe89c40000000001006f42",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPhDRe93j61G0OrRuLpiDhK-8FaaJ7aitpFDiyooV_HU="
+      },
+      "createTime": 1740370333000,
+      "id": "67bbf19d000000001803047e",
+      "atUsers": [],
+      "subCommentCount": "6",
+      "invalid": false,
+      "noteId": "67bbdfee000000002903501c",
+      "status": 0,
+      "likeCount": "1",
+      "showTags": [],
+      "subComments": [
+        {
+          "status": 0,
+          "content": "polyu it先来的",
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABmbYceXGRHvEy_aM-ZZIMPW65pKKRQ-uuCLb3EqkDiqo=",
+            "userId": "659a6db800000000220149ab",
+            "nickname": "Genius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "67bbf19d000000001803047e",
+            "userInfo": {
+              "userId": "5fbe89c40000000001006f42",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPhDRe93j61G0OrRuLpiDhK-8FaaJ7aitpFDiyooV_HU="
+            }
+          },
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1740371097000,
+          "ipLocation": "湖北",
+          "invalid": false,
+          "id": "67bbf498000000001c00055c",
+          "noteId": "67bbdfee000000002903501c"
+        }
+      ],
+      "subCommentCursor": "67bbf498000000001c00055c",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1740370080000,
+          "ipLocation": "湖北",
+          "id": "67bbf0a0000000001c0081eb",
+          "status": -2,
+          "liked": false,
+          "targetComment": {
+            "id": "67bbe55d000000001b038196",
+            "userInfo": {
+              "userId": "60226a3200000000010090ca",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoHICS0AKApSWX6n8C_oTQODtXBdUIJIN53J9hi7c-5M="
+            }
+          },
+          "invalid": false,
+          "noteId": "67bbdfee000000002903501c",
+          "content": "接了polyu it了",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "659a6db800000000220149ab",
+            "nickname": "Genius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABmbYceXGRHvEy_aM-ZZIMPW65pKKRQ-uuCLb3EqkDiqo="
+          }
+        }
+      ],
+      "id": "67bbe55d000000001b038196",
+      "noteId": "67bbdfee000000002903501c",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABoHICS0AKApSWX6n8C_oTQODtXBdUIJIN53J9hi7c-5M=",
+        "userId": "60226a3200000000010090ca",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg"
+      },
+      "atUsers": [],
+      "ipLocation": "中国香港",
+      "subCommentCursor": "67bbf0a0000000001c0081eb",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1740367198000,
+      "subCommentCount": "5",
+      "invalid": false,
+      "content": "如果没其他的话 应该会接了ec吧 反正都能转留位费[笑哭R]",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "67bbdfee000000002903501c",
+      "status": 0,
+      "content": "211 85 拒了",
+      "showTags": [],
+      "subCommentCursor": "67bc22a7000000001c00afaa",
+      "userInfo": {
+        "userId": "5f2938f7000000000101fba2",
+        "nickname": "懒Zz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321if2rn2ne005np973rgbut2aq8f49g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABli-gH6nqzjUGRln3nXCOcXVTDgdM21YLu7lQcqXWNes="
+      },
+      "subCommentCount": "2",
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1740381608000,
+      "subComments": [
+        {
+          "id": "67bc22a7000000001c00afaa",
+          "noteId": "67bbdfee000000002903501c",
+          "status": 0,
+          "content": "我去。。。",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABmbYceXGRHvEy_aM-ZZIMPW65pKKRQ-uuCLb3EqkDiqo=",
+            "userId": "659a6db800000000220149ab",
+            "nickname": "Genius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "湖北",
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "ABli-gH6nqzjUGRln3nXCOcXVTDgdM21YLu7lQcqXWNes=",
+              "userId": "5f2938f7000000000101fba2",
+              "nickname": "懒Zz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321if2rn2ne005np973rgbut2aq8f49g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "67bc1da80000000019001623"
+          },
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1740382887000,
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "ipLocation": "河北",
+      "id": "67bc1da80000000019001623",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1740368959000,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "67bbdfee000000002903501c",
+      "userInfo": {
+        "nickname": "在太阳岛拆礼物的猫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ph4k8sf2s6g5nrs84c0bmts4stl3t0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmbQM2OdaxeB2e6wSJnTAMRR2nWNScOsvv14CDkzKtO8=",
+        "userId": "5f7c4118000000000101dbbc"
+      },
+      "id": "67bbec3e00000000160300c5",
+      "content": "求问一下bg",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "重庆",
+      "subComments": [
+        {
+          "id": "67bbf08e000000001c00ca7e",
+          "status": 0,
+          "content": "双非，86，一篇水论文，有几年工作经验",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABmbYceXGRHvEy_aM-ZZIMPW65pKKRQ-uuCLb3EqkDiqo=",
+            "userId": "659a6db800000000220149ab",
+            "nickname": "Genius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1740370062000,
+          "ipLocation": "湖北",
+          "noteId": "67bbdfee000000002903501c",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "67bbec3e00000000160300c5",
+            "userInfo": {
+              "userId": "5f7c4118000000000101dbbc",
+              "nickname": "在太阳岛拆礼物的猫",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ph4k8sf2s6g5nrs84c0bmts4stl3t0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmbQM2OdaxeB2e6wSJnTAMRR2nWNScOsvv14CDkzKtO8="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "67bbf08e000000001c00ca7e",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "港城 CS6538",
+  "search_item": {
+    "id": "67bbdfee000000002903501c",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281257/9cc278b63c6d06cbb2462cf07f847523/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281257/858097fbca17b218e4ab82c9fe0e2e36/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nc_n_webp_prv_1",
+        "height": 415,
+        "width": 1886
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281257/9cc278b63c6d06cbb2462cf07f847523/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281257/858097fbca17b218e4ab82c9fe0e2e36/1040g2sg31e95aib10e705pcqdms8iidb9266gpo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 415,
+          "width": 1886
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-02-24"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城cs和港城ec搁这玩冰火两重天呢",
+      "user": {
+        "nickname": "Genius",
+        "xsecToken": "ABmuATBhqBKGtiBCMNHvYR8EEpksfq0IyjdpnU3ugY3ig=",
+        "nickName": "Genius",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5eo13702005pcqdms8iidbs8mgno0?imageView2/2/w/80/format/jpg",
+        "userId": "659a6db800000000220149ab"
+      },
+      "interactInfo": {
+        "likedCount": "40",
+        "collected": false,
+        "collectedCount": "4",
+        "commentCount": "29",
+        "sharedCount": "1",
+        "liked": false
+      }
+    },
+    "xsecToken": "AB3ewsupzMtAhvWuxrJ2TxszCAwPEdbQnvUt_2HKSFg5s=",
+    "index": 9,
+    "exposed": true,
+    "trackId": "67bbdfee000000002903501c"
+  }
+}

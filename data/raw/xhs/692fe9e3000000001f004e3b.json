@@ -1,0 +1,61 @@
+{
+  "note_id": "692fe9e3000000001f004e3b",
+  "url": "https://www.xiaohongshu.com/explore/692fe9e3000000001f004e3b?xsec_token=ABnyrCp7WXb5f1ekhuUQndUXOHJvzX925H8Xa9LIncQjI=",
+  "fetched_at": 1785209581.732504,
+  "search_query": "城大 城大 研究项目",
+  "search_item": {
+    "id": "692fe9e3000000001f004e3b",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "12",
+        "sharedCount": "3",
+        "liked": false,
+        "likedCount": "5"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281133/66adc373a90bdfe59a746a6e6709ee90/1040g00831pkf7ut74ue05n9jueilis1k737l9i0!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281133/b3428806ba4c98c1ff0d6a01a0f36e5d/1040g00831pkf7ut74ue05n9jueilis1k737l9i0!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281133/b3428806ba4c98c1ff0d6a01a0f36e5d/1040g00831pkf7ut74ue05n9jueilis1k737l9i0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281133/66adc373a90bdfe59a746a6e6709ee90/1040g00831pkf7ut74ue05n9jueilis1k737l9i0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-03"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "26fall港城ns求助",
+      "user": {
+        "xsecToken": "ABBN22ENTgTZe-2WbyyGhnxWlkXQdhivDf55_Ee7WylU8=",
+        "nickName": "KLEJ",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5d33f3a50000000016017034",
+        "nickname": "KLEJ"
+      }
+    },
+    "xsecToken": "ABnyrCp7WXb5f1ekhuUQndUXOHJvzX925H8Xa9LIncQjI=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "692fe9e3000000001f004e3b"
+  }
+}

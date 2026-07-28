@@ -1,0 +1,428 @@
+{
+  "note_id": "69d6469f000000001d01acdb",
+  "url": "https://www.xiaohongshu.com/explore/69d6469f000000001d01acdb?xsec_token=ABd2rPMLZMXlOCwlEHzf1C-0BU-deFqRUgEh0eJ4EafEo=",
+  "fetched_at": 1785215156.388296,
+  "note": {
+    "xsecToken": "ABd2rPMLZMXlOCwlEHzf1C-0BU-deFqRUgEh0eJ4EafEo=",
+    "desc": "刷知乎看到有人说phd前两年要选很多硬课过博资考，还有很多学校的全奖funding来自TA，得耗很多时间改本科生作业，导致前两年压缩很多发论文的时间\n和llm做了个cross validation，gemini和gpt都觉得大差不差。感觉国内反而这些东西很好水过去？所以想问问前辈到底有多忙？#PhD[话题]# #学术[话题]# #博士申请[话题]# #ai[话题]# #留美[话题]# #cs[话题]# #计算机[话题]#",
+    "user": {
+      "userId": "668b50ab000000001c0021a2",
+      "nickname": "nameless",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r9ehlc0726g5pkba2ln08d2ji7ll40",
+      "xsecToken": "ABEbIwX7AvTPtjcTTSdJTWSiBIvBk8O5TeZCdF6rFOhWs="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "9",
+      "commentCount": "12",
+      "shareCount": "1",
+      "relation": "none",
+      "likedCount": "18",
+      "collected": false,
+      "followed": false,
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831umu6ut11m605pkba2ln08d2f81rf70",
+        "width": 1200,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281306/7d2d71fe1214d6fda458947369c9bf9a/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281306/c61848357e882dbe662c547d7421a437/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281306/7d2d71fe1214d6fda458947369c9bf9a/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nd_prv_wlteh_jpg_3",
+        "height": 1600,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281306/c61848357e882dbe662c547d7421a437/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "name": "PhD",
+        "type": "topic",
+        "id": "5dfb889600000000010090be"
+      },
+      {
+        "id": "5c3178f400000000090274bf",
+        "name": "学术",
+        "type": "topic"
+      },
+      {
+        "id": "5c2ca726000000000902152d",
+        "name": "博士申请",
+        "type": "topic"
+      },
+      {
+        "id": "5c1c3c9a000000000a030af3",
+        "name": "ai",
+        "type": "topic"
+      },
+      {
+        "id": "5d803736000000000101db35",
+        "name": "留美",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1775650518000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69d6469f000000001d01acdb",
+    "type": "normal",
+    "title": "美国CS/AI PhD杂事多吗？",
+    "atUserList": [],
+    "time": 1775650463000
+  },
+  "comments": [
+    {
+      "id": "69d655530000000015009f17",
+      "showTags": [],
+      "subComments": [
+        {
+          "liked": false,
+          "createTime": 1775660385000,
+          "ipLocation": "马来西亚",
+          "pictures": [],
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "62d8f0c8000000000e00e0b7",
+            "nickname": "Markov",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nao4kv00105omou343ho5njfl3mgo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhQPZq2zLsoRqQTQypXih6F3tYM1A-xZpAuwQL41Oy_M="
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69d666d2000000003102f23e",
+            "userInfo": {
+              "userId": "602bc7e7000000000101ed51",
+              "nickname": "nwl",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tc4avrn5a005o1bovjgbrahjlhgg9o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfvXPnN1UIa17TIBZN6RRVWDwTPlWkiSAppSB_WUZyng="
+            }
+          },
+          "invalid": false,
+          "id": "69d66d610000000015001462",
+          "noteId": "69d6469f000000001d01acdb",
+          "content": "美国很多学校都不用"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "去经费多学校 我师哥没做过ta 两年发了10多篇一做论文[笑哭R]",
+      "likeCount": "7",
+      "createTime": 1775654227000,
+      "ipLocation": "马来西亚",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "62d8f0c8000000000e00e0b7",
+        "nickname": "Markov",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nao4kv00105omou343ho5njfl3mgo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhQPZq2zLsoRqQTQypXih6F3tYM1A-xZpAuwQL41Oy_M="
+      },
+      "subCommentCount": "3",
+      "noteId": "69d6469f000000001d01acdb",
+      "subCommentCursor": "69d66d610000000015001462",
+      "pictures": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [],
+      "createTime": 1775863073000,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "pictures": [],
+      "invalid": false,
+      "id": "69d985200000000002037f41",
+      "status": 0,
+      "content": "前两年多 后面逐渐好转[笑哭R]",
+      "userInfo": {
+        "userId": "633d7939000000001802e79e",
+        "nickname": "小红薯261KE904",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLe81OpGVeL6wbtUX5TfrMcRdbOqvwAQMzFo5fj001Y8="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "69d6469f000000001d01acdb",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "我老板直接让我当他TA然后什么活不让我干[笑哭R]",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "69d6469f000000001d01acdb",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "liked": false,
+      "userInfo": {
+        "userId": "628f1a69000000002102b63c",
+        "nickname": "UwU",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6472a7f7248e41ffc87e5609.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABER3GJ0O6ApbT2AZOIFistsoSQqaLLrcnMVo955E0WIk="
+      },
+      "pictures": [],
+      "id": "69d67fe80000000018038dba",
+      "showTags": [],
+      "createTime": 1775665129000,
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69d692db000000001500a05b",
+      "content": "我来快一年了，除了写代码写论文上课，其他事都没干过",
+      "userInfo": {
+        "nickname": "Ultra Ball",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tti0ef4785g5niee5kg8e838l0ihog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDO4ehNQLRHmNXlt1gjaTPz8NIHDVzr_A5VoX3B3wPg4=",
+        "userId": "5e4e71690000000001003903"
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "createTime": 1775669980000,
+      "subComments": [],
+      "pictures": [],
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "noteId": "69d6469f000000001d01acdb",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "status": 0,
+      "content": "硬课多，qualifying exam难是真的。有20%-30%的人折在这个考试上。。但有的学校没有这个考试。。",
+      "liked": false,
+      "userInfo": {
+        "userId": "620b8d26000000001000a9a7",
+        "nickname": "洋哥建材",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mnsj759mg005ogbhkj41ad7t5fvo38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQ5JHVGzOktUxitPa3c1kicYLh-2Kq9ZfGC3dPfIYuCc="
+      },
+      "createTime": 1775742050000,
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "id": "69d7ac61000000000d010838",
+      "noteId": "69d6469f000000001d01acdb",
+      "likeCount": "0",
+      "showTags": [],
+      "pictures": [],
+      "invalid": false,
+      "subComments": [],
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3235ci89rnu6g5pmk1vrne16hj65cu2o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABE9UHR2fwLmPl3wkr6iVjIrGNstldgQbNvjpFS60iXX4=",
+        "userId": "66d40ff7000000001d0304d1",
+        "nickname": "九木杂物社"
+      },
+      "id": "69d64e73000000001400bf31",
+      "liked": false,
+      "ipLocation": "浙江",
+      "pictures": [],
+      "content": "看导师?",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "createTime": 1775652467000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "69d6469f000000001d01acdb",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1775655593000,
+      "subComments": [],
+      "pictures": [],
+      "id": "69d65aa80000000002035c20",
+      "status": 0,
+      "content": "感觉完全看导师，美国不同导师之间区别特别大，因为来自不同文化背景，比如华人导师的话就和国内氛围会很像",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABA-BlzMfpSX5LFmrdUq2-MMl3dpWunPwzvFNDhnIcZoc=",
+        "userId": "60f83ac5000000000101e150",
+        "nickname": "BakuGOAT",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tvpblaq1g005o7o7b2gboagajo2vl8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69d6469f000000001d01acdb",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "上海",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "content": "看老板人品，慎选韩国人",
+      "id": "69d7e049000000000d0374be",
+      "noteId": "69d6469f000000001d01acdb",
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB4T_EiqYHnRZKjDqtg5MKktnOJd_D3Sn1UR6VxvXqcwE=",
+        "userId": "61c09de60000000010004df0",
+        "nickname": "mados",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aipuk01mu005oe0jnj40jfg296hrg8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1775755338000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69d6469f000000001d01acdb",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1775676394000,
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "invalid": false,
+      "userInfo": {
+        "xsecToken": "ABF89IBbg_Eb_zOctKLODX2xo8wy2rVNYRLGRS3N1hxXE=",
+        "userId": "667f35b30000000007005fc4",
+        "nickname": "Alvin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bjnd03tgs005pjv6mphonu4ajkhmto?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "pictures": [],
+      "id": "69d6abe9000000001500a2a9",
+      "content": "没啥杂事",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5486 体验",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "美国CS/AI PhD杂事多吗？",
+      "user": {
+        "xsecToken": "ABipKafFnzG1hNVFlw45oqPdW8thNTgnaZHBMU57yxGC4=",
+        "nickName": "nameless",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r9ehlc0726g5pkba2ln08d2ji7ll40?imageView2/2/w/80/format/jpg",
+        "userId": "668b50ab000000001c0021a2",
+        "nickname": "nameless"
+      },
+      "interactInfo": {
+        "collectedCount": "9",
+        "commentCount": "12",
+        "sharedCount": "1",
+        "liked": false,
+        "likedCount": "18",
+        "collected": false
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281305/210d4b0c9359e865b91b3afa078eed98/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281305/54792a4e72d87c1220fecd6bd2ee0fdf/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281305/54792a4e72d87c1220fecd6bd2ee0fdf/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281305/210d4b0c9359e865b91b3afa078eed98/1040g00831umu6ut11m605pkba2ln08d2f81rf70!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-08"
+        }
+      ]
+    },
+    "xsecToken": "ABd2rPMLZMXlOCwlEHzf1C-0BU-deFqRUgEh0eJ4EafEo=",
+    "id": "69d6469f000000001d01acdb",
+    "index": 1,
+    "exposed": true,
+    "trackId": "69d6469f000000001d01acdb"
+  }
+}

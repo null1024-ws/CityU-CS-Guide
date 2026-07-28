@@ -1,0 +1,132 @@
+{
+  "note_id": "68082203000000000e0057ba",
+  "url": "https://www.xiaohongshu.com/explore/68082203000000000e0057ba?xsec_token=ABqRFHCoAD7hSdHoBn6gs4zGIJQonsO_TFm7qyPvhK3uk=",
+  "fetched_at": 1785215273.8041556,
+  "course_codes": [
+    "CS6250"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS6250 Computer Network课程测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "选课：Computer Network 6250\n每周用时：两天\n课程难易程度：容易\n\t\n如果有一天我们被告知，机器人早就装扮成人类混迹在我们之间了，我根本不会感到惊讶，因为我会第一个怀疑CN的老师……\n\t\n她真的是“活人”吗？怎么做到这么“人机”的？所有视频都是照着课件一个字一个字地念出来的，说话没有抑扬顿挫就算了，课件也是大段大段，写得云里雾里、枯燥无味、难以下咽，比干巴lunch还干巴。\n\t\n有一本专门说克服拖延症的书叫eat that frog，我选了这门课之后，感觉在eating frog EVERYDAY。当然了，喜欢生吃青蛙的友友们，就当我没说。\n\t\n好了，抱怨归抱怨，说点有用的。\n\t\n这门课被传成“水课”，自然也有原因的。拿A没有那么难，拆解如下：\n\t\nCN的最终评分由三个部分组成：\nquiz ➕project➕期中期末exam\n\t\n1. Quiz :每周的quiz 都是开卷，没什么压力，就是要记得做，在群里经常听到同学说忘记做了白白扣分。\n\t\n2. Project: 每两周一个project。这个project 怎么说呢……每次读它的要求的时候，都感觉像一个啰里八嗦、语无伦次的疯狂戴夫在跟我说“歪比巴卜”，要理解它到底要干什么挺费劲的。\n\t\n不过，大多数project提交的时候可以无限上传、自动评分（除了SDN firewall），可以刷到你满意为止。\n\t\n加上没有小组project，成绩大体上是自己可控的，基本上可以排除TA个人偏见或者是不靠谱队友的影响。\n\t\n这门课建议大家summer上，因为summer可以比spring和fall少做一个叫BGP hijacking的project。整个project基于1篇论文，说实话挺烦人的，也没什么意义，能不做就不做吧。\n\t\n3. Exams: 期中和期末考试闭卷，而且很多多选题。好在在最终成绩上占比不高。\n\t\n我最后再多嘴一句，如果是转码的同学，本科没有CN基础，第一门课还是不要来上CN了。我平时工作写代码感觉没有这么枯燥，如果第一门课就被人机老师带偏而对CS失去兴趣的话，得不偿失。\n\t\n#转码[话题]# #OMSCS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问有暑假推荐的课程吗？ [害羞R]",
+      "sourceRef": "comment:68082c33000000000400ddad",
+      "commentId": "68082c33000000000400ddad",
+      "likes": 0,
+      "author": "Biubiu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "SDP挺不错的 目前上过的课里最喜欢最有益的",
+      "sourceRef": "comment:68082cae000000000400ae70",
+      "commentId": "68082cae000000000400ae70",
+      "likes": 4,
+      "author": "橘猫大壮"
+    },
+    {
+      "type": "comment",
+      "text": "我也想这个summer选cn[笑哭R]姐妹summer准备上什么课？",
+      "sourceRef": "comment:68083c48000000000400c559",
+      "commentId": "68083c48000000000400c559",
+      "likes": 0,
+      "author": "小猫咪拳打镇关西"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我在蹲Digital marketing的waitlist 还不知道能不能选上",
+      "sourceRef": "comment:68083da6000000000400b3ca",
+      "commentId": "68083da6000000000400b3ca",
+      "likes": 1,
+      "author": "橘猫大壮"
+    },
+    {
+      "type": "comment",
+      "text": "个人觉得除非工作需要或者刷学分需要，真的不要选network的课[doge] 这玩意想学自己补一下就好了，上课真的很干很干（上过别的network课，不是GT的），然后当时跟干IT的朋友们聊起说在上network课的时候，每个人的回复都是“我讨厌networking”“networking非常dry”",
+      "sourceRef": "comment:68087234000000001f00c724",
+      "commentId": "68087234000000001f00c724",
+      "likes": 3,
+      "author": "Kiki_Shmoo💍"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感觉每个教network的老师都像在和尚念经读课件[doge]",
+      "sourceRef": "comment:6808729c000000001f029e99",
+      "commentId": "6808729c000000001f029e99",
+      "likes": 2,
+      "author": "Kiki_Shmoo💍"
+    },
+    {
+      "type": "comment",
+      "text": "Omscs好吗？据说去年报名翻倍",
+      "sourceRef": "comment:68083c34000000000401a97a",
+      "commentId": "68083c34000000000401a97a",
+      "likes": 0,
+      "author": "Roy学哲学"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感觉每年都这么说",
+      "sourceRef": "comment:68087fb2000000001f00a1d1",
+      "commentId": "68087fb2000000001f00a1d1",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "笑死 这学期上这门课 跟老师0️⃣互动 全靠自己",
+      "sourceRef": "comment:68083356000000001f00fcd3",
+      "commentId": "68083356000000001f00fcd3",
+      "likes": 3,
+      "author": "苏琪浩"
+    },
+    {
+      "type": "comment",
+      "text": "默默地用cs168代替了[偷笑R]",
+      "sourceRef": "comment:680832f2000000001f00ede7",
+      "commentId": "680832f2000000001f00ede7",
+      "likes": 0,
+      "author": "最冷一天。"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享，暑期备选了[偷笑R]",
+      "sourceRef": "comment:68083806000000001f003054",
+      "commentId": "68083806000000001f003054",
+      "likes": 0,
+      "author": "電子小羊"
+    },
+    {
+      "type": "comment",
+      "text": "默默的从我备选课程里删掉[doge]",
+      "sourceRef": "comment:680828a4000000001f00b91b",
+      "commentId": "680828a4000000001f00b91b",
+      "likes": 1,
+      "author": "Samuel Y. G"
+    },
+    {
+      "type": "comment",
+      "text": "感觉 network cs的还是应该学一下[笑哭R]",
+      "sourceRef": "comment:680823da000000000401a4a1",
+      "commentId": "680823da000000000401a4a1",
+      "likes": 1,
+      "author": "小白兔(好好睡觉版)"
+    },
+    {
+      "type": "comment",
+      "text": "我就打算这个暑假上[笑哭R]",
+      "sourceRef": "comment:680826ff0000000012011fb7",
+      "commentId": "680826ff0000000012011fb7",
+      "likes": 0,
+      "author": "711"
+    }
+  ]
+}

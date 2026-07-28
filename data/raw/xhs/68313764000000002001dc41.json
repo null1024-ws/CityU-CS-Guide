@@ -1,0 +1,370 @@
+{
+  "note_id": "68313764000000002001dc41",
+  "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+  "fetched_at": 1785210130.2197685,
+  "note": {
+    "xsecToken": "ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+    "noteId": "68313764000000002001dc41",
+    "type": "normal",
+    "title": "CityU CS5182 CS5188 课程经验分享",
+    "desc": "[棒R]先写一下semB的两门课吧\nCS5182 : Computer Graphics\nCS5188 : Virtual Reality Technologies and Applications\n一门是图形学课程，一门是VR技术和开发相关课程。\n为什么放在一起分享经验，是因为我觉得这两门课程涉及的内容其实很多部分有重叠，所以选课的时候建议一起选。[亲一个R]复习的时候可以互为补充（考试内容会有相似）\n\t\nCS5182：CG，作业整体不算多，一个project+一次期中+一次期末，平时没有别的作业了。老师比较佛，上课内容偏向理论多一点。期中和老师ppt中给出的习题重叠度很高，强烈建议去做！期末会有复习ppt，矩阵相关的计算题一定要会做（占比不小），其他理论记一记，就没啥问题。project（1-3人）我们组是期末周前临时赶工的，大家最好提前准备...[哭惹R]我个人建议是不要做从头到尾自己训练的，可以尝试做微调相关的，这样实验起来快很多。project对电脑型号有要求，自己没有显卡的话就要租用云平台的算力。\n\t\nCS5188: VR，作业设置和CG一样，一个project（1-3人）+一次期中+一次期末，tutorial会有当场习题+讲解（但是不算分）。上课内容偏理论，project基本要自己现学一下UE5，可以做一些简单的小项目，但还是有一定的工程量，建议提早做。考试就是围绕PPT，细枝末节都有可能考，期中甚至考了一个跟耳朵相关的知识点和tutorial上的一个例子，时间充裕的情况下最好多看看PPT，了解知识原理，题目还是比较灵活的，但没有超出ppt范围，也是需要认真复习PPT！\n\t\n这两门课没有公布具体的项目分数和考试成绩，[笑哭R]我的最终等级都是A，其中CG两人组队，VR一人组队，总体感觉课程偏理论知识，熟悉PPT的情况下，考试基本能过。项目的话有难度，不了解给分情况。[赞R]",
+    "interactInfo": {
+      "collectedCount": "43",
+      "shareCount": "4",
+      "followed": false,
+      "liked": false,
+      "likedCount": "38",
+      "collected": false,
+      "commentCount": "12",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "tagList": [],
+    "atUserList": [],
+    "lastUpdateTime": 1748056084000,
+    "user": {
+      "nickname": "风压新枝",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhqer5eli105n8u5dkknvptbbbuv1o",
+      "xsecToken": "AB8TuqJN5ECy3asYIyHrjmSFgJdNyulDmSBR-E6-p3IQo=",
+      "userId": "5d1e2b69000000001203ff3d"
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281142/6795a725aed18522fcf520952903d2a7/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281142/4e4058687bf35298cb724949cfcf5fda/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "1040g00831hro50i93s005n8u5dkknvptfbgsgs8",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281142/6795a725aed18522fcf520952903d2a7/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281142/4e4058687bf35298cb724949cfcf5fda/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1600,
+        "width": 1200,
+        "url": ""
+      }
+    ],
+    "time": 1748055908000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "ipLocation": "中国香港",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5d1e2b69000000001203ff3d",
+            "nickname": "风压新枝",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhqer5eli105n8u5dkknvptbbbuv1o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AByKAxm4IK1JvC1fpcDQjEn5075TRiKc1d5GDtIOEDcXw="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "696dfc75000000000b034662",
+            "userInfo": {
+              "userId": "65e06365000000000500ecd0",
+              "nickname": "Aurora",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABkbiTPkjqIfMN05jR_bI5lGk7rYcdRuhz67GWLN6RHLE="
+            }
+          },
+          "noteId": "68313764000000002001dc41",
+          "status": 0,
+          "content": "可以",
+          "likeCount": "0",
+          "createTime": 1768835458000,
+          "ipLocation": "上海",
+          "invalid": false,
+          "id": "696e4982000000000f026fcd",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "noteId": "68313764000000002001dc41",
+      "invalid": false,
+      "showTags": [],
+      "subCommentCursor": "696e4982000000000f026fcd",
+      "subCommentHasMore": true,
+      "id": "696dfc75000000000b034662",
+      "content": "请问学姐这两门课都可以一个人做project吗？不是很想组队了[失望R]",
+      "likeCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkbiTPkjqIfMN05jR_bI5lGk7rYcdRuhz67GWLN6RHLE=",
+        "userId": "65e06365000000000500ecd0",
+        "nickname": "Aurora"
+      },
+      "createTime": 1768815734000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "68313764000000002001dc41",
+      "content": "hello学姐，5188vr是闭卷还是开卷呀",
+      "likeCount": "0",
+      "createTime": 1766380472000,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABqILMuuLqyjYMlfT4drvB_OdKCOBCg9TzN0gzbOI1RmY=",
+        "userId": "6076534f000000000100235b",
+        "nickname": "巴巴拉拉能量",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ktrf5buio6g5o3mad7g88qrpjrvasg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABI8IyGC3GB0C7ce13oPHahBRX8uRjzzwfkjo06vrXd9c=",
+            "userId": "5a96ccf54eacab3a7d85dddc",
+            "nickname": "哈哈花花",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lq4t6gilu704a2v9b6fbnesefujmb0?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "invalid": false,
+          "id": "6964a87f0000000009037313",
+          "content": "闭卷",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1768204416000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6948d3b70000000039008a64",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ktrf5buio6g5o3mad7g88qrpjrvasg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABqILMuuLqyjYMlfT4drvB_OdKCOBCg9TzN0gzbOI1RmY=",
+              "userId": "6076534f000000000100235b",
+              "nickname": "巴巴拉拉能量"
+            }
+          },
+          "noteId": "68313764000000002001dc41",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6948d3b70000000039008a64",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentCursor": "6964a87f0000000009037313",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "广东",
+      "noteId": "68313764000000002001dc41",
+      "content": "想问问5188期末有tutorial的内容吗[哭惹R]，好多要背的，已死[哭惹R][哭惹R]",
+      "likeCount": "0",
+      "createTime": 1777716595000,
+      "invalid": false,
+      "id": "69f5cd730000000028033656",
+      "status": 0,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABxzjPNMlzii5_56Z6cCXzlpaGbAJ68PMm_d_Xiba4Y4Q=",
+        "userId": "5f97abde0000000001005d71",
+        "nickname": "蛋挞幼稚鬼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ptdntgs4m5g5nsnlff08nbhl1u0c68?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6831b01b000000000b01670d",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1748086811000,
+      "invalid": false,
+      "subCommentCursor": "",
+      "noteId": "68313764000000002001dc41",
+      "status": 0,
+      "content": "好牛",
+      "showTags": [],
+      "ipLocation": "湖北",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "64eb15f6000000000100cac4",
+        "nickname": "弗朗西斯科",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fidv8ahgc005p7b2nr09im4ob5j7ko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHFoXDJ4NGet9hkZbyCQ9StPVdmo7-qp3o7auqkGyID4="
+      },
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "invalid": false,
+      "id": "68317704000000001c0302f7",
+      "content": "佬[哭惹R]",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "68313764000000002001dc41",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB09l80gebl2Vnepn8Usu4p6xAiAKdSuQZFhOdAp53Wj0=",
+        "userId": "5dc6da37000000000100b5b3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1748072197000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69c483930000000014009b06",
+      "status": -2,
+      "showTags": [],
+      "createTime": 1774486420000,
+      "subCommentCount": "2",
+      "noteId": "68313764000000002001dc41",
+      "subCommentCursor": "69c48866000000000d012152",
+      "invalid": false,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "69c48866000000000d012152",
+          "content": "我当时考完心里也没底，记住啥都写上就好[笑哭R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AByKAxm4IK1JvC1fpcDQjEn5075TRiKc1d5GDtIOEDcXw=",
+            "userId": "5d1e2b69000000001203ff3d",
+            "nickname": "风压新枝",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhqer5eli105n8u5dkknvptbbbuv1o?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1774487654000,
+          "ipLocation": "上海",
+          "noteId": "68313764000000002001dc41",
+          "status": 0,
+          "atUsers": [],
+          "targetComment": {
+            "id": "69c483930000000014009b06",
+            "userInfo": {
+              "userId": "5fef2397000000000101d10f",
+              "nickname": "Aurora",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABI4Sty6ycaM4UFrwJzIOTL-LGg6V4dHBw48QcDG6s3jE="
+            }
+          }
+        }
+      ],
+      "content": "请问学姐5188的期中考内容基本都是要背的嘛，还是说要灵活应用？如果想像您一样拿A的话，大概要拿到多少的分数会好一点？[皱眉R][皱眉R]",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABI4Sty6ycaM4UFrwJzIOTL-LGg6V4dHBw48QcDG6s3jE=",
+        "userId": "5fef2397000000000101d10f",
+        "nickname": "Aurora",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321nd927e7e6g5nvf4ebgbk8fp994auo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6538 体验",
+  "search_item": {
+    "id": "68313764000000002001dc41",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-24"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityU CS5182 CS5188 课程经验分享",
+      "user": {
+        "userId": "5d1e2b69000000001203ff3d",
+        "nickname": "风压新枝",
+        "xsecToken": "AB9pS9xANqVXkOD-_f9WmQl5-Doh6efVA1sYbTWIFTZWY=",
+        "nickName": "风压新枝",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhqer5eli105n8u5dkknvptbbbuv1o?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "commentCount": "12",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "38",
+        "collected": false,
+        "collectedCount": "43"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281141/9a439d16b284ed4652399365be037487/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281141/53949ab119fcd3425b0d96fa3d4f8bc8/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281141/9a439d16b284ed4652399365be037487/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281141/53949ab119fcd3425b0d96fa3d4f8bc8/1040g00831hro50i93s005n8u5dkknvptfbgsgs8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600
+        }
+      ]
+    },
+    "xsecToken": "ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+    "index": 8,
+    "exposed": true,
+    "trackId": "68313764000000002001dc41"
+  }
+}

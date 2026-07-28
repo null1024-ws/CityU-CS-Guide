@@ -1,0 +1,154 @@
+{
+  "note_id": "69b488e10000000021010bb3",
+  "url": "https://www.xiaohongshu.com/explore/69b488e10000000021010bb3?xsec_token=ABpotibgdX_CjDka3anepOTeYi6NgJyX1mM0rkxCEkNT8=",
+  "fetched_at": 1785215668.1865342,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "为什么搞ai安全的组这么多！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "如题，感觉搜几个搞ai的组大概率会有一个是ai security，给我发phd面试和offer的老师也都是做这个的（我之前做了一些llm post training，感觉也没有很relevant）。\n\t\n这个方向是很有趣？很好出成果？很受工业界追捧？很容易中稿？非常有前景？为何这么多人都在搞",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "安全永不失业  机器学习安全，深度学习安全，LLM安全，Agent安全，啥火啥不安全，都得研究一下",
+      "sourceRef": "comment:69b4b9d50000000002035dfa",
+      "commentId": "69b4b9d50000000002035dfa",
+      "likes": 252,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "事实上 95% 的公司毫不在乎，活下去都是问题的时候谁会真给你搞安全，也就嘴上说说得了",
+      "sourceRef": "comment:69b4e9520000000002036fe2",
+      "commentId": "69b4e9520000000002036fe2",
+      "likes": 249,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "好发文章[doge]",
+      "sourceRef": "comment:69b4caf5000000000f026bd5",
+      "commentId": "69b4caf5000000000f026bd5",
+      "likes": 1,
+      "author": "对自己好点😛"
+    },
+    {
+      "type": "sub_comment",
+      "text": "问题是安全4大会一点不好发[doge]",
+      "sourceRef": "comment:69b4f410000000000202804a",
+      "commentId": "69b4f410000000000202804a",
+      "likes": 10,
+      "author": "CanUC"
+    },
+    {
+      "type": "comment",
+      "text": "因为training也做不了[doge]",
+      "sourceRef": "comment:69b4aa82000000000d03fd20",
+      "commentId": "69b4aa82000000000d03fd20",
+      "likes": 119,
+      "author": "微调"
+    },
+    {
+      "type": "sub_comment",
+      "text": "什么意思呀",
+      "sourceRef": "comment:69b4da2c0000000015013c46",
+      "commentId": "69b4da2c0000000015013c46",
+      "likes": 1,
+      "author": "Serendipity"
+    },
+    {
+      "type": "comment",
+      "text": "做这个完全找不到工作。网安是原罪",
+      "sourceRef": "comment:69b4c6e80000000015002cc7",
+      "commentId": "69b4c6e80000000015002cc7",
+      "likes": 87,
+      "author": "毛毛"
+    },
+    {
+      "type": "sub_comment",
+      "text": "对口的确实难找，但也不是没有，而且包相对偏低[捂脸R]我们lab今年全往业务算法和大模型算法找的，包都开的挺高",
+      "sourceRef": "comment:69b4c865000000000d03620d",
+      "commentId": "69b4c865000000000d03620d",
+      "likes": 18,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "做不了训练，做不了微调，还能做什么[doge]",
+      "sourceRef": "comment:69b4c7a7000000000d03d25c",
+      "commentId": "69b4c7a7000000000d03d25c",
+      "likes": 15,
+      "author": "喵呜"
+    },
+    {
+      "type": "sub_comment",
+      "text": "什么意思呀",
+      "sourceRef": "comment:69b4da4700000000140300c8",
+      "commentId": "69b4da4700000000140300c8",
+      "likes": 0,
+      "author": "Serendipity"
+    },
+    {
+      "type": "comment",
+      "text": "别，ai安全这东西，出去找工作，做ai算法的那帮人看不上，做传统安全的人又觉得你这传统的攻击防御都不清楚，两边都不讨好。去学术界的话当然还可以。",
+      "sourceRef": "comment:69b59ac5000000000202a001",
+      "commentId": "69b59ac5000000000202a001",
+      "likes": 15,
+      "author": "saul"
+    },
+    {
+      "type": "comment",
+      "text": "确实，CCF A发ai领域的，很容易",
+      "sourceRef": "comment:69b7762e000000000d03e496",
+      "commentId": "69b7762e000000000d03e496",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "sub_comment",
+      "text": "真的吗 [哭惹R]",
+      "sourceRef": "comment:6a0c53f30000000028034aad",
+      "commentId": "6a0c53f30000000028034aad",
+      "likes": 0,
+      "author": "FY"
+    },
+    {
+      "type": "comment",
+      "text": "确实好发论文[笑哭R]",
+      "sourceRef": "comment:69c1633e0000000015000c53",
+      "commentId": "69c1633e0000000015000c53",
+      "likes": 1,
+      "author": "reve"
+    },
+    {
+      "type": "comment",
+      "text": "ai确实很需要注意安全，重要又不是高资本投入的领域，又和ai相关。",
+      "sourceRef": "comment:6a61c05c000000000802d37d",
+      "commentId": "6a61c05c000000000802d37d",
+      "likes": 0,
+      "author": "云隐山语"
+    },
+    {
+      "type": "comment",
+      "text": "[偷笑R][偷笑R]因为更好发论文，且不吃算力资源。",
+      "sourceRef": "comment:69b60d6b000000001d00eaf3",
+      "commentId": "69b60d6b000000001d00eaf3",
+      "likes": 7,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "怎么发，感觉好难啊，ai安全这个方向",
+      "sourceRef": "comment:69b66cd800000000010061a0",
+      "commentId": "69b66cd800000000010061a0",
+      "likes": 1,
+      "author": "dT-Tb"
+    }
+  ]
+}

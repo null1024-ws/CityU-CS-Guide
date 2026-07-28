@@ -1,0 +1,82 @@
+{
+  "note_id": "684ec022000000000303928e",
+  "url": "https://www.xiaohongshu.com/explore/684ec022000000000303928e?xsec_token=ABdtFLZZKuT9L-QZaB4OJl3s_POWwfArYWaMr8es9-aRU=",
+  "fetched_at": 1785215755.1081145,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "分享CVPR2025两个获奖工作",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🔥很高兴分享我们组在CVPR2025的两个获奖工作：\n1️⃣ 我们提出的Langcoop基于语言的协同驾驶框架获得了Multi-Agent Embodied Intelligent Systems workshop的Best Paper Award🏆！恭喜我们组博士Xiangbo第一年就获此殊荣\n2️⃣ 我们的超分辨率模型 TACO-SR获得了快手举办的NTIRE 2025 Workshop on Short Form UGC Video Quality Asessment and Enchancement的🥇winner award！专家主观测评上得到了第一名！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这个任务好新啊，是不是纯刷点的工作不太容易被接收",
+      "sourceRef": "comment:6850e5b0000000000900f85f",
+      "commentId": "6850e5b0000000000900f85f",
+      "likes": 2,
+      "author": "小奇兵幻世"
+    },
+    {
+      "type": "sub_comment",
+      "text": "纯刷点的工作意义不大，特别是刷好几年前的任务。就是要提出新的有用的任务，然后在新的任务上刷点",
+      "sourceRef": "comment:685389d80000000004018e4c",
+      "commentId": "685389d80000000004018e4c",
+      "likes": 1,
+      "author": "GXB"
+    },
+    {
+      "type": "comment",
+      "text": "T老师好帅[doge]",
+      "sourceRef": "comment:68513c57000000000401a206",
+      "commentId": "68513c57000000000401a206",
+      "likes": 2,
+      "author": "LML"
+    },
+    {
+      "type": "comment",
+      "text": "xhs终于推了点有用的  活捉t老师",
+      "sourceRef": "comment:684f79bf0000000020020015",
+      "commentId": "684f79bf0000000020020015",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "太有实力了[doge][doge][doge]",
+      "sourceRef": "comment:684ef96f0000000020020df2",
+      "commentId": "684ef96f0000000020020df2",
+      "likes": 1,
+      "author": "雪里看山"
+    },
+    {
+      "type": "comment",
+      "text": "可以带我打比赛嘛",
+      "sourceRef": "comment:69bed2d3000000000f00ed4f",
+      "commentId": "69bed2d3000000000f00ed4f",
+      "likes": 0,
+      "author": "up女主"
+    },
+    {
+      "type": "comment",
+      "text": "TQL TZZ老师",
+      "sourceRef": "comment:684f4829000000000400d295",
+      "commentId": "684f4829000000000400d295",
+      "likes": 0,
+      "author": "Aaaaaron"
+    },
+    {
+      "type": "comment",
+      "text": "@[点赞R][点赞R][点赞R]",
+      "sourceRef": "comment:68d872d7000000001a00bbc8",
+      "commentId": "68d872d7000000001a00bbc8",
+      "likes": 0,
+      "author": "冰清玉洁"
+    }
+  ]
+}

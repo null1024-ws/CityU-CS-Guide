@@ -1,0 +1,41 @@
+{
+  "note_id": "5ec28ab2-2b5d-4008-9262-1718ce013985",
+  "url": "https://www.xiaohongshu.com/explore/5ec28ab2-2b5d-4008-9262-1718ce013985?xsec_token=AB12EGOnNeqBWzsaFqauCZrjjiVweUG9kc5Mt9TmQGIGPbTgTgXPfolCIEAfw8keTKEiGDHob27Z4vwQSNkiDmUTnaBzUjZSzkNPiMF-kXUX0=",
+  "fetched_at": 1785216076.353298,
+  "search_query": "CS5288 体验",
+  "search_item": {
+    "id": "5ec28ab2-2b5d-4008-9262-1718ce013985#1785216074497",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "5ec28ab2-2b5d-4008-9262-1718ce013985#1785216074497",
+      "queries": [
+        {
+          "id": "玩真人cs视频",
+          "name": "玩真人cs视频",
+          "searchWord": "玩真人cs视频"
+        },
+        {
+          "id": "真人cs场地推荐",
+          "name": "真人cs场地推荐",
+          "searchWord": "真人cs场地推荐"
+        },
+        {
+          "id": "真人cs枪战体验馆",
+          "name": "真人cs枪战体验馆",
+          "searchWord": "真人cs枪战体验馆"
+        },
+        {
+          "id": "真人cs攻略技巧",
+          "name": "真人cs攻略技巧",
+          "searchWord": "真人cs攻略技巧"
+        }
+      ]
+    },
+    "xsecToken": "AB12EGOnNeqBWzsaFqauCZrjjiVweUG9kc5Mt9TmQGIGPbTgTgXPfolCIEAfw8keTKEiGDHob27Z4vwQSNkiDmUTnaBzUjZSzkNPiMF-kXUX0=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "5ec28ab2-2b5d-4008-9262-1718ce013985#1785216074497"
+  }
+}

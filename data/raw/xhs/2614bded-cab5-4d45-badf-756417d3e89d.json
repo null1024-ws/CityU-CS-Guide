@@ -1,0 +1,43 @@
+{
+  "note_id": "2614bded-cab5-4d45-badf-756417d3e89d",
+  "url": "https://www.xiaohongshu.com/explore/2614bded-cab5-4d45-badf-756417d3e89d?xsec_token=ABt5vfphMxm_Hksi3jc146B9mqw6Vgx4BC308WV-akibv6MobLPatSRoru9pnUagWZt-txuqZvu-kT-f2_l5Iw3t9L388KouCJrKcLl3SvDSQ=",
+  "fetched_at": 1785215558.2789369,
+  "note": {},
+  "comments": [],
+  "search_query": "城大 CS5486 AI",
+  "search_item": {
+    "xsecToken": "ABt5vfphMxm_Hksi3jc146B9mqw6Vgx4BC308WV-akibv6MobLPatSRoru9pnUagWZt-txuqZvu-kT-f2_l5Iw3t9L388KouCJrKcLl3SvDSQ=",
+    "id": "2614bded-cab5-4d45-badf-756417d3e89d#1785215541027",
+    "modelType": "rec_query",
+    "recQuery": {
+      "source": 1,
+      "wordRequestId": "2614bded-cab5-4d45-badf-756417d3e89d#1785215541027",
+      "queries": [
+        {
+          "id": "cityu人工智能驱动创新",
+          "name": "cityu人工智能驱动创新",
+          "searchWord": "cityu人工智能驱动创新"
+        },
+        {
+          "id": "香港城市大学ai专业",
+          "name": "香港城市大学ai专业",
+          "searchWord": "香港城市大学ai专业"
+        },
+        {
+          "id": "城大计算机",
+          "name": "城大计算机",
+          "searchWord": "城大计算机"
+        },
+        {
+          "id": "城大人工智能",
+          "name": "城大人工智能",
+          "searchWord": "城大人工智能"
+        }
+      ],
+      "title": "相关搜索"
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "2614bded-cab5-4d45-badf-756417d3e89d#1785215541027"
+  }
+}

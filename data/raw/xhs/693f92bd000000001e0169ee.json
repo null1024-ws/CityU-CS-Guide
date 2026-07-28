@@ -1,0 +1,556 @@
+{
+  "note_id": "693f92bd000000001e0169ee",
+  "url": "https://www.xiaohongshu.com/explore/693f92bd000000001e0169ee?xsec_token=ABMhOzAP_XKr3Rlt3h0mM7xln9klKN_H8UBzARTYuxjKM=",
+  "fetched_at": 1785208730.1064801,
+  "note": {
+    "xsecToken": "ABMhOzAP_XKr3Rlt3h0mM7xln9klKN_H8UBzARTYuxjKM=",
+    "lastUpdateTime": 1765863406000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "693f92bd000000001e0169ee",
+    "type": "normal",
+    "user": {
+      "userId": "63aa8f42000000002801b817",
+      "nickname": "wallpaper engine",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg",
+      "xsecToken": "ABOLhLYibzrmPlF0jSScLGxmmpXb27v_lFscXWkvjdfS0="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "16",
+      "collected": false,
+      "collectedCount": "10",
+      "commentCount": "29",
+      "shareCount": "10",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281119/1085152e24756c296a40e920dd17c850/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nd_dft_wlteh_webp_3",
+        "stream": {},
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281119/fd8c39713c3109d44a15f527efdbb38b/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nd_prv_wlteh_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281119/1085152e24756c296a40e920dd17c850/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nd_dft_wlteh_webp_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281119/fd8c39713c3109d44a15f527efdbb38b/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nd_prv_wlteh_webp_3",
+        "livePhoto": false,
+        "fileId": "1040g00831q3osfmv72kg5otaht1a3e0na91a3ug",
+        "height": 1600,
+        "width": 1200
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5e54a1f2000000000100183d",
+        "name": "留学选校"
+      },
+      {
+        "name": "留学申请季",
+        "type": "topic",
+        "id": "5d78cfb7000000000101cad9"
+      },
+      {
+        "id": "5940fb8acd30d826ede3c9ce",
+        "name": "留学申请指南",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1765774013000,
+    "title": "msc港城cs和港大cs哪个项目事更少？",
+    "desc": "如题\n\t\n一编：今天收到了港科的ee，但是看小红书上说workload比较大，不是很倾向去#留学选校[话题]# #留学申请季[话题]# #留学申请指南[话题]#"
+  },
+  "comments": [
+    {
+      "createTime": 1765850050000,
+      "subCommentHasMore": true,
+      "noteId": "693f92bd000000001e0169ee",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "3",
+      "invalid": false,
+      "content": "留位费看看能不能延期吧，港大title 好，而且港岛氛围感觉也比较好。",
+      "liked": false,
+      "subCommentCursor": "6940ccd6000000000601b142",
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6940ccd6000000000601b142",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765854423000,
+          "targetComment": {
+            "id": "6940bbc1000000001502e305",
+            "userInfo": {
+              "userId": "63774e2a000000001f017962",
+              "nickname": "Alice",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313gat3tk7q0g5orn9ol7qub2aq6mts0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABs3g_FnJMAoZYIEscyh58MlxjQF-dA2PhteK-FC6fudg="
+            }
+          },
+          "noteId": "693f92bd000000001e0169ee",
+          "content": "老师是说港城的留位费延期吗？",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzrfWWB4APS-AOJTdGTTNmC3sx2h5hpK9s95PhM5eT9o=",
+            "userId": "63aa8f42000000002801b817",
+            "nickname": "wallpaper engine"
+          },
+          "ipLocation": "山东"
+        }
+      ],
+      "id": "6940bbc1000000001502e305",
+      "status": 0,
+      "userInfo": {
+        "userId": "63774e2a000000001f017962",
+        "nickname": "Alice",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313gat3tk7q0g5orn9ol7qub2aq6mts0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABs3g_FnJMAoZYIEscyh58MlxjQF-dA2PhteK-FC6fudg="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "693f92bd000000001e0169ee",
+      "userInfo": {
+        "nickname": "Albedo0127g",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310esljl1ma0048i2essigo9m880lapo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABR350nMOvUcpDJ_Ew1NT-V_BR3FOjCrVlXgd-gCFjHvo=",
+        "userId": "578b392882ec394ae81d6136"
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "content": "收到[赞R]",
+          "createTime": 1765937154000,
+          "invalid": false,
+          "id": "69421002000000001403d551",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "wallpaper engine",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzrfWWB4APS-AOJTdGTTNmC3sx2h5hpK9s95PhM5eT9o=",
+            "userId": "63aa8f42000000002801b817"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "山东",
+          "targetComment": {
+            "userInfo": {
+              "userId": "578b392882ec394ae81d6136",
+              "nickname": "Albedo0127g",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310esljl1ma0048i2essigo9m880lapo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABR350nMOvUcpDJ_Ew1NT-V_BR3FOjCrVlXgd-gCFjHvo="
+            },
+            "id": "69420a36000000001d02403c"
+          },
+          "noteId": "693f92bd000000001e0169ee",
+          "status": 0
+        }
+      ],
+      "subCommentCursor": "69421002000000001403d551",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "id": "69420a36000000001d02403c",
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "content": "cityu cs在读 本科同学有hku和ust的。还是建议保留港三title，不过港科确实压力比较大 也很偏。除非图cityu便宜可以考虑，事确实非常少，我每节课都最多去两次，期末也没有压力很大",
+      "likeCount": "2",
+      "createTime": 1765935671000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "6940cb130000000039000227",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1765853971000,
+      "ipLocation": "四川",
+      "noteId": "693f92bd000000001e0169ee",
+      "content": "虽然计算机确定更看能力但是要放弃港三的title确实也是一种勇气[笑哭R]",
+      "subCommentCursor": "6940cca90000000014036e5e",
+      "liked": false,
+      "atUsers": [],
+      "likeCount": "2",
+      "userInfo": {
+        "xsecToken": "ABJxGoTdWLlNBO_bxymnxPc-xl1eH-nLiOXq8OYLmlPik=",
+        "userId": "62bbb7d8000000001b02bd52",
+        "nickname": "吉家家世界",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pp9cqqh4k5g5olrmvc6tfain6cihqo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "现在就是放不下港大的title[完啦R]",
+          "ipLocation": "山东",
+          "targetComment": {
+            "id": "6940cb130000000039000227",
+            "userInfo": {
+              "userId": "62bbb7d8000000001b02bd52",
+              "nickname": "吉家家世界",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pp9cqqh4k5g5olrmvc6tfain6cihqo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABJxGoTdWLlNBO_bxymnxPc-xl1eH-nLiOXq8OYLmlPik="
+            }
+          },
+          "invalid": false,
+          "noteId": "693f92bd000000001e0169ee",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "63aa8f42000000002801b817",
+            "nickname": "wallpaper engine",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzrfWWB4APS-AOJTdGTTNmC3sx2h5hpK9s95PhM5eT9o="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765854377000,
+          "id": "6940cca90000000014036e5e"
+        }
+      ],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "693f92bd000000001e0169ee",
+      "subCommentCount": "1",
+      "id": "693ff1df00000000390077c4",
+      "content": "佬什么时候笔面的 11.16吗",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hvsnsa5lu005n8nc964c85boeh3088?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABy3-7kyMMMl8vEGXttQ78fYi0Jog6jIKI4IL32p7udkY=",
+        "userId": "5d17624c00000000110220ab",
+        "nickname": "麦当劳全依赖"
+      },
+      "createTime": 1765798367000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765806084000,
+          "ipLocation": "山东",
+          "targetComment": {
+            "id": "693ff1df00000000390077c4",
+            "userInfo": {
+              "nickname": "麦当劳全依赖",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hvsnsa5lu005n8nc964c85boeh3088?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABy3-7kyMMMl8vEGXttQ78fYi0Jog6jIKI4IL32p7udkY=",
+              "userId": "5d17624c00000000110220ab"
+            }
+          },
+          "id": "69401003000000001502ecc5",
+          "noteId": "693f92bd000000001e0169ee",
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false,
+          "status": 0,
+          "content": "是的[赞R]",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "wallpaper engine",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzrfWWB4APS-AOJTdGTTNmC3sx2h5hpK9s95PhM5eT9o=",
+            "userId": "63aa8f42000000002801b817"
+          }
+        }
+      ],
+      "subCommentCursor": "69401003000000001502ecc5",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "肯定港大 真的",
+      "subCommentCursor": "6940e34d000000001d01e56b",
+      "id": "6940e342000000001601d002",
+      "noteId": "693f92bd000000001e0169ee",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABGomH3gbKlDkVfDujlLoWwj2-8KqHMacTZVQYc0pMz5g=",
+        "userId": "616928e1000000000201e0ec",
+        "nickname": "小红薯61698F33",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ljls831l86g5ob953ggjo7c7hkb8do?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6940e34d000000001d01e56b",
+          "noteId": "693f92bd000000001e0169ee",
+          "userInfo": {
+            "userId": "616928e1000000000201e0ec",
+            "nickname": "小红薯61698F33",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ljls831l86g5ob953ggjo7c7hkb8do?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABGomH3gbKlDkVfDujlLoWwj2-8KqHMacTZVQYc0pMz5g="
+          },
+          "targetComment": {
+            "id": "6940e342000000001601d002",
+            "userInfo": {
+              "userId": "616928e1000000000201e0ec",
+              "nickname": "小红薯61698F33",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ljls831l86g5ob953ggjo7c7hkb8do?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGomH3gbKlDkVfDujlLoWwj2-8KqHMacTZVQYc0pMz5g="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "保值",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1765860174000,
+          "ipLocation": "广东"
+        }
+      ],
+      "likeCount": "1",
+      "createTime": 1765860163000,
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "createTime": 1765810426000,
+      "ipLocation": "山西",
+      "id": "694020f9000000003800754e",
+      "content": "港大事多",
+      "atUsers": [],
+      "noteId": "693f92bd000000001e0169ee",
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "userId": "6446a9b5000000001f030da0",
+        "nickname": "MM",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nbim9e66q6g5p26l6qnu3d0cg5ui38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABm1ZFqZVSgBhZbahA-HuOgdg_kTYV9zAit6NKP1LWYi8="
+      },
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "status": 0,
+      "likeCount": "2",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "createTime": 1766729686000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "694e27d6000000001502dcd5",
+      "noteId": "693f92bd000000001e0169ee",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "AB4U4_l2Ik70DHDm1tyYfJi0MGZgSdS79kAk08BcCH9tE=",
+        "userId": "5c974ece000000001103dc6b",
+        "nickname": "Henry30308",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31300msod6a005n4n9r74fn3bs253158?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "content": "港城事儿少",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "69411f52000000001403f4fe",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "createTime": 1765875539000,
+      "noteId": "693f92bd000000001e0169ee",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "content": "你问事谁更少，肯定港城cs更少。",
+      "userInfo": {
+        "userId": "6457d11a000000000f006b03",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n65i48bkq005p2nq4d3oqo33ri76co?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPtKq0aiIJcXc9FKBT5XUkvpEog1T3j5Wf7lAKWbAzHg="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1765857118000,
+      "subComments": [],
+      "content": "反正hku事不少 还有强制上课的workshop",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6940d75d0000000016027ed2",
+      "noteId": "693f92bd000000001e0169ee",
+      "liked": false,
+      "userInfo": {
+        "userId": "5fdea0730000000001002fbf",
+        "nickname": "抱着月亮等星星",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ngec6fglm005nuuk1pg8btv2cfvjjo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbQVM6Lh9zhLDGeBwF8j59hU8Eo-n2fZeWWYfQNLKRzc="
+      },
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "createTime": 1765845096000,
+      "subCommentHasMore": false,
+      "noteId": "693f92bd000000001e0169ee",
+      "userInfo": {
+        "xsecToken": "ABAojPN-6fSGRsIkEMIPUM6qD6JOCFhfcIkedU69KZjhE=",
+        "userId": "62bfc2ea000000001b026468",
+        "nickname": "赶紧跑路",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t4oroqpls005olvobl6sp386ot98c0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6940a867000000001600d035",
+      "status": 0,
+      "content": "cityu",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "安徽",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6520 城大 CS 项目",
+  "search_item": {
+    "id": "693f92bd000000001e0169ee",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "collectedCount": "10",
+        "commentCount": "29",
+        "sharedCount": "10",
+        "liked": false,
+        "likedCount": "16",
+        "collected": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281118/eb331e0cd161eb4724d6141bccba0743/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281118/4bfce67fa8626028df8dcb7fdad8d5dc/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281118/eb331e0cd161eb4724d6141bccba0743/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281118/4bfce67fa8626028df8dcb7fdad8d5dc/1040g00831q3osfmv72kg5otaht1a3e0na91a3ug!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-16"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "msc港城cs和港大cs哪个项目事更少？",
+      "user": {
+        "nickname": "wallpaper engine",
+        "xsecToken": "ABK4_9WjZLpTcgbfmVyZ-s43i05t7O5GWfoPDHNAQ7HQo=",
+        "nickName": "wallpaper engine",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63aa91c4311191f9ac763c17.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "63aa8f42000000002801b817"
+      }
+    },
+    "xsecToken": "ABMhOzAP_XKr3Rlt3h0mM7xln9klKN_H8UBzARTYuxjKM=",
+    "index": 4,
+    "exposed": false,
+    "trackId": "693f92bd000000001e0169ee"
+  }
+}

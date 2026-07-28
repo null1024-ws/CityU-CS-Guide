@@ -48,8 +48,31 @@
         "post_body"
       ],
       "postTitle": "CityU CS 选课血泪史3⃣"
+    },
+    {
+      "noteId": "677664cf0000000014022cce",
+      "url": "https://www.xiaohongshu.com/explore/677664cf0000000014022cce?xsec_token=ABb7kdh6WAbcrGvEllxIbhFxggRx5WZRET_loe-pZnv4Y=",
+      "excerpt": "CS5486 IS和CS5491 AI，这俩是新课吗？翻遍了帖子也没发现有对这两个课的相关评论，有友友了解不",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城CS，SemB选课"
     }
   ],
-  "commentSources": [],
-  "lastUpdated": "2026-07-25"
+  "commentSources": [
+    {
+      "noteId": "677664cf0000000014022cce",
+      "url": "https://www.xiaohongshu.com/explore/677664cf0000000014022cce?xsec_token=ABb7kdh6WAbcrGvEllxIbhFxggRx5WZRET_loe-pZnv4Y=",
+      "excerpt": "cs5486之前就有吗，这个课您有了解不",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "港城CS，SemB选课",
+      "commentId": "67780d8a000000001102f886",
+      "author": "可爱小侯",
+      "likes": 0,
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-28"
 }

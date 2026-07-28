@@ -1,0 +1,43 @@
+{
+  "note_id": "93c4db1a-64fa-4dc9-ba17-b38add0830a5",
+  "url": "https://www.xiaohongshu.com/explore/93c4db1a-64fa-4dc9-ba17-b38add0830a5?xsec_token=ABYX2YweXEYOpLdxT4V8BCDMs2n8cKdMc1E8l7qbXB7l0OUR3vx_RwueJYiBFwYBa38S2UR_yw123J1VISan-m9dEmMWehrM3tLa6PNrrh90s=",
+  "fetched_at": 1785209935.8186972,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6538 CityU",
+  "search_item": {
+    "xsecToken": "ABYX2YweXEYOpLdxT4V8BCDMs2n8cKdMc1E8l7qbXB7l0OUR3vx_RwueJYiBFwYBa38S2UR_yw123J1VISan-m9dEmMWehrM3tLa6PNrrh90s=",
+    "id": "93c4db1a-64fa-4dc9-ba17-b38add0830a5#1785209934007",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "93c4db1a-64fa-4dc9-ba17-b38add0830a5#1785209934007",
+      "queries": [
+        {
+          "id": "cityu cs课表",
+          "name": "cityu cs课表",
+          "searchWord": "cityu cs课表"
+        },
+        {
+          "name": "cityuass选课",
+          "searchWord": "cityuass选课",
+          "id": "cityuass选课"
+        },
+        {
+          "id": "cityu奖学金申请",
+          "name": "cityu奖学金申请",
+          "searchWord": "cityu奖学金申请"
+        },
+        {
+          "id": "香港cityu大学",
+          "name": "香港cityu大学",
+          "searchWord": "香港cityu大学"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "93c4db1a-64fa-4dc9-ba17-b38add0830a5#1785209934007"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "note_id": "25c6f214-ea97-4a8e-b4ff-36e94638e150",
+  "url": "https://www.xiaohongshu.com/explore/25c6f214-ea97-4a8e-b4ff-36e94638e150?xsec_token=ABdjv0dZ263vsqerqd0eAOjaGMjfJ-auClqo9mjpr_hFcnOaxDA4oW-xTnMzoSEHW5ROSXLxOTJid3Hx3T8dL5vaU_BqWKq3XeMwrRzY9zvjM=",
+  "fetched_at": 1785214956.718641,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5486 城大CS",
+  "search_item": {
+    "id": "25c6f214-ea97-4a8e-b4ff-36e94638e150#1785214954633",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "25c6f214-ea97-4a8e-b4ff-36e94638e150#1785214954633",
+      "queries": [
+        {
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程",
+          "id": "香港城市大学cs课程"
+        },
+        {
+          "id": "cityu cs课表",
+          "name": "cityu cs课表",
+          "searchWord": "cityu cs课表"
+        },
+        {
+          "id": "城大计算机",
+          "name": "城大计算机",
+          "searchWord": "城大计算机"
+        },
+        {
+          "name": "cityu cs学费",
+          "searchWord": "cityu cs学费",
+          "id": "cityu cs学费"
+        }
+      ]
+    },
+    "xsecToken": "ABdjv0dZ263vsqerqd0eAOjaGMjfJ-auClqo9mjpr_hFcnOaxDA4oW-xTnMzoSEHW5ROSXLxOTJid3Hx3T8dL5vaU_BqWKq3XeMwrRzY9zvjM=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "25c6f214-ea97-4a8e-b4ff-36e94638e150#1785214954633"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "note_id": "6937ddcc000000001d03d99d",
+  "url": "https://www.xiaohongshu.com/explore/6937ddcc000000001d03d99d?xsec_token=AB-eFlvF0AzVMs_I5-1NrQ1BD45jt5dzycwsGWW2Bf-6M=",
+  "fetched_at": 1785209953.7866614,
+  "search_query": "CS6538 CityU",
+  "search_item": {
+    "id": "6937ddcc000000001d03d99d",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "1st. 26fall CityU cs offer",
+      "user": {
+        "nickName": "许北辰（29秋招版）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224fjbi1700g5onbl6dnqt55se3em70?imageView2/2/w/80/format/jpg",
+        "userId": "62eba99b000000001f0174a5",
+        "nickname": "许北辰（29秋招版）",
+        "xsecToken": "ABvWZJwSdcOdFvTGS4sPIACHcfjz5gw_h_gACiUlPQUFM="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "26",
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "14"
+      },
+      "cover": {
+        "width": 1179,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281138/41dd50905835462656fe7811503a5e26/1040g2sg31ps7u5093qe05onbl6dnqt555a1uovg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281138/fd69f91c3dd3fee725e33d9217dbe86f/1040g2sg31ps7u5093qe05onbl6dnqt555a1uovg!nc_n_webp_prv_1",
+        "height": 511
+      },
+      "imageList": [
+        {
+          "height": 511,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281138/41dd50905835462656fe7811503a5e26/1040g2sg31ps7u5093qe05onbl6dnqt555a1uovg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281138/fd69f91c3dd3fee725e33d9217dbe86f/1040g2sg31ps7u5093qe05onbl6dnqt555a1uovg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-29"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "AB-eFlvF0AzVMs_I5-1NrQ1BD45jt5dzycwsGWW2Bf-6M=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6937ddcc000000001d03d99d"
+  }
+}

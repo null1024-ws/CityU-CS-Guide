@@ -1,0 +1,165 @@
+{
+  "note_id": "69a19f52000000001d025f9d",
+  "url": "https://www.xiaohongshu.com/explore/69a19f52000000001d025f9d?xsec_token=ABtXu5OTW6rEkD16_RdC_0FVQPpAKUBOraCJo-TJfrQFU=",
+  "fetched_at": 1785215237.4873633,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "27 年毕业博士 3ccfA 能找什么教职\n2✖️DAC 1✖️TCAD\n密码学硬件加速方向#博士[话题]# #科研[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我28年毕业，也是3a，isca asplos tcad，llm推理加速，算子优化，算法系统协同优化，也想听一听建议，工业界学术界都可以",
+      "sourceRef": "comment:69a1bb37000000000c0087e1",
+      "commentId": "69a1bb37000000000c0087e1",
+      "likes": 25,
+      "author": "MathsCode"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你这太硬了，去工业界估计能开一百多个",
+      "sourceRef": "comment:69a1bd350000000009022937",
+      "commentId": "69a1bd350000000009022937",
+      "likes": 18,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "[doge][doge]坏了，同行，这个适合去研究所，然后工业界的话，就往芯片体系架构这方面走吧，大模型ai infra可能都不太能match",
+      "sourceRef": "comment:69a1ae93000000001803aea9",
+      "commentId": "69a1ae93000000001803aea9",
+      "likes": 2,
+      "author": "Winterstorm"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不太 match 主要是密码学太小众了",
+      "sourceRef": "comment:69a1b0ef000000000c00a05b",
+      "commentId": "69a1b0ef000000000c00a05b",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "这成果感觉不是很多？[笑哭R][笑哭R][笑哭R]不太了解这个方向",
+      "sourceRef": "comment:69a1ab62000000000b0342cd",
+      "commentId": "69a1ab62000000000b0342cd",
+      "likes": 2,
+      "author": "123木头人"
+    },
+    {
+      "type": "sub_comment",
+      "text": "放在当下的环境确实不多，所以焦虑🥲",
+      "sourceRef": "comment:69a1b1080000000008033a4a",
+      "commentId": "69a1b1080000000008033a4a",
+      "likes": 2,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "佬为什么不考虑留所呢？",
+      "sourceRef": "comment:69a1bec8000000001500fea2",
+      "commentId": "69a1bec8000000001500fea2",
+      "likes": 0,
+      "author": "koross"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你咋知道我在所里[doge]",
+      "sourceRef": "comment:69a1bf64000000000c0082bb",
+      "commentId": "69a1bf64000000000c0082bb",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "我 TACO TPDS TC 做GPU sharing的，诶，好焦虑啊[笑哭R]",
+      "sourceRef": "comment:6a17c323000000002b002882",
+      "commentId": "6a17c323000000002b002882",
+      "likes": 0,
+      "author": "Jaysss"
+    },
+    {
+      "type": "sub_comment",
+      "text": "期刊这么多，去二本吧，只认期刊[doge]",
+      "sourceRef": "comment:6a17ce54000000002803d939",
+      "commentId": "6a17ce54000000002803d939",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "感觉是不是有一篇四大会更好。",
+      "sourceRef": "comment:69a1ba7d00000000140327e4",
+      "commentId": "69a1ba7d00000000140327e4",
+      "likes": 1,
+      "author": "生成完整可运行代码"
+    },
+    {
+      "type": "sub_comment",
+      "text": "今年努力冲一个四大",
+      "sourceRef": "comment:69a1bb7a00000000090204d3",
+      "commentId": "69a1bb7a00000000090204d3",
+      "likes": 1,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "国芯的方向跟佬挺契合的",
+      "sourceRef": "comment:69b1306a000000000100635e",
+      "commentId": "69b1306a000000000100635e",
+      "likes": 1,
+      "author": "gangz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "国芯？国芯科技吗？",
+      "sourceRef": "comment:69b43118000000001400bb06",
+      "commentId": "69b43118000000001400bb06",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "太强了，PQC硬件加速怎么学呀[哭惹R]，要非常懂算法吗",
+      "sourceRef": "comment:69a5a068000000000600e993",
+      "commentId": "69a5a068000000000600e993",
+      "likes": 0,
+      "author": "Ka11even"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得如果要优化加速电路的话必须要知道是如何计算以及为什么这么计算的，原理证明的话可以不需要特别深的理解",
+      "sourceRef": "comment:69a5b253000000000c00ad45",
+      "commentId": "69a5b253000000000c00ad45",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "山大网安学院（？",
+      "sourceRef": "comment:69a3f849000000001500c043",
+      "commentId": "69a3f849000000001500c043",
+      "likes": 0,
+      "author": "圭立里"
+    },
+    {
+      "type": "sub_comment",
+      "text": "山大估计是看不上咱",
+      "sourceRef": "comment:69a42a550000000008030f10",
+      "commentId": "69a42a550000000008030f10",
+      "likes": 0,
+      "author": "WDDDM"
+    },
+    {
+      "type": "comment",
+      "text": "看博士学历了，清北华五以下基本上最多211讲师/校聘副教授，反正学术都是坐牢局[doge]",
+      "sourceRef": "comment:69a2ae860000000008032b99",
+      "commentId": "69a2ae860000000008032b99",
+      "likes": 1,
+      "author": "muzibo"
+    }
+  ]
+}

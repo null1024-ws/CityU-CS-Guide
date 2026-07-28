@@ -1,0 +1,335 @@
+{
+  "note_id": "6a0c85770000000037036030",
+  "url": "https://www.xiaohongshu.com/explore/6a0c85770000000037036030?xsec_token=ABZj4YAJom_9FdFt1nfhNkRxA_S30aLW8d4D4Yb7mPYwk=",
+  "fetched_at": 1785209007.7446601,
+  "note": {
+    "xsecToken": "ABZj4YAJom_9FdFt1nfhNkRxA_S30aLW8d4D4Yb7mPYwk=",
+    "imageList": [
+      {
+        "stream": {},
+        "height": 703,
+        "width": 1205,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281123/dfe9e7fb4b39b78f61987b61430d2f78/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281123/8f6ad195c062fd078de29a925fad5da6/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281123/dfe9e7fb4b39b78f61987b61430d2f78/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281123/8f6ad195c062fd078de29a925fad5da6/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "lastUpdateTime": 1779205496000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a0c85770000000037036030",
+    "user": {
+      "userId": "667126ec0000000007005124",
+      "nickname": "shine",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sovrr7f5m6g5pjh4rm1ok947j4vaug",
+      "xsecToken": "AB47nig-BHQR455R032NZWrUyI9ZQ0aLduDUOYeFVacKI="
+    },
+    "tagList": [],
+    "atUserList": [],
+    "time": 1779205495000,
+    "type": "normal",
+    "title": "Cityu EE msc Semb课程总结",
+    "desc": "这学期选课四门课，留了一门给Summer Term\n接下来是四门课评分，满分5分\n1.Signal Processing  5-0.5分\n🈚考勤\n本质做题课，适合大陆宝宝体质，有两次作业，两次Matlab实验，两次平时开卷quiz，一共占50%\n期末也开卷\n平时分数很透明，作业实验考试的成绩都会上传到Canvas给你看，心里有底。\n授课内容和本科信号处理基本完全一致，考试难度也类似。虽然如此还是只拿了B，丢人。\n本科有信号处理基础的闭眼选，基本不会出问题\n扣0.5分给信号处理本身，怎么学了两遍也学不会啊。\n\t\n2.计算机视觉 4+1分\n首先说明，这门课的李教授教完我们这届可能不继续教了，换了老师可能课程内容安排有所改变，因此以下仅供参考。\n平时🈚考勤，🈚作业，1个小组项目但是后来pre取消了变成了两次报告，有两次开卷机考quiz，一次答题，一次用ai辅助写一个图像处理的题目，用的来说不太难。50%\n期末开卷，有一道25分的送分题，比较友好，其他题目难度也不大。\n本科有图像处理基础的可以选，没有也还好，我就是0基础拿了B+，还感觉没考好。\n＋1分给亮哥，太善良了，感动城大\n\t\n3.现代电力电子技术 3.5分\n本学期的重量级课程\n🈚考勤，🈚平时quiz，三次作业，一个仿真实验，一个报告\n很负责任的教授，坚持课堂上手写笔记，手写板书，代价就是真看不懂😇，考试之前会讲作业，划重点。\n期末考试内容和平时授课内容高度一致（真的可以说是原封不动搬出来），如果你真的听懂了课那考试还是比较轻松的，闭卷考试\n教授考前明确说了期末考试不捞人，平时分会给的高一点，望周知\n——————\n划重点：这门课的授课内容介于本科电力电子和研究生电力电子之间，有一定难度，非常非常不建议本科非电子电气类背景（比如计算机大类）的同学选。\n\t\n4.线性系统 3+1分\n大楚兴，mmw!\n本质做题课，适合大陆宝宝体质，🈚考勤，8次作业，1次开卷期中考试，期末闭卷\n课程内容是自动控制原理相关的知识，不难但是略麻烦。\n平时作业比较多，而且会批改给分，做的时候要认真些，全靠Ai的话可能也会有一些小错误，作业记得交，补交会扣分。期中考试因为是开卷，难一些，做好准备。\n期末考试之前教授给了一个总结，明确到了每道题会考察那个知识点，还有一份对应的样卷，可以说和最后的考试题80%一致。\n\t\n本科自动化相关的同学可选，计算机大类可选但不太推荐。\n这课如果期中的时候评价只能给3分，但是期末教授给的样卷拯救了大伙，+1分给到善良的mmw\n\t\n没字数了，剩下的评论区说。",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "11",
+      "commentCount": "9",
+      "shareCount": "8",
+      "niceCount": "",
+      "likedCount": "23",
+      "followed": false,
+      "relation": "none"
+    }
+  },
+  "comments": [
+    {
+      "content": "补充说明下EE6427 电力电子课程。这门课对非电子电气相关专业的同学非常不友好，一定要慎重考虑。如果你是相关专业的，我的评价是这门课可以很好的帮助你复习巩固本科的电力电子硬件知识，顺便带领你接触进一步的内容，还是非常有益处的。加入你希望找硬件方面的工作，那这门课对你很有帮助",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB6vGJUuXGwgF-X03oAVhkPQbF-YTmsFSVnwQafdmO9Lo=",
+        "userId": "667126ec0000000007005124",
+        "nickname": "shine",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sovrr7f5m6g5pjh4rm1ok947j4vaug?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1779205727000,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "atUsers": [],
+      "subComments": [
+        {
+          "id": "6a0c877900000000280326c4",
+          "status": 0,
+          "content": "总结下整个一年的课程，大概可以分成两类，一类是基础知识课程，譬如排队论，网络图论，信号处理，自动控制，这些课的好处就是你如果之前学过，那选了之后基本上不用怎么太学就能过，压力比较小。另一类课程是偏向工程应用的，比如Ai相关，算法相关，电子电气相关的。这些课程内容可能也比较基础，但是带有明显的技术方向偏向，我更推荐根据你日后的就业方向进行选择，而不是单纯的看课程是否容易通过。",
+          "atUsers": [],
+          "createTime": 1779206010000,
+          "targetComment": {
+            "id": "6a0c865e0000000028036b52",
+            "userInfo": {
+              "userId": "667126ec0000000007005124",
+              "nickname": "shine",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sovrr7f5m6g5pjh4rm1ok947j4vaug?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6vGJUuXGwgF-X03oAVhkPQbF-YTmsFSVnwQafdmO9Lo="
+            }
+          },
+          "invalid": false,
+          "noteId": "6a0c85770000000037036030",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB6vGJUuXGwgF-X03oAVhkPQbF-YTmsFSVnwQafdmO9Lo=",
+            "userId": "667126ec0000000007005124",
+            "nickname": "shine",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sovrr7f5m6g5pjh4rm1ok947j4vaug?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港"
+        }
+      ],
+      "subCommentCursor": "6a0c877900000000280326c4",
+      "id": "6a0c865e0000000028036b52",
+      "status": 4,
+      "likeCount": "1",
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "noteId": "6a0c85770000000037036030",
+      "ipLocation": "中国香港",
+      "subCommentCount": "2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": false,
+      "id": "6a0c89e00000000028030778",
+      "status": 0,
+      "likeCount": "2",
+      "ipLocation": "中国香港",
+      "noteId": "6a0c85770000000037036030",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFTzm0w6C75FbDa9RI8OKdKZUGiy7FFv3vDFX6LwIaII=",
+        "userId": "61582bf3000000000201f636",
+        "nickname": "小红薯61585057"
+      },
+      "subComments": [],
+      "invalid": false,
+      "content": "补充：iot 100分",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1779206624000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "6a0d25ef000000002100e449",
+      "status": 0,
+      "content": "前排围观鳄鱼佬",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "6a0c85770000000037036030",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB5xLtTOc_wVgbAZpambE3Bs-pBIWsWv6L16MgAjl5ifE=",
+        "userId": "63f08973000000001001cf26",
+        "nickname": "小鱼干喵喵猫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cmi6hjdh0605ovgh5pk3jp62f7fjf8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "createTime": 1779246576000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "mmw带我肘吧😭😭😭",
+      "userInfo": {
+        "userId": "62fdf807000000000f005742",
+        "nickname": "b1llymak1newnew",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h7ml7073s005ontv03jolq2ausnt9g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDQ-E0hNtAEYYAqBI1a_gacSGi_xaHxNJNzgXRYaRXGc="
+      },
+      "subCommentCursor": "",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a0c898f000000002901b25e",
+      "noteId": "6a0c85770000000037036030",
+      "status": 0,
+      "invalid": false,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1779206544000,
+      "ipLocation": "广东",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1779211485000,
+      "ipLocation": "上海",
+      "id": "6a0c9cdc000000002b0292fa",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3225mktgnnu005or4msj7rr22s17cts8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwgjKYc7Q4NpXmb_ayr_xTSkVNfh_0kzL2Qs232QhLYM=",
+        "userId": "6364b726000000001f01ec42",
+        "nickname": "AI十分钟，review仨小时"
+      },
+      "subCommentCount": "0",
+      "status": 0,
+      "liked": false,
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "我和sye有场孽缘。",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "6a0c85770000000037036030",
+      "atUsers": [],
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "补充一下 多维6435也没有大家听说的那么坏 甚至在我这学期的课里面能算是好课 事少给分不高但复习了就能过",
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "6a0c85770000000037036030",
+      "status": 0,
+      "userInfo": {
+        "nickname": "利世",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3231d65hvmu0g5no8t6fg8ib8oonmkf0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEc7eu8isxlZ1AByTPU7lAY9mUgwEii03Lc3Wykmmxho=",
+        "userId": "5f08e99f0000000001004968"
+      },
+      "createTime": 1779243720000,
+      "id": "6a0d1ac800000000270210d0",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": -2,
+      "content": "我也来补充一下吧。\nEE5425 RF电路\n听起来挺难的，因为其实是PHD的八级课（但是EE没有八级所以是六级），而且有考勤，还是周五晚上的课🤔。Prof. CHEN讲的很好，但是确实很难！期末考试和平时test给分非常大方，抄上题目条件就给20%分。最后我估分不高，出分数了反而还行。\nEE6621 神经\n我感觉有点拉。不考勤，老师很有意思，考试开卷。优点是基本上必过，缺点是我感觉不好拿高分…而且事情很多很多很多，有两次presentation和4次项目的stage report，我反而有点嫌麻烦😂",
+      "invalid": false,
+      "id": "6a0c8a6a000000002b02545b",
+      "showTags": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "createTime": 1779206762000,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "6a0c85770000000037036030",
+      "userInfo": {
+        "userId": "679dd40c000000000d0098f2",
+        "nickname": "龙骧nightfall",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dplq817gu6g5pstqg63967i2v28bk8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBfVjf2HyJBbM0qVAf64Rt9RbqbWNaM6gkTGWN5q92j8="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS6521",
+  "search_item": {
+    "xsecToken": "ABZj4YAJom_9FdFt1nfhNkRxA_S30aLW8d4D4Yb7mPYwk=",
+    "id": "6a0c85770000000037036030",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "Cityu EE msc Semb课程总结",
+      "user": {
+        "nickName": "shine",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sovrr7f5m6g5pjh4rm1ok947j4vaug?imageView2/2/w/80/format/jpg",
+        "userId": "667126ec0000000007005124",
+        "nickname": "shine",
+        "xsecToken": "ABJRSrLBkICqXzK-wyllDAjFQPyrCLDMsQM6Z_TtzNOCk="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "23",
+        "collected": false,
+        "collectedCount": "11",
+        "commentCount": "9",
+        "sharedCount": "8"
+      },
+      "cover": {
+        "height": 703,
+        "width": 1205,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281123/da489e9184bb6dc4e5fa9e4fdbce24f9/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281123/320980126e9436b2c183e1bee31de691/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 703,
+          "width": 1205,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281123/da489e9184bb6dc4e5fa9e4fdbce24f9/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281123/320980126e9436b2c183e1bee31de691/notes_pre_post/1040g3k8320bskdn2m86g5pjh4rm1ok94aqgm3kg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-19"
+        }
+      ]
+    },
+    "index": 4,
+    "exposed": true,
+    "trackId": "6a0c85770000000037036030"
+  }
+}

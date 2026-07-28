@@ -1,0 +1,717 @@
+{
+  "note_id": "69a19f52000000001d025f9d",
+  "url": "https://www.xiaohongshu.com/explore/69a19f52000000001d025f9d?xsec_token=ABtXu5OTW6rEkD16_RdC_0FVQPpAKUBOraCJo-TJfrQFU=",
+  "fetched_at": 1785215237.4873633,
+  "note": {
+    "xsecToken": "ABtXu5OTW6rEkD16_RdC_0FVQPpAKUBOraCJo-TJfrQFU=",
+    "title": "",
+    "desc": "27 年毕业博士 3ccfA 能找什么教职\n2✖️DAC 1✖️TCAD\n密码学硬件加速方向#博士[话题]# #科研[话题]#",
+    "user": {
+      "userId": "653941e3000000000301d7ee",
+      "nickname": "WDDDM",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0",
+      "xsecToken": "ABskVHD55iv5BDXACsD0KE5SNNYOCGA0JunC-GN1200cc="
+    },
+    "interactInfo": {
+      "collectedCount": "63",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "91",
+      "shareCount": "56",
+      "likedCount": "86",
+      "collected": false
+    },
+    "tagList": [
+      {
+        "id": "5be9267650fe5600012a22f6",
+        "name": "博士",
+        "type": "topic"
+      },
+      {
+        "id": "5be635a9d111a50001a4436e",
+        "name": "科研",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1772199762000,
+    "noteId": "69a19f52000000001d025f9d",
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48",
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281307/2cad5e936584bfc619361722bbff19df/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281307/5a6704d25122e3b04df805947d7009d2/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1600,
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281307/2cad5e936584bfc619361722bbff19df/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281307/5a6704d25122e3b04df805947d7009d2/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "lastUpdateTime": 1772199762000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "liked": false,
+      "likeCount": "25",
+      "ipLocation": "上海",
+      "subComments": [
+        {
+          "content": "你这太硬了，去工业界估计能开一百多个",
+          "likeCount": "18",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772207414000,
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "69a1bb37000000000c0087e1",
+            "userInfo": {
+              "userId": "5d39048b0000000011013b8d",
+              "nickname": "MathsCode",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nl51g2k58605n9p0i5kaesdmg0hfu8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABo38owdiS0FL-30VKoO0-mN8VJo_u-EfapXDpILtERpw="
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q=",
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "id": "69a1bd350000000009022937",
+          "noteId": "69a19f52000000001d025f9d"
+        }
+      ],
+      "id": "69a1bb37000000000c0087e1",
+      "userInfo": {
+        "xsecToken": "ABo38owdiS0FL-30VKoO0-mN8VJo_u-EfapXDpILtERpw=",
+        "userId": "5d39048b0000000011013b8d",
+        "nickname": "MathsCode",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nl51g2k58605n9p0i5kaesdmg0hfu8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1772206903000,
+      "subCommentCount": "15",
+      "invalid": false,
+      "status": 0,
+      "content": "我28年毕业，也是3a，isca asplos tcad，llm推理加速，算子优化，算法系统协同优化，也想听一听建议，工业界学术界都可以",
+      "showTags": [],
+      "subCommentCursor": "69a1bd350000000009022937",
+      "noteId": "69a19f52000000001d025f9d",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "ipLocation": "北京",
+      "subCommentHasMore": true,
+      "noteId": "69a19f52000000001d025f9d",
+      "content": "[doge][doge]坏了，同行，这个适合去研究所，然后工业界的话，就往芯片体系架构这方面走吧，大模型ai infra可能都不太能match",
+      "likeCount": "2",
+      "createTime": 1772203668000,
+      "subCommentCount": "3",
+      "subCommentCursor": "69a1b0ef000000000c00a05b",
+      "invalid": false,
+      "id": "69a1ae93000000001803aea9",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABZOj-JF9B0dQmuf8dyxhOaaBGzYl_CjBzF7YShDrPtuQ=",
+        "userId": "6038a67f000000000100bb06",
+        "nickname": "Winterstorm",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t12pfppls005o1okpvg9eo605q4aao?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q=",
+            "userId": "653941e3000000000301d7ee"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "content": "不太 match 主要是密码学太小众了",
+          "atUsers": [],
+          "createTime": 1772204272000,
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "69a1ae93000000001803aea9",
+            "userInfo": {
+              "userId": "6038a67f000000000100bb06",
+              "nickname": "Winterstorm",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t12pfppls005o1okpvg9eo605q4aao?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZOj-JF9B0dQmuf8dyxhOaaBGzYl_CjBzF7YShDrPtuQ="
+            }
+          },
+          "id": "69a1b0ef000000000c00a05b",
+          "noteId": "69a19f52000000001d025f9d",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "invalid": false,
+      "showTags": [],
+      "ipLocation": "北京",
+      "subCommentCursor": "69a1b1080000000008033a4a",
+      "subCommentHasMore": false,
+      "id": "69a1ab62000000000b0342cd",
+      "status": 0,
+      "liked": false,
+      "likeCount": "2",
+      "userInfo": {
+        "nickname": "123木头人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pjn60em4m6g5po179bjcrei34mala0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSrPy7H45nGiVN8PDjxWNzoqhMbJ78atLngZZ5Amp5kA=",
+        "userId": "67013a57000000000d026dd2"
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "69a19f52000000001d025f9d",
+          "content": "放在当下的环境确实不多，所以焦虑🥲",
+          "liked": false,
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "69a1ab62000000000b0342cd",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABSrPy7H45nGiVN8PDjxWNzoqhMbJ78atLngZZ5Amp5kA=",
+              "userId": "67013a57000000000d026dd2",
+              "nickname": "123木头人",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pjn60em4m6g5po179bjcrei34mala0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "69a1b1080000000008033a4a",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772204297000,
+          "invalid": false
+        }
+      ],
+      "noteId": "69a19f52000000001d025f9d",
+      "content": "这成果感觉不是很多？[笑哭R][笑哭R][笑哭R]不太了解这个方向",
+      "createTime": 1772202851000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABI_3RAplLQlpopHBLQjm-YeW-yfdA1Bv0Ry6-gKnJ7bA=",
+        "userId": "64ba5614000000001403d351",
+        "nickname": "koross",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321soqd56no6g5p5qaoa57kqhogppqg0?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "content": "你咋知道我在所里[doge]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772207972000,
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "69a1bec8000000001500fea2",
+            "userInfo": {
+              "userId": "64ba5614000000001403d351",
+              "nickname": "koross",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321soqd56no6g5p5qaoa57kqhogppqg0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABI_3RAplLQlpopHBLQjm-YeW-yfdA1Bv0Ry6-gKnJ7bA="
+            }
+          },
+          "id": "69a1bf64000000000c0082bb",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "invalid": false,
+          "noteId": "69a19f52000000001d025f9d"
+        }
+      ],
+      "subCommentCursor": "69a1bf64000000000c0082bb",
+      "id": "69a1bec8000000001500fea2",
+      "content": "佬为什么不考虑留所呢？",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "吉林",
+      "status": 0,
+      "liked": false,
+      "createTime": 1772207817000,
+      "subCommentCount": "6",
+      "subCommentHasMore": true,
+      "noteId": "69a19f52000000001d025f9d",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "invalid": false,
+      "createTime": 1779942180000,
+      "ipLocation": "北京",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "5abb29b411be106831e0de47",
+              "nickname": "Jaysss",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5abb29ebb46c5d1ea73cdd51.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmjfur3tUXaxP2jNc0OBdAPGqpQ8RtdgxAOkCLRSZd_g="
+            },
+            "id": "6a17c323000000002b002882"
+          },
+          "id": "6a17ce54000000002803d939",
+          "noteId": "69a19f52000000001d025f9d",
+          "createTime": 1779945045000,
+          "ipLocation": "北京",
+          "invalid": false,
+          "status": 0,
+          "content": "期刊这么多，去二本吧，只认期刊[doge]",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "id": "6a17c323000000002b002882",
+      "status": 0,
+      "content": "我 TACO TPDS TC 做GPU sharing的，诶，好焦虑啊[笑哭R]",
+      "userInfo": {
+        "userId": "5abb29b411be106831e0de47",
+        "nickname": "Jaysss",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5abb29ebb46c5d1ea73cdd51.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmjfur3tUXaxP2jNc0OBdAPGqpQ8RtdgxAOkCLRSZd_g="
+      },
+      "subCommentHasMore": true,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "6a17ce54000000002803d939",
+      "noteId": "69a19f52000000001d025f9d",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "感觉是不是有一篇四大会更好。",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772206970000,
+          "targetComment": {
+            "id": "69a1ba7d00000000140327e4",
+            "userInfo": {
+              "nickname": "生成完整可运行代码",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbfd4d8ig005n8psjglklcn07es7u8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB7mAlOQbkpcrmxcmsa4dH0JdKVRtdmvjLPRY6fGpHshI=",
+              "userId": "5d19e4e10000000016025597"
+            }
+          },
+          "invalid": false,
+          "id": "69a1bb7a00000000090204d3",
+          "noteId": "69a19f52000000001d025f9d",
+          "status": 0,
+          "content": "今年努力冲一个四大",
+          "liked": false,
+          "ipLocation": "河南",
+          "atUsers": [],
+          "likeCount": "1"
+        }
+      ],
+      "subCommentCursor": "69a1bb7a00000000090204d3",
+      "atUsers": [],
+      "ipLocation": "河南",
+      "subCommentHasMore": true,
+      "liked": false,
+      "createTime": 1772206718000,
+      "subCommentCount": "3",
+      "invalid": false,
+      "id": "69a1ba7d00000000140327e4",
+      "noteId": "69a19f52000000001d025f9d",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5d19e4e10000000016025597",
+        "nickname": "生成完整可运行代码",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbfd4d8ig005n8psjglklcn07es7u8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7mAlOQbkpcrmxcmsa4dH0JdKVRtdmvjLPRY6fGpHshI="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "showTags": [],
+      "createTime": 1773219947000,
+      "subCommentCount": "2",
+      "subCommentCursor": "69b43118000000001400bb06",
+      "userInfo": {
+        "userId": "68c3f8bd00000000190146b9",
+        "nickname": "gangz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31puv6e7i70705q63v2umahlp4jlrnmo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7xt93vD5n-W71hJy7Mdbr8bn_LqwAPOMClpu77_4pX4="
+      },
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "69b43118000000001400bb06",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "69b1306a000000000100635e",
+            "userInfo": {
+              "xsecToken": "AB7xt93vD5n-W71hJy7Mdbr8bn_LqwAPOMClpu77_4pX4=",
+              "userId": "68c3f8bd00000000190146b9",
+              "nickname": "gangz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31puv6e7i70705q63v2umahlp4jlrnmo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "noteId": "69a19f52000000001d025f9d",
+          "content": "国芯？国芯科技吗？",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "createTime": 1773416728000
+        }
+      ],
+      "invalid": false,
+      "id": "69b1306a000000000100635e",
+      "noteId": "69a19f52000000001d025f9d",
+      "content": "国芯的方向跟佬挺契合的",
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "天津",
+      "subCommentHasMore": true,
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "noteId": "69a19f52000000001d025f9d",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "createTime": 1772466772000,
+          "targetComment": {
+            "id": "69a5a068000000000600e993",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjfc9op6s005oo89tt3ok8654pl978?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABk_hbR1hGLHqvVVCy2ozqUp-d8kHgwYShmDLeQybMvnY=",
+              "userId": "63084f7a000000000f005106",
+              "nickname": "Ka11even"
+            }
+          },
+          "invalid": false,
+          "id": "69a5b253000000000c00ad45",
+          "status": 0,
+          "content": "我觉得如果要优化加速电路的话必须要知道是如何计算以及为什么这么计算的，原理证明的话可以不需要特别深的理解",
+          "atUsers": []
+        }
+      ],
+      "id": "69a5a068000000000600e993",
+      "content": "太强了，PQC硬件加速怎么学呀[哭惹R]，要非常懂算法吗",
+      "liked": false,
+      "userInfo": {
+        "userId": "63084f7a000000000f005106",
+        "nickname": "Ka11even",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjfc9op6s005oo89tt3ok8654pl978?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABk_hbR1hGLHqvVVCy2ozqUp-d8kHgwYShmDLeQybMvnY="
+      },
+      "showTags": [],
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1772462185000,
+      "ipLocation": "湖北",
+      "noteId": "69a19f52000000001d025f9d",
+      "subCommentCount": "1",
+      "subCommentCursor": "69a5b253000000000c00ad45",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69a3f849000000001500c043",
+      "status": 0,
+      "subCommentCursor": "69a42a550000000008030f10",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bv69go80m5g5nuct8egbq39ai58sl0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXbTGQi5nXWab-e6bYodxwcIKjeVso0n8BGTF7cCXWY8=",
+        "userId": "5fccea1d000000000101e869",
+        "nickname": "圭立里"
+      },
+      "showTags": [],
+      "createTime": 1772353609000,
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [
+        {
+          "id": "69a42a550000000008030f10",
+          "noteId": "69a19f52000000001d025f9d",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q="
+          },
+          "ipLocation": "北京",
+          "invalid": false,
+          "content": "山大估计是看不上咱",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772366421000,
+          "targetComment": {
+            "id": "69a3f849000000001500c043",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bv69go80m5g5nuct8egbq39ai58sl0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABXbTGQi5nXWab-e6bYodxwcIKjeVso0n8BGTF7cCXWY8=",
+              "userId": "5fccea1d000000000101e869",
+              "nickname": "圭立里"
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69a19f52000000001d025f9d",
+      "content": "山大网安学院（？",
+      "liked": false,
+      "ipLocation": "新加坡",
+      "subCommentCount": "8",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "content": "裂开",
+          "likeCount": "0",
+          "ipLocation": "河南",
+          "invalid": false,
+          "id": "69a2c2130000000008033ef4",
+          "noteId": "69a19f52000000001d025f9d",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB09a854BC8pZJiSNRsEN3BoTEzOV-aN-Dk0AdFG8Kr_Q=",
+            "userId": "653941e3000000000301d7ee",
+            "nickname": "WDDDM"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772274195000,
+          "targetComment": {
+            "id": "69a2ae860000000008032b99",
+            "userInfo": {
+              "xsecToken": "ABJUdEBCNsSwl39XSKriB1KL-vwSB440GpsZzISwe2wDQ=",
+              "userId": "63bca33000000000260103f3",
+              "nickname": "muzibo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vhjts74m44g5otskco9i0vj1vb1ds8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "status": 0
+        }
+      ],
+      "subCommentCursor": "69a2c2130000000008033ef4",
+      "noteId": "69a19f52000000001d025f9d",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "ipLocation": "湖北",
+      "content": "看博士学历了，清北华五以下基本上最多211讲师/校聘副教授，反正学术都是坐牢局[doge]",
+      "showTags": [],
+      "createTime": 1772269191000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69a2ae860000000008032b99",
+      "subCommentCount": "1",
+      "userInfo": {
+        "userId": "63bca33000000000260103f3",
+        "nickname": "muzibo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vhjts74m44g5otskco9i0vj1vb1ds8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJUdEBCNsSwl39XSKriB1KL-vwSB440GpsZzISwe2wDQ="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5486 评价",
+  "search_item": {
+    "id": "69a19f52000000001d025f9d",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dg1k290gm005p9p87hgrlvet5an3g0?imageView2/2/w/80/format/jpg",
+        "userId": "653941e3000000000301d7ee",
+        "nickname": "WDDDM",
+        "xsecToken": "AB9JHnlRjAkGz7FG-HuNx7HllUJUeZf03_s6ricB59RBU=",
+        "nickName": "WDDDM"
+      },
+      "interactInfo": {
+        "sharedCount": "56",
+        "liked": false,
+        "likedCount": "86",
+        "collected": false,
+        "collectedCount": "63",
+        "commentCount": "91"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281307/f93594abc60e207d19eefd2ae6f4725d/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281307/2beeec23a5993c0f373ea3c60d482b2f/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281307/f93594abc60e207d19eefd2ae6f4725d/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281307/2beeec23a5993c0f373ea3c60d482b2f/notes_pre_post/1040g3k031t3gs0cq68005p9p87hgrlve95sob48!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "02-27"
+        }
+      ]
+    },
+    "xsecToken": "ABtXu5OTW6rEkD16_RdC_0FVQPpAKUBOraCJo-TJfrQFU=",
+    "index": 10,
+    "exposed": false,
+    "trackId": "69a19f52000000001d025f9d"
+  }
+}

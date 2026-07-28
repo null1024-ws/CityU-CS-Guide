@@ -1,0 +1,298 @@
+{
+  "note_id": "695b668f0000000022021b06",
+  "url": "https://www.xiaohongshu.com/explore/695b668f0000000022021b06?xsec_token=ABI501A6GeRziIXA1MauwniWBsgpoCS3mCbWpNHp2WM5w=",
+  "fetched_at": 1785210007.1429477,
+  "note": {
+    "xsecToken": "ABI501A6GeRziIXA1MauwniWBsgpoCS3mCbWpNHp2WM5w=",
+    "noteId": "695b668f0000000022021b06",
+    "title": "城大CS选课极限二选一",
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281140/d8b5784f008ea3464abb7d8826be8c10/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nd_prv_wlteh_webp_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068",
+        "height": 1170,
+        "width": 898,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281140/5250a51d679d6b465a5a45498f56c4f9/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nd_dft_wlteh_webp_3",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281140/d8b5784f008ea3464abb7d8826be8c10/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nd_prv_wlteh_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281140/5250a51d679d6b465a5a45498f56c4f9/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nd_dft_wlteh_webp_3"
+          }
+        ]
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "#香港城市大学[话题]# #选课[话题]#\n事情是这样的，我现在大三，已经选了3门CS的选修课，明天准备选一个GE（任意区），现在degree work里就只有：\n1. 实习（大四搞），\n2. FYP（大四搞），\n3. 专业要求的四选一GE课。\n\t\n现在的问题就是，四选一GE课里面，我最想上的课（GE2324）它sem B没有开，只有暑假才开。另外两门（GE2313和GE2338）这学期开，我也能上，但是课程描述有点劝退。\n\t\n现在有两个选择：\nA. 暑假上GE2324，这样我这学期只有12学分，比较轻松（上三休四），预期GPA也会比较高（目前3.7，感觉能再提一提），可以在大四实习之前多去一些地方旅游，也可以考虑申研和雅思之类的事情；\nB. 现在就选个GE上，这样大三sem B就能完成除了实习和毕设之外的所有学分，不用再上暑校了。\n\t\n（另外CS上学期的分还没出我真服了）",
+    "user": {
+      "userId": "636b8282000000001f0190c7",
+      "nickname": "楓",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8",
+      "xsecToken": "AB8bjNSG03CuwMisVoUvumU-NGVrL3CRcEWHfKO5NpZBw="
+    },
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "1",
+      "commentCount": "7",
+      "shareCount": "2",
+      "niceCount": "",
+      "liked": false,
+      "followed": false,
+      "relation": "none",
+      "likedCount": "10"
+    },
+    "time": 1767597711000,
+    "lastUpdateTime": 1767597712000
+  },
+  "comments": [
+    {
+      "id": "695fab16000000000f00f17a",
+      "showTags": [],
+      "createTime": 1767877399000,
+      "ipLocation": "广东",
+      "subCommentCount": "2",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "id": "695fafe3000000001601d8a7",
+          "noteId": "695b668f0000000022021b06",
+          "status": 0,
+          "content": "应该不用花钱",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "userInfo": {
+            "userId": "636b8282000000001f0190c7",
+            "nickname": "楓",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABTxDeVsLrmBS-PznNNJ29iUlt8RI54zfEE89T4CrkpA0="
+          },
+          "createTime": 1767878627000,
+          "ipLocation": "重庆",
+          "targetComment": {
+            "id": "695fab16000000000f00f17a",
+            "userInfo": {
+              "xsecToken": "ABNkkAOr79Yj1PkMMA_fotY65euJB1sOzV-po0waMp204=",
+              "userId": "59997c4e5e87e740d93cf33e",
+              "nickname": "相遇与追及问题",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/59997c4e5e87e740d93cf33e.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "695fafe3000000001601d8a7",
+      "content": "暑假上ge要不要另外花钱？多少钱？",
+      "noteId": "695b668f0000000022021b06",
+      "status": 3,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/59997c4e5e87e740d93cf33e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNkkAOr79Yj1PkMMA_fotY65euJB1sOzV-po0waMp204=",
+        "userId": "59997c4e5e87e740d93cf33e",
+        "nickname": "相遇与追及问题"
+      },
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "广东",
+      "subCommentCursor": "695c80c1000000001d01e8e6",
+      "subCommentHasMore": false,
+      "noteId": "695b668f0000000022021b06",
+      "status": 0,
+      "content": "如果大一semB只有12cre 不想上ge会不会太少了[哭惹R]感觉ge全都是烂🐢的",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "695c7a00000000001d0277b5",
+            "userInfo": {
+              "userId": "5cdf47a0000000001101c865",
+              "nickname": "哦是吗关我什么事",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31leucadc4q0g5n6v8ug4bi35thmqkog?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvtzE8z2v_zD_GLh-2BRkQBB18d-DNv8lr4crnSK59nA="
+            }
+          },
+          "invalid": false,
+          "id": "695c80c1000000001d01e8e6",
+          "noteId": "695b668f0000000022021b06",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "636b8282000000001f0190c7",
+            "nickname": "楓",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABTxDeVsLrmBS-PznNNJ29iUlt8RI54zfEE89T4CrkpA0="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767669954000,
+          "ipLocation": "重庆",
+          "content": "还是建议上点ge，不然之后压力就大了",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "id": "695c7a00000000001d0277b5",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31leucadc4q0g5n6v8ug4bi35thmqkog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvtzE8z2v_zD_GLh-2BRkQBB18d-DNv8lr4crnSK59nA=",
+        "userId": "5cdf47a0000000001101c865",
+        "nickname": "哦是吗关我什么事"
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "invalid": false,
+      "atUsers": [],
+      "createTime": 1767668224000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "createTime": 1768127096000,
+      "noteId": "695b668f0000000022021b06",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "69637a78000000000c014ef2",
+      "content": "2338 有人想一齊project嗎",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f8da4890000000001004d7a",
+        "nickname": "Aya",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c94hoki0s005nsdki4g8jbqtc8naq0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABd0g-HIgNv0hk48RA-x_O2ldTkTcq0JEAeWzUXTM31R4="
+      },
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": -2,
+      "content": "借贴，全网避雷GE2338",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentCount": "0",
+      "id": "69f891b40000000027029fd9",
+      "noteId": "695b668f0000000022021b06",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABnYZSV3I9bEnas4u_rkCo--bAoHQQ4txAGy5s69ih4Ig=",
+        "userId": "635f71a4000000001802dcfb",
+        "nickname": "有种打死我",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3234q3j7sn4005oqve6i65n7rdvfgebg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1777897909000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS6538",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "城大CS选课极限二选一",
+      "user": {
+        "nickName": "楓",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/80/format/jpg",
+        "userId": "636b8282000000001f0190c7",
+        "nickname": "楓",
+        "xsecToken": "ABWv5WTEAI12QbluzDOF7lxyyp2JHyyZPJiitTRkr9ZLY="
+      },
+      "interactInfo": {
+        "commentCount": "7",
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "10",
+        "collected": false,
+        "collectedCount": "1"
+      },
+      "cover": {
+        "height": 1170,
+        "width": 898,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281140/ee62f1491940054209f71c8b2b279273/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281140/1a79f2f3104449c208a6d9d0b4d01095/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1170,
+          "width": 898,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281140/ee62f1491940054209f71c8b2b279273/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281140/1a79f2f3104449c208a6d9d0b4d01095/spectrum/1040g34o31qutvpeg6u0g5orbga17r467jesr068!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-05"
+        }
+      ]
+    },
+    "xsecToken": "ABI501A6GeRziIXA1MauwniWBsgpoCS3mCbWpNHp2WM5w=",
+    "id": "695b668f0000000022021b06",
+    "index": 7,
+    "exposed": true,
+    "trackId": "695b668f0000000022021b06"
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "note_id": "69ed5a3c0000000036018ddd",
+  "url": "https://www.xiaohongshu.com/explore/69ed5a3c0000000036018ddd?xsec_token=ABLvRfvc3UC5ekRRDCiNpeFrI3sGQIAkKU68UHo_8Yvno=",
+  "fetched_at": 1785209251.7588937,
+  "note": {
+    "xsecToken": "ABLvRfvc3UC5ekRRDCiNpeFrI3sGQIAkKU68UHo_8Yvno=",
+    "lastUpdateTime": 1777162812000,
+    "type": "normal",
+    "user": {
+      "userId": "67e0068e000000000e01d7cc",
+      "nickname": "我仍然非常思念你",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vsiht712q005pv00q73jlucnjrbdn0",
+      "xsecToken": "ABUzo8JCwYT0IwUIvkIw5DxcmVw6Q00WGX1E7Wz5ZPLzk="
+    },
+    "interactInfo": {
+      "collectedCount": "102",
+      "liked": false,
+      "collected": false,
+      "commentCount": "87",
+      "shareCount": "45",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "189"
+    },
+    "tagList": [
+      {
+        "id": "5eba2d4a000000000101e240",
+        "name": "科研日常",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "id": "6119d3b6000000000100a16d",
+        "name": "计算机系统",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69ed5a3c0000000036018ddd",
+    "title": "内核里面写几千行custom code",
+    "desc": "[失望R] 我真快破防了吧！做传统os performance，本身就没多少汤能喝了，方向还比较niche，不好找workload，以及被迫绕开Linux自己的机制，要不然这个方向在工程上就是无法实现。加起来得两三千行代码放kernel hot path里面，这几天改了改，就开始没有任何log dmesg journalctl地kernel crash。卧槽啊，没有留痕，还是一个高度并发情景，我的猪脑真的debug无能了，我现在做的事情就是扔给llm，让它吐给我一个drop in file，我开始试[微笑R]已经破防了。这就是system吗？干了八个月估计最后workshop收尾\n\t\n#科研日常[话题]# #cs[话题]# #计算机系统[话题]#",
+    "imageList": [
+      {
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281127/706bf997d01d9e8ef6fc3d067a627cdf/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281127/5de8028cc175532c6f14288dc1cd819b/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8",
+        "height": 1600,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281127/706bf997d01d9e8ef6fc3d067a627cdf/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281127/5de8028cc175532c6f14288dc1cd819b/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "time": 1777162812000
+  },
+  "comments": [
+    {
+      "subCommentCursor": "69eeefe0000000000d021403",
+      "id": "69ed8408000000000d022800",
+      "status": 0,
+      "liked": false,
+      "likeCount": "14",
+      "userInfo": {
+        "userId": "6272dc9b00000000210292be",
+        "nickname": "啦啦啦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3117lnq80mi005ojiridod4lunmjjojo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgvmVKQLWq_tMVRs0nhpa2me59KhWZE_oed749Easq_Q="
+      },
+      "content": "8个月才?我干了三年sys的work也发了workshop，后面转compiler一年发了两篇[嘻嘻R]懂我意思",
+      "createTime": 1777173512000,
+      "subCommentCount": "7",
+      "noteId": "69ed5a3c0000000036018ddd",
+      "atUsers": [],
+      "ipLocation": "美国",
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "69eeefe0000000000d021403",
+          "noteId": "69ed5a3c0000000036018ddd",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "7",
+          "showTags": [],
+          "ipLocation": "英国",
+          "content": "我干了三年的最后挂了arxiv[黄金薯R]后面跳到新硬件+compiler一把梭哈现在美美来开会[黄金薯R]只能说kernel和传统场景都可以判死刑了",
+          "userInfo": {
+            "xsecToken": "ABhxgn1fSQyjvX3cIQSuUAgaVKJCcpqxkOY8rY65F660c=",
+            "userId": "5ee65c72000000000101c598",
+            "nickname": "-JAN-",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6306557bbbd90eb0a427e56f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1777266657000,
+          "targetComment": {
+            "id": "69ed8408000000000d022800",
+            "userInfo": {
+              "userId": "6272dc9b00000000210292be",
+              "nickname": "啦啦啦",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3117lnq80mi005ojiridod4lunmjjojo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABgvmVKQLWq_tMVRs0nhpa2me59KhWZE_oed749Easq_Q="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69ed6f1a0000000027015beb",
+      "liked": false,
+      "subComments": [
+        {
+          "ipLocation": "加拿大",
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "ABO9eiM9PwU99pz07h-6m7CglnuHfOoQuyfNfOoDyGeiM=",
+              "userId": "640957cd0000000010028aa5",
+              "nickname": "poo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n5srjef52005p09av6k52l5dgn5fgg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "69ed6f1a0000000027015beb"
+          },
+          "invalid": false,
+          "id": "69ed7282000000002900cc78",
+          "noteId": "69ed5a3c0000000036018ddd",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1777169027000,
+          "content": "[哭惹R]不会pl啊",
+          "userInfo": {
+            "userId": "67e0068e000000000e01d7cc",
+            "nickname": "我仍然非常思念你",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vsiht712q005pv00q73jlucnjrbdn0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsOU43Yd31Lfql_Jg1zHvJFol-lffXJVqQIb-u3pdN0E="
+          }
+        }
+      ],
+      "subCommentCursor": "69ed7282000000002900cc78",
+      "userInfo": {
+        "userId": "640957cd0000000010028aa5",
+        "nickname": "poo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n5srjef52005p09av6k52l5dgn5fgg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABO9eiM9PwU99pz07h-6m7CglnuHfOoQuyfNfOoDyGeiM="
+      },
+      "subCommentCount": "8",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "createTime": 1777168154000,
+      "noteId": "69ed5a3c0000000036018ddd",
+      "content": "[暗中观察R]这个时候，你就需要一个经过形式化验证的微内核了！",
+      "atUsers": [],
+      "likeCount": "18",
+      "ipLocation": "澳大利亚",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "createTime": 1777163808000,
+      "subCommentCount": "14",
+      "noteId": "69ed5a3c0000000036018ddd",
+      "content": "似乎还只是用llm，没有用现在的code agent。试试codex / claude code，我自己感觉这些写os挺猛的",
+      "likeCount": "9",
+      "subComments": [
+        {
+          "id": "69ed5eb300000000280303c2",
+          "status": 0,
+          "content": ":( 很遗憾，没什么用...... Kernel最大的问题就是首先hardlockup难以留痕，其次就算留痕也难以定位真正的bug，很多时候是极端压力下造成的一些rare cases，导致的kernel crash... 干瞪眼看也很难看出来，害。",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1777163955000,
+          "ipLocation": "加拿大",
+          "noteId": "69ed5a3c0000000036018ddd",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "33",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vsiht712q005pv00q73jlucnjrbdn0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsOU43Yd31Lfql_Jg1zHvJFol-lffXJVqQIb-u3pdN0E=",
+            "userId": "67e0068e000000000e01d7cc",
+            "nickname": "我仍然非常思念你"
+          },
+          "targetComment": {
+            "id": "69ed5e20000000002a024725",
+            "userInfo": {
+              "userId": "631064d50000000012003f72",
+              "nickname": "代码怎么失灵啦？",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mf8c7q06g5g5oogcjakgfrif2fr350?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABR_0SUWLQiHujn2DogSQHBFaT-gITamv4ItGLmJ9HZGg="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mf8c7q06g5g5oogcjakgfrif2fr350?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABR_0SUWLQiHujn2DogSQHBFaT-gITamv4ItGLmJ9HZGg=",
+        "userId": "631064d50000000012003f72",
+        "nickname": "代码怎么失灵啦？"
+      },
+      "ipLocation": "北京",
+      "subCommentCursor": "69ed5eb300000000280303c2",
+      "id": "69ed5e20000000002a024725",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "system会让每一个热爱计算机的人道心破碎",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "likeCount": "20",
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "62b808c40000000019028090",
+            "nickname": "啊哈",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r0mn23cgae05olo1326d04gjb3e7r0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABHD-yFYPxh3sOZXysQacdcPYsR1rLB8bXzKPX4-J4T48="
+          },
+          "showTags": [],
+          "noteId": "69ed5a3c0000000036018ddd",
+          "content": "是真的",
+          "atUsers": [],
+          "createTime": 1777181593000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "69ed95b10000000028035d51",
+            "userInfo": {
+              "nickname": "城角街之狼",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ie2gqo7k005nlnk6lg8tkja71vgl8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1qNRjX5nTegzrM8j1HrFhaXMCt0p4rQ7E5ypZpr9qQw=",
+              "userId": "5eb7a1ab0000000001007693"
+            }
+          },
+          "invalid": false,
+          "id": "69eda399000000002803ce92"
+        }
+      ],
+      "invalid": false,
+      "id": "69ed95b10000000028035d51",
+      "showTags": [],
+      "createTime": 1777178034000,
+      "subCommentCursor": "69eda399000000002803ce92",
+      "noteId": "69ed5a3c0000000036018ddd",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5eb7a1ab0000000001007693",
+        "nickname": "城角街之狼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ie2gqo7k005nlnk6lg8tkja71vgl8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1qNRjX5nTegzrM8j1HrFhaXMCt0p4rQ7E5ypZpr9qQw="
+      },
+      "ipLocation": "河北",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69ed5a3c0000000036018ddd",
+      "atUsers": [],
+      "likeCount": "9",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1777169396000,
+      "subComments": [],
+      "id": "69ed73f30000000029026957",
+      "content": "开kdump看vmcore，bt看panic栈。如果没生成vmcore那你得先解决kdump配置问题（比如有没有预留足够多的crashkernel内存）。bt一看宕在哪里一目了然。hardlockup/softlockup算简单的，一个关了中断，一个关了抢占，都是在spin的不被调度出去让你无处可找的。要是遇到内存问题，自己用错空指针了也就罢了，要是你踩别人了或者别人踩你了那就自求多福吧[偷笑R]",
+      "liked": false,
+      "userInfo": {
+        "userId": "662399530000000003031b6e",
+        "nickname": "读书人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSRoyB1ofv9QAoTwKqEqobSV5NTfHCJughUFpNnQsdqs="
+      },
+      "ipLocation": "上海",
+      "subCommentCursor": "",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69ed7e0c0000000029011f94",
+      "status": 0,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "69ed7e0c0000000029011f94",
+            "userInfo": {
+              "userId": "5f776e18000000000101eb1e",
+              "nickname": "LGTM",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6689320c02d97e414b82f3a0.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABskJpsYgI98ZmnWWP0M8_9bph__w-fzFFYuL9X0jsI5M="
+            }
+          },
+          "noteId": "69ed5a3c0000000036018ddd",
+          "content": "我有一万个点可以被reviewer攻击",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1777271761000,
+          "invalid": false,
+          "id": "69ef03d000000000290138d2",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "67e0068e000000000e01d7cc",
+            "nickname": "我仍然非常思念你",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vsiht712q005pv00q73jlucnjrbdn0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsOU43Yd31Lfql_Jg1zHvJFol-lffXJVqQIb-u3pdN0E="
+          },
+          "ipLocation": "加拿大"
+        }
+      ],
+      "noteId": "69ed5a3c0000000036018ddd",
+      "content": "写paper而已 又没让你给kernel提patch 差不多就行了",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "3",
+      "userInfo": {
+        "userId": "5f776e18000000000101eb1e",
+        "nickname": "LGTM",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6689320c02d97e414b82f3a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABskJpsYgI98ZmnWWP0M8_9bph__w-fzFFYuL9X0jsI5M="
+      },
+      "showTags": [],
+      "subCommentCursor": "69ef03d000000000290138d2",
+      "createTime": 1777171981000,
+      "ipLocation": "美国",
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69ed5a3c0000000036018ddd",
+      "userInfo": {
+        "userId": "5cd2d0d80000000017015048",
+        "nickname": "cookie in shell",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321u0hnn56u005n6iq3c5qk28248r4i8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnGCVdcLUFUU68OX-hfdsHhI4WtiOpGOxUmrb4k9XMvQ="
+      },
+      "createTime": 1777172385000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69ed7fa0000000002701f8a8",
+      "content": "最后交完论文，reviewers：“你的approach对需要对内核做侵入性的改动，compatibility很差，我们不喜欢”[doge][doge]",
+      "subCommentCursor": "69eeba1000000000270285d1",
+      "subCommentCount": "1",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "24",
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "liked": false,
+      "subComments": [
+        {
+          "status": 0,
+          "content": "真实",
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "翘课鼠鼠",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sddd5535a505pn2c697c1nqknr0q5o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABpZw9hR-ljLhJ1pPMOfMIQMTqs-H4_jfQaQA8ikoTVGo=",
+            "userId": "66e26192000000001d0206fa"
+          },
+          "showTags": [],
+          "createTime": 1777252881000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5cd2d0d80000000017015048",
+              "nickname": "cookie in shell",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321u0hnn56u005n6iq3c5qk28248r4i8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABnGCVdcLUFUU68OX-hfdsHhI4WtiOpGOxUmrb4k9XMvQ="
+            },
+            "id": "69ed7fa0000000002701f8a8"
+          },
+          "id": "69eeba1000000000270285d1",
+          "noteId": "69ed5a3c0000000036018ddd"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "noteId": "69ed5a3c0000000036018ddd",
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "likeCount": "11",
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "沒苦硬吃典範[doge]明明這麼多方向不用這麼苦也能發頂會",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABCOrtn_nVzjeXeB8iBCcb6Sz9Kjv-juz9GvzjvxIbtiM=",
+        "userId": "679c6c59000000000e01cba2",
+        "nickname": "3345678",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l8hogqdlo005pssdhcjjit2c1cl7i0?imageView2/2/w/120/format/jpg"
+      },
+      "id": "69ed6adb000000000d022000",
+      "showTags": [],
+      "createTime": 1777167067000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "3",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "69ed5a3c0000000036018ddd",
+      "status": 0,
+      "liked": false,
+      "createTime": 1777183337000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "content": "这种情况已经不是Vibe Coding能解决的了，硬堆时间测试去吧[捂脸R]",
+      "userInfo": {
+        "userId": "61f7717b00000000100058e9",
+        "nickname": "apt-get",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fmbcmdrgck05ofne5tk0m79kiat1cg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABq4QqY3GVwaue14-s_cCnnktaLto8_Nou8fBspXE5P-c="
+      },
+      "showTags": [],
+      "ipLocation": "贵州",
+      "subComments": [],
+      "id": "69edaa68000000002702f63c",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "69ed5a3c0000000036018ddd",
+      "content": "Linux内核确实一坨，一堆接口命名和功能不符，误导性非常强[笑哭R]",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e1b30c9000000000100b3f5.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmZDh4ms9zBjs5tKiz_e52obAXtuvTHknFDU6LBnZjec=",
+        "userId": "5e1b30c9000000000100b3f5",
+        "nickname": "猫熊"
+      },
+      "subCommentCount": "0",
+      "status": 0,
+      "likeCount": "3",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1777215518000,
+      "subComments": [],
+      "invalid": false,
+      "id": "69ee281e000000002b027f5f",
+      "showTags": [],
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 怎么样",
+  "search_item": {
+    "id": "69ed5a3c0000000036018ddd",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281127/0a094cf404480b280da721df2015a78f/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281127/ae91cc8d346c0876449bdfa4fcd3688b/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281127/ae91cc8d346c0876449bdfa4fcd3688b/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281127/0a094cf404480b280da721df2015a78f/notes_pre_post/1040g3k031vdfbsue2i005pv00q73jlucts0b9o8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-26"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "内核里面写几千行custom code",
+      "user": {
+        "nickName": "我仍然非常思念你",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vsiht712q005pv00q73jlucnjrbdn0?imageView2/2/w/80/format/jpg",
+        "userId": "67e0068e000000000e01d7cc",
+        "nickname": "我仍然非常思念你",
+        "xsecToken": "AB4A43Xux4xEqVxKBaHEWPKz_4wEGcNjz_xNWlb3kj4sc="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "189",
+        "collected": false,
+        "collectedCount": "102",
+        "commentCount": "87",
+        "sharedCount": "45"
+      }
+    },
+    "xsecToken": "ABLvRfvc3UC5ekRRDCiNpeFrI3sGQIAkKU68UHo_8Yvno=",
+    "index": 9,
+    "exposed": true,
+    "trackId": "69ed5a3c0000000036018ddd"
+  }
+}

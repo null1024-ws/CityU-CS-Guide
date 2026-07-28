@@ -1,0 +1,646 @@
+{
+  "note_id": "68c10b05000000001d023d0d",
+  "url": "https://www.xiaohongshu.com/explore/68c10b05000000001d023d0d?xsec_token=ABsuDh6sIRQW1ICgFxeobVN-qzPMGKdRrGox7Sl32L9Ws=",
+  "fetched_at": 1785209094.8275936,
+  "note": {
+    "xsecToken": "ABsuDh6sIRQW1ICgFxeobVN-qzPMGKdRrGox7Sl32L9Ws=",
+    "time": 1757481733000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "interactInfo": {
+      "likedCount": "14",
+      "collected": false,
+      "collectedCount": "4",
+      "commentCount": "23",
+      "shareCount": "9",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "followed": false
+    },
+    "imageList": [
+      {
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281125/247a1334b40a4c8763988daa5e291818/1040g00831m86ijublm005of6kt8od6trjrhrkog!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g00831m86ijublm005of6kt8od6trjrhrkog",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281125/03bb7f5f214612566c550730b08638c8/1040g00831m86ijublm005of6kt8od6trjrhrkog!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281125/247a1334b40a4c8763988daa5e291818/1040g00831m86ijublm005of6kt8od6trjrhrkog!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281125/03bb7f5f214612566c550730b08638c8/1040g00831m86ijublm005of6kt8od6trjrhrkog!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "height": 1600
+      }
+    ],
+    "lastUpdateTime": 1757481733000,
+    "noteId": "68c10b05000000001d023d0d",
+    "title": "cuhkcs选外系课大失败",
+    "desc": "本来在course registration阶段就填了cs1表然后上传，现在add-drop快结束了还没消息\n线下问了cs的工作人员，回复是先把我们的申请发给对应的项目去处理，如果回复可以，就再发给gs那边处理\n接着去问了ie和ee的人，回复是课程没有位置的话应该是选不上，也不会扩quota[哭惹R]也没办法直接加到课程里，需要走流程[捂脸R]\n#cuhk[话题]# #cuhkcs[话题]# #港中文[话题]# #选课[话题]# #外系课[话题]#",
+    "user": {
+      "userId": "61e6a7510000000021029bbb",
+      "nickname": "Cartesian",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0",
+      "xsecToken": "ABBxsC4JuDBMSi7zU_L94yMqGZVHmJ1OcdAlUBecqonek="
+    },
+    "tagList": [
+      {
+        "id": "5c1b7b0f0000000008003a1d",
+        "name": "cuhk",
+        "type": "topic"
+      },
+      {
+        "id": "642e46590000000011035441",
+        "name": "cuhkcs",
+        "type": "topic"
+      },
+      {
+        "name": "港中文",
+        "type": "topic",
+        "id": "5d8882bf0000000002002f46"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "68c10b02000000000601f333",
+        "name": "外系课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "id": "68c126b70000000030022cf5",
+      "status": 0,
+      "content": "ie昨天通知已经满位了，add失败",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "AB4eVgGpbrxVpbtsUFxGpeX2J6dYyu3lcYVzREtYkagpc=",
+        "userId": "658fc93f000000002200aa74",
+        "nickname": "onmo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1757488824000,
+      "subCommentCount": "8",
+      "pictures": [],
+      "liked": false,
+      "likeCount": "1",
+      "ipLocation": "广东",
+      "subCommentCursor": "68c12980000000003002f535",
+      "invalid": false,
+      "noteId": "68c10b05000000001d023d0d",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "id": "68c12980000000003002f535",
+          "status": 0,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1757489536000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68c126b70000000030022cf5",
+            "userInfo": {
+              "userId": "658fc93f000000002200aa74",
+              "nickname": "onmo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB4eVgGpbrxVpbtsUFxGpeX2J6dYyu3lcYVzREtYkagpc="
+            }
+          },
+          "pictures": [],
+          "noteId": "68c10b05000000001d023d0d",
+          "content": "哎，其实感觉教室完全坐的下，很多课不给扩就很麻",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABQ5PYZbprrdWExzoXLCVmTMmmOM8UvxiiDcQUyXYwTXk=",
+        "userId": "63e3cff4000000002601220b",
+        "nickname": "typek",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318vddjpdjq005ov3pvq9i8gb3rjftdo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "createTime": 1757946763000,
+          "targetComment": {
+            "id": "68c780d4000000000903874b",
+            "userInfo": {
+              "nickname": "typek",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318vddjpdjq005ov3pvq9i8gb3rjftdo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQ5PYZbprrdWExzoXLCVmTMmmOM8UvxiiDcQUyXYwTXk=",
+              "userId": "63e3cff4000000002601220b"
+            }
+          },
+          "pictures": [],
+          "noteId": "68c10b05000000001d023d0d",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "627218930000000021021652",
+            "nickname": "Jareth",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q0vffns76005oji329oc5ii8rdmsko?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABgvmVKQLWq_tMVRs0nhpa2ope51hqlsewi0OcPvjdG6U="
+          },
+          "showTags": [],
+          "ipLocation": "广东",
+          "invalid": false,
+          "id": "68c8238a000000003002411f",
+          "content": "已经烂完了",
+          "liked": false
+        }
+      ],
+      "content": "ee的机器学习本系的都有选不上的，他也不肯扩",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "68c8238a000000003002411f",
+      "noteId": "68c10b05000000001d023d0d",
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1757905108000,
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "id": "68c780d4000000000903874b",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766998377000,
+          "targetComment": {
+            "id": "69523caa0000000019003e9d",
+            "userInfo": {
+              "xsecToken": "ABTqS2N5UJDEixm3ELdSuXbxHYdfj5cLH4MzcKyUg4-WQ=",
+              "userId": "6370b3f2000000001f01e07f",
+              "nickname": "abandon",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cva9ev80k005orgmfp7ro3vqdj9mmo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6952416800000000160200ce",
+          "noteId": "68c10b05000000001d023d0d",
+          "content": "好像都不需要，只需要自己的签名就行了",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "广东",
+          "pictures": [],
+          "status": 0
+        }
+      ],
+      "id": "69523caa0000000019003e9d",
+      "content": "想问问cs1表上面的那些签字在提交申请表到本专业之前，有哪些是需要自己去要的呀？",
+      "liked": false,
+      "subCommentCursor": "6952416800000000160200ce",
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "createTime": 1766997162000,
+      "invalid": false,
+      "noteId": "68c10b05000000001d023d0d",
+      "userInfo": {
+        "userId": "6370b3f2000000001f01e07f",
+        "nickname": "abandon",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cva9ev80k005orgmfp7ro3vqdj9mmo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTqS2N5UJDEixm3ELdSuXbxHYdfj5cLH4MzcKyUg4-WQ="
+      },
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "id": "68c128ac000000003001c990",
+          "noteId": "68c10b05000000001d023d0d",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1757489324000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68c11c300000000030030c80",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABoMDXOXdMMSkEWQ8Ze31dVO2n77FXuO-2vZP0D2WvwpM=",
+              "userId": "67753e06000000001403351d",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "status": 0,
+          "content": "对 感觉好混乱而且看不到进度[笑哭R]",
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "pictures": [],
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "68c128ac000000003001c990",
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABoMDXOXdMMSkEWQ8Ze31dVO2n77FXuO-2vZP0D2WvwpM=",
+        "userId": "67753e06000000001403351d",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1757486129000,
+      "subCommentHasMore": false,
+      "pictures": [],
+      "id": "68c11c300000000030030c80",
+      "noteId": "68c10b05000000001d023d0d",
+      "content": "我今天也跨选 先给老师发了邮件，然后老师说要去ee小秘那里填表，但是我们之前是本专业自己填了一个申请表，完全没搞懂这个流程[石化R]",
+      "atUsers": [],
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "中国香港",
+          "pictures": [],
+          "content": "是的，已经放弃了[笑哭R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1757583629000,
+          "targetComment": {
+            "id": "68c24ce6000000000b02d92c",
+            "userInfo": {
+              "userId": "649990c0000000001001fd2d",
+              "nickname": "ㅤ",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3196c0u7bl8005p4pi3043v9di06glo8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABsAenpmpSE377lcoGstUbiDNc71p7upMX79d4Xd6cE3M="
+            }
+          },
+          "invalid": false,
+          "id": "68c2990d0000000030028de4",
+          "noteId": "68c10b05000000001d023d0d"
+        }
+      ],
+      "id": "68c24ce6000000000b02d92c",
+      "status": 0,
+      "userInfo": {
+        "userId": "649990c0000000001001fd2d",
+        "nickname": "ㅤ",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3196c0u7bl8005p4pi3043v9di06glo8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsAenpmpSE377lcoGstUbiDNc71p7upMX79d4Xd6cE3M="
+      },
+      "subCommentCursor": "68c2990d0000000030028de4",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "content": "流程好乱，而且看不到进度。去问负责add drop那个邮箱，只会回复submit to the department[捂脸R]",
+      "atUsers": [],
+      "createTime": 1757564134000,
+      "noteId": "68c10b05000000001d023d0d",
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "noteId": "68c10b05000000001d023d0d",
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "68c10b05000000001d023d0d",
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68c11ea8000000003002eaf3",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABapA60sskirCbxqdWTimjxGLJRqOE9nP1irxUvxQn-rk=",
+              "userId": "61592beb000000001f03952f",
+              "nickname": "Skim",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/61592c459e1a13f94f3f24b9.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "68c128db0000000030028ba0",
+          "content": "都差不多[doge]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0="
+          },
+          "createTime": 1757489372000
+        }
+      ],
+      "id": "68c11ea8000000003002eaf3",
+      "userInfo": {
+        "userId": "61592beb000000001f03952f",
+        "nickname": "Skim",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61592c459e1a13f94f3f24b9.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABapA60sskirCbxqdWTimjxGLJRqOE9nP1irxUvxQn-rk="
+      },
+      "ipLocation": "中国香港",
+      "content": "ee实在烂啊[笑哭R]",
+      "likeCount": "3",
+      "subCommentCursor": "68c128db0000000030028ba0",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1757486761000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "ipLocation": "广东",
+      "id": "68c1153f000000002301e77e",
+      "createTime": 1757484352000,
+      "subCommentCursor": "68c129090000000030031b3d",
+      "noteId": "68c10b05000000001d023d0d",
+      "status": 0,
+      "content": "+1，seem，ie一堆课不给选，真压力大闷",
+      "liked": false,
+      "likeCount": "3",
+      "userInfo": {
+        "nickname": "豪大大鸡排加盟",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321sou0g67a005pln77gne8ej3c65t80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxwrR9Z7QOQhM_2-hOCFNNmeIq4ark6o7z9fG6Ve2ycU=",
+        "userId": "66b739e1000000001d0321d3"
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "createTime": 1757489418000,
+          "pictures": [],
+          "id": "68c129090000000030031b3d",
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68c1153f000000002301e77e",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321sou0g67a005pln77gne8ej3c65t80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxwrR9Z7QOQhM_2-hOCFNNmeIq4ark6o7z9fG6Ve2ycU=",
+              "userId": "66b739e1000000001d0321d3",
+              "nickname": "豪大大鸡排加盟"
+            }
+          },
+          "invalid": false,
+          "noteId": "68c10b05000000001d023d0d",
+          "content": "确实，我看就该全部开放➕无限quota啊[doge]",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "61e6a7510000000021029bbb",
+            "nickname": "Cartesian",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68c1370c00000000300261e5",
+      "invalid": false,
+      "noteId": "68c10b05000000001d023d0d",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "content": "补充：ee更是直接给我rej了[石化R]",
+      "atUsers": [],
+      "likeCount": "1",
+      "userInfo": {
+        "nickname": "Cartesian",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+        "userId": "61e6a7510000000021029bbb"
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentCursor": "68c930eb000000000b02c459",
+      "createTime": 1757493006000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "68c10b05000000001d023d0d",
+          "content": "机器学习这门课太俏了，本系的都选不上",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1758015724000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68c1370c00000000300261e5",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHrzpYX8zZSqZqGeuM2RExv0=",
+              "userId": "61e6a7510000000021029bbb",
+              "nickname": "Cartesian"
+            }
+          },
+          "invalid": false,
+          "id": "68c930eb000000000b02c459",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "5d1a0b1e0000000016034d21",
+            "nickname": "冽靳",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tqonmpr780g5n8q1cf5mj91v6remv8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABL91Y8Wex-eP0-pBiBCUxE8w99R7k1_wVPihzXk6taOo="
+          },
+          "showTags": [],
+          "pictures": []
+        }
+      ],
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281125/53a546055da72c07222a525fe6ffe506/comment/1040g2h031m8c6s41m8005of6kt8od6trr6pgfq0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281125/bdc6ac410ed9e48ca593adf8727040ee/comment/1040g2h031m8c6s41m8005of6kt8od6trr6pgfq0!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 2556,
+          "width": 1179,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281125/53a546055da72c07222a525fe6ffe506/comment/1040g2h031m8c6s41m8005of6kt8od6trr6pgfq0!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281125/bdc6ac410ed9e48ca593adf8727040ee/comment/1040g2h031m8c6s41m8005of6kt8od6trr6pgfq0!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 选课",
+  "search_item": {
+    "noteCard": {
+      "displayTitle": "cuhkcs选外系课大失败",
+      "user": {
+        "nickname": "Cartesian",
+        "xsecToken": "AB75shT2paBT-LQZYLGbIrAK4rOy6yPz0_TTIrys9BxSQ=",
+        "nickName": "Cartesian",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uao44op2q005of6kt8od6trl37c6g0?imageView2/2/w/80/format/jpg",
+        "userId": "61e6a7510000000021029bbb"
+      },
+      "interactInfo": {
+        "commentCount": "23",
+        "sharedCount": "9",
+        "liked": false,
+        "likedCount": "14",
+        "collected": false,
+        "collectedCount": "4"
+      },
+      "cover": {
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281124/6e68b5a3b01b0146904754069985acea/1040g00831m86ijublm005of6kt8od6trjrhrkog!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281124/455cab8270bab59bc430b036ee01bcbb/1040g00831m86ijublm005of6kt8od6trjrhrkog!nc_n_webp_prv_1",
+        "height": 1600
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281124/6e68b5a3b01b0146904754069985acea/1040g00831m86ijublm005of6kt8od6trjrhrkog!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281124/455cab8270bab59bc430b036ee01bcbb/1040g00831m86ijublm005of6kt8od6trjrhrkog!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-09-10"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABsuDh6sIRQW1ICgFxeobVN-qzPMGKdRrGox7Sl32L9Ws=",
+    "id": "68c10b05000000001d023d0d",
+    "modelType": "note",
+    "index": 3,
+    "exposed": true,
+    "trackId": "68c10b05000000001d023d0d"
+  }
+}

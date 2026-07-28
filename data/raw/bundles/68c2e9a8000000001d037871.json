@@ -1,0 +1,63 @@
+{
+  "note_id": "68c2e9a8000000001d037871",
+  "url": "https://www.xiaohongshu.com/explore/68c2e9a8000000001d037871?xsec_token=AB0-MQjlgYmxN7p1On9bDe3toomM56M0-8VaDZdhVc5nY=",
+  "fetched_at": 1785221669.7772245,
+  "course_codes": [
+    "CS1302",
+    "CS2115",
+    "CS2310",
+    "CS3334"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "给港本CS新生推荐一些自学资源",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "（以城大的课程为例，或许会持续更新）\n1. Python（CS1302）：菜鸟教程，不推荐从头看到尾，lab课讲了什么就看什么\n2. C++（CS2310，CS3334）：GeeksforGeeks，跟菜鸟教程类似，不过我觉得这个上面的C++内容更好\n3. 各种大学不会教的工具（Git，命令行）：Missing Semester of Your CS Education，真的需要花时间看看，作为一个CS学生，不会使用命令行，Git这些工具还是有点丢人的\n4. Computer Organization（CS2115）：Crash Course的Computer Science部分，它的定位是给非CS学生上的CS课，但是我觉得它的计组部分讲得特别好，如果你听不懂计组课的话可以听听",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长有没有cs2115的自学资料啊，太难了真的整不明白",
+      "sourceRef": "comment:68cec61e000000000b01d5e0",
+      "commentId": "68cec61e000000000b01d5e0",
+      "likes": 0,
+      "author": "赶羚羊的我叫粥里有青菜."
+    },
+    {
+      "type": "sub_comment",
+      "text": "b站的jz讲的不错[doge]",
+      "sourceRef": "comment:68e49a66000000003300ea48",
+      "commentId": "68e49a66000000003300ea48",
+      "likes": 0,
+      "author": "Khalil"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢学长！",
+      "sourceRef": "comment:68c9a4800000000030005e34",
+      "commentId": "68c9a4800000000030005e34",
+      "likes": 0,
+      "author": "小洗天天开心"
+    },
+    {
+      "type": "comment",
+      "text": "感谢学长！正好在上2310",
+      "sourceRef": "comment:68c306c0000000002301db44",
+      "commentId": "68c306c0000000002301db44",
+      "likes": 1,
+      "author": "人可随波"
+    },
+    {
+      "type": "comment",
+      "text": "cs1302整不明白啊，教授上课好像什么都没有讲",
+      "sourceRef": "comment:68f9fd11000000003901da70",
+      "commentId": "68f9fd11000000003901da70",
+      "likes": 0,
+      "author": "萤火绘梦"
+    }
+  ]
+}

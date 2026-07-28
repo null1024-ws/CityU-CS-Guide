@@ -1,0 +1,750 @@
+{
+  "note_id": "6a3a9a54000000000f033851",
+  "url": "https://www.xiaohongshu.com/explore/6a3a9a54000000000f033851?xsec_token=ABDu8LrNt4a2oq2lcpG5sBFnNNpwEReAp7PfQ2v6ydXPU=",
+  "fetched_at": 1785221684.3965225,
+  "note": {
+    "xsecToken": "ABDu8LrNt4a2oq2lcpG5sBFnNNpwEReAp7PfQ2v6ydXPU=",
+    "title": "所以你也和我一样喜欢csapp吗。",
+    "desc": "爱上《深入理解计算机系统》有很多原因\n其中最重要的原因是厚度恰好适合垫显示器[偷笑R]\n#这本书我真的看到半夜三更[话题]# #好书分享[话题]#  #毕业照[话题]# #计算机系[话题]# #清华大学[话题]#",
+    "user": {
+      "userId": "62a3ed6e000000001b025fa6",
+      "nickname": "zg sparkle",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m2ujhrr4q105ol3tln6snt6gd3srn0",
+      "xsecToken": "ABovP-K82jbwbagwuVf46Uwl25LaF4Hzy-_4KoRrHlJSk="
+    },
+    "atUserList": [],
+    "time": 1782225492000,
+    "lastUpdateTime": 1782225493000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a3a9a54000000000f033851",
+    "type": "normal",
+    "interactInfo": {
+      "shareCount": "46",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "299",
+      "collected": false,
+      "collectedCount": "48",
+      "commentCount": "44"
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "fileId": "notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88",
+        "height": 1024,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/34af401661b4088fa8526a7ef21f6cfa/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/7bafdd5ab98f3e0d7e5f70f2500f7ea7/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/34af401661b4088fa8526a7ef21f6cfa/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/7bafdd5ab98f3e0d7e5f70f2500f7ea7/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 683
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao",
+        "width": 1024,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/17629907b1eabdb8aecf5eb055a4f9bb/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/ccc650adb53697bbca1a9374c3b792a3/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "height": 683,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/17629907b1eabdb8aecf5eb055a4f9bb/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/ccc650adb53697bbca1a9374c3b792a3/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nd_dft_wgth_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98",
+        "height": 683,
+        "width": 1024,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/8fd43d6d11b2de74119e969e307db9b1/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/72a72c656ad245c6190e861e73615ddf/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/8fd43d6d11b2de74119e969e307db9b1/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/72a72c656ad245c6190e861e73615ddf/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nd_dft_wgth_jpg_3",
+        "stream": {}
+      },
+      {
+        "height": 683,
+        "width": 1024,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/344aea0cccc348cc32a7693c3dd92d26/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/0ae42f4a5f2d6bfb16997ad94ca5b9b8/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/344aea0cccc348cc32a7693c3dd92d26/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/0ae42f4a5f2d6bfb16997ad94ca5b9b8/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740"
+      },
+      {
+        "height": 1024,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/983c8e118bf58df8c69b5d61ca820f47/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/c6ef5c294939b7e24bc22b4920eec846/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/983c8e118bf58df8c69b5d61ca820f47/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8",
+        "width": 683,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/c6ef5c294939b7e24bc22b4920eec846/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "height": 683,
+        "width": 1024,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/676a76a65cb389372568c79ea87aafc9/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/fc14ab2d716cfe76895c4a2392165642/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/676a76a65cb389372568c79ea87aafc9/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/fc14ab2d716cfe76895c4a2392165642/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nd_prv_wgth_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "66f824a1000000002403b6b6",
+        "name": "这本书我真的看到半夜三更",
+        "type": "topic"
+      },
+      {
+        "id": "647eaf9000000000140302b6",
+        "name": "好书分享",
+        "type": "topic"
+      },
+      {
+        "id": "5947423bcd30d83db64f573a",
+        "name": "毕业照",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "612334050000000001003fd3",
+        "name": "计算机系"
+      },
+      {
+        "id": "5bf5456414ef4800012e2a9a",
+        "name": "清华大学",
+        "type": "topic"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "noteId": "6a3a9a54000000000f033851",
+      "userInfo": {
+        "userId": "66cfbce7000000001d021256",
+        "nickname": "Akanegasaki",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fq2e7d9gi6g5pmfnjjnc4im2psth40?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABj377-elLfHhigg5ukBZLRMHhRU3w7PuGAn8VB-iSkms="
+      },
+      "subComments": [
+        {
+          "id": "6a4232200000000015009eba",
+          "noteId": "6a3a9a54000000000f033851",
+          "status": 0,
+          "content": "你是cmu佬，信你",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kfpsrv3iu605p56tqjk3uhe395h1kg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQ1I4-ulijQ0kHvCvzq5p0N7vE5OiaWixYmP-KceErHg=",
+            "userId": "64a6eea7000000001001fa2e",
+            "nickname": "L1nK"
+          },
+          "likeCount": "2",
+          "showTags": [],
+          "createTime": 1782723104000,
+          "ipLocation": "山东",
+          "targetComment": {
+            "id": "6a413a32000000000d021801",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fq2e7d9gi6g5pmfnjjnc4im2psth40?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABj377-elLfHhigg5ukBZLRMHhRU3w7PuGAn8VB-iSkms=",
+              "userId": "66cfbce7000000001d021256",
+              "nickname": "Akanegasaki"
+            }
+          },
+          "pictures": [],
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "content": "csapp 主要是a programmers perspective大部分内容是被简化的 和实际操作系统/处理器的行为不太一样",
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "4",
+      "pictures": [],
+      "id": "6a413a32000000000d021801",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1782659634000,
+      "subCommentCursor": "6a4232200000000015009eba",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "likeCount": "2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCursor": "6a4724ff000000001403bb8b",
+      "pictures": [],
+      "id": "6a41e4f500000000150069a2",
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABn9b-T2MERDtFeckNrjqVVovK1JQan7lJqv0YBKUwV3E=",
+        "userId": "5f2472f70000000001007890",
+        "nickname": "湾区干饭研究员",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2j43tpl2j805g5np4ebrg8u4g5judd20?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1782703349000,
+      "subCommentCount": "2",
+      "content": "这本书对于top2来讲应该只能算科普读物",
+      "atUsers": [],
+      "likeCount": "1",
+      "invalid": false,
+      "noteId": "6a3a9a54000000000f033851",
+      "subComments": [
+        {
+          "likeCount": "1",
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "6a41e4f500000000150069a2",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2j43tpl2j805g5np4ebrg8u4g5judd20?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABn9b-T2MERDtFeckNrjqVVovK1JQan7lJqv0YBKUwV3E=",
+              "userId": "5f2472f70000000001007890",
+              "nickname": "湾区干饭研究员"
+            }
+          },
+          "pictures": [],
+          "content": "但是人家是不是eecs的系科诶",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "673f48da0000000010002024",
+            "nickname": "小红薯673F4E41",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7ea002c16c941e0bcb05.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABchFvr-1KJs1yI0i__i4nE_h-a48-ZGcG10f3lckIXpA="
+          },
+          "showTags": [],
+          "createTime": 1783047424000,
+          "invalid": false,
+          "id": "6a4724ff000000001403bb8b",
+          "noteId": "6a3a9a54000000000f033851",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a3a9a54000000000f033851",
+      "status": 0,
+      "subComments": [
+        {
+          "noteId": "6a3a9a54000000000f033851",
+          "status": 0,
+          "likeCount": "1",
+          "createTime": 1782546361000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a3d8f68000000002902dbdd",
+            "userInfo": {
+              "xsecToken": "ABFu8j9YHfBqLeKKQyeJLc_BKZ-M-6I162UknXEQKYIU4=",
+              "userId": "66b1d318000000001d03336e",
+              "nickname": "現實逃避i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v1e1i1ciq0g5plhqcc7ecre5k0ppg0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a3f7fb8000000002a0068ab",
+          "content": "博弈论呢[doge]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jr9vgu2j2605nimbe0g8qk78aasq9o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5_Km1foZKnSHEzIY8HY48sE7p12C_ypJcQlI5zRhsUM=",
+            "userId": "5e565b810000000001006a87",
+            "nickname": "wowo"
+          },
+          "showTags": []
+        }
+      ],
+      "subCommentCursor": "6a3f7fb8000000002a0068ab",
+      "pictures": [
+        {
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/0fd503d027650a4fcbd7dd9c426eacb9/comment/1040g2h0321rq00v7ne005plhqcc7ecreolvijbo!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/47b255c2227e7216c4fd0fa26c79b527/comment/1040g2h0321rq00v7ne005plhqcc7ecreolvijbo!nd_whlt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/0fd503d027650a4fcbd7dd9c426eacb9/comment/1040g2h0321rq00v7ne005plhqcc7ecreolvijbo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/47b255c2227e7216c4fd0fa26c79b527/comment/1040g2h0321rq00v7ne005plhqcc7ecreolvijbo!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "height": 537,
+          "width": 650
+        }
+      ],
+      "invalid": false,
+      "liked": false,
+      "likeCount": "5",
+      "userInfo": {
+        "userId": "66b1d318000000001d03336e",
+        "nickname": "現實逃避i",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v1e1i1ciq0g5plhqcc7ecre5k0ppg0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFu8j9YHfBqLeKKQyeJLc_BKZ-M-6I162UknXEQKYIU4="
+      },
+      "showTags": [],
+      "content": "这个书真的巨难啃啊，没有这个自律去啃[完啦R]",
+      "subCommentHasMore": true,
+      "id": "6a3d8f68000000002902dbdd",
+      "atUsers": [],
+      "createTime": 1782419307000,
+      "ipLocation": "美国",
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "ipLocation": "上海",
+      "invalid": false,
+      "noteId": "6a3a9a54000000000f033851",
+      "content": "算法导论，csapp，c++ primer plus，三件套垫显示器神器[doge]",
+      "liked": false,
+      "userInfo": {
+        "userId": "62dec3d9000000001f006239",
+        "nickname": "Jack Lo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m7lb3lh6c005omuofcnoohpsjoec5o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5eGtwI5CQdJDJajQUGLe7DcZkHGRRR0HZUzjvU_vSAc="
+      },
+      "createTime": 1782225909000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "likeCount": "2",
+      "id": "6a3a9bf50000000029018a82",
+      "status": 3,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a3a9a54000000000f033851",
+      "content": "这时候就必须拿出这张陈年老图了[doge]，当年考完我还特意发了个pyq",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "17",
+      "ipLocation": "北京",
+      "id": "6a3aa35a0000000029025c7f",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1782227804000,
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/1cad1c7cd2b3097d5fc66fb138b42b5d/comment/1040g4b8321ouluev7adg5pkjf3j0u2mibetsll8!nc_n_webp_mw_1",
+              "imageScene": "WB_PRV"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/54d2eff3d210321f7d69437318eb503c/comment/1040g4b8321ouluev7adg5pkjf3j0u2mibetsll8!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 891,
+          "width": 620,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/1cad1c7cd2b3097d5fc66fb138b42b5d/comment/1040g4b8321ouluev7adg5pkjf3j0u2mibetsll8!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/54d2eff3d210321f7d69437318eb503c/comment/1040g4b8321ouluev7adg5pkjf3j0u2mibetsll8!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "nickname": "单极子",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ulrqs7nig4g5pkjf3j0u2mirulvptg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvJcc7J7qiVfak03NlqL9unvptB_nmeyQSeW3VwHeyUU=",
+        "userId": "669378e60000000003030ad2"
+      },
+      "subComments": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "3",
+      "createTime": 1782454386000,
+      "subComments": [
+        {
+          "id": "6a53e00e000000002b002906",
+          "status": 0,
+          "content": "入门读物",
+          "liked": false,
+          "likeCount": "0",
+          "pictures": [],
+          "invalid": false,
+          "noteId": "6a3a9a54000000000f033851",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "60f8e65d00000000010055f2",
+            "nickname": "暴躁的达伦在想事情",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e6q8uragm505o7ospeg8lfib37rcpo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABA-BlzMfpSX5LFmrdUq2-MAz94lmMvk_ujncm-T1cih4="
+          },
+          "showTags": [],
+          "createTime": 1783881742000,
+          "ipLocation": "丹麦",
+          "targetComment": {
+            "id": "6a3e18710000000015007a77",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB0KPDIMXm6S2tsbOM-e7XfN9MkpCjBaYp6UHnNsbZB-0=",
+              "userId": "676dc295000000001801e7ff",
+              "nickname": "momo.ai",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31om210r3g6005prdoaam3pvv6dft7uo?imageView2/2/w/120/format/jpg"
+            }
+          }
+        }
+      ],
+      "pictures": [],
+      "status": 0,
+      "content": "一直感觉计算机核心就两本书CSAPP和SICP[笑哭R]",
+      "showTags": [],
+      "ipLocation": "日本",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6a3a9a54000000000f033851",
+      "liked": false,
+      "subCommentCursor": "6a53e00e000000002b002906",
+      "id": "6a3e18710000000015007a77",
+      "userInfo": {
+        "userId": "676dc295000000001801e7ff",
+        "nickname": "momo.ai",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31om210r3g6005prdoaam3pvv6dft7uo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0KPDIMXm6S2tsbOM-e7XfN9MkpCjBaYp6UHnNsbZB-0="
+      },
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a5cb9e100000000140383c1",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lg50g00lo6g5ol0gkbocd44l7htoa0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWx2jfQuRCsQlFAHuzcayknwxJl9LAyJCHUN0BcjHyfs=",
+        "userId": "62a085170000000021023484",
+        "nickname": "Kiperina"
+      },
+      "showTags": [],
+      "subCommentCursor": "",
+      "createTime": 1784461793000,
+      "subComments": [],
+      "noteId": "6a3a9a54000000000f033851",
+      "content": "清华的也会为此头疼吗[哭惹R]",
+      "ipLocation": "甘肃",
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "noteId": "6a3a9a54000000000f033851",
+      "ipLocation": "陕西",
+      "subCommentHasMore": false,
+      "content": "学姐教我",
+      "createTime": 1782273189000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "id": "6a3b54a500000000090141ab",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "62a83e0d000000001b0247dc",
+        "nickname": "nuslluf",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d126bec48793e86f22f2a6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABl6FhOievdBYYbgE4l7-S1o1YuAvuT9UUVAdqoSgAMis="
+      },
+      "subComments": [],
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "辽宁",
+      "noteId": "6a3a9a54000000000f033851",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "content": "对对对[偷笑R]",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6530f7b2000000002b000a14",
+        "nickname": "AI前沿基地",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne02r716g5g5p9guupao2gk9q7rl38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4NBNu7ga6ZOl8bDXEhk3gGgFVAoa88VSeBa1XTNt7fU="
+      },
+      "createTime": 1782270905000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6a3b4bb80000000014038562",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "id": "6a3aa09c000000001500b0f2",
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABNo-ANsxFFQroXRUzpaoGssKlGlF5aPOtNJwb3ykeOpg=",
+        "userId": "5a6207dbe8ac2b5e853acd6e",
+        "nickname": "YuuuBeauty",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r6vs6itnu004a0v0o3tnjbeaj6aat8?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "北京",
+      "pictures": [],
+      "invalid": false,
+      "liked": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "noteId": "6a3a9a54000000000f033851",
+      "content": "支持这个美丽雨姐！",
+      "showTags": [],
+      "atUsers": [],
+      "createTime": 1782227101000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5288 怎么样",
+  "search_item": {
+    "id": "6a3a9a54000000000f033851",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "所以你也和我一样喜欢csapp吗。",
+      "user": {
+        "nickName": "zg sparkle",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m2ujhrr4q105ol3tln6snt6gd3srn0?imageView2/2/w/80/format/jpg",
+        "userId": "62a3ed6e000000001b025fa6",
+        "nickname": "zg sparkle",
+        "xsecToken": "ABgqIwl7tkbWYVrT8KZlx9SU_XHI0w25XcaebeA-PSiMk="
+      },
+      "interactInfo": {
+        "collectedCount": "48",
+        "commentCount": "44",
+        "sharedCount": "46",
+        "liked": false,
+        "likedCount": "299",
+        "collected": false
+      },
+      "cover": {
+        "height": 1024,
+        "width": 683,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/87163a8c288d312c050e1b7525ff4691/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/b9629d19955572096e500238c97438ce/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/87163a8c288d312c050e1b7525ff4691/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/b9629d19955572096e500238c97438ce/notes_pre_post/1040g3k8321ot6r70msbg5ol3tln6snt640tev88!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1024,
+          "width": 683
+        },
+        {
+          "height": 683,
+          "width": 1024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/73c581c7d93dfe8df3565170b8d54d7e/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/9bfac3d004b4bf507b15e2698435fffb/notes_pre_post/1040g3k0321otb3ji740g5ol3tln6snt6k3p9hao!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 683,
+          "width": 1024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/9836886ee8274231310f8882c927c819/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/69ce53502e7d73442dae9eeea4efe87d/notes_pre_post/1040g3k8321ot6r70msc05ol3tln6snt65u3oc98!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 683,
+          "width": 1024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/af67fccaea8287d48c6ec6f09fe525d4/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/a8a54082cc805825524fb5b2c16ee293/notes_pre_post/1040g3k8321ot6r70mscg5ol3tln6snt6mfio740!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1024,
+          "width": 683,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/8b02c51a9272484864cc6c2ed5e01f33/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/4a437c664b82a3c535a83f0561052c8f/notes_pre_post/1040g3k8321ot6r70msd05ol3tln6snt6sjpe0g8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 683,
+          "width": 1024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/b1abd3edc6aa799b7f86acbb3128ae24/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/cdcc4c9ee653f15730e567d4ac029be6/notes_pre_post/1040g3k8321ot6r70msdg5ol3tln6snt6m8af3e8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-23"
+        }
+      ]
+    },
+    "xsecToken": "ABDu8LrNt4a2oq2lcpG5sBFnNNpwEReAp7PfQ2v6ydXPU=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a3a9a54000000000f033851"
+  }
+}

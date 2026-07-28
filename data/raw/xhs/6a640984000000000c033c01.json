@@ -1,0 +1,148 @@
+{
+  "note_id": "6a640984000000000c033c01",
+  "url": "https://www.xiaohongshu.com/explore/6a640984000000000c033c01?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bu1eteRrlpkjYaHsmQdC06U=",
+  "fetched_at": 1785208844.4893928,
+  "note": {
+    "xsecToken": "ABj2Cu4GcfjlWcZF7HFqq3bu1eteRrlpkjYaHsmQdC06U=",
+    "type": "normal",
+    "desc": "太懒了一直想写但硬是拖到毕业前才写，导致已经忘了很多内容【\n非科班，不想读GA所以走了AI Track，full time上班 part time上课，中间穿插着考了CFA level1，累的wanna die\n\t\n1. ML4T CS7646\n第一门试水课，ML入门课，内容不深，我本科和工作都是金融相关所以金融方面没有障碍。只记得大project是写一个model根据3个自选indicator自动buy sell JPM，要outperform hold不懂的时候的收益。\n不难拿A，但印象中写report写的非常非常非常烦，感觉本科business都没写过这么密集的report。\n我上的时候是23年fall，考试open note open internet，现在好像不行了\n\t\n2.SDP CS6630\n我选的专业必修课，Java，有group project，随机分组。运气还不错分到的组员都很靠谱\n轻松拿A 没有考试\n\t\n3.DBS CS6400\ndatabase design，开学才发现跟我本科上的database课用的教材一模一样…所以学起来感觉很轻松。4场考试，可能因为学过一遍了感觉不是很难。project自己组队，最后有个presentation。总体不难，就是耗时间。基本上一周考试 一周project milestone due。\n拿A率好像不高，但认真学还是不难\n\t\n4. AIES CS6603\n水课，summer修来放松的，印象中每周一个写作，没学到什么。考试也不难，就是看图说说哪里misleading什么的\neasy A\n\t\n5. IIS CS6035\ncatch the flag，对于没有cybersecurity经验但对黑客故事的sde来说很有意思。要求对计算机网络应用的各个方面都有一定了解。猜谜一样，实在摸不着头脑可以去discussion里看看大家留下的hints。没有考试\n\t\n#转码[话题]# #文科转码[话题]# #计算机科学[话题]# #omscs[话题]# #佐治亚洲[话题]# #gatech[话题]#",
+    "imageList": [
+      {
+        "fileId": "oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g",
+        "height": 1542,
+        "width": 1260,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281120/e76fbbc58029897e6b267fc765c5ee25/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281120/eaef0e5b73cc7b32aa63b8cf3c1af064/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281120/e76fbbc58029897e6b267fc765c5ee25/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281120/eaef0e5b73cc7b32aa63b8cf3c1af064/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "name": "文科转码",
+        "type": "topic",
+        "id": "6075040b0000000001000e2e"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "id": "5fe2511f0000000001005622",
+        "name": "omscs",
+        "type": "topic"
+      },
+      {
+        "id": "616551dc000000000100ba8f",
+        "name": "佐治亚洲",
+        "type": "topic"
+      },
+      {
+        "id": "612c06ca000000000100b8ee",
+        "name": "gatech",
+        "type": "topic"
+      }
+    ],
+    "time": 1784940932000,
+    "lastUpdateTime": 1784949761000,
+    "ipLocation": "加拿大",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a640984000000000c033c01",
+    "title": "写在OMSCS毕业前 - 课程总结 2",
+    "user": {
+      "userId": "5f937384000000000100643d",
+      "nickname": "momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63e70fac7a8c170ff19b2991.jpg",
+      "xsecToken": "AB5cT_1es4jFBTms09eH_puTsmEyem0ptvEboT7fXgCOQ="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "30",
+      "collected": false,
+      "collectedCount": "28",
+      "commentCount": "",
+      "relation": "none",
+      "niceCount": "",
+      "shareCount": "8",
+      "followed": false
+    },
+    "atUserList": []
+  },
+  "comments": [],
+  "search_query": "CS6520 Project",
+  "search_item": {
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "30",
+        "collected": false,
+        "collectedCount": "28",
+        "commentCount": "0",
+        "sharedCount": "8"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281120/45a007a4a65a71ac08a69f49ca706a05/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nc_n_webp_prv_1",
+        "height": 1542,
+        "width": 1260,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281120/2db4b8d61c1db94eb1096092f97096c4/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1542,
+          "width": 1260,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281120/2db4b8d61c1db94eb1096092f97096c4/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281120/45a007a4a65a71ac08a69f49ca706a05/oss-sg/notes_pre_post/1040g3mo3231bf3danq105nsjee208p1ts3u321g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "写在OMSCS毕业前 - 课程总结 2",
+      "user": {
+        "xsecToken": "AB2N4ZniYy2Nj8dSxTMBXwZzWKCGT8sLYdPkvP4zwl3Xg=",
+        "nickName": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63e70fac7a8c170ff19b2991.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5f937384000000000100643d",
+        "nickname": "momo"
+      }
+    },
+    "xsecToken": "ABj2Cu4GcfjlWcZF7HFqq3bu1eteRrlpkjYaHsmQdC06U=",
+    "id": "6a640984000000000c033c01",
+    "modelType": "note",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6a640984000000000c033c01"
+  }
+}

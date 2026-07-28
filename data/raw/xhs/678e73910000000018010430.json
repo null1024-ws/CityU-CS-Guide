@@ -1,0 +1,471 @@
+{
+  "note_id": "678e73910000000018010430",
+  "url": "https://www.xiaohongshu.com/explore/678e73910000000018010430?xsec_token=ABuMKyh0Bi9ekxmhP0QM2ZVung2r66a-qBKuA8NeaeLNs=",
+  "fetched_at": 1785209331.052856,
+  "note": {
+    "xsecToken": "ABuMKyh0Bi9ekxmhP0QM2ZVung2r66a-qBKuA8NeaeLNs=",
+    "title": "颜水成回归NUS，担任特聘教授",
+    "desc": "刚刚，颜水成宣布回到新加坡国立大学（NUS），担任计算机系特聘教授。\n2024年11月9日，昆仑万维宣布了一项有关 2050 全球研究院的重要人事调整：颜水成不再担任 2050 全球研究院院长，改任昆仑万维荣誉顾问。\n#AI[话题]# #颜水成[话题]# #NUS[话题]#",
+    "user": {
+      "userId": "5d22acc9000000001600b46e",
+      "nickname": "AIR-FANTASY",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5d22af3b64e1420001424f1f.jpg",
+      "xsecToken": "ABCadQATGKuaDc-m5-I2a8QU2ba7cbi2VANAtHs6shKM4="
+    },
+    "tagList": [
+      {
+        "id": "5d6b7cdb000000000103e136",
+        "name": "AI",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "672f5b2a000000001f03e958",
+        "name": "颜水成"
+      },
+      {
+        "id": "5e3023310000000001003597",
+        "name": "NUS",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1737388945000,
+    "lastUpdateTime": 1737388946000,
+    "noteId": "678e73910000000018010430",
+    "type": "normal",
+    "interactInfo": {
+      "likedCount": "274",
+      "collected": false,
+      "collectedCount": "110",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "commentCount": "38",
+      "shareCount": "382",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281129/399b04051c6e8c77b60dbc5fc7ffa7c1/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281129/1b02fb0dcd90ca74f28ba8bae04cfce0/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "height": 1402,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281129/399b04051c6e8c77b60dbc5fc7ffa7c1/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281129/1b02fb0dcd90ca74f28ba8bae04cfce0/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao",
+        "width": 1200
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "678e7540000000000c0119ef",
+            "userInfo": {
+              "userId": "63ad1c7800000000260052c4",
+              "nickname": "Daisydaisy",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n0vpdl26m005otd3hs9gkm4og1o880?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABSBvO1eX3Zqf518JD0dk3ynFg87qEboxvZ5tIjsUqVhY="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d22af3b64e1420001424f1f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABC4OL-dtTAG-WebVIHqpWBbp62Eel4qIV6iSLZ2lhIR4=",
+            "userId": "5d22acc9000000001600b46e",
+            "nickname": "AIR-FANTASY"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1737389522000,
+          "id": "678e75d2000000000a019a66",
+          "noteId": "678e73910000000018010430",
+          "content": "这个问题还真回答不了，我只是认识颜老师，转发他的最新动态[笑哭R]",
+          "atUsers": [],
+          "likeCount": "11"
+        }
+      ],
+      "subCommentCursor": "678e75d2000000000a019a66",
+      "invalid": false,
+      "status": 0,
+      "content": "哇恭喜大佬！我是也马上要去NUS做博后，不过我是CSC资助的，现在有个问题请教一下，我正在办理TEP签证，但我发现它的停留期只有3个月，而我需要博后2年，请问这个该怎么办呢[笑哭R][笑哭R]",
+      "atUsers": [],
+      "likeCount": "17",
+      "subCommentCount": "13",
+      "createTime": 1737389376000,
+      "ipLocation": "山西",
+      "id": "678e7540000000000c0119ef",
+      "userInfo": {
+        "userId": "63ad1c7800000000260052c4",
+        "nickname": "Daisydaisy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n0vpdl26m005otd3hs9gkm4og1o880?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSBvO1eX3Zqf518JD0dk3ynFg87qEboxvZ5tIjsUqVhY="
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "noteId": "678e73910000000018010430",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "5f43d4e90000000001003c3f",
+        "nickname": "这就是你娘的剑法",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABeuXDurwvDsd4V_GU9ruRnGiPxXRlEqPevb5qmMO80tU="
+      },
+      "createTime": 1737441243000,
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "practice 是练习生吗[doge]",
+      "showTags": [],
+      "ipLocation": "河南",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "678e73910000000018010430",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "createTime": 1737447545000,
+          "id": "678f5879000000000c013e9f",
+          "status": 0,
+          "content": "来当2年半教授",
+          "likeCount": "4",
+          "userInfo": {
+            "userId": "5e685fb900000000010047ca",
+            "nickname": "奶茶多冰",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jafm5bpiu005nj8busg8huakd76e8g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABnu6X3Hyvzc-ru5zCjxg_Zy2c2c0oTWbkOc-ZWvPVwSI="
+          },
+          "ipLocation": "山东",
+          "targetComment": {
+            "id": "678f3fda000000001b033839",
+            "userInfo": {
+              "userId": "5f43d4e90000000001003c3f",
+              "nickname": "这就是你娘的剑法",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABeuXDurwvDsd4V_GU9ruRnGiPxXRlEqPevb5qmMO80tU="
+            }
+          }
+        }
+      ],
+      "noteId": "678e73910000000018010430",
+      "atUsers": [],
+      "likeCount": "10",
+      "subCommentCursor": "678f5879000000000c013e9f",
+      "invalid": false,
+      "id": "678f3fda000000001b033839",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n0vpdl26m005otd3hs9gkm4og1o880?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSBvO1eX3Zqf518JD0dk3ynFg87qEboxvZ5tIjsUqVhY=",
+        "userId": "63ad1c7800000000260052c4",
+        "nickname": "Daisydaisy"
+      },
+      "ipLocation": "山西",
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "createTime": 1743043325000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "67e4bafc0000000012002795",
+      "noteId": "678e73910000000018010430",
+      "showTags": [],
+      "content": "楼主您好，请问TEP生效以后，MOM官网查询TEP状态的页面里，有一个expiry date，这是不是就是我的停留期？",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "noteId": "678e73910000000018010430",
+      "ipLocation": "美国",
+      "subComments": [],
+      "showTags": [],
+      "subCommentCursor": "",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1737424077000,
+      "invalid": false,
+      "id": "678efccd0000000009023def",
+      "content": "水王",
+      "liked": false,
+      "likeCount": "8",
+      "userInfo": {
+        "userId": "621988bb000000001000c8bd",
+        "nickname": "Jianhua Yin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tdc9be640605ogph2tk1i5tulti1oo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtI_ieH6QnvbOsBaZSoQ-dTBQX2Qwkx5MzUJbsTlTcXM="
+      },
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "678eadea000000001b03ece9",
+      "status": 0,
+      "content": "前一阵子看到他还挂着NTU的affiliation发论文",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "新加坡",
+      "noteId": "678e73910000000018010430",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "8",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322s83o0p7o005pgir27gu3jau532bjo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABg09oah1jZd37RZ1_XEJU8EkUze4m_U578u81JtNtM4A=",
+        "userId": "6612d88f0000000003030e6a",
+        "nickname": "Aeolus"
+      },
+      "subComments": [],
+      "createTime": 1737403882000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "noteId": "678e73910000000018010430",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "ipLocation": "广东",
+      "subComments": [],
+      "invalid": false,
+      "liked": false,
+      "likeCount": "11",
+      "id": "678ef16a000000001b035bc3",
+      "status": 0,
+      "content": "跳槽大王",
+      "userInfo": {
+        "userId": "627672e50000000015015d1c",
+        "nickname": "zeta",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/627672e50000000015015d1c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABlIGnpB9nK99GdIX_QiW1E_HA1S-NSyUUi6GI--3vz7c="
+      },
+      "showTags": [],
+      "createTime": 1737421163000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "7",
+      "ipLocation": "新加坡",
+      "subCommentCursor": "",
+      "id": "678ed830000000001b03b2c8",
+      "status": 0,
+      "showTags": [],
+      "invalid": false,
+      "content": "我看他的领英写的nus职位是part time的",
+      "userInfo": {
+        "userId": "5a2d1cbde8ac2b507c218d37",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315kg7oo3io5g4a06ngebr39nbv0v1c0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSeb-DPvl7ZgtS0ateUyD23aKkA8CudVZwe8s-yALbZQ="
+      },
+      "createTime": 1737414704000,
+      "subCommentCount": "0",
+      "noteId": "678e73910000000018010430",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "createTime": 1737603449000,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "userId": "5e564df70000000001003a55",
+        "nickname": "霍华德",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6370f532c6f33706866d413c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5_Km1foZKnSHEzIY8HY48rfujbVH2iCTGfVZfN93yo8="
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "liked": false,
+      "ipLocation": "阿联酋",
+      "id": "6791b978000000001a00ca5f",
+      "noteId": "678e73910000000018010430",
+      "content": "有意思的是 他之前是ece系的[偷笑R]",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB0aEQfiwS1njZ6ML0_LvYSuY8t8Uj8ZNmmclt-IJpd90=",
+        "userId": "5e1354280000000001009984",
+        "nickname": "momo（找实习版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kef0rmh3q005ngjagk096c4satl7n0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1737393074000,
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "content": "@Sleipnir 兜兜转转[doge]",
+      "atUsers": [
+        {
+          "userId": "583daee182ec395efc4e2b1d",
+          "nickname": "Sleipnir",
+          "aiAgent": false,
+          "xsecToken": "ABxpwEq7XmPGVnaUwU6x4npCcXvvCpGVXG63V06I6m57s="
+        }
+      ],
+      "liked": false,
+      "likeCount": "3",
+      "invalid": false,
+      "noteId": "678e73910000000018010430",
+      "ipLocation": "沙特阿拉伯",
+      "subCommentCursor": "",
+      "id": "678e83b20000000021030311",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1737391734000,
+      "invalid": false,
+      "likeCount": "1",
+      "ipLocation": "新加坡",
+      "subCommentCount": "0",
+      "noteId": "678e73910000000018010430",
+      "content": "去找颜老师签名合影[哇R]@momo",
+      "liked": false,
+      "userInfo": {
+        "userId": "60fe1af500000000010070d7",
+        "nickname": "游民",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qorbfth6u005o7u3bqg8s6n7137lhg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIWs4K6_51NYynPDtJ2CLMXT06u4vPWPKC4sbwq4izKs="
+      },
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "678e7e750000000020039d1b",
+      "status": 0,
+      "atUsers": [
+        {
+          "nickname": "momo",
+          "aiAgent": false,
+          "xsecToken": "ABr9wonEBhLTDfqgBZM1ULkUH1ybgGzkEuNCmy9o0wfyg=",
+          "userId": "5f7173db0000000001004a0f"
+        }
+      ],
+      "subComments": [],
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 避雷",
+  "search_item": {
+    "id": "678e73910000000018010430",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "collectedCount": "110",
+        "commentCount": "38",
+        "sharedCount": "382",
+        "liked": false,
+        "likedCount": "274",
+        "collected": false
+      },
+      "cover": {
+        "height": 1402,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281128/a5b6c09c7474d832d937a0b282409684/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281128/d3f4e81ec07e656cf1f747aa9f8cc867/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281128/a5b6c09c7474d832d937a0b282409684/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281128/d3f4e81ec07e656cf1f747aa9f8cc867/1040g2sg31cspr8j10m005n92lj4lhd3eo5jspao!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1402
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-01-21"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "颜水成回归NUS，担任特聘教授",
+      "user": {
+        "nickName": "AIR-FANTASY",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5d22af3b64e1420001424f1f.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5d22acc9000000001600b46e",
+        "nickname": "AIR-FANTASY",
+        "xsecToken": "ABIsQCjjVsCT59m0ZAwnPXQrmMjzrP048_0ip6wUihfRs="
+      }
+    },
+    "xsecToken": "ABuMKyh0Bi9ekxmhP0QM2ZVung2r66a-qBKuA8NeaeLNs=",
+    "index": 10,
+    "exposed": true,
+    "trackId": "678e73910000000018010430"
+  }
+}

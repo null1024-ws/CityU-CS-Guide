@@ -1,0 +1,80 @@
+{
+  "note_id": "676a224100000000090152a5",
+  "url": "https://www.xiaohongshu.com/explore/676a224100000000090152a5?xsec_token=ABvD4w6ft-W5RVz1EhICnwUOzQMwFK_8ECew_wXu_z1eI=",
+  "fetched_at": 1785209146.4468148,
+  "course_codes": [
+    "CS5228",
+    "CS5242",
+    "CS6207",
+    "CS6220",
+    "CS6280"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS CS QE和课程完结撒花，附SoC好课推荐",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🌟CS5228 Knowledge Discovery and Data Mining  有Chris选Chris，出了名的负责，在他的课也当过助教，给你安排的明明白白，能学到不少，也有条理，但也不太好抢。\n🌟CS5242 Neural Networks and Deep Learning mcomp里学ai的基本都离不开这门课，当时选的youyang和aixin老师教的学期，体验不错，能覆盖一部分相关的模型，但都不深，很适合入门。\n\t\n🌟CS6207 NLP课，算是督促型课程了，prof把项目进度安排的比较紧，但也算认真负责。除了读paper外还要写每篇论文的报告，如果想养成读论文好习惯的可以试试这门课。\n🌟CS6220 Advanced Topics in Data Mining，实际上每学期的主题都不太一样，可能是NLP可能是多模态，都比较紧跟前沿，prof真的很负责很美好，读的论文也都是prof从顶会挑选过来的，课堂交流比较活跃，也会有很多guest lectures。\n🌟CS6280 Topics in Computer Science: Deep Learning with Language Applications 这学期第一次开设的课程，很不错，还没发论文的同学强烈推荐，带你从proposal到实验到写论文再到reviewer然后rebuttal，真一条龙[笑哭R]虽然还有些不足，但相信这门课会越做越好。\n\t\n📝推荐的基本都是项目收尾的课程，期末不用考试真的轻松很多，而且不确定性没那么大，就是很看队友，队友选的好轻松很多，当然也可以自己solo，项目考核课程的好处就是没出分基本知道自己能不能拿A。\n无论如何，算是阶段性胜利了，希望新的一年论文收收收，许愿2025邮件里都是Accept[黄金薯R][黄金薯R][黄金薯R]\n#博士留学[话题]# #博士生日常[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5242有考试吗",
+      "sourceRef": "comment:678ff611000000000a02cc5c",
+      "commentId": "678ff611000000000a02cc5c",
+      "likes": 0,
+      "author": "不要肉松只要小贝"
+    },
+    {
+      "type": "sub_comment",
+      "text": "取决于老师，一般是没有final exam的，都是小组项目结束",
+      "sourceRef": "comment:6794e9bf0000000021036ee2",
+      "commentId": "6794e9bf0000000021036ee2",
+      "likes": 0,
+      "author": "值高"
+    },
+    {
+      "type": "comment",
+      "text": "学长你好，不懂就问mcomp的学生（授课硕）可以选level-6000的课吗？我看它说的是target at phd，但是好像又说mcomp可以选4000-6000？",
+      "sourceRef": "comment:6872b25b000000001e03237d",
+      "commentId": "6872b25b000000001e03237d",
+      "likes": 1,
+      "author": "SpeedOMG"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我记得是有master的同学选6的课的，能确定是研究型能选，授课型可能取决于老师，建议选之前邮件课程的教授问一问",
+      "sourceRef": "comment:6873e437000000000f03ebad",
+      "commentId": "6873e437000000000f03ebad",
+      "likes": 0,
+      "author": "值高"
+    },
+    {
+      "type": "comment",
+      "text": "想请问一学期上几门课呀",
+      "sourceRef": "comment:6a17f73b000000002b027710",
+      "commentId": "6a17f73b000000002b027710",
+      "likes": 0,
+      "author": "女人"
+    },
+    {
+      "type": "comment",
+      "text": "cs6280好像现在找不到了[扶墙R]",
+      "sourceRef": "comment:687c5de5000000000f03ca01",
+      "commentId": "687c5de5000000000f03ca01",
+      "likes": 1,
+      "author": "宫泽千钏"
+    },
+    {
+      "type": "comment",
+      "text": "[点赞R]",
+      "sourceRef": "comment:676a23040000000010018b3a",
+      "commentId": "676a23040000000010018b3a",
+      "likes": 0,
+      "author": "我走路不带风#"
+    }
+  ]
+}

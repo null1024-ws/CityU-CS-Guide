@@ -1,6 +1,18 @@
 {
   "courseCode": "CS5188",
   "fields": {
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：开卷×1、闭卷×1",
+      "variants": {
+        "open_book": 1,
+        "closed_book": 1
+      }
+    },
     "workload": {
       "value": "heavy",
       "label": "繁重",
@@ -11,13 +23,6 @@
     "grading": {
       "value": "generous",
       "label": "给分友好",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
-    "examFormat": {
-      "value": "closed_book",
-      "label": "闭卷",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -53,6 +58,15 @@
         "post_body"
       ],
       "postTitle": "CityU CS 选课血泪史5⃣"
+    },
+    {
+      "noteId": "68313764000000002001dc41",
+      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+      "excerpt": "CS5188: VR，作业设置和CG一样，一个project（1-3人）+一次期中+一次期末，tutorial会有当场习题+讲解（但是不算分）。上课内容偏理论，project基本要自己现学一下UE5，可以做一些简单的小项目，但还是有一定的工程量，建议提早做。考试就是围绕PPT，细枝末节都有可能考，期中甚至考了一个跟耳朵相关的知识点和tutorial上的一个例子，时间充裕的情况下最好多看看PPT，了解知识原理，题目还是比较灵活的，但没有超出ppt范围，也是需要认真复习PPT！；这两门课没有公布具体的项目分数和考试成绩，我的最终等级都是A，其中CG两人组队，VR一人组队，总体感觉课程偏理论知识，熟悉PPT的情况下，考试基本能过。项目的话有难度，不了解给分情况。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS5182 CS5188 课程经验分享"
     },
     {
       "noteId": "682e95a7000000002301c25e",
@@ -100,6 +114,33 @@
       "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
     }
   ],
-  "commentSources": [],
-  "lastUpdated": "2026-07-25"
+  "commentSources": [
+    {
+      "noteId": "68313764000000002001dc41",
+      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+      "excerpt": "想问问5188期末有tutorial的内容吗，好多要背的，已死",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityU CS5182 CS5188 课程经验分享",
+      "commentId": "69f5cd730000000028033656",
+      "author": "蛋挞幼稚鬼",
+      "likes": 0,
+      "role": "supplement"
+    },
+    {
+      "noteId": "68313764000000002001dc41",
+      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
+      "excerpt": "hello学姐，5188vr是闭卷还是开卷呀",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "CityU CS5182 CS5188 课程经验分享",
+      "commentId": "6948d3b70000000039008a64",
+      "author": "巴巴拉拉能量",
+      "likes": 0,
+      "role": "supplement"
+    }
+  ],
+  "lastUpdated": "2026-07-28"
 }

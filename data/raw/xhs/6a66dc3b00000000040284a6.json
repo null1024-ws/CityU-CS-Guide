@@ -1,0 +1,217 @@
+{
+  "note_id": "6a66dc3b00000000040284a6",
+  "url": "https://www.xiaohongshu.com/explore/6a66dc3b00000000040284a6?xsec_token=ABejDM3SP926UZviRAuHG2wZfwkoXoAvmwtI1hkWuo3ok=",
+  "fetched_at": 1785209079.9034252,
+  "note": {
+    "xsecToken": "ABejDM3SP926UZviRAuHG2wZfwkoXoAvmwtI1hkWuo3ok=",
+    "lastUpdateTime": 1785125948000,
+    "ipLocation": "江西",
+    "noteId": "6a66dc3b00000000040284a6",
+    "user": {
+      "userId": "61dac2d30000000010005041",
+      "nickname": "Dave",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g",
+      "xsecToken": "ABdFQ3KZEmVUnhey2-ybdkXTVIae6Xxx2sANuDjwINZ-k="
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5d1ea316000000000e026c68",
+        "name": "港城"
+      },
+      {
+        "id": "60a65e500000000001001ded",
+        "name": "CityU",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1785125947000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "求助CS6538/CS6521提交材料",
+    "desc": "有没有同学选过CS6538或者打算选CS6521，请问提交材料的时候有没有模版或者特殊要求之类的#港城[话题]# #CityU[话题]# #计算机[话题]# #选课[话题]#",
+    "interactInfo": {
+      "followed": false,
+      "liked": false,
+      "collected": false,
+      "collectedCount": "2",
+      "shareCount": "1",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "3",
+      "commentCount": "3"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281124/d580adc9f6ecafafc4b0fdc863a363d0/1040g00832344f3td7v305oeqob9k0k213hu08l8!nd_prv_wlteh_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281124/3dffe6f042800d470baaad45ed8ab2d1/1040g00832344f3td7v305oeqob9k0k213hu08l8!nd_dft_wlteh_webp_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281124/d580adc9f6ecafafc4b0fdc863a363d0/1040g00832344f3td7v305oeqob9k0k213hu08l8!nd_prv_wlteh_webp_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281124/3dffe6f042800d470baaad45ed8ab2d1/1040g00832344f3td7v305oeqob9k0k213hu08l8!nd_dft_wlteh_webp_3",
+        "stream": {},
+        "url": "",
+        "livePhoto": false,
+        "fileId": "1040g00832344f3td7v305oeqob9k0k213hu08l8",
+        "height": 1600,
+        "width": 1200
+      }
+    ]
+  },
+  "comments": [
+    {
+      "subComments": [],
+      "subCommentCount": "0",
+      "content": "借问，这两个是属于non web-enabled课吗？这种课一般都是什么类型的？",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6454d7960000000010029140",
+        "nickname": "don't jump",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g2jiu8e0idg5p2kqub454a0b2t75c8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABqQUkM1ni_ni3BOkmQpEQGqzt_lSUsx8hP8V7epX-n5A="
+      },
+      "invalid": false,
+      "subCommentHasMore": false,
+      "createTime": 1785129882000,
+      "subCommentCursor": "",
+      "id": "6a66eb9a00000000150170e3",
+      "noteId": "6a66dc3b00000000040284a6",
+      "status": 0,
+      "showTags": [],
+      "liked": false,
+      "ipLocation": "江西",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "noteId": "6a66dc3b00000000040284a6",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "河南",
+      "subCommentCount": "0",
+      "invalid": false,
+      "id": "6a66eb64000000001403b83c",
+      "subCommentHasMore": false,
+      "createTime": 1785129828000,
+      "subCommentCursor": "",
+      "content": "蹲",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5c5eb771000000001803e16a",
+        "nickname": "小鱼脑袋",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ntmvni558005n2umtom7obank72r1o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuULYlsGaVvPecNzn2fpNxldoGorGIaRRI4-inPEceF0="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1785153942000,
+      "ipLocation": "湖南",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "6a6749960000000005017c3b",
+      "noteId": "6a66dc3b00000000040284a6",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "status": -2,
+      "content": "小宝你需要港城大的课程资料吗，还有 吃穿住行相关的白皮书资料  ,都是免费分享的，有需要的话我发你，存着备用也行～",
+      "userInfo": {
+        "userId": "69663b79000000001e01602f",
+        "nickname": "土豆",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32308agq7ms6g5qb67dsnio1fehsjrr8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABN6z2W-6dmNpjgnk_QQYEhhMb6qcBDJ5A9CtpOWxaS-M="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 选课",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "求助CS6538/CS6521提交材料",
+      "user": {
+        "xsecToken": "ABxk7TDFhplWk9sRMATNYI9f0ZSziv1LxmDtdj6n-qRn4=",
+        "nickName": "Dave",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dbirq5ne005oeqob9k0k215e3rc0g?imageView2/2/w/80/format/jpg",
+        "userId": "61dac2d30000000010005041",
+        "nickname": "Dave"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "3",
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "3",
+        "sharedCount": "1"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281124/499efafaf12e406821e782efccca45a8/1040g00832344f3td7v305oeqob9k0k213hu08l8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281124/33cec7effe2eaf60d8641a051adb7280/1040g00832344f3td7v305oeqob9k0k213hu08l8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281124/499efafaf12e406821e782efccca45a8/1040g00832344f3td7v305oeqob9k0k213hu08l8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281124/33cec7effe2eaf60d8641a051adb7280/1040g00832344f3td7v305oeqob9k0k213hu08l8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "昨天 12:19"
+        }
+      ]
+    },
+    "xsecToken": "ABejDM3SP926UZviRAuHG2wZfwkoXoAvmwtI1hkWuo3ok=",
+    "id": "6a66dc3b00000000040284a6",
+    "index": 0,
+    "exposed": true,
+    "trackId": "6a66dc3b00000000040284a6"
+  }
+}

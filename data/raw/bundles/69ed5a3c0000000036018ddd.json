@@ -1,0 +1,130 @@
+{
+  "note_id": "69ed5a3c0000000036018ddd",
+  "url": "https://www.xiaohongshu.com/explore/69ed5a3c0000000036018ddd?xsec_token=ABLvRfvc3UC5ekRRDCiNpeFrI3sGQIAkKU68UHo_8Yvno=",
+  "fetched_at": 1785209251.7588937,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "内核里面写几千行custom code",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "[失望R] 我真快破防了吧！做传统os performance，本身就没多少汤能喝了，方向还比较niche，不好找workload，以及被迫绕开Linux自己的机制，要不然这个方向在工程上就是无法实现。加起来得两三千行代码放kernel hot path里面，这几天改了改，就开始没有任何log dmesg journalctl地kernel crash。卧槽啊，没有留痕，还是一个高度并发情景，我的猪脑真的debug无能了，我现在做的事情就是扔给llm，让它吐给我一个drop in file，我开始试[微笑R]已经破防了。这就是system吗？干了八个月估计最后workshop收尾\n\t\n#科研日常[话题]# #cs[话题]# #计算机系统[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "8个月才?我干了三年sys的work也发了workshop，后面转compiler一年发了两篇[嘻嘻R]懂我意思",
+      "sourceRef": "comment:69ed8408000000000d022800",
+      "commentId": "69ed8408000000000d022800",
+      "likes": 14,
+      "author": "啦啦啦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我干了三年的最后挂了arxiv[黄金薯R]后面跳到新硬件+compiler一把梭哈现在美美来开会[黄金薯R]只能说kernel和传统场景都可以判死刑了",
+      "sourceRef": "comment:69eeefe0000000000d021403",
+      "commentId": "69eeefe0000000000d021403",
+      "likes": 7,
+      "author": "-JAN-"
+    },
+    {
+      "type": "comment",
+      "text": "[暗中观察R]这个时候，你就需要一个经过形式化验证的微内核了！",
+      "sourceRef": "comment:69ed6f1a0000000027015beb",
+      "commentId": "69ed6f1a0000000027015beb",
+      "likes": 18,
+      "author": "poo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[哭惹R]不会pl啊",
+      "sourceRef": "comment:69ed7282000000002900cc78",
+      "commentId": "69ed7282000000002900cc78",
+      "likes": 1,
+      "author": "我仍然非常思念你"
+    },
+    {
+      "type": "comment",
+      "text": "似乎还只是用llm，没有用现在的code agent。试试codex / claude code，我自己感觉这些写os挺猛的",
+      "sourceRef": "comment:69ed5e20000000002a024725",
+      "commentId": "69ed5e20000000002a024725",
+      "likes": 9,
+      "author": "代码怎么失灵啦？"
+    },
+    {
+      "type": "sub_comment",
+      "text": ":( 很遗憾，没什么用...... Kernel最大的问题就是首先hardlockup难以留痕，其次就算留痕也难以定位真正的bug，很多时候是极端压力下造成的一些rare cases，导致的kernel crash... 干瞪眼看也很难看出来，害。",
+      "sourceRef": "comment:69ed5eb300000000280303c2",
+      "commentId": "69ed5eb300000000280303c2",
+      "likes": 33,
+      "author": "我仍然非常思念你"
+    },
+    {
+      "type": "comment",
+      "text": "system会让每一个热爱计算机的人道心破碎",
+      "sourceRef": "comment:69ed95b10000000028035d51",
+      "commentId": "69ed95b10000000028035d51",
+      "likes": 20,
+      "author": "城角街之狼"
+    },
+    {
+      "type": "comment",
+      "text": "开kdump看vmcore，bt看panic栈。如果没生成vmcore那你得先解决kdump配置问题（比如有没有预留足够多的crashkernel内存）。bt一看宕在哪里一目了然。hardlockup/softlockup算简单的，一个关了中断，一个关了抢占，都是在spin的不被调度出去让你无处可找的。要是遇到内存问题，自己用错空指针了也就罢了，要是你踩别人了或者别人踩你了那就自求多福吧[偷笑R]",
+      "sourceRef": "comment:69ed73f30000000029026957",
+      "commentId": "69ed73f30000000029026957",
+      "likes": 9,
+      "author": "读书人"
+    },
+    {
+      "type": "comment",
+      "text": "写paper而已 又没让你给kernel提patch 差不多就行了",
+      "sourceRef": "comment:69ed7e0c0000000029011f94",
+      "commentId": "69ed7e0c0000000029011f94",
+      "likes": 3,
+      "author": "LGTM"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我有一万个点可以被reviewer攻击",
+      "sourceRef": "comment:69ef03d000000000290138d2",
+      "commentId": "69ef03d000000000290138d2",
+      "likes": 0,
+      "author": "我仍然非常思念你"
+    },
+    {
+      "type": "comment",
+      "text": "最后交完论文，reviewers：“你的approach对需要对内核做侵入性的改动，compatibility很差，我们不喜欢”[doge][doge]",
+      "sourceRef": "comment:69ed7fa0000000002701f8a8",
+      "commentId": "69ed7fa0000000002701f8a8",
+      "likes": 24,
+      "author": "cookie in shell"
+    },
+    {
+      "type": "comment",
+      "text": "沒苦硬吃典範[doge]明明這麼多方向不用這麼苦也能發頂會",
+      "sourceRef": "comment:69ed6adb000000000d022000",
+      "commentId": "69ed6adb000000000d022000",
+      "likes": 11,
+      "author": "3345678"
+    },
+    {
+      "type": "comment",
+      "text": "这种情况已经不是Vibe Coding能解决的了，硬堆时间测试去吧[捂脸R]",
+      "sourceRef": "comment:69edaa68000000002702f63c",
+      "commentId": "69edaa68000000002702f63c",
+      "likes": 3,
+      "author": "apt-get"
+    },
+    {
+      "type": "comment",
+      "text": "Linux内核确实一坨，一堆接口命名和功能不符，误导性非常强[笑哭R]",
+      "sourceRef": "comment:69ee281e000000002b027f5f",
+      "commentId": "69ee281e000000002b027f5f",
+      "likes": 3,
+      "author": "猫熊"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "note_id": "6a640984000000000c033c01",
+  "url": "https://www.xiaohongshu.com/explore/6a640984000000000c033c01?xsec_token=ABj2Cu4GcfjlWcZF7HFqq3bu1eteRrlpkjYaHsmQdC06U=",
+  "fetched_at": 1785208844.4893928,
+  "course_codes": [
+    "CS6035",
+    "CS6400",
+    "CS6603",
+    "CS6630",
+    "CS7646"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "写在OMSCS毕业前 - 课程总结 2",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "太懒了一直想写但硬是拖到毕业前才写，导致已经忘了很多内容【\n非科班，不想读GA所以走了AI Track，full time上班 part time上课，中间穿插着考了CFA level1，累的wanna die\n\t\n1. ML4T CS7646\n第一门试水课，ML入门课，内容不深，我本科和工作都是金融相关所以金融方面没有障碍。只记得大project是写一个model根据3个自选indicator自动buy sell JPM，要outperform hold不懂的时候的收益。\n不难拿A，但印象中写report写的非常非常非常烦，感觉本科business都没写过这么密集的report。\n我上的时候是23年fall，考试open note open internet，现在好像不行了\n\t\n2.SDP CS6630\n我选的专业必修课，Java，有group project，随机分组。运气还不错分到的组员都很靠谱\n轻松拿A 没有考试\n\t\n3.DBS CS6400\ndatabase design，开学才发现跟我本科上的database课用的教材一模一样…所以学起来感觉很轻松。4场考试，可能因为学过一遍了感觉不是很难。project自己组队，最后有个presentation。总体不难，就是耗时间。基本上一周考试 一周project milestone due。\n拿A率好像不高，但认真学还是不难\n\t\n4. AIES CS6603\n水课，summer修来放松的，印象中每周一个写作，没学到什么。考试也不难，就是看图说说哪里misleading什么的\neasy A\n\t\n5. IIS CS6035\ncatch the flag，对于没有cybersecurity经验但对黑客故事的sde来说很有意思。要求对计算机网络应用的各个方面都有一定了解。猜谜一样，实在摸不着头脑可以去discussion里看看大家留下的hints。没有考试\n\t\n#转码[话题]# #文科转码[话题]# #计算机科学[话题]# #omscs[话题]# #佐治亚洲[话题]# #gatech[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

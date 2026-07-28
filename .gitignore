@@ -8,3 +8,6 @@ data/raw/images/
 xiaohongshu-cli/
 *.egg-info/
 .DS_Store
+
+# Local maintainer notes — never commit
+notes/EXPERIENCE.local.md

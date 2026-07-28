@@ -1,0 +1,693 @@
+{
+  "note_id": "659cb1c5000000001e00a006",
+  "url": "https://www.xiaohongshu.com/explore/659cb1c5000000001e00a006?xsec_token=ABZQlgqPXFjECrEkDsPplYUPg3JOlUKCXDfHR21f3vF7U=",
+  "fetched_at": 1785208823.2847917,
+  "note": {
+    "xsecToken": "ABZQlgqPXFjECrEkDsPplYUPg3JOlUKCXDfHR21f3vF7U=",
+    "user": {
+      "userId": "59743e2e50c4b4242fbb8e8b",
+      "nickname": "甜美巧克李",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg",
+      "xsecToken": "AB2dC86dMUBwIwlhfSE93i3HnDD2rw9LZoyOg9yAUkzj4="
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "60a65e500000000001001ded",
+        "name": "CityU"
+      },
+      {
+        "id": "63dd10c8000000000100be22",
+        "name": "港城cs",
+        "type": "topic"
+      },
+      {
+        "id": "64d0af1f000000001a00a877",
+        "name": "港城选课",
+        "type": "topic"
+      },
+      {
+        "name": "23fall",
+        "type": "topic",
+        "id": "61484204000000000101fe38"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "interactInfo": {
+      "relation": "none",
+      "likedCount": "25",
+      "shareCount": "12",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "39",
+      "commentCount": "40"
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281120/f21774c0d3f70e767a50344416767f3c/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nd_dft_wgth_webp_3",
+        "livePhoto": false,
+        "height": 600,
+        "url": "",
+        "traceId": "",
+        "stream": {},
+        "fileId": "1040g00830tmmu7o44e0049mkecv2t3kbo7jombg",
+        "width": 2833,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281120/00b45a700966b6d4628ab030827841d1/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nd_prv_wgth_webp_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281120/f21774c0d3f70e767a50344416767f3c/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nd_dft_wgth_webp_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281120/00b45a700966b6d4628ab030827841d1/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nd_prv_wgth_webp_3"
+      }
+    ],
+    "time": 1704767941000,
+    "lastUpdateTime": 1704767941000,
+    "noteId": "659cb1c5000000001e00a006",
+    "title": "23 cityu cs semB&st 选课求助😭😇",
+    "desc": "1.summer term 的课程是在semB选课时一起选还是在夏季学期前还有一次选课流程？\n2.为什么project在邮件中显示6学分，在已选课界面中显示3学分？\n3.project和guided study更推荐哪个（本人学术混子一枚[吧唧R][吧唧R][吧唧R]\n4.是否推荐选summer term呢\n\t\n#CityU[话题]# #港城cs[话题]# #港城选课[话题]# #23fall[话题]#"
+  },
+  "comments": [
+    {
+      "noteId": "659cb1c5000000001e00a006",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "content": "关于1和2，我同学说是本学期3学分，st选课还会有3学分要选[doge]我是选了project的",
+      "ipLocation": "中国香港",
+      "subCommentCursor": "659ce7640000000001035cef",
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "createTime": 1704781668000,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "noteId": "659cb1c5000000001e00a006",
+          "content": "所以就应该st再选是吧[皱眉R]",
+          "atUsers": [],
+          "liked": false,
+          "targetComment": {
+            "id": "659cd014000000000200fa7d",
+            "userInfo": {
+              "userId": "62805f580000000021024980",
+              "nickname": "窗紗外送 花小狗",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31284jsovl26g5ok0btc8cic0kgfnfb8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxLDcX6s92Mw_Bd-VgsBbKZ43wNXiqPkR_TBTsDPYDBU="
+            }
+          },
+          "id": "659ce7640000000001035cef",
+          "status": 0,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc=",
+            "userId": "59743e2e50c4b4242fbb8e8b"
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "659cd014000000000200fa7d",
+      "status": 0,
+      "likeCount": "2",
+      "userInfo": {
+        "xsecToken": "ABxLDcX6s92Mw_Bd-VgsBbKZ43wNXiqPkR_TBTsDPYDBU=",
+        "userId": "62805f580000000021024980",
+        "nickname": "窗紗外送 花小狗",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31284jsovl26g5ok0btc8cic0kgfnfb8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "invalid": false,
+      "createTime": 1704775700000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "659cb1c5000000001e00a006",
+      "ipLocation": "中国香港",
+      "content": "姐妹问一下能不能631的模式啊第二学期能不能只选3门[哭惹R]",
+      "atUsers": [],
+      "showTags": [],
+      "invalid": false,
+      "id": "675bbfb1000000000e01e78e",
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "5",
+      "subCommentCursor": "675beedf00000000110301c8",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "588d57a25e87e760349b1913",
+        "nickname": "友利奈绪天下第一",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31829aedc46004931skbq468jamtnhlg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6YggYDOR1Q4qnB_oj0Ll7YbAuasK0enkAT1AX2d3_AM="
+      },
+      "createTime": 1734066097000,
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1734078175000,
+          "noteId": "659cb1c5000000001e00a006",
+          "content": "理论上是可以的，你这第一学期不得累死[石化R]",
+          "atUsers": [],
+          "likeCount": "1",
+          "ipLocation": "辽宁",
+          "targetComment": {
+            "id": "675bbfb1000000000e01e78e",
+            "userInfo": {
+              "userId": "588d57a25e87e760349b1913",
+              "nickname": "友利奈绪天下第一",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31829aedc46004931skbq468jamtnhlg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6YggYDOR1Q4qnB_oj0Ll7YbAuasK0enkAT1AX2d3_AM="
+            }
+          },
+          "invalid": false,
+          "id": "675beedf00000000110301c8"
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "createTime": 1712734104000,
+      "subComments": [
+        {
+          "id": "66348c5c0000000004003e7d",
+          "noteId": "659cb1c5000000001e00a006",
+          "content": "等这学期结束吧",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1714719836000,
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "66163f970000000015038f0b",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABERBlwr4ZhlDVPYCpM7Re9eqVC7qiYJWJvKicQcN-2p4=",
+              "userId": "60446a13000000000101e498",
+              "nickname": "行向山河",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2npnjv56ji0005o24d89gbp4o5hnos0o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "noteId": "659cb1c5000000001e00a006",
+      "content": "姐妹礼貌问一下问题1解决了吗 什么时候选课呀[哭惹R]",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "60446a13000000000101e498",
+        "nickname": "行向山河",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2npnjv56ji0005o24d89gbp4o5hnos0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABERBlwr4ZhlDVPYCpM7Re9eqVC7qiYJWJvKicQcN-2p4="
+      },
+      "showTags": [],
+      "subCommentCount": "4",
+      "id": "66163f970000000015038f0b",
+      "liked": false,
+      "ipLocation": "上海",
+      "subCommentCursor": "66348c5c0000000004003e7d",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "66a8665a000000001c03d682",
+      "showTags": [],
+      "ipLocation": "山西",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "noteId": "659cb1c5000000001e00a006",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc=",
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李"
+          },
+          "createTime": 1722436323000,
+          "targetComment": {
+            "id": "66a8665a000000001c03d682",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMEKLM0lfsSHJd2QhYQ6cKWSzaqtb-4J12wbm1_eTBUE=",
+              "userId": "614062fe0000000002024876",
+              "nickname": "Zartist"
+            }
+          },
+          "invalid": false,
+          "id": "66aa4ae2000000001c013e5d",
+          "content": "感觉project更好呢，因为都要做项目和论文，project可以准备两个学期占6分，guided study是一个学期只有3分[哭惹R]",
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "天津"
+        }
+      ],
+      "liked": false,
+      "likeCount": "1",
+      "subCommentCursor": "66aa4ae2000000001c013e5d",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "content": "请问姐妹问题3有没有结论了呀，project和guided study哪个比较好一点呀，有什么区别吗[皱眉R]",
+      "userInfo": {
+        "xsecToken": "ABMEKLM0lfsSHJd2QhYQ6cKWSzaqtb-4J12wbm1_eTBUE=",
+        "userId": "614062fe0000000002024876",
+        "nickname": "Zartist",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "noteId": "659cb1c5000000001e00a006",
+      "atUsers": [],
+      "createTime": 1722312283000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1766564032000,
+      "invalid": false,
+      "userInfo": {
+        "nickname": "自律一点保命要紧",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iuo9vnghc605o1bj3cg8dvghbbuii0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfvXPnN1UIa17TIBZN6RRVf1RT5ms0FE7p6EaHpKrmT4=",
+        "userId": "602b98d900000000010037f0"
+      },
+      "id": "694ba0bf000000001d00acee",
+      "atUsers": [],
+      "ipLocation": "河北",
+      "subComments": [
+        {
+          "noteId": "659cb1c5000000001e00a006",
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc=",
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李"
+          },
+          "createTime": 1766575635000,
+          "targetComment": {
+            "id": "694ba0bf000000001d00acee",
+            "userInfo": {
+              "userId": "602b98d900000000010037f0",
+              "nickname": "自律一点保命要紧",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iuo9vnghc605o1bj3cg8dvghbbuii0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfvXPnN1UIa17TIBZN6RRVf1RT5ms0FE7p6EaHpKrmT4="
+            }
+          },
+          "invalid": false,
+          "id": "694bce130000000018039a5e",
+          "content": "选了 学院会发选课题和导师联系方式的一个汇总邮件 到时候再联系就可以",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东"
+        }
+      ],
+      "subCommentCursor": "694bce130000000018039a5e",
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "noteId": "659cb1c5000000001e00a006",
+      "content": "请问姐妹最后选guide study了吗？能问下怎么联系到导师的吗？在选课前就要联系？",
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "中国香港",
+      "subCommentCount": "2",
+      "id": "65df3d5c0000000004015b43",
+      "noteId": "659cb1c5000000001e00a006",
+      "status": 3,
+      "likeCount": "0",
+      "invalid": false,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1709129052000,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "65df3d5c0000000004015b43",
+            "userInfo": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3138fpe93g2005nt6cuigbtgp8jmfrv8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABbdCScrtSJTpO64hYOVoWVGlAyolSo_ZI7_PIM2JXIRk=",
+              "userId": "5fa667a5000000000101f619"
+            }
+          },
+          "invalid": false,
+          "noteId": "659cb1c5000000001e00a006",
+          "status": 0,
+          "content": "不好意思已经组了[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1709133865000,
+          "id": "65df5028000000000401445b",
+          "userInfo": {
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc=",
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "广东"
+        }
+      ],
+      "atUsers": [],
+      "subCommentCursor": "65df5028000000000401445b",
+      "subCommentHasMore": true,
+      "content": "姐妹 你有选CS6493嘛 组队差人吗[皱眉R]",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3138fpe93g2005nt6cuigbtgp8jmfrv8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbdCScrtSJTpO64hYOVoWVGlAyolSo_ZI7_PIM2JXIRk=",
+        "userId": "5fa667a5000000000101f619",
+        "nickname": "momo"
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "上海",
+      "showTags": [],
+      "invalid": false,
+      "noteId": "659cb1c5000000001e00a006",
+      "content": "你好 我可以问下 project 和 guide study 可以在一个学期内同时选不[暗中观察R]",
+      "status": 0,
+      "userInfo": {
+        "userId": "60ec540e000000002002d972",
+        "nickname": "小红薯60ED0EB7",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfLlAHddedUnc5jfFJmUH3-WQYN7eLNU6L2TDLzWuoZY="
+      },
+      "createTime": 1731749265000,
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "showTags": [],
+          "createTime": 1733768728000,
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABfLlAHddedUnc5jfFJmUH3-WQYN7eLNU6L2TDLzWuoZY=",
+              "userId": "60ec540e000000002002d972",
+              "nickname": "小红薯60ED0EB7",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg"
+            },
+            "id": "67386591000000001b037938"
+          },
+          "invalid": false,
+          "id": "675736170000000007003901",
+          "noteId": "659cb1c5000000001e00a006",
+          "status": 0,
+          "content": "加一同问",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dq8e0dg0k005n33q5u4k91el446l60?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1llKAHFGtK2b0jFa_7NltJYf3Glog3hDDOI0BflzeLY=",
+            "userId": "5c63d17c000000001202242e",
+            "nickname": "吃土豆长大的马铃薯"
+          }
+        }
+      ],
+      "subCommentCursor": "675736170000000007003901",
+      "subCommentHasMore": true,
+      "id": "67386591000000001b037938",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "浙江",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "likeCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABRAK6BjQ8M200-nJ_v-tbE2PSZ4Hj2YeafJBysF19P3E=",
+        "userId": "5de1f9b50000000001007f35",
+        "nickname": "懒蚂蚁",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316r5nauogs005nf1v6qg8vpl6ieqpk0?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "status": 0,
+          "content": "没有[哭惹R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc=",
+            "userId": "59743e2e50c4b4242fbb8e8b"
+          },
+          "createTime": 1718765999000,
+          "invalid": false,
+          "id": "667249af000000002100dc0a",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "天津",
+          "targetComment": {
+            "id": "6671cad4000000001501287b",
+            "userInfo": {
+              "nickname": "懒蚂蚁",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316r5nauogs005nf1v6qg8vpl6ieqpk0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRAK6BjQ8M200-nJ_v-tbE2PSZ4Hj2YeafJBysF19P3E=",
+              "userId": "5de1f9b50000000001007f35"
+            }
+          },
+          "noteId": "659cb1c5000000001e00a006"
+        }
+      ],
+      "invalid": false,
+      "id": "6671cad4000000001501287b",
+      "content": "想问问cs的st只能选project和guided study么.是否有普通的授课可选",
+      "liked": false,
+      "createTime": 1718733525000,
+      "status": 0,
+      "subCommentCursor": "667249af000000002100dc0a",
+      "noteId": "659cb1c5000000001e00a006",
+      "atUsers": [],
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "65f39e1e00000000060272fa",
+      "ipLocation": "浙江",
+      "noteId": "659cb1c5000000001e00a006",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "content": "学姐你好，我是24fall港城cs的，请问港城cs的毕业要求学分是24还是30呀",
+      "liked": false,
+      "userInfo": {
+        "userId": "5a4e31b311be106411afa7b5",
+        "nickname": "小楼昨夜又东风",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31727osre446g4a0lgoor79tlm4d4630?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfORWwjlMdzv1ZYMtMO0VG6Yzk02mAZ1G7e3B9eWA5W8="
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "59743e2e50c4b4242fbb8e8b",
+            "nickname": "甜美巧克李",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABCzZuV3JT01a21fwqPgjsT3nA6v0KhssDsJu-5fbQowc="
+          },
+          "createTime": 1710464542000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "65f2d46b0000000006024a4c",
+            "userInfo": {
+              "nickname": "小楼昨夜又东风",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31727osre446g4a0lgoor79tlm4d4630?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfORWwjlMdzv1ZYMtMO0VG6Yzk02mAZ1G7e3B9eWA5W8=",
+              "userId": "5a4e31b311be106411afa7b5"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "id": "65f39e1e00000000060272fa",
+          "noteId": "659cb1c5000000001e00a006",
+          "content": "我记得是30"
+        }
+      ],
+      "id": "65f2d46b0000000006024a4c",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1710412907000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "659cb1c5000000001e00a006",
+      "status": 0,
+      "userInfo": {
+        "userId": "6058819100000000010028c5",
+        "nickname": "FYX",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vaaoa48jm6g5o2og68g8a65bj85af8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSCqKHrBAuwu0qsuPS3OK6u-czy_JXDCW5NpWVBhialA="
+      },
+      "content": "麻烦问下UU，cs6290挂人吗？期末考试史诗级难度啊[哭惹R]",
+      "createTime": 1746280095000,
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "68161e9f00000000200112ad",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6520 Project",
+  "search_item": {
+    "xsecToken": "ABZQlgqPXFjECrEkDsPplYUPg3JOlUKCXDfHR21f3vF7U=",
+    "id": "659cb1c5000000001e00a006",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 2833,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281120/e92d1ef588a1cf88be9aef2609cea40b/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281120/1c215672aa8308592e5ca49f548aecab/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 600
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-01-09"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "23 cityu cs semB&st 选课求助😭😇",
+      "user": {
+        "nickname": "甜美巧克李",
+        "xsecToken": "ABUkKPhUe5wDDLR0JAqBf9c6k66LjcNhnNgH8R6Q86UlY=",
+        "nickName": "甜美巧克李",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6281b78830829ecfc689c073.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "59743e2e50c4b4242fbb8e8b"
+      },
+      "interactInfo": {
+        "likedCount": "25",
+        "collected": false,
+        "collectedCount": "39",
+        "commentCount": "40",
+        "sharedCount": "12",
+        "liked": false
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281120/1c215672aa8308592e5ca49f548aecab/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nc_n_webp_prv_1",
+        "height": 600,
+        "width": 2833,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281120/e92d1ef588a1cf88be9aef2609cea40b/1040g00830tmmu7o44e0049mkecv2t3kbo7jombg!nc_n_webp_mw_1"
+      }
+    },
+    "index": 1,
+    "exposed": true,
+    "trackId": "659cb1c5000000001e00a006"
+  }
+}

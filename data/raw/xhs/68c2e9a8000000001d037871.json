@@ -1,0 +1,313 @@
+{
+  "note_id": "68c2e9a8000000001d037871",
+  "url": "https://www.xiaohongshu.com/explore/68c2e9a8000000001d037871?xsec_token=AB0-MQjlgYmxN7p1On9bDe3toomM56M0-8VaDZdhVc5nY=",
+  "fetched_at": 1785221669.7772245,
+  "note": {
+    "xsecToken": "AB0-MQjlgYmxN7p1On9bDe3toomM56M0-8VaDZdhVc5nY=",
+    "time": 1757604265000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "user": {
+      "userId": "636b8282000000001f0190c7",
+      "nickname": "楓",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8",
+      "xsecToken": "AB8bjNSG03CuwMisVoUvumU-NGVrL3CRcEWHfKO5NpZBw="
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "commentCount": "8",
+      "liked": false,
+      "likedCount": "111",
+      "collected": false,
+      "collectedCount": "148",
+      "shareCount": "37",
+      "followed": false,
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/8f8b93ef59e1207ef94234910b78a0d4/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/89ac1ca7a9ad8a4926713393fcf01f10/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/8f8b93ef59e1207ef94234910b78a0d4/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/89ac1ca7a9ad8a4926713393fcf01f10/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg",
+        "height": 1640,
+        "width": 1179,
+        "url": "",
+        "livePhoto": false
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg",
+        "height": 1332,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/f90f5ce23f329337f52df678fe75b52b/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281454/553bea7c7f31541c075d505aab59a27f/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/f90f5ce23f329337f52df678fe75b52b/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "width": 1179,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/553bea7c7f31541c075d505aab59a27f/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "lastUpdateTime": 1757604265000,
+    "noteId": "68c2e9a8000000001d037871",
+    "type": "normal",
+    "title": "给港本CS新生推荐一些自学资源",
+    "desc": "（以城大的课程为例，或许会持续更新）\n1. Python（CS1302）：菜鸟教程，不推荐从头看到尾，lab课讲了什么就看什么\n2. C++（CS2310，CS3334）：GeeksforGeeks，跟菜鸟教程类似，不过我觉得这个上面的C++内容更好\n3. 各种大学不会教的工具（Git，命令行）：Missing Semester of Your CS Education，真的需要花时间看看，作为一个CS学生，不会使用命令行，Git这些工具还是有点丢人的\n4. Computer Organization（CS2115）：Crash Course的Computer Science部分，它的定位是给非CS学生上的CS课，但是我觉得它的计组部分讲得特别好，如果你听不懂计组课的话可以听听",
+    "tagList": [],
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "68cec61e000000000b01d5e0",
+            "userInfo": {
+              "userId": "684d005c000000001d016126",
+              "nickname": "赶羚羊的我叫粥里有青菜.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j7blvhd34505q2d01e7ao96ftv9dkg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoDcAY_uML20vqTHhMofDuATm1JPCFuiTpg5gWduNIrU="
+            }
+          },
+          "id": "68e49a66000000003300ea48",
+          "noteId": "68c2e9a8000000001d037871",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "68d76de50000000021018bc9",
+            "nickname": "Khalil",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sge4nl062005q6ndniob2u9ah56v30?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABap4cCOBW4lULCQXAm41fIQIeNKHTXYKMwMxdVtj4Y5E="
+          },
+          "createTime": 1759812198000,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "content": "b站的jz讲的不错[doge]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": []
+        }
+      ],
+      "id": "68cec61e000000000b01d5e0",
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABoDcAY_uML20vqTHhMofDuATm1JPCFuiTpg5gWduNIrU=",
+        "userId": "684d005c000000001d016126",
+        "nickname": "赶羚羊的我叫粥里有青菜.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j7blvhd34505q2d01e7ao96ftv9dkg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1758381599000,
+      "ipLocation": "中国香港",
+      "subCommentHasMore": true,
+      "noteId": "68c2e9a8000000001d037871",
+      "showTags": [],
+      "atUsers": [],
+      "subCommentCursor": "68e49a66000000003300ea48",
+      "invalid": false,
+      "content": "学长有没有cs2115的自学资料啊，太难了真的整不明白",
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "谢谢学长！",
+      "userInfo": {
+        "userId": "67f4dc4a000000000e012cbc",
+        "nickname": "小洗天天开心",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mnu1a3950005pvkrh53ib5sq6bhn10?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvG78mmRv8eDIC7tsrS_Fow3_yidS5VfUT4Pz8429rEw="
+      },
+      "subCommentHasMore": false,
+      "noteId": "68c2e9a8000000001d037871",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "id": "68c9a4800000000030005e34",
+      "showTags": [],
+      "createTime": 1758045312000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "68c2e9a8000000001d037871",
+      "status": 0,
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31un4bd6o2q005obsn3fgk78kjktb218?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBG3HdgYQqiNijTiMqeqcYIf2zDpmAmxh4qihgLkuep4=",
+        "userId": "617cb8df0000000002021d14",
+        "nickname": "Waffle"
+      },
+      "showTags": [],
+      "createTime": 1757606973000,
+      "subCommentCount": "0",
+      "likeCount": "1",
+      "subCommentHasMore": false,
+      "id": "68c2f43d000000000b024972",
+      "content": "🧎🙇🙏",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "广东",
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "668163470000000007004600",
+        "nickname": "人可随波",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ov30c2bhg0g5pk1cd3hohg09jjck3o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6AKGQ0cMN2O50-6_J8Mr05nDSJpyamoNDUtm8zRoZrs="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "content": "感谢学长！正好在上2310",
+      "atUsers": [],
+      "createTime": 1757611712000,
+      "subComments": [],
+      "invalid": false,
+      "id": "68c306c0000000002301db44",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "68c2e9a8000000001d037871",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "content": "cs1302整不明白啊，教授上课好像什么都没有讲",
+      "liked": false,
+      "invalid": false,
+      "subComments": [],
+      "id": "68f9fd11000000003901da70",
+      "noteId": "68c2e9a8000000001d037871",
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1761213714000,
+      "ipLocation": "中国香港",
+      "userInfo": {
+        "userId": "667bd59c0000000003032734",
+        "nickname": "萤火绘梦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q94vtvj0c6g5pjrqme0u9pka2obvag?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABG2hgCnUCzj0QdTP5fHeSQebHtTslIci1Izv9tfdvYVQ="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5288 怎么样",
+  "search_item": {
+    "id": "68c2e9a8000000001d037871",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1640,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/75d74374060c720e76fea38ec0f72813/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/c78796bd5609fb0cd52f9e4afeefe0be/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1332,
+          "width": 1179,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/5088fb7120b0028b20fe7cd8ec5483d9/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281454/eb9959e29c3739fad3c7f20fe3ac4b7c/notes_pre_post/1040g3k831ma0vo47687g5orbga17r467uep53lg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-09-11",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "给港本CS新生推荐一些自学资源",
+      "user": {
+        "userId": "636b8282000000001f0190c7",
+        "nickname": "楓",
+        "xsecToken": "ABWv5WTEAI12QbluzDOF7lxyyp2JHyyZPJiitTRkr9ZLY=",
+        "nickName": "楓",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322hak0mpne6g5orbga17r467c85urm8?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "collectedCount": "148",
+        "commentCount": "8",
+        "sharedCount": "37",
+        "liked": false,
+        "likedCount": "111",
+        "collected": false
+      },
+      "cover": {
+        "width": 1179,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281454/75d74374060c720e76fea38ec0f72813/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281454/c78796bd5609fb0cd52f9e4afeefe0be/notes_pre_post/1040g3k831ma0vo47m8005orbga17r4672m24rtg!nc_n_webp_prv_1",
+        "height": 1640
+      }
+    },
+    "xsecToken": "AB0-MQjlgYmxN7p1On9bDe3toomM56M0-8VaDZdhVc5nY=",
+    "index": 4,
+    "exposed": true,
+    "trackId": "68c2e9a8000000001d037871"
+  }
+}

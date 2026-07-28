@@ -1,0 +1,273 @@
+{
+  "note_id": "6991fa5d000000001d02695d",
+  "url": "https://www.xiaohongshu.com/explore/6991fa5d000000001d02695d?xsec_token=ABvpQympu_qja__N2x4nFvOmoph_wi4ybZeipHhzd7wRc=",
+  "fetched_at": 1785214859.8126397,
+  "note": {
+    "xsecToken": "ABvpQympu_qja__N2x4nFvOmoph_wi4ybZeipHhzd7wRc=",
+    "interactInfo": {
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "commentCount": "8",
+      "shareCount": "2",
+      "niceCount": "",
+      "likedCount": "58",
+      "collected": false,
+      "collectedCount": "40"
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "height": 1600,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281301/988989c9b7fdc9115b3c3485d7ea3b7c/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo",
+        "width": 1200,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281301/b49d832bae0b07de2944e95a7c6db5e1/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202607281301/988989c9b7fdc9115b3c3485d7ea3b7c/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281301/b49d832bae0b07de2944e95a7c6db5e1/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "60c9221d000000000101c576",
+        "name": "暑研",
+        "type": "topic"
+      },
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "id": "5be635a9d111a50001a4436e",
+        "name": "科研",
+        "type": "topic"
+      },
+      {
+        "id": "6215df770000000001007447",
+        "name": "北美申请",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1771174494000,
+    "noteId": "6991fa5d000000001d02695d",
+    "desc": "如题，本人是27fall选手，计划申请26暑研，有很多问题想向各位佬们请教！\n1.这个时间点再去套磁联系导师是否为时过晚\n2.本人之前一年做的都是IR(推荐系统)领域，有两篇A一作但是均在under-review，现在实在不想接着做IR，计划转VLM/Agent方向，这种情况下我找大模型相关的暑研是不是处于很劣势\n3.暑研会对于已有的成果要求高嘛，还是看重面试/个人介绍/推荐信？\n4.国内有很多研究院和企业都有相关方向的研究型实习，如果只能拿到remote暑研是否可以考虑呆在国内，哪个对于申请帮助较大\n5.暑研是不是self-fund？由于签证的原因，拿到onsite的几率对于陆本的学生是不是很小\n感谢各位的解答！感激不尽！\n#暑研[话题]# #PhD[话题]# #科研[话题]# #北美申请[话题]#",
+    "atUserList": [],
+    "time": 1771174493000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "北美cs暑研求助",
+    "user": {
+      "userId": "679217cb000000000a03fe21",
+      "nickname": "黑暗中漫舞",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbsn9im260g5psi2v5invh1viqjj7g",
+      "xsecToken": "ABVO_aBkYzdYleabm5CbA5YPdMqAlFm4fsLKtzZ0jlFh4="
+    }
+  },
+  "comments": [
+    {
+      "id": "69921dd9000000001501485c",
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "69927b720000000008032e3c",
+      "content": "1. 能否On site是看老师和组的，不同导师和学校方差很大 2. 清北学生来了大多数也得self-fund，这个形势就没见过有资金的 3. 这个时间点套磁不会太晚，但需要抓紧 4. 暑研转方向很难，暑研是干活，不是培养 (我也尝试转但是惨败) 5.暑研更看重match的程度，match才是王道 6. Pub不用已经发表，但是建议附在邮件里，不然cold email两句话根本体现不出论文的细节和深度。 (拿到cs top10暑研 28 fall选手的个人心得，望有帮助)",
+      "likeCount": "16",
+      "userInfo": {
+        "nickname": "番茄土豆泥",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3234bqijr7o0g5plplenne099hkd0j2o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4dWMEdkr5XH-l6yjfegYALHQWtZwPo-1at4FUV-uMYE=",
+        "userId": "66b9abaf000000001d030129"
+      },
+      "subCommentCount": "4",
+      "atUsers": [],
+      "liked": false,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6991fa5d000000001d02695d",
+      "createTime": 1771183577000,
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "showTags": [],
+          "createTime": 1771207538000,
+          "invalid": false,
+          "status": 0,
+          "content": "哥28fall就top10暑研了吗[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "Baimi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jd56fem32005npfco6g8h82ojfdku0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABVA380rBknmvLmjJL-4wN9PQP8bq2CufsZ2cufSHmGoU=",
+            "userId": "5f2f660d0000000001004502"
+          },
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "69921dd9000000001501485c",
+            "userInfo": {
+              "userId": "66b9abaf000000001d030129",
+              "nickname": "番茄土豆泥",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3234bqijr7o0g5plplenne099hkd0j2o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB4dWMEdkr5XH-l6yjfegYALHQWtZwPo-1at4FUV-uMYE="
+            }
+          },
+          "id": "69927b720000000008032e3c",
+          "noteId": "6991fa5d000000001d02695d"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6991fa5d000000001d02695d",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321qk0lfs7u6g5penhlgheaog65g7ub0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNZtO8o1LAOQvz3Bqsx12wyioU3IYbExkiUikB5bbsjg=",
+        "userId": "65d78d610000000005032b10",
+        "nickname": "Retr28"
+      },
+      "showTags": [],
+      "createTime": 1771177896000,
+      "subCommentHasMore": false,
+      "status": 0,
+      "liked": false,
+      "ipLocation": "江苏",
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "699207a7000000000c01727c",
+      "content": "self fund, 拿到签证概率还好吧没那么夸张，check几天就下来了，onsite应该不影响。以及connection is all you need",
+      "subCommentCursor": "",
+      "atUsers": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "4",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321o02f9gna005oqbls56bkhntflgado?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYGe2q-e4bBdQOKu9v-FEUaNpd7Ba4uGLKEQapA20vuw=",
+        "userId": "634baf0a000000001901d237",
+        "nickname": "雪里看山"
+      },
+      "ipLocation": "美国",
+      "id": "6991fd53000000000800d3e8",
+      "status": 0,
+      "content": "这个方向卷炸了[笑哭R]找一个能return的组，不然只能拼爆款代表作了",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1771175251000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6991fa5d000000001d02695d",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1771174838000,
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "noteId": "6991fa5d000000001d02695d",
+      "status": 0,
+      "content": "现在不晚 但是感觉现在没有pub比较困难 在投的先挂出来吧 现在几乎都是self fund",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "6991fbb6000000000603166a",
+      "userInfo": {
+        "xsecToken": "ABrOS70ee1dfxQRJf0aXCz-9JEjgufIOOumFvEZ99iiPU=",
+        "userId": "5df0d40c0000000001002f43",
+        "nickname": "Nimitz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6251ad677b9d54396902578a.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6538 Research/Internship Project",
+  "search_item": {
+    "xsecToken": "ABvpQympu_qja__N2x4nFvOmoph_wi4ybZeipHhzd7wRc=",
+    "id": "6991fa5d000000001d02695d",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "02-16"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "北美cs暑研求助",
+      "user": {
+        "nickname": "黑暗中漫舞",
+        "xsecToken": "ABJ9uSXgUGvOwcLSEWx5Bzhb4dhoWULVzYxRpr8bi6D6k=",
+        "nickName": "黑暗中漫舞",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbsn9im260g5psi2v5invh1viqjj7g?imageView2/2/w/80/format/jpg",
+        "userId": "679217cb000000000a03fe21"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "58",
+        "collected": false,
+        "collectedCount": "40",
+        "commentCount": "8",
+        "sharedCount": "2"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202607281300/c68f519f32a792292bb5587bd7671dd5/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202607281300/adb404dde81e25fd28a888245dcc87b7/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281300/adb404dde81e25fd28a888245dcc87b7/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202607281300/c68f519f32a792292bb5587bd7671dd5/spectrum/1040g34o31sk7jlhdlc105psi2v5invh1no6odgo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "index": 1,
+    "exposed": true,
+    "trackId": "6991fa5d000000001d02695d"
+  }
+}
