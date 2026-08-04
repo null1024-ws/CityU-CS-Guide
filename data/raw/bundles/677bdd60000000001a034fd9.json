@@ -1,0 +1,21 @@
+{
+  "note_id": "677bdd60000000001a034fd9",
+  "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9",
+  "fetched_at": 1785926400.0,
+  "course_codes": [
+    "CS5488",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS SEMA: Part II",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "接上篇，先前已叠过甲，不再赘述\n\t\nCS5488 Big Data Algorithms and Techniques\n对的，就是为了这点醋，我才包的这顿饺子！内容包括多个Assignment、Final、Group-Project。Assignment基本不出意外都能拿满，Group-Project是3-4（应该是）人一组，相比其他课的，多了很多容错，项目可以小一点，人少也方便沟通。老师很有意思，幽默风趣，会经常看小红书里大伙对这门课的评价，在课上也会时不时的Call Back，会拿之前的吐槽贴举例子。我稍微复述一下老师的意思，这门课很考虑实践，\"并行\"贯穿这门课的始终，包括spark、Python和R中的并行库等，需要应用过，作业和Tutorial认真写过，Final就没什么问题了（老师课上是会讲重点的）。Final闭卷，会有实践的题，比如写代码，也会有一些硬记的题（不过我有些没答上来。。）。选这门课也是因为本科期间挺遗憾的，只是入门了Hadoop，当时一直要亲力亲为的搞懂每个配置文件，个人觉得有点浪费资源。\n\t\nEC5001 Introduction to Ecommerce\n会有两部分组成，应该是IS老师先上，CS老师上学期后半部分的课。包括签到（仅IS老师的部分）、Assignment、Final、Group-Project。前半部分偏文科，需要死记硬背，然后在final的时候找对应的应用（可能是我漏了三条，导致分低。。）。后半部分和CS相关，会有计网、网安、XML类似这种的知识，知识覆盖面还挺广的，也是需要记概念和会写一些代码的，不是很难，但是考的有些比较细，属于是蒙也蒙不上那种。\n\t\n欢迎评论，尽量回复解答，希望有帮助\n#cityu #cs",
+      "sourceRef": "post"
+    }
+  ]
+}

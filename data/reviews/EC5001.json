@@ -12,8 +12,8 @@
       "value": "strict",
       "label": "考勤严",
       "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 3
+      "sourceCount": 6,
+      "distinctSources": 4
     },
     "workload": {
       "value": "light",
@@ -54,6 +54,15 @@
       "postTitle": "cityu cs semA选课攻略（期末速成版）"
     },
     {
+      "noteId": "677bdd60000000001a034fd9",
+      "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9",
+      "excerpt": "EC5001 Introduction to Ecommerce；会有两部分组成，应该是IS老师先上，CS老师上学期后半部分的课。包括签到（仅IS老师的部分）、Assignment、Final、Group-Project。前半部分偏文科，需要死记硬背，然后在final的时候找对应的应用（可能是我漏了三条，导致分低。。）。后半部分和CS相关，会有计网、网安、XML类似这种的知识，知识覆盖面还挺广的，也是需要记概念和会写一些代码的，不是很难，但是考的有些比较细，属于是蒙也蒙不上那种。；欢迎评论，尽量回复解答，希望有帮助",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU CS SEMA: Part II"
+    },
+    {
       "noteId": "6a0c17bd000000000702ea2c",
       "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
       "excerpt": "EC5001 introduction to EC；看名字就知道这门课和5481差不多也是背书课，分两个老师，第一个老师会查出勤。类似于大学里的通识课，不追求GPA的话，这门课可以很摆。期末前一天下PPT开始看都来得及；上述课程除ec外均无考勤",
@@ -82,5 +91,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-07-28"
+  "lastUpdated": "2026-08-04"
 }
