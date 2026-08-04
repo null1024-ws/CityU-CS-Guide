@@ -1,0 +1,66 @@
+{
+  "note_id": "6a69ce4c00000000010330cf",
+  "url": "https://www.xiaohongshu.com/explore/6a69ce4c00000000010330cf?xsec_token=ABs0yNfdVkRt5iglS9RC1_JI6w_9sBiB_bG-yhpR0TbP4=",
+  "fetched_at": 1785842302.6686115,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CU EE一些选课相关的问题",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "1.CS1 Form表的签名问题\n2.跨专业选Term 2课程问题\n\t\nP2是 CU EE的回复，希望能帮到大家",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "uu是EE Msc里的电子工程ee还是集成电路ic方向啊 我今年准备申请 这两个不知道怎么样",
+      "sourceRef": "comment:6a6f121d00000000290195c9",
+      "commentId": "6a6f121d00000000290195c9",
+      "likes": 0,
+      "author": "zed"
+    },
+    {
+      "type": "sub_comment",
+      "text": "EE就是电子工程，集成电路的话建议申请ICMS，就是今年新开的那个",
+      "sourceRef": "comment:6a6f31f10000000015007b5f",
+      "commentId": "6a6f31f10000000015007b5f",
+      "likes": 0,
+      "author": "小米粥"
+    },
+    {
+      "type": "comment",
+      "text": "谨防诈骗，那个送书的人极有可能是骗邮费的，不要贪小便宜",
+      "sourceRef": "comment:6a6c33cb000000000802e671",
+      "commentId": "6a6c33cb000000000802e671",
+      "likes": 1,
+      "author": "柠夏读书"
+    },
+    {
+      "type": "sub_comment",
+      "text": "原来如此",
+      "sourceRef": "comment:6a6c341400000000150171ea",
+      "commentId": "6a6c341400000000150171ea",
+      "likes": 0,
+      "author": "小米粥"
+    },
+    {
+      "type": "comment",
+      "text": "请问term2可以选的选修课在哪里看呀[皱眉R]",
+      "sourceRef": "comment:6a6a30690000000015007b11",
+      "commentId": "6a6a30690000000015007b11",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "在CUSIS里，把查询的课表信息改成term2就行",
+      "sourceRef": "comment:6a6a3eec0000000015010d6d",
+      "commentId": "6a6a3eec0000000015010d6d",
+      "likes": 0,
+      "author": "小米粥"
+    }
+  ]
+}

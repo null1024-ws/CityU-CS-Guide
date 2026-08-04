@@ -1,0 +1,594 @@
+{
+  "note_id": "664c5d250000000005004a91",
+  "url": "https://www.xiaohongshu.com/explore/664c5d250000000005004a91?xsec_token=ABV6ZW6EGYIxJqhxBq1mk4HangCUp85NyFKg8Tx1mXczo=",
+  "fetched_at": 1785838706.5345433,
+  "note": {
+    "xsecToken": "ABV6ZW6EGYIxJqhxBq1mk4HangCUp85NyFKg8Tx1mXczo=",
+    "user": {
+      "userId": "6006c311000000000101d41b",
+      "nickname": "打一开始就是大胖鱼",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8",
+      "xsecToken": "ABmn1gcKTxbU1RZQ2e5c1mpRZb0yAZd88GFANH1xFQnSY="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "60",
+      "collected": false,
+      "collectedCount": "77",
+      "shareCount": "18",
+      "relation": "none",
+      "niceCount": "",
+      "commentCount": "29",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "url": "",
+        "stream": {},
+        "height": 750,
+        "width": 1280,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041818/25da706d703be5fda5be7003982b6433/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041818/7b76672364cdead232c1b263967330d9/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041818/25da706d703be5fda5be7003982b6433/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041818/7b76672364cdead232c1b263967330d9/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg"
+      }
+    ],
+    "noteId": "664c5d250000000005004a91",
+    "title": "CU MSc CS Term2选课指北",
+    "tagList": [
+      {
+        "id": "612604ae0000000001008f8c",
+        "name": "港中文留学",
+        "type": "topic"
+      },
+      {
+        "id": "5d8882bf0000000002002f46",
+        "name": "港中文",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "5bf470c10a813f0001f89bf5",
+        "name": "留学生",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1716280613000,
+    "lastUpdateTime": 1721201886000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "给大家反馈一下本学期我选的五门课，本反馈带有强烈的主观看法\n在选课阶段为了保证没选上Internship还能修满学分，所以这学期一共上了5门课[失望R],按照图中的顺序依次给大家描绘一下\n\t\n5735是这个学期上过的非常棒的课之一. 主要涉及的是云计算方面的一些基础内容, Eric上课时的讲解以及条理都很棒. 这门课没有作业，需要完成一个Raft协议的Project. 上这种完全没学过的课是收获感很强的, 但是Final出题有点妖哈哈哈, 要自己把学过的东西理解外加融会贯通才行\n\t\n5726的内容大部分都在本科的网安课学过, 但也有涉及到简单的量子密码之类的内容, 4次作业都很简单, 最后需要自己完成一个Report和Presentation. Workload不大, 就是要记得按时交作业, 最后一次作业赶别的课的Due忘记交了结果扣了30%很伤[失望R]\n\t\n5711和上学期的5707是同一个老师, 内容绝大多数是传统的计算机视觉, 涉及到很多矩阵运算和数学推导. 也包括了少量的CNN等模型以及YOLO早期版本. 和上学期的风格一样, 作业量大但是难度不高, Final的难度相较于5707则是提高了, 而且计算量比较大.\n\t\n5718是除了云计算之外的另一门非常棒的课. 主要是一些入门的金融学领域的知识, 比如B-S模型, MPT, CAPM等. 老师上课讲的非常好, 而且偏重于实用性. 对于没有接触过任何金融相关知识的同学可能需要自己多看看老师分享的材料, 整体的作业难度不大, 最后的Final 也很友好, 主要是老师提供的例题的变种或加强版\n\t\n5719是由12次Lecture组成的. 每堂课都会请CSE的不同老师来分享自己相关领域的研究, 似乎对于对想要做RA、读博的同学是一个良好的媒介. 对于其他人的话主要就是享受知识就好, 最后需要提交一个类似于研究综述的小小Report.\n\t\n#港中文留学[话题]#  #港中文[话题]#  #选课[话题]#  #留学生[话题]#"
+  },
+  "comments": [
+    {
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "id": "677f7a5b000000002200b945",
+          "noteId": "664c5d250000000005004a91",
+          "status": 0,
+          "content": "一般我感觉",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1736407644000,
+          "ipLocation": "中国香港",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABY_gyH14JaX_-A1AjdTDfMgMqM6o3rP0euqTB5_ok-kE=",
+            "userId": "6006c311000000000101d41b",
+            "nickname": "打一开始就是大胖鱼",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/120/format/jpg"
+          },
+          "targetComment": {
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bbsi75b00605o9cupgg8rcocfdemgo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABs1Lm65YgzlAeeJesg4rgAfOouAuFLDuxC1oFo-zX7L8=",
+              "userId": "612cf6610000000001006d98",
+              "nickname": "my_22_years"
+            },
+            "id": "677f6ab4000000002200d0aa"
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "content": "学长，请问5726给分高吗",
+      "likeCount": "1",
+      "ipLocation": "广东",
+      "subCommentCursor": "677f7a5b000000002200b945",
+      "id": "677f6ab4000000002200d0aa",
+      "noteId": "664c5d250000000005004a91",
+      "createTime": 1736403637000,
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "612cf6610000000001006d98",
+        "nickname": "my_22_years",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bbsi75b00605o9cupgg8rcocfdemgo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABs1Lm65YgzlAeeJesg4rgAfOouAuFLDuxC1oFo-zX7L8="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "67863fa0000000001b0380ef",
+      "content": "学长计算金融和网安想选个水的，是计算金融简单点？他们难度差距大吗？",
+      "subCommentCount": "2",
+      "subCommentCursor": "678646d300000000220067cd",
+      "noteId": "664c5d250000000005004a91",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "yiyimumu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317mba6shjq6g5ns495rg83boasp03s0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABo7AT5hhnBGUteb5EHfOwrtmeDQieyGUbMWZtTURxSgs=",
+        "userId": "5f8449770000000001000d78"
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "createTime": 1736851360000,
+      "ipLocation": "中国香港",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "status": 0,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "67863fa0000000001b0380ef",
+            "userInfo": {
+              "nickname": "yiyimumu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317mba6shjq6g5ns495rg83boasp03s0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABo7AT5hhnBGUteb5EHfOwrtmeDQieyGUbMWZtTURxSgs=",
+              "userId": "5f8449770000000001000d78"
+            }
+          },
+          "content": "网安水",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABY_gyH14JaX_-A1AjdTDfMgMqM6o3rP0euqTB5_ok-kE=",
+            "userId": "6006c311000000000101d41b",
+            "nickname": "打一开始就是大胖鱼"
+          },
+          "createTime": 1736853203000,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "id": "678646d300000000220067cd",
+          "noteId": "664c5d250000000005004a91"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6666c22c000000001c00be02",
+      "content": "云计算真的是门好课[doge]",
+      "likeCount": "2",
+      "id": "666684c7000000001c02598b",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "5dac05fa000000000100106b",
+        "nickname": "互联网民工蒋大钊",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tbckm8j46005ndc0nt0843bj2rb2no?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1nlJxL3kt0SvYX9i-iHLz2JOD6Isye2a5TQiw2W9lWc="
+      },
+      "showTags": [],
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "likeCount": "1",
+          "showTags": [],
+          "createTime": 1718010413000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5dac05fa000000000100106b",
+              "nickname": "互联网民工蒋大钊",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tbckm8j46005ndc0nt0843bj2rb2no?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1nlJxL3kt0SvYX9i-iHLz2JOD6Isye2a5TQiw2W9lWc="
+            },
+            "id": "666684c7000000001c02598b"
+          },
+          "noteId": "664c5d250000000005004a91",
+          "status": 0,
+          "content": "校友 csdn看过你的大作[偷笑R]",
+          "userInfo": {
+            "xsecToken": "ABTf3HLHXSXR2ZFtzgwdMhS8ZUsgoeyRb7KcDAiXFK320=",
+            "userId": "5dc7765a0000000001003976",
+            "nickname": "ZC",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3121ni6uejg005ne7epd08ebm2j00kpo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "id": "6666c22c000000001c00be02",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "noteId": "664c5d250000000005004a91",
+      "atUsers": [],
+      "createTime": 1717994696000,
+      "subCommentCount": "5",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "677e704b000000001a03b00e",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5bbdaeb03094be000118be3e",
+        "nickname": "木槿",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e885d88802c320001cfeffe.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuiufdduJW_MZGbcX-wDWgN6v62vDgBJPcm1aJ98jaNU="
+      },
+      "ipLocation": "中国香港",
+      "subCommentHasMore": true,
+      "noteId": "664c5d250000000005004a91",
+      "content": "你好请问一下5719会考勤吗",
+      "showTags": [],
+      "subCommentCount": "6",
+      "subCommentCursor": "677e73d4000000002200a959",
+      "status": 0,
+      "liked": false,
+      "atUsers": [],
+      "createTime": 1736339532000,
+      "subComments": [
+        {
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5bbdaeb03094be000118be3e",
+              "nickname": "木槿",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5e885d88802c320001cfeffe.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuiufdduJW_MZGbcX-wDWgN6v62vDgBJPcm1aJ98jaNU="
+            },
+            "id": "677e704b000000001a03b00e"
+          },
+          "invalid": false,
+          "noteId": "664c5d250000000005004a91",
+          "content": "会",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1736340436000,
+          "id": "677e73d4000000002200a959",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "打一开始就是大胖鱼",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABY_gyH14JaX_-A1AjdTDfMgMqM6o3rP0euqTB5_ok-kE=",
+            "userId": "6006c311000000000101d41b"
+          }
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "id": "672388bc000000001b023036",
+      "userInfo": {
+        "userId": "5d3670380000000016033aeb",
+        "nickname": "小夜",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ov2g58gho6g5n9me0s5menbo32an0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmtXpc8a5U0OptENn-pqe1QibVRk24D8171vutXYclYc="
+      },
+      "showTags": [],
+      "subCommentCursor": "67238db6000000001b03597c",
+      "subCommentHasMore": false,
+      "noteId": "664c5d250000000005004a91",
+      "content": "学长我想问下5718考勤吗[哭惹R]",
+      "liked": false,
+      "createTime": 1730382012000,
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1730383286000,
+          "targetComment": {
+            "id": "672388bc000000001b023036",
+            "userInfo": {
+              "userId": "5d3670380000000016033aeb",
+              "nickname": "小夜",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ov2g58gho6g5n9me0s5menbo32an0g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmtXpc8a5U0OptENn-pqe1QibVRk24D8171vutXYclYc="
+            }
+          },
+          "invalid": false,
+          "noteId": "664c5d250000000005004a91",
+          "content": "不考勤",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6006c311000000000101d41b",
+            "nickname": "打一开始就是大胖鱼",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABY_gyH14JaX_-A1AjdTDfMgMqM6o3rP0euqTB5_ok-kE="
+          },
+          "ipLocation": "中国香港",
+          "id": "67238db6000000001b03597c",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "createTime": 1718084650000,
+      "subCommentCursor": "",
+      "noteId": "664c5d250000000005004a91",
+      "liked": false,
+      "userInfo": {
+        "userId": "616f8d740000000002027a55",
+        "nickname": "Jerry Notebook",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312cifeib520g5obfhlq0kuil2fgdff8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByW3V_OtYSZ_M5VTZXt_QHgm66f_JvXe1qXodRQM0U9w="
+      },
+      "ipLocation": "上海",
+      "id": "6667e42a000000000502510b",
+      "status": 0,
+      "content": "24 的cs ，想问下大佬对于summer 学期课程有什么建议吗？比如选会有什么优势以及课程内容是什么，因为涉及到入学即秋招这个事情，有点迷惑[微笑R]",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1716306792000,
+      "ipLocation": "广东",
+      "id": "664cc367000000000d033632",
+      "noteId": "664c5d250000000005004a91",
+      "content": "校友[doge] 云计算也上了 感觉不错 是最有用的课 安全也还行 打个基础还ok 其他都可以水过[doge]",
+      "userInfo": {
+        "userId": "5dc7765a0000000001003976",
+        "nickname": "ZC",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3121ni6uejg005ne7epd08ebm2j00kpo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTf3HLHXSXR2ZFtzgwdMhS8ZUsgoeyRb7KcDAiXFK320="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "请问5726只有project没有考试吗？没学过密码学能跟得上吗？谢谢[皱眉R]",
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subCommentCursor": "6781bb49000000002103dac6",
+      "id": "678104d4000000002102fe39",
+      "noteId": "664c5d250000000005004a91",
+      "status": 0,
+      "ipLocation": "中国香港",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lkBXBFjoJM3osevmk7pMhYk=",
+        "userId": "6621adc80000000003030325",
+        "nickname": "cc"
+      },
+      "createTime": 1736508629000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1736555338000,
+          "invalid": false,
+          "noteId": "664c5d250000000005004a91",
+          "content": "没考试，跟得上",
+          "likeCount": "0",
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "678104d4000000002102fe39",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lkBXBFjoJM3osevmk7pMhYk=",
+              "userId": "6621adc80000000003030325",
+              "nickname": "cc"
+            }
+          },
+          "id": "6781bb49000000002103dac6",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "6006c311000000000101d41b",
+            "nickname": "打一开始就是大胖鱼",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABY_gyH14JaX_-A1AjdTDfMgMqM6o3rP0euqTB5_ok-kE="
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "noteId": "664c5d250000000005004a91",
+      "status": 0,
+      "userInfo": {
+        "userId": "5cfe497e000000001701527c",
+        "nickname": "山后别相逢",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2mia9lr8jq0605n7u95v5qkjsi55djn0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABO2xRYj4rE8XBXQiygnl_aJh_LrtKv0T6dEJ1sspRFJE="
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "id": "676f4447000000000e00cfc2",
+      "content": "学长 麻烦问下您 5719seminar查考勤吗",
+      "createTime": 1735345223000,
+      "ipLocation": "北京",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "createTime": 1753200420000,
+      "content": "请问projectI和老师沟通选择project之后老师让发form是发什么form呀[失望R]",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "64469270000000001f030ec4",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f8f2a34639eb26eb1cd.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABm1ZFqZVSgBhZbahA-HuOgfb6fiFYKZpnrmk4q54Xefg="
+      },
+      "subComments": [],
+      "id": "687fb724000000001901ed12",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "广东",
+      "invalid": false,
+      "noteId": "664c5d250000000005004a91",
+      "status": 0,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 选课",
+  "search_item": {
+    "id": "664c5d250000000005004a91",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 1280,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041818/c8343403884bf20238d7376064b05756/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041818/cda3bbfc43043281dc2422d961136d7d/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 750
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-07-17"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CU MSc CS Term2选课指北",
+      "user": {
+        "xsecToken": "ABXI_YomXE3zYLKc4QkX6E6O7j33ZP4Rp2hgq1qcNAhWY=",
+        "nickName": "打一开始就是大胖鱼",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224comsfna005o06oc8gbl0rugngrv8?imageView2/2/w/80/format/jpg",
+        "userId": "6006c311000000000101d41b",
+        "nickname": "打一开始就是大胖鱼"
+      },
+      "interactInfo": {
+        "sharedCount": "18",
+        "liked": false,
+        "likedCount": "60",
+        "collected": false,
+        "collectedCount": "77",
+        "commentCount": "29"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041818/c8343403884bf20238d7376064b05756/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041818/cda3bbfc43043281dc2422d961136d7d/spectrum/1040g0k0313280ca1h6005o06oc8gbl0r6f9pmcg!nc_n_webp_prv_1",
+        "height": 750,
+        "width": 1280
+      }
+    },
+    "xsecToken": "ABV6ZW6EGYIxJqhxBq1mk4HangCUp85NyFKg8Tx1mXczo=",
+    "index": 14,
+    "exposed": false,
+    "trackId": "664c5d250000000005004a91"
+  }
+}

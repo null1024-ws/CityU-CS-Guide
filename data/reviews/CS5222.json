@@ -1,6 +1,13 @@
 {
   "courseCode": "CS5222",
   "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "confirmed",
+      "sourceCount": 8,
+      "distinctSources": 6
+    },
     "hasRecording": {
       "value": "true",
       "label": "有回放",
@@ -14,13 +21,6 @@
       "confidence": "confirmed",
       "sourceCount": 10,
       "distinctSources": 9
-    },
-    "difficulty": {
-      "value": "medium",
-      "label": "适中",
-      "confidence": "confirmed",
-      "sourceCount": 7,
-      "distinctSources": 5
     },
     "grading": {
       "value": "harsh",
@@ -93,6 +93,15 @@
       "postTitle": "cityu cs semA选课攻略（期末速成版）"
     },
     {
+      "noteId": "66bb33d10000000025030553",
+      "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
+      "excerpt": "CS5222 Computer Networks and Internets（必修）；分数构成：assignment，final；课程逻辑清晰，教授也不错。assignment每一章结束后有，难度可以接受，除此之外有一个wareshark实验和一个关于网络技术的调查报告，不难；final占比最大，题量比较多，稍稍有点难。课程整体知识点比较碎，需要听课，不然考前坐牢（本人）",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课1"
+    },
+    {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
       "excerpt": "2.CS5222 计网 必修课；3*assignment15%+research report5%+wireshark实验10%+final70%开卷；assignment都是那本自顶向下的课后习题，抄答案别全抄，逮住了会给零分。final复习重点放在tutorial上面，考试11个大题根本写不完（考了两个以上的往年题），对于我这种零基础的真的是绝望，看群里有人被挂了",
@@ -109,15 +118,6 @@
         "post_body"
       ],
       "postTitle": "cityu cs sem a 期末成绩评价"
-    },
-    {
-      "noteId": "695c948d000000002102ad0b",
-      "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
-      "excerpt": "CS5222 计算机网络（必修）；无quiz，三个作业，一个wireshark，一个类似调研的报告，（五个作业给分都很高），无期中，全开卷期末。；只要本科学过计网，基本就问题不大，和本科讲的都没啥差别，就是期末占比太高了70%。期末要把作业和tutorial的题搞明白就行，比如迪杰斯特拉算法，各种延迟计算等等。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU CS Master SemA"
     }
   ],
   "commentSources": [],

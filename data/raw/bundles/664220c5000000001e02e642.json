@@ -1,0 +1,106 @@
+{
+  "note_id": "664220c5000000001e02e642",
+  "url": "https://www.xiaohongshu.com/explore/664220c5000000001e02e642?xsec_token=ABlyjtb_Kaid3EdjtjSNDU71xwQ94FEb-yBnQo6Og2SsM=",
+  "fetched_at": 1785840276.4385855,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs semesterB 课程测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "[爆炸R]仅代表个人主观感受，不能代表普遍观点。\n\t\n1. data warehouse and data mining。老师是个一个小时能只讲15页PPT的狠人。经常（?）会拓展到PPT之外的内容，对英语听力是一种挑战。有不计分练习，认真学还是能学到不少东西的。很注重小组项目的细节，会细问不合理的点。期中和期末考试是带有实时反馈系统的机考。考试还是蛮注重理解的。课程绝大部分内容是data mining，warehouse的知识只在最后一节课讲。\n\t\n2. computer graphics。主要学图形学的一些基础知识，点云之类的知识也会讲，但不考。期中考和期末考也比较注重理解，听课对后期复习理解的帮助比较大。期末占比很高。\n3. cloud computing。前半学期一个老师，后半学期一个老师，两位老师都有口音。好不容易适应了第一位老师的口音，换成了第二位老师来讲课，很绝望...作业比较多，但拿分比较容易。期末考试是开卷，涵盖了一些我眼中的超纲内容，开卷也找不到答案。\n4.natural language processing。平时作业和小组项目比较常规。老师说期末考试注重考察对概念的理解，但是个人感觉考试要求的理解程度并没有以上三门课要求的高，还是更偏向于对知识的记忆。也考到了tutorial的代码细节。需要复习的PPT量很多，容易抓不到重点...\n\t\n#CityU[话题]# #CS[话题]# #港硕[话题]# #学习日常[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "补充：privacy-enhancing Technologies。主要讲区块链的各种知识，课程内容多且难度比较大，老师讲的比较快，有可能是不会讲课所以总是省略重点，所以大部分人根本听不懂。ppt非常抽象，上课没听懂，下课复习也很折磨。assignment是4次paper review，没有严格的评分标准，作业分数全看评分TA的心情。有项目，项目可以做一个DeFi（区块链技术的项目），也可以做research（不需要写代码吧应该）。期末考试几乎全是主观题，个人感觉难度中等偏难，前几届的平均分几乎是50-60左右。",
+      "sourceRef": "comment:66433ae1000000001002a8c6",
+      "commentId": "66433ae1000000001002a8c6",
+      "likes": 6,
+      "author": "Humor"
+    },
+    {
+      "type": "sub_comment",
+      "text": "补充，需要背诵记lecture和tutorial的ppt太多了，背起来很有难度[失望R]",
+      "sourceRef": "comment:66498021000000001c0365f4",
+      "commentId": "66498021000000001c0365f4",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "补充：5.topic of information security。覆盖面很广，主要涉及密码学、访问控制、缓冲区溢出、web安全、区块链+物联网安全。老师没口音，很爱互动，上课会鼓励大家交流。没project，三个个人的assignment占50%，是在一个虚拟机环境里做攻击防御的题，题比较多但是难度不大，需要耗费一点时间。期末占50%，很难，难的有点离谱的程度。老师说均分50+，会给30%的人C段。慎选。",
+      "sourceRef": "comment:66423487000000000d03227f",
+      "commentId": "66423487000000000d03227f",
+      "likes": 7,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有点离谱了",
+      "sourceRef": "comment:6642c47e0000000008003b78",
+      "commentId": "6642c47e0000000008003b78",
+      "likes": 0,
+      "author": "叶子yeye"
+    },
+    {
+      "type": "comment",
+      "text": "问问presentation多么",
+      "sourceRef": "comment:6670208a0000000023006ff0",
+      "commentId": "6670208a0000000023006ff0",
+      "likes": 0,
+      "author": "懒蚂蚁"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不多 一个课就一个",
+      "sourceRef": "comment:667032f5000000002100d365",
+      "commentId": "667032f5000000002100d365",
+      "likes": 1,
+      "author": "叶子yeye"
+    },
+    {
+      "type": "comment",
+      "text": "云计算期末考的很绝望[哭惹R]希望别挂科就好",
+      "sourceRef": "comment:66425f3e000000000401a185",
+      "commentId": "66425f3e000000000401a185",
+      "likes": 2,
+      "author": "Ethan"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我最后两道题全空着[哭惹R]",
+      "sourceRef": "comment:6642c8810000000008000b03",
+      "commentId": "6642c8810000000008000b03",
+      "likes": 0,
+      "author": "叶子yeye"
+    },
+    {
+      "type": "comment",
+      "text": "学姐你好，我想问下dm期中期末会考weka相关的吗，还是主要上课ppt讲的那些偏数学的原理",
+      "sourceRef": "comment:67b5a46d000000001c001a04",
+      "commentId": "67b5a46d000000001c001a04",
+      "likes": 0,
+      "author": "橄榄"
+    },
+    {
+      "type": "comment",
+      "text": "学姐你好 想问一下计算机图形学和云计算都有网课吗[害羞R]",
+      "sourceRef": "comment:677ca76d000000001b03c561",
+      "commentId": "677ca76d000000001b03c561",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "补充:Machine Learning: Principles and Practice\t老师讲的非常细致，课上手写板书，需要有一定的概率论基础。两个个人作业，一个二人小组作业，代码只能调用基本的库，需要真正理解算法，才可以完成作业，还有10个课后作业，都是证明题。作业有一个最终ddl，在此之前提交即可。期中考试和期末考试是都是4道推导大题。给分友好。",
+      "sourceRef": "comment:6642d58f0000000009001db3",
+      "commentId": "6642d58f0000000009001db3",
+      "likes": 4,
+      "author": "Freeloop0_1"
+    }
+  ]
+}

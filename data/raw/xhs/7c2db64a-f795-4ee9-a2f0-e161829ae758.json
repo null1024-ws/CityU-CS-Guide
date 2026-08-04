@@ -1,0 +1,43 @@
+{
+  "note_id": "7c2db64a-f795-4ee9-a2f0-e161829ae758",
+  "url": "https://www.xiaohongshu.com/explore/7c2db64a-f795-4ee9-a2f0-e161829ae758?xsec_token=ABSp6hLYGkrSvUVqFQ6fUzupuIbQuzNDJP8HvqTOOAsBc7Xs9tAjW8Ki0ljuPyDFk4IHl0BuBfRhe9OOJO_BwSJyahoLxaXdZagQ3kIvZwQvE=",
+  "fetched_at": 1785843097.1062198,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6187 城大CS",
+  "search_item": {
+    "id": "7c2db64a-f795-4ee9-a2f0-e161829ae758#1785843100821",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "7c2db64a-f795-4ee9-a2f0-e161829ae758#1785843100821",
+      "queries": [
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程"
+        },
+        {
+          "id": "港校cs申请难度",
+          "name": "港校cs申请难度",
+          "searchWord": "港校cs申请难度"
+        },
+        {
+          "id": "城大计算机学院",
+          "name": "城大计算机学院",
+          "searchWord": "城大计算机学院"
+        },
+        {
+          "id": "cityu cs bar",
+          "name": "cityu cs bar",
+          "searchWord": "cityu cs bar"
+        }
+      ]
+    },
+    "xsecToken": "ABSp6hLYGkrSvUVqFQ6fUzupuIbQuzNDJP8HvqTOOAsBc7Xs9tAjW8Ki0ljuPyDFk4IHl0BuBfRhe9OOJO_BwSJyahoLxaXdZagQ3kIvZwQvE=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "7c2db64a-f795-4ee9-a2f0-e161829ae758#1785843100821"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "note_id": "6a2547bf0000000010001c00",
+  "url": "https://www.xiaohongshu.com/explore/6a2547bf0000000010001c00?xsec_token=ABrPXLZPln8JtmCG2l6G2gXxKchPgBl3H6ECzKc32xe_0=",
+  "fetched_at": 1785843946.3182309,
+  "note": {
+    "noteId": "6a2547bf0000000010001c00",
+    "title": "NUS MCOMP 选课 Part 3",
+    "desc": "CS5228 (推荐指数：⭐️⭐️⭐️⭐️）\n有 3 个 Individual Assignments、1 个 Midterm、1 个 Final Quiz，以及 1 个 Group Project。Group Project 会 host 在 Kaggle 上，虽然 Ranking 对分数没有影响，但大家还是会很卷。课程内容其实不难（Regression, Classification, Graph Theory之类的），我会拿到这样的成绩主要是因为考试没考好。老师听口音应该是德国人，虽然有口音，但整体还是能够听懂。教学方面非常用心，even 周末email老师也是秒回的，对像我这样没有什么 Data Science Background 的学生来说，是一门很不错的入门课。\n\t\nCS5242 (推荐指数：⭐️⭐️⭐️⭐️)\nProf Kenji 教上半部分，后半部分则是 Prof You Yang。Prof Kenji 感觉上很厉害，但老实说我实在听不懂他的口音（日式英语）；Prof You Yang 也有一点口音，不过还是能听懂。这门课只有 Assignments，没有 Quiz，也没有考试。大部分assignments 一天内就能完成。虽然我本身没有 AI Background，但整体来说还是能够跟上课程进度。后半段会讲 BERT, GPT以及 Distributed Training 等内容，整体体验不错。",
+    "imageList": [
+      {
+        "fileId": "oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0",
+        "height": 855,
+        "width": 1320,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041946/989a87e9ba14dc77e4670070e218a6bd/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041946/884d786fdad437732e270772b0f30880/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041946/989a87e9ba14dc77e4670070e218a6bd/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041946/884d786fdad437732e270772b0f30880/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "traceId": "",
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1780920572000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "userId": "62075fa5000000001000ef06",
+      "nickname": "程序dog",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0",
+      "xsecToken": "ABMS-cY0gnnzE1w6GpAgppk8yZ4S93gXQJcZZPro3QI0M="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "30",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "26",
+      "commentCount": "13",
+      "shareCount": "",
+      "followed": false
+    },
+    "tagList": [],
+    "time": 1780828095000,
+    "xsecToken": "ABrPXLZPln8JtmCG2l6G2gXxKchPgBl3H6ECzKc32xe_0="
+  },
+  "comments": [
+    {
+      "subCommentCursor": "6a2557e2000000000d023c00",
+      "id": "6a25557b000000002702e8d7",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5c4dc5fc000000001002ce4e",
+        "nickname": "pser_ZG",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321mf277kn4005n2donu45jie1s7jo88?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABAYqfapMsg881OZQci3b7hdpn5z6J2GALbEWJvcIpq54="
+      },
+      "showTags": [],
+      "subCommentCount": "11",
+      "noteId": "6a2547bf0000000010001c00",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "content": "cs5242 没有考试吗？只有全100% asmt吗",
+      "createTime": 1780831612000,
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABXv3DROwJ9J8NDd9TXvnVIpG_TQioKTYTxT3dYHCTyfE=",
+            "userId": "62075fa5000000001000ef06",
+            "nickname": "程序dog"
+          },
+          "createTime": 1780832226000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "6a25557b000000002702e8d7",
+            "userInfo": {
+              "xsecToken": "ABAYqfapMsg881OZQci3b7hdpn5z6J2GALbEWJvcIpq54=",
+              "userId": "5c4dc5fc000000001002ce4e",
+              "nickname": "pser_ZG",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321mf277kn4005n2donu45jie1s7jo88?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a2557e2000000000d023c00",
+          "noteId": "6a2547bf0000000010001c00",
+          "content": "看老师吧，反正Prof Kenji和 You Yang 只有assignments",
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "0",
+      "id": "6a25580f00000000290356af",
+      "status": 0,
+      "content": "已开好了pro，有uu一起来嘛[派对R]",
+      "liked": false,
+      "createTime": 1780832272000,
+      "ipLocation": "山东",
+      "noteId": "6a2547bf0000000010001c00",
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "userId": "61ad73d700000000100094f5",
+        "nickname": "🌞👀⭐",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3215id3bt7a605oddefbk157l3d3a08o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABp1Ta5Upv0aonCKcuzsEm9DkVLyYPse3zdmSTyiA4g0g="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 体验",
+  "search_item": {
+    "id": "6a2547bf0000000010001c00",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "26",
+        "collected": false,
+        "collectedCount": "30",
+        "commentCount": "13",
+        "sharedCount": "0",
+        "liked": false
+      },
+      "cover": {
+        "height": 855,
+        "width": 1320,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041945/d3a31b11cf4f287ed291d5801464bb5a/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041945/e24d41f33e709e0df571f5fd37229c64/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1320,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041945/d3a31b11cf4f287ed291d5801464bb5a/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041945/e24d41f33e709e0df571f5fd37229c64/oss-sg/notes/1040g3l032141dkf3ni005og7buik1ro69l1gej0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 855
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-08"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "NUS MCOMP 选课 Part 3",
+      "user": {
+        "nickName": "程序dog",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rbsfftmha005og7buik1ro6femsch0?imageView2/2/w/80/format/jpg",
+        "userId": "62075fa5000000001000ef06",
+        "nickname": "程序dog",
+        "xsecToken": "ABAL2l17-F5fy7q3mAaUlu-11WdIoJmmrum5qepYTyjlo="
+      }
+    },
+    "xsecToken": "ABrPXLZPln8JtmCG2l6G2gXxKchPgBl3H6ECzKc32xe_0=",
+    "index": 16,
+    "exposed": false,
+    "trackId": "6a2547bf0000000010001c00"
+  }
+}

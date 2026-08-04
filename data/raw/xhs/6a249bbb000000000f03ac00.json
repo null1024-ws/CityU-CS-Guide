@@ -1,0 +1,665 @@
+{
+  "note_id": "6a249bbb000000000f03ac00",
+  "url": "https://www.xiaohongshu.com/explore/6a249bbb000000000f03ac00?xsec_token=ABlTtJQ_za00ySM201zoPnCAt4k3pt4PVFl_BJs6LpNgI=",
+  "fetched_at": 1785841605.8889277,
+  "note": {
+    "xsecToken": "ABlTtJQ_za00ySM201zoPnCAt4k3pt4PVFl_BJs6LpNgI=",
+    "noteId": "6a249bbb000000000f03ac00",
+    "title": "HCI是不是CS中最大的庞氏骗局",
+    "desc": "是的，HCI是一个在CS中的方向。\n是的，HCI现在大部分人无法凭借HCI在工业界找到工作。\n是的，HCI中的明星PHD都去了学术界。\n\t\n这是一个老师诓学生，学生路径依赖被迫只能成为老师，然后继续诓学生的闭环领域。\n\t\n#HCI[话题]# #人机交互[话题]#",
+    "user": {
+      "userId": "658594ff000000001d00128b",
+      "nickname": "momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo",
+      "xsecToken": "ABCfTCwNf7gpKcN-Hpcl6bNEtnw7dwX930zaM-8s57lq8="
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041907/290e2e5a9b1c729d2d9077132c8bd0be/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041907/1e970fde93b5fd27d76d3f77552a1bff/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041907/290e2e5a9b1c729d2d9077132c8bd0be/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0",
+        "height": 1600,
+        "width": 1200,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041907/1e970fde93b5fd27d76d3f77552a1bff/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nd_dft_wlteh_jpg_3",
+        "url": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "614430d500000000010032cd",
+        "name": "HCI",
+        "type": "topic"
+      },
+      {
+        "id": "60aca35d0000000001003df3",
+        "name": "人机交互",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1780784059000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "interactInfo": {
+      "collectedCount": "313",
+      "commentCount": "274",
+      "shareCount": "495",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "613",
+      "collected": false,
+      "followed": false,
+      "relation": "none"
+    },
+    "atUserList": [],
+    "time": 1780784059000
+  },
+  "comments": [
+    {
+      "subCommentCursor": "6a250997000000002900e37f",
+      "noteId": "6a249bbb000000000f03ac00",
+      "content": "我想提醒各位，千万要察觉他人言论中的立场和话语中的避重就轻。屁股决定脑袋。如果你还没上桌，那别被他们带跑。如果你不是名校/天赋异禀/家财万贯，他们代表的不是你，事实是这个领域内只有他们能找到工作，而大多数人不能。",
+      "createTime": 1780809542000,
+      "ipLocation": "加拿大",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "id": "6a24ff46000000000d022000",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ=",
+        "userId": "658594ff000000001d00128b",
+        "nickname": "momo"
+      },
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "6a249bbb000000000f03ac00",
+          "status": 0,
+          "content": "同意名校、天赋和资源很重要，而且不只 HCI 重要，对AI、系统、机器人、图形学等也都重要。没有好的训练、资源和机会，学任何热门方向都不一定能发好论文，也不一定能找到好工作。HCI 确实可以被批评：就业路径不稳定、学界训练和工业岗位有断层、部分paper taste脱离现实、学生可能没有被充分训练出可迁移的技术/产品能力，这些问题都值得被具体讨论。但用名校、天赋、家财来划分谁有资格做这个方向，本质上是在用结果反推学科价值，也容易误导不了解这个领域的人。",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5b7b850ab2dd5700011ae8d9",
+            "nickname": "喵老师",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tjr6niqn2704ahghj2glq6p7o7g180?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABR_E6xUOHg7slVSGye0nZIoLPJi75MGKGh-yFKH-QUgg="
+          },
+          "targetComment": {
+            "id": "6a24ff46000000000d022000",
+            "userInfo": {
+              "userId": "658594ff000000001d00128b",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ="
+            }
+          },
+          "id": "6a250997000000002900e37f",
+          "likeCount": "31",
+          "showTags": [],
+          "createTime": 1780812184000,
+          "ipLocation": "美国",
+          "pictures": []
+        }
+      ],
+      "subCommentCount": "23",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "70",
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "invalid": false,
+      "status": 4,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a290095000000002803fac0",
+      "status": 0,
+      "ipLocation": "美国",
+      "subCommentCount": "7",
+      "subComments": [
+        {
+          "ipLocation": "加拿大",
+          "invalid": false,
+          "noteId": "6a249bbb000000000f03ac00",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "targetComment": {
+            "id": "6a290095000000002803fac0",
+            "userInfo": {
+              "userId": "640b9775000000000e009a24",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5qhbpj2o005p0bitqjh6h4cp96e60?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIAheyZ17H-IJgAZN2subeLByNYl_WLRtpg7-W0m1pJs="
+            }
+          },
+          "pictures": [],
+          "id": "6a2925a3000000000d021402",
+          "content": "唉 有offer就接吧，如果学校和地方还不错",
+          "userInfo": {
+            "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ=",
+            "userId": "658594ff000000001d00128b",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1781081508000
+        }
+      ],
+      "subCommentCursor": "6a2925a3000000000d021402",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "likeCount": "30",
+      "invalid": false,
+      "noteId": "6a249bbb000000000f03ac00",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1781072022000,
+      "content": "来说点想法。本人HCI PhD今年毕业，算是Top院校吧，有幸拿到了一个TTAP的Offer。思考再三Decline了。实在不忍心让年轻一辈走这条路，因为我知道他们再怎么努力未来也很难被Job Market看见，而我凭一己之力无法撬动这个市场来为HCI PhD创造更多就业机会。我能为了自己的利益去诓资本家，但让我诓PhD小朋友为一个虚无的未来而努力真的做不到。这样的TTAP生活对我来说每天都会是巨大的折磨。目前Decline了Offer还没有找到工作，过去熬夜做的CHI UIST算什么不知道，未来要做什么也还不知道，反正是不会再做HCI啦～",
+      "userInfo": {
+        "userId": "640b9775000000000e009a24",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5qhbpj2o005p0bitqjh6h4cp96e60?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIAheyZ17H-IJgAZN2subeLByNYl_WLRtpg7-W0m1pJs="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "21",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a24a030000000002701c3d0",
+            "userInfo": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABiW8IwwkRoOx1bhs5Ms34vl9xyiTwtNybJOkVxEuZUsk=",
+              "userId": "665ec26400000000030304d1"
+            }
+          },
+          "invalid": false,
+          "id": "6a24bbb70000000029026c22",
+          "noteId": "6a249bbb000000000f03ac00",
+          "status": 0,
+          "likeCount": "28",
+          "userInfo": {
+            "nickname": "小红薯644890B4",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABKAip_pHg-335l80zF4gtlNqKZZqjwCuQrBNtwWPLoCY=",
+            "userId": "6447907d000000002a00a182"
+          },
+          "showTags": [],
+          "ipLocation": "江苏",
+          "pictures": [],
+          "content": "很好奇，那篇chi是中学生用ai发的？我是真想学，做梦想中篇a[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1780792248000
+        }
+      ],
+      "content": "赶紧跑吧[笑哭R]HCI方向一堆学美术的来读CS，它的顶会CHI现在中学生用AI都能发，毕业等于失业[偷笑R]",
+      "likeCount": "174",
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiW8IwwkRoOx1bhs5Ms34vl9xyiTwtNybJOkVxEuZUsk=",
+        "userId": "665ec26400000000030304d1"
+      },
+      "showTags": [],
+      "invalid": false,
+      "id": "6a24a030000000002701c3d0",
+      "atUsers": [],
+      "createTime": 1780785200000,
+      "ipLocation": "美国",
+      "subCommentCursor": "6a24bbb70000000029026c22",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "noteId": "6a249bbb000000000f03ac00",
+      "status": 0,
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "0",
+      "id": "6a70bbdb0000000015008342",
+      "noteId": "6a249bbb000000000f03ac00",
+      "status": 0,
+      "likeCount": "0",
+      "invalid": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vv9euav2q0g5ofno0o41jibh3j5o0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABq4QqY3GVwaue14-s_cCnnh6og76KfpJMEeRJLQxI3JA=",
+        "userId": "61f7c030000000001000ce4b",
+        "nickname": "：）"
+      },
+      "subCommentHasMore": false,
+      "pictures": [],
+      "content": "能问问大家如果本科是做hci申请美硕cs像acm chi poster和 ieee ismar demo这些经历的独立一作竞争力怎么样？",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1785773019000,
+      "liked": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a27b05c0000000029025987",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "美国",
+      "atUsers": [],
+      "createTime": 1780985948000,
+      "subComments": [
+        {
+          "id": "6a27b1ec00000000290379fc",
+          "noteId": "6a249bbb000000000f03ac00",
+          "status": 0,
+          "liked": false,
+          "likeCount": "17",
+          "userInfo": {
+            "xsecToken": "ABnoogXdIe2_ljfhcYCzbJdUUSX0Mh5lSErx7i6hjNZMg=",
+            "userId": "5ced6c2200000000170038a2",
+            "nickname": "骆洛落水天",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315hkdueg2o005n7ddgh5oe52b79m2m8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1780986348000,
+          "ipLocation": "美国",
+          "content": "而且我觉得成年人是要保证自己确保自己be informed and make responsible decision的，业界还是学术 这些是读PhD前应该去了解的。 我不觉得是骗局，更准确的说是代价 要么自己承受，要么再另行想办法解决",
+          "atUsers": [],
+          "showTags": [],
+          "targetComment": {
+            "id": "6a27b05c0000000029025987",
+            "userInfo": {
+              "userId": "5ced6c2200000000170038a2",
+              "nickname": "骆洛落水天",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315hkdueg2o005n7ddgh5oe52b79m2m8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABnoogXdIe2_ljfhcYCzbJdUUSX0Mh5lSErx7i6hjNZMg="
+            }
+          },
+          "pictures": [],
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "6a27b1ec00000000290379fc",
+      "pictures": [],
+      "invalid": false,
+      "content": "学术和业界本来就是两码事。 我接触过的所有advisor和推荐人在我决定读博时都反复回答过我，PhD并不会让你挣得更多，也不会让你的就业机会更广阔，ta只是通向学术工作的必要路径，如果你的目的是要去工业界，PhD不会在这方面有你以为的好处，这些导师有google最早的head,有学术界rising star，有学术界老人，每个人都是这么说的，我也觉得这是每个决定读phd的人要自己决定、自己负责的一方面，况且就算真的想兼顾找工，HCI PhD不是没有适合找工的方向。 我反而觉得是technical CS本身的强业界属性让你对phd的理解和期待有所误解",
+      "liked": false,
+      "likeCount": "35",
+      "userInfo": {
+        "userId": "5ced6c2200000000170038a2",
+        "nickname": "骆洛落水天",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315hkdueg2o005n7ddgh5oe52b79m2m8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnoogXdIe2_ljfhcYCzbJdUUSX0Mh5lSErx7i6hjNZMg="
+      },
+      "subCommentHasMore": true,
+      "noteId": "6a249bbb000000000f03ac00",
+      "subCommentCount": "8",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "4",
+      "subCommentCount": "4",
+      "noteId": "6a249bbb000000000f03ac00",
+      "showTags": [],
+      "createTime": 1780982325000,
+      "subComments": [
+        {
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ=",
+            "userId": "658594ff000000001d00128b",
+            "nickname": "momo"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1780983474000,
+          "ipLocation": "加拿大",
+          "noteId": "6a249bbb000000000f03ac00",
+          "atUsers": [],
+          "likeCount": "2",
+          "targetComment": {
+            "id": "6a27a234000000002a00446e",
+            "userInfo": {
+              "nickname": "小红薯86B2FE6",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABYE-2exg6WrTNNX-XDzAiBRnJTnmpmjlE__WVAssOIL0=",
+              "userId": "5bfdec8c44363b430045dbac"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a27a6b2000000000d022c00",
+          "status": 0,
+          "content": "请查看近几年HCI PhD找到美国TTAP的数据",
+          "liked": false
+        }
+      ],
+      "id": "6a27a234000000002a00446e",
+      "status": 0,
+      "userInfo": {
+        "userId": "5bfdec8c44363b430045dbac",
+        "nickname": "小红薯86B2FE6",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYE-2exg6WrTNNX-XDzAiBRnJTnmpmjlE__WVAssOIL0="
+      },
+      "ipLocation": "北京",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "invalid": false,
+      "liked": false,
+      "subCommentCursor": "6a27a6b2000000000d022c00",
+      "content": "在工业界不好找工作也不能说是庞氏骗局吧，在工业界不好找工作的专业多了，甚至说读博适合去工业界的行业本来就是少数",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "subCommentCursor": "6a24fd670000000028030375",
+      "content": "这里把短期好不好找工作偷换成了学科有没有价值。HCI 确实不是一条保证进大厂的捷径，学界训练和业界岗位之间也可能有断层，这些都可以批评。但科研和产品本来就是两个目标：产品追求落地、效率和商业结果，科研追求提出问题、建立理解和探索可能性。不能因为一个研究方向没有直接对应某个岗位，就说它没有价值。HCI 研究的是人与技术的关系，包含设计、心理、社科、工程和实践。新兴技术越强，技术如何被人理解、使用、误用、接受，反而越重要。不能因为一个方向更容易对应当前岗位，就说它比另一个方向更高贵。按这个逻辑，美术、设计、社科、人文、基础研究都可以被说成没价值。真正该批评的是脱离现实的评价体系。",
+      "userInfo": {
+        "userId": "5b7b850ab2dd5700011ae8d9",
+        "nickname": "喵老师",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tjr6niqn2704ahghj2glq6p7o7g180?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABR_E6xUOHg7slVSGye0nZIoLPJi75MGKGh-yFKH-QUgg="
+      },
+      "subCommentCount": "19",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "293",
+      "id": "6a24f6bc000000002803d7c2",
+      "noteId": "6a249bbb000000000f03ac00",
+      "createTime": 1780807357000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a24fd670000000028030375",
+          "noteId": "6a249bbb000000000f03ac00",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "10",
+          "userInfo": {
+            "userId": "6534f50100000000040090d6",
+            "nickname": "出尘",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322qfg8s17a005p9kuk0h146m3pthq20?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABeW1OcHTTsEhhRDG_HZL25lG_doGnietGd5bbAO3sLeE="
+          },
+          "createTime": 1780809063000,
+          "content": "刚想辩驳 喵老师已经说完了 很高兴在这里见到你 支持！",
+          "showTags": [],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a24f6bc000000002803d7c2",
+            "userInfo": {
+              "userId": "5b7b850ab2dd5700011ae8d9",
+              "nickname": "喵老师",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tjr6niqn2704ahghj2glq6p7o7g180?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABR_E6xUOHg7slVSGye0nZIoLPJi75MGKGh-yFKH-QUgg="
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "pictures": [],
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a249bbb000000000f03ac00",
+      "createTime": 1780820460000,
+      "subCommentCount": "4",
+      "pictures": [],
+      "status": 0,
+      "showTags": [],
+      "id": "6a2529ec0000000029011db0",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5f734650000000000101d170",
+        "nickname": "Mogyokada_",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31usu9pbt3q005nrj8p80bkbgd0ub2lg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEP6QHyduS1IClGjBYB40g4ALNPeKh-ytA5FgFmkS85Y="
+      },
+      "subComments": [
+        {
+          "noteId": "6a249bbb000000000f03ac00",
+          "content": "我是CS专业。CS很多方向（这里就不一一举例方向了）可以找到工作，但在CS里做HCI找不到",
+          "userInfo": {
+            "userId": "658594ff000000001d00128b",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ="
+          },
+          "createTime": 1780825604000,
+          "targetComment": {
+            "id": "6a2529ec0000000029011db0",
+            "userInfo": {
+              "userId": "5f734650000000000101d170",
+              "nickname": "Mogyokada_",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31usu9pbt3q005nrj8p80bkbgd0ub2lg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEP6QHyduS1IClGjBYB40g4ALNPeKh-ytA5FgFmkS85Y="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "13",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "加拿大",
+          "id": "6a253e04000000000d021c01"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "只能说 学了HCI无法凭借HCI在业界找到工作；那你学强CS相关，现在也无法凭借这个专业在业界找到工作了。学到顶级那两边都能找到去处，从一般情况来讲，如果要把找不找到工作归咎到专业上，那现在都比较难了。",
+      "likeCount": "10",
+      "ipLocation": "瑞典",
+      "subCommentCursor": "6a253e04000000000d021c01",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "pictures": [],
+      "invalid": false,
+      "content": "是的。没什么技能只要讲故事就可以发paper。但是发paper不妨碍去学习和使用扎实的技能，最后还是凭借技能去找工作，工作也和hci没什么关系。",
+      "likeCount": "45",
+      "showTags": [],
+      "id": "6a24b292000000000d021801",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1780789907000,
+      "ipLocation": "美国",
+      "subCommentCount": "17",
+      "subCommentHasMore": true,
+      "noteId": "6a249bbb000000000f03ac00",
+      "subComments": [
+        {
+          "noteId": "6a249bbb000000000f03ac00",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a24b292000000000d021801",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB2fAwGtNgyBoK3eB1_C46dpaHAPhXRAQGhJui0cVRhLw=",
+              "userId": "5b48ad52db2e6050f444d9c8",
+              "nickname": "Z.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31id6efpo0a6g4a748dml5me8ihvdvm0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a24cb09000000000d021403",
+          "status": 0,
+          "content": "坦率的说：不同意，发paper妨碍了学习技能。发paper要迎合当下的taste，为了迎合这种口味所花费的时间占用了机会成本。同样是花时间发论文，HCI 的文章工业界不认可，但其他领域的paper可以帮助找工作。",
+          "likeCount": "58",
+          "userInfo": {
+            "xsecToken": "ABkScsmBL-0S9O3fb1TXcLEJCy2tlAeRyD9nJKCECzVQQ=",
+            "userId": "658594ff000000001d00128b",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1780796170000,
+          "ipLocation": "加拿大"
+        }
+      ],
+      "subCommentCursor": "6a24cb09000000000d021403",
+      "liked": false,
+      "userInfo": {
+        "nickname": "Z.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31id6efpo0a6g4a748dml5me8ihvdvm0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2fAwGtNgyBoK3eB1_C46dpaHAPhXRAQGhJui0cVRhLw=",
+        "userId": "5b48ad52db2e6050f444d9c8"
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1780984326000,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "6a249bbb000000000f03ac00",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "🤪",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hb3g1pb3a0g49p0rheagudjj9ekfpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvJopRWSR1sNQGJIxlLKdrvZ3J0F-AHnC0w-dLcZckZs=",
+        "userId": "59a71ca85e87e76ad35d79b3"
+      },
+      "invalid": false,
+      "id": "6a27aa06000000002702cadd",
+      "status": 0,
+      "subComments": [],
+      "content": "没看过SIGCHI的可以去看一下program，可以让你大开眼界。“我们采访了18个失去宠物的主人在支持论坛上的感受，发现老是提醒我们失去宠物的现实，偏重于失去，太压抑了，结论就是，如果支持论坛能设计成交替偏重于安慰失去和恢复心态就好了” 不夸张，这就是一篇人机交互顶会论文[笑哭R]",
+      "likeCount": "22",
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "pictures": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 避雷",
+  "search_item": {
+    "id": "6a249bbb000000000f03ac00",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322fn9r1mns6g5pc5ijvn84kbtnitgoo?imageView2/2/w/80/format/jpg",
+        "userId": "658594ff000000001d00128b",
+        "nickname": "momo",
+        "xsecToken": "AB0_FL7lhXwRVm8nsQ8OdiXnEfjcZBM1YHCY7rcMDXYx8="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "613",
+        "collected": false,
+        "collectedCount": "313",
+        "commentCount": "274",
+        "sharedCount": "495"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041906/2a8f59b9c9be1922a0e269034bf9645f/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041906/45dbf5dc2b805c7a6498d49c25ffcd49/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/2a8f59b9c9be1922a0e269034bf9645f/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/45dbf5dc2b805c7a6498d49c25ffcd49/oss-sg/notes/1040g3l03213e2msqnk605pc5ijvn84kbl77r6p0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "HCI是不是CS中最大的庞氏骗局"
+    },
+    "xsecToken": "ABlTtJQ_za00ySM201zoPnCAt4k3pt4PVFl_BJs6LpNgI=",
+    "index": 11,
+    "exposed": true,
+    "trackId": "6a249bbb000000000f03ac00"
+  }
+}

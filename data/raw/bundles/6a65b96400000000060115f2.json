@@ -1,0 +1,122 @@
+{
+  "note_id": "6a65b96400000000060115f2",
+  "url": "https://www.xiaohongshu.com/explore/6a65b96400000000060115f2?xsec_token=ABKgoD-ANbCiYF46XWRa472MmXwomgNvlZ5Bj1thiKVIc=",
+  "fetched_at": 1785842287.658706,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "小白第一次投AAAI",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "让三个agent给我打分，gpt5.6给了6.5，斯坦福给了acc，cspaper给的4，但是这些agent给的意见大多还挺有用的。让我欣慰的是三个agent都觉得我的idea很不错有意义，还记得当初开组会我提出idea的时候被导师批的体无完肤说是完全找不到场景，meaningless。希望我真的能进二轮吧。。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "斯坦福多少分",
+      "sourceRef": "comment:6a65c35f00000000150063f8",
+      "commentId": "6a65c35f00000000150063f8",
+      "likes": 0,
+      "author": "风枫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "斯坦福不知道几分啊 在哪能看 我的斯坦福结果只有一堆文字",
+      "sourceRef": "comment:6a65c457000000002a032ac3",
+      "commentId": "6a65c457000000002a032ac3",
+      "likes": 0,
+      "author": "马来西亚水牛"
+    },
+    {
+      "type": "comment",
+      "text": "是只交正文还是附录一起交给ai打分嘞",
+      "sourceRef": "comment:6a66ba57000000002a024d6e",
+      "commentId": "6a66ba57000000002a024d6e",
+      "likes": 1,
+      "author": "Weightdecay"
+    },
+    {
+      "type": "sub_comment",
+      "text": "只给了正文",
+      "sourceRef": "comment:6a66d69b000000002a032465",
+      "commentId": "6a66d69b000000002a032465",
+      "likes": 1,
+      "author": "马来西亚水牛"
+    },
+    {
+      "type": "comment",
+      "text": "cspaper不也得选模型么",
+      "sourceRef": "comment:6a65beee000000002b0010a4",
+      "commentId": "6a65beee000000002b0010a4",
+      "likes": 0,
+      "author": "\"; DROP TABLE * --"
+    },
+    {
+      "type": "sub_comment",
+      "text": "cspaper选的26的aaai 模型忘了是啥了",
+      "sourceRef": "comment:6a65c480000000002a005fff",
+      "commentId": "6a65c480000000002a005fff",
+      "likes": 0,
+      "author": "马来西亚水牛"
+    },
+    {
+      "type": "comment",
+      "text": "斯坦福没用",
+      "sourceRef": "comment:6a69c0b9000000002a0252e7",
+      "commentId": "6a69c0b9000000002a0252e7",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "PDF太大了怎么压缩啊",
+      "sourceRef": "comment:6a65c14200000000150114db",
+      "commentId": "6a65c14200000000150114db",
+      "likes": 0,
+      "author": "银河海"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我7mb 降低图片dpi？",
+      "sourceRef": "comment:6a65c467000000002a02411e",
+      "commentId": "6a65c467000000002a02411e",
+      "likes": 0,
+      "author": "马来西亚水牛"
+    },
+    {
+      "type": "comment",
+      "text": "选的啥模型，gemini3.1pro两个8，是不是太宽容了[捂脸R]",
+      "sourceRef": "comment:6a69f229000000002901bb8a",
+      "commentId": "6a69f229000000002901bb8a",
+      "likes": 0,
+      "author": "lc"
+    },
+    {
+      "type": "comment",
+      "text": "cspaper给的4 其他的给的6 6.5[捂脸R] 希望审稿人别用cspaper[捂脸R]",
+      "sourceRef": "comment:6a664d96000000001500686c",
+      "commentId": "6a664d96000000001500686c",
+      "likes": 0,
+      "author": "twistzz"
+    },
+    {
+      "type": "comment",
+      "text": "cspaper我也是4[尬住R] 选的aaai2026 gpt5.6",
+      "sourceRef": "comment:6a65cdcd0000000029036bbc",
+      "commentId": "6a65cdcd0000000029036bbc",
+      "likes": 0,
+      "author": "Yoga"
+    },
+    {
+      "type": "comment",
+      "text": "冲！[doge]",
+      "sourceRef": "comment:6a65c9bc000000002b028a40",
+      "commentId": "6a65c9bc000000002b028a40",
+      "likes": 0,
+      "author": "又有柚子"
+    }
+  ]
+}

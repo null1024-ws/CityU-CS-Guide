@@ -1,0 +1,209 @@
+{
+  "note_id": "66f26f43000000001902e831",
+  "url": "https://www.xiaohongshu.com/explore/66f26f43000000001902e831?xsec_token=ABIATTYDCsRpguCXPq1_s7uo-cYvf-RHddH80dMEiypvs=",
+  "fetched_at": 1785839048.3557916,
+  "note": {
+    "xsecToken": "ABIATTYDCsRpguCXPq1_s7uo-cYvf-RHddH80dMEiypvs=",
+    "noteId": "66f26f43000000001902e831",
+    "type": "normal",
+    "title": "🌟【科研新篇】🌟",
+    "interactInfo": {
+      "likedCount": "10",
+      "relation": "none",
+      "collected": false,
+      "collectedCount": "4",
+      "commentCount": "1",
+      "shareCount": "1",
+      "followed": false,
+      "niceCount": "",
+      "liked": false
+    },
+    "atUserList": [],
+    "time": 1727164228000,
+    "lastUpdateTime": 1727164228000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "#深度学习与神经网络[话题]# 在龚教授的悉心指导下，本人有幸在《Nuclear Science and Technique》期刊上发表了题为“Optimizing near-carbon-free nuclear energy systems: Advances in reactor operation digital twin through hybrid machine learning algorithms for parameter identification and state estimation”的研究论文。📚\n🔬 该研究使用了布谷鸟进化等算法辅助进行反问题搜索，解决了正问题代理模型不连续导致无法进行基于梯度的算法优化的问题。基于“华龙一号”数据搭建了反应堆运行数字孪生平台，部署了模型降阶、反问题参数优化和物理场重构等多个模块化程序。🌐\n📢 欢迎各位大佬前辈和朋辈们的关注与交流，让我们携手共创AI4Science的明天！\n#核反应堆[话题]# #清洁能源[话题]# #AI4Science[话题]# #上海交通大学[话题]# #中法卓越工程师[话题]#",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uaa3u99hs005pco16g8i6dck2lqqj0",
+      "xsecToken": "ABXDYubCyj8a5YPJfp-xXMEbHL6i3_4idUIfEdtHL9YJQ=",
+      "userId": "659809a000000000220119ac",
+      "nickname": "Apollo"
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "fileId": "1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8",
+        "width": 1080,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041824/4839fa046581115382b6720268ed1720/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041824/a5cc8d77894e61adf5dcc9bbf71cfa9c/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "livePhoto": false,
+        "height": 618,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041824/4839fa046581115382b6720268ed1720/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041824/a5cc8d77894e61adf5dcc9bbf71cfa9c/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nd_dft_wgth_jpg_3"
+      },
+      {
+        "fileId": "1040g0083184eaeemgo605pco16g8i6dchlgertg",
+        "height": 888,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041824/99bed1814490f3105bc4287fcde1d4e8/1040g0083184eaeemgo605pco16g8i6dchlgertg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041824/d15f82d73c614fbb6010311f62b32403/1040g0083184eaeemgo605pco16g8i6dchlgertg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041824/99bed1814490f3105bc4287fcde1d4e8/1040g0083184eaeemgo605pco16g8i6dchlgertg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041824/d15f82d73c614fbb6010311f62b32403/1040g0083184eaeemgo605pco16g8i6dchlgertg!nd_dft_wgth_jpg_3",
+        "width": 1535,
+        "traceId": "",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e9003ac0000000001008ccc",
+        "name": "深度学习与神经网络",
+        "type": "topic"
+      },
+      {
+        "id": "621f405300000000010066d0",
+        "name": "核反应堆",
+        "type": "topic"
+      },
+      {
+        "id": "5e60a160000000000100b5f7",
+        "name": "清洁能源",
+        "type": "topic"
+      },
+      {
+        "id": "63df177e000000000100b083",
+        "name": "AI4Science",
+        "type": "topic"
+      },
+      {
+        "id": "5c012cf923cdb5000157e5ac",
+        "name": "上海交通大学",
+        "type": "topic"
+      },
+      {
+        "id": "66f26f42000000000e02d4ad",
+        "name": "中法卓越工程师",
+        "type": "topic"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "liked": false,
+      "showTags": [],
+      "createTime": 1772725120000,
+      "ipLocation": "湖北",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "userInfo": {
+        "userId": "677b82a000000000180178b8",
+        "nickname": "闲话少说",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b65431e7abf18da7d1266.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB31brnMEIU6n442Undu3Uz2RUmbAY4mB3iFtN_8AZ0vQ="
+      },
+      "subComments": [],
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "id": "69a9a37f000000001501332e",
+      "noteId": "66f26f43000000001902e831",
+      "status": 0,
+      "content": "请问一下这个的审稿周期长不长",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 Algorithms & Techniques",
+  "search_item": {
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "10",
+        "collected": false,
+        "collectedCount": "4",
+        "commentCount": "1",
+        "sharedCount": "1"
+      },
+      "cover": {
+        "height": 618,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041823/f9065cfe28c0c5b91061aa0444d84f7e/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041823/fa86644f8ab7248251a6a7c5cbb28870/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 618,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041823/f9065cfe28c0c5b91061aa0444d84f7e/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041823/fa86644f8ab7248251a6a7c5cbb28870/1040g0083184eaeemgo6g5pco16g8i6dc4cfpvm8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 888,
+          "width": 1535,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041823/371848fa9bf8b3e50aad89a602b7e38b/1040g0083184eaeemgo605pco16g8i6dchlgertg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041823/d8c57bf8b9e699ec29a0e6bfa493aa77/1040g0083184eaeemgo605pco16g8i6dchlgertg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-09-24"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🌟【科研新篇】🌟",
+      "user": {
+        "xsecToken": "AB06Rnr7T15Xvsbrz9Y-z7gEdL516_iPWBZtxmp67k7Mk=",
+        "nickName": "Apollo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uaa3u99hs005pco16g8i6dck2lqqj0?imageView2/2/w/80/format/jpg",
+        "userId": "659809a000000000220119ac",
+        "nickname": "Apollo"
+      }
+    },
+    "xsecToken": "ABIATTYDCsRpguCXPq1_s7uo-cYvf-RHddH80dMEiypvs=",
+    "id": "66f26f43000000001902e831",
+    "modelType": "note",
+    "index": 2,
+    "exposed": true,
+    "trackId": "66f26f43000000001902e831"
+  }
+}

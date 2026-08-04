@@ -1,0 +1,43 @@
+{
+  "note_id": "bd69d276-259c-4675-9fba-e331eed870f4",
+  "url": "https://www.xiaohongshu.com/explore/bd69d276-259c-4675-9fba-e331eed870f4?xsec_token=ABGVvIv6NyDrWm6CjQqrGtBo6lCTkxz6E-AzrWbnnaPQll5epS5sxTNrqlP3xSkC7SGzk-y0gSQKBLTgNOVScdbPWUwwoRFsCQW-jqzfYVZG4=",
+  "fetched_at": 1785840811.3067372,
+  "note": {},
+  "comments": [],
+  "search_query": "城大CS5348",
+  "search_item": {
+    "id": "bd69d276-259c-4675-9fba-e331eed870f4#1785840815344",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "bd69d276-259c-4675-9fba-e331eed870f4#1785840815344",
+      "queries": [
+        {
+          "searchWord": "城大计算机学院",
+          "id": "城大计算机学院",
+          "name": "城大计算机学院"
+        },
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程"
+        },
+        {
+          "id": "cityu cs留位费",
+          "name": "cityu cs留位费",
+          "searchWord": "cityu cs留位费"
+        },
+        {
+          "searchWord": "城大计算机",
+          "id": "城大计算机",
+          "name": "城大计算机"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "xsecToken": "ABGVvIv6NyDrWm6CjQqrGtBo6lCTkxz6E-AzrWbnnaPQll5epS5sxTNrqlP3xSkC7SGzk-y0gSQKBLTgNOVScdbPWUwwoRFsCQW-jqzfYVZG4=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "bd69d276-259c-4675-9fba-e331eed870f4#1785840815344"
+  }
+}

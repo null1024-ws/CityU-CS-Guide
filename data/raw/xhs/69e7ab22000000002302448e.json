@@ -1,0 +1,705 @@
+{
+  "note_id": "69e7ab22000000002302448e",
+  "url": "https://www.xiaohongshu.com/explore/69e7ab22000000002302448e?xsec_token=ABpJN0KBkqOvv1R_VjUaAB6iZLvH8MFE5vrbij_6i28FI=",
+  "fetched_at": 1785842555.8512402,
+  "note": {
+    "noteId": "69e7ab22000000002302448e",
+    "type": "normal",
+    "title": "全球的CS教育已经烂掉了",
+    "desc": "在帮实验室招RA的时候，CS背景的学生我都会问一道leetcode。什么题呢？去年问的是冒泡排序（但是实际上写个什么排序都算对），现在换成了大整数加法。\n\t\n为什么挑这两道题呢？给非CS背景的朋友们介绍一下，这两道题的难度是最最最基础入门的难度，大一的第一个月里学的那种。一个是科班一定会学，另一个是你一定会手算（我更难想象一个人不会列竖式加法）只需要把手算过程翻译为代码。 这两道题显然都不是在考察算法能力，他们的难度也考察不出来任何算法能力。\n\t\n那为什么还要问？确实现在都用AI写代码，没任何问题，我自己最近也一行代码都不手写了。但是：如果不能把脑子里明明知道怎么手算的过程翻译为代码，那么我也没有办法信任这个人能读懂并确认AI写的代码没问题。\n\t\n更让我震惊的是：\n而我这几年里面试了2，30个人，都是来自各个顶尖高校的本科和硕士生，有多少人能被突击检查不提前准备做出这样的题呢？只有10%左右。\n\t\n很多人已经习惯了“会用工具”， 但不再训练“把思路精确表达出来”的能力。而，随着LLM时代的到来，清楚的描述自己的需求越来越重要\n\t\n所以你觉得这种题该不该问？\n\t\n----\n\t\n评论区有小伙伴觉得，没有必要检查AI的输出，反正AI能力会越来越强。确实，生活中的绝大部分场景，AI的代码能力已经足够强了，但是这也意味着 非CS科班出身的人也能用AI做到一样的事情。我们作为CS学生更需要主动学习怎么更好地使用AI，怎么给AI纠错，否则随便来一个人都能把我们取代\n\t\n#PhD[话题]# #博士[话题]# #PhD申请[话题]#",
+    "interactInfo": {
+      "collected": false,
+      "commentCount": "458",
+      "followed": false,
+      "relation": "none",
+      "collectedCount": "192",
+      "shareCount": "225",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "585"
+    },
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o",
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041922/a68d1c65734a263e7fafb465c0b0ea7a/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041922/42950a141a7f302968d3ada03e977b84/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041922/a68d1c65734a263e7fafb465c0b0ea7a/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041922/42950a141a7f302968d3ada03e977b84/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1600,
+        "url": "",
+        "livePhoto": false
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "user": {
+      "userId": "63de365e00000000260059ab",
+      "nickname": "Leo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63de365e00000000260059ab.jpg",
+      "xsecToken": "ABaH9ygtb3G5UQd4g-t8Tt3JXNdc9Jp8cfqp1DIJaY8JA="
+    },
+    "tagList": [
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "id": "5be9267650fe5600012a22f6",
+        "name": "博士",
+        "type": "topic"
+      },
+      {
+        "name": "PhD申请",
+        "type": "topic",
+        "id": "5d735b6a000000000103bbfc"
+      }
+    ],
+    "atUserList": [],
+    "time": 1776790306000,
+    "lastUpdateTime": 1777779256000,
+    "xsecToken": "ABpJN0KBkqOvv1R_VjUaAB6iZLvH8MFE5vrbij_6i28FI="
+  },
+  "comments": [
+    {
+      "content": "就算没有现在LLM AI，Leetcode 也是毫无用处的浪费时间。 LEETCODE不代表一个人的专业CS知识。",
+      "userInfo": {
+        "userId": "69bb27450000000026002293",
+        "nickname": "一榔头敲碎你的天灵盖当饭盆",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABq--sr0oNSlBW0W9pGQ3n05wgvDnMzQDRTTWIbYW_5pA="
+      },
+      "showTags": [],
+      "createTime": 1776796365000,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "liked": false,
+      "subCommentCount": "18",
+      "subCommentCursor": "69e7c31f0000000014018800",
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "40",
+          "showTags": [],
+          "userInfo": {
+            "userId": "5ae7058e11be104111413f0d",
+            "nickname": "图图",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rf8d9k57o004a4uoi2osfod88q8i8g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABlOBd3vDHIr-XmzX-JZAg4tPhRTeZRt_G82bvmql0qp4="
+          },
+          "createTime": 1776796447000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "ABq--sr0oNSlBW0W9pGQ3n05wgvDnMzQDRTTWIbYW_5pA=",
+              "userId": "69bb27450000000026002293",
+              "nickname": "一榔头敲碎你的天灵盖当饭盆",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "69e7c2cd000000002b027f93"
+          },
+          "invalid": false,
+          "id": "69e7c31f0000000014018800",
+          "noteId": "69e7ab22000000002302448e",
+          "status": 0,
+          "content": "建议废除leetcode制度"
+        }
+      ],
+      "id": "69e7c2cd000000002b027f93",
+      "atUsers": [],
+      "likeCount": "163",
+      "ipLocation": "美国",
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "nickname": "我是秦始皇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r50p8n200004a1kbfousv8iojd4gg0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABN7Q36Ui4YtfDAFkl5yGpO-o9hoMaAoeXT2NZpUrUxOM=",
+        "userId": "5a8bf1eee8ac2b4a1fa57d12"
+      },
+      "ipLocation": "北京",
+      "subCommentCount": "5",
+      "id": "69e7c1020000000014019c02",
+      "subCommentCursor": "69e7d9f30000000014019803",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "subComments": [
+        {
+          "status": 0,
+          "content": "感觉确实名师出高徒了[笑哭R]",
+          "atUsers": [],
+          "likeCount": "116",
+          "createTime": 1776802292000,
+          "ipLocation": "湖北",
+          "id": "69e7d9f30000000014019803",
+          "noteId": "69e7ab22000000002302448e",
+          "liked": false,
+          "userInfo": {
+            "userId": "5bf42ed502dd4c0001f6fcfc",
+            "nickname": "天琴華章",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32315h2ok02604bsc7hndbv7sbt7cqhg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQI5B8e8QuuaC-8DUGWZpHuF35Qs-9yHEqXwESwQn5UY="
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69e7c1020000000014019c02",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABN7Q36Ui4YtfDAFkl5yGpO-o9hoMaAoeXT2NZpUrUxOM=",
+              "userId": "5a8bf1eee8ac2b4a1fa57d12",
+              "nickname": "我是秦始皇",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r50p8n200004a1kbfousv8iojd4gg0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "noteId": "69e7ab22000000002302448e",
+      "liked": false,
+      "showTags": [],
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1776795906000,
+      "content": "你这篇是自己写的还是AI写的？",
+      "likeCount": "715",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "userId": "602fdc31000000000100639b",
+        "nickname": "浅川。",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317bns9ftka005o1frgog8osrvgvglkg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuqzjKgs_Rt1o-lCcDGfVgR7LcmOOu23V2OvgBKoTThU="
+      },
+      "createTime": 1776802073000,
+      "subCommentCount": "12",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "69e7d9190000000014019401",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317bns9ftka005o1frgog8osrvgvglkg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuqzjKgs_Rt1o-lCcDGfVgR7LcmOOu23V2OvgBKoTThU=",
+              "userId": "602fdc31000000000100639b",
+              "nickname": "浅川。"
+            }
+          },
+          "invalid": false,
+          "id": "69e7da82000000001401c803",
+          "noteId": "69e7ab22000000002302448e",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "13",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABjWgFlEubeTz1qubOokiCrMG7Snl8aZLYIJCRYQAw8GE=",
+            "userId": "5bdd68e750b9d20001509b7c",
+            "nickname": "英国西班牙香港的星",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "content": "他这个题是leetcode easy 大一学生都会做",
+          "createTime": 1776802435000,
+          "ipLocation": "美国"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "showTags": [],
+      "id": "69e7d9190000000014019401",
+      "content": "看方向吧，我们隔壁搞算法的组确实人均codeforce 2000+大佬，我们搞无线网络的组做leetcode medium都费劲[笑哭R]，我确实学过算法，但是phd生涯根本不会手搓一行算法代码",
+      "likeCount": "14",
+      "ipLocation": "美国",
+      "subCommentCursor": "69e7da82000000001401c803",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "其实这种不应该叫“面LeetCode”，就叫考察代码基础知识。我很难相信连一个循环都写不出来的人能搞清楚ai写的代码哪里有问题。。。。",
+      "subCommentHasMore": true,
+      "id": "69e81ce0000000001401c416",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "北京",
+      "subCommentCount": "6",
+      "subCommentCursor": "69efc422000000002702a7e2",
+      "noteId": "69e7ab22000000002302448e",
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "16",
+          "createTime": 1777320995000,
+          "id": "69efc422000000002702a7e2",
+          "noteId": "69e7ab22000000002302448e",
+          "content": "边界条件，语法，还有一些类的用法。长时间不写的话，感觉有思路也很难写出来",
+          "userInfo": {
+            "userId": "5f9292150000000001007a75",
+            "nickname": "大码头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qt7upafgo005nsii8ag8ujl9vn64po?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB0JXEYaPrY_c-r1hK9SK5mruCXAzXFZ4MNE7i2NRQM_c="
+          },
+          "showTags": [],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "69e81ce0000000001401c416",
+            "userInfo": {
+              "userId": "632fd9ae000000002303924f",
+              "nickname": "久久",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/633fcc450ae1deb163339aed.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRqUtL1KK7RZJb22igDYB9TvKMrf1E4PLs7cmhXhRARw="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "likeCount": "254",
+      "userInfo": {
+        "userId": "632fd9ae000000002303924f",
+        "nickname": "久久",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/633fcc450ae1deb163339aed.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABRqUtL1KK7RZJb22igDYB9TvKMrf1E4PLs7cmhXhRARw="
+      },
+      "createTime": 1776819425000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "78",
+      "userInfo": {
+        "userId": "5fc3b96d000000000101cf45",
+        "nickname": "狼里个浪",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ot50mmu1q005nu3n5mgbjq5hdarlro?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABG5OwfDNaid5jNGtADgyioGANm0CxF2BKa1q_aW0yZqM="
+      },
+      "subCommentCount": "6",
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "69e7b926000000002b003cb5",
+      "subCommentHasMore": true,
+      "content": "文案是不是Ai写的",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1776792175000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "nickname": "狼里个浪",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ot50mmu1q005nu3n5mgbjq5hdarlro?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABG5OwfDNaid5jNGtADgyioGANm0CxF2BKa1q_aW0yZqM=",
+            "userId": "5fc3b96d000000000101cf45"
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69e7b2b3000000001401b806",
+            "userInfo": {
+              "userId": "63de365e00000000260059ab",
+              "nickname": "Leo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63de365e00000000260059ab.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIUv11WEGSotlcXDmeVZ4pjJWpT6YD-ZaU9veOe-35AM="
+            }
+          },
+          "invalid": false,
+          "noteId": "69e7ab22000000002302448e",
+          "content": "学会了老师面试的让学生做自我介绍，并声称有时候我们有时候不是筛选不是会不会写“文案”，而是有没有基本的逻辑表达能力[doge]",
+          "atUsers": [],
+          "likeCount": "30",
+          "createTime": 1776793895000,
+          "ipLocation": "美国",
+          "id": "69e7b926000000002b003cb5",
+          "status": 0
+        }
+      ],
+      "id": "69e7b26f000000002d023f85",
+      "noteId": "69e7ab22000000002302448e",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69e803bd000000001401cc0c",
+      "likeCount": "189",
+      "createTime": 1776812989000,
+      "subCommentCount": "20",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "因为这两个还是需要点算法的，大部分人都忘了原理。其实更应该考模拟题而不是算法题，或者提前讲一下算法原理再让人实现",
+          "atUsers": [],
+          "ipLocation": "广东",
+          "liked": false,
+          "likeCount": "60",
+          "userInfo": {
+            "userId": "64c5e1a90000000025037395",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311smqp8gh25g5p65s6kpessl2laq3bo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABO6nFkRTiIeyAP1hf_67OA493NcOGcgz0BRWccw1fOFY="
+          },
+          "showTags": [],
+          "createTime": 1776819895000,
+          "targetComment": {
+            "id": "69e803bd000000001401cc0c",
+            "userInfo": {
+              "xsecToken": "ABrx8JDDlWIJxY6YpoExrFlN5XYJIHeEMdlKn-wo0AB0E=",
+              "userId": "5ffefc890000000001007bda",
+              "nickname": "Tomie",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v2kvmls1m005nvuvi4g8uuqjk59sag?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "69e81eb7000000001401e804",
+          "noteId": "69e7ab22000000002302448e"
+        }
+      ],
+      "content": "[笑哭R][笑哭R][笑哭R]真的假的 评论区对冒泡排序和大整数加法都能敏感到这个程度",
+      "subCommentHasMore": true,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "广东",
+      "subCommentCursor": "69e81eb7000000001401e804",
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "userInfo": {
+        "xsecToken": "ABrx8JDDlWIJxY6YpoExrFlN5XYJIHeEMdlKn-wo0AB0E=",
+        "userId": "5ffefc890000000001007bda",
+        "nickname": "Tomie",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v2kvmls1m005nvuvi4g8uuqjk59sag?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69e7b7d5000000002b031d4b",
+      "status": 0,
+      "userInfo": {
+        "userId": "55f99fe03397db4f7d51ffa1",
+        "nickname": "盖亚奥特曼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/55f99fe03397db4f7d51ffa1.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQAmZGR14-d9Lpcl2FzKNyhhfnk-CD8KskLLsNIb85uY="
+      },
+      "ipLocation": "美国",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1776793557000,
+      "subCommentCursor": "69e7c07e000000001401cc00",
+      "content": "建议下次考考英语拼写汉字书写，打字速度考察的维度可以拓展",
+      "subCommentCount": "3",
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "liked": false,
+      "likeCount": "157",
+      "subComments": [
+        {
+          "likeCount": "67",
+          "invalid": false,
+          "id": "69e7c07e000000001401cc00",
+          "content": "建议考考写作和表达，现在人离开了AI连小红书帖子都不会写",
+          "liked": false,
+          "userInfo": {
+            "userId": "5ae971dd4eacab70f1f793d1",
+            "nickname": "椰子",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311s1jhqk0s004a503potr4uhhvejndg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABXrLFK5sbk_ezkk6jyhFH77ck50rE2v6E7REBaGLhTdE="
+          },
+          "showTags": [],
+          "createTime": 1776795774000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69e7b7d5000000002b031d4b",
+            "userInfo": {
+              "userId": "55f99fe03397db4f7d51ffa1",
+              "nickname": "盖亚奥特曼",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/55f99fe03397db4f7d51ffa1.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQAmZGR14-d9Lpcl2FzKNyhhfnk-CD8KskLLsNIb85uY="
+            }
+          },
+          "noteId": "69e7ab22000000002302448e",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "69e7b2e0000000001401cc0f",
+      "id": "69e7b275000000001401dc10",
+      "createTime": 1776792182000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1776792289000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69e7b275000000001401dc10",
+            "userInfo": {
+              "xsecToken": "ABgvmVKQLWq_tMVRs0nhpa2gtOM_si7eDKHktUIdxCc_E=",
+              "userId": "6272792c000000002102663f",
+              "nickname": "我草莓招了",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5fiv8e2g605ojif4m8cphveuvq8ko?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "69e7b2e0000000001401cc0f",
+          "noteId": "69e7ab22000000002302448e",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "9",
+          "userInfo": {
+            "xsecToken": "ABIUv11WEGSotlcXDmeVZ4pjJWpT6YD-ZaU9veOe-35AM=",
+            "userId": "63de365e00000000260059ab",
+            "nickname": "Leo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63de365e00000000260059ab.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "确实，但是那样的题就更没意义了，纯粹考察你有没有背过板子"
+        }
+      ],
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "subCommentCount": "18",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "6272792c000000002102663f",
+        "nickname": "我草莓招了",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5fiv8e2g605ojif4m8cphveuvq8ko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgvmVKQLWq_tMVRs0nhpa2gtOM_si7eDKHktUIdxCc_E="
+      },
+      "showTags": [],
+      "ipLocation": "荷兰",
+      "content": "虽然这些算法很常见，不过平时确实很少写。可能考binary search或者two pointers都能做的更多一些哈哈",
+      "atUsers": [],
+      "likeCount": "24",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1776791804000,
+      "subCommentCursor": "69e7b6fa000000001401e805",
+      "id": "69e7b0fc000000001401a407",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB1fn0vuzztSD8SK8erOXjmMHqu_HXft22rH5oAh-BFXw=",
+        "userId": "669d4cf8000000002401d83c",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31umfgeb12ikg5pkt9js93m1s3erk6fg?imageView2/2/w/120/format/jpg"
+      },
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "content": "太基础了，做不出来还敢说自己是学过计算机的[呃R][呃R][呃R]",
+      "likeCount": "51",
+      "ipLocation": "山西",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "69e7b6fa000000001401e805",
+          "noteId": "69e7ab22000000002302448e",
+          "createTime": 1776793339000,
+          "targetComment": {
+            "id": "69e7b0fc000000001401a407",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB1fn0vuzztSD8SK8erOXjmMHqu_HXft22rH5oAh-BFXw=",
+              "userId": "669d4cf8000000002401d83c",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31umfgeb12ikg5pkt9js93m1s3erk6fg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "确实，小学生反而都会做[笑哭R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABpnd27vfTwy3lpjmkqETq1oKR3Jm7IdovWyUdfjlRes0=",
+            "userId": "5d1579040000000012008827",
+            "nickname": "Hg Light",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nveauq7a6g5n8lf424h217jql3kso?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "ipLocation": "江苏"
+        }
+      ],
+      "subCommentHasMore": false,
+      "status": 3,
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "69f7537e000000002a033194",
+      "id": "69f752440000000029018f03",
+      "atUsers": [],
+      "likeCount": "3",
+      "showTags": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mf6c588lm005pg22d0hhh656htghk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABIM97nN8nLr93ZgTOc2fnLqzwr_eBAg1SugMA_L1L9FA=",
+            "userId": "66021341000000000600c4c5"
+          },
+          "showTags": [],
+          "ipLocation": "四川",
+          "invalid": false,
+          "id": "69f7537e000000002a033194",
+          "noteId": "69e7ab22000000002302448e",
+          "content": "签到题有些是不如leetcode红题的",
+          "atUsers": [],
+          "createTime": 1777816446000,
+          "targetComment": {
+            "id": "69f752440000000029018f03",
+            "userInfo": {
+              "xsecToken": "ABIM97nN8nLr93ZgTOc2fnLqzwr_eBAg1SugMA_L1L9FA=",
+              "userId": "66021341000000000600c4c5",
+              "nickname": "Han",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mf6c588lm005pg22d0hhh656htghk8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69e7ab22000000002302448e",
+      "status": 0,
+      "ipLocation": "四川",
+      "content": "我偏好会leetcode的人，能反映兴趣、投入、智商，很适合高效筛选。对于背景一般的同学我喜欢考二分查找，边界条件很tricky，一般人没下功夫一次写不对，但又不难。对一般背景的同学我喜欢问单调栈，因为这个算法极其简单，研究过就能融会贯通且用处非常多。对非常棒背景的同学我直接上当年的icpc world final签到题，那种全场都能答上来的题。好处很多，首先ai基本上没有做过，不包对，网上题解极少，即使提前准备也得靠自己，其三如果一开始没有料到我会这样整，面试同学的心理压力会很大，能反映出真实面对挑战的时候他的下意识选择，是逃避还是找我求助还是自己先想想看。",
+      "userInfo": {
+        "userId": "66021341000000000600c4c5",
+        "nickname": "Han",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mf6c588lm005pg22d0hhh656htghk8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIM97nN8nLr93ZgTOc2fnLqzwr_eBAg1SugMA_L1L9FA="
+      },
+      "createTime": 1777816132000,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 避雷",
+  "search_item": {
+    "id": "69e7ab22000000002302448e",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "Leo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63de365e00000000260059ab.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "63de365e00000000260059ab",
+        "nickname": "Leo",
+        "xsecToken": "ABdnGoms2ml7wyCoxKhMJcYuy-66z_MKsNAHH-9nLN8LY="
+      },
+      "interactInfo": {
+        "commentCount": "458",
+        "sharedCount": "225",
+        "liked": false,
+        "likedCount": "585",
+        "collected": false,
+        "collectedCount": "192"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041922/6ff32011e56c961fca2e08de6cf9786f/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041922/8bcf840aace5a75ed9322fde72c879b3/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041922/6ff32011e56c961fca2e08de6cf9786f/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041922/8bcf840aace5a75ed9322fde72c879b3/spectrum/1040g34o31v7tdtofhm105ouu6pf9gmdb3u4p14o!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1600
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-03"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "全球的CS教育已经烂掉了"
+    },
+    "xsecToken": "ABpJN0KBkqOvv1R_VjUaAB6iZLvH8MFE5vrbij_6i28FI=",
+    "index": 12,
+    "exposed": false,
+    "trackId": "69e7ab22000000002302448e"
+  }
+}

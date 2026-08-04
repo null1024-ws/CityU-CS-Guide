@@ -1,0 +1,330 @@
+{
+  "note_id": "6a69ce4c00000000010330cf",
+  "url": "https://www.xiaohongshu.com/explore/6a69ce4c00000000010330cf?xsec_token=ABs0yNfdVkRt5iglS9RC1_JI6w_9sBiB_bG-yhpR0TbP4=",
+  "fetched_at": 1785842302.6686115,
+  "note": {
+    "xsecToken": "ABs0yNfdVkRt5iglS9RC1_JI6w_9sBiB_bG-yhpR0TbP4=",
+    "lastUpdateTime": 1785318989000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a69ce4c00000000010330cf",
+    "type": "normal",
+    "user": {
+      "userId": "658c1386000000002201268f",
+      "nickname": "小米粥",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg",
+      "xsecToken": "AB3APHeyNAp-vYVWtJId_Ge4D8fiu8ncGkDeWjhHlcB0w="
+    },
+    "interactInfo": {
+      "commentCount": "9",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "12",
+      "shareCount": "4",
+      "followed": false,
+      "collected": false,
+      "collectedCount": "14"
+    },
+    "atUserList": [],
+    "time": 1785318988000,
+    "ipLocation": "广西",
+    "title": "CU EE一些选课相关的问题",
+    "desc": "1.CS1 Form表的签名问题\n2.跨专业选Term 2课程问题\n\t\nP2是 CU EE的回复，希望能帮到大家",
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041918/e9957ef26c7872279418e5043ef79ac4/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nd_dft_wlteh_jpg_3",
+        "fileId": "1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o",
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041918/55cf85db55382cc72d675215c90cc1bf/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1837,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041918/55cf85db55382cc72d675215c90cc1bf/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041918/e9957ef26c7872279418e5043ef79ac4/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "url": "",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0",
+        "height": 1626,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041918/6c0baa7e091bb0de2da63be077fa4106/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041918/383d92866dba45c1503ab2b182e486fb/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041918/6c0baa7e091bb0de2da63be077fa4106/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041918/383d92866dba45c1503ab2b182e486fb/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nd_dft_wlteh_jpg_3",
+        "width": 1080
+      }
+    ],
+    "tagList": []
+  },
+  "comments": [
+    {
+      "createTime": 1785664029000,
+      "subCommentHasMore": true,
+      "ipLocation": "浙江",
+      "subComments": [
+        {
+          "noteId": "6a69ce4c00000000010330cf",
+          "content": "EE就是电子工程，集成电路的话建议申请ICMS，就是今年新开的那个",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB8PM8zhBK6F-TRx890Bc9MZPFAQtqPgtmmO7yK3a3Y_w=",
+            "userId": "658c1386000000002201268f",
+            "nickname": "小米粥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1785672178000,
+          "targetComment": {
+            "id": "6a6f121d00000000290195c9",
+            "userInfo": {
+              "userId": "63ca5240000000002702949c",
+              "nickname": "zed",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321n7efspne005ouaa909t54sv29g5qo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABF1YYeW7pTkjaKPUE2ZeYIrI_IBZIM0OEDxfr56ltkjQ="
+            }
+          },
+          "invalid": false,
+          "id": "6a6f31f10000000015007b5f",
+          "status": 0,
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东"
+        }
+      ],
+      "id": "6a6f121d00000000290195c9",
+      "liked": false,
+      "invalid": false,
+      "noteId": "6a69ce4c00000000010330cf",
+      "status": 0,
+      "content": "uu是EE Msc里的电子工程ee还是集成电路ic方向啊 我今年准备申请 这两个不知道怎么样",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "4",
+      "subCommentCursor": "6a6f31f10000000015007b5f",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "63ca5240000000002702949c",
+        "nickname": "zed",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321n7efspne005ouaa909t54sv29g5qo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABF1YYeW7pTkjaKPUE2ZeYIrI_IBZIM0OEDxfr56ltkjQ="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a6c33cb000000000802e671",
+      "noteId": "6a69ce4c00000000010330cf",
+      "content": "谨防诈骗，那个送书的人极有可能是骗邮费的，不要贪小便宜",
+      "ipLocation": "河南",
+      "subCommentCount": "1",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "subCommentHasMore": false,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "66a63a09000000001d03132d",
+        "nickname": "柠夏读书",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316u4jhhlgo605pl6784ne4pd4enrp20?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsig9XNeIQ3EetkXt3dWZ01XniF1zZbCKVzdqe4ChZAs="
+      },
+      "showTags": [],
+      "status": 0,
+      "createTime": 1785476044000,
+      "subComments": [
+        {
+          "noteId": "6a69ce4c00000000010330cf",
+          "content": "原来如此",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB8PM8zhBK6F-TRx890Bc9MZPFAQtqPgtmmO7yK3a3Y_w=",
+            "userId": "658c1386000000002201268f",
+            "nickname": "小米粥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "6a6c33cb000000000802e671",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABsig9XNeIQ3EetkXt3dWZ01XniF1zZbCKVzdqe4ChZAs=",
+              "userId": "66a63a09000000001d03132d",
+              "nickname": "柠夏读书",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316u4jhhlgo605pl6784ne4pd4enrp20?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1785476116000,
+          "ipLocation": "广西",
+          "id": "6a6c341400000000150171ea"
+        }
+      ],
+      "subCommentCursor": "6a6c341400000000150171ea",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "showTags": [],
+      "createTime": 1785344106000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a6a30690000000015007b11",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "62b022b4000000001b0272c5",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31voiun3eig6g5olg4aq6ssm5gdt39s8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-IpPP26H6vdZPo2fxfJ9JRGRfZeMhgvTMc4i9XaTZXI="
+      },
+      "ipLocation": "吉林",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "liked": false,
+          "ipLocation": "广西",
+          "targetComment": {
+            "id": "6a6a30690000000015007b11",
+            "userInfo": {
+              "userId": "62b022b4000000001b0272c5",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31voiun3eig6g5olg4aq6ssm5gdt39s8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB-IpPP26H6vdZPo2fxfJ9JRGRfZeMhgvTMc4i9XaTZXI="
+            }
+          },
+          "invalid": false,
+          "id": "6a6a3eec0000000015010d6d",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB8PM8zhBK6F-TRx890Bc9MZPFAQtqPgtmmO7yK3a3Y_w=",
+            "userId": "658c1386000000002201268f",
+            "nickname": "小米粥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1785347820000,
+          "noteId": "6a69ce4c00000000010330cf",
+          "content": "在CUSIS里，把查询的课表信息改成term2就行",
+          "atUsers": []
+        }
+      ],
+      "status": 0,
+      "content": "请问term2可以选的选修课在哪里看呀[皱眉R]",
+      "noteId": "6a69ce4c00000000010330cf",
+      "subCommentCursor": "6a6a3eec0000000015010d6d",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 给分",
+  "search_item": {
+    "id": "6a69ce4c00000000010330cf",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CU EE一些选课相关的问题",
+      "user": {
+        "nickName": "小米粥",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "658c1386000000002201268f",
+        "nickname": "小米粥",
+        "xsecToken": "AB7uajhPwNUAoqC3pKTv2tu4kGPrBFhqvdMTA9wXCw9uU="
+      },
+      "interactInfo": {
+        "collectedCount": "14",
+        "commentCount": "9",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "12",
+        "collected": false
+      },
+      "cover": {
+        "height": 1837,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041918/709e15e8ac3ab795275fe8cb2e2abf61/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041918/72da3d3beb2218e89a78f21b61048e77/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1837,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041918/709e15e8ac3ab795275fe8cb2e2abf61/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041918/72da3d3beb2218e89a78f21b61048e77/1040g2sg32370kc09nak05pcc2e38i9kflq4hm4o!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 1626,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041918/2c6c8a5f7d30b40d72e9792dfefc8b82/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041918/f3706d1a203cde94c1d7efd0b74fe961/1040g2sg32370kc09najg5pcc2e38i9kfpgq7dp0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ]
+    },
+    "xsecToken": "ABs0yNfdVkRt5iglS9RC1_JI6w_9sBiB_bG-yhpR0TbP4=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a69ce4c00000000010330cf"
+  }
+}

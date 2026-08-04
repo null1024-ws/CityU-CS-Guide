@@ -1,0 +1,66 @@
+{
+  "note_id": "668e438d000000002500041b",
+  "url": "https://www.xiaohongshu.com/explore/668e438d000000002500041b?xsec_token=ABwq1MKzA_KZ8Qo1vLQLU-tLekSAfv45oJmdteUIu2mcM=",
+  "fetched_at": 1785841568.1136913,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UCSD CS75就读体验——课程篇（3）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这篇主要分享一下今年spring学期上过的课，所有体验均是个人看法，仅供参考。这个学期选的课比较杂，CSE/ECE/DSC各选了一门。\n[六R] ECE 208 Computational Evolutionary Bio\nProf: Siavash, A/A+: 20.0%/36.0%\n选这门课实在是因为没课选了。256没选上，research没选，听说这门课只有作业分（9个作业drop最低，每个12.5%）而且是写python就选了。一节课没去上，大概可以理解为把算法和统计学知识用在进化生物学上。没bio背景也能上，但可能做作业需要上上课或查点资料，有时我还看些paper。总体workload不算大，作业都好好做拿高分问题不大。\n推荐指数：[樱花R][樱花R][樱花R][樱花R]，推荐给感兴趣或是想选水课的。\n[七R] CSE 224 Graduate Network Sys\nProf: Alex Snoeren\n算是sd比较出名的一门课，选之前抱有很大的期望，但落差也较大（没学到太多东西）。之前一直是另一个老师教，但课程内容和project都没变。课程cover的都很基础本科都学过，也就rpc之前写得不多。如果计网和分布式学得不差的话这门课拿A应该是轻轻又松松。总共有6个project，每个都不算难，实测都可以在一天之内最多两天完成（极致的p人[捂脸R]，别学）。最后3个project是写一个极简dropbox，要实现一个阉割版的no election的raft协议。要求使用比较适合network programming的go语言。除了project还有期中期末考，workload中等偏上，没基础可能会有点压力。想写点代码的推荐选。另外Alex很看重学术诚信，千万不要抄袭代码，不然直接就挂了。成绩分布参考图2，两百多人的课被他fail了四十几个，还有些没出成绩的，估计还在打复活赛。\n推荐指数：[樱花R][樱花R][樱花R][樱花R]，sd同类型做proj的课也没多少了hh。\n[八R] DSC 291 ML Systems\nProf: Zhang, Hao, A/A+: 40.0%/5.0%\n本人选的第二门ds的课，老师是lmsys org的faulty之一。选它主要是想学一些mlsys的知识，课程主要包含autodiff, gpu, compilation, 训练/推理的single-device优化，parallelization, flash attention和vllm等等。内容还是很充实的，认真学应该能学到不少知识，课上有时有quiz，我经常做的一塌糊涂。Workload中偏下，有三个PA，一个pre和一个final。这门课是第一次开，而且作业发布比较晚，本人又很能拖，最后甚至出现了final结束实习前一天晚上还在赶PA3的due的奇观。。\n推荐指数：[樱花R][樱花R][樱花R][樱花R][樱花R]，如果对mlsys感兴趣无脑选就完了。\n然后下学期计划主要选ai水课，哈哈，摆就完了。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "那些U的是也挂了吗[doge]不懂就问",
+      "sourceRef": "comment:668e849500000000090166fe",
+      "commentId": "668e849500000000090166fe",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好像还真是 没注意[笑哭R]",
+      "sourceRef": "comment:668eb24e0000000005033f2f",
+      "commentId": "668eb24e0000000005033f2f",
+      "likes": 0,
+      "author": "打工睦子米"
+    },
+    {
+      "type": "comment",
+      "text": "请问学长有没有导师推荐呀[皱眉R]",
+      "sourceRef": "comment:66eaaafe00000000240104b4",
+      "commentId": "66eaaafe00000000240104b4",
+      "likes": 0,
+      "author": "Sakuya"
+    },
+    {
+      "type": "comment",
+      "text": "感谢学长！",
+      "sourceRef": "comment:6690e6350000000017002a2a",
+      "commentId": "6690e6350000000017002a2a",
+      "likes": 0,
+      "author": "Clikiii"
+    },
+    {
+      "type": "comment",
+      "text": "怎么不更新了[哭惹R]",
+      "sourceRef": "comment:68531fd3000000000d014746",
+      "commentId": "68531fd3000000000d014746",
+      "likes": 0,
+      "author": "零度"
+    },
+    {
+      "type": "comment",
+      "text": "@初升的东曦（见过许嵩版）  你觉得我学得动dsc291吗",
+      "sourceRef": "comment:67e258ff000000001f02a04d",
+      "commentId": "67e258ff000000001f02a04d",
+      "likes": 0,
+      "author": "用户已注销"
+    }
+  ]
+}

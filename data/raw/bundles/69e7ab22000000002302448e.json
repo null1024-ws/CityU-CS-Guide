@@ -1,0 +1,178 @@
+{
+  "note_id": "69e7ab22000000002302448e",
+  "url": "https://www.xiaohongshu.com/explore/69e7ab22000000002302448e?xsec_token=ABpJN0KBkqOvv1R_VjUaAB6iZLvH8MFE5vrbij_6i28FI=",
+  "fetched_at": 1785842555.8512402,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "全球的CS教育已经烂掉了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "在帮实验室招RA的时候，CS背景的学生我都会问一道leetcode。什么题呢？去年问的是冒泡排序（但是实际上写个什么排序都算对），现在换成了大整数加法。\n\t\n为什么挑这两道题呢？给非CS背景的朋友们介绍一下，这两道题的难度是最最最基础入门的难度，大一的第一个月里学的那种。一个是科班一定会学，另一个是你一定会手算（我更难想象一个人不会列竖式加法）只需要把手算过程翻译为代码。 这两道题显然都不是在考察算法能力，他们的难度也考察不出来任何算法能力。\n\t\n那为什么还要问？确实现在都用AI写代码，没任何问题，我自己最近也一行代码都不手写了。但是：如果不能把脑子里明明知道怎么手算的过程翻译为代码，那么我也没有办法信任这个人能读懂并确认AI写的代码没问题。\n\t\n更让我震惊的是：\n而我这几年里面试了2，30个人，都是来自各个顶尖高校的本科和硕士生，有多少人能被突击检查不提前准备做出这样的题呢？只有10%左右。\n\t\n很多人已经习惯了“会用工具”， 但不再训练“把思路精确表达出来”的能力。而，随着LLM时代的到来，清楚的描述自己的需求越来越重要\n\t\n所以你觉得这种题该不该问？\n\t\n----\n\t\n评论区有小伙伴觉得，没有必要检查AI的输出，反正AI能力会越来越强。确实，生活中的绝大部分场景，AI的代码能力已经足够强了，但是这也意味着 非CS科班出身的人也能用AI做到一样的事情。我们作为CS学生更需要主动学习怎么更好地使用AI，怎么给AI纠错，否则随便来一个人都能把我们取代\n\t\n#PhD[话题]# #博士[话题]# #PhD申请[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "就算没有现在LLM AI，Leetcode 也是毫无用处的浪费时间。 LEETCODE不代表一个人的专业CS知识。",
+      "sourceRef": "comment:69e7c2cd000000002b027f93",
+      "commentId": "69e7c2cd000000002b027f93",
+      "likes": 163,
+      "author": "一榔头敲碎你的天灵盖当饭盆"
+    },
+    {
+      "type": "sub_comment",
+      "text": "建议废除leetcode制度",
+      "sourceRef": "comment:69e7c31f0000000014018800",
+      "commentId": "69e7c31f0000000014018800",
+      "likes": 40,
+      "author": "图图"
+    },
+    {
+      "type": "comment",
+      "text": "你这篇是自己写的还是AI写的？",
+      "sourceRef": "comment:69e7c1020000000014019c02",
+      "commentId": "69e7c1020000000014019c02",
+      "likes": 715,
+      "author": "我是秦始皇"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感觉确实名师出高徒了[笑哭R]",
+      "sourceRef": "comment:69e7d9f30000000014019803",
+      "commentId": "69e7d9f30000000014019803",
+      "likes": 116,
+      "author": "天琴華章"
+    },
+    {
+      "type": "comment",
+      "text": "看方向吧，我们隔壁搞算法的组确实人均codeforce 2000+大佬，我们搞无线网络的组做leetcode medium都费劲[笑哭R]，我确实学过算法，但是phd生涯根本不会手搓一行算法代码",
+      "sourceRef": "comment:69e7d9190000000014019401",
+      "commentId": "69e7d9190000000014019401",
+      "likes": 14,
+      "author": "浅川。"
+    },
+    {
+      "type": "sub_comment",
+      "text": "他这个题是leetcode easy 大一学生都会做",
+      "sourceRef": "comment:69e7da82000000001401c803",
+      "commentId": "69e7da82000000001401c803",
+      "likes": 13,
+      "author": "英国西班牙香港的星"
+    },
+    {
+      "type": "comment",
+      "text": "其实这种不应该叫“面LeetCode”，就叫考察代码基础知识。我很难相信连一个循环都写不出来的人能搞清楚ai写的代码哪里有问题。。。。",
+      "sourceRef": "comment:69e81ce0000000001401c416",
+      "commentId": "69e81ce0000000001401c416",
+      "likes": 254,
+      "author": "久久"
+    },
+    {
+      "type": "sub_comment",
+      "text": "边界条件，语法，还有一些类的用法。长时间不写的话，感觉有思路也很难写出来",
+      "sourceRef": "comment:69efc422000000002702a7e2",
+      "commentId": "69efc422000000002702a7e2",
+      "likes": 16,
+      "author": "大码头"
+    },
+    {
+      "type": "comment",
+      "text": "文案是不是Ai写的",
+      "sourceRef": "comment:69e7b26f000000002d023f85",
+      "commentId": "69e7b26f000000002d023f85",
+      "likes": 78,
+      "author": "狼里个浪"
+    },
+    {
+      "type": "sub_comment",
+      "text": "学会了老师面试的让学生做自我介绍，并声称有时候我们有时候不是筛选不是会不会写“文案”，而是有没有基本的逻辑表达能力[doge]",
+      "sourceRef": "comment:69e7b926000000002b003cb5",
+      "commentId": "69e7b926000000002b003cb5",
+      "likes": 30,
+      "author": "狼里个浪"
+    },
+    {
+      "type": "comment",
+      "text": "[笑哭R][笑哭R][笑哭R]真的假的 评论区对冒泡排序和大整数加法都能敏感到这个程度",
+      "sourceRef": "comment:69e803bd000000001401cc0c",
+      "commentId": "69e803bd000000001401cc0c",
+      "likes": 189,
+      "author": "Tomie"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为这两个还是需要点算法的，大部分人都忘了原理。其实更应该考模拟题而不是算法题，或者提前讲一下算法原理再让人实现",
+      "sourceRef": "comment:69e81eb7000000001401e804",
+      "commentId": "69e81eb7000000001401e804",
+      "likes": 60,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "建议下次考考英语拼写汉字书写，打字速度考察的维度可以拓展",
+      "sourceRef": "comment:69e7b7d5000000002b031d4b",
+      "commentId": "69e7b7d5000000002b031d4b",
+      "likes": 157,
+      "author": "盖亚奥特曼"
+    },
+    {
+      "type": "sub_comment",
+      "text": "建议考考写作和表达，现在人离开了AI连小红书帖子都不会写",
+      "sourceRef": "comment:69e7c07e000000001401cc00",
+      "commentId": "69e7c07e000000001401cc00",
+      "likes": 67,
+      "author": "椰子"
+    },
+    {
+      "type": "comment",
+      "text": "虽然这些算法很常见，不过平时确实很少写。可能考binary search或者two pointers都能做的更多一些哈哈",
+      "sourceRef": "comment:69e7b275000000001401dc10",
+      "commentId": "69e7b275000000001401dc10",
+      "likes": 24,
+      "author": "我草莓招了"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实，但是那样的题就更没意义了，纯粹考察你有没有背过板子",
+      "sourceRef": "comment:69e7b2e0000000001401cc0f",
+      "commentId": "69e7b2e0000000001401cc0f",
+      "likes": 9,
+      "author": "Leo"
+    },
+    {
+      "type": "comment",
+      "text": "太基础了，做不出来还敢说自己是学过计算机的[呃R][呃R][呃R]",
+      "sourceRef": "comment:69e7b0fc000000001401a407",
+      "commentId": "69e7b0fc000000001401a407",
+      "likes": 51,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实，小学生反而都会做[笑哭R]",
+      "sourceRef": "comment:69e7b6fa000000001401e805",
+      "commentId": "69e7b6fa000000001401e805",
+      "likes": 0,
+      "author": "Hg Light"
+    },
+    {
+      "type": "comment",
+      "text": "我偏好会leetcode的人，能反映兴趣、投入、智商，很适合高效筛选。对于背景一般的同学我喜欢考二分查找，边界条件很tricky，一般人没下功夫一次写不对，但又不难。对一般背景的同学我喜欢问单调栈，因为这个算法极其简单，研究过就能融会贯通且用处非常多。对非常棒背景的同学我直接上当年的icpc world final签到题，那种全场都能答上来的题。好处很多，首先ai基本上没有做过，不包对，网上题解极少，即使提前准备也得靠自己，其三如果一开始没有料到我会这样整，面试同学的心理压力会很大，能反映出真实面对挑战的时候他的下意识选择，是逃避还是找我求助还是自己先想想看。",
+      "sourceRef": "comment:69f752440000000029018f03",
+      "commentId": "69f752440000000029018f03",
+      "likes": 3,
+      "author": "Han"
+    },
+    {
+      "type": "sub_comment",
+      "text": "签到题有些是不如leetcode红题的",
+      "sourceRef": "comment:69f7537e000000002a033194",
+      "commentId": "69f7537e000000002a033194",
+      "likes": 0,
+      "author": "Han"
+    }
+  ]
+}

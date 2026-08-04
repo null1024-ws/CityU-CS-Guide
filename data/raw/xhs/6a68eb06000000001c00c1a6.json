@@ -1,0 +1,541 @@
+{
+  "note_id": "6a68eb06000000001c00c1a6",
+  "url": "https://www.xiaohongshu.com/explore/6a68eb06000000001c00c1a6?xsec_token=ABOWOz_t0rhEX5A8E6KwT3vJHyDwlpwJ-1g570Wr8MbEg=",
+  "fetched_at": 1785839654.0172567,
+  "note": {
+    "type": "normal",
+    "user": {
+      "userId": "6346792c000000001901f3a6",
+      "nickname": "抹茶大巴菲",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314efoi7b6k5g5oq6f4m6bst6lkch84g",
+      "xsecToken": "ABw17bc6W86c2sQm3-nyL8oHt4_o5r3S10NzyJ2ketYqc="
+    },
+    "atUserList": [
+      {
+        "userId": "684d5f91000000001a03bad5",
+        "nickname": "momo",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABa4WjYnR9AfihIp_TIRHZNcwHSCIbsLGAWANIhjqvWHg="
+      }
+    ],
+    "time": 1785260806000,
+    "ipLocation": "福建",
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "CityU EC 2026 课程表+选课指南",
+    "desc": "自己写了小项目辅助选课，看到隔壁cs有类似产品就觉得我们ec也要有，遂决定搬上xhs。\n暂时只做了semA，semB以及summer等之后看情况更新，同时也有许多feature不完整找时间再做更新。\n欢迎试用：https://wodexiaobai322.github.io/CityUEC-courses-2627\n如果有帮助求求star：https://github.com/wodexiaobai322/CityUEC-courses-2627\n感谢 @momo 老师的cs专业指南项目和该项目中引用的其他创作者的分享，就像死亡搁浅中一样，是前人支起后来者通往未来的桥，毕业后我也希望将这份精神传递下去。\n\t\n#cityu[话题]# #cityu选课[话题]# #港城大[话题]# #香港城市大学[话题]# #vibecoding[话题]#",
+    "interactInfo": {
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "93",
+      "commentCount": "17",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "likedCount": "94",
+      "shareCount": "23"
+    },
+    "imageList": [
+      {
+        "height": 1246,
+        "width": 2523,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041834/d70dc4b33c648d9e34ceea44b1d33c70/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041834/31824ae9dbecd54b1d6246294b101ca3/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041834/d70dc4b33c648d9e34ceea44b1d33c70/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041834/31824ae9dbecd54b1d6246294b101ca3/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "fileId": "spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo"
+      },
+      {
+        "width": 1911,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041834/bd54f233a337e3a732a5a0e61f11185a/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo",
+        "height": 1081,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041834/bd54f233a337e3a732a5a0e61f11185a/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041834/398397c5cdf9b4ee9313b0396d512728/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041834/398397c5cdf9b4ee9313b0396d512728/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "id": "64da44ce0000000014038656",
+        "name": "cityu选课",
+        "type": "topic"
+      },
+      {
+        "id": "601a6afb000000000101f419",
+        "name": "港城大",
+        "type": "topic"
+      },
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "name": "vibecoding",
+        "type": "topic",
+        "id": "67c0e68e00000000040164b0"
+      }
+    ],
+    "lastUpdateTime": 1785260807000,
+    "noteId": "6a68eb06000000001c00c1a6",
+    "xsecToken": "ABOWOz_t0rhEX5A8E6KwT3vJHyDwlpwJ-1g570Wr8MbEg="
+  },
+  "comments": [
+    {
+      "id": "6a6a12bd000000002b000f6f",
+      "atUsers": [],
+      "showTags": [],
+      "pictures": [
+        {
+          "height": 975,
+          "width": 1831,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041834/4f1a8112b5afe16ba6849ff98b851369/comment/1040g2h0323785522no505o69ba30br92b6qhmqo!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041834/edb6799723519c3e47ef96db91a68943/comment/1040g2h0323785522no505o69ba30br92b6qhmqo!nd_whlt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/4f1a8112b5afe16ba6849ff98b851369/comment/1040g2h0323785522no505o69ba30br92b6qhmqo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/edb6799723519c3e47ef96db91a68943/comment/1040g2h0323785522no505o69ba30br92b6qhmqo!nd_whlt34_webp_wm_1"
+            }
+          ]
+        }
+      ],
+      "noteId": "6a68eb06000000001c00c1a6",
+      "content": "帖主您好，请问您是ec专业的吗，为啥我在aims上只搜到了一门课🤔，咱们是不是要看cs的课来选？",
+      "createTime": 1785336510000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "福建",
+          "targetComment": {
+            "id": "6a6a12bd000000002b000f6f",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6484813b25d320ff99d81512.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB24E5M9c3Tn0BiXEZORfitAHVfaC_294lp5gp8c3ciFw=",
+              "userId": "60c95a86000000000101ed22",
+              "nickname": "broad sense"
+            }
+          },
+          "pictures": [],
+          "content": "有很多其他专业的，比如cs is，搜的时候不筛选可以都看到",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314efoi7b6k5g5oq6f4m6bst6lkch84g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABT8u-M-Bf0k3R44HeA9Oca-WCjn1rqnl0_OEOcL3H8Ys=",
+            "userId": "6346792c000000001901f3a6",
+            "nickname": "抹茶大巴菲"
+          },
+          "createTime": 1785338293000,
+          "invalid": false,
+          "id": "6a6a19b40000000015008f8a",
+          "noteId": "6a68eb06000000001c00c1a6",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "60c95a86000000000101ed22",
+        "nickname": "broad sense",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6484813b25d320ff99d81512.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB24E5M9c3Tn0BiXEZORfitAHVfaC_294lp5gp8c3ciFw="
+      },
+      "ipLocation": "山东",
+      "subCommentCount": "5",
+      "subCommentCursor": "6a6a19b40000000015008f8a",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a68eb06000000001c00c1a6",
+      "content": "问问课程评价是在哪找的，想做个ds的但是不知道在哪找评价",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1785661148000,
+      "ipLocation": "陕西",
+      "id": "6a6f06dc0000000021010b0c",
+      "userInfo": {
+        "userId": "603e018d000000000101f371",
+        "nickname": "Charles_",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212lq8abne605o1u066gbsrhjmeq2s0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6liCglI54CxhCL3SFI62RTo836wDfwrfm78iGiQZL7s="
+      },
+      "subCommentCursor": "6a6f07e000000000150008dc",
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "6346792c000000001901f3a6",
+            "nickname": "抹茶大巴菲",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314efoi7b6k5g5oq6f4m6bst6lkch84g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABT8u-M-Bf0k3R44HeA9Oca-WCjn1rqnl0_OEOcL3H8Ys="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1785661409000,
+          "pictures": [],
+          "id": "6a6f07e000000000150008dc",
+          "noteId": "6a68eb06000000001c00c1a6",
+          "likeCount": "0",
+          "ipLocation": "福建",
+          "targetComment": {
+            "id": "6a6f06dc0000000021010b0c",
+            "userInfo": {
+              "userId": "603e018d000000000101f371",
+              "nickname": "Charles_",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212lq8abne605o1u066gbsrhjmeq2s0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6liCglI54CxhCL3SFI62RTo836wDfwrfm78iGiQZL7s="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "小红书翻的[doge]"
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "5b4895814eacab245a6081aa",
+        "nickname": "July.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63be81894b373bfc027ea08e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABRML69e_D39nMHEf2ah7ksiKSovr9KBPGXainJiW0XTA="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "showTags": [],
+      "createTime": 1785288691000,
+      "ipLocation": "浙江",
+      "subCommentCount": "0",
+      "noteId": "6a68eb06000000001c00c1a6",
+      "subCommentCursor": "",
+      "pictures": [],
+      "content": "真的很好用[皱眉R]感谢大佬",
+      "atUsers": [],
+      "likeCount": "1",
+      "invalid": false,
+      "id": "6a6957f3000000002b029014",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "nickname": "壹壹",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nk7sor5lm004a5r6f200c0asg6l6b0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQJdjoZXjh37AB_93Ny_Hx9aiCXAkfPu02hFEluixBqo=",
+        "userId": "5b10c40011be105afe4b300a"
+      },
+      "ipLocation": "江苏",
+      "subCommentCursor": "",
+      "noteId": "6a68eb06000000001c00c1a6",
+      "content": "太感谢了[皱眉R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "invalid": false,
+      "id": "6a6ace01000000002901ac91",
+      "subComments": [],
+      "pictures": [],
+      "subCommentCount": "0",
+      "status": 0,
+      "liked": false,
+      "createTime": 1785384450000,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a6af12100000000290188f9",
+      "content": "非常有帮助，感谢大佬🥹",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "山东",
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB24E5M9c3Tn0BiXEZORfitAHVfaC_294lp5gp8c3ciFw=",
+        "userId": "60c95a86000000000101ed22",
+        "nickname": "broad sense",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6484813b25d320ff99d81512.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "noteId": "6a68eb06000000001c00c1a6",
+      "createTime": 1785393442000,
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "createTime": 1785299233000,
+      "id": "6a6981210000000015005784",
+      "status": 0,
+      "content": "感谢老师[哇R]",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "6a68eb06000000001c00c1a6",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广西",
+      "subCommentCursor": "",
+      "pictures": [],
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABH0PicC4E8DvmBDGQQ7I_7tedk5IWTLya3YbRfO3nmuM=",
+        "userId": "583876cc50c4b4721636229a",
+        "nickname": "vi_ven_vi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/630d476c27d2623a54708b30.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "评论区捞捞EC26fall，然后顺便问问有没有专业群[笑哭R]",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "6170c2df000000000201fe83",
+        "nickname": "islet",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ma0dqtam8605obgobfgjvk3q7027p0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWPyB1lciw5E9_cbGS-tDieQPeLArOgjLxyhTC30uEDo="
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1785299405000,
+      "subCommentHasMore": false,
+      "pictures": [],
+      "id": "6a6981cc0000000029027e53",
+      "noteId": "6a68eb06000000001c00c1a6",
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "ipLocation": "湖南",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a694b11000000002a02604a",
+      "content": "太感谢了！非常好用🙏",
+      "showTags": [],
+      "pictures": [],
+      "invalid": false,
+      "likeCount": "0",
+      "createTime": 1785285393000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "6a68eb06000000001c00c1a6",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "62a9c9ed000000001b02b395",
+        "nickname": "拒绝芒勾",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v3grba12i005ol9p7mmtcslvuuf4q8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbFkcuMk3QOfiBelWaNLyuLPbUaRIe3wsDEN70-Zz25Y="
+      },
+      "ipLocation": "黑龙江",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a68f8c400000000150067cd",
+      "status": 0,
+      "content": "谢谢你！这个既清晰又方便！",
+      "showTags": [],
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1785264324000,
+      "noteId": "6a68eb06000000001c00c1a6",
+      "userInfo": {
+        "userId": "571346caaed7583771cf0648",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vj079nkii00481som3ck1i814jjpmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABARK-CNxiFuqTAlszqPayOdIA6n_VqPC1X4YVftuWX4E="
+      },
+      "ipLocation": "湖北",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "createTime": 1785292514000,
+      "ipLocation": "江西",
+      "content": "请问有cs的吗",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g2jiu8e0idg5p2kqub454a0b2t75c8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABqQUkM1ni_ni3BOkmQpEQGrEirB-oCG_i6rehxf3fa6E=",
+        "userId": "6454d7960000000010029140",
+        "nickname": "don't jump"
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "6a68eb06000000001c00c1a6",
+      "liked": false,
+      "showTags": [],
+      "pictures": [],
+      "invalid": false,
+      "id": "6a6966e20000000015008ae0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 选课",
+  "search_item": {
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 2523,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/6cdb289957b15710c8114b7b5639b6eb/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/995282d4beec7a48a97515bffa1224df/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1246
+        },
+        {
+          "height": 1081,
+          "width": 1911,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/75be2541284b0daf372d4e7be2b79073/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041834/f29027203e806bc94da2de9c36f4c6a0/spectrum/1040g0k032364e0sr6s0g5oq6f4m6bst60nqakqo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityU EC 2026 课程表+选课指南",
+      "user": {
+        "nickName": "抹茶大巴菲",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314efoi7b6k5g5oq6f4m6bst6lkch84g?imageView2/2/w/80/format/jpg",
+        "userId": "6346792c000000001901f3a6",
+        "nickname": "抹茶大巴菲",
+        "xsecToken": "ABVPZWK6PbEMOkDsxTCb2EwtMH71mpBTnA7JnbwNNKUZs="
+      },
+      "interactInfo": {
+        "likedCount": "94",
+        "collected": false,
+        "collectedCount": "93",
+        "commentCount": "17",
+        "sharedCount": "23",
+        "liked": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041834/6cdb289957b15710c8114b7b5639b6eb/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041834/995282d4beec7a48a97515bffa1224df/spectrum/1040g0k032364e0sr6s005oq6f4m6bst63ebb2jo!nc_n_webp_prv_1",
+        "height": 1246,
+        "width": 2523
+      }
+    },
+    "xsecToken": "ABOWOz_t0rhEX5A8E6KwT3vJHyDwlpwJ-1g570Wr8MbEg=",
+    "id": "6a68eb06000000001c00c1a6",
+    "modelType": "note",
+    "index": 8,
+    "exposed": true,
+    "trackId": "6a68eb06000000001c00c1a6"
+  }
+}

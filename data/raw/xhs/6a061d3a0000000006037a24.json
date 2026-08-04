@@ -1,0 +1,601 @@
+{
+  "note_id": "6a061d3a0000000006037a24",
+  "url": "https://www.xiaohongshu.com/explore/6a061d3a0000000006037a24?xsec_token=AB0esJRvpuQiCOX9CqM2iJBECnbyv0PLawD4CGlcZwSVg=",
+  "fetched_at": 1785842571.0832887,
+  "note": {
+    "title": "Usenix26b rebuttal 4333->1223 被拒",
+    "user": {
+      "userId": "61c9e9da000000001000629a",
+      "nickname": "小鱼小鱼快快游",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o",
+      "xsecToken": "AB1c1XnmDpo51mHNoZ2V1CMs-_nQiblfA5ngk9gXNGnt0="
+    },
+    "atUserList": [],
+    "time": 1778785594000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a061d3a0000000006037a24",
+    "type": "normal",
+    "desc": "第一篇研究工作，一年多了，本来以为4333终于AC，结果re完后变1223被拒了，一股强烈的不可思议和窒息感——我们re时提到的disclosure让reviewer怀疑论文结果是影响不大的，我…",
+    "interactInfo": {
+      "relation": "none",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "99",
+      "collected": false,
+      "collectedCount": "18",
+      "commentCount": "56",
+      "shareCount": "186"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "height": 1600,
+        "width": 1200,
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041923/7f9362d8764739e27e652daaa69d03ce/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041923/d4bab396f5e95e14ca02a20922a3f621/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041923/7f9362d8764739e27e652daaa69d03ce/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041923/d4bab396f5e95e14ca02a20922a3f621/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1778820311000,
+    "xsecToken": "AB0esJRvpuQiCOX9CqM2iJBECnbyv0PLawD4CGlcZwSVg="
+  },
+  "comments": [
+    {
+      "subCommentCount": "2",
+      "status": 4,
+      "userInfo": {
+        "userId": "61c9e9da000000001000629a",
+        "nickname": "小鱼小鱼快快游",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrYwcsZU29kIjDUGw0qryMvdzMP7nbC0zRGBNdO3h4Ko="
+      },
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "subCommentCursor": "6a15ed34000000002a0060ca",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1779821876000,
+          "ipLocation": "天津",
+          "id": "6a15ed34000000002a0060ca",
+          "content": "看法一旦形成会更倾向于加深固化，只听一面之词只会更加重这种现象的产生； 如果reviewer C在rebuttal前提出质疑，还可以通过rebuttal来解答回复，但在rebuttal后的质疑，我感到一种深深的无力感，只能看着他们以此质疑为由拒掉自己的工作。",
+          "liked": false,
+          "targetComment": {
+            "id": "6a15ea23000000002b0018b4",
+            "userInfo": {
+              "userId": "61c9e9da000000001000629a",
+              "nickname": "小鱼小鱼快快游",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABrYwcsZU29kIjDUGw0qryMvdzMP7nbC0zRGBNdO3h4Ko="
+            }
+          },
+          "invalid": false,
+          "noteId": "6a061d3a0000000006037a24",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61c9e9da000000001000629a",
+            "nickname": "小鱼小鱼快快游",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABrYwcsZU29kIjDUGw0qryMvdzMP7nbC0zRGBNdO3h4Ko="
+          }
+        }
+      ],
+      "id": "6a15ea23000000002b0018b4",
+      "noteId": "6a061d3a0000000006037a24",
+      "content": "感谢大家的关注，我认为工作本身是没硬伤和大问题的，我自己这边的看法是：因为得分很好，所以想在rebuttal中being honest，说的比较朴素，却反而被reviewer C用我们的朴素表述来攻击工作的重要性了，并最终用他的skeptism（原话）成功说服了其他reviewer降分；---想法是以后不能太天真了，reviewer的意见要读懂一些beyond the tone的含义，多滴水不漏，圆滑无缝些吧。",
+      "likeCount": "11",
+      "createTime": 1779821092000,
+      "ipLocation": "天津",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a0628c7000000002803f641",
+      "content": "前年第一次投usenix sec. 经历了rebuttal降分后再也没投[doge]",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "64133d530000000012010473",
+        "nickname": "耶耶耶耶耶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eghrq4j0s4g5p0j7l9ki13jh6asr4o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABqaZU4I_2OmV8SYO9csEz7xoMbSHOAv1O7w3tTgOVNCE="
+      },
+      "ipLocation": "浙江",
+      "status": 0,
+      "likeCount": "9",
+      "subCommentHasMore": true,
+      "noteId": "6a061d3a0000000006037a24",
+      "showTags": [],
+      "subCommentCount": "12",
+      "subCommentCursor": "6a065a6e000000002901aeda",
+      "createTime": 1778788551000,
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "养云",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b800677c97ef1a2abc7e0.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABwUUrpn2i31c6rJl1ewaPzyztQedoF4l0K32-fpHD0cg=",
+            "userId": "67e5fa180000000007001e6a"
+          },
+          "ipLocation": "上海",
+          "noteId": "6a061d3a0000000006037a24",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1778801263000,
+          "targetComment": {
+            "id": "6a0628c7000000002803f641",
+            "userInfo": {
+              "xsecToken": "ABqaZU4I_2OmV8SYO9csEz7xoMbSHOAv1O7w3tTgOVNCE=",
+              "userId": "64133d530000000012010473",
+              "nickname": "耶耶耶耶耶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eghrq4j0s4g5p0j7l9ki13jh6asr4o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a065a6e000000002901aeda",
+          "status": 0,
+          "content": "ip没发力呀[doge]",
+          "liked": false,
+          "likeCount": "73"
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "6a061d3a0000000006037a24",
+      "status": 0,
+      "content": "安全社区真的太mean了...",
+      "showTags": [],
+      "createTime": 1778788043000,
+      "subComments": [
+        {
+          "id": "6a069ffa0000000028032571",
+          "noteId": "6a061d3a0000000006037a24",
+          "status": 0,
+          "atUsers": [],
+          "createTime": 1778819067000,
+          "ipLocation": "福建",
+          "targetComment": {
+            "id": "6a0626cb000000002900fb4b",
+            "userInfo": {
+              "userId": "5b586c3e4eacab38e61fe491",
+              "nickname": "酱酱酱",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2o1drvaek806g4a7giem3tp4h8jonf6o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABW3kCGk6HG3Vu_SD_nuI7nxf1NGJb7285GN-UcLhg_Cs="
+            }
+          },
+          "content": "因为没啥新东西，都在瞎√8卷[笑哭R]",
+          "liked": false,
+          "likeCount": "10",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB-inwvIINnNrN57KI-BALa_YxI7-MAg0fhDbR1bQhp2c=",
+            "userId": "67c3630e000000000a03c689",
+            "nickname": "小红薯67C463D4",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b802c0f5b598e07f39dc7.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "invalid": false
+        }
+      ],
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "25",
+      "subCommentCursor": "6a069ffa0000000028032571",
+      "id": "6a0626cb000000002900fb4b",
+      "userInfo": {
+        "userId": "5b586c3e4eacab38e61fe491",
+        "nickname": "酱酱酱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2o1drvaek806g4a7giem3tp4h8jonf6o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABW3kCGk6HG3Vu_SD_nuI7nxf1NGJb7285GN-UcLhg_Cs="
+      },
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1778807882000,
+      "subCommentCursor": "6a0675b8000000002902c010",
+      "subCommentHasMore": true,
+      "noteId": "6a061d3a0000000006037a24",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "6785cdfb000000000803cea5",
+        "nickname": "宝见我受你一靠子",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k47vgp5io6g5ps5pnti7jl521avpbo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFzyA5KuTi81GcDhZTYLU-np6Tn2Yx6N_Z_WAMrCQG30="
+      },
+      "invalid": false,
+      "liked": false,
+      "ipLocation": "北京",
+      "id": "6a06744a00000000280318c3",
+      "content": "能问一下是哪个track吗？",
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "noteId": "6a061d3a0000000006037a24",
+          "status": 0,
+          "content": "Network Security",
+          "likeCount": "2",
+          "userInfo": {
+            "xsecToken": "ABrYwcsZU29kIjDUGw0qryMvdzMP7nbC0zRGBNdO3h4Ko=",
+            "userId": "61c9e9da000000001000629a",
+            "nickname": "小鱼小鱼快快游",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "天津",
+          "invalid": false,
+          "id": "6a0675b8000000002902c010",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1778808248000,
+          "targetComment": {
+            "id": "6a06744a00000000280318c3",
+            "userInfo": {
+              "userId": "6785cdfb000000000803cea5",
+              "nickname": "宝见我受你一靠子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k47vgp5io6g5ps5pnti7jl521avpbo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFzyA5KuTi81GcDhZTYLU-np6Tn2Yx6N_Z_WAMrCQG30="
+            }
+          }
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subCommentCount": "7",
+      "content": "我也经历了降分。真的是不可思议，rebuttal居然能起副作用",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5dfb8bec00000000010090df",
+        "nickname": "Orange",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/609d293d158fcb87660f7aac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxKfhrhsrLQLC0Hf4t-ANx1IYF1Laj-qF5WDmOK7s1Tg="
+      },
+      "showTags": [],
+      "createTime": 1778810032000,
+      "subComments": [
+        {
+          "id": "6a06dfb8000000000d022000",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "630d4dcb000000001902123c",
+            "nickname": "YiyingZhang-GenseeAIUCSD",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u33paeimu005ood9n5mc4hsg6qptvg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB_msSGUcbqjg6lvIV2xx6xDIo7ia1Cz04mk8_25iFvrI="
+          },
+          "createTime": 1778835385000,
+          "targetComment": {
+            "id": "6a067caf000000000d022800",
+            "userInfo": {
+              "xsecToken": "ABxKfhrhsrLQLC0Hf4t-ANx1IYF1Laj-qF5WDmOK7s1Tg=",
+              "userId": "5dfb8bec00000000010090df",
+              "nickname": "Orange",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/609d293d158fcb87660f7aac.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "6a061d3a0000000006037a24",
+          "content": "在systems的会其实好多rebuttal都会降分，应该比升分的要多 [捂脸R]",
+          "likeCount": "4",
+          "showTags": [],
+          "ipLocation": "美国"
+        }
+      ],
+      "invalid": false,
+      "subCommentHasMore": true,
+      "id": "6a067caf000000000d022800",
+      "noteId": "6a061d3a0000000006037a24",
+      "status": 0,
+      "subCommentCursor": "6a06dfb8000000000d022000",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "subCommentCount": "2",
+      "noteId": "6a061d3a0000000006037a24",
+      "atUsers": [],
+      "likeCount": "2",
+      "invalid": false,
+      "id": "6a06a57f000000002901b25e",
+      "userInfo": {
+        "userId": "631e203b000000002303bea9",
+        "nickname": "Marcus",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64a01d5d539b8df857edfd65.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQvxa0d4uUjmS5UMssSRuytlfdcRNawT0UdqgIECGEwA="
+      },
+      "showTags": [],
+      "createTime": 1778820479000,
+      "subComments": [
+        {
+          "createTime": 1778824454000,
+          "targetComment": {
+            "id": "6a06a57f000000002901b25e",
+            "userInfo": {
+              "nickname": "Marcus",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/64a01d5d539b8df857edfd65.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQvxa0d4uUjmS5UMssSRuytlfdcRNawT0UdqgIECGEwA=",
+              "userId": "631e203b000000002303bea9"
+            }
+          },
+          "noteId": "6a061d3a0000000006037a24",
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "64a96f16000000002a036e0b",
+            "nickname": "好运连连",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p01p83ais605p59dsbamrgbtkkiks0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1GH-_lA1bTjDUGqyfh2pBmOndCNhBbTaq-rZ8lYRjn4="
+          },
+          "ipLocation": "湖北",
+          "invalid": false,
+          "id": "6a06b505000000002b000b5f",
+          "status": 0,
+          "content": "一模一样[微笑R][哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": []
+        }
+      ],
+      "subCommentCursor": "6a06b505000000002b000b5f",
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "我也是 3233 -> 3232，reviewer完全不看rebuttal，回复了的说没回复，看到结果呆住了",
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "说明被狙击了，这个圈子完了",
+      "likeCount": "3",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "6a06c548000000002a025499",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6a061d3a0000000006037a24",
+      "atUsers": [],
+      "createTime": 1778828616000,
+      "ipLocation": "浙江",
+      "subComments": [],
+      "status": 0,
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320buhourls605ngdv9ug8fgc6vot8kg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByAXVB_PVejdsygwKPchaFKpCB8FiVqN910R73DldUtA=",
+        "userId": "5e0dfa7d0000000001003e0c"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a0883a0000000002803d50d",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1778942881000,
+      "subComments": [],
+      "invalid": false,
+      "status": 0,
+      "content": "早就对四大祛魅了，四大就是玩儿圈子",
+      "userInfo": {
+        "nickname": "无名",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ra8o99l0a6g5ohipav41a1es04sgr0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrjzTgOpef6t_eKnvKLSpsoRcvixHy8G0PhkRmbXtgkE=",
+        "userId": "6232cabe000000001000a82e"
+      },
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "6a061d3a0000000006037a24",
+      "likeCount": "5",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jtvgq34k85g5o2b67608at86q6lu0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsjIh33yu2qUWkZVIpnCRFN-ka-c3qCsUkg35GO5JLkg=",
+        "userId": "604b31cc0000000001002ba8",
+        "nickname": "喵喵大王"
+      },
+      "showTags": [],
+      "noteId": "6a061d3a0000000006037a24",
+      "content": "碰到仇家了吧[笑哭R]或者被审稿人报复社会了[笑哭R]",
+      "subCommentHasMore": false,
+      "id": "6a0ea1a80000000028008d28",
+      "likeCount": "2",
+      "createTime": 1779343785000,
+      "subCommentCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "新加坡",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6a07d8ad0000000029037e53",
+      "status": 0,
+      "likeCount": "4",
+      "userInfo": {
+        "userId": "6653d06e000000000303173b",
+        "nickname": "兔子尾巴",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZMC8iu4TeGoaC924iWtRgShDRQ4SDSILhHvUYz0wti0="
+      },
+      "createTime": 1778806525000,
+      "ipLocation": "澳大利亚",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "userId": "5dd3bde40000000001001775",
+            "nickname": "还玩继续玩",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fbq2gr7k5g5nejnni085rlibv4620?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoUvWh9vQw66MqmVcrZJsDx-l-aw3Vxpwfiy9sjvtVk4="
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "6a066efc00000000270223f3",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZMC8iu4TeGoaC924iWtRgShDRQ4SDSILhHvUYz0wti0=",
+              "userId": "6653d06e000000000303173b",
+              "nickname": "兔子尾巴"
+            }
+          },
+          "invalid": false,
+          "status": -2,
+          "content": "能整体这样，绝对是发现什么很恶心的点",
+          "atUsers": [],
+          "likeCount": "2",
+          "createTime": 1778899118000,
+          "ipLocation": "广东",
+          "id": "6a07d8ad0000000029037e53",
+          "noteId": "6a061d3a0000000006037a24"
+        }
+      ],
+      "noteId": "6a061d3a0000000006037a24",
+      "content": "蛮震惊的 就算要达成一致也没必要改成一分吧 差不多行了 你是有什么硬伤么 盲猜里面有个事儿逼突然来一下子 argue 结果不 solid 什么的",
+      "liked": false,
+      "subCommentHasMore": false,
+      "id": "6a066efc00000000270223f3",
+      "invalid": false,
+      "atUsers": [],
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 避雷",
+  "search_item": {
+    "id": "6a061d3a0000000006037a24",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041922/88b53b1728aa628b0a72753f6e8d7744/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041922/cd5348d60e066ce48d9e42de4737e90e/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041922/88b53b1728aa628b0a72753f6e8d7744/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041922/cd5348d60e066ce48d9e42de4737e90e/notes_pre_post/1040g3k03205l5go32q005oe9t7d40okqf6nmn18!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-15"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Usenix26b rebuttal 4333->1223 被拒",
+      "user": {
+        "nickname": "小鱼小鱼快快游",
+        "xsecToken": "AB2Y_bQhu9yW3qukDj5xES5VDryYVwAxbwu1sx0A6E4CE=",
+        "nickName": "小鱼小鱼快快游",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318seoruu446g5oe9t7d40okq4bm2q1o?imageView2/2/w/80/format/jpg",
+        "userId": "61c9e9da000000001000629a"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "99",
+        "collected": false,
+        "collectedCount": "18",
+        "commentCount": "56",
+        "sharedCount": "186"
+      }
+    },
+    "xsecToken": "AB0esJRvpuQiCOX9CqM2iJBECnbyv0PLawD4CGlcZwSVg=",
+    "index": 18,
+    "exposed": false,
+    "trackId": "6a061d3a0000000006037a24"
+  }
+}

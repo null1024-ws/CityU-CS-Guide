@@ -1,0 +1,493 @@
+{
+  "note_id": "6955fbb6000000001e007466",
+  "url": "https://www.xiaohongshu.com/explore/6955fbb6000000001e007466?xsec_token=ABSb0cRb957UNtyH6ZVvIfNEERaTxV2Je8_IyhOnbyWRk=",
+  "fetched_at": 1785842032.2599525,
+  "note": {
+    "xsecToken": "ABSb0cRb957UNtyH6ZVvIfNEERaTxV2Je8_IyhOnbyWRk=",
+    "noteId": "6955fbb6000000001e007466",
+    "desc": "趁着sem2选课前把第一学期的课程总结一下！\n\t\nCS5234\n🌟🌟🌟\n20% 期中 + 40% 论文（小组） + 40% 个人作业   无期末\n课堂 - 老师人是很温和的，但是内容偏枯燥，上课和作业都是数理证明类的，需要手敲很多公式…不过主啵也确实在折磨中汲取到了一些知识\n考试 - 期中开卷考试，但有没有资料没太大区别，满分20，平均分是5，真的比较难\n作业 - 总共四次，10+10+20+20，上限是40分，很容易拿满，但每次作业真的都很繁琐啊啊啊，一写就是10页，只靠人脑智能会鼠的\n论文 -  综述类的论文，这个还蛮简单的，要求大概10页左右，我们简单写了写给了38/40\n\t\nCS5322\n🌟🌟🌟🌟🌟\n50%小组作业（ 2个oracle+ 一个论文pre ） + 50%期末考试\n课堂 - 内容比较简单，老师人也很好，给分很不错！\n考试 - 期末挺简单的，按照往年卷来准备就足够\n小组作业\noracle - 挺简单的，需要自己设计情景，并在oracle上实现vpd和ols策略，验收形式是线上会议 8min展示+5min提问（印象中）\npre - 也比较简单，当堂展示+Q&A，能够理解论文的动机架构这些就没太大问题的，然后实验部分需要重点关注下，每组都会问这一块！\n\t\nCS5340\n🌟🌟🌟🌟\n60% 作业（4次）+ 40%期末\n课堂 - 内容设置的真的蛮好，主啵有学到不少新知识\n作业 - 都是代码作业，紧扣上课内容，大家得分都很高，拿满也不难\n期末 - 今年这个期末卷子把主啵做力竭了..比往年的难很多，完全不是一个level，题型也不大一样。考试允许带一页cheetsheet。总而言之只准备往年卷有可能一道题都做不出来的，需要好好掌握所有的课堂内容，然后考试时能写出一道题差不多就有A\n\t\nCS5425\n🌟🌟🌟\n50%个人作业（*2） + 50% 期末\n课堂 - 内容也比较简单，老师人非常好，都有回放\n作业 - 一个是关于hadoop的，另一个是ml项目，很容易拿满\n期末 - 开卷考试，也是比较简单的，但应该是大家分数都很高，所以没怎么用心的话最后成绩就会很差…\n\t\n大家如果需要一些我的资料和作业的话，可以给我留言\n#新加坡国立大学[话题]# #nus[话题]# #nus选课[话题]# #mcomp[话题]# #选课推荐[话题]# #成绩[话题]# #大学绩点[话题]#",
+    "interactInfo": {
+      "relation": "none",
+      "liked": false,
+      "collectedCount": "51",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "40",
+      "collected": false,
+      "commentCount": "14",
+      "shareCount": "6"
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/5f0a03277f8f37daadf392e855f6282f/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/6e6163ec66cd5bcf7e455e8325ca461a/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/5f0a03277f8f37daadf392e855f6282f/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/6e6163ec66cd5bcf7e455e8325ca461a/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo",
+        "width": 1220,
+        "url": "",
+        "traceId": "",
+        "height": 2228
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5ef2c273000000000100594a",
+        "name": "新加坡国立大学"
+      },
+      {
+        "id": "600379380000000001008e23",
+        "name": "nus",
+        "type": "topic"
+      },
+      {
+        "name": "nus选课",
+        "type": "topic",
+        "id": "62d76c15000000000100494f"
+      },
+      {
+        "id": "631df6d9000000000100563e",
+        "name": "mcomp",
+        "type": "topic"
+      },
+      {
+        "id": "617ed6bd000000000100b9d4",
+        "name": "选课推荐",
+        "type": "topic"
+      },
+      {
+        "name": "成绩",
+        "type": "topic",
+        "id": "5befaa0152bc2c00018a7796"
+      },
+      {
+        "id": "600afa06000000000101e960",
+        "name": "大学绩点",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1767242678000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "nus mcomp sem1选课推荐 & 经验",
+    "user": {
+      "userId": "641b1a5500000000120127cb",
+      "nickname": "比粒米粒",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8",
+      "xsecToken": "ABsxtsXM3Xb224_vqVS22gIPmVI4woHo0v-z3Lu4uDQpI="
+    },
+    "lastUpdateTime": 1767242679000
+  },
+  "comments": [
+    {
+      "content": "[皱眉R]请问cs5425适合入门者吗？商科的[笑哭R][笑哭R][笑哭R]",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6520df43000000002402f910",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/65b0c21138e35fb83587d817.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYWagow4eL-nJ55palTfRmpVioTLR1vQhTT1FoLPs-nU="
+      },
+      "id": "695b37260000000016020ded",
+      "noteId": "6955fbb6000000001e007466",
+      "status": 0,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "695b37260000000016020ded",
+            "userInfo": {
+              "userId": "6520df43000000002402f910",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/65b0c21138e35fb83587d817.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABYWagow4eL-nJ55palTfRmpVioTLR1vQhTT1FoLPs-nU="
+            }
+          },
+          "status": 0,
+          "content": "合适的！课后作业很基础",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB0fk6EdZ21DlRrO8lxsFHiatKm-X7BFF89hOjNIvXODg=",
+            "userId": "641b1a5500000000120127cb",
+            "nickname": "比粒米粒",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1767601384000,
+          "invalid": false,
+          "id": "695b74e8000000000601a385",
+          "noteId": "6955fbb6000000001e007466",
+          "likeCount": "0"
+        }
+      ],
+      "liked": false,
+      "createTime": 1767585574000,
+      "subCommentCursor": "695b74e8000000000601a385",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "辽宁",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69567d990000000016020845",
+      "content": "请问你说是大几，我想报cs5340,想参考一下。[合十R]",
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "我是研一[笑哭R][笑哭R][笑哭R]",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "AB0fk6EdZ21DlRrO8lxsFHiatKm-X7BFF89hOjNIvXODg=",
+            "userId": "641b1a5500000000120127cb",
+            "nickname": "比粒米粒",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767276254000,
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "河南",
+          "targetComment": {
+            "id": "69567d990000000016020845",
+            "userInfo": {
+              "userId": "67a623dd000000000e02fad9",
+              "nickname": "小红薯67A79AB3",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nd0k43g05g5pt64fejlump2iiahpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABr0IS7KLF0LrAjYxHt4cvAm2ulTtkTd2YE7n0Nj8c2dY="
+            }
+          },
+          "invalid": false,
+          "id": "69567edd000000001502fb8b",
+          "noteId": "6955fbb6000000001e007466"
+        }
+      ],
+      "atUsers": [],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6955fbb6000000001e007466",
+      "showTags": [],
+      "createTime": 1767275929000,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "67a623dd000000000e02fad9",
+        "nickname": "小红薯67A79AB3",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nd0k43g05g5pt64fejlump2iiahpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABr0IS7KLF0LrAjYxHt4cvAm2ulTtkTd2YE7n0Nj8c2dY="
+      },
+      "subCommentCount": "2",
+      "subCommentCursor": "69567edd000000001502fb8b",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6955fbb6000000001e007466",
+      "atUsers": [],
+      "subCommentHasMore": true,
+      "showTags": [],
+      "subComments": [
+        {
+          "ipLocation": "新加坡",
+          "noteId": "6955fbb6000000001e007466",
+          "content": "老师人是很好的哈哈哈..我当时的情况是没怎么听课只复习了两天.然后作业这些基本都是满分的..按比例的话应该也会有c",
+          "liked": false,
+          "targetComment": {
+            "id": "69eee1b0000000002b0297d2",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/646a423aae3dfd1e16a20ed8.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABiuSDt7pEhufxg8THJFMzfAR0mrleqslPHEv2Lugc49s=",
+              "userId": "642872a30000000012012c7c",
+              "nickname": "tb66*****💎💎💎"
+            }
+          },
+          "invalid": false,
+          "id": "69f9f3510000000027029c6e",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB0fk6EdZ21DlRrO8lxsFHiatKm-X7BFF89hOjNIvXODg=",
+            "userId": "641b1a5500000000120127cb",
+            "nickname": "比粒米粒",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1777988433000
+        }
+      ],
+      "subCommentCursor": "69f9f3510000000027029c6e",
+      "invalid": false,
+      "subCommentCount": "2",
+      "id": "69eee1b0000000002b0297d2",
+      "status": 0,
+      "content": "请问博主cs5425最后老师会捞吗？[抽泣R]大概拿b是什么水平啊，会给c吗",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "642872a30000000012012c7c",
+        "nickname": "tb66*****💎💎💎",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/646a423aae3dfd1e16a20ed8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiuSDt7pEhufxg8THJFMzfAR0mrleqslPHEv2Lugc49s="
+      },
+      "createTime": 1777263024000,
+      "liked": false,
+      "ipLocation": "新加坡",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6955fbb6000000001e007466",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "河北",
+      "subComments": [
+        {
+          "createTime": 1767276217000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "62fa2e1f000000001200c949",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321uu5jcc7a005onq5ofkhia91gvoid8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABkivIyfdRCc5xCXDrzuJI77wwuXO_Bc1UmafXvCZq2h8="
+            },
+            "id": "695638f9000000001600eb29"
+          },
+          "invalid": false,
+          "id": "69567eb8000000001502f169",
+          "noteId": "6955fbb6000000001e007466",
+          "content": "是推荐程度 这个主要是按照拿高分难易程度来评价的 5245简单 但其实比较难拿高分 5340虽然难 但那高分体感没有5425难",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB0fk6EdZ21DlRrO8lxsFHiatKm-X7BFF89hOjNIvXODg=",
+            "userId": "641b1a5500000000120127cb",
+            "nickname": "比粒米粒"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "河南",
+          "status": 0,
+          "likeCount": "1"
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "1",
+      "createTime": 1767258361000,
+      "content": "星星是难度还是推荐程度啊[笑哭R]",
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABkivIyfdRCc5xCXDrzuJI77wwuXO_Bc1UmafXvCZq2h8=",
+        "userId": "62fa2e1f000000001200c949",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321uu5jcc7a005onq5ofkhia91gvoid8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "69567eb8000000001502f169",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "695638f9000000001600eb29",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a5db11a000000002a03178c",
+      "content": "想问下5234推荐嘛",
+      "liked": false,
+      "userInfo": {
+        "userId": "61f41004000000001000e50a",
+        "nickname": "鼠鼠的快乐家园",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64118ce8a41e0aa3a66e0105.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6MaBeommVaCivRQoTwM5xFL3pfVsLoiDXJNDm3UZP-Q="
+      },
+      "ipLocation": "天津",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "noteId": "6955fbb6000000001e007466",
+      "likeCount": "3",
+      "showTags": [],
+      "createTime": 1784525082000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "请问5322是哪个老师呀[皱眉R]",
+      "createTime": 1783932831000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a54a79f000000002b001d6c",
+      "showTags": [],
+      "noteId": "6955fbb6000000001e007466",
+      "status": 0,
+      "likeCount": "0",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "62dcea35000000001e01df61",
+        "nickname": "lzy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62dcea35000000001e01df61.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8ThtjbRTmf18eJURqeJgYsQA39GODraQIuMyGU4RUIU="
+      },
+      "ipLocation": "江苏",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a6217bd000000002a02431c",
+      "showTags": [],
+      "subComments": [],
+      "noteId": "6955fbb6000000001e007466",
+      "status": 0,
+      "content": "选上了5234[皱眉R]在纠结要不要换 请问具体是什么内容啊",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "userInfo": {
+        "userId": "60c82a1c0000000001005ae3",
+        "nickname": "愛在12点30分",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321al1t3d7u005o6858e08mn3611rnd8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABAn4kUhUkkhtLJzpr2lo4Tk6Y817xxKrhXt-s2u2RobM="
+      },
+      "ipLocation": "山东",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "createTime": 1784813501000,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "博主 cs5425的考核标准，你有截图之类的吗[哭惹R]",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABELklP0U_VE6Ualwt0J6y6RBW8fm0CnvcPjiVaJH-lzU=",
+        "userId": "63ff129d000000001f0330f7",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31csmcsig085g5ovv2aenuc7n0c7vdd8?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1783186402000,
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a4943e20000000004039d00",
+      "noteId": "6955fbb6000000001e007466",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 体验",
+  "search_item": {
+    "id": "6955fbb6000000001e007466",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 1220,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/82ac076214f4a4e4aab41cd8bd03d38e/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/13203512e0d3058765f4804beac23a8f/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2228
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-01"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "nus mcomp sem1选课推荐 & 经验",
+      "user": {
+        "xsecToken": "AB_JtrT87rkLdeVQcF1l7YMWsj3RTbsDu4_ESMgNexorw=",
+        "nickName": "比粒米粒",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31er37t705s005p0r39aki9ubi5rsgr8?imageView2/2/w/80/format/jpg",
+        "userId": "641b1a5500000000120127cb",
+        "nickname": "比粒米粒"
+      },
+      "interactInfo": {
+        "commentCount": "14",
+        "sharedCount": "6",
+        "liked": false,
+        "likedCount": "40",
+        "collected": false,
+        "collectedCount": "51"
+      },
+      "cover": {
+        "height": 2228,
+        "width": 1220,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041913/82ac076214f4a4e4aab41cd8bd03d38e/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041913/13203512e0d3058765f4804beac23a8f/notes_pre_post/1040g3k031qpk74j5n0205p0r39aki9ubme14ieo!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABSb0cRb957UNtyH6ZVvIfNEERaTxV2Je8_IyhOnbyWRk=",
+    "index": 11,
+    "exposed": false,
+    "trackId": "6955fbb6000000001e007466"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "note_id": "6a2547bf0000000010001c00",
+  "url": "https://www.xiaohongshu.com/explore/6a2547bf0000000010001c00?xsec_token=ABrPXLZPln8JtmCG2l6G2gXxKchPgBl3H6ECzKc32xe_0=",
+  "fetched_at": 1785843946.3182309,
+  "course_codes": [
+    "CS5228",
+    "CS5242"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS MCOMP 选课 Part 3",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5228 (推荐指数：⭐️⭐️⭐️⭐️）\n有 3 个 Individual Assignments、1 个 Midterm、1 个 Final Quiz，以及 1 个 Group Project。Group Project 会 host 在 Kaggle 上，虽然 Ranking 对分数没有影响，但大家还是会很卷。课程内容其实不难（Regression, Classification, Graph Theory之类的），我会拿到这样的成绩主要是因为考试没考好。老师听口音应该是德国人，虽然有口音，但整体还是能够听懂。教学方面非常用心，even 周末email老师也是秒回的，对像我这样没有什么 Data Science Background 的学生来说，是一门很不错的入门课。\n\t\nCS5242 (推荐指数：⭐️⭐️⭐️⭐️)\nProf Kenji 教上半部分，后半部分则是 Prof You Yang。Prof Kenji 感觉上很厉害，但老实说我实在听不懂他的口音（日式英语）；Prof You Yang 也有一点口音，不过还是能听懂。这门课只有 Assignments，没有 Quiz，也没有考试。大部分assignments 一天内就能完成。虽然我本身没有 AI Background，但整体来说还是能够跟上课程进度。后半段会讲 BERT, GPT以及 Distributed Training 等内容，整体体验不错。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "cs5242 没有考试吗？只有全100% asmt吗",
+      "sourceRef": "comment:6a25557b000000002702e8d7",
+      "commentId": "6a25557b000000002702e8d7",
+      "likes": 1,
+      "author": "pser_ZG"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看老师吧，反正Prof Kenji和 You Yang 只有assignments",
+      "sourceRef": "comment:6a2557e2000000000d023c00",
+      "commentId": "6a2557e2000000000d023c00",
+      "likes": 1,
+      "author": "程序dog"
+    },
+    {
+      "type": "comment",
+      "text": "已开好了pro，有uu一起来嘛[派对R]",
+      "sourceRef": "comment:6a25580f00000000290356af",
+      "commentId": "6a25580f00000000290356af",
+      "likes": 0,
+      "author": "🌞👀⭐"
+    }
+  ]
+}

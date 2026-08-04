@@ -1,0 +1,106 @@
+{
+  "note_id": "69f848f2000000003601fdcb",
+  "url": "https://www.xiaohongshu.com/explore/69f848f2000000003601fdcb?xsec_token=ABE5TaQDMrUePxGPMr4RpsKVZJektVkm55nffeCc041LI=",
+  "fetched_at": 1785838221.985519,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Optimization｜常见优化算法速查",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "做结构估计绕不开数值优化。这份笔记把常用算法分三类讲清楚：一阶方法（梯度下降、动量法、Adam）、二阶方法（牛顿法、L-BFGS-B）、无梯度方法（Nelder-Mead）。每个算法给出更新公式、优缺点和适用场景。完结撒花[派对R][派对R]，所有笔记已经全部整理放到我的GitHub上了，有需要请自取：Zhanghao25/causal-inference-notes #经济学笔记[话题]# #博士生日常[话题]# #因果推断[话题]# #计量经济学[话题]# #hkust[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "本质上都是梯度下降，step size不一样罢了",
+      "sourceRef": "comment:69f8516f000000000d021802",
+      "commentId": "69f8516f000000000d021802",
+      "likes": 5,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "但是，单纯形法是现代优化求解器的核心[吃瓜R]",
+      "sourceRef": "comment:69f95fc1000000002902f8eb",
+      "commentId": "69f95fc1000000002902f8eb",
+      "likes": 1,
+      "author": "K.G."
+    },
+    {
+      "type": "comment",
+      "text": "天呐太强了[皱眉R][皱眉R][皱眉R]",
+      "sourceRef": "comment:69f85777000000002702e276",
+      "commentId": "69f85777000000002702e276",
+      "likes": 0,
+      "author": "钮钴禄甄嬛统计学"
+    },
+    {
+      "type": "comment",
+      "text": "这个配图是怎么做的[飞吻R]",
+      "sourceRef": "comment:6a54e9640000000029018f43",
+      "commentId": "6a54e9640000000029018f43",
+      "likes": 0,
+      "author": "尤物大王"
+    },
+    {
+      "type": "comment",
+      "text": "怎么没有动物园算法？[偷笑R]",
+      "sourceRef": "comment:69f8b6dc00000000280332f8",
+      "commentId": "69f8b6dc00000000280332f8",
+      "likes": 6,
+      "author": "胖虎他弟胖豹"
+    },
+    {
+      "type": "comment",
+      "text": "在读博？",
+      "sourceRef": "comment:69f866d4000000002b001417",
+      "commentId": "69f866d4000000002b001417",
+      "likes": 2,
+      "author": "小红薯627ED484"
+    },
+    {
+      "type": "comment",
+      "text": "怎么没有我最喜欢的差分进化",
+      "sourceRef": "comment:6a07ff8c000000002701c118",
+      "commentId": "6a07ff8c000000002701c118",
+      "likes": 0,
+      "author": "吃土少女与少年的诗"
+    },
+    {
+      "type": "comment",
+      "text": "怎么没有我最喜欢的muon()",
+      "sourceRef": "comment:69f860c2000000002902e6c0",
+      "commentId": "69f860c2000000002902e6c0",
+      "likes": 1,
+      "author": "aToUL-X"
+    },
+    {
+      "type": "comment",
+      "text": "nesterov acceleration看起来和动量法思路类似啊",
+      "sourceRef": "comment:69f970cf000000002b0250ba",
+      "commentId": "69f970cf000000002b0250ba",
+      "likes": 0,
+      "author": "一枝猫头鹰🦉"
+    },
+    {
+      "type": "sub_comment",
+      "text": "nesterov预估了下一步的位置，用预估的位置的信息去修正当前的动量。这是最快的一阶方法",
+      "sourceRef": "comment:69f99ae00000000028008998",
+      "commentId": "69f99ae00000000028008998",
+      "likes": 1,
+      "author": "喜欢低声细语的人"
+    },
+    {
+      "type": "comment",
+      "text": "zhang at el. 吓哭了",
+      "sourceRef": "comment:69faea79000000002a02f08b",
+      "commentId": "69faea79000000002a02f08b",
+      "likes": 2,
+      "author": "热猫"
+    }
+  ]
+}

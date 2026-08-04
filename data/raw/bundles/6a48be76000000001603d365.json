@@ -1,0 +1,34 @@
+{
+  "note_id": "6a48be76000000001603d365",
+  "url": "https://www.xiaohongshu.com/explore/6a48be76000000001603d365?xsec_token=AB41rEf_mXMeN51vLX-xxhYA-Wk75v1ugQaqfhuisF1o4=",
+  "fetched_at": 1785838287.4844651,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "SC'2026 accepted *2",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "两篇 paper 被高性能计算顶会 SC'2026 接收，祝贺前实习生王超和华科李老师，及合作的老师同学们！两项工作分别是：\n1. TaiJi: 针对 LLM serving 中 Prefill-Decode「聚合」与「分离」在不同 SLO 场景下各有优势、难以统一优化的问题，TaiJi 提出统一的聚合-分离融合架构，并结合差异化 GPU 实例配置与 latency shifting 调度，优化给定 TTFT/TPOT SLO 下的有效吞吐，相比 SOTA 系统有效吞吐最高提升 77%。\n2. Maze:提出一个面向大规模多租户 LLM Agent 的分布式框架,用异构感知的关键性调度把 Agent 逻辑落到细粒度任务级部署,相比 SOTA 吞吐最高提升 2.9×、P95 延迟降低 54.2%、GPU 利用率提升 50%。\n\t\n#AI系统[话题]# #学术论文[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "您好paper预计什么时候公开呢[暗中观察R]",
+      "sourceRef": "comment:6a48bf7b0000000029027892",
+      "commentId": "6a48bf7b0000000029027892",
+      "likes": 0,
+      "author": "shameless"
+    },
+    {
+      "type": "sub_comment",
+      "text": "TaiJi 论文已经放 arxiv 了，Maze 代码开源了，可以搜搜",
+      "sourceRef": "comment:6a48de9300000000150090d5",
+      "commentId": "6a48de9300000000150090d5",
+      "likes": 0,
+      "author": "左鹏飞Pengfei"
+    }
+  ]
+}

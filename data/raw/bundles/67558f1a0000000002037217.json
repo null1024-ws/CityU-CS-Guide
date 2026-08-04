@@ -1,0 +1,170 @@
+{
+  "note_id": "67558f1a0000000002037217",
+  "url": "https://www.xiaohongshu.com/explore/67558f1a0000000002037217?xsec_token=ABExd8IRtU1xKFNvICGm_NiCZ3mFK1JYBpcyqinCo6GQU=",
+  "fetched_at": 1785842975.9584439,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "自学MIT cs硕士课程6.824分布式系统",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "手写raft分布式一致算法，MIT的研究生课程还是比本科难一些。分布式系统设计的大作业做完，收到大名鼎鼎的Robert Morris教授的邮件，劝我把github设成私有防止他的学生\"借鉴\"。美国大学的教授这么闲的吗？#分布式系统[话题]# #计算机考研[话题]# #考研自习室[话题]# #上海交通大学电院[话题]# #计算机专业[话题]# #麻省理工[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "大家可以留言感兴趣话题，我会适当汇总回复，希望对大家有帮助",
+      "sourceRef": "comment:6756801f0000000007014c54",
+      "commentId": "6756801f0000000007014c54",
+      "likes": 1,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "设成私有是学术诚信，可能你的实现也挺不错的[偷笑R]",
+      "sourceRef": "comment:6755b405000000003d01e6d1",
+      "commentId": "6755b405000000003d01e6d1",
+      "likes": 22,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有道理[偷笑R]",
+      "sourceRef": "comment:6755ba5a0000000007007d1f",
+      "commentId": "6755ba5a0000000007007d1f",
+      "likes": 2,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "设置私有吧[笑哭R]全都狂公开别人以后就不愿意开源了",
+      "sourceRef": "comment:6755c3ac0000000007017041",
+      "commentId": "6755c3ac0000000007017041",
+      "likes": 8,
+      "author": "SetsunaDan"
+    },
+    {
+      "type": "sub_comment",
+      "text": "跟开源关系不大，主要是担心其他学生直接抄答案",
+      "sourceRef": "comment:675628ee00000000070057ab",
+      "commentId": "675628ee00000000070057ab",
+      "likes": 13,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "计算机不值得学了，以后AI代替。现在35岁找不到工作，以后30岁就要清退[汗颜R]大家抓紧转行吧，想跨行过来的多想想",
+      "sourceRef": "comment:67567fc7000000001a024ca5",
+      "commentId": "67567fc7000000001a024ca5",
+      "likes": 0,
+      "author": "小红薯629EDEA7"
+    },
+    {
+      "type": "sub_comment",
+      "text": "初级程序员的确不需要了。所以这是一个更好的时代，因为AI的辅助，一个人顶一个团队，有想法和行动力的人大有可为。",
+      "sourceRef": "comment:675680dd0000000007003c91",
+      "commentId": "675680dd0000000007003c91",
+      "likes": 36,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "这个大概花了多久呀我也想学",
+      "sourceRef": "comment:67559c84000000001a02553a",
+      "commentId": "67559c84000000001a02553a",
+      "likes": 1,
+      "author": "？？？"
+    },
+    {
+      "type": "sub_comment",
+      "text": "断断续续3个月，加上做Lab",
+      "sourceRef": "comment:67559df60000000007022c1d",
+      "commentId": "67559df60000000007022c1d",
+      "likes": 5,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "请问golang学完并发就可以开始写吗[笑哭R] 刚开始学golang",
+      "sourceRef": "comment:675d50d5000000001101b844",
+      "commentId": "675d50d5000000001101b844",
+      "likes": 1,
+      "author": "呜噜噜爱肥肥应"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以一遍学一遍写。你怎么学golang的",
+      "sourceRef": "comment:675d6b03000000000e00d8d7",
+      "commentId": "675d6b03000000000e00d8d7",
+      "likes": 1,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "这个自学跟着看视频学吗，需要买书吗[doge]",
+      "sourceRef": "comment:6756a9b2000000000803ff70",
+      "commentId": "6756a9b2000000000803ff70",
+      "likes": 1,
+      "author": "别问"
+    },
+    {
+      "type": "sub_comment",
+      "text": "视频在b站有，资料在mit官方课程网页下就有。 基本看视频看paper就够了",
+      "sourceRef": "comment:6756abe50000000007023b89",
+      "commentId": "6756abe50000000007023b89",
+      "likes": 4,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "优秀优秀",
+      "sourceRef": "comment:675658a0000000001b002b0c",
+      "commentId": "675658a0000000001b002b0c",
+      "likes": 1,
+      "author": "坚强的小猪"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你也可以试试",
+      "sourceRef": "comment:67567fff0000000007021f30",
+      "commentId": "67567fff0000000007021f30",
+      "likes": 0,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "我之前也被发过邮件，应该是自动的",
+      "sourceRef": "comment:6757f204000000001a024602",
+      "commentId": "6757f204000000001a024602",
+      "likes": 2,
+      "author": "_kz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈，我还用邮件聊了几次",
+      "sourceRef": "comment:6757f260000000000701499c",
+      "commentId": "6757f260000000000701499c",
+      "likes": 1,
+      "author": "小元元Rachel"
+    },
+    {
+      "type": "comment",
+      "text": "姐姐你的github账号是什么呀",
+      "sourceRef": "comment:675698b50000000007015951",
+      "commentId": "675698b50000000007015951",
+      "likes": 1,
+      "author": "HHeLiBeBOCha"
+    },
+    {
+      "type": "sub_comment",
+      "text": "谢谢关注，不方便分享",
+      "sourceRef": "comment:6756a2b00000000007021453",
+      "commentId": "6756a2b00000000007021453",
+      "likes": 3,
+      "author": "小元元Rachel"
+    }
+  ]
+}

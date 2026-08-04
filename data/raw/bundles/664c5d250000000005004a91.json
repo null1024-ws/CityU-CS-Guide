@@ -1,0 +1,122 @@
+{
+  "note_id": "664c5d250000000005004a91",
+  "url": "https://www.xiaohongshu.com/explore/664c5d250000000005004a91?xsec_token=ABV6ZW6EGYIxJqhxBq1mk4HangCUp85NyFKg8Tx1mXczo=",
+  "fetched_at": 1785838706.5345433,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CU MSc CS Term2选课指北",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "给大家反馈一下本学期我选的五门课，本反馈带有强烈的主观看法\n在选课阶段为了保证没选上Internship还能修满学分，所以这学期一共上了5门课[失望R],按照图中的顺序依次给大家描绘一下\n\t\n5735是这个学期上过的非常棒的课之一. 主要涉及的是云计算方面的一些基础内容, Eric上课时的讲解以及条理都很棒. 这门课没有作业，需要完成一个Raft协议的Project. 上这种完全没学过的课是收获感很强的, 但是Final出题有点妖哈哈哈, 要自己把学过的东西理解外加融会贯通才行\n\t\n5726的内容大部分都在本科的网安课学过, 但也有涉及到简单的量子密码之类的内容, 4次作业都很简单, 最后需要自己完成一个Report和Presentation. Workload不大, 就是要记得按时交作业, 最后一次作业赶别的课的Due忘记交了结果扣了30%很伤[失望R]\n\t\n5711和上学期的5707是同一个老师, 内容绝大多数是传统的计算机视觉, 涉及到很多矩阵运算和数学推导. 也包括了少量的CNN等模型以及YOLO早期版本. 和上学期的风格一样, 作业量大但是难度不高, Final的难度相较于5707则是提高了, 而且计算量比较大.\n\t\n5718是除了云计算之外的另一门非常棒的课. 主要是一些入门的金融学领域的知识, 比如B-S模型, MPT, CAPM等. 老师上课讲的非常好, 而且偏重于实用性. 对于没有接触过任何金融相关知识的同学可能需要自己多看看老师分享的材料, 整体的作业难度不大, 最后的Final 也很友好, 主要是老师提供的例题的变种或加强版\n\t\n5719是由12次Lecture组成的. 每堂课都会请CSE的不同老师来分享自己相关领域的研究, 似乎对于对想要做RA、读博的同学是一个良好的媒介. 对于其他人的话主要就是享受知识就好, 最后需要提交一个类似于研究综述的小小Report.\n\t\n#港中文留学[话题]#  #港中文[话题]#  #选课[话题]#  #留学生[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问5726给分高吗",
+      "sourceRef": "comment:677f6ab4000000002200d0aa",
+      "commentId": "677f6ab4000000002200d0aa",
+      "likes": 1,
+      "author": "my_22_years"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一般我感觉",
+      "sourceRef": "comment:677f7a5b000000002200b945",
+      "commentId": "677f7a5b000000002200b945",
+      "likes": 0,
+      "author": "打一开始就是大胖鱼"
+    },
+    {
+      "type": "comment",
+      "text": "学长计算金融和网安想选个水的，是计算金融简单点？他们难度差距大吗？",
+      "sourceRef": "comment:67863fa0000000001b0380ef",
+      "commentId": "67863fa0000000001b0380ef",
+      "likes": 0,
+      "author": "yiyimumu"
+    },
+    {
+      "type": "comment",
+      "text": "云计算真的是门好课[doge]",
+      "sourceRef": "comment:666684c7000000001c02598b",
+      "commentId": "666684c7000000001c02598b",
+      "likes": 2,
+      "author": "互联网民工蒋大钊"
+    },
+    {
+      "type": "sub_comment",
+      "text": "校友 csdn看过你的大作[偷笑R]",
+      "sourceRef": "comment:6666c22c000000001c00be02",
+      "commentId": "6666c22c000000001c00be02",
+      "likes": 1,
+      "author": "ZC"
+    },
+    {
+      "type": "comment",
+      "text": "你好请问一下5719会考勤吗",
+      "sourceRef": "comment:677e704b000000001a03b00e",
+      "commentId": "677e704b000000001a03b00e",
+      "likes": 0,
+      "author": "木槿"
+    },
+    {
+      "type": "comment",
+      "text": "学长我想问下5718考勤吗[哭惹R]",
+      "sourceRef": "comment:672388bc000000001b023036",
+      "commentId": "672388bc000000001b023036",
+      "likes": 0,
+      "author": "小夜"
+    },
+    {
+      "type": "comment",
+      "text": "24 的cs ，想问下大佬对于summer 学期课程有什么建议吗？比如选会有什么优势以及课程内容是什么，因为涉及到入学即秋招这个事情，有点迷惑[微笑R]",
+      "sourceRef": "comment:6667e42a000000000502510b",
+      "commentId": "6667e42a000000000502510b",
+      "likes": 0,
+      "author": "Jerry Notebook"
+    },
+    {
+      "type": "comment",
+      "text": "校友[doge] 云计算也上了 感觉不错 是最有用的课 安全也还行 打个基础还ok 其他都可以水过[doge]",
+      "sourceRef": "comment:664cc367000000000d033632",
+      "commentId": "664cc367000000000d033632",
+      "likes": 1,
+      "author": "ZC"
+    },
+    {
+      "type": "comment",
+      "text": "请问5726只有project没有考试吗？没学过密码学能跟得上吗？谢谢[皱眉R]",
+      "sourceRef": "comment:678104d4000000002102fe39",
+      "commentId": "678104d4000000002102fe39",
+      "likes": 0,
+      "author": "cc"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没考试，跟得上",
+      "sourceRef": "comment:6781bb49000000002103dac6",
+      "commentId": "6781bb49000000002103dac6",
+      "likes": 0,
+      "author": "打一开始就是大胖鱼"
+    },
+    {
+      "type": "comment",
+      "text": "学长 麻烦问下您 5719seminar查考勤吗",
+      "sourceRef": "comment:676f4447000000000e00cfc2",
+      "commentId": "676f4447000000000e00cfc2",
+      "likes": 0,
+      "author": "山后别相逢"
+    },
+    {
+      "type": "comment",
+      "text": "请问projectI和老师沟通选择project之后老师让发form是发什么form呀[失望R]",
+      "sourceRef": "comment:687fb724000000001901ed12",
+      "commentId": "687fb724000000001901ed12",
+      "likes": 0,
+      "author": "用户已注销"
+    }
+  ]
+}

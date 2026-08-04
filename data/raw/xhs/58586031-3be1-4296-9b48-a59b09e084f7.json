@@ -1,0 +1,43 @@
+{
+  "note_id": "58586031-3be1-4296-9b48-a59b09e084f7",
+  "url": "https://www.xiaohongshu.com/explore/58586031-3be1-4296-9b48-a59b09e084f7?xsec_token=ABU-FT0aEjas_Br9ZnmbN5sT536a8_UK0JirTZLpznbdmg-a2Klzlr6KzxPke_SGa4dTueoCmImhS74HUjLLuvzIMTJ3Qp_1ebkFhJ9K9ryAo=",
+  "fetched_at": 1785840257.635316,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5348 城大CS",
+  "search_item": {
+    "id": "58586031-3be1-4296-9b48-a59b09e084f7#1785840261038",
+    "modelType": "rec_query",
+    "recQuery": {
+      "queries": [
+        {
+          "id": "城大计算机学院",
+          "name": "城大计算机学院",
+          "searchWord": "城大计算机学院"
+        },
+        {
+          "id": "cityu cs选课",
+          "name": "cityu cs选课",
+          "searchWord": "cityu cs选课"
+        },
+        {
+          "id": "香港城市大学cs硕士",
+          "name": "香港城市大学cs硕士",
+          "searchWord": "香港城市大学cs硕士"
+        },
+        {
+          "id": "城大计算机",
+          "name": "城大计算机",
+          "searchWord": "城大计算机"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "58586031-3be1-4296-9b48-a59b09e084f7#1785840261038"
+    },
+    "xsecToken": "ABU-FT0aEjas_Br9ZnmbN5sT536a8_UK0JirTZLpznbdmg-a2Klzlr6KzxPke_SGa4dTueoCmImhS74HUjLLuvzIMTJ3Qp_1ebkFhJ9K9ryAo=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "58586031-3be1-4296-9b48-a59b09e084f7#1785840261038"
+  }
+}

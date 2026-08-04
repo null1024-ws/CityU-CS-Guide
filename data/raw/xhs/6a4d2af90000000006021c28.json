@@ -1,0 +1,474 @@
+{
+  "note_id": "6a4d2af90000000006021c28",
+  "url": "https://www.xiaohongshu.com/explore/6a4d2af90000000006021c28?xsec_token=ABwKoazl5wO1OC8TBWo7rwHizYl07opbHuVglVwFJvuVk=",
+  "fetched_at": 1785842485.8964653,
+  "note": {
+    "imageList": [
+      {
+        "livePhoto": false,
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041921/3f7d19a66ad8787cf4f92ea3914fd21a/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041921/848a02c85073a9c9fc68d405e5d9ea30/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "fileId": "notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041921/3f7d19a66ad8787cf4f92ea3914fd21a/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041921/848a02c85073a9c9fc68d405e5d9ea30/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "name": "选课",
+        "type": "topic",
+        "id": "5d1c9959000000000d017f43"
+      }
+    ],
+    "time": 1783442169000,
+    "ipLocation": "浙江",
+    "title": "hku cs选课是先到先得吗",
+    "interactInfo": {
+      "shareCount": "6",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "27",
+      "commentCount": "20",
+      "relation": "none",
+      "collected": false,
+      "collectedCount": "21"
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1783442170000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a4d2af90000000006021c28",
+    "type": "normal",
+    "desc": "如题 本人是26fall港大cs学生 想问问选课是先到先得吗 还是在规定时间内选完就行 如果课程人数超出限额再随机踢人#选课[话题]#",
+    "user": {
+      "userId": "5cc8822b000000001703dc58",
+      "nickname": "桥田浩介.",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg",
+      "xsecToken": "ABKy9WUb3yTDrygzpMzlj9ga_5KJPWZamIeSRPimoN_Lc="
+    },
+    "xsecToken": "ABwKoazl5wO1OC8TBWo7rwHizYl07opbHuVglVwFJvuVk="
+  },
+  "comments": [
+    {
+      "content": "不是先到先得，办公室发过，先后顺序不影响最终选上与否[笑哭R]就是先填志愿，后面有staff给你手动选上，课前一般会给你选课通知，你可以看哪些选上了哪些没选上，上前两节课可以add/drop",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "nickname": "Check_Error",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202tirp42q5g5o7ri2m0834lhirj3f8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2vp9LEqtUIB6pz5R7P3L1Cp7J3nzJwUmifITkqjwEP8=",
+        "userId": "60fb90ac0000000001000c95"
+      },
+      "id": "6a4d36570000000029027cca",
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "ipLocation": "浙江",
+          "noteId": "6a4d2af90000000006021c28",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "createTime": 1783445179000,
+          "targetComment": {
+            "id": "6a4d36570000000029027cca",
+            "userInfo": {
+              "userId": "60fb90ac0000000001000c95",
+              "nickname": "Check_Error",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202tirp42q5g5o7ri2m0834lhirj3f8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB2vp9LEqtUIB6pz5R7P3L1Cp7J3nzJwUmifITkqjwEP8="
+            }
+          },
+          "invalid": false,
+          "id": "6a4d36ba000000002a02c984",
+          "content": "那选的迟了会不会有些课不能选了",
+          "userInfo": {
+            "xsecToken": "ABxoL_aqy_DCEZ8DHGN7ysRXMeAoFkrWQp8g5sMnt0A7k=",
+            "userId": "5cc8822b000000001703dc58",
+            "nickname": "桥田浩介.",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "6a4d36ba000000002a02c984",
+      "noteId": "6a4d2af90000000006021c28",
+      "status": 0,
+      "likeCount": "3",
+      "createTime": 1783445079000,
+      "subCommentCount": "4",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "中国香港",
+      "content": "啥时候开始选课呀",
+      "userInfo": {
+        "userId": "65281bb7000000002a0188bc",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322tupue370005p983erqj25sde51ra0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABulfI7UCUOIFZvQamgNw8EUE55y1brIkfjfiQr7tWyKU="
+      },
+      "showTags": [],
+      "subCommentCount": "2",
+      "subCommentCursor": "6a50eb0400000000290261fe",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABxoL_aqy_DCEZ8DHGN7ysRXMeAoFkrWQp8g5sMnt0A7k=",
+            "userId": "5cc8822b000000001703dc58",
+            "nickname": "桥田浩介.",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "content": "八月 但是没有具体时间吧",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1783687941000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a50eacb000000000403b91d",
+            "userInfo": {
+              "userId": "65281bb7000000002a0188bc",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322tupue370005p983erqj25sde51ra0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABulfI7UCUOIFZvQamgNw8EUE55y1brIkfjfiQr7tWyKU="
+            }
+          },
+          "id": "6a50eb0400000000290261fe",
+          "noteId": "6a4d2af90000000006021c28",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "invalid": false,
+      "id": "6a50eacb000000000403b91d",
+      "atUsers": [],
+      "createTime": 1783687884000,
+      "subCommentHasMore": true,
+      "noteId": "6a4d2af90000000006021c28",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "先到先得的",
+      "likeCount": "0",
+      "createTime": 1783442886000,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61f54d8b000000001000ca32",
+            "nickname": "popobo(看地动版)",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fdhkjksn4705ofl9m5k1ihi6gq1lqg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB68947kVsRgPL585jhfgVyeauPXMpZqpr0EOGFSSkxeo="
+          },
+          "showTags": [],
+          "createTime": 1783442908000,
+          "targetComment": {
+            "id": "6a4d2dc5000000001501360e",
+            "userInfo": {
+              "nickname": "popobo(看地动版)",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fdhkjksn4705ofl9m5k1ihi6gq1lqg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB68947kVsRgPL585jhfgVyeauPXMpZqpr0EOGFSSkxeo=",
+              "userId": "61f54d8b000000001000ca32"
+            }
+          },
+          "invalid": false,
+          "id": "6a4d2ddb0000000015004b5f",
+          "status": 0,
+          "content": "网速大赛",
+          "liked": false,
+          "ipLocation": "中国香港",
+          "noteId": "6a4d2af90000000006021c28"
+        }
+      ],
+      "liked": false,
+      "userInfo": {
+        "userId": "61f54d8b000000001000ca32",
+        "nickname": "popobo(看地动版)",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fdhkjksn4705ofl9m5k1ihi6gq1lqg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB68947kVsRgPL585jhfgVyeauPXMpZqpr0EOGFSSkxeo="
+      },
+      "subCommentCursor": "6a4d2ddb0000000015004b5f",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": true,
+      "id": "6a4d2dc5000000001501360e",
+      "noteId": "6a4d2af90000000006021c28",
+      "ipLocation": "中国香港",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "noteId": "6a4d2af90000000006021c28",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABxoL_aqy_DCEZ8DHGN7ysRXMeAoFkrWQp8g5sMnt0A7k=",
+            "userId": "5cc8822b000000001703dc58",
+            "nickname": "桥田浩介.",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1783442812000,
+          "ipLocation": "浙江",
+          "id": "6a4d2d7b000000002a033734",
+          "status": 0,
+          "content": "所以就是先到先得咯",
+          "targetComment": {
+            "id": "6a4d2bd70000000015017934",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/61f4a148000000001000d254.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6MaBeommVaCivRQoTwM5xHw6tqYcPAM1bZ5rma7_V8A=",
+              "userId": "61f4a148000000001000d254",
+              "nickname": "&"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "noteId": "6a4d2af90000000006021c28",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "6a4d2d7b000000002a033734",
+      "id": "6a4d2bd70000000015017934",
+      "content": "人满了这门课会closed 可以在adp再尝试选",
+      "liked": false,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "userInfo": {
+        "xsecToken": "AB6MaBeommVaCivRQoTwM5xHw6tqYcPAM1bZ5rma7_V8A=",
+        "userId": "61f4a148000000001000d254",
+        "nickname": "&",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61f4a148000000001000d254.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1783442391000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a4daa65000000000b03bf12",
+      "invalid": false,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a4dd89a000000002a02f75b",
+          "noteId": "6a4d2af90000000006021c28",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABxoL_aqy_DCEZ8DHGN7ysRXMeAoFkrWQp8g5sMnt0A7k=",
+            "userId": "5cc8822b000000001703dc58",
+            "nickname": "桥田浩介."
+          },
+          "targetComment": {
+            "id": "6a4daa65000000000b03bf12",
+            "userInfo": {
+              "nickname": "SnuggleTime",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320m5la6pli005peqsifhe0qehai28uo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABU1SSfZxM8bu_3sXdiwKs1YhAB4sIHrzwuL77SwaEW3s=",
+              "userId": "65dae49f000000000503034e"
+            }
+          },
+          "status": 0,
+          "content": "哦哦好的",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1783486618000,
+          "ipLocation": "浙江"
+        }
+      ],
+      "status": 0,
+      "content": "先到先得和课程人数结合 会尽量保证大家都有4门课及以上 如果你选的门数多会优先踢你 如果没啥特殊的就是保先选的",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1783474789000,
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "subCommentCursor": "6a4dd89a000000002a02f75b",
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "noteId": "6a4d2af90000000006021c28",
+      "userInfo": {
+        "userId": "65dae49f000000000503034e",
+        "nickname": "SnuggleTime",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320m5la6pli005peqsifhe0qehai28uo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABU1SSfZxM8bu_3sXdiwKs1YhAB4sIHrzwuL77SwaEW3s="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a4e07ae000000001403b967",
+      "content": "可以翘课吗",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABe5IVF1WeMNhFjhtZczTGuxNjL8BBM6gWzttNb0Uo-yw=",
+        "userId": "64a586c8000000001c029e71",
+        "nickname": "Aldric",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rl4f2ds2a005p55gr4757jh27g7gvg?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a5210210000000015013265",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABotcuSI2Y_Pv1nVkmz5UGzC-kdqTsH4cO8sNvKqPTAZI=",
+              "userId": "5cbd16e4000000001203f39d",
+              "nickname": "ggkinghan",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sdfu3a968005n5t2ri4nsstfarq7co?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "status": 0,
+          "content": "那岂不是可以住深圳hh",
+          "liked": false,
+          "showTags": [],
+          "invalid": false,
+          "id": "6a5218ff0000000015009c15",
+          "noteId": "6a4d2af90000000006021c28",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABe5IVF1WeMNhFjhtZczTGuxNjL8BBM6gWzttNb0Uo-yw=",
+            "userId": "64a586c8000000001c029e71",
+            "nickname": "Aldric",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rl4f2ds2a005p55gr4757jh27g7gvg?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1783765247000,
+          "ipLocation": "浙江"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6a4d2af90000000006021c28",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1783498671000,
+      "ipLocation": "上海",
+      "subCommentCount": "2",
+      "subCommentCursor": "6a5218ff0000000015009c15",
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6175 选课",
+  "search_item": {
+    "id": "6a4d2af90000000006021c28",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-08"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "hku cs选课是先到先得吗",
+      "user": {
+        "nickName": "桥田浩介.",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5dd930286293bf00011636fa.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5cc8822b000000001703dc58",
+        "nickname": "桥田浩介.",
+        "xsecToken": "AB9M2Oy65rcYZdsxccim5D9WwfFDWauv9l3aBnwkj5xpg="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "27",
+        "collected": false,
+        "collectedCount": "21",
+        "commentCount": "20",
+        "sharedCount": "6"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041921/63d6ee137c9ec2745b0bb55cda427646/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041921/95c13a647ef669bb45558c3bc84614be/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041921/63d6ee137c9ec2745b0bb55cda427646/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041921/95c13a647ef669bb45558c3bc84614be/notes_pre_post/1040g3k0322b1ktvhnk0g5n68g8llvn2of0no4a0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ]
+    },
+    "xsecToken": "ABwKoazl5wO1OC8TBWo7rwHizYl07opbHuVglVwFJvuVk=",
+    "index": 9,
+    "exposed": true,
+    "trackId": "6a4d2af90000000006021c28"
+  }
+}

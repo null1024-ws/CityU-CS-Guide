@@ -1,0 +1,527 @@
+{
+  "note_id": "67f63f24000000001c034275",
+  "url": "https://www.xiaohongshu.com/explore/67f63f24000000001c034275?xsec_token=ABx4MaKsN1lbIQD1bdFfabnKKIV2fMkInUdhaOgwRRCvY=",
+  "fetched_at": 1785841260.9115925,
+  "note": {
+    "xsecToken": "ABx4MaKsN1lbIQD1bdFfabnKKIV2fMkInUdhaOgwRRCvY=",
+    "noteId": "67f63f24000000001c034275",
+    "type": "normal",
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "10",
+      "commentCount": "14",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "56",
+      "collected": false,
+      "shareCount": "9",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831glmpvq1j8605oe76qp411h5jrm0id8",
+        "height": 1679,
+        "width": 1206,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041901/020b133b55892c08b4244f9d2125f153/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041901/020b133b55892c08b4244f9d2125f153/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041901/e7514657a570adc3182c3ef6e3b2f9b7/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041901/e7514657a570adc3182c3ef6e3b2f9b7/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "name": "CityU",
+        "type": "topic",
+        "id": "60a65e500000000001001ded"
+      },
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "id": "5c5024dc000000000f03d348",
+        "name": "offer",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1744191268000,
+    "lastUpdateTime": 1745519390000,
+    "title": "CityU CS PhD offer",
+    "desc": "timeline\n11.29提交申请\n2.17 补一封推荐信\n2.24 interview\n4.9 offer\n\t\n参考意义有限，是我本科的老师继续跟着他，Interview比较简单\n\t\n有问题欢迎评论留言或私信，上的不频繁，但是看到都会回的\n\t\n#CityU[话题]# #PhD[话题]# #offer[话题]#",
+    "user": {
+      "userId": "61c736b20000000010008625",
+      "nickname": "银河尽头yu",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg",
+      "xsecToken": "ABmDc1x43K8sws58PrNvl17M5XJtZLhXGBeDaMwKfAg2Q="
+    },
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "id": "69be5c36000000000103d3f8",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB_oMTNmEhVYA_RoPSVO3E9oFfvLYhD6cLBfSxyamcHCE=",
+            "userId": "61c736b20000000010008625",
+            "nickname": "银河尽头yu",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "69b8e2aa0000000015005ac1",
+            "userInfo": {
+              "userId": "6205c8140000000021022ae5",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABngaWDY6ZFFhgkLNoPRSn5LvejoZjT4yBOMedulLf-jg="
+            }
+          },
+          "invalid": false,
+          "noteId": "67f63f24000000001c034275",
+          "status": 0,
+          "content": "有很简单的，hkpfs就是另外了",
+          "createTime": 1774083127000,
+          "ipLocation": "广东"
+        }
+      ],
+      "createTime": 1773724331000,
+      "id": "69b8e2aa0000000015005ac1",
+      "noteId": "67f63f24000000001c034275",
+      "liked": false,
+      "subCommentCursor": "69be5c36000000000103d3f8",
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6205c8140000000021022ae5",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABngaWDY6ZFFhgkLNoPRSn5LvejoZjT4yBOMedulLf-jg="
+      },
+      "showTags": [],
+      "invalid": false,
+      "content": "去年有面试？",
+      "ipLocation": "北京",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 3,
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "AB_oMTNmEhVYA_RoPSVO3E9oFfvLYhD6cLBfSxyamcHCE=",
+            "userId": "61c736b20000000010008625",
+            "nickname": "银河尽头yu",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1744733353000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "67f7c4f4000000001e01f5ab",
+            "userInfo": {
+              "userId": "65a933cf00000000070062a9",
+              "nickname": "臭水潭主人",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320hu1dk9m2005pd96f7hool9u3c4rjo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABeYuqqhdOW0eCmXfPoH2GTiLMg_VzysxnPcIEKGGogiw="
+            }
+          },
+          "id": "67fe84a80000000020015b3e",
+          "content": "谢谢[皱眉R]",
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false,
+          "noteId": "67f63f24000000001c034275"
+        }
+      ],
+      "status": 0,
+      "createTime": 1744291060000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subCommentCursor": "67fe84a80000000020015b3e",
+      "id": "67f7c4f4000000001e01f5ab",
+      "noteId": "67f63f24000000001c034275",
+      "ipLocation": "湖北",
+      "content": "Congrats!",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "臭水潭主人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320hu1dk9m2005pd96f7hool9u3c4rjo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABeYuqqhdOW0eCmXfPoH2GTiLMg_VzysxnPcIEKGGogiw=",
+        "userId": "65a933cf00000000070062a9"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "67f63f24000000001c034275",
+      "status": 0,
+      "atUsers": [],
+      "id": "67f64f0d000000001f0043de",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "小红薯63D0A7B2",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmpnWCgNSYbhoNcV_bzdifn03MLPt9SOGNniETqYoNgw=",
+        "userId": "63cf4b9d0000000027028b93"
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "67f64f0d000000001f0043de",
+            "userInfo": {
+              "userId": "63cf4b9d0000000027028b93",
+              "nickname": "小红薯63D0A7B2",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmpnWCgNSYbhoNcV_bzdifn03MLPt9SOGNniETqYoNgw="
+            }
+          },
+          "status": 3,
+          "content": "谢谢[皱眉R]",
+          "likeCount": "0",
+          "createTime": 1744196625000,
+          "invalid": false,
+          "id": "67f65411000000001f00e060",
+          "noteId": "67f63f24000000001c034275",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "61c736b20000000010008625",
+            "nickname": "银河尽头yu",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB_oMTNmEhVYA_RoPSVO3E9oFfvLYhD6cLBfSxyamcHCE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东"
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "祝贺🎉",
+      "liked": false,
+      "createTime": 1744195341000,
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "subCommentCursor": "67f65411000000001f00e060",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1744192677000,
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "67f63f24000000001c034275",
+      "status": 0,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1744192766000,
+          "id": "67f644fd0000000020010d25",
+          "liked": false,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "67f644a4000000001e0396b0",
+            "userInfo": {
+              "userId": "5f8478730000000001009bf6",
+              "nickname": "hypermuteki",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q7olkicno605ns4f1pg96vmcilbb1o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABo7AT5hhnBGUteb5EHfOwro9Qv1DwgUMVEg5IZsvCoEM="
+            }
+          },
+          "invalid": false,
+          "noteId": "67f63f24000000001c034275",
+          "status": 3,
+          "content": "谢谢[皱眉R][皱眉R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB_oMTNmEhVYA_RoPSVO3E9oFfvLYhD6cLBfSxyamcHCE=",
+            "userId": "61c736b20000000010008625",
+            "nickname": "银河尽头yu"
+          }
+        }
+      ],
+      "id": "67f644a4000000001e0396b0",
+      "content": "恭喜！！",
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABo7AT5hhnBGUteb5EHfOwro9Qv1DwgUMVEg5IZsvCoEM=",
+        "userId": "5f8478730000000001009bf6",
+        "nickname": "hypermuteki",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q7olkicno605ns4f1pg96vmcilbb1o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "subCommentCursor": "67f644fd0000000020010d25",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 3,
+      "content": "我的bg可能对大家的参考有限[笑哭R] 我之前有拿到比较好的美国offer，但因为签证原因GAP了一年，回了本科时候跟着的一个老师的组里[笑哭R] 如果还是想要了解的话可以私信，看到都会回的[吧唧R][吧唧R]",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB_oMTNmEhVYA_RoPSVO3E9oFfvLYhD6cLBfSxyamcHCE=",
+        "userId": "61c736b20000000010008625",
+        "nickname": "银河尽头yu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "noteId": "67f63f24000000001c034275",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "createTime": 1752562738000,
+      "ipLocation": "广东",
+      "id": "6875fc32000000001101896f",
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "createTime": 1744417117000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "67f63f24000000001c034275",
+      "status": 0,
+      "content": "恭喜！想问一下为什么有interview呀",
+      "ipLocation": "中国香港",
+      "atUsers": [],
+      "invalid": false,
+      "liked": false,
+      "subCommentCursor": "",
+      "id": "67f9b15c000000001e03bdd0",
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "aab",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g0iueh0gg0g5oimav28ctn1jga9if0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjUoggs4d5azQizrp7ym0d7K0lzc-jzWgugGBo0wA0w0=",
+        "userId": "625657c400000000210276e1"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "id": "68289113000000000903a2b6",
+      "content": "恭喜收到offer，欢迎加入港城大家庭和大家一起交流讨论啦[萌萌哒R]",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "61494697000000001f03a08b",
+        "nickname": "香港城市大学CSSA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rdjchgm700g5oa98qbnv84b4djjfo0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOxn-CL54X3SixzvI2u1GyQEgHRJ9415Co72Qh4MqZEY="
+      },
+      "createTime": 1747489044000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "67f63f24000000001c034275",
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5e44b8c2000000000100516b",
+        "nickname": "Xianlong Wang",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB3wo5KSVf2Y4dqu4TxWFcbVPRkjxQeYf6EuoTsjGdgRY="
+      },
+      "showTags": [],
+      "createTime": 1744191433000,
+      "subCommentHasMore": false,
+      "ipLocation": "湖北",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "subCommentCount": "0",
+      "noteId": "67f63f24000000001c034275",
+      "liked": false,
+      "likeCount": "0",
+      "id": "67f63fc8000000001f007ca4",
+      "content": "同cityu 25fall phd",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 3,
+      "userInfo": {
+        "userId": "610b75dd00000000010076eb",
+        "nickname": "爱吃饭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qcshjernu605o8beneg8tnbfmt9s90?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMRI5ra5W70GJyIhhnWDPgYSaOCN2aDXXwblXLYw8Wdc="
+      },
+      "noteId": "67f63f24000000001c034275",
+      "content": "这里有新生组织🙋",
+      "subCommentCount": "0",
+      "createTime": 1744191371000,
+      "ipLocation": "海南",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "67f63f8a000000001e016428",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31aeuqfmh7i5g5phjjsthoo8j68rbgio?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABa-wqO2wqah7xYDL0nwtwq_7vu79BoYk3mw_Kpp6fEnM=",
+        "userId": "66339f3b0000000007006113",
+        "nickname": "小班菲"
+      },
+      "showTags": [],
+      "createTime": 1744191368000,
+      "subCommentCursor": "",
+      "id": "67f63f870000000020014cae",
+      "status": 0,
+      "content": "这里有新生组织！",
+      "ipLocation": "广东",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "67f63f24000000001c034275",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 城大CS",
+  "search_item": {
+    "id": "67f63f24000000001c034275",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CityU CS PhD offer",
+      "user": {
+        "userId": "61c736b20000000010008625",
+        "nickname": "银河尽头yu",
+        "xsecToken": "ABPqEjUqA4CWXaqn6xwexv0Vrf3efwRS3ka48vC9ypE0A=",
+        "nickName": "银河尽头yu",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6742d723ee8c550bc893b96f.jpg?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "10",
+        "commentCount": "14",
+        "sharedCount": "9",
+        "liked": false,
+        "likedCount": "56"
+      },
+      "cover": {
+        "height": 1679,
+        "width": 1206,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041900/854b3df2c3f35efacb1af2c1c840ecc6/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041900/ec1c6afe0ca1c9200a5b39b4bff6fdaa/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1679,
+          "width": 1206,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041900/854b3df2c3f35efacb1af2c1c840ecc6/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041900/ec1c6afe0ca1c9200a5b39b4bff6fdaa/1040g00831glmpvq1j8605oe76qp411h5jrm0id8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-04-25"
+        }
+      ]
+    },
+    "xsecToken": "ABx4MaKsN1lbIQD1bdFfabnKKIV2fMkInUdhaOgwRRCvY=",
+    "index": 14,
+    "exposed": false,
+    "trackId": "67f63f24000000001c034275"
+  }
+}

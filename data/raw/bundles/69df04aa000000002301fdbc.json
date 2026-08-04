@@ -1,0 +1,162 @@
+{
+  "note_id": "69df04aa000000002301fdbc",
+  "url": "https://www.xiaohongshu.com/explore/69df04aa000000002301fdbc?xsec_token=ABDW1c5CGilKdeora-lr7W2Gy28zTvGPzI_gg9vx2wDAk=",
+  "fetched_at": 1785840477.8995533,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "抓到一篇 AAAI 2025 抄袭的论文",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "原论文: Revisiting the Role of Language Priors in Vision-Language Models\n\t\n抄袭论文: MASS: Overcoming Language Bias in Image-Text Matching\n\t\n#AAAI[话题]# #学术打假[话题]# #文献阅读[话题]# #论文[话题]# [偷笑R][偷笑R][偷笑R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "怎么判断是不是抄袭的，一个领域的方法应用到另一个领域算抄袭吗",
+      "sourceRef": "comment:69df0741000000000203754f",
+      "commentId": "69df0741000000000203754f",
+      "likes": 48,
+      "author": "cser"
+    },
+    {
+      "type": "sub_comment",
+      "text": "方法一样，公式换了个形式，都是用贝叶斯在那里分解，然后用的领域都是一样的，都是图文匹配",
+      "sourceRef": "comment:69df08090000000001007a06",
+      "commentId": "69df08090000000001007a06",
+      "likes": 123,
+      "author": "祝好运"
+    },
+    {
+      "type": "comment",
+      "text": "要是同一个课题组发的，这算抄袭吗",
+      "sourceRef": "comment:69df29d800000000160145b7",
+      "commentId": "69df29d800000000160145b7",
+      "likes": 54,
+      "author": "早睡早起，锻炼身体"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不同作者也属于，同一作者就是self-p[暗中观察R]",
+      "sourceRef": "comment:69df2b910000000035022445",
+      "commentId": "69df2b910000000035022445",
+      "likes": 108,
+      "author": "小红薯644890B4"
+    },
+    {
+      "type": "comment",
+      "text": "虽然但是 人家都引用了啊",
+      "sourceRef": "comment:6a13c648000000002702df70",
+      "commentId": "6a13c648000000002702df70",
+      "likes": 1,
+      "author": "顺利毕业"
+    },
+    {
+      "type": "sub_comment",
+      "text": "给你的文章角落里引一下，然后通篇照抄你愿意不？",
+      "sourceRef": "comment:6a3ffd4000000000290373da",
+      "commentId": "6a3ffd4000000000290373da",
+      "likes": 5,
+      "author": "东子"
+    },
+    {
+      "type": "comment",
+      "text": "Yonsei 好像还是不错的学校",
+      "sourceRef": "comment:69df131e0000000015007f95",
+      "commentId": "69df131e0000000015007f95",
+      "likes": 7,
+      "author": "Cascadial"
+    },
+    {
+      "type": "sub_comment",
+      "text": "和kaist一样都是灌论文学校",
+      "sourceRef": "comment:69df154d0000000015007156",
+      "commentId": "69df154d0000000015007156",
+      "likes": 43,
+      "author": "小红薯69143A56"
+    },
+    {
+      "type": "comment",
+      "text": "某公司被顶会鉴定抄袭的论文，加一条引用后继续投，这样合规吗？[笑哭R]",
+      "sourceRef": "comment:69df0a6f00000000010075ab",
+      "commentId": "69df0a6f00000000010075ab",
+      "likes": 10,
+      "author": "追梦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "难道抄袭仅仅是因为没有引用吗[捂脸R]要这么说，都不用自己想idea了，直接转写",
+      "sourceRef": "comment:69df36a4000000003501f43e",
+      "commentId": "69df36a4000000003501f43e",
+      "likes": 2,
+      "author": "diffusion"
+    },
+    {
+      "type": "comment",
+      "text": "甚至四个人共用邮箱[doge]",
+      "sourceRef": "comment:69df0d79000000000c032d26",
+      "commentId": "69df0d79000000000c032d26",
+      "likes": 6,
+      "author": "果亦呆"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个倒是正常的吧，确实不一定需要放所有作者的邮箱",
+      "sourceRef": "comment:69df1479000000000202b3bc",
+      "commentId": "69df1479000000000202b3bc",
+      "likes": 61,
+      "author": "凤血凰魂"
+    },
+    {
+      "type": "comment",
+      "text": "可能是有新增创新点",
+      "sourceRef": "comment:69df49910000000002034779",
+      "commentId": "69df49910000000002034779",
+      "likes": 10,
+      "author": "用户已注销"
+    },
+    {
+      "type": "sub_comment",
+      "text": "实际上和原文比起来少了一部分，把那个自适应的α讨论给删了[笑哭R]",
+      "sourceRef": "comment:69df506c0000000002028d07",
+      "commentId": "69df506c0000000002028d07",
+      "likes": 46,
+      "author": "祝好运"
+    },
+    {
+      "type": "comment",
+      "text": "有没有增加创新点，期刊在会议的基础上进行扩展，这是可以的（当然仅限于作者一样，作者不一样肯定算抄袭）",
+      "sourceRef": "comment:69ee0772000000002a02da2d",
+      "commentId": "69ee0772000000002a02da2d",
+      "likes": 2,
+      "author": "mono"
+    },
+    {
+      "type": "sub_comment",
+      "text": "在别人的论文上增加三个创新点 算抄袭吗[皱眉R]",
+      "sourceRef": "comment:69f98c3400000000280316a3",
+      "commentId": "69f98c3400000000280316a3",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "抄袭不是这么简单就能定性或者实锤的，idea像的文章太多了",
+      "sourceRef": "comment:69df2c8a000000000203726f",
+      "commentId": "69df2c8a000000000203726f",
+      "likes": 33,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "这都没被审出来。我也抄一下它俩！",
+      "sourceRef": "comment:69df8ed400000000010055cc",
+      "commentId": "69df8ed400000000010055cc",
+      "likes": 6,
+      "author": "爱吃炒菜的小女孩"
+    }
+  ]
+}

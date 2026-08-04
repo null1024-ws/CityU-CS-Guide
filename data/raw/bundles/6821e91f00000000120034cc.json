@@ -1,0 +1,98 @@
+{
+  "note_id": "6821e91f00000000120034cc",
+  "url": "https://www.xiaohongshu.com/explore/6821e91f00000000120034cc?xsec_token=AByqv20cS0cRsdrp2sPrbTpFgyJCtTxSOtBBqoHqIY5EI=",
+  "fetched_at": 1785842680.779504,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学 CS6493NLP 评测",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "提前交完卷跑了，卷子有点坐牢。\n\t\n整体来说，nlp上课体验还是不错的，分数构成是40%期末和30%assigment以及30%project(如果我没记错的话)\n\t\n平时上课的话，也是2h lecture和1h tutorial，lecture讲讲nlp的各方面知识。\n\t\n从最开始的word embedding和一些基础模型RNN开始讲，然后逐渐深入到transformer和bert，gpt这些耳熟能详的模型。随后会讲述自然语言理解和自然语言生成这两大块，像是文本分类，qa，dialogue system这些经典应用，再接着就是探讨llm的一些知识，像是prompt工程，rag，GPU并行训练的一些处理等等知识。 tutorial会对本节涉及到的内容进行一些简单的尝试，并且会给出参考链接和一些论文。像是assigment难度中等，不过老师assigment的给分也接近满分，评完分后续还会给出解析。最后像是group project的话，几个选题都比较废力，当然收货也很多。\n\t\n说到这感觉可以聊一下期末，期末五道大题，概念解析题，计算题，代码题，然后还有两道应用(不确定该怎么叫，反正都是考后面的)?基础的概念分值占比较大，计算题两问，其中一道是assigment当中的，另一道是交叉熵计算，两道计算题都是经过简化，都很好算。其他的概念就是纯拼记忆了，代码题虽然感觉很简单，但考前没来得及看([捂脸R])，其他两道基本都不太会，随便写了写就提前交了。还是请下一届学弟学妹留出充足时间来复习，前后都很重要。\n\t\n总体来说内容很广而且密集，想学好还是得下一番功夫，对于我这个摆子来说能过就行，不得不说复习的时候内容是真多，下一届的学弟学妹如果想选，注意安排好时间。\n\t\n最后希望捞一把考试[哭惹R]\n\t\n#香港城市大学[话题]#\n#自然语言处理[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长，这门课的project是几个人一组啊[皱眉R]",
+      "sourceRef": "comment:6957994b000000001601cbb2",
+      "commentId": "6957994b000000001601cbb2",
+      "likes": 0,
+      "author": "今晚喝椰椰"
+    },
+    {
+      "type": "sub_comment",
+      "text": "8人左右来着?",
+      "sourceRef": "comment:6957a56000000000160218f7",
+      "commentId": "6957a56000000000160218f7",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "宋老师还是放了水了，复习的时候快崩溃了，原本以为会特别难[笑哭R]",
+      "sourceRef": "comment:6821ee1f000000000b014148",
+      "commentId": "6821ee1f000000000b014148",
+      "likes": 4,
+      "author": "。。。"
+    },
+    {
+      "type": "sub_comment",
+      "text": "毕竟是我们宋老师[喝奶茶R]",
+      "sourceRef": "comment:6821ef650000000013011215",
+      "commentId": "6821ef650000000013011215",
+      "likes": 1,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "跟5489哪个难",
+      "sourceRef": "comment:6821ed6b0000000004018093",
+      "commentId": "6821ed6b0000000004018093",
+      "likes": 0,
+      "author": "momo（见过王力宏3次版）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5489",
+      "sourceRef": "comment:6821eda3000000000400f6e2",
+      "commentId": "6821eda3000000000400f6e2",
+      "likes": 3,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "有无nlp复习资料[笑哭R]",
+      "sourceRef": "comment:6a056ebc000000002803ca96",
+      "commentId": "6a056ebc000000002803ca96",
+      "likes": 0,
+      "author": "氙氢"
+    },
+    {
+      "type": "sub_comment",
+      "text": "GitHub上有前半部分和ai聊的md文件，但我觉得不如你直接和现在gpt或Claude聊",
+      "sourceRef": "comment:6a05732100000000290134c6",
+      "commentId": "6a05732100000000290134c6",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "求过[合十R]，我再也不想考闭卷了[失望R]",
+      "sourceRef": "comment:6821fa69000000000b02d09b",
+      "commentId": "6821fa69000000000b02d09b",
+      "likes": 0,
+      "author": "飞天大耳狗"
+    },
+    {
+      "type": "comment",
+      "text": "希望成绩也放放水[哭惹R]",
+      "sourceRef": "comment:6821f35700000000130109e1",
+      "commentId": "6821f35700000000130109e1",
+      "likes": 0,
+      "author": "多喝热水"
+    }
+  ]
+}

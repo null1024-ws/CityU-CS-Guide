@@ -1,0 +1,29 @@
+{
+  "note_id": "6a6b28bf0000000033035803",
+  "url": "https://www.xiaohongshu.com/explore/6a6b28bf0000000033035803?xsec_token=AB18E15xyRqwCLne7RQOKEMabiZgSB4mUl7uvXsDnXEW0=",
+  "fetched_at": 1785843383.0898263,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "自我介绍，三个db项目\n这四个topic你有懂的吗，可以聊（没选）\n科研经历？其他项目？（无）\n学过os没有（做过xv6的lab）\n内存管理了解吗\n访问空指针会触发pagefault，讲一下os内部发生了什么（拷打细节，没答上来）\n计时结束，问英语，讲一下平时怎么vibecoding\n可以走了\n\t\n问我os一下子宕机了，准备了三个db项目都没有问\n\t\nxv6是很久之前做的，这个问题自己是可以回答的更好的，如果有os的经历还是要侧重os复习\n\t\n没有科研大概率问os，面试氛围很好，专家组提问也很有水平，心服口服\n\t\n机试，大背景是机器人移动，二维地图\n\t\nt1 签到 ，计算障碍物位置\nt2 bfs ，机器人走迷宫，要求字典序最短路径\nt3 大模拟 ，机器人推箱子，要求更新箱子位置，可以同时推两个，机器人可以是2*2大小的\nt4 多源最短路+拓扑+状压dp，旅行商问题换皮\n\t\n纯算法题，标准io流，无文件读写，无gui\n\t\n断网，信号屏蔽仪，u盘发题 交代码，7z压缩\n\t\n最后写了 1+1+0.9+0.9，后两个写的差不多了，没调试出样例，也就五十分了，面试也不咋样，不讲了\n\t\n要是有文献阅读环节就好了，可惜今年取消了，怀疑topic可以通过读实验室论文来速通，这样就有的聊了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问机试是c or cpp是嘛",
+      "sourceRef": "comment:6a6df518000000002b003911",
+      "commentId": "6a6df518000000002b003911",
+      "likes": 0,
+      "author": "🎡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不限语言",
+      "sourceRef": "comment:6a6f63930000000029035eb4",
+      "commentId": "6a6f63930000000029035eb4",
+      "likes": 0,
+      "author": "看不懂3344096"
+    }
+  ]
+}

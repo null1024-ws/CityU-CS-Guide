@@ -1,0 +1,480 @@
+{
+  "note_id": "6a5a3dd600000000040296b7",
+  "url": "https://www.xiaohongshu.com/explore/6a5a3dd600000000040296b7?xsec_token=ABqDyN7mpNgCkJoXE11n5pdU23itIm51movVfnL0BezWw=",
+  "fetched_at": 1785838157.424417,
+  "note": {
+    "xsecToken": "ABqDyN7mpNgCkJoXE11n5pdU23itIm51movVfnL0BezWw=",
+    "interactInfo": {
+      "likedCount": "6",
+      "collectedCount": "4",
+      "commentCount": "15",
+      "collected": false,
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060",
+        "height": 822,
+        "width": 466,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041809/e54e028d23670aafbe8fcefa9bd6b132/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041809/32ee0eecf76498554a0e8e12b7dc765f/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041809/e54e028d23670aafbe8fcefa9bd6b132/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041809/32ee0eecf76498554a0e8e12b7dc765f/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "url": "",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c1b7b0f0000000008003a1d",
+        "name": "cuhk",
+        "type": "topic"
+      },
+      {
+        "id": "5dc93600000000000100837d",
+        "name": "msc",
+        "type": "topic"
+      },
+      {
+        "name": "cs",
+        "type": "topic",
+        "id": "5cd30b11000000000f02eeb8"
+      },
+      {
+        "id": "6a5a3e890000000027028f20",
+        "name": "CMSC5720",
+        "type": "topic"
+      },
+      {
+        "id": "6a5a3e890000000027028f21",
+        "name": "CMSM5721",
+        "type": "topic"
+      },
+      {
+        "id": "5d8882bf0000000002002f46",
+        "name": "港中文",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "5d1e12d5000000000e0388a3",
+        "name": "计算机硕士",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "6706a9c1000000002302d42b",
+        "name": "港中文计算机硕士"
+      }
+    ],
+    "atUserList": [],
+    "time": 1784298966000,
+    "ipLocation": "浙江",
+    "noteId": "6a5a3dd600000000040296b7",
+    "type": "normal",
+    "title": "cuhk msc计算机硕士 cmsc5720/5721",
+    "desc": "project这节课需要选择老师，能问一下大家有什么推荐吗[哭惹R][皱眉R][皱眉R][皱眉R]\n\t\n#cuhk[话题]# #msc[话题]# #cs[话题]# #CMSC5720[话题]# #CMSM5721[话题]# #港中文[话题]# #选课[话题]##计算机硕士[话题]# #港中文计算机硕士[话题]#",
+    "user": {
+      "userId": "59ec52bde8ac2b7bdcbbb8ca",
+      "nickname": "向往",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo",
+      "xsecToken": "ABMHcEGuhu-f2EcdqIuUWCrtYBgvOjR0ggn2MPiJnU3_8="
+    },
+    "lastUpdateTime": 1784299182000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "subCommentCursor": "6a5a4776000000000d021400",
+      "subCommentHasMore": true,
+      "likeCount": "0",
+      "ipLocation": "浙江",
+      "id": "6a5a3e4e000000001501777f",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8=",
+        "userId": "59ec52bde8ac2b7bdcbbb8ca",
+        "nickname": "向往",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg"
+      },
+      "invalid": false,
+      "noteId": "6a5a3dd600000000040296b7",
+      "status": 0,
+      "content": "在xhs好像搜不到相关的帖子，笨人不敢盲选[哭惹R][哭惹R][哭惹R]求求大家，能不能给一点建议，求求各位学长学姐，兄弟姐妹",
+      "atUsers": [],
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentCount": "4",
+      "liked": false,
+      "createTime": 1784299086000,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a5a3e4e000000001501777f",
+            "userInfo": {
+              "userId": "59ec52bde8ac2b7bdcbbb8ca",
+              "nickname": "向往",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8="
+            }
+          },
+          "invalid": false,
+          "id": "6a5a4776000000000d021400",
+          "noteId": "6a5a3dd600000000040296b7",
+          "content": "每个教授方向也不一样，研究兴趣和教授符合也重要。当然，要是想水 Project 的话都差不多，感觉 Xu Qiang 老师给分松一点",
+          "liked": false,
+          "userInfo": {
+            "userId": "65fbc1f9000000000600d001",
+            "nickname": "1111",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u9fnktc2ocg5pfro7shhk013mdc358?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB8z9cyiPY8ipDhdEF2FYFK05a6UJDUX0Hf2DzjdpqnhY="
+          },
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1784301430000,
+          "ipLocation": "中国香港"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "61594d08000000000201e53f",
+        "nickname": "Theshy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tfdhvc65s6g5oap9k40jp9v9sqj9rg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABapA60sskirCbxqdWTimjxJJ4cNFvfV2cAnyLz5A_n3U="
+      },
+      "ipLocation": "江西",
+      "subCommentHasMore": false,
+      "id": "6a5b6cc3000000002a026067",
+      "createTime": 1784376515000,
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1784377597000,
+          "ipLocation": "浙江",
+          "noteId": "6a5a3dd600000000040296b7",
+          "userInfo": {
+            "nickname": "向往",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8=",
+            "userId": "59ec52bde8ac2b7bdcbbb8ca"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a5b6cc3000000002a026067",
+            "userInfo": {
+              "userId": "61594d08000000000201e53f",
+              "nickname": "Theshy",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tfdhvc65s6g5oap9k40jp9v9sqj9rg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABapA60sskirCbxqdWTimjxJJ4cNFvfV2cAnyLz5A_n3U="
+            }
+          },
+          "invalid": false,
+          "id": "6a5b70fd00000000150033a0",
+          "status": 0,
+          "content": "这么好！谢谢推荐"
+        }
+      ],
+      "subCommentCursor": "6a5b70fd00000000150033a0",
+      "noteId": "6a5a3dd600000000040296b7",
+      "content": "我当时选的wong kinhong，老师人很好，压根不管，还可以自己选想做的东西[doge]",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "2",
+      "invalid": false,
+      "content": "john",
+      "atUsers": [],
+      "subComments": [
+        {
+          "id": "6a5b1926000000001500a6a0",
+          "status": 0,
+          "content": "收到🫡",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "59ec52bde8ac2b7bdcbbb8ca",
+            "nickname": "向往",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784355110000,
+          "noteId": "6a5a3dd600000000040296b7",
+          "atUsers": [],
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a5a4bd500000000150007de",
+            "userInfo": {
+              "nickname": "Lucky",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lu9c1t1l8005of6e4s41anotbtvht0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHoBbVxDVxUPO-d8fpNis5_s=",
+              "userId": "61e67138000000001000aaf8"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "6a5a3dd600000000040296b7",
+      "createTime": 1784302549000,
+      "id": "6a5a4bd500000000150007de",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABzj78PhlBZSH1Zl6W4DdVHoBbVxDVxUPO-d8fpNis5_s=",
+        "userId": "61e67138000000001000aaf8",
+        "nickname": "Lucky",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lu9c1t1l8005of6e4s41anotbtvht0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "subCommentCursor": "6a5b1926000000001500a6a0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "1",
+      "invalid": false,
+      "id": "6a5a4d44000000000d023003",
+      "content": "lu老师相当好，有幸跟他做过毕设[飞吻R]",
+      "subCommentCursor": "6a5b19200000000015012a6d",
+      "createTime": 1784302917000,
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "id": "6a5b19200000000015012a6d",
+          "noteId": "6a5a3dd600000000040296b7",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1784355105000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a5a4d44000000000d023003",
+            "userInfo": {
+              "userId": "6120d2ea000000000101d2c3",
+              "nickname": "马",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6120d2ea000000000101d2c3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABOJezPhsEvCob-RMuMhG5qQHnajo7t9nhjWZSSTIp4To="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "谢谢！",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "59ec52bde8ac2b7bdcbbb8ca",
+            "nickname": "向往",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "noteId": "6a5a3dd600000000040296b7",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "6120d2ea000000000101d2c3",
+        "nickname": "马",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6120d2ea000000000101d2c3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOJezPhsEvCob-RMuMhG5qQHnajo7t9nhjWZSSTIp4To="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "likeCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABrOGqApD41tItMmH9yPhDLWi2KXer0v3Y-UeoID2Ztok=",
+        "userId": "63f8ce51000000001001e329",
+        "nickname": "STaoZWT",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63f8d31ee2609be5459834b0.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "6a5a3dd600000000040296b7",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "广东",
+      "invalid": false,
+      "createTime": 1784338438000,
+      "subCommentCount": "0",
+      "id": "6a5ad805000000000802e1a3",
+      "status": 0,
+      "content": "随便选，不至于为难msc",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "59ec52bde8ac2b7bdcbbb8ca",
+        "nickname": "向往",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjpkKDpVBLrYslAjfIpAyU2co4OTUTDx8PUze0f8nhc8="
+      },
+      "createTime": 1784299223000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "6a5a3dd600000000040296b7",
+      "content": "求求大家帮忙看看[哭惹R]24号就选择截止了",
+      "atUsers": [],
+      "showTags": [
+        "is_author"
+      ],
+      "invalid": false,
+      "status": 0,
+      "subCommentHasMore": false,
+      "id": "6a5a3ed70000000015001e01",
+      "liked": false,
+      "ipLocation": "浙江",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "所有人都不会为难msc的，建议按照课题熟悉程度和兴趣程度优先考虑",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "6703991e000000001d0237aa",
+        "nickname": "小红薯67040DFA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABq2RXgZz466rkYJ3C6XVisNrJXbV2gRINouKEhka5xIM="
+      },
+      "showTags": [],
+      "createTime": 1784335914000,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "6a5ace2900000000290250af",
+      "likeCount": "0",
+      "invalid": false,
+      "noteId": "6a5a3dd600000000040296b7",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 Practical Optimization Algorithms",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 466,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041809/0d3d54aea10559c01a12a4d078ce0bac/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041809/bd0ef358da3bab36db88a19a425a0d4e/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 822
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-17"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "cuhk msc计算机硕士 cmsc5720/5721",
+      "user": {
+        "userId": "59ec52bde8ac2b7bdcbbb8ca",
+        "nickname": "向往",
+        "xsecToken": "ABMXRewxPsMx3GXrVUQdaKEi9jS6wkLgxcL3C-uXLZQkw=",
+        "nickName": "向往",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322nq9j3lnk0049uprg9bre6aocaf2eo?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "6",
+        "collected": false,
+        "collectedCount": "4",
+        "commentCount": "15"
+      },
+      "cover": {
+        "height": 822,
+        "width": 466,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041809/0d3d54aea10559c01a12a4d078ce0bac/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041809/bd0ef358da3bab36db88a19a425a0d4e/notes_pre_post/1040g3k0322nq7dumno0049uprg9bre6anp6g060!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABqDyN7mpNgCkJoXE11n5pdU23itIm51movVfnL0BezWw=",
+    "id": "6a5a3dd600000000040296b7",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a5a3dd600000000040296b7"
+  }
+}

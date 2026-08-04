@@ -1,0 +1,82 @@
+{
+  "note_id": "6693fe17000000000a025860",
+  "url": "https://www.xiaohongshu.com/explore/6693fe17000000000a025860?xsec_token=ABWP6_3r3lGhRwcJdFk-rI3AKFQWSPAM2decGq9jTHOFU=",
+  "fetched_at": 1785837718.6493342,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🇳🇱有朋友上过uva的计算科学硕士吗",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "是computational science不是computer science❗❗❗小红书上找到很多计算机科学的就读体验，但是计算科学的几乎没有，所以想发帖求助一下\n本人本科是uva传播学（社科），有一点统计基础。本科期间有转码的想法，修了计算科学的minor，然后顺利拿到了master录取。问题是minor的教学很一般，基本都是靠学生自学，然后我基础知识又差了很多，虽然课程最后都顺利通过了，但是过程比较吃力，每周7天全在打代码[扶墙R][扶墙R][扶墙R]\n主要想问一下硕士的教学，难度和课业量如何。难我可以接受，但是就怕跟minor一样全靠自己摸索，怕自己摸索不出来中途给劝退了[叹气R][叹气R][叹气R]以及同学是理工科背景居多吗，还是也有跨度比较大想转码的？课程及格率咋样啊？谢谢大家!\n#阿姆斯特丹大学[话题]# #阿姆斯特丹自由大学[话题]# #计算科学[话题]# #CS[话题]# #阿姆斯特丹大学硕士[话题]# #文科转码[话题]# #留学[话题]# #荷兰留学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "教学：方差大，有的老师很认真，有的老师很敷衍。难度：我CS背景感觉只有个别课程难，而且也是可克服的，但是非stem背景的同学可能会吃力，这个问题或许可以通过选VU以及其他系的课程来规避。课业量：代码量大，这一点我觉得是对你来说最劝退的，但是换个角度说，做好吃苦的准备来打磨自己，会收获很多（我自认为一年学到的东西顶本科两年）",
+      "sourceRef": "comment:66945106000000001303cd43",
+      "commentId": "66945106000000001303cd43",
+      "likes": 8,
+      "author": "Terry小张"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好的感谢!可以问一下TA是本专业的博士生吗？之前上minor的时候TA基本都是上一届minor的学生，除了批作业基本不和学生交流，所以学得比较苦闷[叹气R]，如果课程的老师和TA比较认真负责我还是想尝试一下的，浅看了一下课程内容感觉学得东西确实很硬核很实用",
+      "sourceRef": "comment:6694d5690000000026002b27",
+      "commentId": "6694d5690000000026002b27",
+      "likes": 0,
+      "author": "T-Red"
+    },
+    {
+      "type": "comment",
+      "text": "请问uva计算科学的minor怎么申请，我在荷兰别的大学读master也可以去uva读minor吗？读完有证书吗",
+      "sourceRef": "comment:66bb8cf20000000020027825",
+      "commentId": "66bb8cf20000000020027825",
+      "likes": 0,
+      "author": "沃碧润"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以啊，就在studielink上申请就可以了，完成全部课程可以申请证书",
+      "sourceRef": "comment:66e4a63f000000001203e062",
+      "commentId": "66e4a63f000000001203e062",
+      "likes": 0,
+      "author": "T-Red"
+    },
+    {
+      "type": "comment",
+      "text": "uu你好！我本科也是comms的，修完了这个minor对master有兴趣，想请问一下你跟得吃力吗[哭惹R]",
+      "sourceRef": "comment:67aed019000000001901772b",
+      "commentId": "67aed019000000001901772b",
+      "likes": 0,
+      "author": "喵喵麦辣鸡翅"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你minor感觉吃力吗？master的内容会比minor更难一些，不过作业基本都是以小组为单位，所以遇到靠谱的队友还不错，可以慢慢跟别人学习，以及多上vu的课会轻松很多",
+      "sourceRef": "comment:67c417620000000016011c2a",
+      "commentId": "67c417620000000016011c2a",
+      "likes": 0,
+      "author": "T-Red"
+    },
+    {
+      "type": "comment",
+      "text": "不行你多选一点vu课[笑哭R]呗",
+      "sourceRef": "comment:669408e700000000090157d3",
+      "commentId": "669408e700000000090157d3",
+      "likes": 0,
+      "author": "小红薯643006ED"
+    },
+    {
+      "type": "comment",
+      "text": "可以选很多cs的课",
+      "sourceRef": "comment:66940166000000001303e784",
+      "commentId": "66940166000000001303e784",
+      "likes": 0,
+      "author": "sssa"
+    }
+  ]
+}

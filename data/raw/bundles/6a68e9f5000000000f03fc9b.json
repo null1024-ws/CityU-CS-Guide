@@ -1,0 +1,74 @@
+{
+  "note_id": "6a68e9f5000000000f03fc9b",
+  "url": "https://www.xiaohongshu.com/explore/6a68e9f5000000000f03fc9b?xsec_token=ABOWOz_t0rhEX5A8E6KwT3vAy8Hl3bl7JR4kQqCf6s1FI=",
+  "fetched_at": 1785843332.62006,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "宣传一下在前司写的visual coding综述",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "半年前在前司写的综述终于中了！！顺带发张离职时候拍的小袋鼠🦘\n[TMLR 2026] 《Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence》 — 关于多模态代码智能的结构化综述\n💡 先问一个问题：\n现在的AI编程Agent都在干嘛？\n读文字需求 → 改代码 → 跑测试 ✅\n但大量编程任务的意图和反馈，本身就藏在视觉世界里——网页截图、UI 设计稿、图表、CAD、甚至交互视频。\n🎯 这就是「Visual Coding」\n不只是\"看图写代码\"，它是一个完整闭环：\n视觉意图 → 生成代码 → 执行渲染 → 观察结果 → 迭代修复\n⚡ 和 General Coding 的核心区别：\nGeneral Coding 问：代码能跑吗？\nVisual Coding 还要问：跑完之后，看起来对吗？\n网页能运行，但布局可能错位\n图表能渲染，但数据语义可能错误\n首屏看起来相似，但按钮可能点不动\n👉 这篇综述就是来回答这些问题的。\n我们系统梳理了整个多模态代码智能领域，把它结构化地分成了四大方向：\n🖥️ GUI（网页、移动端）\n📊 科学可视化（图表、文档PPT）\n🎨 结构化图形（SVG、流程图、CAD）\n🔮 前沿任务（视频、具身、Think with image）\n💬 总结来说：\nGeneral Coding 关心代码实现了什么；\nVisual Coding 还关心代码执行后，界面变成了什么。\n后续我们会update近期的相关工作，欢迎大家阅读和交流！！\n#VisualCoding[话题]# #多模态代码智能[话题]# #CodeAgent[话题]# #论文分享[话题]# #TMLR[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问文献主要update到什么时候啊？",
+      "sourceRef": "comment:6a6903c00000000014038733",
+      "commentId": "6a6903c00000000014038733",
+      "likes": 0,
+      "author": "Strong_Accept"
+    },
+    {
+      "type": "sub_comment",
+      "text": "现在还是投稿时候的paper list，准备先更新一下github 再慢慢改论文[皱眉R][皱眉R]",
+      "sourceRef": "comment:6a695cf6000000002a0253a5",
+      "commentId": "6a695cf6000000002a0253a5",
+      "likes": 0,
+      "author": "Noct"
+    },
+    {
+      "type": "comment",
+      "text": "佬[抽泣R]",
+      "sourceRef": "comment:6a68ea6c0000000015002a08",
+      "commentId": "6a68ea6c0000000015002a08",
+      "likes": 1,
+      "author": "聊赠一枝春（思考idea版）"
+    },
+    {
+      "type": "comment",
+      "text": "佬[哇R]",
+      "sourceRef": "comment:6a6b08a9000000002a00597a",
+      "commentId": "6a6b08a9000000002a00597a",
+      "likes": 0,
+      "author": "起亚"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[哇R]",
+      "sourceRef": "comment:6a6b0966000000002b024ce9",
+      "commentId": "6a6b0966000000002b024ce9",
+      "likes": 0,
+      "author": "Noct"
+    },
+    {
+      "type": "comment",
+      "text": "佬[抽泣R]",
+      "sourceRef": "comment:6a695bdd000000001403ba70",
+      "commentId": "6a695bdd000000001403ba70",
+      "likes": 1,
+      "author": "人称小坎耶"
+    },
+    {
+      "type": "comment",
+      "text": "[哇R][哇R][哇R]",
+      "sourceRef": "comment:6a696490000000001500b7c9",
+      "commentId": "6a696490000000001500b7c9",
+      "likes": 1,
+      "author": "Kernel"
+    }
+  ]
+}

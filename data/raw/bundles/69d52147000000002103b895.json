@@ -1,0 +1,130 @@
+{
+  "note_id": "69d52147000000002103b895",
+  "url": "https://www.xiaohongshu.com/explore/69d52147000000002103b895?xsec_token=ABFKUGSqtq1tXux--wRrw1SGu1Rv5s_P3IUsodasaGT8I=",
+  "fetched_at": 1785839414.5311184,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "宣传一下自己ICLR 26 Oral的工作 （已开源）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "来🍠宣传一波！我们的论文 Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents 被 ICLR 2026 接收，并入选 Oral。\n我们聚焦在多轮 agentic active reasoning。和传统的单轮问答不同，这类任务最大的挑战在于：agent 往往无法在一开始就获得完成任务所需的全部信息，而必须在与外部环境的连续交互中，逐步收集线索、更新对任务的理解和判断，并推进任务完成。\n直觉上看，基于 outcome-based reward 的强化学习应该能学会这件事；但我们发现，问题没这么简单：LLM agent 明明还在持续交互，但其实在逐渐走偏，后面的动作越来越难真正推动任务进展。我们在论文中通过理论刻画并用实验证实，核心困难在于，agent 在交互过程中对隐藏任务状态的内部判断会逐步偏离，而一旦进入这种状态，后续轨迹就可能变成长长的、低信息量的 tail。更麻烦的是，这种 tail 不只是影响单次推理质量，还会进一步污染 RL 里的 credit assignment，让一些原本有价值的 early exploration 在训练中被系统性抑制，从而使 RL 无法达到理想效果。\n基于这个现象，我们提出了一个很简单的方法：T3（Truncating Belief-Trapped Trajectories）。它的核心思想就是，当一条轨迹已经明显进入「走偏卡住但还在继续交互」的状态时，直接截断后面的无效部分，只保留前面更有信息量的 prefix 用来做策略优化。\n方法本身很轻量，但在我们实验的 5 个benchmarks 上，都带来了更稳定的训练、更好的最终性能，以及更高的 token efficiency。\n\t\n我们也正在进一步探索 T3 在更具现实复杂度的 agentic benchmarks（如 tau2-bench / SWE-gym）中的表现与适用性。我们已经在开源仓库中发布了一些结果（如P5）并将持续更新相关进展。\n#ICLR2026[话题]# #论文分享[话题]# #强化学习[话题]# #大语言模型[话题]# #LLMAgent[话题]# #Reasoning[话题]# #AI科研[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "求大家点点发财的小手star一下我们的GitHub repo 感恩🥹",
+      "sourceRef": "comment:6a01b14f0000000028037fea",
+      "commentId": "6a01b14f0000000028037fea",
+      "likes": 2,
+      "author": "Derek Z"
+    },
+    {
+      "type": "comment",
+      "text": "博主代码开源了吗，用什么框架做的",
+      "sourceRef": "comment:6a0774c7000000002803c523",
+      "commentId": "6a0774c7000000002803c523",
+      "likes": 0,
+      "author": "HeroicZ"
+    },
+    {
+      "type": "sub_comment",
+      "text": "https://github.com/unimpor/T3 欢迎star！",
+      "sourceRef": "comment:6a07e2e90000000028034ecf",
+      "commentId": "6a07e2e90000000028034ecf",
+      "likes": 3,
+      "author": "Derek Z"
+    },
+    {
+      "type": "comment",
+      "text": "有幸读过，非常不错，期待后续工作[哇R]",
+      "sourceRef": "comment:69d523ec000000000100475b",
+      "commentId": "69d523ec000000000100475b",
+      "likes": 2,
+      "author": "我真的不吃番茄"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢鼓励[哭惹R]一个月之后还会宣传一个嘿嘿[萌萌哒R]",
+      "sourceRef": "comment:69d648e2000000001500b09f",
+      "commentId": "69d648e2000000001500b09f",
+      "likes": 5,
+      "author": "Derek Z"
+    },
+    {
+      "type": "comment",
+      "text": "感觉agentic rl这个方向，有效的方法往往只是一个很简单的东西，一个点发论文，大量分析和实验。和以前A+B两个点不同了",
+      "sourceRef": "comment:69d528f600000000110199b2",
+      "commentId": "69d528f600000000110199b2",
+      "likes": 63,
+      "author": "1"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为现在实验成本真的很高",
+      "sourceRef": "comment:69d8868a000000000c032ece",
+      "commentId": "69d8868a000000000c032ece",
+      "likes": 18,
+      "author": "苏凡Terry"
+    },
+    {
+      "type": "comment",
+      "text": "好像看到过这篇",
+      "sourceRef": "comment:6a715e650000000015003019",
+      "commentId": "6a715e650000000015003019",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "理论分析是真牛逼，但是感觉这个task-specific的detector proxy设计是最大的问题",
+      "sourceRef": "comment:69d5d3e90000000009005ea1",
+      "commentId": "69d5d3e90000000009005ea1",
+      "likes": 6,
+      "author": "沐风"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢讨论！所以构造一些容易获取的信号是比较重要的 我们也在Tau2 deep-research 这类有影响力的benchmarks上搞 [萌萌哒R] 致力用一些很轻量且简单的信号来提升performance",
+      "sourceRef": "comment:69d5d594000000000d03ef5b",
+      "commentId": "69d5d594000000000d03ef5b",
+      "likes": 5,
+      "author": "Derek Z"
+    },
+    {
+      "type": "comment",
+      "text": "师兄[呃R]",
+      "sourceRef": "comment:69d5285a000000001500358b",
+      "commentId": "69d5285a000000001500358b",
+      "likes": 1,
+      "author": "小橘捣蛋鬼"
+    },
+    {
+      "type": "comment",
+      "text": "tql[哭惹R]",
+      "sourceRef": "comment:6a4e53a300000000150080dd",
+      "commentId": "6a4e53a300000000150080dd",
+      "likes": 0,
+      "author": "归舟"
+    },
+    {
+      "type": "comment",
+      "text": "目前有主动隐藏输入的benchmark吗？",
+      "sourceRef": "comment:6a1ee993000000002a007bf3",
+      "commentId": "6a1ee993000000002a007bf3",
+      "likes": 0,
+      "author": "AI创业者"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有的朋友 参见我们paper dataset 部分的引用～",
+      "sourceRef": "comment:6a1eeed50000000029010ec5",
+      "commentId": "6a1eeed50000000029010ec5",
+      "likes": 0,
+      "author": "Derek Z"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "note_id": "65b59a3e00000000110017fe",
+  "url": "https://www.xiaohongshu.com/explore/65b59a3e00000000110017fe?xsec_token=ABuhax22bj2h2jCsE_nw6xykPl9ADWw9t5Y54fvYtJiYw=",
+  "fetched_at": 1785840685.2551281,
+  "note": {
+    "noteId": "65b59a3e00000000110017fe",
+    "type": "normal",
+    "title": "NEU CSA 学生家属吐槽课程设置",
+    "desc": "我之前是美本top20的CS学生，现在在大厂工作(mid level)，队友在NEU 读 CSA 项目。 之前申请的时候看课程的名字，还觉得很实用，很全面。队友入学后简直被课程内容气到吐血。\n课程教的东西一点都不正规，还那么多作业。感觉是像技校，又放不下面子，想包装成正统CS教育，结果一点都不正统，海量的workload 浪费学生的时间。\nCS5001 这课是 python 入门，前半部分没啥问题，教了一些数据结构 （tree, quene, stack, linkedlist），后半段作业几乎不涉及这几个重要的，搞什么莫名其妙的processing，改分要求还特别苛刻，比大厂production code要求还高，作业难又多的要死，我都觉得Work load 很大。\nCS5002 离散数学，感觉什么都是浅尝而止和很杂乱， 什么都没学会\nCS5008 Data structure, algorithm and Computer System 这课最tmd 的离谱，我以为是学CSAPP， 结果看syllabus是学C 的语法, 然后又把数据结构 （tree, quene, stack, linkedlist）用C学一遍，体层逻辑（汇编, compiler, linking 什么的）是一点都不学，都chat gpt 时代了，还花那么多时间卷语法，不学核心概念，真的离谱。\n而且老师是大厂程序员，白天上班，晚上讲课来赚外快，结果他自己C都不怎么会，上课现场花时间debug，浪费大家时间。\nCS5004 OOD 这个倒是问题不大\n看下学期CS5800 Algorithm 又tmd 把数据结构学一遍 （tree, linkedlist）都学3遍了，干脆带学生刷题算了，这么多重复的内容，到底是CS  master还是技校？？？？？\n而且选课前不公开syllabus, 上课了才知道是什么垃圾内容，也来不及换老师了。\n最后吐槽一句, 你要是技校水平的教育，就作业少点呀。让学生自己做项目和刷题不好吗？哎，感觉队友要浪费好多时间在学校无意义的课业上，她又比较完美主义不愿意摆烂，真的好烦这破学校。\n#neu[话题]# #NEUCSA[话题]# #转码[话题]# #NEU转码[话题]# #美国东北大学[话题]# #CSAlign[话题]# #留学[话题]#",
+    "imageList": [
+      {
+        "fileId": "1040g00830uf1a990l40049b1tsr5b70oundl5cg",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/3dde0a66c639b37183732db8bf4455c8/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/c4682725af5b96e645945c98c48e6ba6/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 2560,
+        "width": 1920,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/3dde0a66c639b37183732db8bf4455c8/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/c4682725af5b96e645945c98c48e6ba6/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "6077a2610000000001001ab4",
+        "name": "neu"
+      },
+      {
+        "id": "638bdbdb0000000001004a7d",
+        "name": "NEUCSA",
+        "type": "topic"
+      },
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "name": "NEU转码",
+        "type": "topic",
+        "id": "631a9129000000000101c897"
+      },
+      {
+        "id": "5d0862d0000000000d017142",
+        "name": "美国东北大学",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "6246f3d30000000001003902",
+        "name": "CSAlign"
+      },
+      {
+        "id": "5bea5e2186535d0001bf235d",
+        "name": "留学",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "user": {
+      "xsecToken": "ABkpDO-iFDzRKmN0tBXGtsrv0EAuht8wDYgVU4PTBpAT8=",
+      "userId": "58d1b65582ec3909928e9c18",
+      "nickname": "小老头",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg"
+    },
+    "interactInfo": {
+      "collected": false,
+      "commentCount": "99",
+      "followed": false,
+      "relation": "none",
+      "collectedCount": "227",
+      "shareCount": "156",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "279"
+    },
+    "atUserList": [],
+    "time": 1706400318000,
+    "lastUpdateTime": 1706400318000,
+    "xsecToken": "ABuhax22bj2h2jCsE_nw6xykPl9ADWw9t5Y54fvYtJiYw="
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5e6da40800000000010053f3",
+        "nickname": "AAA白银人马角批发",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323drlufm02005njdkg408kvj1fpkke0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfx6-Dyt_BQ62iWar7NXsmp--2jidCDVP7HL0OWsov00="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "65b5ab7d0000000002023bca",
+      "noteId": "65b59a3e00000000110017fe",
+      "content": "最大的问题就是一堆part time老师[捂脸R]讲的简直史[捂脸R]全靠自学",
+      "liked": false,
+      "likeCount": "16",
+      "subCommentCount": "3",
+      "status": 0,
+      "createTime": 1706403096000,
+      "subComments": [
+        {
+          "id": "65b5ab7d0000000002023bca",
+          "noteId": "65b59a3e00000000110017fe",
+          "status": 0,
+          "content": "讲的💩就算了吧，还觉得自己厉害的不行，留一大堆无用的作业来浪费学生时间，自己却得到了满足感[抱拳R]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311io0cj56k705pa4d9pc6elkdgpgumo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhNPPGTaV9DQW7hFj1wdfP5h080PSoZ6K0hEGljQ9_K4=",
+            "userId": "65446a720000000030033ab4",
+            "nickname": "momo"
+          },
+          "showTags": [],
+          "likeCount": "13",
+          "createTime": 1706404733000,
+          "ipLocation": "加拿大",
+          "targetComment": {
+            "id": "65b5a51800000000010329c1",
+            "userInfo": {
+              "userId": "5e6da40800000000010053f3",
+              "nickname": "AAA白银人马角批发",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323drlufm02005njdkg408kvj1fpkke0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfx6-Dyt_BQ62iWar7NXsmp--2jidCDVP7HL0OWsov00="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "65b5a51800000000010329c1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "id": "65b5f179000000000600ecf7",
+      "content": "neu csa就是这样的啊 就是明牌卖coop和opt 一学期好像只需要2节课还是3节课 分数能pass就无所谓 谁家好人去csa还好好学习拿A+[笑哭R]",
+      "liked": false,
+      "subCommentCursor": "65b5f77f0000000007005641",
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "5c00e97c51783a734920ef40",
+        "nickname": "Zlinnn",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mdoos2i58004bumrdknprq031fdfmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiB1ofd3M_Ke0Dq7W5rAD5swqBdRRnN9gI5s1seDFTVQ="
+      },
+      "createTime": 1706422649000,
+      "ipLocation": "广东",
+      "subCommentCount": "8",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "65b59a3e00000000110017fe",
+      "atUsers": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME=",
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "noteId": "65b59a3e00000000110017fe",
+          "status": 0,
+          "content": "每个人对成绩的要求不同啊。而且学校即使要水就应该水到底 不要那么多对于作业和考核的无意义要求，现在是课业没用的要求多，每周被好几个due追着还不好轻易混",
+          "likeCount": "4",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1706424191000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b5f179000000000600ecf7",
+            "userInfo": {
+              "userId": "5c00e97c51783a734920ef40",
+              "nickname": "Zlinnn",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mdoos2i58004bumrdknprq031fdfmg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABiB1ofd3M_Ke0Dq7W5rAD5swqBdRRnN9gI5s1seDFTVQ="
+            }
+          },
+          "id": "65b5f77f0000000007005641"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1706407732000,
+      "subCommentCount": "6",
+      "subCommentCursor": "65b5b767000000000103315e",
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b5b7340000000008015823",
+            "userInfo": {
+              "userId": "6390b616000000001f016048",
+              "nickname": "幸运小狗（摸鱼打工版",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311joa2t3mk005osgmob7qo288nivb7o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABgxa9KRKYOs5lTYvNUAbgZF99hyDc0Z5vxBg7qIB2Zbg="
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "createTime": 1706407783000,
+          "invalid": false,
+          "id": "65b5b767000000000103315e",
+          "noteId": "65b59a3e00000000110017fe",
+          "status": 0,
+          "content": "别去吧，我们是因为我工作地点原因，选择很少。",
+          "userInfo": {
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "noteId": "65b59a3e00000000110017fe",
+      "invalid": false,
+      "likeCount": "6",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311joa2t3mk005osgmob7qo288nivb7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgxa9KRKYOs5lTYvNUAbgZF99hyDc0Z5vxBg7qIB2Zbg=",
+        "userId": "6390b616000000001f016048",
+        "nickname": "幸运小狗（摸鱼打工版"
+      },
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "id": "65b5b7340000000008015823",
+      "content": "是的拿到offer现在一点儿也不愿意去了[暗中观察R]",
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "id": "65b5cf0b0000000002021711",
+      "liked": false,
+      "likeCount": "7",
+      "userInfo": {
+        "xsecToken": "ABNddMokrhtlKHIl2z5LFwtq-NP9_YU1jAeG_IOWPx77E=",
+        "userId": "613c2bcc000000000201dac4",
+        "nickname": "爹妈生我有大用🌝",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226a3ntb7o0g5o9s5f60jmm480gn4ng?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1706413835000,
+      "subCommentCursor": "65b5cf6a00000000010323f6",
+      "noteId": "65b59a3e00000000110017fe",
+      "content": "职业培训机构，教学质量太差，班里的韩国小姐姐 上了一学期 ，然后直接转 Seattle U了",
+      "showTags": [],
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "noteId": "65b59a3e00000000110017fe",
+          "content": "哎，可我们在西雅图也选择不多",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME=",
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "65b5cf0b0000000002021711",
+            "userInfo": {
+              "userId": "613c2bcc000000000201dac4",
+              "nickname": "爹妈生我有大用🌝",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226a3ntb7o0g5o9s5f60jmm480gn4ng?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNddMokrhtlKHIl2z5LFwtq-NP9_YU1jAeG_IOWPx77E="
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1706413930000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "65b5cf6a00000000010323f6"
+        }
+      ],
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "12",
+      "subCommentCursor": "65b5a0e1000000000201076d",
+      "invalid": false,
+      "noteId": "65b59a3e00000000110017fe",
+      "status": 0,
+      "content": "确实，都是花时间然而没有任何能力提升的作业",
+      "userInfo": {
+        "nickname": "Mickey123",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/fac75c6f-6726-3cbf-8d25-d70b87257f62?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDGwnDVUnf4yt1kZfCVtwG6J8w_8Oz-SxGkoT6h_H46I=",
+        "userId": "5775485282ec39284ac74d9c"
+      },
+      "showTags": [],
+      "subCommentCount": "2",
+      "id": "65b59f23000000000800838d",
+      "atUsers": [],
+      "createTime": 1706401571000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "id": "65b5a0e1000000000201076d",
+          "status": 0,
+          "content": "哎，是的，感觉时间花了又没学到啥",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "noteId": "65b59a3e00000000110017fe",
+          "liked": false,
+          "createTime": 1706402017000,
+          "targetComment": {
+            "id": "65b59f23000000000800838d",
+            "userInfo": {
+              "userId": "5775485282ec39284ac74d9c",
+              "nickname": "Mickey123",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/fac75c6f-6726-3cbf-8d25-d70b87257f62?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDGwnDVUnf4yt1kZfCVtwG6J8w_8Oz-SxGkoT6h_H46I="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "liked": false,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABToibz_o8Beu5RkwzTDnme9I1AJqgN1qmT-y6p_y8OhA=",
+        "userId": "5de8d787000000000100bc9d",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321mm919s7s005nf8qu3g9f4tu7750go?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1706401604000,
+      "ipLocation": "加拿大",
+      "subCommentCount": "0",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "subComments": [],
+      "id": "65b59f440000000002020711",
+      "noteId": "65b59a3e00000000110017fe",
+      "content": "neu就是这样.. 应该主打一个分数能coop就行别的全去上好学校的网课 [失望R] 虽然现在听说cs院的workload变很大还很累",
+      "likeCount": "11",
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "createTime": 1706404337000,
+      "subComments": [
+        {
+          "id": "65b5ab4f000000000801504a",
+          "noteId": "65b59a3e00000000110017fe",
+          "createTime": 1706404687000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "status": 0,
+          "content": "我大概知道你吐槽的5008和5800是谁教的了，真的是惨不忍睹[石化R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "🐷🐭🐱",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ggbpl7g420g5o4pl910bo371n45hp0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABk-l2vKHNpHG2ooOj1G0cyIHMPVj8gi5WyuKBRijga3Y=",
+            "userId": "6099aa42000000000101e067"
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "65b5a9f100000000080163f5",
+            "userInfo": {
+              "xsecToken": "ABk-l2vKHNpHG2ooOj1G0cyIHMPVj8gi5WyuKBRijga3Y=",
+              "userId": "6099aa42000000000101e067",
+              "nickname": "🐷🐭🐱",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ggbpl7g420g5o4pl910bo371n45hp0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "65b5ab4f000000000801504a",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "id": "65b5a9f100000000080163f5",
+      "noteId": "65b59a3e00000000110017fe",
+      "content": "想学底层逻辑可以选5600，学完直接退学",
+      "atUsers": [],
+      "likeCount": "5",
+      "subCommentCount": "6",
+      "userInfo": {
+        "xsecToken": "ABk-l2vKHNpHG2ooOj1G0cyIHMPVj8gi5WyuKBRijga3Y=",
+        "userId": "6099aa42000000000101e067",
+        "nickname": "🐷🐭🐱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ggbpl7g420g5o4pl910bo371n45hp0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "65b5b64200000000020129e9",
+          "status": 0,
+          "content": "也不是嫌学得少，主要是大量时间在无意义的努力。 我之前本科就很规范。像 computer system, operating system, computer network 都是必修, 而且很多大一大二就学了，感觉bridge 这一年就费了很多心力却没有接受到规范有体系的教育吧。如果作业少一点，能轻松混过去也好。",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "8",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1706407490000,
+          "noteId": "65b59a3e00000000110017fe",
+          "userInfo": {
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME=",
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b5b45e000000000800afc6",
+            "userInfo": {
+              "xsecToken": "ABT7QU6eh3fV7FZGsCHqX3aBbUBYAdnXN9xotsFXHN1aY=",
+              "userId": "5598ad70f5a26366bf790437",
+              "nickname": "雪柳堆烟",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322i5nrvams0g40ts61mn011n9d717c8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "65b5b64200000000020129e9",
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "createTime": 1706407006000,
+      "noteId": "65b59a3e00000000110017fe",
+      "userInfo": {
+        "userId": "5598ad70f5a26366bf790437",
+        "nickname": "雪柳堆烟",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322i5nrvams0g40ts61mn011n9d717c8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABT7QU6eh3fV7FZGsCHqX3aBbUBYAdnXN9xotsFXHN1aY="
+      },
+      "ipLocation": "美国",
+      "subCommentCount": "3",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": true,
+      "id": "65b5b45e000000000800afc6",
+      "content": "SV校区的，5001如果学过类似的课可以waive，5002虽然我们老师是个notebook reader但是还是学了点复杂度之类的东西的，5008对于零基础转码选手的话了解C是个不错的途径，这些都是bridge课程肯定不会设置多难的，就这还有好多同学好痛苦。后面到了General的课程，看个人选择吧，Web Mobile之类的就没有多难，Computer System, Database, Distributed System就稍微有点难。",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "65b5ab9e0000000001030620",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "5",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "noteId": "65b59a3e00000000110017fe",
+      "createTime": 1706404766000,
+      "ipLocation": "美国",
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "userId": "6163c5380000000002021eee",
+        "nickname": "白灼口水鸡",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3118ijnlm6k005ob3oks0k7nejihvtog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDygq4mq3QjPiqY8oxqTOCXSQsHiA-FBet2RDDX_x9EE="
+      },
+      "subCommentCursor": "65b5ac4500000000020115c4",
+      "content": "确实，教学质量不如技校，老师还喜欢刷存在感，一些作业要求不写出来，等提交发现问题了或者具体去问才说，挺会折腾人。",
+      "subComments": [
+        {
+          "id": "65b5ac4500000000020115c4",
+          "noteId": "65b59a3e00000000110017fe",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1706404933000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b5ab9e0000000001030620",
+            "userInfo": {
+              "userId": "6163c5380000000002021eee",
+              "nickname": "白灼口水鸡",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3118ijnlm6k005ob3oks0k7nejihvtog?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDygq4mq3QjPiqY8oxqTOCXSQsHiA-FBet2RDDX_x9EE="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "是的，上学期5001为了满足format要求和argue分数都花了好多时间",
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME=",
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "老师是上班的我真的有点不能忍，超级不靠谱，我Oakland ，老师大部分都是上班的，上学期data的课那老师动不动就出差然后让我们上线上。其他课的老师讲的也真的没有正统大学教授讲的好，课程有的讲的深有的又讲的贼简单",
+      "liked": false,
+      "likeCount": "4",
+      "createTime": 1706408981000,
+      "id": "65b5bc1500000000080321dc",
+      "noteId": "65b59a3e00000000110017fe",
+      "status": 0,
+      "subCommentCursor": "65b5bc940000000002022c94",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "AB6kJyYWG4361L02RWhnVz8UQk1gYyYEiw4P-v7DWIgR8=",
+        "userId": "576d3d5282ec395f7d40c55c",
+        "nickname": "纯优秀很优秀🌟",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5da53d1476289a0001bc74ed.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "id": "65b5bc940000000002022c94",
+          "noteId": "65b59a3e00000000110017fe",
+          "status": 0,
+          "content": "是的，那个老师不备课，纯copy 别人的syllabus 材料。而且他自己都不怎么会，白天他还要上班，就是来赚外快的。",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "58d1b65582ec3909928e9c18",
+            "nickname": "小老头",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABFjCf-qja-vAV3dR0615nkI3Xpkci2XDpkLLopme_xME="
+          },
+          "createTime": 1706409108000,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b5bc1500000000080321dc",
+            "userInfo": {
+              "userId": "576d3d5282ec395f7d40c55c",
+              "nickname": "纯优秀很优秀🌟",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5da53d1476289a0001bc74ed.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6kJyYWG4361L02RWhnVz8UQk1gYyYEiw4P-v7DWIgR8="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 避雷",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "小老头",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6452cfe846534cda96f898ac.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "58d1b65582ec3909928e9c18",
+        "nickname": "小老头",
+        "xsecToken": "ABopKvW97BfsgVMavB6FwwU-4k8qrBLIS1SQfepo2rYuQ="
+      },
+      "interactInfo": {
+        "sharedCount": "156",
+        "liked": false,
+        "likedCount": "279",
+        "collected": false,
+        "collectedCount": "227",
+        "commentCount": "99"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/48ab31a3c60e1198df64b167e0e30b4b/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nc_n_webp_prv_1",
+        "height": 2560,
+        "width": 1920,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/df1f7babb485f11cd995d651103a8291/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 2560,
+          "width": 1920,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/df1f7babb485f11cd995d651103a8291/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/48ab31a3c60e1198df64b167e0e30b4b/1040g00830uf1a990l40049b1tsr5b70oundl5cg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-01-28"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "NEU CSA 学生家属吐槽课程设置"
+    },
+    "xsecToken": "ABuhax22bj2h2jCsE_nw6xykPl9ADWw9t5Y54fvYtJiYw=",
+    "id": "65b59a3e00000000110017fe",
+    "index": 16,
+    "exposed": false,
+    "trackId": "65b59a3e00000000110017fe"
+  }
+}

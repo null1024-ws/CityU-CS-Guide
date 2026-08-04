@@ -1,0 +1,146 @@
+{
+  "note_id": "69fe74f1000000003701ed32",
+  "url": "https://www.xiaohongshu.com/explore/69fe74f1000000003701ed32?xsec_token=ABleTMM_N03mZQseWaEe-5FQRv6o7P7Dncguzc53P2Nm8=",
+  "fetched_at": 1785839604.6838386,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "苦尽甘来，保研本科生第一篇 C 会录用啦",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "从去年6月份开始，我就跟着老师进入科研，刚刚开始不会搞，没读综述一篇又一篇论文读过去，好焦虑真的（因为保研要用），暑假结束终于搞完了代码，但是还没写完初稿。到了11月，终于写完提交bigdata，期间两个月过去，在1月底，我遗憾的收到了2大修一拒稿😭😭o(╥﹏╥)o，还是功力不够。所以含泪把审稿人的 意见改了，加了基线，改了逻辑(ง•̀_•́)ง。\n又投了tkde，不出两天被拒，建议我们投tnnls，真的又去投tnnls。\n因为担心，我又花了2-3个礼拜在这片论文基础上加入了大模型和对比学习的相关技术，把内容重点放在大模型的语义理解能力形成了一篇新的论文。投稿了apweb-waim。本来说好了第一轮出稿结果是4/20，后面又改到5/7号，现在又改到了5/9号。期间我看了小红书上别人有多少个icic录取（心里想为什么不投icic），为什么不早点想好。后面也想明白了，过程都是自己体验过来的，经验已经有了，继续加油吧。\n\t\n感谢：我的大学启蒙h 老师对我的耐心指导，学弟的支持，以及最重要的她对我的心理上的安慰。\n#论文投稿[话题]# #学术会议[话题]# #SCI论文[话题]# #学术[话题]# #论文发表[话题]# #小论文[话题]# #保研[话题]# #c会[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "C会这种 现在autoresearch感觉都能量产了[笑哭R][笑哭R]",
+      "sourceRef": "comment:69fe9bdc000000002803c958",
+      "commentId": "69fe9bdc000000002803c958",
+      "likes": 14,
+      "author": "泪水打湿麦当劳"
+    },
+    {
+      "type": "sub_comment",
+      "text": "也是，感觉应该投个 B 的[笑哭R]，但是时间也不够了保研要用，3 个审稿人（给了 excellent，accpet 和 weakaccept[飞吻R][飞吻R][飞吻R]）",
+      "sourceRef": "comment:69fe9c2500000000280347ba",
+      "commentId": "69fe9c2500000000280347ba",
+      "likes": 2,
+      "author": "零同学"
+    },
+    {
+      "type": "comment",
+      "text": "实验室提供什么算力啊，我们实验室就两个服务器可以用，做预实验都是自己去 autodl 上租的卡[哭惹R]",
+      "sourceRef": "comment:69ff5322000000002803e898",
+      "commentId": "69ff5322000000002803e898",
+      "likes": 0,
+      "author": "🇬 🇺 🇴 🇬 🇺 🇴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我也是[doge][doge]都是租的",
+      "sourceRef": "comment:69ff539c0000000028037359",
+      "commentId": "69ff539c0000000028037359",
+      "likes": 0,
+      "author": "零同学"
+    },
+    {
+      "type": "comment",
+      "text": "什么方向",
+      "sourceRef": "comment:6a1506e00000000029011f61",
+      "commentId": "6a1506e00000000029011f61",
+      "likes": 0,
+      "author": "天真蓝"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个是数据挖掘方向的[笑哭R]",
+      "sourceRef": "comment:6a150c44000000002900c70e",
+      "commentId": "6a150c44000000002900c70e",
+      "likes": 1,
+      "author": "零同学"
+    },
+    {
+      "type": "comment",
+      "text": "你好，我想问一下这个会议怎么开发票呀？我缴费之后，他们发了一个invoice，但是里面没有抬头税号这些信息，这怎么报销呀[哭惹R]",
+      "sourceRef": "comment:6a3d3c6c0000000004038895",
+      "commentId": "6a3d3c6c0000000004038895",
+      "likes": 0,
+      "author": "Edward Cullen"
+    },
+    {
+      "type": "sub_comment",
+      "text": "友友，我也想问来着，你找到在哪里开发票了吗",
+      "sourceRef": "comment:6a3e2547000000002901b2a1",
+      "commentId": "6a3e2547000000002901b2a1",
+      "likes": 0,
+      "author": "好想我回来啊"
+    },
+    {
+      "type": "comment",
+      "text": "请问大佬这个版面费多少哇[害羞R]",
+      "sourceRef": "comment:6a69f9ac000000002a02513f",
+      "commentId": "6a69f9ac000000002a02513f",
+      "likes": 0,
+      "author": "浅夏Zero"
+    },
+    {
+      "type": "sub_comment",
+      "text": "850💶",
+      "sourceRef": "comment:6a6a25100000000015010dd0",
+      "commentId": "6a6a25100000000015010dd0",
+      "likes": 0,
+      "author": "零同学"
+    },
+    {
+      "type": "comment",
+      "text": "终稿提交系统要交zip文件吗 我看系统无法交zip呀 只能交pdf",
+      "sourceRef": "comment:6a547543000000002b0266bc",
+      "commentId": "6a547543000000002b0266bc",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "你好我想请问一下这个主会一定要线下参加吗[哭惹R][哭惹R]",
+      "sourceRef": "comment:6a5e069000000000150085f4",
+      "commentId": "6a5e069000000000150085f4",
+      "likes": 0,
+      "author": "溯流光"
+    },
+    {
+      "type": "comment",
+      "text": "你好这个 cmt 系统，填老师的名字邮箱的话，老师需要注册这个 cmt 系统吗",
+      "sourceRef": "comment:6a1e8be500000000290268af",
+      "commentId": "6a1e8be500000000290268af",
+      "likes": 0,
+      "author": "cynthia"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得通讯作者，也就是你的老师，应该是需要的吧，我们团队就我和老师注册了，其他人应该没注册",
+      "sourceRef": "comment:6a1e8c23000000002901263a",
+      "commentId": "6a1e8c23000000002901263a",
+      "likes": 0,
+      "author": "零同学"
+    },
+    {
+      "type": "comment",
+      "text": "icic 这个会很难么[笑哭R]",
+      "sourceRef": "comment:6a1a67c1000000002903593d",
+      "commentId": "6a1a67c1000000002903593d",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "最终稿能提交了吗，我怎么还是没收到最终提交入口啊[哭惹R]",
+      "sourceRef": "comment:6a2fc1d0000000002a030b44",
+      "commentId": "6a2fc1d0000000002a030b44",
+      "likes": 0,
+      "author": "极寒"
+    }
+  ]
+}

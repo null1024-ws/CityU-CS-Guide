@@ -1,0 +1,94 @@
+{
+  "note_id": "68b6d018000000001b031399",
+  "url": "https://www.xiaohongshu.com/explore/68b6d018000000001b031399?xsec_token=ABsnrs4XZmogrhNMZ6LlYf1SQi9mkn0O5S-TkSh8YlHDI=",
+  "fetched_at": 1785840050.2848086,
+  "course_codes": [
+    "CS5285",
+    "CS5351",
+    "CS5488"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "成功免修 cs5351 Software Engineering",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "发邮件成功豁免了 Software Engineering，但是还需要再选一门选修，不知道是下学期再选，还是这学期在 CS5285 Big data 和 CS5488 Information security 里面选修一门，亦或者是重新选回 CS5351[微笑R]很纠结",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "申请免修还有什么其他条件吗？我本科上过同名的软件工程，但是是选修课而且才得了83分",
+      "sourceRef": "comment:6948d892000000000e036374",
+      "commentId": "6948d892000000000e036374",
+      "likes": 0,
+      "author": "织雪藏星"
+    },
+    {
+      "type": "sub_comment",
+      "text": "他有个邮件里面说了，反正就是本科修过但是分不低吧",
+      "sourceRef": "comment:6948e23e000000003802e997",
+      "commentId": "6948e23e000000003802e997",
+      "likes": 0,
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "豁免是什么意思，这门课的学分要通过选修别的课补一下吗",
+      "sourceRef": "comment:6a63527c0000000009017857",
+      "commentId": "6a63527c0000000009017857",
+      "likes": 0,
+      "author": "千里快哉风"
+    },
+    {
+      "type": "sub_comment",
+      "text": "就是这门课可以不修了，然后毕业总学分还是 30，自己去凑就行",
+      "sourceRef": "comment:6a6352b5000000002902642b",
+      "commentId": "6a6352b5000000002902642b",
+      "likes": 0,
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "最终选了什么课",
+      "sourceRef": "comment:68c13c640000000002000253",
+      "commentId": "68c13c640000000002000253",
+      "likes": 0,
+      "author": "Enzo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ec 和 图像",
+      "sourceRef": "comment:68c13f5b000000000b020d50",
+      "commentId": "68c13f5b000000000b020d50",
+      "likes": 1,
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "我也刚收到成功豁免的邮件[捂脸R]在想要不要选5488 但是港深通勤好麻烦不想多跑一天了",
+      "sourceRef": "comment:68b6e3ba000000000a00c9ea",
+      "commentId": "68b6e3ba000000000a00c9ea",
+      "likes": 0,
+      "author": "夏夏牧羊犬"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我也是 感觉选个 big data 也行，比软工简单点，虽然要通勤但至少不是晚课了",
+      "sourceRef": "comment:68b6ed18000000000b023330",
+      "commentId": "68b6ed18000000000b023330",
+      "likes": 0,
+      "author": "东大哈基午"
+    },
+    {
+      "type": "comment",
+      "text": "或者选个 guided study？",
+      "sourceRef": "comment:68b6d18a000000000b021168",
+      "commentId": "68b6d18a000000000b021168",
+      "likes": 0,
+      "author": "东大哈基午"
+    }
+  ]
+}

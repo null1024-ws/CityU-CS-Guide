@@ -1,0 +1,43 @@
+{
+  "note_id": "c323a779-3cbf-4ef2-adc9-3556f3417012",
+  "url": "https://www.xiaohongshu.com/explore/c323a779-3cbf-4ef2-adc9-3556f3417012?xsec_token=ABZU4k7_ssbbUgugBEb_pGgIw2mSYla1Qa5MozJv7dOpGUI4cOj77Grq4LTbOoPWB4UVI7pyYnDGqqJ4HfyNXOuuKVYs4tPJDfw5fyQODsRdA=",
+  "fetched_at": 1785838071.1312206,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5282 CityU",
+  "search_item": {
+    "id": "c323a779-3cbf-4ef2-adc9-3556f3417012#1785838071279",
+    "modelType": "rec_query",
+    "recQuery": {
+      "queries": [
+        {
+          "id": "cityu奖学金申请",
+          "name": "cityu奖学金申请",
+          "searchWord": "cityu奖学金申请"
+        },
+        {
+          "id": "cityu攻略",
+          "name": "cityu攻略",
+          "searchWord": "cityu攻略"
+        },
+        {
+          "name": "cityu环境",
+          "searchWord": "cityu环境",
+          "id": "cityu环境"
+        },
+        {
+          "searchWord": "cityu本科",
+          "id": "cityu本科",
+          "name": "cityu本科"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "c323a779-3cbf-4ef2-adc9-3556f3417012#1785838071279"
+    },
+    "xsecToken": "ABZU4k7_ssbbUgugBEb_pGgIw2mSYla1Qa5MozJv7dOpGUI4cOj77Grq4LTbOoPWB4UVI7pyYnDGqqJ4HfyNXOuuKVYs4tPJDfw5fyQODsRdA=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "c323a779-3cbf-4ef2-adc9-3556f3417012#1785838071279"
+  }
+}

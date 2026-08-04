@@ -1,0 +1,138 @@
+{
+  "note_id": "698f51ea000000001a026e35",
+  "url": "https://www.xiaohongshu.com/explore/698f51ea000000001a026e35?xsec_token=ABaTM5im01YoSKDQlZ0DJfppkheCrjnJCuXdT01PRNeAo=",
+  "fetched_at": 1785842518.9462552,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "肝完CMU15445，为古法编程训练画上句号了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "今天把拖了一年的CMU15445做完了，感觉像一个时代的结束。每次看到AI出新内容都想去试试，但一想到做了一半的project就腾不出手来。4+1个作业大约花了250+个小时，做完感觉神清气爽，不过以目前的形势看今后可能没时间也不需要进行这类课程的学习了，发个帖子纪念一下！[点赞R]\n总的来说，四个作业难度 2 >>4=3>1，当然2难度大有一部分原因是不熟悉c++，锁机制。做完时候感觉对数据库有了新的认识。\n在AI时代，做这个的意义在于以后失业了可以去路边表演手写数据库。\n\t\n#cmu15445[话题]#  #数据库[话题]# #古法编程[话题]# #Bustub[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "现在是cs336时代了[偷笑R]",
+      "sourceRef": "comment:698f9e2800000000050311ad",
+      "commentId": "698f9e2800000000050311ad",
+      "likes": 64,
+      "author": "Koschei-状态压缩DP"
+    },
+    {
+      "type": "sub_comment",
+      "text": "距离cs336烂大街还有多远[笑哭R]",
+      "sourceRef": "comment:699053700000000009021235",
+      "commentId": "699053700000000009021235",
+      "likes": 15,
+      "author": "爻爻领先"
+    },
+    {
+      "type": "comment",
+      "text": "以往说国内本科教育或者cs教育不行，就说看看🇺🇸的cs61a/b/15213/xv6/15445/...现在说手搓这些都没用了，那本科还学啥啊？就算去研究llm+db，也不能全vibe coding cpp吧[笑哭R][笑哭R]不过可能这也是个后浪推前浪的过程，就像学riscv就不需要学mips了。总之我觉得写这个还是很锻炼人的",
+      "sourceRef": "comment:6991621f00000000190028c6",
+      "commentId": "6991621f00000000190028c6",
+      "likes": 31,
+      "author": "💨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "正在上445 完全给用ai 但还是不想全程vibe coding 比较推荐的模式是什么呢",
+      "sourceRef": "comment:69928d8100000000030123e3",
+      "commentId": "69928d8100000000030123e3",
+      "likes": 0,
+      "author": "efhiwfg8w"
+    },
+    {
+      "type": "comment",
+      "text": "正在校内上这门课 已经全面开放genai了[笑哭R]",
+      "sourceRef": "comment:69928ce6000000000503a586",
+      "commentId": "69928ce6000000000503a586",
+      "likes": 10,
+      "author": "efhiwfg8w"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那作业难度不就大幅度下降了[doge]",
+      "sourceRef": "comment:699661a00000000008031e5f",
+      "commentId": "699661a00000000008031e5f",
+      "likes": 4,
+      "author": "最近爱种花"
+    },
+    {
+      "type": "comment",
+      "text": "工匠精神了属于是[笑哭R]",
+      "sourceRef": "comment:69908834000000000800f4cb",
+      "commentId": "69908834000000000800f4cb",
+      "likes": 8,
+      "author": "WhatsTheYouth"
+    },
+    {
+      "type": "sub_comment",
+      "text": "但我也觉得现在vibe coding就像萨满 祈祷上天能下雨一样 祈祷能让项目不出bug",
+      "sourceRef": "comment:6990885d000000000b0355ea",
+      "commentId": "6990885d000000000b0355ea",
+      "likes": 37,
+      "author": "WhatsTheYouth"
+    },
+    {
+      "type": "comment",
+      "text": "You see, this is why we don't want to hire new grads these days",
+      "sourceRef": "comment:69916123000000000b0347d4",
+      "commentId": "69916123000000000b0347d4",
+      "likes": 15,
+      "author": "忠君爱国马一龙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "new grads就算手搓代码也比不上ai写码的质量和速度",
+      "sourceRef": "comment:69a0d9e7000000000600e8f6",
+      "commentId": "69a0d9e7000000000600e8f6",
+      "likes": 0,
+      "author": "想吃烤牛油"
+    },
+    {
+      "type": "comment",
+      "text": "编程仙人[doge]",
+      "sourceRef": "comment:69909d5c0000000015012782",
+      "commentId": "69909d5c0000000015012782",
+      "likes": 1,
+      "author": "Calibanss"
+    },
+    {
+      "type": "comment",
+      "text": "古法编程[笑哭R]",
+      "sourceRef": "comment:6990498a000000000600f178",
+      "commentId": "6990498a000000000600f178",
+      "likes": 0,
+      "author": "黄同学h"
+    },
+    {
+      "type": "comment",
+      "text": "手艺人 respect",
+      "sourceRef": "comment:699004da000000000601da9a",
+      "commentId": "699004da000000000601da9a",
+      "likes": 0,
+      "author": "奔跑蛋黄酥"
+    },
+    {
+      "type": "comment",
+      "text": "怀念啊，2，3年前我也写这个[笑哭R]",
+      "sourceRef": "comment:69901306000000000b035171",
+      "commentId": "69901306000000000b035171",
+      "likes": 0,
+      "author": "小熊在跳伞"
+    },
+    {
+      "type": "comment",
+      "text": "好怀念的数字，还有mit6.824。三年过去一切都变了[捂脸R]",
+      "sourceRef": "comment:6992f9530000000005030d16",
+      "commentId": "6992f9530000000005030d16",
+      "likes": 15,
+      "author": "momo"
+    }
+  ]
+}

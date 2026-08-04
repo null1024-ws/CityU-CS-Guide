@@ -1,0 +1,178 @@
+{
+  "note_id": "6a3e9f11000000001503d61f",
+  "url": "https://www.xiaohongshu.com/explore/6a3e9f11000000001503d61f?xsec_token=ABtYENABo3Nbt-QgMhxFmJGAGMYQfvKQvWtx1Int8SnvA=",
+  "fetched_at": 1785843412.6985886,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "吐槽体系架构科研",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "贴主进组一个月了.组里师兄师姐人很好，这点真的很感谢.而且组里也算得上不错的组，有很多篇ccf-a会.在师兄的带领下ye是看了很多篇体系架构论文.实在打不上兴趣.1.首先很多体系架构不流片，也就是跑不了端到端模型.所以很多论文只写核心算子.实用性不强.   2.很多论文讲求一个大模型算法先创个新.比如剪枝，比如稀释，又或者层的结构发生改善以适配硬件加速.在此基础上硬件对新模型做针对性优化.软硬件协同确实是发论文不错思路.毕竟模型创新比纯加速器架构创新相对简单.不过这样子创新对设计者神经网络知识要求水平不低，贴主本人深度学习水平在同专业绝对不算差的，但是毕竟是ic出生需求我真的对那么多模型创新有敏锐察觉力实在做不到.而且此类asic芯片太专.适配模型有限.而且往往数据流复杂.编译器写不出.     3.不过还是有些论文思路值得学习.比如一篇叫FEATHER的加速器文章提出的蝴蝶网络在片上改变数据排布方式我觉得很神奇.       以上就是贴主的一些体系架构学习心得了.做正统npu还是得公司或计算所那种大组。其实贴主ye是希望在保研前有科研经历.贴主只能算是这方面小白、如果是因为我的目光以及学识短浅而有的错误想法的话还请各位大佬指正.现在正值保研、觉得自己拉完l.每天压力好大哎哎#科研[话题]#  #软硬件协同[话题]# #体系架构[话题]##数字ic[话题]##硬件加速[话题]##本科生科研[话题]# #保研[话题]##焦虑[话题]#\n\t\n二编：怎么这篇帖子吸引了好几个浙大佬和上交国科大de佬.有一个上交佬甚至我当初就是在看他的帖子了解我的梦校东南导师，我纯桂物，东南数字ic都很难选到.不过还是很欢迎和做体系架构的佬交流的。[哇R][哇R]\n\t\n三编：学习了一段时间。发现体系架构还是很有魅力的，有些文章的设计让我觉得很好。如果研究生还能做体系架构的话，我大概会很开心的。只可惜心有余而力不足。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "蝴蝶网络是2012年美国的一个专利hhh，电路这里也被抢先发了ISSCC。 然后电路这里的确也做不出啥创新了，还有把deepseek的模型作为challenge来写[捂脸R][捂脸R][捂脸R]",
+      "sourceRef": "comment:6a3eae3600000000150057f3",
+      "commentId": "6a3eae3600000000150057f3",
+      "likes": 11,
+      "author": "pep"
+    },
+    {
+      "type": "sub_comment",
+      "text": "数字ic研究生，感觉很难想到很创新的idea了[笑哭R]。",
+      "sourceRef": "comment:6a3eb20e000000002b027fcd",
+      "commentId": "6a3eb20e000000002b027fcd",
+      "likes": 4,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "体系架构太吃资源了[笑哭R]尤其是现在都和大模型结合的玩不然基本发不出好论文[笑哭R][笑哭R]你不是不喜欢体系架构，是你导师的组环境让人做这个就痛苦[笑哭R]我之前在中科院一个组也做这个的，没资源没指导，硬件设备只有一个类似stm32的板子[笑哭R][笑哭R]非常理解这种感受，但是我现在还是学了一生一芯[害羞R][害羞R]我觉得后面对ai infra用处很大。（PS:我博士做计算物理，基本和计算机只有一点交叉但是不是重心）",
+      "sourceRef": "comment:6a3fa2ff00000000140389d4",
+      "commentId": "6a3fa2ff00000000140389d4",
+      "likes": 8,
+      "author": "关注我奖励一块华为手表"
+    },
+    {
+      "type": "sub_comment",
+      "text": "说来我当时记得CMU一个组这方面做的特别好，因为我有个ustc的朋友直博去的这里。我当时没资源没指导但是还是在我这个朋友帮助下三个月完成MICRO，而且在自己本身写作特别菜的情况下还进入第一批了[派对R]（MICRO最终审稿前会发个邮件告诉你什么前40%进入最后评审，附赠审稿意见可以rebuttal或者补充修改啥的），只不过因为这篇论文一作被抢给组里老板嫡系了，那个嫡系从头到尾啥都没做，所以rebuttal阶段他不过来帮忙干活我也就直接摆烂放弃[偷笑R][偷笑R]",
+      "sourceRef": "comment:6a3fa4150000000015003215",
+      "commentId": "6a3fa4150000000015003215",
+      "likes": 3,
+      "author": "关注我奖励一块华为手表"
+    },
+    {
+      "type": "comment",
+      "text": "别做算法-硬件协同[doge]",
+      "sourceRef": "comment:6a3f1250000000002a02d402",
+      "commentId": "6a3f1250000000002a02d402",
+      "likes": 3,
+      "author": "也先"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为只要算法端一变，硬件架构全白做吗？",
+      "sourceRef": "comment:6a3f5139000000002b026ed9",
+      "commentId": "6a3f5139000000002b026ed9",
+      "likes": 7,
+      "author": "别耐听王了，写题去吧"
+    },
+    {
+      "type": "comment",
+      "text": "流片的工作是什么很有吸引力的东西吗？",
+      "sourceRef": "comment:6a3f956300000000050093d3",
+      "commentId": "6a3f956300000000050093d3",
+      "likes": 0,
+      "author": "DuoDuo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感觉流片的工作写的代码会严谨一点？经过很多验证能实际投入使用.不流片的往往搭个架子.我们组里大部分人以后都不找ic的工作.因为写的算子代码没能考虑那么多缓存、读取调度等",
+      "sourceRef": "comment:6a3f96fd000000001500b85b",
+      "commentId": "6a3f96fd000000001500b85b",
+      "likes": 5,
+      "author": "ロストワンの号哭"
+    },
+    {
+      "type": "comment",
+      "text": "请问想做这个方向清华电子系和计算所哪个比较好啊[哭惹R]除去title是不是计算所更强一点",
+      "sourceRef": "comment:6a3f4e30000000002b02b8b4",
+      "commentId": "6a3f4e30000000002b02b8b4",
+      "likes": 1,
+      "author": "Paigeff"
+    },
+    {
+      "type": "sub_comment",
+      "text": "体系架构计算所很强.清华集院不清楚.电子院不如计算所",
+      "sourceRef": "comment:6a3f4e6c0000000015016cfe",
+      "commentId": "6a3f4e6c0000000015016cfe",
+      "likes": 3,
+      "author": "ロストワンの号哭"
+    },
+    {
+      "type": "comment",
+      "text": "[回招呼]大佬是ic转体系吗",
+      "sourceRef": "comment:6a3eb39a000000001500a433",
+      "commentId": "6a3eb39a000000001500a433",
+      "likes": 1,
+      "author": "tomjoe6"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈不是大佬.以前做ic的.但是感觉自己摸索水平非常难提升于是进组学习[捂脸R]",
+      "sourceRef": "comment:6a3f3a0f000000001500365e",
+      "commentId": "6a3f3a0f000000001500365e",
+      "likes": 1,
+      "author": "ロストワンの号哭"
+    },
+    {
+      "type": "comment",
+      "text": "湖南有啥学校，国防科大，这也不发四大啊",
+      "sourceRef": "comment:6a3eba6500000000150079ba",
+      "commentId": "6a3eba6500000000150079ba",
+      "likes": 1,
+      "author": "小红薯693D2A3E"
+    },
+    {
+      "type": "sub_comment",
+      "text": "hnu？",
+      "sourceRef": "comment:6a3efd85000000002b024829",
+      "commentId": "6a3efd85000000002b024829",
+      "likes": 0,
+      "author": "别耐听王了，写题去吧"
+    },
+    {
+      "type": "comment",
+      "text": "我博一认识到这点后，从arch/电路转算法/infra去了[笑哭R]。我读硕的时候arch科研和算法科研的差距还不大，算法那边大部分也就是做一些没啥用的corner case优化和微小的增量/排列组合创新，也没啥实际意义。可从23年llm出来后，两边的科研的质量差距被拉的很大，arch这边永远都是一些吊用没有的研究，算法那边日新月异大跨步演变。",
+      "sourceRef": "comment:6a3f369b0000000009016cf7",
+      "commentId": "6a3f369b0000000009016cf7",
+      "likes": 13,
+      "author": "啦啦啦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "正确的.这个可能更吃香.毕竟xhs大部分人这么说[微笑R]",
+      "sourceRef": "comment:6a3f3ab000000000150015cb",
+      "commentId": "6a3f3ab000000000150015cb",
+      "likes": 2,
+      "author": "ロストワンの号哭"
+    },
+    {
+      "type": "comment",
+      "text": "同好同好 可以互相交流一下[喝奶茶R]",
+      "sourceRef": "comment:6a3ea0a3000000002a030fe4",
+      "commentId": "6a3ea0a3000000002a030fe4",
+      "likes": 1,
+      "author": "RaspG&T"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈喔初入门而已.其实本身不是非常愿意做[笑哭R]以后我继续研究有点水平以后再和浙✌🏻交流估计更有深度",
+      "sourceRef": "comment:6a3ea202000000001500b888",
+      "commentId": "6a3ea202000000001500b888",
+      "likes": 0,
+      "author": "ロストワンの号哭"
+    },
+    {
+      "type": "comment",
+      "text": "其实isscc和vlsi上的数字片子很少会真的跑完整layer，真的想实用的话软件配套的工作量也不比流片小",
+      "sourceRef": "comment:6a3f4729000000001500a4c9",
+      "commentId": "6a3f4729000000001500a4c9",
+      "likes": 1,
+      "author": "方方土"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实他们硬件都做的很复杂编译器不好写.之前在知乎就看有佬吐槽说i上流片出的很多也跑不了端到端，还有人吐槽纯“雕花”",
+      "sourceRef": "comment:6a3f47d2000000001500112e",
+      "commentId": "6a3f47d2000000001500112e",
+      "likes": 0,
+      "author": "ロストワンの号哭"
+    }
+  ]
+}

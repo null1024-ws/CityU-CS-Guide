@@ -1,0 +1,34 @@
+{
+  "note_id": "68ac228a000000001d02987c",
+  "url": "https://www.xiaohongshu.com/explore/68ac228a000000001d02987c?xsec_token=ABYzvcglo3rygbg5jw4RP8P4_Ww4OGYDBJGsVdGse6CWs=",
+  "fetched_at": 1785838966.4419618,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 选课求助",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "关于选修课的学分方案，没太看懂这里的专注于某支流和广泛选课有什么区别[失望R]，之前看学长学姐们分享的课程经验好像都是各个方向都在选\n\t\n#选课[话题]# #港城大[话题]#  #CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "相当于专业里的三个方向，你可以选择声明走某一个方向，也可以不声明默认一个都不选；如果声明方向，每个方向有自己特定的选课要求，需要满足特定方向的要求才能毕业，毕业证上会有额外标出方向，比如computer science（AI stream）；如果不声明方向，就各个方向的课都能选，满足CS的毕业要求就好，毕业证上也没有方向",
+      "sourceRef": "comment:68ac37bc0000000027000085",
+      "commentId": "68ac37bc0000000027000085",
+      "likes": 1,
+      "author": "满杯kiwi"
+    },
+    {
+      "type": "comment",
+      "text": "我觉得这个意思是这几个系的课都有cs可以选的，但是具体还要点进去看一下",
+      "sourceRef": "comment:68ac23ea000000003001a06a",
+      "commentId": "68ac23ea000000003001a06a",
+      "likes": 0,
+      "author": "亦谐"
+    }
+  ]
+}

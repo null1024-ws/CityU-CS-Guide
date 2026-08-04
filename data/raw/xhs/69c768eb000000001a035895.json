@@ -1,0 +1,470 @@
+{
+  "note_id": "69c768eb000000001a035895",
+  "url": "https://www.xiaohongshu.com/explore/69c768eb000000001a035895?xsec_token=ABBjz0YSu9m64L00ak3Z8t-IFFXvriof0sOaYHDtedaco=",
+  "fetched_at": 1785843689.0019507,
+  "note": {
+    "xsecToken": "ABBjz0YSu9m64L00ak3Z8t-IFFXvriof0sOaYHDtedaco=",
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041941/c97502d90195992f088693cf2b28c2df/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298",
+        "height": 1067,
+        "width": 773,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041941/d42d18e2c9d08f08ac3544ad294a22e9/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041941/d42d18e2c9d08f08ac3544ad294a22e9/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041941/c97502d90195992f088693cf2b28c2df/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "atUserList": [],
+    "time": 1774676203000,
+    "lastUpdateTime": 1774676217000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "留学上岸",
+    "desc": "港城自费mphill能申请什么奖学金吗[哭惹R]有mphill交流群吗[哭惹R]",
+    "user": {
+      "userId": "63d2a8b70000000026010b05",
+      "nickname": "阿伟",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qh4ededg0005ouil2rpi2o5vb82nk8",
+      "xsecToken": "AB6OJBSEiyWBTLr-UkD_48iiBwDE-zCkVcJVhbT0BAZeo="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "16",
+      "collected": false,
+      "relation": "none",
+      "niceCount": "",
+      "collectedCount": "7",
+      "commentCount": "20",
+      "shareCount": "12",
+      "followed": false
+    },
+    "tagList": [],
+    "noteId": "69c768eb000000001a035895",
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "noteId": "69c768eb000000001a035895",
+      "atUsers": [],
+      "liked": false,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "content": "友友打算怎么选[哭惹R]同申请了cityu的mphil[笑哭R]",
+      "createTime": 1775742621000,
+      "pictures": [],
+      "likeCount": "0",
+      "ipLocation": "陕西",
+      "subCommentCursor": "69d7bc91000000001d00b3db",
+      "id": "69d7ae9d00000000160164cf",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB9gJD_7in977JtMAUx_EXPmhMl2ex8po9UfuRapmi1LU=",
+        "userId": "66d194ef000000001d023169",
+        "nickname": "lulu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321r5g8g8nu605pmhijnnccb9q2ai2h8?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "阿伟",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qh4ededg0005ouil2rpi2o5vb82nk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABargtEeckRAfO_8FBTThrNOSXl5PoVDvexXi7RDGL0V4=",
+            "userId": "63d2a8b70000000026010b05"
+          },
+          "createTime": 1775746193000,
+          "ipLocation": "江苏",
+          "pictures": [],
+          "id": "69d7bc91000000001d00b3db",
+          "content": "犹豫啊[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "69d7ae9d00000000160164cf",
+            "userInfo": {
+              "userId": "66d194ef000000001d023169",
+              "nickname": "lulu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321r5g8g8nu605pmhijnnccb9q2ai2h8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9gJD_7in977JtMAUx_EXPmhMl2ex8po9UfuRapmi1LU="
+            }
+          },
+          "invalid": false,
+          "noteId": "69c768eb000000001a035895",
+          "status": 0
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69c768eb000000001a035895",
+      "status": 0,
+      "content": "作为过来人，如果还有别的选的话建议跑路[doge]",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB7HBmdxwCEzA9Sp9OSL7ffoS0uFYEXao6HPZbX_nA7qY=",
+              "userId": "5b5af22b4eacab69068b50de",
+              "nickname": "太平洋鳗鱼",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j11kich1c004a7itmp2mk6u5a5fj58?imageView2/2/w/120/format/jpg"
+            },
+            "id": "69c7d2760000000015008251"
+          },
+          "pictures": [],
+          "id": "69f85d8e000000002903669a",
+          "status": 0,
+          "content": "[doge]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30r0i75sah86g5nfkms3097v1q3vunmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABNhuC6Uj0XtyLaaUWN-54_dVlW-Y4MViq6q9v3s06Nso=",
+            "userId": "5df4b7060000000001009fe1",
+            "nickname": "Vanilla"
+          },
+          "showTags": [],
+          "invalid": false,
+          "noteId": "69c768eb000000001a035895",
+          "likeCount": "0",
+          "createTime": 1777884559000,
+          "ipLocation": "河北"
+        }
+      ],
+      "id": "69c7d2760000000015008251",
+      "atUsers": [],
+      "createTime": 1774703222000,
+      "subCommentCursor": "69f85d8e000000002903669a",
+      "invalid": false,
+      "likeCount": "4",
+      "pictures": [],
+      "userInfo": {
+        "userId": "5b5af22b4eacab69068b50de",
+        "nickname": "太平洋鳗鱼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j11kich1c004a7itmp2mk6u5a5fj58?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7HBmdxwCEzA9Sp9OSL7ffoS0uFYEXao6HPZbX_nA7qY="
+      },
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "subComments": [],
+      "noteId": "69c768eb000000001a035895",
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "id": "6a0d07e2000000002702febd",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABeLF5vixEkciAzggMwZnIo5iFKmbEY0WWLXmIMayepps=",
+        "userId": "63dd02de0000000026004a0d",
+        "nickname": "围炉煮 AI",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321kfbgb1n0005out0bf9gigd6inhcj8?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1779238883000,
+      "ipLocation": "广东",
+      "content": "不是一年12万吗？",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a20568a000000002900fc18",
+      "liked": false,
+      "showTags": [],
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1780504202000,
+      "ipLocation": "海南",
+      "subCommentCursor": "",
+      "noteId": "69c768eb000000001a035895",
+      "content": "求 bg",
+      "subCommentCount": "0",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "微笑的狗",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315g1eqkg0u605pj9f10hond0l7vber0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByaf2pVoOoQ04F0iqk_x4nGZ8EYYrXiKtj1GViuoSgEI=",
+        "userId": "666978410000000007005da0"
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041941/3a69c184f501e0faeb7fd961e91209d9/comment/1040g4b8320v8ph20na0g5pj9f10hond046mqh20!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041941/261dc1774dffa2610aa82ad34a8f69a5/comment/1040g4b8320v8ph20na0g5pj9f10hond046mqh20!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 128,
+          "width": 126,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041941/3a69c184f501e0faeb7fd961e91209d9/comment/1040g4b8320v8ph20na0g5pj9f10hond046mqh20!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041941/261dc1774dffa2610aa82ad34a8f69a5/comment/1040g4b8320v8ph20na0g5pj9f10hond046mqh20!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "noteId": "69c768eb000000001a035895",
+      "subCommentHasMore": false,
+      "content": "tuition fee怎么又涨了[哭惹R]",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1774875189000,
+      "subCommentCount": "0",
+      "pictures": [],
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "62f79900000000001b000cec",
+        "nickname": "mml",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3224cfom5700g5onnj406o37cv7epapo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnYKjmucZj_nW9drchZEVmzgqzrA8cTD-r_ptmp74pIM="
+      },
+      "subComments": [],
+      "invalid": false,
+      "id": "69ca7235000000000103c86c",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subComments": [],
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hlmbnn03u005omc5fh3hlua1442478?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFOjbvDiImazQesoD0bm0hlug7uIphqWnyese829U2PA=",
+        "userId": "62cc2be2000000000e00d7ca"
+      },
+      "createTime": 1774747139000,
+      "ipLocation": "广东",
+      "status": 0,
+      "subCommentCursor": "",
+      "content": "自费的offer不能申请任何奖学金 包括其他人每年一万的差旅报销也没有 纯看老板",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "4",
+      "showTags": [],
+      "pictures": [],
+      "id": "69c87e02000000001803bd73",
+      "noteId": "69c768eb000000001a035895",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "64a3b4ea000000001001d6eb",
+        "nickname": "Starry🌻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ni58pbh5m505p53mjl43lnbejri5so?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSIo0NmcTeRA0dvhsOucAmkUcF7Stj8OaS4pCPLutr7w="
+      },
+      "subComments": [],
+      "noteId": "69c768eb000000001a035895",
+      "content": "学费又涨了吗[石化R]",
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "69d28d9000000000090065ad",
+      "showTags": [],
+      "createTime": 1775406481000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "69c894b9000000000202adea",
+      "likeCount": "0",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1774752953000,
+      "ipLocation": "海南",
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "同求",
+      "userInfo": {
+        "userId": "607fab8b000000000100b80b",
+        "nickname": "bb（见过ガガ版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30utt3mqqle005o3vle5g9e0bpko5s8o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZL2bdArq3kV4XWm4pgb5AZueBjpv7MT9DfeeUPpVbxs="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "noteId": "69c768eb000000001a035895",
+      "subComments": [],
+      "subCommentCursor": "",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "liked": false,
+      "ipLocation": "北京",
+      "subCommentCount": "0",
+      "id": "69cb30050000000014008778",
+      "noteId": "69c768eb000000001a035895",
+      "userInfo": {
+        "userId": "684c0644000000001e002478",
+        "nickname": "超绝派西维尔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l39ghq8iodg5q2c0p27g93oob3inm8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrmrzasIV085N4jDTGlOu0waFCZBz44Bveu5wKx2t1H8="
+      },
+      "showTags": [],
+      "pictures": [],
+      "status": 0,
+      "content": "自费学费这么贵吗[石化R]",
+      "likeCount": "0",
+      "createTime": 1774923781000,
+      "invalid": false,
+      "atUsers": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCount": "0",
+      "pictures": [],
+      "status": 0,
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "没有吧[笑哭R]你看老板能不能给你开个pt-ra之类的",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "65f5ae7e000000000600c755",
+        "nickname": "MOMO",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dvcavqg0m0g5pfllpv1hhqlcccdaro?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_rthBl9wWy8VDgIUauuQVV0lR4qaDr84My86XejI8No="
+      },
+      "showTags": [],
+      "createTime": 1774691733000,
+      "ipLocation": "广东",
+      "subComments": [],
+      "id": "69c7a59400000000150033cf",
+      "noteId": "69c768eb000000001a035895",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "港城 CS6187",
+  "search_item": {
+    "id": "69c768eb000000001a035895",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "留学上岸",
+      "user": {
+        "nickname": "阿伟",
+        "xsecToken": "ABiAKXZI-Mur_8FxzgYoY8VtYc7DKeAtpjHu5EeCkTUSk=",
+        "nickName": "阿伟",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qh4ededg0005ouil2rpi2o5vb82nk8?imageView2/2/w/80/format/jpg",
+        "userId": "63d2a8b70000000026010b05"
+      },
+      "interactInfo": {
+        "sharedCount": "12",
+        "liked": false,
+        "likedCount": "16",
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "20"
+      },
+      "cover": {
+        "height": 1067,
+        "width": 773,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041940/041cf73cd11ac0a67cd826b75c594a05/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041940/f102c200ddcf3617fea8d5ce9af176e9/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1067,
+          "width": 773,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041940/041cf73cd11ac0a67cd826b75c594a05/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041940/f102c200ddcf3617fea8d5ce9af176e9/notes_pre_post/1040g3k031u8doulf2i005ouil2rpi2o5a3gm298!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "03-28"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABBjz0YSu9m64L00ak3Z8t-IFFXvriof0sOaYHDtedaco=",
+    "index": 17,
+    "exposed": false,
+    "trackId": "69c768eb000000001a035895"
+  }
+}

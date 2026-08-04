@@ -1,7 +1,7 @@
 {
   "note_id": "6889d4d1000000000303074d",
-  "url": "https://www.xiaohongshu.com/explore/6889d4d1000000000303074d?xsec_token=ABSZVJhm-oygyiqyRDCJMeG_SYHc1pDS2_AJ1TPcFP0GM=",
-  "fetched_at": 1785223048.3689003,
+  "url": "https://www.xiaohongshu.com/explore/6889d4d1000000000303074d?xsec_token=ABSZVJhm-oygyiqyRDCJMeG4EN4pR-tY1bfqohC-cZHaw=",
+  "fetched_at": 1785838358.482977,
   "course_codes": [],
   "chunks": [
     {
@@ -48,19 +48,19 @@
     },
     {
       "type": "comment",
-      "text": "博主工作是做开发吗？",
-      "sourceRef": "comment:688c203d000000002b023548",
-      "commentId": "688c203d000000002b023548",
-      "likes": 0,
-      "author": "肥皂"
-    },
-    {
-      "type": "comment",
       "text": "天 无意间刷到 十年学费涨了一倍啊…",
       "sourceRef": "comment:6897782e000000002a001b5b",
       "commentId": "6897782e000000002a001b5b",
       "likes": 0,
       "author": "iameating"
+    },
+    {
+      "type": "comment",
+      "text": "博主工作是做开发吗？",
+      "sourceRef": "comment:688c203d000000002b023548",
+      "commentId": "688c203d000000002b023548",
+      "likes": 0,
+      "author": "肥皂"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "courseCode": "CS5488",
   "fields": {
+    "difficulty": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "confirmed",
+      "sourceCount": 5,
+      "distinctSources": 2
+    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 2
-    },
-    "difficulty": {
-      "value": "hard",
-      "label": "较难",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "sourceCount": 4,
+      "distinctSources": 3
     },
     "grading": {
       "value": "unknown",
@@ -59,6 +59,15 @@
         "post_body"
       ],
       "postTitle": "CityU CS Master SemA"
+    },
+    {
+      "noteId": "66bb33d10000000025030553",
+      "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
+      "excerpt": "CS5488 Big Data Algorithms and Techniques；分数构成：assignment，project，midterm，final；教授幽默，有时候讲不完会飞速读ppt，这点体验一般；TA人很好。Assignment基于实验课内容，不难；midterm开卷题量极大难度不大，不太友好（不确定会不会改）；project是3-4人项目，可以在要求之内水一水；final难度一般，但需要对ppt理解比较到位，并且有很多实验课内容。；剩下的下一篇说",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课1"
     }
   ],
   "commentSources": [],

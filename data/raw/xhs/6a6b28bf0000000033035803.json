@@ -1,0 +1,176 @@
+{
+  "note_id": "6a6b28bf0000000033035803",
+  "url": "https://www.xiaohongshu.com/explore/6a6b28bf0000000033035803?xsec_token=AB18E15xyRqwCLne7RQOKEMabiZgSB4mUl7uvXsDnXEW0=",
+  "fetched_at": 1785843383.0898263,
+  "note": {
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMabiZgSB4mUl7uvXsDnXEW0=",
+    "ipLocation": "江苏",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a6b28bf0000000033035803",
+    "desc": "自我介绍，三个db项目\n这四个topic你有懂的吗，可以聊（没选）\n科研经历？其他项目？（无）\n学过os没有（做过xv6的lab）\n内存管理了解吗\n访问空指针会触发pagefault，讲一下os内部发生了什么（拷打细节，没答上来）\n计时结束，问英语，讲一下平时怎么vibecoding\n可以走了\n\t\n问我os一下子宕机了，准备了三个db项目都没有问\n\t\nxv6是很久之前做的，这个问题自己是可以回答的更好的，如果有os的经历还是要侧重os复习\n\t\n没有科研大概率问os，面试氛围很好，专家组提问也很有水平，心服口服\n\t\n机试，大背景是机器人移动，二维地图\n\t\nt1 签到 ，计算障碍物位置\nt2 bfs ，机器人走迷宫，要求字典序最短路径\nt3 大模拟 ，机器人推箱子，要求更新箱子位置，可以同时推两个，机器人可以是2*2大小的\nt4 多源最短路+拓扑+状压dp，旅行商问题换皮\n\t\n纯算法题，标准io流，无文件读写，无gui\n\t\n断网，信号屏蔽仪，u盘发题 交代码，7z压缩\n\t\n最后写了 1+1+0.9+0.9，后两个写的差不多了，没调试出样例，也就五十分了，面试也不咋样，不讲了\n\t\n要是有文献阅读环节就好了，可惜今年取消了，怀疑topic可以通过读实验室论文来速通，这样就有的聊了",
+    "user": {
+      "userId": "65e1aa4b000000000500b3ec",
+      "nickname": "看不懂3344096",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6985573b2ad2b5243b1d.jpg",
+      "xsecToken": "ABrLm1Y1KKG4RYoQLF-V80tQVRdDvOmToOErpzaTmN-eI="
+    },
+    "atUserList": [],
+    "time": 1785407679000,
+    "type": "normal",
+    "title": "",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "12",
+      "commentCount": "2",
+      "followed": false,
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "11",
+      "shareCount": "26",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/8de9ace41cf860794894b90f6b5a05cd/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/91c73589879033e34f5873d4d196ecaa/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nd_dft_wlteh_jpg_3",
+        "height": 1600,
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g0083238au5ft7k605pf1l95h9cvc2dmckco",
+        "width": 1200,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/8de9ace41cf860794894b90f6b5a05cd/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/91c73589879033e34f5873d4d196ecaa/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ]
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1785407679000
+  },
+  "comments": [
+    {
+      "content": "请问机试是c or cpp是嘛",
+      "atUsers": [],
+      "createTime": 1785591064000,
+      "ipLocation": "河南",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1785684883000,
+          "targetComment": {
+            "id": "6a6df518000000002b003911",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kde7m8iiol05o6rsm4086cuki73d00?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPy3aNb6CY5VBb9BbTrdR_PI0KmBseMHEIgEMg4_VxjQ=",
+              "userId": "60dbe588000000000100199e",
+              "nickname": "🎡"
+            }
+          },
+          "invalid": false,
+          "id": "6a6f63930000000029035eb4",
+          "noteId": "6a6b28bf0000000033035803",
+          "content": "不限语言",
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "山东",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABYRahUZJ20c5luGDb6g-cCqP1s3R6vgNwfzsLYVEn7fk=",
+            "userId": "65e1aa4b000000000500b3ec",
+            "nickname": "看不懂3344096",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6985573b2ad2b5243b1d.jpg?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "status": 0,
+      "subCommentCursor": "6a6f63930000000029035eb4",
+      "id": "6a6df518000000002b003911",
+      "liked": false,
+      "showTags": [],
+      "noteId": "6a6b28bf0000000033035803",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABPy3aNb6CY5VBb9BbTrdR_PI0KmBseMHEIgEMg4_VxjQ=",
+        "userId": "60dbe588000000000100199e",
+        "nickname": "🎡",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kde7m8iiol05o6rsm4086cuki73d00?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 评价",
+  "search_item": {
+    "id": "6a6b28bf0000000033035803",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/0c5fa49ce433996137f99b5de49ec2f1/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/494d3c4b9104fb01a411f86728306b7e/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041936/0c5fa49ce433996137f99b5de49ec2f1/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041936/494d3c4b9104fb01a411f86728306b7e/1040g0083238au5ft7k605pf1l95h9cvc2dmckco!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "5天前"
+        }
+      ],
+      "type": "normal",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6985573b2ad2b5243b1d.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "65e1aa4b000000000500b3ec",
+        "nickname": "看不懂3344096",
+        "xsecToken": "ABDUE-GfZl6RWYnA-8URmr83JnOcD20UT065gOIaaeLBw=",
+        "nickName": "看不懂3344096"
+      },
+      "interactInfo": {
+        "sharedCount": "26",
+        "liked": false,
+        "likedCount": "12",
+        "collected": false,
+        "collectedCount": "11",
+        "commentCount": "2"
+      }
+    },
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMabiZgSB4mUl7uvXsDnXEW0=",
+    "index": 17,
+    "exposed": false,
+    "trackId": "6a6b28bf0000000033035803"
+  }
+}

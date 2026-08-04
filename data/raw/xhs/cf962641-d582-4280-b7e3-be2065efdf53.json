@@ -1,0 +1,43 @@
+{
+  "note_id": "cf962641-d582-4280-b7e3-be2065efdf53",
+  "url": "https://www.xiaohongshu.com/explore/cf962641-d582-4280-b7e3-be2065efdf53?xsec_token=ABobmnMWM_CzJDgwrV2TlVB67GZIUpetZoKwPMR9_mGBHXNCcdaH5XBugWuDucTeYZn6VDzTQwFdoukXRg1ff7rSxgdfow1y8TEG-hG37ppR4=",
+  "fetched_at": 1785842624.853598,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS6175",
+  "search_item": {
+    "xsecToken": "ABobmnMWM_CzJDgwrV2TlVB67GZIUpetZoKwPMR9_mGBHXNCcdaH5XBugWuDucTeYZn6VDzTQwFdoukXRg1ff7rSxgdfow1y8TEG-hG37ppR4=",
+    "id": "cf962641-d582-4280-b7e3-be2065efdf53#1785842628501",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "cf962641-d582-4280-b7e3-be2065efdf53#1785842628501",
+      "queries": [
+        {
+          "id": "cityu cs6290课程内容",
+          "name": "cityu cs6290课程内容",
+          "searchWord": "cityu cs6290课程内容"
+        },
+        {
+          "id": "cityu adr lw6407补考",
+          "name": "cityu adr lw6407补考",
+          "searchWord": "cityu adr lw6407补考"
+        },
+        {
+          "id": "cityu ped1305测验",
+          "name": "cityu ped1305测验",
+          "searchWord": "cityu ped1305测验"
+        },
+        {
+          "searchWord": "cityu cs 5487课程评价",
+          "id": "cityu cs 5487课程评价",
+          "name": "cityu cs 5487课程评价"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "cf962641-d582-4280-b7e3-be2065efdf53#1785842628501"
+  }
+}

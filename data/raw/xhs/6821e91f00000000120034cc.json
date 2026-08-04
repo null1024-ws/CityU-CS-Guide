@@ -1,0 +1,442 @@
+{
+  "note_id": "6821e91f00000000120034cc",
+  "url": "https://www.xiaohongshu.com/explore/6821e91f00000000120034cc?xsec_token=AByqv20cS0cRsdrp2sPrbTpFgyJCtTxSOtBBqoHqIY5EI=",
+  "fetched_at": 1785842680.779504,
+  "note": {
+    "type": "normal",
+    "title": "香港城市大学 CS6493NLP 评测",
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "52",
+      "commentCount": "12",
+      "shareCount": "26",
+      "relation": "none",
+      "likedCount": "54",
+      "collected": false,
+      "followed": false,
+      "niceCount": ""
+    },
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "提前交完卷跑了，卷子有点坐牢。\n\t\n整体来说，nlp上课体验还是不错的，分数构成是40%期末和30%assigment以及30%project(如果我没记错的话)\n\t\n平时上课的话，也是2h lecture和1h tutorial，lecture讲讲nlp的各方面知识。\n\t\n从最开始的word embedding和一些基础模型RNN开始讲，然后逐渐深入到transformer和bert，gpt这些耳熟能详的模型。随后会讲述自然语言理解和自然语言生成这两大块，像是文本分类，qa，dialogue system这些经典应用，再接着就是探讨llm的一些知识，像是prompt工程，rag，GPU并行训练的一些处理等等知识。 tutorial会对本节涉及到的内容进行一些简单的尝试，并且会给出参考链接和一些论文。像是assigment难度中等，不过老师assigment的给分也接近满分，评完分后续还会给出解析。最后像是group project的话，几个选题都比较废力，当然收货也很多。\n\t\n说到这感觉可以聊一下期末，期末五道大题，概念解析题，计算题，代码题，然后还有两道应用(不确定该怎么叫，反正都是考后面的)?基础的概念分值占比较大，计算题两问，其中一道是assigment当中的，另一道是交叉熵计算，两道计算题都是经过简化，都很好算。其他的概念就是纯拼记忆了，代码题虽然感觉很简单，但考前没来得及看([捂脸R])，其他两道基本都不太会，随便写了写就提前交了。还是请下一届学弟学妹留出充足时间来复习，前后都很重要。\n\t\n总体来说内容很广而且密集，想学好还是得下一番功夫，对于我这个摆子来说能过就行，不得不说复习的时候内容是真多，下一届的学弟学妹如果想选，注意安排好时间。\n\t\n最后希望捞一把考试[哭惹R]\n\t\n#香港城市大学[话题]#\n#自然语言处理[话题]#",
+    "user": {
+      "xsecToken": "ABWLeAuJXqa0-DWthDXTjYWwHYgnyS8qCqCBD7Kv5ktQA=",
+      "userId": "627e901c000000002102978e",
+      "nickname": "Richett_L",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "height": 2503,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041924/cd2900c25184923a72ee4870aa3df118/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041924/77281bb5dafe4bb52bc5d1b5d207f6d8/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041924/cd2900c25184923a72ee4870aa3df118/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70",
+        "width": 2560,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041924/77281bb5dafe4bb52bc5d1b5d207f6d8/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "60eba91f00000000010001e4",
+        "name": "自然语言处理",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1747052831000,
+    "lastUpdateTime": 1747066568000,
+    "noteId": "6821e91f00000000120034cc",
+    "xsecToken": "AByqv20cS0cRsdrp2sPrbTpFgyJCtTxSOtBBqoHqIY5EI="
+  },
+  "comments": [
+    {
+      "noteId": "6821e91f00000000120034cc",
+      "content": "学长，这门课的project是几个人一组啊[皱眉R]",
+      "subCommentCursor": "6957a56000000000160218f7",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1767348556000,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "content": "8人左右来着?",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABT1OCqBa5LS1fg0norlrqhQIufThXZqAU6ArawUv_Wm8="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767351649000,
+          "ipLocation": "山西",
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "ABHnBtuJrYUkZxqVL_Y-eGomOIp2D2Mojo5FvnImTN5H8=",
+              "userId": "64da25f50000000001013b9e",
+              "nickname": "今晚喝椰椰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhjaekj6m5g5p6q4nqgaesuaa8daig?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "6957994b000000001601cbb2"
+          },
+          "id": "6957a56000000000160218f7",
+          "noteId": "6821e91f00000000120034cc",
+          "status": 0,
+          "atUsers": [],
+          "invalid": false
+        }
+      ],
+      "id": "6957994b000000001601cbb2",
+      "userInfo": {
+        "userId": "64da25f50000000001013b9e",
+        "nickname": "今晚喝椰椰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mhjaekj6m5g5p6q4nqgaesuaa8daig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHnBtuJrYUkZxqVL_Y-eGomOIp2D2Mojo5FvnImTN5H8="
+      },
+      "showTags": [],
+      "ipLocation": "广东",
+      "status": 0,
+      "liked": false,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6821ee1f000000000b014148",
+            "userInfo": {
+              "userId": "5e5b97aa00000000010083ee",
+              "nickname": "。。。",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60ce0a4cb5f70075e9ac7a31.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUN6uFWBcuE_shpOCurEFgztCJh_edUmA3A2l-SDvvaw="
+            }
+          },
+          "id": "6821ef650000000013011215",
+          "noteId": "6821e91f00000000120034cc",
+          "content": "毕竟是我们宋老师[喝奶茶R]",
+          "atUsers": [],
+          "liked": false,
+          "invalid": false,
+          "status": 0,
+          "likeCount": "1",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABT1OCqBa5LS1fg0norlrqhQIufThXZqAU6ArawUv_Wm8=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1747054438000
+        }
+      ],
+      "subCommentHasMore": false,
+      "liked": false,
+      "likeCount": "4",
+      "id": "6821ee1f000000000b014148",
+      "noteId": "6821e91f00000000120034cc",
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "6821ef650000000013011215",
+      "invalid": false,
+      "content": "宋老师还是放了水了，复习的时候快崩溃了，原本以为会特别难[笑哭R]",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "。。。",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60ce0a4cb5f70075e9ac7a31.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUN6uFWBcuE_shpOCurEFgztCJh_edUmA3A2l-SDvvaw=",
+        "userId": "5e5b97aa00000000010083ee"
+      },
+      "createTime": 1747054111000,
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "id": "6821ed6b0000000004018093",
+      "liked": false,
+      "userInfo": {
+        "userId": "5b2e6db611be10613486d313",
+        "nickname": "momo（见过王力宏3次版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u2658phmu5g4a6gv0mrdkojt01dpd8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFcjwv2EiR7NHI6-Fxtl26P2oG731cLNRejPTl-z9gzQ="
+      },
+      "createTime": 1747053931000,
+      "subCommentHasMore": false,
+      "noteId": "6821e91f00000000120034cc",
+      "content": "跟5489哪个难",
+      "subComments": [
+        {
+          "ipLocation": "中国香港",
+          "noteId": "6821e91f00000000120034cc",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABT1OCqBa5LS1fg0norlrqhQIufThXZqAU6ArawUv_Wm8=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L"
+          },
+          "targetComment": {
+            "id": "6821ed6b0000000004018093",
+            "userInfo": {
+              "xsecToken": "ABFcjwv2EiR7NHI6-Fxtl26P2oG731cLNRejPTl-z9gzQ=",
+              "userId": "5b2e6db611be10613486d313",
+              "nickname": "momo（见过王力宏3次版）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u2658phmu5g4a6gv0mrdkojt01dpd8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6821eda3000000000400f6e2",
+          "status": 0,
+          "content": "5489",
+          "liked": false,
+          "likeCount": "3",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1747053987000
+        }
+      ],
+      "invalid": false,
+      "subCommentCursor": "6821eda3000000000400f6e2",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "1",
+      "userInfo": {
+        "userId": "5f7816da000000000101ea19",
+        "nickname": "氙氢",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f7816da000000000101ea19.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBZpL5Y_DxGFsD2JwcI7rS1_3ykRgsGwK4AmL4Vw-sLs="
+      },
+      "subCommentCursor": "6a05732100000000290134c6",
+      "subCommentHasMore": false,
+      "content": "有无nlp复习资料[笑哭R]",
+      "atUsers": [],
+      "invalid": false,
+      "id": "6a056ebc000000002803ca96",
+      "noteId": "6821e91f00000000120034cc",
+      "showTags": [],
+      "subComments": [
+        {
+          "noteId": "6821e91f00000000120034cc",
+          "status": 0,
+          "content": "GitHub上有前半部分和ai聊的md文件，但我觉得不如你直接和现在gpt或Claude聊",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1778742050000,
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABT1OCqBa5LS1fg0norlrqhQIufThXZqAU6ArawUv_Wm8=",
+            "userId": "627e901c000000002102978e",
+            "nickname": "Richett_L",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a056ebc000000002803ca96",
+            "userInfo": {
+              "xsecToken": "ABBZpL5Y_DxGFsD2JwcI7rS1_3ykRgsGwK4AmL4Vw-sLs=",
+              "userId": "5f7816da000000000101ea19",
+              "nickname": "氙氢",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f7816da000000000101ea19.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a05732100000000290134c6"
+        }
+      ],
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1778740924000,
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "status": 0,
+      "createTime": 1747060389000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6821e91f00000000120034cc",
+      "content": "求过",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "id": "682206a5000000001301040f",
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "AB09l80gebl2Vnepn8Usu4pwoVG7iQAFUAo6MbNN8x5iM=",
+        "userId": "5dc6da37000000000100b5b3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "liked": false,
+      "likeCount": "0",
+      "noteId": "6821e91f00000000120034cc",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "6821fa69000000000b02d09b",
+      "status": 0,
+      "content": "求过[合十R]，我再也不想考闭卷了[失望R]",
+      "createTime": 1747057257000,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "userInfo": {
+        "userId": "5fcbb8e50000000001008913",
+        "nickname": "飞天大耳狗",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320of90ov5m005nubn3ig928j4q95iig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoQ_UHBUJqZdSBgzs142vcfOPu9UvsxAxNkV-lZ3UIak="
+      },
+      "subComments": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "希望成绩也放放水[哭惹R]",
+      "liked": false,
+      "userInfo": {
+        "nickname": "多喝热水",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5c99d0fc00000000120193dc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXgd4SGptVLG6UeoZgEkahJ8ptdA388wmxIbrbPgC-LE=",
+        "userId": "5c99d0fc00000000120193dc"
+      },
+      "subCommentHasMore": false,
+      "noteId": "6821e91f00000000120034cc",
+      "atUsers": [],
+      "createTime": 1747055448000,
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "ipLocation": "中国香港",
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "6821f35700000000130109e1",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS6175",
+  "search_item": {
+    "id": "6821e91f00000000120034cc",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "香港城市大学 CS6493NLP 评测",
+      "user": {
+        "xsecToken": "ABBXNyzStoDbA16C_xCtbLVKbTIuNnyksJx5Bakf1wYA8=",
+        "nickName": "Richett_L",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/80/format/jpg",
+        "userId": "627e901c000000002102978e",
+        "nickname": "Richett_L"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "52",
+        "commentCount": "12",
+        "sharedCount": "26",
+        "liked": false,
+        "likedCount": "54"
+      },
+      "cover": {
+        "height": 2503,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041924/7b85d67ac181faead5d1f53861d96517/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041924/1d026d24d217902e7ea8d64b9cd57568/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 2503,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041924/7b85d67ac181faead5d1f53861d96517/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041924/1d026d24d217902e7ea8d64b9cd57568/1040g00831hcp0olvjo6g5ojui0e8d5se9vl2i70!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-13"
+        }
+      ]
+    },
+    "xsecToken": "AByqv20cS0cRsdrp2sPrbTpFgyJCtTxSOtBBqoHqIY5EI=",
+    "index": 36,
+    "exposed": false,
+    "trackId": "6821e91f00000000120034cc"
+  }
+}

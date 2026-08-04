@@ -1,0 +1,413 @@
+{
+  "note_id": "69a6d64f000000001d0111a7",
+  "url": "https://www.xiaohongshu.com/explore/69a6d64f000000001d0111a7?xsec_token=ABWYZVUBNgzaXBeEYLQaCFBLF_wr1rJm0SHLZ-kiHjGx0=",
+  "fetched_at": 1785840883.7341852,
+  "note": {
+    "xsecToken": "ABWYZVUBNgzaXBeEYLQaCFBLF_wr1rJm0SHLZ-kiHjGx0=",
+    "noteId": "69a6d64f000000001d0111a7",
+    "type": "normal",
+    "title": "果然，我们水硕是不会挂科的",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0",
+      "xsecToken": "ABhpHdnd8jj06yYlpTggeVNTB5YS4K0BEc9a46FwG0N-Y=",
+      "userId": "6697a9a70000000003030068",
+      "nickname": "晗光向阳🌻"
+    },
+    "tagList": [
+      {
+        "id": "6004ed4f0000000001003486",
+        "name": "一年制硕士",
+        "type": "topic"
+      },
+      {
+        "name": "港硕",
+        "type": "topic",
+        "id": "609a5fee00000000010020ea"
+      },
+      {
+        "id": "5d1ea316000000000e026c68",
+        "name": "港城",
+        "type": "topic"
+      }
+    ],
+    "time": 1772541519000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "刚考完CS5491机器学习的期中考，不限纸质材料数量的开卷就已经很包容了，相比于发布的参考期中题，考试有一道大题的数据只是稍微改了一下，另一道大题则是一模一样的原题，直接照抄答案就可以拿满，老师真的有在尽力捞人了，大家放心读我们港硕是不会挂科的[doge]#一年制硕士[话题]# #港硕[话题]##港城[话题]#",
+    "interactInfo": {
+      "likedCount": "36",
+      "collected": false,
+      "collectedCount": "15",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "10",
+      "shareCount": "5",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "fileId": "note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug",
+        "height": 5712,
+        "width": 4284,
+        "url": "",
+        "traceId": "",
+        "stream": {
+          "EF4": [
+            {
+              "vmaf": -1,
+              "psnr": 0,
+              "ssim": 0,
+              "weight": 62,
+              "qualityType": "HD",
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/1/10/19/01e9a6d4bbc58047010050039cb3b54af9_19.mp4?sign=a51cd497842173def078a777ecf9f81f&t=6a766243",
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/1/10/19/01e9a6d4bbc58047010050039cb3b54af9_19.mp4"
+              ],
+              "hdrType": 0
+            }
+          ],
+          "EF6": [],
+          "EF5": [],
+          "EF7": []
+        },
+        "livePhoto": true,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041854/5a4e1c4104a1524207399a39dfdbea8b/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041854/220abfc858fcc16f978a22924cd05e64/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041854/5a4e1c4104a1524207399a39dfdbea8b/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041854/220abfc858fcc16f978a22924cd05e64/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1772541519000
+  },
+  "comments": [
+    {
+      "id": "69a83cc90000000009037cb5",
+      "content": "网上甚至有原题，数据都是一模一样的",
+      "showTags": [],
+      "subCommentCursor": "69b8f544000000000d03f32f",
+      "invalid": false,
+      "noteId": "69a6d64f000000001d0111a7",
+      "status": 0,
+      "userInfo": {
+        "userId": "60d6b8460000000001007cab",
+        "nickname": "npm-i",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEc8i6MmdrAup-8X0UBwELKuHu2dNV3T1zYDLhpw9rIE="
+      },
+      "createTime": 1772633290000,
+      "ipLocation": "中国香港",
+      "subCommentCount": "2",
+      "liked": false,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "69a83cc90000000009037cb5",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABEc8i6MmdrAup-8X0UBwELKuHu2dNV3T1zYDLhpw9rIE=",
+              "userId": "60d6b8460000000001007cab",
+              "nickname": "npm-i",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9l6r7f5m6g5o6mn1308v5bqruco3o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "noteId": "69a6d64f000000001d0111a7",
+          "status": 0,
+          "content": "现在要重考了[哭惹R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7dAScDVF6gEPikO-pnY1aQjRmuun1xpJiiUMqjDa6Mw=",
+            "userId": "6697a9a70000000003030068",
+            "nickname": "晗光向阳🌻"
+          },
+          "invalid": false,
+          "id": "69b8f544000000000d03f32f",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1773729093000,
+          "ipLocation": "中国香港"
+        }
+      ],
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69a6d64f000000001d0111a7",
+      "status": 0,
+      "content": "开个玩笑，不是所有课都这么宽松的，期末还是要好好学[捂脸R]另外英语要好好练，谁懂考场上看不懂专有词汇的无力感[笑哭R]",
+      "atUsers": [],
+      "createTime": 1772541613000,
+      "subComments": [
+        {
+          "id": "69b789f6000000000d03d4c1",
+          "status": 0,
+          "content": "是这样的，看不懂题目直接天塌了[哭惹R]",
+          "userInfo": {
+            "userId": "66928d7a0000000003033794",
+            "nickname": "被期中考试折磨者",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31thckmnqm8605pkihlt0udskt8v7bug?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABexzKzNkMBduQ46eBvHBNn17K2m0JjBx9GJJhzjNTb4k="
+          },
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "69a6d6ad000000000800fe4b",
+            "userInfo": {
+              "nickname": "晗光向阳🌻",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB7dAScDVF6gEPikO-pnY1aQjRmuun1xpJiiUMqjDa6Mw=",
+              "userId": "6697a9a70000000003030068"
+            }
+          },
+          "invalid": false,
+          "noteId": "69a6d64f000000001d0111a7",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1773636087000
+        }
+      ],
+      "subCommentCursor": "69b789f6000000000d03d4c1",
+      "id": "69a6d6ad000000000800fe4b",
+      "likeCount": "2",
+      "subCommentHasMore": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB7dAScDVF6gEPikO-pnY1aQjRmuun1xpJiiUMqjDa6Mw=",
+        "userId": "6697a9a70000000003030068",
+        "nickname": "晗光向阳🌻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "invalid": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABfdZBJRirAPxepes0n85hC2ojYrYTkgLbAsBr2WuhGkQ=",
+        "userId": "61ba1980000000001000ee42",
+        "nickname": "我是赵凡",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eggt9ligm005odq36041ri2fbgmh0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB7dAScDVF6gEPikO-pnY1aQjRmuun1xpJiiUMqjDa6Mw=",
+            "userId": "6697a9a70000000003030068",
+            "nickname": "晗光向阳🌻",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1773729050000,
+          "ipLocation": "中国香港",
+          "id": "69b8f51a0000000014008ccd",
+          "noteId": "69a6d64f000000001d0111a7",
+          "content": "懵了[笑哭R]",
+          "targetComment": {
+            "id": "69b8f191000000001803afb2",
+            "userInfo": {
+              "userId": "61ba1980000000001000ee42",
+              "nickname": "我是赵凡",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eggt9ligm005odq36041ri2fbgmh0o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfdZBJRirAPxepes0n85hC2ojYrYTkgLbAsBr2WuhGkQ="
+            }
+          }
+        }
+      ],
+      "status": 0,
+      "content": "不是说因为考题泄露，需要重新考试了吗？",
+      "showTags": [],
+      "subCommentCursor": "69b8f51a0000000014008ccd",
+      "invalid": false,
+      "id": "69b8f191000000001803afb2",
+      "noteId": "69a6d64f000000001d0111a7",
+      "likeCount": "2",
+      "createTime": 1773728145000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABSTL8VJqkMq7ixz0UqQ1XXqukuxORYtww2t9f-hj_1Wk=",
+        "userId": "646a34bb000000001f03042d",
+        "nickname": "Kimberlite",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uacj83v2s605p3a6itnu11d9hjlc0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "湖北",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "不是滴，有的开卷有的闭卷，来卷的程度也不一样，有的只让带一张a4",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "69b244430000000015001561",
+          "noteId": "69a6d64f000000001d0111a7",
+          "userInfo": {
+            "userId": "6697a9a70000000003030068",
+            "nickname": "晗光向阳🌻",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7dAScDVF6gEPikO-pnY1aQjRmuun1xpJiiUMqjDa6Mw="
+          },
+          "createTime": 1773290564000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "69b18205000000000c033edb",
+            "userInfo": {
+              "userId": "646a34bb000000001f03042d",
+              "nickname": "Kimberlite",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uacj83v2s605p3a6itnu11d9hjlc0o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABSTL8VJqkMq7ixz0UqQ1XXqukuxORYtww2t9f-hj_1Wk="
+            }
+          }
+        }
+      ],
+      "invalid": false,
+      "id": "69b18205000000000c033edb",
+      "liked": false,
+      "createTime": 1773240838000,
+      "subCommentCursor": "69b244430000000015001561",
+      "noteId": "69a6d64f000000001d0111a7",
+      "content": "港硕考试都是开卷嘛",
+      "subCommentCount": "1",
+      "status": 0,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "subCommentHasMore": false,
+      "liked": false,
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "id": "69bd3fbb000000000d03d4ef",
+      "noteId": "69a6d64f000000001d0111a7",
+      "createTime": 1774010299000,
+      "subCommentCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "subComments": [],
+      "invalid": false,
+      "content": "吓死我了我刚刷到还以为今天考的5281，我心想哪来的数据。",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABbo5HdoODdTJvYM4qml-LQonBgYgyXf_kLQVPdS6fVB0=",
+        "userId": "65f72577000000000b00cd4c",
+        "nickname": "a记似FamilyMart",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kvg84ni2o005pfn4lripjacv865e8o?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "港城 CS5348",
+  "search_item": {
+    "id": "69a6d64f000000001d0111a7",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "width": 4284,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041854/e42031dcc9d350447b3d70b85461d572/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041854/d1cc8e5fe26f40ae0c13eaaf32413bfe/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 5712
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "03-03"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "果然，我们水硕是不会挂科的",
+      "user": {
+        "nickName": "晗光向阳🌻",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31deahpoigs005pknl6jgu0389jg3mh0?imageView2/2/w/80/format/jpg",
+        "userId": "6697a9a70000000003030068",
+        "nickname": "晗光向阳🌻",
+        "xsecToken": "ABxc7iW291SqT7677a1VGTziUsdQQXNHPpl_t6_tRmb5U="
+      },
+      "interactInfo": {
+        "sharedCount": "5",
+        "liked": false,
+        "likedCount": "36",
+        "collected": false,
+        "collectedCount": "15",
+        "commentCount": "10"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041854/d1cc8e5fe26f40ae0c13eaaf32413bfe/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nc_n_webp_prv_1",
+        "height": 5712,
+        "width": 4284,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041854/e42031dcc9d350447b3d70b85461d572/note_pre_post_uhdr/1040g3r831t8jmq1l5k705pknl6jgu038bmguvug!nc_n_webp_mw_1"
+      }
+    },
+    "xsecToken": "ABWYZVUBNgzaXBeEYLQaCFBLF_wr1rJm0SHLZ-kiHjGx0=",
+    "index": 13,
+    "exposed": false,
+    "trackId": "69a6d64f000000001d0111a7"
+  }
+}

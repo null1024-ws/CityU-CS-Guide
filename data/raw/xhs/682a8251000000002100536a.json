@@ -1,0 +1,399 @@
+{
+  "note_id": "682a8251000000002100536a",
+  "url": "https://www.xiaohongshu.com/explore/682a8251000000002100536a?xsec_token=ABV6PtbqiqgDQNKz6zEyJmOiBuVTM4A-T0QIjhvkkZceQ=",
+  "fetched_at": 1785842860.3449605,
+  "note": {
+    "noteId": "682a8251000000002100536a",
+    "type": "normal",
+    "title": "",
+    "desc": "🚀 MMLongBench：首个长上下文视觉语言模型综合性评测基准！\n\t\n主页：https://zhaowei-wang-nlp.github.io/MMLongBench-page/\n论文地址：https://arxiv.org/abs/2505.10610\n代码：https://github.com/EdinburghNLP/MMLongBench\n数据集：https://huggingface.co/datasets/ZhaoweiWang/MMLongBench\n\t\n⭐️研究背景\n随着长上下文视觉语言模型（Long-Context Vision-Language Models; LCVLMs）的快速发展，模型单次输入已可处理数百张图像与文本的交错序列。然而，现有评测基准在任务多样性、图像类型覆盖度与输入长度标准化方面存在显著局限，难以系统评估模型真实长上下文能力。现有的数据集往往只测评了单个任务，例如NIAH或Long-Document VQA。\n\t\n⭐️核心创新\nMMLongBench作为首个综合性长上下文视觉语言评测基准，具备三大突破性设计：\n1️⃣ 覆盖5大任务类型，包含13,331个样本：Visual RAG、大海捞针（NIAH）、Many-Shot In-Context Learning、 Long-Document Summarization、Long-Document VQA\n2️⃣ 跨模态长度控制：使用image patch和text token来计算上下文长度，严格标准化8K/16K/32K/64K/128K输入长度\n3️⃣ 覆盖多种自然图像 (例如照片)和合成图像(例如生成的图片和PDF截图)\n\t\n⭐️关键发现\n通过对46个模型的系统性评测，我们揭示：\n🔹 单任务表现无法反映整体能力：模型在不同任务类型间存在显著性能波动\n🔹 长上下文对开源模型和闭源模型都是高难度挑战\n🔹 推理能力帮助上下文：具有强推理能力的模型在长上下文任务中表现更优",
+    "user": {
+      "nickname": "王昭为 James",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bikubrm0m605ok7l585arl2ivtdi70",
+      "xsecToken": "ABKfG_4AOVcNZ2AEuk7dhpgp6XdeeAoXy2doI3LSToePE=",
+      "userId": "6287a9500000000015016ea2"
+    },
+    "tagList": [],
+    "atUserList": [],
+    "time": 1747616337000,
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "28",
+      "collectedCount": "26",
+      "liked": false,
+      "collected": false,
+      "commentCount": "12",
+      "shareCount": "35",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "height": 1480,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/16622d507df567d65776a30f1f3b63a5/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/bf3398a796286fc47672459275975901/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/16622d507df567d65776a30f1f3b63a5/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/bf3398a796286fc47672459275975901/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698",
+        "width": 1880,
+        "url": "",
+        "traceId": "",
+        "stream": {}
+      },
+      {
+        "width": 1655,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/a4a7f93d53160d8aa354a350cc494bca/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/e4225890bcb691dfe1f7f00a3ca851dc/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/a4a7f93d53160d8aa354a350cc494bca/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/e4225890bcb691dfe1f7f00a3ca851dc/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0",
+        "height": 699
+      },
+      {
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "fileId": "spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo",
+        "height": 506,
+        "width": 1666,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/3e6b9f11731ffa69fa7db7f94cbc69f9/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/b7fb529339e6ade826c2ead53f1c921a/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/3e6b9f11731ffa69fa7db7f94cbc69f9/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/b7fb529339e6ade826c2ead53f1c921a/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nd_dft_wgth_jpg_3"
+      },
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/ddf41f9c5d622625b18fa648030d372c/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/193cd835111be4a408cfa188ddb32154/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/ddf41f9c5d622625b18fa648030d372c/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/193cd835111be4a408cfa188ddb32154/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o",
+        "height": 12000,
+        "width": 7200,
+        "traceId": "",
+        "livePhoto": false
+      }
+    ],
+    "lastUpdateTime": 1747690909000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABV6PtbqiqgDQNKz6zEyJmOiBuVTM4A-T0QIjhvkkZceQ="
+  },
+  "comments": [
+    {
+      "noteId": "682a8251000000002100536a",
+      "content": "数据集里evidence_pages超多错误，麻了已经",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABiuSDt7pEhufxg8THJFMzfMHu0AZos4EVGZNl308ykoc=",
+        "userId": "6428599b0000000012013926",
+        "nickname": "切线",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31irbva32140g5p18b6dkie96q2sgnig?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "682b0a88000000001c031adc",
+            "userInfo": {
+              "userId": "6428599b0000000012013926",
+              "nickname": "切线",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31irbva32140g5p18b6dkie96q2sgnig?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABiuSDt7pEhufxg8THJFMzfMHu0AZos4EVGZNl308ykoc="
+            }
+          },
+          "id": "682b0d550000000003037c94",
+          "status": 0,
+          "content": "我们没有对原本数据集的evidence page做修改，然后evidence page idx是从0开始的",
+          "liked": false,
+          "userInfo": {
+            "userId": "6287a9500000000015016ea2",
+            "nickname": "王昭为 James",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bikubrm0m605ok7l585arl2ivtdi70?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbNny8dxrxjQkNIUhrsjeA-CKEBMiziU3486Hq4ccimU="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1747651926000,
+          "invalid": false,
+          "noteId": "682a8251000000002100536a",
+          "atUsers": [],
+          "likeCount": "1",
+          "ipLocation": "英国"
+        }
+      ],
+      "id": "682b0a88000000001c031adc",
+      "ipLocation": "西班牙",
+      "subCommentHasMore": true,
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "liked": false,
+      "createTime": 1747651209000,
+      "subCommentCount": "7",
+      "subCommentCursor": "682b0d550000000003037c94",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "辽宁",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "682a8251000000002100536a",
+      "status": 3,
+      "atUsers": [],
+      "createTime": 1762371053000,
+      "subCommentCount": "1",
+      "content": "请问K4,K8,K16有什么区别",
+      "liked": false,
+      "userInfo": {
+        "nickname": "保研想要offer人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3223384be7k6g5q32lp1napqmt6o40hg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkyW5EP-J1Y5zjujOnhNR70KGIskJpKYdmIEkZmRlPr4=",
+        "userId": "6862ae43000000001d016756"
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6918a09e0000000038009b2b",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABbNny8dxrxjQkNIUhrsjeA-CKEBMiziU3486Hq4ccimU=",
+            "userId": "6287a9500000000015016ea2",
+            "nickname": "王昭为 James",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bikubrm0m605ok7l585arl2ivtdi70?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1763221663000,
+          "noteId": "682a8251000000002100536a",
+          "content": "这个是输入的长度，多少个token",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "河北",
+          "targetComment": {
+            "id": "690ba5ec000000003102c9e9",
+            "userInfo": {
+              "userId": "6862ae43000000001d016756",
+              "nickname": "保研想要offer人",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3223384be7k6g5q32lp1napqmt6o40hg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABkyW5EP-J1Y5zjujOnhNR70KGIskJpKYdmIEkZmRlPr4="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "id": "690ba5ec000000003102c9e9",
+      "likeCount": "0",
+      "subCommentCursor": "6918a09e0000000038009b2b",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "关注的两个博主梦幻联动了[哇R]",
+      "atUsers": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "noteId": "682a8251000000002100536a",
+      "subComments": [
+        {
+          "id": "682b0855000000000702977d",
+          "noteId": "682a8251000000002100536a",
+          "status": 0,
+          "content": "感谢关注🙏🏻",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bikubrm0m605ok7l585arl2ivtdi70?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbNny8dxrxjQkNIUhrsjeA-CKEBMiziU3486Hq4ccimU=",
+            "userId": "6287a9500000000015016ea2",
+            "nickname": "王昭为 James"
+          },
+          "createTime": 1747650646000,
+          "ipLocation": "英国",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "682ab674000000000b01dcad",
+            "userInfo": {
+              "userId": "6128e7ff000000000101f083",
+              "nickname": "吸瓜海绵(AI爆发沉迷思考版）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vfl281ilo505o98svvgbs4358kt670?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABO6wOSHSRT8kt58h6IBuroICDP0s9teQLYqA8SRp00PI="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "682b0855000000000702977d",
+      "invalid": false,
+      "createTime": 1747629684000,
+      "ipLocation": "四川",
+      "id": "682ab674000000000b01dcad",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6128e7ff000000000101f083",
+        "nickname": "吸瓜海绵(AI爆发沉迷思考版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vfl281ilo505o98svvgbs4358kt670?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABO6wOSHSRT8kt58h6IBuroICDP0s9teQLYqA8SRp00PI="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 Vision and Language",
+  "search_item": {
+    "id": "682a8251000000002100536a",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "28",
+        "collected": false,
+        "collectedCount": "26",
+        "commentCount": "12",
+        "sharedCount": "35"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/586ece012215dc76b1385a1696c55cb1/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/b00163ee64dc377a4d01c911c898e8f3/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nc_n_webp_prv_1",
+        "height": 1480,
+        "width": 1880
+      },
+      "imageList": [
+        {
+          "height": 1480,
+          "width": 1880,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/586ece012215dc76b1385a1696c55cb1/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/b00163ee64dc377a4d01c911c898e8f3/spectrum/1040g34o31hl6722m4q0g5ok7l585arl27ks3698!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/1603d040ddaa51fc9ee96d63201306b6/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/a87f0a3143fff6a07d346d4eaefe79b1/spectrum/1040g34o31hl65b5i342g5ok7l585arl2jqn5tc0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 699,
+          "width": 1655
+        },
+        {
+          "height": 506,
+          "width": 1666,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/c57faf7813cc618030b480df5b78a62f/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/25c833a71fe53295b20bf0f13b5277b8/spectrum/1040g34o31hl65b5i34205ok7l585arl2qpgfluo!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 12000,
+          "width": 7200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/d1fe62bebbb8d1c7e7abe878043fde8f/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/91f8df8fb6481823cd10148eadc91010/spectrum/1040g34o31hl65b5i341g5ok7l585arl2fu8ve1o!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-20"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "",
+      "user": {
+        "nickName": "王昭为 James",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bikubrm0m605ok7l585arl2ivtdi70?imageView2/2/w/80/format/jpg",
+        "userId": "6287a9500000000015016ea2",
+        "nickname": "王昭为 James",
+        "xsecToken": "AB4INxk-M3n7kzGuwDCtKVTlRDYp5Wf_Y33pYAbAZAj70="
+      }
+    },
+    "xsecToken": "ABV6PtbqiqgDQNKz6zEyJmOiBuVTM4A-T0QIjhvkkZceQ=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "682a8251000000002100536a"
+  }
+}

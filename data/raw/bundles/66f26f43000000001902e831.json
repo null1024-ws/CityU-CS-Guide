@@ -1,0 +1,26 @@
+{
+  "note_id": "66f26f43000000001902e831",
+  "url": "https://www.xiaohongshu.com/explore/66f26f43000000001902e831?xsec_token=ABIATTYDCsRpguCXPq1_s7uo-cYvf-RHddH80dMEiypvs=",
+  "fetched_at": 1785839048.3557916,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🌟【科研新篇】🌟",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#深度学习与神经网络[话题]# 在龚教授的悉心指导下，本人有幸在《Nuclear Science and Technique》期刊上发表了题为“Optimizing near-carbon-free nuclear energy systems: Advances in reactor operation digital twin through hybrid machine learning algorithms for parameter identification and state estimation”的研究论文。📚\n🔬 该研究使用了布谷鸟进化等算法辅助进行反问题搜索，解决了正问题代理模型不连续导致无法进行基于梯度的算法优化的问题。基于“华龙一号”数据搭建了反应堆运行数字孪生平台，部署了模型降阶、反问题参数优化和物理场重构等多个模块化程序。🌐\n📢 欢迎各位大佬前辈和朋辈们的关注与交流，让我们携手共创AI4Science的明天！\n#核反应堆[话题]# #清洁能源[话题]# #AI4Science[话题]# #上海交通大学[话题]# #中法卓越工程师[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下这个的审稿周期长不长",
+      "sourceRef": "comment:69a9a37f000000001501332e",
+      "commentId": "69a9a37f000000001501332e",
+      "likes": 0,
+      "author": "闲话少说"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "note_id": "68a5d917000000001c0354a9",
+  "url": "https://www.xiaohongshu.com/explore/68a5d917000000001c0354a9?xsec_token=AB7eI2wp7bvpfPc-ry6wXOV3v8DNoRaV7ENg4KFTW01Uw=",
+  "fetched_at": 1785838676.1439536,
+  "note": {
+    "xsecToken": "AB7eI2wp7bvpfPc-ry6wXOV3v8DNoRaV7ENg4KFTW01Uw=",
+    "noteId": "68a5d917000000001c0354a9",
+    "desc": "网上没有什么和这科有关的资源，在小红书也没有找到什么评价。我会微积分和线性代数、也有博弈论和拍卖理论的基础（会计算和证明一点结论），但没有接触过算法分析（对算法的认知停在CS3334的层次）。\n\t\n想选这科主要是不想投入太多精力背书和希望学些偏数学的东西，读五科的话这科是个好选择吗？[失望R]\n\t\n#香港城市大学[话题]# #港硕[话题]# #计算机[话题]# #CS[话题]#",
+    "user": {
+      "userId": "5fe7258e0000000001005db1",
+      "nickname": "Huh",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og",
+      "xsecToken": "ABo3TdpXij5ObM7k0ir0iJjFouUc-PydY_O9ZbFvRmvhY="
+    },
+    "interactInfo": {
+      "commentCount": "7",
+      "followed": false,
+      "collected": false,
+      "collectedCount": "7",
+      "shareCount": "1",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "8"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041818/4e1a322f30e7a46195d9a6093e087b88/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041818/0150f31748dfa1cc8735bddd6d91ca91/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041818/4e1a322f30e7a46195d9a6093e087b88/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041818/0150f31748dfa1cc8735bddd6d91ca91/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 2556,
+        "width": 1179,
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo",
+        "url": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "有上过CS6382的吗？",
+    "time": 1755699479000,
+    "lastUpdateTime": 1755699480000
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "userInfo": {
+        "userId": "60152849000000000101d462",
+        "nickname": "winterspring",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316tqq5cqgs0g5o0l514gbl32ingpdr8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuC-lCZAJnlKExj2ON_kHj9QMXDTtaarytWv9tZ3gzXI="
+      },
+      "ipLocation": "山东",
+      "id": "68a68db00000000030015c5b",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1755745713000,
+      "subCommentCount": "3",
+      "invalid": false,
+      "content": "前半部分讲算法，后半部分讲博弈论，作业证明题略难，像我这种笨笨的做作业折磨的要死[哭惹R]，考试有难题有简单题，想过挺容易的，老师讲课也不错，英文发音特别好听[偷笑R]但是就是挺折磨....学不懂",
+      "likeCount": "2",
+      "subComments": [
+        {
+          "likeCount": "3",
+          "userInfo": {
+            "userId": "5fe7258e0000000001005db1",
+            "nickname": "Huh",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-VGRmmRY4vQWgdTVcK9JM_8r8cBW8GRjWQMXUYAGePI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "68a5d917000000001c0354a9",
+          "status": 0,
+          "atUsers": [],
+          "createTime": 1755746686000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68a68db00000000030015c5b",
+            "userInfo": {
+              "userId": "60152849000000000101d462",
+              "nickname": "winterspring",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316tqq5cqgs0g5o0l514gbl32ingpdr8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuC-lCZAJnlKExj2ON_kHj9QMXDTtaarytWv9tZ3gzXI="
+            }
+          },
+          "id": "68a6917e0000000030015611",
+          "content": "是Minming吗？（城大可能也只有他能教这种东西了）最后什么grade呀[笑哭R]",
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "68a5d917000000001c0354a9",
+      "subCommentCursor": "68a6917e0000000030015611",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "68a7219b000000003000a00e",
+      "id": "68a71ce6000000003003081e",
+      "liked": false,
+      "userInfo": {
+        "userId": "5743be6284edcd6bdecee07f",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABS0-d-c2J4wBdlidKjB6CzpDwhEhdmCgzvwK_tbX77tM="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "noteId": "68a5d917000000001c0354a9",
+          "content": "我也是[笑哭R] Minming太强了，如果有他十分之一聪明我人生就𣈱通无阻了[笑哭R]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB-VGRmmRY4vQWgdTVcK9JM_8r8cBW8GRjWQMXUYAGePI=",
+            "userId": "5fe7258e0000000001005db1",
+            "nickname": "Huh",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1755783579000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "68a71ce6000000003003081e",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABS0-d-c2J4wBdlidKjB6CzpDwhEhdmCgzvwK_tbX77tM=",
+              "userId": "5743be6284edcd6bdecee07f",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "68a7219b000000003000a00e"
+        }
+      ],
+      "subCommentHasMore": false,
+      "noteId": "68a5d917000000001c0354a9",
+      "status": 0,
+      "content": "喜欢minming 想上minming的课[哭惹R]",
+      "atUsers": [],
+      "invalid": false,
+      "likeCount": "1",
+      "createTime": 1755782375000,
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "subCommentCount": "0",
+      "noteId": "68a5d917000000001c0354a9",
+      "status": 0,
+      "content": "蹲蹲",
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "id": "68a5e6ad000000002700858a",
+      "subComments": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "userInfo": {
+        "userId": "591fe4b650c4b407e09dd8ba",
+        "nickname": "Happy++",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vtpvfe82a0049grreibdm5qnqk0j0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiS5PTr3tGPCd7SPEGXbg8FHycWfRdA2Gycr_voG5cz0="
+      },
+      "showTags": [],
+      "createTime": 1755702957000,
+      "atUsers": [],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 选课",
+  "search_item": {
+    "xsecToken": "AB7eI2wp7bvpfPc-ry6wXOV3v8DNoRaV7ENg4KFTW01Uw=",
+    "id": "68a5d917000000001c0354a9",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-20"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "有上过CS6382的吗？",
+      "user": {
+        "nickName": "Huh",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i7u56aq6s005nv74m708ndhkhp88og?imageView2/2/w/80/format/jpg",
+        "userId": "5fe7258e0000000001005db1",
+        "nickname": "Huh",
+        "xsecToken": "ABEioZub6kmPZBAUUKjD4_18Kuz7oq61V9erkKRVSSF4A="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "7",
+        "sharedCount": "1",
+        "liked": false,
+        "likedCount": "8"
+      },
+      "cover": {
+        "height": 2556,
+        "width": 1179,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041818/0ac90a3b966e99714342cf94fa3a876c/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041818/ddfc1c40a3cb3305e9312e51783eacc7/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041818/0ac90a3b966e99714342cf94fa3a876c/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041818/ddfc1c40a3cb3305e9312e51783eacc7/notes_pre_post/1040g3k831ldkhk44ku705nv74m708ndh1ldk0eo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2556,
+          "width": 1179
+        }
+      ]
+    },
+    "index": 11,
+    "exposed": false,
+    "trackId": "68a5d917000000001c0354a9"
+  }
+}

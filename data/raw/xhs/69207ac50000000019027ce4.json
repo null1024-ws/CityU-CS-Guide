@@ -1,0 +1,543 @@
+{
+  "note_id": "69207ac50000000019027ce4",
+  "url": "https://www.xiaohongshu.com/explore/69207ac50000000019027ce4?xsec_token=ABJ1vXD2FHpsBHZ32nl_EN55p6Vl0OF5SDOsXaHh1f7zo=",
+  "fetched_at": 1785843266.2837567,
+  "note": {
+    "xsecToken": "ABJ1vXD2FHpsBHZ32nl_EN55p6Vl0OF5SDOsXaHh1f7zo=",
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo",
+        "height": 206,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041934/0d204bb68ff9a552693f69e0707facf0/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041934/2ab9d2618a7487887361d150984a2b0e/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041934/0d204bb68ff9a552693f69e0707facf0/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nd_prv_wgth_jpg_3",
+        "width": 516,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041934/2ab9d2618a7487887361d150984a2b0e/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "lastUpdateTime": 1763736261000,
+    "noteId": "69207ac50000000019027ce4",
+    "title": "FSE2026",
+    "desc": "这篇工作我自己还是比较满意的，只是后来时间比较紧，四五天写完的，表达可能差点，所以预期的分数是332。没想到出了个这么离谱的审稿人，能打1的都是1，请问我是得罪你了嘛？审稿人C 你翻我引用的评价指标的论文的limitation来攻击我，这篇论文1800+引用，请问你有一篇论文有1800引用嘛？审稿人C你说我没放提示词，我代码都开源给你啦，难道没有提示词嘛？审稿人C你comment写新方法解决了新问题，转手novelty给我打了1分。我是惹到你了嘛？#FSE2026[话题]# #软工[话题]#",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "2",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "32",
+      "commentCount": "20",
+      "shareCount": "13"
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "689ab40f00000000120182d9",
+        "name": "FSE2026"
+      },
+      {
+        "type": "topic",
+        "id": "5e1f54bd000000000100042b",
+        "name": "软工"
+      }
+    ],
+    "atUserList": [],
+    "time": 1763736261000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg",
+      "xsecToken": "ABMXc1UH7bPidQESj_6gL3ucx7rylY81gYp1sHjHHza9E=",
+      "userId": "5f43ef1d00000000010015a8",
+      "nickname": "zanejins"
+    }
+  },
+  "comments": [
+    {
+      "userInfo": {
+        "userId": "5e9655ea00000000010047f3",
+        "nickname": "gogo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31llbkjs9le605nkmanl08hvjoprjom8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABO59191nS6tORW_BTIZ_q3zS5Un1lI93AI-xWai7zZMM="
+      },
+      "subComments": [
+        {
+          "userInfo": {
+            "xsecToken": "ABZtGGxj_LIMnh1EeSmFPEWs-TmUeaVj6w7AOv8BouV5Q=",
+            "userId": "5dbd9df50000000001009687",
+            "nickname": "🐟🌙🌙",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tahcogc44005ndtjnqg95k7l3i19rg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false,
+          "id": "69208cfe000000001600e8b4",
+          "status": 0,
+          "content": "我也431 感觉努努力拿个major",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1763740926000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "69208a340000000038010443",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31llbkjs9le605nkmanl08hvjoprjom8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABO59191nS6tORW_BTIZ_q3zS5Un1lI93AI-xWai7zZMM=",
+              "userId": "5e9655ea00000000010047f3",
+              "nickname": "gogo"
+            }
+          },
+          "noteId": "69207ac50000000019027ce4",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "noteId": "69207ac50000000019027ce4",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1763740213000,
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "id": "69208a340000000038010443",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "湖南",
+      "subCommentCursor": "69208cfe000000001600e8b4",
+      "invalid": false,
+      "content": "3，4，1感觉有机会吗hh",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "322有机会吗[笑哭R]",
+      "userInfo": {
+        "userId": "6552eacd0000000002034201",
+        "nickname": "夭夭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rfpus9qhg6g5paitb6gmgg1r875q28?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABRWeqqrYAmtf2rAmuMYwhxv_Jha0dIizY0PzcVbgNHk0="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "showTags": [],
+          "createTime": 1763799087000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "6552eacd0000000002034201",
+              "nickname": "夭夭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rfpus9qhg6g5paitb6gmgg1r875q28?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRWeqqrYAmtf2rAmuMYwhxv_Jha0dIizY0PzcVbgNHk0="
+            },
+            "id": "6920a48c000000001403dcd1"
+          },
+          "noteId": "69207ac50000000019027ce4",
+          "liked": false,
+          "likeCount": "1",
+          "ipLocation": "北京",
+          "invalid": false,
+          "id": "6921702f00000000310303bf",
+          "status": 0,
+          "content": "同322",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "61a3775f0000000010008167",
+            "nickname": "乌鸦说情话",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v39pc85l6505od3etfk10b7n79cob8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABmG2NnAJaVf-oMgfk8UP9dkTl5foFIlCs7k1uTxSZ7Co="
+          }
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "ipLocation": "浙江",
+      "subCommentCount": "1",
+      "noteId": "69207ac50000000019027ce4",
+      "atUsers": [],
+      "createTime": 1763746956000,
+      "liked": false,
+      "likeCount": "1",
+      "subCommentCursor": "6921702f00000000310303bf",
+      "subCommentHasMore": false,
+      "id": "6920a48c000000001403dcd1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69207fd70000000038025934",
+      "noteId": "69207ac50000000019027ce4",
+      "status": 0,
+      "content": "[汗颜R]同分同reviewer c，小分都很像……改改投期刊了",
+      "userInfo": {
+        "userId": "5f9d2a580000000001009e14",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ontmah26m005nst59c097gk53d6hqg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABf1Pb3cPY_yHy2BYlEIODyYt9F8aSoSQeFAA6E98ZWAA="
+      },
+      "ipLocation": "山西",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "69207fd70000000038025934",
+            "userInfo": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ontmah26m005nst59c097gk53d6hqg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABf1Pb3cPY_yHy2BYlEIODyYt9F8aSoSQeFAA6E98ZWAA=",
+              "userId": "5f9d2a580000000001009e14"
+            }
+          },
+          "invalid": false,
+          "id": "69208894000000001602225b",
+          "noteId": "69207ac50000000019027ce4",
+          "content": "reviewer c 的一致性[笑哭R]",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1763739797000,
+          "ipLocation": "北京",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "我爱挑食",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d416a5cb346d00001cc10c0.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABOckB-wy-BqkbRCHQdC5_hTO68iW8OQUnkiWAZh9DwEc=",
+            "userId": "5d416a2a0000000011035bd3"
+          },
+          "showTags": []
+        }
+      ],
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1763737559000,
+      "subCommentCursor": "69208894000000001602225b",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "",
+      "noteId": "69207ac50000000019027ce4",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1766407780000,
+      "content": "我的给了个major，这种改完接受率怎么样",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABf1Pb3cPY_yHy2BYlEIODyYt9F8aSoSQeFAA6E98ZWAA=",
+        "userId": "5f9d2a580000000001009e14",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ontmah26m005nst59c097gk53d6hqg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "山西",
+      "invalid": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "69493e640000000039003359",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "692085050000000016022b54",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABIXysO33-w7FKzFEjzztEP6JKfTy_FCAucDj15kgjfEc=",
+        "userId": "63cef669000000002702a61a",
+        "nickname": "小红薯6A371741",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "6920a286000000001502dc5b",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69207ac50000000019027ce4",
+      "content": "我的是2 2 1。那个1真的狠啊，reviewer experience 4, soundness 2, presentation 1, novelty 1. 另外俩reviewer presentation 都给了3 [微笑R]",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1763738885000,
+      "ipLocation": "加拿大",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q0n9ddv72605nt68dv08nnv8pubed0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbdCScrtSJTpO64hYOVoWVECZhAOBjQ1gnaeJFsOHnZI=",
+            "userId": "5fa6437e0000000001005eff",
+            "nickname": "Cucool"
+          },
+          "targetComment": {
+            "id": "692085050000000016022b54",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABIXysO33-w7FKzFEjzztEP6JKfTy_FCAucDj15kgjfEc=",
+              "userId": "63cef669000000002702a61a",
+              "nickname": "小红薯6A371741",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "69207ac50000000019027ce4",
+          "content": "同221，被1喷得体无完肤[捂脸R]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "createTime": 1763746438000,
+          "ipLocation": "广东",
+          "id": "6920a286000000001502dc5b"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69207ac50000000019027ce4",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1763782673000,
+      "ipLocation": "新加坡",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "userInfo": {
+              "userId": "65c0e30b00000000110194d0",
+              "nickname": "日常咕咕会被烤了吃吗",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tgbi12dm2005pe0sc5kb56g0bhlnf8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB-AChAa4BbzukFFUfxTk-y0WWHzqP3YFzmR8qpEIk69I="
+            },
+            "id": "69213011000000003803f5dc"
+          },
+          "content": "甚至文章里放了部分示例，被说没放全[笑哭R]",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tgbi12dm2005pe0sc5kb56g0bhlnf8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-AChAa4BbzukFFUfxTk-y0WWHzqP3YFzmR8qpEIk69I=",
+            "userId": "65c0e30b00000000110194d0",
+            "nickname": "日常咕咕会被烤了吃吗"
+          },
+          "showTags": [],
+          "createTime": 1763782721000,
+          "invalid": false,
+          "id": "692130400000000039004888",
+          "noteId": "69207ac50000000019027ce4",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "692130400000000039004888",
+      "subCommentHasMore": false,
+      "id": "69213011000000003803f5dc",
+      "liked": false,
+      "userInfo": {
+        "userId": "65c0e30b00000000110194d0",
+        "nickname": "日常咕咕会被烤了吃吗",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tgbi12dm2005pe0sc5kb56g0bhlnf8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-AChAa4BbzukFFUfxTk-y0WWHzqP3YFzmR8qpEIk69I="
+      },
+      "likeCount": "1",
+      "invalid": false,
+      "content": "提示词我也哈哈哈哈",
+      "atUsers": [],
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB0qjeohL9_SzJa0zA0CqPjQzrpFj-0898n_m2tbCo9rk=",
+        "userId": "5b11f5bb11be1062ade1242a",
+        "nickname": "呱呱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q05hl4mn4004a5rrnqrm91at4olueg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1764032787000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "哎，222，累了",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "日本",
+      "id": "69250112000000003102eae1",
+      "status": 0,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "69207ac50000000019027ce4",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "ipLocation": "安徽",
+      "subCommentCursor": "",
+      "content": "差点以为看到自己的分了",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "60c37e20000000000101c66b",
+        "nickname": "枫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62f38b20dcde66321b1074cd.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdNyMqN3SEbiOLsRmiNmnvimvzUqQbgl-WImxqFZsUjo="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69209ca2000000001d01fae3",
+      "status": 0,
+      "liked": false,
+      "createTime": 1763744931000,
+      "subComments": [],
+      "noteId": "69207ac50000000019027ce4",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "noteId": "69207ac50000000019027ce4",
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "6920a6780000000014034a7a",
+      "userInfo": {
+        "userId": "6543862f000000000200ccdf",
+        "nickname": "IFELSE",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30rrei8np2i605pa3gonghj6v6b54teo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCjcT_POrtGIjO5G2Z1mEFXbya_qL21Ups-8seJujjOY="
+      },
+      "ipLocation": "湖北",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "content": "所以这里的人都是要rebuttal的吗[偷笑R]",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1763747448000,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6920e166000000001601e6d0",
+      "noteId": "69207ac50000000019027ce4",
+      "status": 0,
+      "createTime": 1763762534000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6208c3430000000010009a54",
+        "nickname": "Lz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n9t0k1pmm705og8od1k16ikpjoirm0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIGaq5P7m-dx5pSpQx7sSzKfvL3JmVe-UXEarnYN7Ae4="
+      },
+      "ipLocation": "美国",
+      "content": "332有机会吗？",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 给分",
+  "search_item": {
+    "id": "69207ac50000000019027ce4",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "20",
+        "sharedCount": "13",
+        "liked": false,
+        "likedCount": "32"
+      },
+      "cover": {
+        "height": 206,
+        "width": 516,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041933/a02c88026ddb937c4864a76b9c00aeb1/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041933/fc667cd714529718489b29d886132092/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 516,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041933/a02c88026ddb937c4864a76b9c00aeb1/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041933/fc667cd714529718489b29d886132092/notes_pre_post/1040g3k831p5d1o5s2u705nq3tseg85d8fuse8vo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 206
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-11-21"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "FSE2026",
+      "user": {
+        "nickname": "zanejins",
+        "xsecToken": "ABdALzXijVthnuWhJ3HbJrEeFh8eLm1dSgp0Tnu4hBJSw=",
+        "nickName": "zanejins",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5f43ef1d00000000010015a8"
+      }
+    },
+    "xsecToken": "ABJ1vXD2FHpsBHZ32nl_EN55p6Vl0OF5SDOsXaHh1f7zo=",
+    "index": 22,
+    "exposed": false,
+    "trackId": "69207ac50000000019027ce4"
+  }
+}

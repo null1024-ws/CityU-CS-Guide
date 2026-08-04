@@ -1,0 +1,668 @@
+{
+  "note_id": "6a215756000000003701e076",
+  "url": "https://www.xiaohongshu.com/explore/6a215756000000003701e076?xsec_token=ABP4GEfDE9SOlr3546H-UyQvOjvJoXPQu7QswFJXMFyps=",
+  "fetched_at": 1785839183.7535052,
+  "note": {
+    "xsecToken": "ABP4GEfDE9SOlr3546H-UyQvOjvJoXPQu7QswFJXMFyps=",
+    "type": "normal",
+    "title": "不用单独用联网MCP了！",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "81",
+      "collected": false,
+      "shareCount": "20",
+      "followed": false,
+      "niceCount": "",
+      "collectedCount": "81",
+      "commentCount": "35",
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "659b7e93000000003f03efb1",
+        "name": "deepseek",
+        "type": "topic"
+      },
+      {
+        "id": "6198f6380000000001002175",
+        "name": "claude",
+        "type": "topic"
+      },
+      {
+        "id": "640a7a7f000000001803883d",
+        "name": "mcp",
+        "type": "topic"
+      },
+      {
+        "id": "6368c0830000000001006d3a",
+        "name": "智能体",
+        "type": "topic"
+      }
+    ],
+    "time": 1780569942000,
+    "lastUpdateTime": 1780569942000,
+    "noteId": "6a215756000000003701e076",
+    "desc": "有空仔细看了一下Deepseek的API文档，里面直接说了支持Claude code的web search功能，如图2。\n\t\n那么说直接用就不需要额外配置一个联网的MCP了！[点赞R]\n\t\n#deepseek[话题]# #claude[话题]# #mcp[话题]# #智能体[话题]#",
+    "user": {
+      "userId": "6061c9d6000000000101fd94",
+      "nickname": "技术FUN",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg",
+      "xsecToken": "ABsO1kInH0lyGy9x-lShiEHVTWzJdAs3GqZZDrkfHx4WA="
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00832107thqlnu0g5o31p7b0bvck96bq2eg",
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/83e0cc2958e020b5b71a3e2637c10a67/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/5a411d9b9afc51f45eca321ffcad9f7c/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041826/5a411d9b9afc51f45eca321ffcad9f7c/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1600,
+        "width": 1200,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041826/83e0cc2958e020b5b71a3e2637c10a67/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nd_prv_wlteh_jpg_3"
+      },
+      {
+        "fileId": "1040g00832107thqlnu005o31p7b0bvck1hebkj0",
+        "width": 887,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/d67514d5cb095791cbdf93368dc0ebff/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/3b2dc35914690e02bbfe6a38ea935c33/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041826/d67514d5cb095791cbdf93368dc0ebff/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1920,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041826/3b2dc35914690e02bbfe6a38ea935c33/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "noteId": "6a215756000000003701e076",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "id": "6a26540a000000002803b900",
+      "liked": false,
+      "ipLocation": "上海",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 4,
+      "createTime": 1780896779000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "content": "目前只支持Anthropic api的格式。\n\n抓包看是通过server_tool_use服务端执行搜索，搜索结果放在web_search_tool_result里直接返回了[doge]",
+      "userInfo": {
+        "xsecToken": "ABmcbFG2wTWDS85gVCQ9GhxartY7KYBVm_mKAMEOxWl8Q=",
+        "userId": "6061c9d6000000000101fd94",
+        "nickname": "技术FUN",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5d3e610c000000001100f76d",
+        "nickname": "tao",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d3e610c000000001100f76d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABT1wo0mJYzrRxpKFXS4eDYp0CgDhwTGvA8NR8rgwqkBU="
+      },
+      "subCommentHasMore": true,
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "3",
+      "invalid": false,
+      "subComments": [
+        {
+          "id": "6a216a350000000028035e1a",
+          "status": 0,
+          "content": "就是Deepseek的，接了API就可以直接用，费用就是token数，没其他的[doge]",
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABmcbFG2wTWDS85gVCQ9GhxartY7KYBVm_mKAMEOxWl8Q=",
+            "userId": "6061c9d6000000000101fd94",
+            "nickname": "技术FUN",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a2157ea000000002702b3c4",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d3e610c000000001100f76d.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABT1wo0mJYzrRxpKFXS4eDYp0CgDhwTGvA8NR8rgwqkBU=",
+              "userId": "5d3e610c000000001100f76d",
+              "nickname": "tao"
+            }
+          },
+          "invalid": false,
+          "noteId": "6a215756000000003701e076",
+          "atUsers": [],
+          "likeCount": "8",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1780574774000
+        }
+      ],
+      "content": "怎么做的？费用怎么算，谁家的服务？",
+      "atUsers": [],
+      "createTime": 1780570091000,
+      "ipLocation": "广东",
+      "subCommentCursor": "6a216a350000000028035e1a",
+      "id": "6a2157ea000000002702b3c4",
+      "noteId": "6a215756000000003701e076",
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "subComments": [
+        {
+          "content": "MIMO 贵得离谱，25 元 1000",
+          "liked": false,
+          "likeCount": "1",
+          "invalid": false,
+          "noteId": "6a215756000000003701e076",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5b3dd16911be106df53a5e1f",
+            "nickname": "huoxuebin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64631756515beab3c705dbb7.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABNrgvEjfkEL_jwuaIGpVaibJI4s2wO2OlR-M4DarTgOs="
+          },
+          "showTags": [],
+          "createTime": 1781000688000,
+          "ipLocation": "河北",
+          "targetComment": {
+            "id": "6a27c19e000000002903743d",
+            "userInfo": {
+              "userId": "5e5b5dd500000000010047d3",
+              "nickname": "zhuzhu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3211r580fnu605nirbnag8hujbgf3e4g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUN6uFWBcuE_shpOCurEFg145NmuS7HFwgqaXUQ43DTI="
+            }
+          },
+          "id": "6a27e9f0000000002902c340"
+        }
+      ],
+      "subCommentCursor": "6a27e9f0000000002902c340",
+      "id": "6a27c19e000000002903743d",
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "liked": false,
+      "userInfo": {
+        "nickname": "zhuzhu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3211r580fnu605nirbnag8hujbgf3e4g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUN6uFWBcuE_shpOCurEFg145NmuS7HFwgqaXUQ43DTI=",
+        "userId": "5e5b5dd500000000010047d3"
+      },
+      "createTime": 1780990367000,
+      "noteId": "6a215756000000003701e076",
+      "content": "mimo也行，而且也能fetch",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a215756000000003701e076",
+      "content": "web search和web fetch不是agent自己提供的吗",
+      "createTime": 1780595797000,
+      "liked": false,
+      "likeCount": "2",
+      "ipLocation": "北京",
+      "subCommentCount": "3",
+      "id": "6a21bc55000000002b001ffa",
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "6a222177000000002803185b",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "634000ce000000001802f40e",
+        "nickname": "violet_",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nci6g5d6m6g5oq003765t0enqnvhng?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnSYxnF2-tE2SfhteW5QLBWGJoPD61Ey0hAUE7y4C08w="
+      },
+      "subComments": [
+        {
+          "id": "6a222177000000002803185b",
+          "noteId": "6a215756000000003701e076",
+          "status": 0,
+          "content": "有云端工具调用[doge]cc 默认就是用云端的，之前没有的时候搜索返回都是空的[捂脸R]",
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABElcjUW8CSqjjIbmxQREPfRur8pF9C0VOPC9d4jnUCcw=",
+            "userId": "67a99ab5000000000e01297f",
+            "nickname": "Neko Hz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ergub17ma6g5pt9jaqjiabv15vot7g?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "6a21bc55000000002b001ffa",
+            "userInfo": {
+              "userId": "634000ce000000001802f40e",
+              "nickname": "violet_",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nci6g5d6m6g5oq003765t0enqnvhng?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABnSYxnF2-tE2SfhteW5QLBWGJoPD61Ey0hAUE7y4C08w="
+            }
+          },
+          "liked": false,
+          "likeCount": "13",
+          "createTime": 1780621688000,
+          "ipLocation": "浙江",
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6a25983300000000270148bc",
+      "noteId": "6a215756000000003701e076",
+      "likeCount": "3",
+      "ipLocation": "江苏",
+      "subCommentCount": "1",
+      "content": "其实加个Tavily还是更好使一点",
+      "createTime": 1780643394000,
+      "invalid": false,
+      "id": "6a227641000000002b003bd4",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABCnScyKijwUzDvOw1qQf_P9Mv3NcrFor92Dk58Z8hhY4=",
+        "userId": "6117b1de00000000010044e1",
+        "nickname": "狗狗猫猫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lnd2g82ledg5o8nm7f08h715ueg8g8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "id": "6a25983300000000270148bc",
+          "noteId": "6a215756000000003701e076",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "59a552bc6a6a695d62171456",
+            "nickname": "wen",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322d91m9pmu0049oupn9bo52map38qf8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB5FfidiWSiKR5u43AW-tY9MOsxh_R-UEcJB7HoIh6QJs="
+          },
+          "showTags": [],
+          "content": "@bao",
+          "atUsers": [
+            {
+              "userId": "5f2eb600000000000100462a",
+              "nickname": "bao",
+              "aiAgent": false,
+              "xsecToken": "ABy5-VpUIHywYKrxI3PtBtUeHJOe8yHRSNvAr_8wFMrnY="
+            }
+          ],
+          "likeCount": "0",
+          "createTime": 1780848692000,
+          "ipLocation": "福建",
+          "targetComment": {
+            "id": "6a227641000000002b003bd4",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABCnScyKijwUzDvOw1qQf_P9Mv3NcrFor92Dk58Z8hhY4=",
+              "userId": "6117b1de00000000010044e1",
+              "nickname": "狗狗猫猫",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lnd2g82ledg5o8nm7f08h715ueg8g8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a21613d000000002a004ebc",
+      "userInfo": {
+        "xsecToken": "AB4m48ZDNHpcQOE0xKMRaDWdzSFkRcpvQbbFtChr_m2jU=",
+        "userId": "64537322000000001203587f",
+        "nickname": "八彩夜",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tdml1li5k6g5p2jech4mm3vtoln9n0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "2",
+      "subCommentCursor": "6a216ae90000000029012339",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6a215756000000003701e076",
+      "content": "不支持的是fetch吧[笑哭R]",
+      "atUsers": [],
+      "likeCount": "3",
+      "subComments": [
+        {
+          "id": "6a216ae90000000029012339",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABmcbFG2wTWDS85gVCQ9GhxartY7KYBVm_mKAMEOxWl8Q=",
+            "userId": "6061c9d6000000000101fd94",
+            "nickname": "技术FUN",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a21613d000000002a004ebc",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB4m48ZDNHpcQOE0xKMRaDWdzSFkRcpvQbbFtChr_m2jU=",
+              "userId": "64537322000000001203587f",
+              "nickname": "八彩夜",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tdml1li5k6g5p2jech4mm3vtoln9n0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "6a215756000000003701e076",
+          "content": "嗯，不过我都是写在规则里，要fetch的URL让它用playwright打开浏览器访问，不容易被拦截[doge]",
+          "atUsers": [],
+          "likeCount": "6",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1780574953000
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "湖北",
+      "liked": false,
+      "createTime": 1780572477000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a26052e000000002900ffee",
+      "atUsers": [],
+      "subComments": [
+        {
+          "status": 0,
+          "content": "这个应该是它们把fetch拦截了，还有必要的JS没有执行。本质fetch就是代码里直接发请求，也执行不了JS，现在都用JS实时渲染数据，直接请求基本拿不到数据。",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1780899751000,
+          "ipLocation": "上海",
+          "id": "6a265fa600000000290123ea",
+          "noteId": "6a215756000000003701e076",
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "xsecToken": "ABmcbFG2wTWDS85gVCQ9GhxartY7KYBVm_mKAMEOxWl8Q=",
+            "userId": "6061c9d6000000000101fd94",
+            "nickname": "技术FUN",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "6a26052e000000002900ffee",
+            "userInfo": {
+              "nickname": "ZhuoL",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uu6v4282i6g5p6913mjkmkfa2j6qfg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6jhUb0zN7nsBBg5gmfXqfUTFmHlUMN_Ns1QrawfvUwA=",
+              "userId": "64c908ed000000000e025a8f"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "createTime": 1780876590000,
+      "noteId": "6a215756000000003701e076",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "福建",
+      "subCommentCount": "1",
+      "subCommentCursor": "6a265fa600000000290123ea",
+      "status": 0,
+      "content": "不过有个问题，好像大部分境内域名claudecode都不会检索。。我让它去找微博知乎帖子它找不到",
+      "userInfo": {
+        "userId": "64c908ed000000000e025a8f",
+        "nickname": "ZhuoL",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uu6v4282i6g5p6913mjkmkfa2j6qfg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6jhUb0zN7nsBBg5gmfXqfUTFmHlUMN_Ns1QrawfvUwA="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1780579743000,
+      "subCommentCount": "0",
+      "id": "6a217d9e000000002203e4d0",
+      "status": 0,
+      "content": "是的。换到mimo才发现ds的好，mimo想搜索还得配置mcp，麻烦",
+      "ipLocation": "重庆",
+      "noteId": "6a215756000000003701e076",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "4",
+      "userInfo": {
+        "userId": "63045261000000001200fe43",
+        "nickname": "宇鹏-企业AI落地",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uqo1vme2a6g5oo4a9gkhvi394je338?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjLkK-1iJrQc5UP7nx-3S3yBhtNuRG9zp6YBZ4QMoUFc="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jjbg86i340g5pgjlmehoo4lsgpvuno?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6dyn6ILnLbYJu9_l9gDRuMIzXZ7sKYs51yGkYMzTVtc=",
+        "userId": "6613ad9d0000000007006095",
+        "nickname": "西城科技小子"
+      },
+      "showTags": [],
+      "noteId": "6a215756000000003701e076",
+      "createTime": 1780574178000,
+      "ipLocation": "北京",
+      "status": 0,
+      "content": "确实 不过如果需要的话exa也不错",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCursor": "6a216b57000000002900e6eb",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a2167e10000000029013076",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "6a216b57000000002900e6eb",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "6061c9d6000000000101fd94",
+            "nickname": "技术FUN",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABmcbFG2wTWDS85gVCQ9GhxartY7KYBVm_mKAMEOxWl8Q="
+          },
+          "createTime": 1780575063000,
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a2167e10000000029013076",
+            "userInfo": {
+              "userId": "6613ad9d0000000007006095",
+              "nickname": "西城科技小子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jjbg86i340g5pgjlmehoo4lsgpvuno?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6dyn6ILnLbYJu9_l9gDRuMIzXZ7sKYs51yGkYMzTVtc="
+            }
+          },
+          "noteId": "6a215756000000003701e076",
+          "status": 0,
+          "content": "嗯，这个免费的次数有点少，不够用。我之前用阿里的，给每月2000免费次数",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "id": "6a22c1c5000000002701e9f4",
+      "content": "有幻觉",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1780662726000,
+      "subCommentCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cupln1d1200415h0mg35a0jmi6qsn8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPJ83FhS1uhxx_Uhby0-rtt_eCEZ3k21tqpt9g9Vbhj8=",
+        "userId": "55f3a03262a60c2977e1a813",
+        "nickname": "爱你的猫抛瓦"
+      },
+      "ipLocation": "浙江",
+      "subCommentCursor": "",
+      "status": 0,
+      "likeCount": "1",
+      "invalid": false,
+      "noteId": "6a215756000000003701e076",
+      "liked": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 web search",
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "不用单独用联网MCP了！",
+      "user": {
+        "xsecToken": "ABxfVFrNO1FWTTjHbNtSljycdWy5R4S-S9VqivGCaDPeI=",
+        "nickName": "技术FUN",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63ad2bc6b6c054b4b07f45d9.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "6061c9d6000000000101fd94",
+        "nickname": "技术FUN"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "81",
+        "commentCount": "35",
+        "sharedCount": "20",
+        "liked": false,
+        "likedCount": "81"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041825/ca2f74794a41c5e3328a3cce557c5678/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041825/16f0e870014c8adf230ee8c7c43f65a1/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/ca2f74794a41c5e3328a3cce557c5678/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/16f0e870014c8adf230ee8c7c43f65a1/1040g00832107thqlnu0g5o31p7b0bvck96bq2eg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/2c9037338c54be38806866a142865813/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/50d3c093897d095e56fb96091e36ac37/1040g00832107thqlnu005o31p7b0bvck1hebkj0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1920,
+          "width": 887
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-04"
+        }
+      ]
+    },
+    "xsecToken": "ABP4GEfDE9SOlr3546H-UyQvOjvJoXPQu7QswFJXMFyps=",
+    "id": "6a215756000000003701e076",
+    "modelType": "note",
+    "index": 3,
+    "exposed": true,
+    "trackId": "6a215756000000003701e076"
+  }
+}

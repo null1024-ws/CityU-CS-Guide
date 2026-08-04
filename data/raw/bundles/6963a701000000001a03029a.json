@@ -1,0 +1,154 @@
+{
+  "note_id": "6963a701000000001a03029a",
+  "url": "https://www.xiaohongshu.com/explore/6963a701000000001a03029a?xsec_token=AB0aKx50VI48AXAZxZQdtt1zRXl6cTg3bNjEKwm_oNIAU=",
+  "fetched_at": 1785843962.6359618,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS336适合作为找实习的项目吗",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "若需答疑服务见置顶笔记\n----------------------------------------------\nCS336共有五个大作业，分别是，\n1. 构建一个LLM，并预训练\n2. 单 GPU 性能优化 和 多 GPU 分布式训练\n3. 通过实践掌握大语言模型的缩放定律\n4. 数据处理\n5. 后训练：sft 和 rl\n\t\n我认为的重要性排序 1 -> 5 -> 4 -> 2 -> 3\n\t\nCS336适合作为找实习的项目吗？ 我觉得分情况，\n如果是找第一段实习，我觉得cs336就是完美的项目，据我的经验，第一段实习的面试官不会对你的项目有过多的实际场景的应用要求，而是更多的看你的基础，你的代码基础和理论基础。而cs336 完美的包括了这两个要求，所以完全不用担忧cs336不能作为实习项目，认真做完1和5，我觉得是可以乱杀的~\n而如果是第二段实习，我觉得重要性就比较低了，根据我和组里正式工的交谈，如果你已经在企业里实习过了，那么他们更看重的是你在实习中遇到了哪些实际业务问题，以及怎么解决的，效果怎么样。\n-----------------------------------\n我是23级科软，目前已经获得了互联网大厂算法岗SSP Offer，目前最后半年的学生时光，打算更新大模型领域的教学视频，提升自己的同时也帮助大家。\n\t\n根据我对于找实习和考研复试，面试官和老师更看重的是你的基础（理论和代码）。现在市面上的那些古老的图像分类项目，或者好一点的微调大模型的项目，这些都不能较好的体现你对这个领域的基础，工作量更多的是在数据集上面。\n\t\n接下来我会录制CS336的教程，视频特点就是 事无巨细，欢迎大家进群（🐧🐧裙4二6️⃣75️⃣4二14），我会更新 我视频的发布进展~\n最重要的是，视频教程都是免费的！大家点个关注就是对我最大的支持啦\n#大模型[话题]# #找实习[话题]#  #考研[话题]# #考研复试[话题]#   #考研复试项目[话题]#  #大语言模型[话题]#  #大模型应用[话题]##cs336[话题]# #计算机实习[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "找实习看这个一点用都没。。还不如clone开源搞搞，这种学校课程就图一乐[捂脸R]",
+      "sourceRef": "comment:69889967000000000c00bdf7",
+      "commentId": "69889967000000000c00bdf7",
+      "likes": 10,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "真的假的？[哭惹R]",
+      "sourceRef": "comment:69fd776e000000002702b3d8",
+      "commentId": "69fd776e000000002702b3d8",
+      "likes": 0,
+      "author": "老牛要吃嫩草嘞"
+    },
+    {
+      "type": "comment",
+      "text": "1做完能直接做5吗",
+      "sourceRef": "comment:6a38ac0a000000000d022003",
+      "commentId": "6a38ac0a000000000d022003",
+      "likes": 0,
+      "author": "很难虚构不哭"
+    },
+    {
+      "type": "comment",
+      "text": "这个项目更适合算法岗还是infra?[doge]",
+      "sourceRef": "comment:6963b9530000000008030815",
+      "commentId": "6963b9530000000008030815",
+      "likes": 6,
+      "author": "爻爻领先"
+    },
+    {
+      "type": "sub_comment",
+      "text": "算法岗，也就其中第二个和infra有点关系",
+      "sourceRef": "comment:6963b9830000000006032997",
+      "commentId": "6963b9830000000006032997",
+      "likes": 10,
+      "author": "这就是小C"
+    },
+    {
+      "type": "comment",
+      "text": "hello agemt咋样",
+      "sourceRef": "comment:6963b957000000000f00c992",
+      "commentId": "6963b957000000000f00c992",
+      "likes": 1,
+      "author": "布皇"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不太了解哈",
+      "sourceRef": "comment:6963ba120000000005030f5a",
+      "commentId": "6963ba120000000005030f5a",
+      "likes": 2,
+      "author": "这就是小C"
+    },
+    {
+      "type": "comment",
+      "text": "学长学长，双非本9硕，有机会进算法岗吗？",
+      "sourceRef": "comment:6963b345000000000f00cfda",
+      "commentId": "6963b345000000000f00cfda",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我就是哦",
+      "sourceRef": "comment:6963b5d5000000000603040d",
+      "commentId": "6963b5d5000000000603040d",
+      "likes": 5,
+      "author": "这就是小C"
+    },
+    {
+      "type": "comment",
+      "text": "为了准备保研夏令营面试可以尝试做一下然后讲讲吗[doge]",
+      "sourceRef": "comment:6963c2e30000000005030e01",
+      "commentId": "6963c2e30000000005030e01",
+      "likes": 1,
+      "author": "TheBunniestForever"
+    },
+    {
+      "type": "comment",
+      "text": "cs336肯定不太够啊 不都得上rag agent",
+      "sourceRef": "comment:6963cef6000000000f0281af",
+      "commentId": "6963cef6000000000f0281af",
+      "likes": 3,
+      "author": "读研？读个屁"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这俩都不是一个赛道的...",
+      "sourceRef": "comment:69646fc1000000000601ec1c",
+      "commentId": "69646fc1000000000601ec1c",
+      "likes": 55,
+      "author": "oiko"
+    },
+    {
+      "type": "comment",
+      "text": "佬，请问代码基础和理论基础要学到什么水平[微笑R]",
+      "sourceRef": "comment:6963d4d6000000000800ce85",
+      "commentId": "6963d4d6000000000800ce85",
+      "likes": 0,
+      "author": "成果果"
+    },
+    {
+      "type": "sub_comment",
+      "text": "llm的网络和训练流程，不使用封装好的包，而是自己实现。触及到代码后，才能真正理解它是什么",
+      "sourceRef": "comment:6964253c000000000601ddbe",
+      "commentId": "6964253c000000000601ddbe",
+      "likes": 0,
+      "author": "这就是小C"
+    },
+    {
+      "type": "comment",
+      "text": "做vla或者具身基模的学cs336适用吗",
+      "sourceRef": "comment:697312690000000031032f25",
+      "commentId": "697312690000000031032f25",
+      "likes": 2,
+      "author": "🥕"
+    },
+    {
+      "type": "comment",
+      "text": "哎感觉这个和当年的15-445或者xv6",
+      "sourceRef": "comment:6963c53d000000000800c324",
+      "commentId": "6963c53d000000000800c324",
+      "likes": 6,
+      "author": "fighting"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是这样的，不过我当年做的是6.824",
+      "sourceRef": "comment:6963c5b0000000000600edd3",
+      "commentId": "6963c5b0000000000600edd3",
+      "likes": 1,
+      "author": "这就是小C"
+    }
+  ]
+}

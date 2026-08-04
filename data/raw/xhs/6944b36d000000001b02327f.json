@@ -1,0 +1,308 @@
+{
+  "note_id": "6944b36d000000001b02327f",
+  "url": "https://www.xiaohongshu.com/explore/6944b36d000000001b02327f?xsec_token=ABws6BqygPUzkId0tOuIDvL7BNzz4CSSmnnUFkAIy9z-c=",
+  "fetched_at": 1785843168.603394,
+  "note": {
+    "type": "normal",
+    "title": "JHU CS/MSSI 教授避坑",
+    "desc": "避坑Yaxing Yao的 EN.601.794 Privacy Technology, Design, and Law。\n平时分40分按心情给，平时不计签到不知道你来没来，三个pre两个discussion，就算全做完平时分也就一半不到。并且只是出勤不算平时分必须要每节课都丰富的发言，激烈的讨论，但也不知道算不算分毕竟他也不问是谁说的[黑薯问号R]评分规则成谜，最后全凭他一张嘴一拍脑袋印象决定。\nFinal project 60分得了90%以上但是最后总评分能给你打到C，有想体验的可以尝试，尽情体验一下被恶心的感觉[大便R][大便R]\n#jhu留学[话题]# #CS[话题]# #MSSI[话题]# #避坑[话题]#",
+    "user": {
+      "userId": "62cb93f2000000000303e60a",
+      "nickname": "momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q8os5qjng0g5ombifp0vpgactv8tt8",
+      "xsecToken": "ABInWOT-eCpBfL1m4h0aftFq4DH_BufwlG9BcVOzKe5iA="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "27",
+      "collectedCount": "22",
+      "shareCount": "28",
+      "followed": false,
+      "niceCount": "",
+      "collected": false,
+      "commentCount": "8",
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "63e34aa20000000001007722",
+        "name": "jhu留学",
+        "type": "topic"
+      },
+      {
+        "name": "CS",
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5"
+      },
+      {
+        "id": "683fb64700000000130227b0",
+        "name": "MSSI",
+        "type": "topic"
+      },
+      {
+        "id": "5c3cb63a000000000f001c0b",
+        "name": "避坑",
+        "type": "topic"
+      }
+    ],
+    "time": 1766110061000,
+    "noteId": "6944b36d000000001b02327f",
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041933/557d08341f0b53f88da21866535dd6de/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041933/a1d7db12c951f8d5f999448d35be9bdf/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041933/557d08341f0b53f88da21866535dd6de/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10",
+        "height": 1080,
+        "width": 1385,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041933/a1d7db12c951f8d5f999448d35be9bdf/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1766110061000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABws6BqygPUzkId0tOuIDvL7BNzz4CSSmnnUFkAIy9z-c="
+  },
+  "comments": [
+    {
+      "ipLocation": "江西",
+      "subComments": [
+        {
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6945a97b000000001d025c0d",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUJBQzD2xQifmmPGD3rAu2vz2HUetfTSv_6AfMS1Igtc=",
+              "userId": "660557fd000000000600f8cd",
+              "nickname": "猫南北"
+            }
+          },
+          "id": "694630c4000000001d01f091",
+          "noteId": "6944b36d000000001b02327f",
+          "status": 0,
+          "content": "不知道你有什么课，但是ethical hacking我上着觉得挺有意思的对于安全来说",
+          "atUsers": [],
+          "invalid": false,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q8os5qjng0g5ombifp0vpgactv8tt8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJsmahzsQ3f3YCdrfE61Kn_5L8WJkKsJJRLoU70Ubmuk=",
+            "userId": "62cb93f2000000000303e60a"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766207684000
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABUJBQzD2xQifmmPGD3rAu2vz2HUetfTSv_6AfMS1Igtc=",
+        "userId": "660557fd000000000600f8cd",
+        "nickname": "猫南北",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "noteId": "6944b36d000000001b02327f",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1766173051000,
+      "id": "6945a97b000000001d025c0d",
+      "content": "完了我刚选了他的课，马上就去退了，有没有别的推荐的课哇[哭惹R]",
+      "subCommentCount": "2",
+      "subCommentCursor": "694630c4000000001d01f091",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "0",
+      "id": "694582e9000000001601c6b5",
+      "liked": false,
+      "likeCount": "1",
+      "subCommentHasMore": false,
+      "content": "[石化R]",
+      "userInfo": {
+        "xsecToken": "ABd8ji3BiEMPf3D_Dbu3tO6IgpQDGLTxJOiRR0bEsO7hQ=",
+        "userId": "5fa150cc000000000101e447",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322paear3nu005nt1a360bp276ouhh58?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "invalid": false,
+      "ipLocation": "美国",
+      "subComments": [],
+      "noteId": "6944b36d000000001b02327f",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1766163178000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "content": "[石化R]",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3227um1amnk5g5odf67fk1gtgujr8l6g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLjfWyzmw5WissWpcnlsx_bFX0q4DZ9iUcBPPg7hu3Ns=",
+        "userId": "61af31df000000001000c3b0",
+        "nickname": "MMonster"
+      },
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6945d06b000000001600c002",
+      "noteId": "6944b36d000000001b02327f",
+      "atUsers": [],
+      "createTime": 1766183020000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766207756000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6945869a0000000014037243",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB4uDPgAgl-5-bEF78_xruWB6Yukxflq7-qUDNr1bJcPs=",
+              "userId": "5a4424a5e8ac2b45dd389c8c",
+              "nickname": "世子驾到快开门",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/623db04f6db531381bcdd583.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6946310c000000001702fdf6",
+          "noteId": "6944b36d000000001b02327f",
+          "status": 0,
+          "content": "可以跟program director控诉一下，虽然大概率可能没有结果",
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q8os5qjng0g5ombifp0vpgactv8tt8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJsmahzsQ3f3YCdrfE61Kn_5L8WJkKsJJRLoU70Ubmuk=",
+            "userId": "62cb93f2000000000303e60a"
+          }
+        }
+      ],
+      "id": "6945869a0000000014037243",
+      "noteId": "6944b36d000000001b02327f",
+      "status": -2,
+      "invalid": false,
+      "content": "同意 完全不理解。。开学就给霸王条款说i dont negotiate on grades you get what you get💧如果course eval是在他给这个分之后due就好了，现在都没地方说，纯恶心人",
+      "subCommentHasMore": true,
+      "createTime": 1766164122000,
+      "ipLocation": "美国",
+      "subCommentCursor": "6946310c000000001702fdf6",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/623db04f6db531381bcdd583.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4uDPgAgl-5-bEF78_xruWB6Yukxflq7-qUDNr1bJcPs=",
+        "userId": "5a4424a5e8ac2b45dd389c8c",
+        "nickname": "世子驾到快开门"
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6187 怎么样",
+  "search_item": {
+    "id": "6944b36d000000001b02327f",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-19"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "JHU CS/MSSI 教授避坑",
+      "user": {
+        "userId": "62cb93f2000000000303e60a",
+        "nickname": "momo",
+        "xsecToken": "AB3PLLC1H_Ydd-KBsQ9ycchL7VjDIhasvTT6e_D16cLXI=",
+        "nickName": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q8os5qjng0g5ombifp0vpgactv8tt8?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "27",
+        "collected": false,
+        "collectedCount": "22",
+        "commentCount": "8",
+        "sharedCount": "28"
+      },
+      "cover": {
+        "height": 1080,
+        "width": 1385,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041932/56609fa3ca59cac7a6e0fb832700880d/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041932/c80ab0834a670fda3d8d7ed9c8ed1c5d/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041932/56609fa3ca59cac7a6e0fb832700880d/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041932/c80ab0834a670fda3d8d7ed9c8ed1c5d/notes_pre_post/1040g3k031q8obthv70105o79oqgo5pjs0vt0s10!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1080,
+          "width": 1385
+        }
+      ]
+    },
+    "xsecToken": "ABws6BqygPUzkId0tOuIDvL7BNzz4CSSmnnUFkAIy9z-c=",
+    "index": 4,
+    "exposed": true,
+    "trackId": "6944b36d000000001b02327f"
+  }
+}

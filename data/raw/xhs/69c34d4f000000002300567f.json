@@ -1,0 +1,286 @@
+{
+  "note_id": "69c34d4f000000002300567f",
+  "url": "https://www.xiaohongshu.com/explore/69c34d4f000000002300567f?xsec_token=AB9W2jbzSyZ6zHmokMLeGbwWNMFJ9kSFk7ZGfCfZgDVxk=",
+  "fetched_at": 1785843825.474039,
+  "note": {
+    "xsecToken": "AB9W2jbzSyZ6zHmokMLeGbwWNMFJ9kSFk7ZGfCfZgDVxk=",
+    "noteId": "69c34d4f000000002300567f",
+    "desc": "投的AI Research Scientist。hr call后安排两次面试，分别是coding和research presentation。昨晚刚面完coding，分享下面经\n\t\n1. 全长约1小时，面试官介绍+自我介绍 10min + Coding 45min + QA 5min\n\t\n2. 面试官法语口音极重，比我身边的法国同事还要重，有些不适应\n\t\n3. 考题《如何实现rm -rf》；网上面经原题。递归写完后要优化如何解决OOM；我之前练的时候，Gemini的方案是用显式栈+迭代。但面试官不要这个做法，硬着头皮试了generator和别的优化\n\t\n4. 注重交流和思考，偏向open conversation，随时会提问。思路想不出就问，让他给个方向上的提示，因为你完全想不到他要的是啥[笑哭R] 个人感觉非常偏，为了优化而优化\n\t\n5. 全程不用share screen，可以谷歌搜api，但不能用ai。说实话，他这个优化需求，问ai也没用[笑哭R] 用了肯定露馅\n\t\n6. 最后QA，问了俩问题。了解到他的考题就那么些，都是他打磨过的[doge] 然后未来可能会变成允许ai辅助的coding test。说我算是幸运的，晚几个月说不定就赶上了[笑哭了R]\n\t\n🌟个人经验：别傻傻刷leetcode，那样铁挂；刷面经找原题；然后自信+多交流\n\t\n还有2天pre面，好好准备下\n\t\n#面经[话题]# #博士[话题]# #找工作[话题]# #datadog[话题]# #英文面试[话题]# #美国大厂[话题]# #PhD[话题]# #NTU[话题]# #新加坡[话题]# #数据科学[话题]#",
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "37",
+      "shareCount": "22",
+      "likedCount": "57",
+      "commentCount": "5",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831u4cc1g42q0049klgtelo6teg1c3b7g",
+        "width": 1920,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041944/f6d73432f5f75fe5b57ef597b263d1d6/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1047,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041944/f6d73432f5f75fe5b57ef597b263d1d6/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041944/0b9d1ef7fec3cbc4e82cc0d72425dace/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041944/0b9d1ef7fec3cbc4e82cc0d72425dace/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c12185d5237920001d589d9",
+        "name": "面经",
+        "type": "topic"
+      },
+      {
+        "id": "5be9267650fe5600012a22f6",
+        "name": "博士",
+        "type": "topic"
+      },
+      {
+        "id": "5be7d6ac50fe56000112753b",
+        "name": "找工作",
+        "type": "topic"
+      },
+      {
+        "id": "6233935d000000000101f747",
+        "name": "datadog",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5d036ec6000000000e00bedc",
+        "name": "英文面试"
+      },
+      {
+        "id": "627fa99e0000000001005e38",
+        "name": "美国大厂",
+        "type": "topic"
+      },
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5f4ea74b000000000100a473",
+        "name": "NTU"
+      },
+      {
+        "type": "topic",
+        "id": "534dbacdb4c4d6682871cfd6",
+        "name": "新加坡"
+      },
+      {
+        "type": "topic",
+        "id": "5e2cba4d0000000001002f38",
+        "name": "数据科学"
+      }
+    ],
+    "atUserList": [],
+    "type": "normal",
+    "title": "🇸🇬phd找工记｜数据狗Coding面",
+    "user": {
+      "userId": "594b9d5cb1da140a07b31bae",
+      "nickname": "乔拾壹",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6285cb0f63344a99d383d427.jpg",
+      "xsecToken": "ABznpw5eFrkpClN2OrtXHsXfJrUQQEBrNUduJ9HLog42A="
+    },
+    "time": 1774406991000,
+    "lastUpdateTime": 1774406991000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "liked": false,
+      "userInfo": {
+        "nickname": "半闲",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsp3WOfUTyPjsLSN54GZMonNzLL0GEqKqGOZHjBNc454=",
+        "userId": "56587d00b8c8b43533a1bd88"
+      },
+      "createTime": 1774670935000,
+      "ipLocation": "浙江",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "69c754560000000002036d92",
+      "noteId": "69c34d4f000000002300567f",
+      "status": 0,
+      "atUsers": [],
+      "subCommentCount": "2",
+      "content": "这是开发岗？",
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [
+        {
+          "noteId": "69c34d4f000000002300567f",
+          "status": 0,
+          "content": "research岗",
+          "atUsers": [],
+          "likeCount": "0",
+          "invalid": false,
+          "id": "69c755f300000000180233fe",
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABZOmLWrJ88mijPOYs2t1j2cUjAtpmMWlZeo-tLnwfChA=",
+            "userId": "594b9d5cb1da140a07b31bae",
+            "nickname": "乔拾壹",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6285cb0f63344a99d383d427.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1774671348000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "69c754560000000002036d92",
+            "userInfo": {
+              "userId": "56587d00b8c8b43533a1bd88",
+              "nickname": "半闲",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABsp3WOfUTyPjsLSN54GZMonNzLL0GEqKqGOZHjBNc454="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "69c755f300000000180233fe",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a701eff000000000d021c00",
+      "noteId": "69c34d4f000000002300567f",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "57f105cebd0da569aa282c1b",
+        "nickname": "王军",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/57f105cebd0da569aa282c1b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZ31wnjj3ZGwWb5-wI05fUWf4yT7E1KJhyKNs4rg9MQI="
+      },
+      "showTags": [],
+      "invalid": false,
+      "content": "你好，请问您是在哪些地方找的面经？谢谢",
+      "ipLocation": "新加坡",
+      "status": 0,
+      "liked": false,
+      "createTime": 1785732864000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "createTime": 1785749010000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "6a701eff000000000d021c00",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/57f105cebd0da569aa282c1b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZ31wnjj3ZGwWb5-wI05fUWf4yT7E1KJhyKNs4rg9MQI=",
+              "userId": "57f105cebd0da569aa282c1b",
+              "nickname": "王军"
+            }
+          },
+          "id": "6a705e120000000029036e38",
+          "content": "leetcode有",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "69c34d4f000000002300567f",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABZOmLWrJ88mijPOYs2t1j2cUjAtpmMWlZeo-tLnwfChA=",
+            "userId": "594b9d5cb1da140a07b31bae",
+            "nickname": "乔拾壹",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6285cb0f63344a99d383d427.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          }
+        }
+      ],
+      "subCommentCursor": "6a705e120000000029036e38",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 Research/Internship Project",
+  "search_item": {
+    "id": "69c34d4f000000002300567f",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "57",
+        "collected": false,
+        "collectedCount": "37",
+        "commentCount": "5",
+        "sharedCount": "22",
+        "liked": false
+      },
+      "cover": {
+        "height": 1047,
+        "width": 1920,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041943/21a91128fb1863289e1da14a19506a41/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041943/254c2435a56a5b3fe00ed3d645d39866/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/21a91128fb1863289e1da14a19506a41/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/254c2435a56a5b3fe00ed3d645d39866/1040g00831u4cc1g42q0049klgtelo6teg1c3b7g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1047,
+          "width": 1920
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "03-25",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🇸🇬phd找工记｜数据狗Coding面",
+      "user": {
+        "xsecToken": "ABZfAgjwPAwUs4VBO4-XxPOMb5p7s8vqZsfJkf2QzGKl0=",
+        "nickName": "乔拾壹",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6285cb0f63344a99d383d427.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "594b9d5cb1da140a07b31bae",
+        "nickname": "乔拾壹"
+      }
+    },
+    "xsecToken": "AB9W2jbzSyZ6zHmokMLeGbwWNMFJ9kSFk7ZGfCfZgDVxk=",
+    "index": 6,
+    "exposed": false,
+    "trackId": "69c34d4f000000002300567f"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "note_id": "6a215756000000003701e076",
+  "url": "https://www.xiaohongshu.com/explore/6a215756000000003701e076?xsec_token=ABP4GEfDE9SOlr3546H-UyQvOjvJoXPQu7QswFJXMFyps=",
+  "fetched_at": 1785839183.7535052,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "不用单独用联网MCP了！",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "有空仔细看了一下Deepseek的API文档，里面直接说了支持Claude code的web search功能，如图2。\n\t\n那么说直接用就不需要额外配置一个联网的MCP了！[点赞R]\n\t\n#deepseek[话题]# #claude[话题]# #mcp[话题]# #智能体[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "目前只支持Anthropic api的格式。\n\n抓包看是通过server_tool_use服务端执行搜索，搜索结果放在web_search_tool_result里直接返回了[doge]",
+      "sourceRef": "comment:6a26540a000000002803b900",
+      "commentId": "6a26540a000000002803b900",
+      "likes": 0,
+      "author": "技术FUN"
+    },
+    {
+      "type": "comment",
+      "text": "怎么做的？费用怎么算，谁家的服务？",
+      "sourceRef": "comment:6a2157ea000000002702b3c4",
+      "commentId": "6a2157ea000000002702b3c4",
+      "likes": 1,
+      "author": "tao"
+    },
+    {
+      "type": "sub_comment",
+      "text": "就是Deepseek的，接了API就可以直接用，费用就是token数，没其他的[doge]",
+      "sourceRef": "comment:6a216a350000000028035e1a",
+      "commentId": "6a216a350000000028035e1a",
+      "likes": 8,
+      "author": "技术FUN"
+    },
+    {
+      "type": "comment",
+      "text": "mimo也行，而且也能fetch",
+      "sourceRef": "comment:6a27c19e000000002903743d",
+      "commentId": "6a27c19e000000002903743d",
+      "likes": 0,
+      "author": "zhuzhu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "MIMO 贵得离谱，25 元 1000",
+      "sourceRef": "comment:6a27e9f0000000002902c340",
+      "commentId": "6a27e9f0000000002902c340",
+      "likes": 1,
+      "author": "huoxuebin"
+    },
+    {
+      "type": "comment",
+      "text": "web search和web fetch不是agent自己提供的吗",
+      "sourceRef": "comment:6a21bc55000000002b001ffa",
+      "commentId": "6a21bc55000000002b001ffa",
+      "likes": 2,
+      "author": "violet_"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有云端工具调用[doge]cc 默认就是用云端的，之前没有的时候搜索返回都是空的[捂脸R]",
+      "sourceRef": "comment:6a222177000000002803185b",
+      "commentId": "6a222177000000002803185b",
+      "likes": 13,
+      "author": "Neko Hz"
+    },
+    {
+      "type": "comment",
+      "text": "其实加个Tavily还是更好使一点",
+      "sourceRef": "comment:6a227641000000002b003bd4",
+      "commentId": "6a227641000000002b003bd4",
+      "likes": 3,
+      "author": "狗狗猫猫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "@bao",
+      "sourceRef": "comment:6a25983300000000270148bc",
+      "commentId": "6a25983300000000270148bc",
+      "likes": 0,
+      "author": "wen"
+    },
+    {
+      "type": "comment",
+      "text": "不支持的是fetch吧[笑哭R]",
+      "sourceRef": "comment:6a21613d000000002a004ebc",
+      "commentId": "6a21613d000000002a004ebc",
+      "likes": 3,
+      "author": "八彩夜"
+    },
+    {
+      "type": "sub_comment",
+      "text": "嗯，不过我都是写在规则里，要fetch的URL让它用playwright打开浏览器访问，不容易被拦截[doge]",
+      "sourceRef": "comment:6a216ae90000000029012339",
+      "commentId": "6a216ae90000000029012339",
+      "likes": 6,
+      "author": "技术FUN"
+    },
+    {
+      "type": "comment",
+      "text": "不过有个问题，好像大部分境内域名claudecode都不会检索。。我让它去找微博知乎帖子它找不到",
+      "sourceRef": "comment:6a26052e000000002900ffee",
+      "commentId": "6a26052e000000002900ffee",
+      "likes": 0,
+      "author": "ZhuoL"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个应该是它们把fetch拦截了，还有必要的JS没有执行。本质fetch就是代码里直接发请求，也执行不了JS，现在都用JS实时渲染数据，直接请求基本拿不到数据。",
+      "sourceRef": "comment:6a265fa600000000290123ea",
+      "commentId": "6a265fa600000000290123ea",
+      "likes": 2,
+      "author": "技术FUN"
+    },
+    {
+      "type": "comment",
+      "text": "是的。换到mimo才发现ds的好，mimo想搜索还得配置mcp，麻烦",
+      "sourceRef": "comment:6a217d9e000000002203e4d0",
+      "commentId": "6a217d9e000000002203e4d0",
+      "likes": 4,
+      "author": "宇鹏-企业AI落地"
+    },
+    {
+      "type": "comment",
+      "text": "确实 不过如果需要的话exa也不错",
+      "sourceRef": "comment:6a2167e10000000029013076",
+      "commentId": "6a2167e10000000029013076",
+      "likes": 0,
+      "author": "西城科技小子"
+    },
+    {
+      "type": "sub_comment",
+      "text": "嗯，这个免费的次数有点少，不够用。我之前用阿里的，给每月2000免费次数",
+      "sourceRef": "comment:6a216b57000000002900e6eb",
+      "commentId": "6a216b57000000002900e6eb",
+      "likes": 0,
+      "author": "技术FUN"
+    }
+  ]
+}

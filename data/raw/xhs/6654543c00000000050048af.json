@@ -1,0 +1,453 @@
+{
+  "note_id": "6654543c00000000050048af",
+  "url": "https://www.xiaohongshu.com/explore/6654543c00000000050048af?xsec_token=ABcxg8HIA1qMnt6NhFlUieMr_CM6VcOwoeBlRB0q1q6YA=",
+  "fetched_at": 1785842991.54674,
+  "note": {
+    "user": {
+      "xsecToken": "ABb6057IlfNNxT_VBOzLJ7_wAmm8FdLa_--ulSXEHufO8=",
+      "userId": "5c00f62751783a1e47818d37",
+      "nickname": "G.eason",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/2490dbcb24e53d4f471747f2ac4c192c/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/264a904294691ecc08dcfe4f8dab28ad/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041930/264a904294691ecc08dcfe4f8dab28ad/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 2560,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041930/2490dbcb24e53d4f471747f2ac4c192c/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nd_prv_wgth_jpg_3",
+        "fileId": "1040g2sg313a1grr204dg4bumqor2f39na5mrch0",
+        "height": 1922
+      },
+      {
+        "width": 433,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041930/88f21f33b9700ee17c2c030a3cba8803/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041930/80651556b0896e0c977d2d92b97d0783/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g2sg313a1grr204cg4bumqor2f39nk5npfu8",
+        "height": 148,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/88f21f33b9700ee17c2c030a3cba8803/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/80651556b0896e0c977d2d92b97d0783/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ]
+      },
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/571a39127b387b241db4372a5433c1ee/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/716a7d08464b9ec33d7302ed1199309f/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g2sg313a1grr204a04bumqor2f39ncsocepg",
+        "height": 336,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041930/571a39127b387b241db4372a5433c1ee/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041930/716a7d08464b9ec33d7302ed1199309f/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nd_dft_wgth_jpg_3",
+        "width": 1303
+      },
+      {
+        "height": 1080,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/c24996b6db23b0c22de739c9376b3d30/1040g2sg313a1grr204904bumqor2f39npksm7jo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041930/d4d3fdbe8e200c1ea673e68bdcd8064d/1040g2sg313a1grr204904bumqor2f39npksm7jo!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041930/c24996b6db23b0c22de739c9376b3d30/1040g2sg313a1grr204904bumqor2f39npksm7jo!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041930/d4d3fdbe8e200c1ea673e68bdcd8064d/1040g2sg313a1grr204904bumqor2f39npksm7jo!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g2sg313a1grr204904bumqor2f39npksm7jo",
+        "width": 2292,
+        "url": "",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "noteId": "6654543c00000000050048af",
+    "type": "normal",
+    "title": "CUHK MSc CS 第二学期GPA 课程评测预告",
+    "interactInfo": {
+      "collected": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "28",
+      "collectedCount": "8",
+      "commentCount": "13",
+      "shareCount": "1",
+      "followed": false
+    },
+    "tagList": [
+      {
+        "id": "5d8882bf0000000002002f46",
+        "name": "港中文",
+        "type": "topic"
+      },
+      {
+        "id": "5bea5e2186535d0001bf235d",
+        "name": "留学",
+        "type": "topic"
+      },
+      {
+        "id": "5c8f55bb000000000d00a852",
+        "name": "香港留學",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "name": "CUHK",
+        "type": "topic",
+        "id": "6117ab8e000000000100ae0d"
+      }
+    ],
+    "time": 1716802620000,
+    "lastUpdateTime": 1716803037000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "当时赶5.3/4的明日方舟嘉年华音律连觉，我奇迹般地在出发前完成了所以期末。当时匆忙赶出来的东西，现在出来竟然有这么高绩点我自己都很惊讶。\nA：\ncase1:单人特工不可能完成的任务之Raft和天幕杀机期末考试\ncase2:在水课里高瞻远瞩的ReasonG选择了根本查不到相关文献的小众方向\nA-：\ncase1:上古时代的宝贝，意外的成绩和结果\ncase2:写report时发现自己做的有点东西但必须闪电般完成\n后面会出课程评测，会很主观\n由于这学期的课期末都是report,也想分享一下我的选题和一些浅薄的见识\n最近注意身体，五月因疾病、懒惰而荒废惹\n（P1 校园景色留念，这两天难得没下雨。可惜应该是没机会在CUHK打一次球了。\nP4 勾搭一些舟友）\n#港中文[话题]# #留学[话题]# #香港留學[话题]# #港硕[话题]# #CUHK[话题]#",
+    "xsecToken": "ABcxg8HIA1qMnt6NhFlUieMr_CM6VcOwoeBlRB0q1q6YA="
+  },
+  "comments": [
+    {
+      "createTime": 1718270942000,
+      "ipLocation": "浙江",
+      "subComments": [
+        {
+          "id": "666abee100000000230042b7",
+          "noteId": "6654543c00000000050048af",
+          "content": "我并没有打舟的tag。没准都有[偷笑R]。看来都是音律嘉年华戒断病友",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5c00f62751783a1e47818d37",
+            "nickname": "G.eason",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYUUyBh0-gnZtNXzjzb7aUQ5pdd2In9fKzysd3_CYCQQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "陕西",
+          "status": 0,
+          "liked": false,
+          "createTime": 1718271713000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "630c5008000000001902e196",
+              "nickname": "Andrew",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p67cjk72u005ooca046docman9g6ng?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABt6DuMUp6Go1U8KwVIXUBDwcvDXL9CbJES1z9qrAhgss="
+            },
+            "id": "666abbdd000000002101e219"
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "6654543c00000000050048af",
+      "liked": false,
+      "id": "666abbdd000000002101e219",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "5",
+      "subCommentCursor": "666abee100000000230042b7",
+      "invalid": false,
+      "status": 0,
+      "content": "还以为小红书推我帖子是因为CUHK，没想到是粥友[doge]（甚至都去了嘉年华和音律联觉）",
+      "userInfo": {
+        "xsecToken": "ABt6DuMUp6Go1U8KwVIXUBDwcvDXL9CbJES1z9qrAhgss=",
+        "userId": "630c5008000000001902e196",
+        "nickname": "Andrew",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p67cjk72u005ooca046docman9g6ng?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1720144937000,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "userInfo": {
+        "userId": "5c5e404e0000000012025a2e",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5ee7429180e9d300017a954e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuULYlsGaVvPecNzn2fpNxrR9_T0zgvWH4TPp2JlB1dI="
+      },
+      "ipLocation": "中国香港",
+      "subCommentCursor": "66875527000000001303d0b3",
+      "subComments": [
+        {
+          "id": "66875527000000001303d0b3",
+          "noteId": "6654543c00000000050048af",
+          "status": 0,
+          "content": "不知道哇，反正我还没收到，我也好奇有没有[笑哭R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5c00f62751783a1e47818d37",
+            "nickname": "G.eason",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYUUyBh0-gnZtNXzjzb7aUQ5pdd2In9fKzysd3_CYCQQ="
+          },
+          "targetComment": {
+            "id": "66875428000000000303884a",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABuULYlsGaVvPecNzn2fpNxrR9_T0zgvWH4TPp2JlB1dI=",
+              "userId": "5c5e404e0000000012025a2e",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5ee7429180e9d300017a954e.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1720145192000,
+          "ipLocation": "陕西",
+          "invalid": false
+        }
+      ],
+      "id": "66875428000000000303884a",
+      "noteId": "6654543c00000000050048af",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "content": "请问第二学期这个gpa有奖学金吗",
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "ipLocation": "中国香港",
+      "id": "665454f9000000001c026a05",
+      "noteId": "6654543c00000000050048af",
+      "status": 0,
+      "content": "点进来看测评，结果是舟友",
+      "createTime": 1716802810000,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "userInfo": {
+        "xsecToken": "ABZLM-y-MdDRyUrSzVuvVE49yCtT7FukngRld-Ky2gaTE=",
+        "userId": "60f5a3cf000000002002f3b1",
+        "nickname": "viz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/411309441983cdc4ce073ff8da73b5b6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5c00f62751783a1e47818d37",
+            "nickname": "G.eason",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYUUyBh0-gnZtNXzjzb7aUQ5pdd2In9fKzysd3_CYCQQ="
+          },
+          "createTime": 1716802877000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "665454f9000000001c026a05",
+            "userInfo": {
+              "userId": "60f5a3cf000000002002f3b1",
+              "nickname": "viz",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/411309441983cdc4ce073ff8da73b5b6.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZLM-y-MdDRyUrSzVuvVE49yCtT7FukngRld-Ky2gaTE="
+            }
+          },
+          "id": "6654553d000000000f006ff2",
+          "noteId": "6654543c00000000050048af",
+          "status": 0,
+          "content": "我们联合！",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "6654553d000000000f006ff2",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "userInfo": {
+        "userId": "5c00f62751783a1e47818d37",
+        "nickname": "G.eason",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYUUyBh0-gnZtNXzjzb7aUQ5pdd2In9fKzysd3_CYCQQ="
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "id": "6669c0b6000000001303d55c",
+      "content": "终于有时间写了，明天更新！",
+      "atUsers": [],
+      "likeCount": "0",
+      "ipLocation": "陕西",
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "6654543c00000000050048af",
+      "liked": false,
+      "subCommentHasMore": false,
+      "createTime": 1718206646000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 体验",
+  "search_item": {
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "28",
+        "collected": false,
+        "collectedCount": "8",
+        "commentCount": "13",
+        "sharedCount": "1",
+        "liked": false
+      },
+      "cover": {
+        "height": 1922,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041929/d54d605e1d6545effd4276ec5e472978/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041929/ff960eb431c4bd4c4614d36ad00adaab/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1922,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/d54d605e1d6545effd4276ec5e472978/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/ff960eb431c4bd4c4614d36ad00adaab/1040g2sg313a1grr204dg4bumqor2f39na5mrch0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 148,
+          "width": 433,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/2813a31671de521b329bf3cbf062872e/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/758b6dec573d8e5b881f4169db29c1e5/1040g2sg313a1grr204cg4bumqor2f39nk5npfu8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 336,
+          "width": 1303,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/a594a4f4612c18d9ce6e1c504ebc2045/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/ce7484323597058f111695799c3e0480/1040g2sg313a1grr204a04bumqor2f39ncsocepg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 2292,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/1f2b32e3982f0477fac58c20970ed5ac/1040g2sg313a1grr204904bumqor2f39npksm7jo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041929/fbaf19fef3c1a49ffd451da0d2734e5f/1040g2sg313a1grr204904bumqor2f39npksm7jo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1080
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2024-05-27",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CUHK MSc CS 第二学期GPA 课程评测预告",
+      "user": {
+        "nickName": "G.eason",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/637353ceb3d3df6490be3b44.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5c00f62751783a1e47818d37",
+        "nickname": "G.eason",
+        "xsecToken": "AB7qnJY7W47czMi2k99Q-Svy6q5mJcXizGInaN_ZqvfDU="
+      }
+    },
+    "xsecToken": "ABcxg8HIA1qMnt6NhFlUieMr_CM6VcOwoeBlRB0q1q6YA=",
+    "id": "6654543c00000000050048af",
+    "modelType": "note",
+    "index": 9,
+    "exposed": true,
+    "trackId": "6654543c00000000050048af"
+  }
+}

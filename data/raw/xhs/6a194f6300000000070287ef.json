@@ -1,0 +1,645 @@
+{
+  "note_id": "6a194f6300000000070287ef",
+  "url": "https://www.xiaohongshu.com/explore/6a194f6300000000070287ef?xsec_token=ABaSnySJRJ-LXby73tyQTL_KTjhcIt36kOw_j-lrkyFAU=",
+  "fetched_at": 1785839480.6106932,
+  "note": {
+    "type": "normal",
+    "user": {
+      "userId": "677f8d36000000000801b9e5",
+      "nickname": "NOAI竞赛-阿帕老师",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t4h83splk605prvhkr23ef50qj8ugo",
+      "xsecToken": "AB7_lc3cekimTNzTUx9AQdd7N5qvLuzUVzHcJ9lg1uYWY="
+    },
+    "interactInfo": {
+      "collectedCount": "66",
+      "shareCount": "62",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "collected": false,
+      "commentCount": "22",
+      "liked": false,
+      "likedCount": "168"
+    },
+    "tagList": [
+      {
+        "id": "617677430000000001001017",
+        "name": "信奥",
+        "type": "topic"
+      },
+      {
+        "id": "617250f40000000001004352",
+        "name": "NOI",
+        "type": "topic"
+      },
+      {
+        "id": "5d7347ba000000000103cd61",
+        "name": "IOI",
+        "type": "topic"
+      },
+      {
+        "id": "5f758dda000000000101f684",
+        "name": "信息学奥赛",
+        "type": "topic"
+      },
+      {
+        "id": "5da1afe100000000020001e2",
+        "name": "青少年编程",
+        "type": "topic"
+      },
+      {
+        "id": "643660f8000000001c016a20",
+        "name": "NOAI",
+        "type": "topic"
+      }
+    ],
+    "title": "IOI队长突破40年Dijkstra瓶颈",
+    "desc": "打信息学竞赛的孩子，几乎都写过Dijkstra这个算法：从一个点出发，算出到地图上每个点的最短路。手机导航找最近的路，用的就是这一类。👀\n它1959年就有了。速度的极限1984年定下来，之后四十年，全世界没人能让它更快。\n2025年6月，这个纪录被打破了。一篇论文做出了更快的算法，拿下理论计算机顶会STOC的年度最佳论文。五个作者里有一个长沙人，叫毛啸。\n雅礼中学出来的，四次NOI金牌，2016年全国第一，IOI国家队队长。后来放弃清华保送去了MIT，本科一个人写论文就拿下FOCS最佳学生论文奖，现在在斯坦福读博。\n他读大学时还给NOI、CSP出过题。现在孩子刷的那些往年真题里，没准就有他出的。🤯\n#信奥[话题]#  #NOI[话题]#  #IOI[话题]#  #信息学奥赛[话题]#  #青少年编程[话题]#  #NOAI[话题]#",
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g",
+        "width": 2160,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041831/be880c7e35186f1ec179ae9d2357e01c/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041831/bf8afaa35c4eb37ee579a6dd66c0a1f0/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041831/bf8afaa35c4eb37ee579a6dd66c0a1f0/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nd_dft_wlteh_jpg_3",
+        "height": 2880,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041831/be880c7e35186f1ec179ae9d2357e01c/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nd_prv_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "time": 1780043619000,
+    "lastUpdateTime": 1780718604000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a194f6300000000070287ef",
+    "xsecToken": "ABaSnySJRJ-LXby73tyQTL_KTjhcIt36kOw_j-lrkyFAU="
+  },
+  "comments": [
+    {
+      "ipLocation": "江西",
+      "invalid": false,
+      "id": "6a19666b000000002a026eec",
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "6a19830800000000280311af",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "64e2026a0000000001011c09",
+        "nickname": "owow",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qknnmnh0a6g5p7209l0a70926j9uo0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABODAgoQT26eZsXBMFuqpbTHKKEvS0XG2KLq5UAHtK1aw="
+      },
+      "createTime": 1780049516000,
+      "subCommentHasMore": false,
+      "content": "我放弃月薪3000的工作，选了月薪8000的工作",
+      "likeCount": "134",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "showTags": [],
+          "targetComment": {
+            "id": "6a19666b000000002a026eec",
+            "userInfo": {
+              "nickname": "owow",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qknnmnh0a6g5p7209l0a70926j9uo0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABODAgoQT26eZsXBMFuqpbTHKKEvS0XG2KLq5UAHtK1aw=",
+              "userId": "64e2026a0000000001011c09"
+            }
+          },
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABgCXc1O10t0p4YP5fouKMSbGIgYsQWG39sfb7wA9z6lk=",
+            "userId": "5c8a5963000000001600fd3e",
+            "nickname": "小红薯6A3273D3",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f6e338379fac1893093.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1780056840000,
+          "ipLocation": "浙江",
+          "invalid": false,
+          "id": "6a19830800000000280311af",
+          "noteId": "6a194f6300000000070287ef",
+          "status": 0,
+          "content": "哈哈哈[doge]",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "noteId": "6a194f6300000000070287ef",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a1a60bd000000002803f3f0",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "status": 0,
+      "likeCount": "12",
+      "invalid": false,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "xsecToken": "AB5eGtwI5CQdJDJajQUGLe7CLPA7PcCFoJvah7ckZ3L80=",
+            "userId": "62de5184000000001e01e8b7",
+            "nickname": "飞雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1780141380000,
+          "ipLocation": "浙江",
+          "content": "好像国集清北，ioi可mit",
+          "atUsers": [],
+          "showTags": [],
+          "targetComment": {
+            "id": "6a1a60bd000000002803f3f0",
+            "userInfo": {
+              "userId": "643033f700000000120137db",
+              "nickname": "星稔",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31su3878bm8005p1g6frkidur8gh3dgg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPIekcQfwvFNDuRElXN1yRQgXPAHOdLBRzYMH4xa8JtU="
+            }
+          },
+          "invalid": false,
+          "id": "6a1acd4300000000270298f1",
+          "noteId": "6a194f6300000000070287ef"
+        }
+      ],
+      "subCommentCursor": "6a1acd4300000000270298f1",
+      "noteId": "6a194f6300000000070287ef",
+      "content": "放弃清华去mit很正常吧",
+      "userInfo": {
+        "userId": "643033f700000000120137db",
+        "nickname": "星稔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31su3878bm8005p1g6frkidur8gh3dgg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPIekcQfwvFNDuRElXN1yRQgXPAHOdLBRzYMH4xa8JtU="
+      },
+      "createTime": 1780113597000,
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "6",
+      "showTags": [],
+      "createTime": 1780058973000,
+      "subComments": [
+        {
+          "id": "6a1a4c55000000002300e3a6",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "nickname": "带孩子玩AI的江哥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/65ddfdbd2b761cbe02056805.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABlollfNfXHTibxaH4hCYb1jWG2JFGBxb9_uuSHeOGbK8=",
+            "userId": "55abc43662a60c215e534029"
+          },
+          "ipLocation": "江苏",
+          "noteId": "6a194f6300000000070287ef",
+          "content": "对",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1780108374000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "63064b3c000000001200f976",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1iHn47jd67cBrhys_ppgTGDlOdbjeOiJ1wIu7ZE1wOc="
+            },
+            "id": "6a198b5c000000002800a669"
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "userInfo": {
+        "userId": "63064b3c000000001200f976",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1iHn47jd67cBrhys_ppgTGDlOdbjeOiJ1wIu7ZE1wOc="
+      },
+      "id": "6a198b5c000000002800a669",
+      "status": 0,
+      "liked": false,
+      "subCommentCursor": "6a1a4c55000000002300e3a6",
+      "noteId": "6a194f6300000000070287ef",
+      "content": "好像是邓明扬WF夺冠时候的队友",
+      "ipLocation": "广东",
+      "subCommentCount": "4",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "四川",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "TyXsG",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h40grs234005o9qpiugk5fccujbb10?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABGqQuofVcrGO6ueJNTs1yeqvcIoq9w5YUZkcCcAgUUJI=",
+            "userId": "613accbd00000000020215ec"
+          },
+          "showTags": [],
+          "createTime": 1783098121000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a268d5b00000000270213e4",
+            "userInfo": {
+              "userId": "691d8ce8000000003702a990",
+              "nickname": "热心咔",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f3c86578b8c6ab3b068.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABs0_ZfAMj2mlDDXN05sP98x3bv78uhvjDFwcf4w9yMuA="
+            }
+          },
+          "id": "6a47eb09000000000d021800",
+          "noteId": "6a194f6300000000070287ef",
+          "content": "好问题，他们考虑的是两个问题应该。",
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false,
+          "status": 0
+        }
+      ],
+      "noteId": "6a194f6300000000070287ef",
+      "status": 0,
+      "createTime": 1780911452000,
+      "subCommentCursor": "6a47eb09000000000d021800",
+      "content": "我记得dijkstra不是被证明是普遍最优的算法吗",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f3c86578b8c6ab3b068.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABs0_ZfAMj2mlDDXN05sP98x3bv78uhvjDFwcf4w9yMuA=",
+        "userId": "691d8ce8000000003702a990",
+        "nickname": "热心咔"
+      },
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "6a268d5b00000000270213e4",
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCursor": "6a591eb3000000002a031b46",
+      "invalid": false,
+      "id": "6a1a3fc3000000002902d0a4",
+      "userInfo": {
+        "nickname": "帅而不自知的呆萌男大",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3236h9nfa7u005nmkad108bmrj0i18vg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUx36QSvZD52u-lb7FZgEa8EBgsj_VciqOuIZAPmOvNA=",
+        "userId": "5ed453420000000001002edb"
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "targetComment": {
+            "id": "6a1a3fc3000000002902d0a4",
+            "userInfo": {
+              "xsecToken": "ABUx36QSvZD52u-lb7FZgEa8EBgsj_VciqOuIZAPmOvNA=",
+              "userId": "5ed453420000000001002edb",
+              "nickname": "帅而不自知的呆萌男大",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3236h9nfa7u005nmkad108bmrj0i18vg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "6a194f6300000000070287ef",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t24uopu5k5g5odolv441b1bhrhjl4g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABSHdruJAZRwYJE4zEmnleNl5JdEpPJuSdpf2IWlpQrds=",
+            "userId": "61b8afc8000000001000ac2b",
+            "nickname": "q1"
+          },
+          "createTime": 1784225460000,
+          "ipLocation": "广东",
+          "id": "6a591eb3000000002a031b46",
+          "content": "第一题巨大失误 白给了[doge]"
+        }
+      ],
+      "atUsers": [],
+      "likeCount": "2",
+      "createTime": 1780105156000,
+      "noteId": "6a194f6300000000070287ef",
+      "content": "IOI才拿银牌？还得练[偷笑R]",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a1959060000000029037609",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "8",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "[赞R][赞R][赞R]清华段然团队",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "55abc43662a60c215e534029",
+            "nickname": "带孩子玩AI的江哥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/65ddfdbd2b761cbe02056805.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABlollfNfXHTibxaH4hCYb1jWG2JFGBxb9_uuSHeOGbK8="
+          },
+          "ipLocation": "江苏",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1780108610000,
+          "targetComment": {
+            "id": "6a1959060000000029037609",
+            "userInfo": {
+              "nickname": "贝克街的马车夫",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e90e29f7d0acadad8aa.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpeNBxlqqWPyfL_5fohiC-iNSemLW4BlQ0sQZwvJeLK0=",
+              "userId": "655c5eaf0000000002036020"
+            }
+          },
+          "invalid": false,
+          "id": "6a1a4d41000000002100e9b5",
+          "noteId": "6a194f6300000000070287ef"
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a194f6300000000070287ef",
+      "status": 0,
+      "content": "可是五个人里面有三个清华的。。",
+      "userInfo": {
+        "userId": "655c5eaf0000000002036020",
+        "nickname": "贝克街的马车夫",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e90e29f7d0acadad8aa.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpeNBxlqqWPyfL_5fohiC-iNSemLW4BlQ0sQZwvJeLK0="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "createTime": 1780046087000,
+      "ipLocation": "北京",
+      "subCommentCursor": "6a1a4d41000000002100e9b5",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "subCommentCount": "1",
+      "subCommentCursor": "6a1a4c68000000002100e12a",
+      "liked": false,
+      "likeCount": "8",
+      "createTime": 1780044121000,
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a195158000000002a024846",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "北京",
+      "userInfo": {
+        "userId": "67bfb721000000000e01f2eb",
+        "nickname": "TogetherWay",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t8mdvql5mdg5ptvmsgjjsnbs6jh5eo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhjmImDU1LPmCB7oABO2aqowdKgem9nlKNjo2HyUALkQ="
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a195158000000002a024846",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABhjmImDU1LPmCB7oABO2aqowdKgem9nlKNjo2HyUALkQ=",
+              "userId": "67bfb721000000000e01f2eb",
+              "nickname": "TogetherWay",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t8mdvql5mdg5ptvmsgjjsnbs6jh5eo?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "6a194f6300000000070287ef",
+          "content": "毛爷爷",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABlollfNfXHTibxaH4hCYb1jWG2JFGBxb9_uuSHeOGbK8=",
+            "userId": "55abc43662a60c215e534029",
+            "nickname": "带孩子玩AI的江哥",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/65ddfdbd2b761cbe02056805.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [],
+          "id": "6a1a4c68000000002100e12a",
+          "status": 0,
+          "likeCount": "0",
+          "createTime": 1780108392000,
+          "ipLocation": "江苏"
+        }
+      ],
+      "noteId": "6a194f6300000000070287ef",
+      "content": "Matthew99",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a194f6300000000070287ef",
+      "showTags": [],
+      "likeCount": "0",
+      "createTime": 1780140826000,
+      "subCommentCursor": "",
+      "invalid": false,
+      "subComments": [],
+      "id": "6a1acb19000000002803d307",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5c59c389000000001a037171",
+        "nickname": "MoMo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ij89a6v0a005n2poe4mmsbh1r7geq8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgCM_oxfSabkh2fbOj4mneRbsvgBUFKBTUtW0WS0iCMY="
+      },
+      "ipLocation": "上海",
+      "content": "牛逼",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [
+        {
+          "xsecToken": "ABMtDD06aVclQAmwbYrQrVT1WJJxYJKsMhVgJs51l6i-k=",
+          "userId": "632bc95a0000000023026684",
+          "nickname": "云吃吃",
+          "aiAgent": false
+        }
+      ],
+      "invalid": false,
+      "content": "@云吃吃 诶[呃R]去年学的",
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1780054952000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "noteId": "6a194f6300000000070287ef",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB1h2ldNeCxQRz3VE2hId8rFwFjv6A-_Qyy50kdka5-iU=",
+        "userId": "651646680000000023026b79",
+        "nickname": "cosphy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q4khp8378605p8m8pk8sqrprfcg6jg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "北京",
+      "subCommentCount": "0",
+      "id": "6a197ba7000000002a02e416",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "noteId": "6a194f6300000000070287ef",
+      "status": -2,
+      "atUsers": [
+        {
+          "userId": "64def9db0000000001004df5",
+          "nickname": "Acdamager",
+          "aiAgent": false,
+          "xsecToken": "ABNE-e2mCooBLk8oY4MoWfPcIQG3ItrwWaKJmFqFziHLs="
+        },
+        {
+          "userId": "64c130ad0000000014039551",
+          "nickname": "梦起浮沉",
+          "aiAgent": false,
+          "xsecToken": "AB0hEdmwEPAamwIS94LMISdOM3Oe-cpDumIy9F28LEt-c="
+        }
+      ],
+      "userInfo": {
+        "userId": "650718dd000000001603b52a",
+        "nickname": "梦起沉浮",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLb3aVFFk5BcPPQrVrvISWkqYMasxXWUc_mpeMpnyVgI="
+      },
+      "createTime": 1780071297000,
+      "ipLocation": "河北",
+      "content": "@Acdamager @梦起浮沉",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a19bb800000000027029f31",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 搜索引擎",
+  "search_item": {
+    "id": "6a194f6300000000070287ef",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "NOAI竞赛-阿帕老师",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t4h83splk605prvhkr23ef50qj8ugo?imageView2/2/w/80/format/jpg",
+        "userId": "677f8d36000000000801b9e5",
+        "nickname": "NOAI竞赛-阿帕老师",
+        "xsecToken": "ABhcekmn-3mF_9B_mSNijVlH4xw6F7saD4C0jctGRgof0="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "168",
+        "collected": false,
+        "collectedCount": "66",
+        "commentCount": "22",
+        "sharedCount": "62"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041830/d5cef56ebdd199627ead6f1ff74e5dfa/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041830/00b670fbfa354a973102b9ece824a3fe/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nc_n_webp_prv_1",
+        "height": 2880,
+        "width": 2160
+      },
+      "imageList": [
+        {
+          "width": 2160,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041830/d5cef56ebdd199627ead6f1ff74e5dfa/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041830/00b670fbfa354a973102b9ece824a3fe/spectrum/1040g0k0320od2s4s5k005prvhkr23ef5sm20h6g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2880
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-06"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "IOI队长突破40年Dijkstra瓶颈"
+    },
+    "xsecToken": "ABaSnySJRJ-LXby73tyQTL_KTjhcIt36kOw_j-lrkyFAU=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6a194f6300000000070287ef"
+  }
+}

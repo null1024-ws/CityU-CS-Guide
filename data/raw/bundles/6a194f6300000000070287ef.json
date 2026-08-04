@@ -1,0 +1,130 @@
+{
+  "note_id": "6a194f6300000000070287ef",
+  "url": "https://www.xiaohongshu.com/explore/6a194f6300000000070287ef?xsec_token=ABaSnySJRJ-LXby73tyQTL_KTjhcIt36kOw_j-lrkyFAU=",
+  "fetched_at": 1785839480.6106932,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "IOI队长突破40年Dijkstra瓶颈",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "打信息学竞赛的孩子，几乎都写过Dijkstra这个算法：从一个点出发，算出到地图上每个点的最短路。手机导航找最近的路，用的就是这一类。👀\n它1959年就有了。速度的极限1984年定下来，之后四十年，全世界没人能让它更快。\n2025年6月，这个纪录被打破了。一篇论文做出了更快的算法，拿下理论计算机顶会STOC的年度最佳论文。五个作者里有一个长沙人，叫毛啸。\n雅礼中学出来的，四次NOI金牌，2016年全国第一，IOI国家队队长。后来放弃清华保送去了MIT，本科一个人写论文就拿下FOCS最佳学生论文奖，现在在斯坦福读博。\n他读大学时还给NOI、CSP出过题。现在孩子刷的那些往年真题里，没准就有他出的。🤯\n#信奥[话题]#  #NOI[话题]#  #IOI[话题]#  #信息学奥赛[话题]#  #青少年编程[话题]#  #NOAI[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我放弃月薪3000的工作，选了月薪8000的工作",
+      "sourceRef": "comment:6a19666b000000002a026eec",
+      "commentId": "6a19666b000000002a026eec",
+      "likes": 134,
+      "author": "owow"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈哈[doge]",
+      "sourceRef": "comment:6a19830800000000280311af",
+      "commentId": "6a19830800000000280311af",
+      "likes": 0,
+      "author": "小红薯6A3273D3"
+    },
+    {
+      "type": "comment",
+      "text": "放弃清华去mit很正常吧",
+      "sourceRef": "comment:6a1a60bd000000002803f3f0",
+      "commentId": "6a1a60bd000000002803f3f0",
+      "likes": 12,
+      "author": "星稔"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好像国集清北，ioi可mit",
+      "sourceRef": "comment:6a1acd4300000000270298f1",
+      "commentId": "6a1acd4300000000270298f1",
+      "likes": 2,
+      "author": "飞雨"
+    },
+    {
+      "type": "comment",
+      "text": "好像是邓明扬WF夺冠时候的队友",
+      "sourceRef": "comment:6a198b5c000000002800a669",
+      "commentId": "6a198b5c000000002800a669",
+      "likes": 6,
+      "author": "用户已注销"
+    },
+    {
+      "type": "comment",
+      "text": "我记得dijkstra不是被证明是普遍最优的算法吗",
+      "sourceRef": "comment:6a268d5b00000000270213e4",
+      "commentId": "6a268d5b00000000270213e4",
+      "likes": 0,
+      "author": "热心咔"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好问题，他们考虑的是两个问题应该。",
+      "sourceRef": "comment:6a47eb09000000000d021800",
+      "commentId": "6a47eb09000000000d021800",
+      "likes": 0,
+      "author": "TyXsG"
+    },
+    {
+      "type": "comment",
+      "text": "IOI才拿银牌？还得练[偷笑R]",
+      "sourceRef": "comment:6a1a3fc3000000002902d0a4",
+      "commentId": "6a1a3fc3000000002902d0a4",
+      "likes": 2,
+      "author": "帅而不自知的呆萌男大"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第一题巨大失误 白给了[doge]",
+      "sourceRef": "comment:6a591eb3000000002a031b46",
+      "commentId": "6a591eb3000000002a031b46",
+      "likes": 0,
+      "author": "q1"
+    },
+    {
+      "type": "comment",
+      "text": "可是五个人里面有三个清华的。。",
+      "sourceRef": "comment:6a1959060000000029037609",
+      "commentId": "6a1959060000000029037609",
+      "likes": 8,
+      "author": "贝克街的马车夫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[赞R][赞R][赞R]清华段然团队",
+      "sourceRef": "comment:6a1a4d41000000002100e9b5",
+      "commentId": "6a1a4d41000000002100e9b5",
+      "likes": 0,
+      "author": "带孩子玩AI的江哥"
+    },
+    {
+      "type": "comment",
+      "text": "Matthew99",
+      "sourceRef": "comment:6a195158000000002a024846",
+      "commentId": "6a195158000000002a024846",
+      "likes": 8,
+      "author": "TogetherWay"
+    },
+    {
+      "type": "comment",
+      "text": "@云吃吃 诶[呃R]去年学的",
+      "sourceRef": "comment:6a197ba7000000002a02e416",
+      "commentId": "6a197ba7000000002a02e416",
+      "likes": 1,
+      "author": "cosphy"
+    },
+    {
+      "type": "comment",
+      "text": "@Acdamager @梦起浮沉",
+      "sourceRef": "comment:6a19bb800000000027029f31",
+      "commentId": "6a19bb800000000027029f31",
+      "likes": 0,
+      "author": "梦起沉浮"
+    }
+  ]
+}

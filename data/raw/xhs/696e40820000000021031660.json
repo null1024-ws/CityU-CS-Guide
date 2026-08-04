@@ -1,0 +1,358 @@
+{
+  "note_id": "696e40820000000021031660",
+  "url": "https://www.xiaohongshu.com/explore/696e40820000000021031660?xsec_token=ABKGam6GfBQk6OBjFBYYO0ZlGZoI2xptU2RQnlIAnbKvA=",
+  "fetched_at": 1785841637.267127,
+  "note": {
+    "type": "normal",
+    "user": {
+      "userId": "654ca9b8000000000802c240",
+      "nickname": "George_C_Wallace",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30sacjtk0ig005pacl6s25gi0jfnfluo",
+      "xsecToken": "ABt3VZZj9mJtHaTu2gZ-153QduuhUyzbLz_aJhVzcdvHE="
+    },
+    "tagList": [
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "61062c5a0000000001001863",
+        "name": "港大",
+        "type": "topic"
+      },
+      {
+        "id": "5f1afcf2000000000100a283",
+        "name": "HKU",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5be3f4505b18e80001167d7c",
+        "name": "数学"
+      }
+    ],
+    "time": 1768833154000,
+    "title": "HKU Year3 sem1一些课的测评",
+    "desc": "COMP3230: 有名的烂龟课，但现在开卷了，给分还不错。好好看reading，认真复习assignment就行。\nCOMP3270: 老师有点摆，缺的课也没有补。也没有给反馈。少讲了HMM的一些内容、贝叶斯网络、NLP。如果完全照抄伯克利的CS188，会好很多。我考前对着伯克利的笔记复习，感觉比课程ppt的质量高得多。\nCOMP3353: 主要讲了基因组有关的生物信息学，带大家使用了一些生物信息学工具，最后的pre也让我认真查询了一些关于新冠病毒的资料。final很简单，和往年类似，据说RB以后要重新出题了。\nCOMP3354: 给分很好，workload小。但我觉得讲得不是很统计，除了generalization那一块，其余内容都很trivial。\nMATH3904：臧老师的口音有意思，5个assignment的题目都很好。我midterm curve后拿了89，final除了最后一题最后一问都写了。这学期时间紧，没有讲kkt的证明，有点遗憾。\nCCST9017: 我有点阴沟帆船，final那天状态很不好，人很不舒服，也算一点小遗憾吧！#选课[话题]# #港大[话题]# #HKU[话题]# #cs[话题]# #数学[话题]#",
+    "interactInfo": {
+      "shareCount": "9",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "8",
+      "relation": "none",
+      "likedCount": "44",
+      "collected": false,
+      "collectedCount": "26"
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041907/ccd2205959268d8aad91db44dd20dfed/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041907/912e3041c13084d6efa057ed939fe1e1/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8",
+        "height": 294,
+        "width": 1091,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041907/ccd2205959268d8aad91db44dd20dfed/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041907/912e3041c13084d6efa057ed939fe1e1/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nd_dft_wgth_jpg_3"
+          }
+        ]
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1768833154000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "696e40820000000021031660",
+    "xsecToken": "ABKGam6GfBQk6OBjFBYYO0ZlGZoI2xptU2RQnlIAnbKvA="
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "noteId": "696e40820000000021031660",
+      "status": 0,
+      "ipLocation": "江苏",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "696f50030000000005039625",
+      "liked": false,
+      "userInfo": {
+        "userId": "6796ef05000000000d009665",
+        "nickname": "邪恶的baka",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jcs5h05j0005psmts2j95j5egnmbqg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABs28RRMfruVNkEPWn-MJRMWBQ3U-WgCB-NzkTwabCtO4="
+      },
+      "createTime": 1768902659000,
+      "subCommentHasMore": false,
+      "content": "太强了哥哥[惊恐R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "696e40820000000021031660",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "62e02f54000000001f01768b",
+        "nickname": "PiTrick🥧",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dr7fqbggu005on05ta7qtkbr2tqmlg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnXR-69dQzMHvPbPXZZmdYVcDzxIouCiHq4XBYT5TyFQ="
+      },
+      "subCommentCount": "0",
+      "status": 0,
+      "subComments": [],
+      "invalid": false,
+      "id": "696e4db3000000000503813e",
+      "content": "太强了",
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1768836531000,
+      "ipLocation": "加拿大",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69736fb00000000018020909",
+      "status": 0,
+      "content": "tql哥哥",
+      "atUsers": [],
+      "likeCount": "1",
+      "createTime": 1769172913000,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31djk9q2f0k6g5onrfppkgb462ut8qmo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmaUub5m0sNN9V9x2AgLTuMDcXYZXAfeJlnRHjLo9l-o=",
+        "userId": "62fb7e730000000012002c86",
+        "nickname": "垂颤颤夏花繁重"
+      },
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "invalid": false,
+      "noteId": "696e40820000000021031660",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "liked": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "直系学长来捞intern了",
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABaX-mMdqOX4buqj80TMSy0nRL6xr7gOvzbw-m61Fa42c=",
+        "userId": "61f0a75b000000000201c98c",
+        "nickname": "小红薯61F105CC",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1769017776000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "697111af000000000601de6b",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "noteId": "696e40820000000021031660",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "Tql 哥哥",
+      "atUsers": [],
+      "likeCount": "2",
+      "createTime": 1768864025000,
+      "subComments": [],
+      "noteId": "696e40820000000021031660",
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "696eb9190000000018021221",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "加拿大",
+      "subCommentCount": "0",
+      "invalid": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABidrjEukhtAE04DKoHWMafhsdCXRva0QLqFcRHTB34zs=",
+        "userId": "62d412ef000000000303e96d",
+        "nickname": "shironeko",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kiqtdh632005omk2bngvqbd50tr9ko?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "5b1ce3e44eacab71d2d5185c",
+        "nickname": "小红薯jkpa",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s4i10a568604a64h2hu862slieog7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABF0bTLyCeLUJ3liQSVPL0ixVIljwYVkNv59sZPxhgcIE="
+      },
+      "subComments": [],
+      "content": "这爆四了吧？打算留多少学分给math呢？看你math不少？",
+      "atUsers": [],
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "invalid": false,
+      "status": 0,
+      "subCommentCursor": "",
+      "subCommentCount": "0",
+      "id": "696ea9240000000009021050",
+      "noteId": "696e40820000000021031660",
+      "showTags": [],
+      "createTime": 1768859941000,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6a6ac8230000000015002858",
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABMLTB8VLu3zU85FojUIRMsWfQ4BSp-gG0Mw4_1XZS7HE=",
+        "userId": "69223e8a000000003700b4b6",
+        "nickname": "Olivia_c",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ua8uqa52a005q927q5dpd5m3r9jpno?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "noteId": "696e40820000000021031660",
+      "content": "请问comp3230有gp和attendance吗",
+      "atUsers": [],
+      "id": "6a6ac53e000000000d023c01",
+      "status": -2,
+      "liked": false,
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "userId": "654ca9b8000000000802c240",
+            "nickname": "George_C_Wallace",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30sacjtk0ig005pacl6s25gi0jfnfluo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABkTnvxKf1UYfhJ5qKQA7aN469OUYSVRW_Rg9RSJ0Rwl4="
+          },
+          "createTime": 1785382947000,
+          "invalid": false,
+          "noteId": "696e40820000000021031660",
+          "content": "🈚️",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a6ac53e000000000d023c01",
+            "userInfo": {
+              "userId": "69223e8a000000003700b4b6",
+              "nickname": "Olivia_c",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ua8uqa52a005q927q5dpd5m3r9jpno?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMLTB8VLu3zU85FojUIRMsWfQ4BSp-gG0Mw4_1XZS7HE="
+            }
+          },
+          "id": "6a6ac8230000000015002858",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "createTime": 1785382207000,
+      "subCommentCount": "1",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 避雷",
+  "search_item": {
+    "id": "696e40820000000021031660",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickname": "George_C_Wallace",
+        "xsecToken": "AB1Xrl11dhMaUy8wrKWOmJAsmFgVlSKeyrD7OWqJIyNGY=",
+        "nickName": "George_C_Wallace",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30sacjtk0ig005pacl6s25gi0jfnfluo?imageView2/2/w/80/format/jpg",
+        "userId": "654ca9b8000000000802c240"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "44",
+        "collected": false,
+        "collectedCount": "26",
+        "commentCount": "8",
+        "sharedCount": "9"
+      },
+      "cover": {
+        "width": 1091,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041906/2a1afc5582476572dbb1e3aa7df92339/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041906/1cc0e142cdae6e8d29b9b6ddb0b1bcda/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nc_n_webp_prv_1",
+        "height": 294
+      },
+      "imageList": [
+        {
+          "height": 294,
+          "width": 1091,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/2a1afc5582476572dbb1e3aa7df92339/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/1cc0e142cdae6e8d29b9b6ddb0b1bcda/notes_pre_post/1040g3k031rhbaaa1ng005pacl6s25gi0p2n19s8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-19"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "HKU Year3 sem1一些课的测评"
+    },
+    "xsecToken": "ABKGam6GfBQk6OBjFBYYO0ZlGZoI2xptU2RQnlIAnbKvA=",
+    "index": 15,
+    "exposed": false,
+    "trackId": "696e40820000000021031660"
+  }
+}

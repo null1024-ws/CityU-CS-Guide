@@ -1,0 +1,604 @@
+{
+  "note_id": "6a62139a000000000f03c894",
+  "url": "https://www.xiaohongshu.com/explore/6a62139a000000000f03c894?xsec_token=AB2wCvaXuIG2TGwn79_0qnSYM5KhcCZrg4dMFjfHsMoIM=",
+  "fetched_at": 1785838757.158591,
+  "note": {
+    "xsecToken": "AB2wCvaXuIG2TGwn79_0qnSYM5KhcCZrg4dMFjfHsMoIM=",
+    "title": "CUHK cs的MSc的bar是怎么样的呀",
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041819/af7633d70482e290273156cc58781b1b/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041819/d23b79fce915a1f9c0aabaaa0eb90762/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041819/af7633d70482e290273156cc58781b1b/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041819/d23b79fce915a1f9c0aabaaa0eb90762/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nd_prv_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "time": 1784812442000,
+    "lastUpdateTime": 1784813030000,
+    "ipLocation": "北京",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a62139a000000000f03c894",
+    "type": "normal",
+    "desc": "贴主由于保研失利，有了想转码的念头。\nbg: pku 物院，均分84分左右，雅思7（去年八月考的，不知道会不会过期），没有cs相关科研经历[哭惹R]",
+    "user": {
+      "xsecToken": "AB0h2rkzdmUVcPv8eHsl6SDy4B3tV4zorr0-1aBdbeo-w=",
+      "userId": "6621222f0000000007007267",
+      "nickname": "不上ict不改名",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg"
+    },
+    "interactInfo": {
+      "likedCount": "22",
+      "collected": false,
+      "collectedCount": "4",
+      "commentCount": "81",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "shareCount": "6",
+      "followed": false
+    },
+    "atUserList": []
+  },
+  "comments": [
+    {
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "6621222f0000000007007267",
+        "nickname": "不上ict不改名",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lsRfUw-PScdjqhEaeEHpNJ4="
+      },
+      "subCommentCount": "1",
+      "id": "6a62dd95000000002a024500",
+      "likeCount": "10",
+      "createTime": 1784864149000,
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a62dd95000000002a024500",
+            "userInfo": {
+              "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lsRfUw-PScdjqhEaeEHpNJ4=",
+              "userId": "6621222f0000000007007267",
+              "nickname": "不上ict不改名",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a6370fa0000000029034557",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sr5kebmm8l05o8dl53g83esbludr30?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABvZI4SaXPYEhjxt30U11ZZcvIuxyV2ceVOcN9fXdNg0U=",
+            "userId": "610da9470000000001000ddc",
+            "nickname": "我是一颗小虎牙"
+          },
+          "invalid": false,
+          "noteId": "6a62139a000000000f03c894",
+          "status": 0,
+          "content": "试试考研呢？考本校应该不难吧",
+          "showTags": [],
+          "createTime": 1784901883000,
+          "ipLocation": "浙江"
+        }
+      ],
+      "invalid": false,
+      "subCommentCursor": "6a6370fa0000000029034557",
+      "noteId": "6a62139a000000000f03c894",
+      "status": 4,
+      "content": "谢谢广大网友的建议，已经初步决定gap一年在本校做项目，然后申phd了[微笑R]中介机构勿扰",
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "9",
+      "id": "6a621945000000002a025d67",
+      "ipLocation": "中国台湾",
+      "noteId": "6a62139a000000000f03c894",
+      "atUsers": [],
+      "subCommentCursor": "6a621c43000000002b027393",
+      "status": 0,
+      "content": "感觉比本科bar高，本科进cuhk现在也就211水平，水硕去要985高绩hh。不过转专业确实有被卡风险，即便是清北，最好有点cs实习或是课吧。",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f8jg08qmi605pe06sc3bmjfh87hq3g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-AChAa4BbzukFFUfxTk-ywPGogSPZ6OGZ6BVbMvuby0=",
+        "userId": "65c03718000000000d01da6f",
+        "nickname": "momo"
+      },
+      "showTags": [],
+      "createTime": 1784813894000,
+      "likeCount": "5",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "6a621c43000000002b027393",
+          "content": "好的谢谢uu 实在不行gap了",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "6621222f0000000007007267",
+            "nickname": "不上ict不改名",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lsRfUw-PScdjqhEaeEHpNJ4="
+          },
+          "createTime": 1784814660000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a621945000000002a025d67",
+            "userInfo": {
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f8jg08qmi605pe06sc3bmjfh87hq3g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB-AChAa4BbzukFFUfxTk-ywPGogSPZ6OGZ6BVbMvuby0=",
+              "userId": "65c03718000000000d01da6f"
+            }
+          },
+          "noteId": "6a62139a000000000f03c894",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "6554b99c000000000201065c",
+        "nickname": "maritimeday",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3107p1p115u605pakn6e0i1is6rcj080?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVXG03XZ3UTrZM9KBgQGcPE1D9oretYcG6ZKpzL3guyM="
+      },
+      "ipLocation": "湖北",
+      "subCommentCount": "6",
+      "subCommentCursor": "6a62160c000000002b002255",
+      "id": "6a6214ce0000000005014413",
+      "noteId": "6a62139a000000000f03c894",
+      "content": "刚想说bar蛮高的，一看帖主pku，大胆冲吧[棒R]",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": true,
+      "createTime": 1784812751000,
+      "subComments": [
+        {
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lsRfUw-PScdjqhEaeEHpNJ4=",
+            "userId": "6621222f0000000007007267",
+            "nickname": "不上ict不改名"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "6a62160c000000002b002255",
+          "status": 0,
+          "liked": false,
+          "createTime": 1784813069000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a6214ce0000000005014413",
+            "userInfo": {
+              "nickname": "maritimeday",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3107p1p115u605pakn6e0i1is6rcj080?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABVXG03XZ3UTrZM9KBgQGcPE1D9oretYcG6ZKpzL3guyM=",
+              "userId": "6554b99c000000000201065c"
+            }
+          },
+          "noteId": "6a62139a000000000f03c894",
+          "content": "这对跨专业友好吗[哭惹R]",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "likeCount": "35",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a6335fe000000002b02782e",
+      "liked": false,
+      "ipLocation": "江苏",
+      "subComments": [
+        {
+          "showTags": [],
+          "targetComment": {
+            "id": "6a6335fe000000002b02782e",
+            "userInfo": {
+              "userId": "5de67897000000000100929c",
+              "nickname": "Nocturne.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fsbjog7e005nf6f2bg94ksjog60t0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABHwXrJ3otYQHDeXmt7cYd11_3NAykFVttS7Hm1VnOvQc="
+            }
+          },
+          "invalid": false,
+          "id": "6a63f4fb000000000802fb2f",
+          "noteId": "6a62139a000000000f03c894",
+          "status": 0,
+          "content": "是因为申太晚了吗[捂脸R] 理论上应该点击即送啊",
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB6AKGQ0cMN2O50-6_J8Mr05UqMhYPzFDueV4kR2014KE=",
+            "userId": "668124eb0000000007006f5c",
+            "nickname": "Jay",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314lq350r6i6g5pk14jlhorqs37hi0io?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1784935676000,
+          "ipLocation": "上海",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a62139a000000000f03c894",
+      "subCommentHasMore": true,
+      "content": "我SJTU的计算机相关专业， 7.5 86 cs没申上",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fsbjog7e005nf6f2bg94ksjog60t0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABHwXrJ3otYQHDeXmt7cYd11_3NAykFVttS7Hm1VnOvQc=",
+        "userId": "5de67897000000000100929c",
+        "nickname": "Nocturne."
+      },
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1784886783000,
+      "subCommentCount": "7",
+      "subCommentCursor": "6a63f4fb000000000802fb2f",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a6562f8000000002a02f319",
+      "noteId": "6a62139a000000000f03c894",
+      "subCommentCursor": "6a677b200000000015017c80",
+      "subCommentHasMore": true,
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABHwXrJ3otYQHDeXmt7cYd11_3NAykFVttS7Hm1VnOvQc=",
+        "userId": "5de67897000000000100929c",
+        "nickname": "Nocturne.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fsbjog7e005nf6f2bg94ksjog60t0?imageView2/2/w/120/format/jpg"
+      },
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1785029368000,
+      "ipLocation": "江苏",
+      "content": "我 TOP4 86 分 去年一堆人跟我说点击就送 我就申了 cs 一个 几个月没动静才补申别的 看不下去别人重蹈覆辙 建议大家早点投递申请 并且多申请几个类似专业  错开投递 别孤注一掷了[扯脸H]",
+      "showTags": [],
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "noteId": "6a62139a000000000f03c894",
+          "status": 0,
+          "content": "请问你是什么时候申请的[石化R]",
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABg691gZPQsiDrYxnnb73PhKSY5ZgIhiMn3d5e7ZuILb8=",
+            "userId": "64be2025000000001403c16a",
+            "nickname": "Twistzz",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30mtcafeqkk005p5u40il7gbaibaoifg?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a6562f8000000002a02f319",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321fsbjog7e005nf6f2bg94ksjog60t0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABHwXrJ3otYQHDeXmt7cYd11_3NAykFVttS7Hm1VnOvQc=",
+              "userId": "5de67897000000000100929c",
+              "nickname": "Nocturne."
+            }
+          },
+          "id": "6a677b200000000015017c80",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1785166624000,
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a621894000000002a0061b5",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1784813717000,
+      "ipLocation": "新加坡",
+      "invalid": false,
+      "subCommentCursor": "6a621c4a000000002a024a8f",
+      "noteId": "6a62139a000000000f03c894",
+      "content": "nju se 均分84.8雅思6.5被默拒 可能是申请晚了 还得早申吧[笑哭R]",
+      "liked": false,
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABi17ldbLsqGFbQq1P2xWSRFNzH5XpTDS-SKcBpS5L2Zs=",
+        "userId": "5d35c94c000000001103c073",
+        "nickname": "🍔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u8k3gt32a0g5n9lp564fg3jatinlhg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "createTime": 1784814667000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a621894000000002a0061b5",
+            "userInfo": {
+              "userId": "5d35c94c000000001103c073",
+              "nickname": "🍔",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u8k3gt32a0g5n9lp564fg3jatinlhg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABi17ldbLsqGFbQq1P2xWSRFNzH5XpTDS-SKcBpS5L2Zs="
+            }
+          },
+          "noteId": "6a62139a000000000f03c894",
+          "content": "谢谢uu提醒",
+          "liked": false,
+          "userInfo": {
+            "userId": "6621222f0000000007007267",
+            "nickname": "不上ict不改名",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4bCHznqMEdb_y7htCvZ8lsRfUw-PScdjqhEaeEHpNJ4="
+          },
+          "invalid": false,
+          "id": "6a621c4a000000002a024a8f",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [],
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1785288151000,
+      "ipLocation": "英国",
+      "invalid": false,
+      "subCommentCount": "0",
+      "content": "本人211+cu[doge]申请美国r1 phd offer 5个，不过都是top 50-100的，也拿了澳州非八大校奖。现在uk全奖phd中，你是北大本➕cu申请phd更是点击就送",
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315d6j9bc1e5g5nctbu7g862upm71emo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABb9IhZmwZ8uTF3-_0NGze6cL__1JbQnjqLfsKZs6SeRs=",
+        "userId": "5d9d5f8f000000000100185e",
+        "nickname": "Squirrelled"
+      },
+      "id": "6a6955d6000000002a02e2f6",
+      "noteId": "6a62139a000000000f03c894",
+      "status": 0,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "2",
+      "createTime": 1784853121000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "628d5c260000000021021435",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31se3ssd056605okdbgj8c51lp25c8v0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AByj9vU5cX9hRLCfuKUQtNKucMeSRcDYeKCYy-wHKJ-O8="
+          },
+          "showTags": [],
+          "createTime": 1784862244000,
+          "targetComment": {
+            "id": "6a62b2810000000029034869",
+            "userInfo": {
+              "nickname": "小e",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ubje14j2o005oqa0qi6bqfjshk05r0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB2135pvIDSZsZlemnHeLXVRAMljPpzTSHITAtuC-WcRk=",
+              "userId": "634a06a4000000001901e9f3"
+            }
+          },
+          "id": "6a62d624000000000403be53",
+          "liked": false,
+          "likeCount": "0",
+          "ipLocation": "江苏",
+          "invalid": false,
+          "noteId": "6a62139a000000000f03c894",
+          "status": 0,
+          "content": "他问的是msc",
+          "atUsers": []
+        }
+      ],
+      "status": 0,
+      "content": "cu的计算机和ai是港三新二最强的，你现在申请可能拿不到奖学金了。只能自费去读了",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "634a06a4000000001901e9f3",
+        "nickname": "小e",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ubje14j2o005oqa0qi6bqfjshk05r0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2135pvIDSZsZlemnHeLXVRAMljPpzTSHITAtuC-WcRk="
+      },
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a62b2810000000029034869",
+      "noteId": "6a62139a000000000f03c894",
+      "showTags": [],
+      "subCommentCursor": "6a62d624000000000403be53",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "pku 你直接申港三就行。直接给教授套磁mphil都有戏，有的教室就喜欢清北，跨专业+没科研经历都没事",
+      "id": "6a62d0dd000000002b02b0d1",
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6a62139a000000000f03c894",
+      "showTags": [],
+      "atUsers": [],
+      "userInfo": {
+        "userId": "673f73d7000000001d02c322",
+        "nickname": "简简单单",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABchFvr-1KJs1yI0i__i4nE5JAzpGN2C8Ce65XZWubzFw="
+      },
+      "createTime": 1784860894000,
+      "ipLocation": "北京",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a62139a000000000f03c894",
+      "content": "pku那还说啥了，msc送你了",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "likeCount": "9",
+      "subComments": [],
+      "id": "6a62153c0000000015009215",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322v2p5mhna005o7k9ap85rvss6rpik8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABkgqx5gn_lETMJEMk1T29ULKs3F9PQ-ZEZPb8cZoutrI=",
+        "userId": "60f44ab2000000002002effc",
+        "nickname": "momo"
+      },
+      "ipLocation": "内蒙古",
+      "subCommentCursor": "",
+      "createTime": 1784812860000,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 避雷",
+  "search_item": {
+    "id": "6a62139a000000000f03c894",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CUHK cs的MSc的bar是怎么样的呀",
+      "user": {
+        "userId": "6621222f0000000007007267",
+        "nickname": "不上ict不改名",
+        "xsecToken": "ABxUHp-JdyJErKUT1WWfEJ9GXGhiEVoM7TnvnlN20EsBc=",
+        "nickName": "不上ict不改名",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322vf5nvf02005ph148nhosj7m418jcg?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "22",
+        "collected": false,
+        "collectedCount": "4",
+        "commentCount": "81",
+        "sharedCount": "6"
+      },
+      "cover": {
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041819/0b0974762089df7a581c0ed34e40d8fd/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041819/f2ffb06c3c63441f5c848182f1bfaaea/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nc_n_webp_prv_1",
+        "height": 1600
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041819/0b0974762089df7a581c0ed34e40d8fd/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041819/f2ffb06c3c63441f5c848182f1bfaaea/notes_pre_post/1040g3k0322vf1uig02705ph148nhosj76h9fd20!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "07-23",
+          "type": "publish_time"
+        }
+      ]
+    },
+    "xsecToken": "AB2wCvaXuIG2TGwn79_0qnSYM5KhcCZrg4dMFjfHsMoIM=",
+    "index": 10,
+    "exposed": false,
+    "trackId": "6a62139a000000000f03c894"
+  }
+}

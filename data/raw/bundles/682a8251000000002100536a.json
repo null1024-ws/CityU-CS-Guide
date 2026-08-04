@@ -1,0 +1,61 @@
+{
+  "note_id": "682a8251000000002100536a",
+  "url": "https://www.xiaohongshu.com/explore/682a8251000000002100536a?xsec_token=ABV6PtbqiqgDQNKz6zEyJmOiBuVTM4A-T0QIjhvkkZceQ=",
+  "fetched_at": 1785842860.3449605,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "🚀 MMLongBench：首个长上下文视觉语言模型综合性评测基准！\n\t\n主页：https://zhaowei-wang-nlp.github.io/MMLongBench-page/\n论文地址：https://arxiv.org/abs/2505.10610\n代码：https://github.com/EdinburghNLP/MMLongBench\n数据集：https://huggingface.co/datasets/ZhaoweiWang/MMLongBench\n\t\n⭐️研究背景\n随着长上下文视觉语言模型（Long-Context Vision-Language Models; LCVLMs）的快速发展，模型单次输入已可处理数百张图像与文本的交错序列。然而，现有评测基准在任务多样性、图像类型覆盖度与输入长度标准化方面存在显著局限，难以系统评估模型真实长上下文能力。现有的数据集往往只测评了单个任务，例如NIAH或Long-Document VQA。\n\t\n⭐️核心创新\nMMLongBench作为首个综合性长上下文视觉语言评测基准，具备三大突破性设计：\n1️⃣ 覆盖5大任务类型，包含13,331个样本：Visual RAG、大海捞针（NIAH）、Many-Shot In-Context Learning、 Long-Document Summarization、Long-Document VQA\n2️⃣ 跨模态长度控制：使用image patch和text token来计算上下文长度，严格标准化8K/16K/32K/64K/128K输入长度\n3️⃣ 覆盖多种自然图像 (例如照片)和合成图像(例如生成的图片和PDF截图)\n\t\n⭐️关键发现\n通过对46个模型的系统性评测，我们揭示：\n🔹 单任务表现无法反映整体能力：模型在不同任务类型间存在显著性能波动\n🔹 长上下文对开源模型和闭源模型都是高难度挑战\n🔹 推理能力帮助上下文：具有强推理能力的模型在长上下文任务中表现更优",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "数据集里evidence_pages超多错误，麻了已经",
+      "sourceRef": "comment:682b0a88000000001c031adc",
+      "commentId": "682b0a88000000001c031adc",
+      "likes": 0,
+      "author": "切线"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们没有对原本数据集的evidence page做修改，然后evidence page idx是从0开始的",
+      "sourceRef": "comment:682b0d550000000003037c94",
+      "commentId": "682b0d550000000003037c94",
+      "likes": 1,
+      "author": "王昭为 James"
+    },
+    {
+      "type": "comment",
+      "text": "请问K4,K8,K16有什么区别",
+      "sourceRef": "comment:690ba5ec000000003102c9e9",
+      "commentId": "690ba5ec000000003102c9e9",
+      "likes": 0,
+      "author": "保研想要offer人"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个是输入的长度，多少个token",
+      "sourceRef": "comment:6918a09e0000000038009b2b",
+      "commentId": "6918a09e0000000038009b2b",
+      "likes": 0,
+      "author": "王昭为 James"
+    },
+    {
+      "type": "comment",
+      "text": "关注的两个博主梦幻联动了[哇R]",
+      "sourceRef": "comment:682ab674000000000b01dcad",
+      "commentId": "682ab674000000000b01dcad",
+      "likes": 0,
+      "author": "吸瓜海绵(AI爆发沉迷思考版）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢关注🙏🏻",
+      "sourceRef": "comment:682b0855000000000702977d",
+      "commentId": "682b0855000000000702977d",
+      "likes": 0,
+      "author": "王昭为 James"
+    }
+  ]
+}

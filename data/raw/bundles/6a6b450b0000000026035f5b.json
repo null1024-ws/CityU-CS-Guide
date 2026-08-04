@@ -1,0 +1,18 @@
+{
+  "note_id": "6a6b450b0000000026035f5b",
+  "url": "https://www.xiaohongshu.com/explore/6a6b450b0000000026035f5b?xsec_token=AB18E15xyRqwCLne7RQOKEMYyDo13HG2H5pvAxNzaM4zg=",
+  "fetched_at": 1785838879.2116616,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "城大AgenticCANN：算子生成别只靠代码",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "LLM 已经能写 CUDA kernel，但换到 NPU 上，问题就不只是代码能力了。\n\t\nAscend C 和 CUDA 的编程范式不同。它更强调 UB tiling、TQue、显式数据流和硬件约束。公开语料又少，模型预训练里几乎没有足够样本。结果是，很多自动代码进化方法一到 Ascend C，就连可编译初始解都生成不出来。\n\t\n香港城市大学、Hong Kong Yuwin Technology Co., Ltd 提出 AgenticCANN，解决低语料 NPU 环境下 Ascend C 算子自动生成和优化的问题。\n\t\nAgenticCANN 的核心思路，是别让模型盲写代码，而是先给它补上硬件知识，再分阶段进化。\n\t\n论文构建 6 层知识体系：编程模型、算子模式、硬件约束、tiling 策略、API 参考和已验证样例。不同阶段只注入相关知识：初始化阶段给全量框架，变异阶段给约束，编译修复阶段给 API 和样例，性能调优阶段给 tiling 策略。\n\t\n这样做的好处是，模型既不会缺关键硬件常识，也不会被长文档淹没。论文显示，阶段化知识组装能把提示长度从约 800 token 降到100 token 以内。\n\t\n另一点是stage-adaptive agentic evolution。早期需要高探索模式，先找到能跑的种子；后期改用更收敛的修复和调优模式，减少结构漂移。候选代码会经过编译、数值验证和真实Ascend 910B 硬件profiling。\n\t\n实验覆盖54个Ascend C 算子。结构化知识让 elementwise 算子可行率从57% 到86%；LayerNorm消融中，从无知识0%到完整流程90%，速度提升2.71×。代表性实验里，elementwise和normalization 可行率达到90% 到 100，fusion 为56%；接入1B Pangu推理kernel 时，速度提升可达6.65×。\n\t\n边界也清楚：评估主要依赖DeepSeek-V4系列模型；attention、convolution等复杂拓扑还没充分覆盖；新算子模式的知识体系仍需要专家投入。\n\t\n#AgenticCANN[话题]# #香港城市大学[话题]# #AscendC[话题]# #NPU[话题]# #CANN[话题]# #算子优化[话题]# #代码生成[话题]# #howto用好AI[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

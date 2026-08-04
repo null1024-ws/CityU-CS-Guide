@@ -1,0 +1,981 @@
+{
+  "note_id": "6a43aa61000000000702177a",
+  "url": "https://www.xiaohongshu.com/explore/6a43aa61000000000702177a?xsec_token=AB6Q9co1GXtrlH-XIOz7_JRfp2u_gxcExUv9rWVrLpEok=",
+  "fetched_at": 1785842047.1833797,
+  "note": {
+    "tagList": [
+      {
+        "id": "5e79d92f0000000001006487",
+        "name": "agent",
+        "type": "topic"
+      },
+      {
+        "id": "67f553dc0000000004019838",
+        "name": "cs336",
+        "type": "topic"
+      },
+      {
+        "name": "llm",
+        "type": "topic",
+        "id": "6147484d000000000101e744"
+      },
+      {
+        "id": "6892ef6b000000001800a5ba",
+        "name": "agent算法",
+        "type": "topic"
+      },
+      {
+        "id": "630b55b1000000000101dbd0",
+        "name": "动手学",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1782819426000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "做Agent前，请先把Stanford CS336过一遍",
+    "desc": "每一个计算机系大学生都应该在大学期间把CS336啃完。啃完后，你对LLM的理解和英语能力至少能到国内前1%。\n\t\n其实做Agent不是装个LangGraph跑通demo就叫会了。遇到问题就调prompt、换模型、加memory，但说不清为什么不行—— 碰运气。\nCS336的哲学就一句：自己实现一切。 Tokenizer、Attention、Transformer Block、分布式训练，五个Assignment全手写。\n\t\n[一R]写过Tokenizer，才知道为什么JSON结构化输出老出幺蛾子。\n[二R]写过Attention，才懂为什么长对话里tool calling不稳定。\n[三R]position encoding的物理限制，不是加prompt能绕过去的。\n\t\n这些不是优化细节，是Agent的能力上限。\n\t\n先花1-2周过完所有Lecture，建立LLM完整pipeline的全局框架。地基打牢再盖楼，弯路会少走非常多。\n\t\n代码在github.com/stanford-cs336，视频在youtobe。\n\t\n#agent[话题]# #cs336[话题]# #llm[话题]# #agent算法[话题]# #动手学[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "3541",
+      "commentCount": "67",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "2000",
+      "shareCount": "647",
+      "niceCount": ""
+    },
+    "atUserList": [],
+    "time": 1782819425000,
+    "noteId": "6a43aa61000000000702177a",
+    "user": {
+      "userId": "5f310fd50000000001009df5",
+      "nickname": "阿东玩AI",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10",
+      "xsecToken": "ABmRgTw3Ge7nlwQ0IRLL3gI7eF9Z1ZPszcrGe7i1UxjLY="
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/60ee2458d7ccebc2f224f86b0c62be28/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/f23b3093d188d15bdb71a666041cf285/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/60ee2458d7ccebc2f224f86b0c62be28/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/f23b3093d188d15bdb71a666041cf285/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u3g5nph1vag97fldt5far8",
+        "height": 1600,
+        "width": 1200
+      },
+      {
+        "fileId": "1040g0083221ohbc57u1g5nph1vag97flqqjve68",
+        "height": 1800,
+        "width": 1350,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/a7116399a47a57bbeaba0e20b7a9e4f0/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/a7116399a47a57bbeaba0e20b7a9e4f0/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/0c8cdbfea1f535d5645de4b94ba014f6/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/0c8cdbfea1f535d5645de4b94ba014f6/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/620f3df9ae176678978c93dcf9718c73/1040g0083221ohbc57u005nph1vag97flm0filj0!nd_prv_wlteh_jpg_3",
+        "width": 1350,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/e738ad027f478c87e90b6b05d22b054c/1040g0083221ohbc57u005nph1vag97flm0filj0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u005nph1vag97flm0filj0",
+        "height": 1800,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/620f3df9ae176678978c93dcf9718c73/1040g0083221ohbc57u005nph1vag97flm0filj0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/e738ad027f478c87e90b6b05d22b054c/1040g0083221ohbc57u005nph1vag97flm0filj0!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/4c7f08d7ccb0b0144bbbf5e3a5b41a47/1040g0083221ohbc57u605nph1vag97fl56j34do!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/14a02cd5d17b357d5d12485fdc00e7db/1040g0083221ohbc57u605nph1vag97fl56j34do!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/4c7f08d7ccb0b0144bbbf5e3a5b41a47/1040g0083221ohbc57u605nph1vag97fl56j34do!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/14a02cd5d17b357d5d12485fdc00e7db/1040g0083221ohbc57u605nph1vag97fl56j34do!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u605nph1vag97fl56j34do",
+        "height": 1800,
+        "width": 1350,
+        "url": "",
+        "stream": {}
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/e8676a2bb9d18fc9530bfbb85ed576d9/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "width": 1350,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/29061bdea73df21da62c6e121e42b62b/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/e8676a2bb9d18fc9530bfbb85ed576d9/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/29061bdea73df21da62c6e121e42b62b/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u405nph1vag97fl6sfhdao",
+        "height": 1800
+      },
+      {
+        "width": 1350,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/abb788db9e9270d120bf68f680cce767/1040g0083221ohbc57u505nph1vag97fl8j5695g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u505nph1vag97fl8j5695g",
+        "height": 1800,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/0db47b4eada8da0df41cfbfcc5817b90/1040g0083221ohbc57u505nph1vag97fl8j5695g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/abb788db9e9270d120bf68f680cce767/1040g0083221ohbc57u505nph1vag97fl8j5695g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/0db47b4eada8da0df41cfbfcc5817b90/1040g0083221ohbc57u505nph1vag97fl8j5695g!nd_prv_wlteh_jpg_3"
+      },
+      {
+        "fileId": "1040g0083221ohbc57u0g5nph1vag97fl3quk0mg",
+        "width": 1350,
+        "url": "",
+        "stream": {},
+        "height": 1800,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/18a875b895cb7ddb4ef79a25ac4980d8/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/eb0f37f1df5dcd8aa2462a3a404c67ac/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/18a875b895cb7ddb4ef79a25ac4980d8/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/eb0f37f1df5dcd8aa2462a3a404c67ac/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/28abe79e7e74a9a9a50bde4495e01559/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/492721554db65bede7299831f60aa6ca/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/28abe79e7e74a9a9a50bde4495e01559/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1800,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/492721554db65bede7299831f60aa6ca/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nd_dft_wlteh_jpg_3",
+        "fileId": "1040g0083221ohbc57u205nph1vag97flmgi7ng8",
+        "width": 1350,
+        "url": "",
+        "traceId": ""
+      },
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/a65c5de37833aeeac28098a8d9ea6005/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/eff3ba4d101053b586cd095c2553ab0f/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/a65c5de37833aeeac28098a8d9ea6005/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "width": 1350,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/eff3ba4d101053b586cd095c2553ab0f/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u5g5nph1vag97fl75e2bm0",
+        "height": 1800
+      },
+      {
+        "height": 1800,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041914/a25daa0bfcd65654255a3119c3fc155c/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g0083221ohbc57u2g5nph1vag97flsae8vk8",
+        "width": 1350,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/a25daa0bfcd65654255a3119c3fc155c/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041914/9a1b5e932e1ae6aa19e038b6cf958e9b/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041914/9a1b5e932e1ae6aa19e038b6cf958e9b/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "xsecToken": "AB6Q9co1GXtrlH-XIOz7_JRfp2u_gxcExUv9rWVrLpEok="
+  },
+  "comments": [
+    {
+      "id": "6a45276000000000150015e9",
+      "noteId": "6a43aa61000000000702177a",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "52",
+      "ipLocation": "湖南",
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "status": 0,
+      "createTime": 1782916960000,
+      "invalid": false,
+      "subCommentCursor": "6a476d27000000002b000d5f",
+      "content": "我虽然小白，但是我也觉得你这个理论怪异，说的绝对，css336对于需要做agent的人并非必须，还有英语这东西我之前看cs61a，b也并没感觉多大提升，大家需要知道的一个点，刻意练习才是提高你对一个事物了解的本质。英语要好就练英语，agent要好就学agent，慢慢的在铺开，而不是学agent，我先学习一下理论基础，这些东西等你遇到困惑再学都行",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABhQPZq2zLsoRqQTQypXih6CiWGyB_UuAJmB8z5Eyk8I8=",
+        "userId": "62d8fe140000000002000f77",
+        "nickname": "x?=y",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "仍然233",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABchFvr-1KJs1yI0i__i4nE_Cu5MT9wsEfSkwzjLv07bY=",
+            "userId": "673ffe76000000001c018461"
+          },
+          "createTime": 1783065896000,
+          "ipLocation": "湖北",
+          "targetComment": {
+            "id": "6a45276000000000150015e9",
+            "userInfo": {
+              "userId": "62d8fe140000000002000f77",
+              "nickname": "x?=y",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABhQPZq2zLsoRqQTQypXih6CiWGyB_UuAJmB8z5Eyk8I8="
+            }
+          },
+          "status": 0,
+          "content": "是这样的，我以前就陷入了一种迷思，要学技术得先看理论基础，要理解理论又要先学数学，学数学看到外语资料又开始想要不要先练练英语，结果资料搜集一堆学倒是没学多少。实际上对于计算机这样极重视实践的学科完全可以先从动手做东西开始，等感到自己遇到了明显的瓶颈或者歧路再思考要补齐什么也来得及。尤其是现在有了ai，不管是给项目搭脚手架还是评估自己的知识储备都空前方便",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "13",
+          "showTags": [],
+          "invalid": false,
+          "id": "6a476d27000000002b000d5f",
+          "noteId": "6a43aa61000000000702177a"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "还记得前两年刚开始接触LLM的时候，不能理解对话是怎么做的，为什么是model/user这种格式，也不理解LLM如何能调用工具。后来才知道这只是训练出来的，和其他神经网络没有本质区别，输入输出的是token罢了，没什么魔法[捂脸R]所以说确实得过一遍基础，即使不能完全掌握也要有点概念，不然总是在隔靴搔痒，头痛医头。",
+      "atUsers": [],
+      "ipLocation": "芬兰",
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "content": "最近在做harness，做着做着又得回去复习基础[笑哭R]",
+          "liked": false,
+          "createTime": 1782822409000,
+          "noteId": "6a43aa61000000000702177a",
+          "atUsers": [],
+          "likeCount": "7",
+          "userInfo": {
+            "nickname": "阿东玩AI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZpYagnh7YvHBMAw4SOO7fo49AKOhYFuvqR-2OHgMzwA=",
+            "userId": "5f310fd50000000001009df5"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a43b56d0000000005008c55",
+            "userInfo": {
+              "nickname": "withoutward",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ccf6b8952f9cbe57b7b9a4.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABY3lFmeFYiSWwg18KLSyF-pFUum_IpqWyCRESaRvW--k=",
+              "userId": "5ce0d1fe000000001202df95"
+            }
+          },
+          "invalid": false,
+          "id": "6a43b6080000000029026374",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a43b56d0000000005008c55",
+      "noteId": "6a43aa61000000000702177a",
+      "liked": false,
+      "showTags": [],
+      "likeCount": "43",
+      "invalid": false,
+      "userInfo": {
+        "userId": "5ce0d1fe000000001202df95",
+        "nickname": "withoutward",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63ccf6b8952f9cbe57b7b9a4.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABY3lFmeFYiSWwg18KLSyF-pFUum_IpqWyCRESaRvW--k="
+      },
+      "createTime": 1782822254000,
+      "subCommentCursor": "6a43b6080000000029026374",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sp7iub2ls005ngfqhpg8h1clf0gb4o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AByGoyQybt6uCHIQiye81JO0FChWJOAvUP5elCrv57BjM=",
+            "userId": "5e0fd473000000000100442c",
+            "nickname": "山海乔"
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "有时间确实也该学[微笑R]",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "createTime": 1782910239000,
+          "ipLocation": "安徽",
+          "targetComment": {
+            "id": "6a4461c3000000002a006c64",
+            "userInfo": {
+              "userId": "5d61f9670000000001006e7f",
+              "nickname": "Karney",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62a5abcae492a43a0e69dae8.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUxjJg_xFOalK-LCAEppoKo7V93XiWB_fKdR1wDUjmyQ="
+            }
+          },
+          "id": "6a450d1e0000000029019bb0",
+          "noteId": "6a43aa61000000000702177a",
+          "likeCount": "4"
+        }
+      ],
+      "subCommentCursor": "6a450d1e0000000029019bb0",
+      "content": "要不要再学习一下怎么写 cuda 核，怎么写汇编语言，怎么设计芯片？[doge]",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62a5abcae492a43a0e69dae8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUxjJg_xFOalK-LCAEppoKo7V93XiWB_fKdR1wDUjmyQ=",
+        "userId": "5d61f9670000000001006e7f",
+        "nickname": "Karney"
+      },
+      "showTags": [],
+      "subCommentCount": "3",
+      "id": "6a4461c3000000002a006c64",
+      "status": 0,
+      "subCommentHasMore": true,
+      "noteId": "6a43aa61000000000702177a",
+      "likeCount": "61",
+      "invalid": false,
+      "createTime": 1782866371000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "59",
+      "subCommentCursor": "6a44bb44000000002b003da6",
+      "invalid": false,
+      "id": "6a44456d000000000d022c02",
+      "noteId": "6a43aa61000000000702177a",
+      "content": "根本没必要 上学手推过所有ML/DL公式 写过所有算法代码 照样忘掉",
+      "atUsers": [],
+      "subComments": [
+        {
+          "content": "还是有必要的 大概知道哪里是什么遇到问题了能定位 要不然两眼一黑毫无头绪",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "小红薯6600C566",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b806f731e07eb8ca3d845.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3S0CMB-psx7bLNSt00wuddpZ-zQh2CG9VO9rliFCsxk=",
+            "userId": "65ffe9b7000000000b00de22"
+          },
+          "createTime": 1782889285000,
+          "likeCount": "7",
+          "showTags": [],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a44456d000000000d022c02",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31is9qjhdh4704a29cp5lpklml36pnto?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABW739L39f4aVgiBpKe_dgXBcYTQ_HxLMAIpJpTTm_Dac=",
+              "userId": "5a924b5ce8ac2b46a0dcd2b6",
+              "nickname": "一只Jojojo"
+            }
+          },
+          "invalid": false,
+          "id": "6a44bb44000000002b003da6",
+          "noteId": "6a43aa61000000000702177a",
+          "status": 0
+        }
+      ],
+      "liked": false,
+      "userInfo": {
+        "userId": "5a924b5ce8ac2b46a0dcd2b6",
+        "nickname": "一只Jojojo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31is9qjhdh4704a29cp5lpklml36pnto?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABW739L39f4aVgiBpKe_dgXBcYTQ_HxLMAIpJpTTm_Dac="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "status": 0,
+      "createTime": 1782859118000,
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "ipLocation": "广东",
+      "id": "6a448fd0000000002a02ec2e",
+      "status": 0,
+      "content": "一切都是promt+tool，nothing else",
+      "atUsers": [],
+      "likeCount": "14",
+      "showTags": [],
+      "createTime": 1782878160000,
+      "subCommentCount": "4",
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fmfpuatg26g5ov9o839gmeobui1qbo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKGtlE8ko2xGKVuI22-2hJgGYnDDl3aZx4b72uYQ2hvk=",
+        "userId": "63e9c20600000000260059d8"
+      },
+      "subComments": [
+        {
+          "content": "harness的本质是这样的，思考一个问题，如何让你的harness去适配不同的模型？",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5f310fd50000000001009df5",
+            "nickname": "阿东玩AI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZpYagnh7YvHBMAw4SOO7fo49AKOhYFuvqR-2OHgMzwA="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a448fd0000000002a02ec2e",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABKGtlE8ko2xGKVuI22-2hJgGYnDDl3aZx4b72uYQ2hvk=",
+              "userId": "63e9c20600000000260059d8",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fmfpuatg26g5ov9o839gmeobui1qbo?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6a449498000000002b002390",
+          "noteId": "6a43aa61000000000702177a",
+          "status": 0,
+          "likeCount": "3",
+          "createTime": 1782879384000
+        }
+      ],
+      "subCommentCursor": "6a449498000000002b002390",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6a43aa61000000000702177a",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a43aa61000000000702177a",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1782865429000,
+      "invalid": false,
+      "id": "6a445e150000000004039e89",
+      "content": "哪里找这课的资料呢",
+      "showTags": [],
+      "ipLocation": "英国",
+      "subCommentCount": "4",
+      "subCommentCursor": "6a44982a000000002a031d52",
+      "subCommentHasMore": true,
+      "status": 0,
+      "subComments": [
+        {
+          "createTime": 1782880298000,
+          "targetComment": {
+            "id": "6a445e150000000004039e89",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31chr5nj4105g5n1b54ohaah6bb37b08?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB8HpDI7Wr42qzXPwc4EBMk252s7jT_fkayt2jDK3DRhQ=",
+              "userId": "67833bac00000000070031f6",
+              "nickname": "阅界火种Hozon V2.7🌍"
+            }
+          },
+          "id": "6a44982a000000002a031d52",
+          "status": 0,
+          "atUsers": [
+            {
+              "userId": "68944c1e0000000028001164",
+              "nickname": "问一问",
+              "aiAgent": false,
+              "xsecToken": "ABsIUMk4LxZaOxZeJC_qDMGZUD8lQNg8L_q8mfUwiJrOE="
+            }
+          ],
+          "ipLocation": "北京",
+          "invalid": false,
+          "noteId": "6a43aa61000000000702177a",
+          "content": "@问一问 回答下",
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "5f310fd50000000001009df5",
+            "nickname": "阿东玩AI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZpYagnh7YvHBMAw4SOO7fo49AKOhYFuvqR-2OHgMzwA="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "AB8HpDI7Wr42qzXPwc4EBMk252s7jT_fkayt2jDK3DRhQ=",
+        "userId": "67833bac00000000070031f6",
+        "nickname": "阅界火种Hozon V2.7🌍",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31chr5nj4105g5n1b54ohaah6bb37b08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6a448c18000000000d021803",
+      "id": "6a441149000000000403a4ac",
+      "noteId": "6a43aa61000000000702177a",
+      "status": 0,
+      "liked": false,
+      "likeCount": "25",
+      "createTime": 1782845769000,
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "createTime": 1782877209000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABkihEUS1LJWLZ2rhYc7EbNd5pMU_N-eMBMQXXiOZg9tc=",
+            "userId": "62a675490000000021027667",
+            "nickname": "Www_n",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32348smcf76005ol6el4octj7ef62650?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "6a441149000000000403a4ac",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB-MjGwQEIvaqZUUXKyFAI-R-6_LXJfikEh_b8fwvi9oo=",
+              "userId": "5f603fa5000000000101e625",
+              "nickname": "空气都凝固了",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6a448c18000000000d021803",
+          "noteId": "6a43aa61000000000702177a",
+          "content": "那建議怎麼學呢",
+          "atUsers": [],
+          "showTags": []
+        }
+      ],
+      "invalid": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB-MjGwQEIvaqZUUXKyFAI-R-6_LXJfikEh_b8fwvi9oo=",
+        "userId": "5f603fa5000000000101e625",
+        "nickname": "空气都凝固了",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": false,
+      "content": "没必要 现在需要自己train/post training场景太少了，认识的做agent真的懂cs336的百分之五都不到，agent开发好多都套路化了，用个框架加memory还有些容错机制就差不多了，学这个的一般都是自己感兴趣或者做想做training的",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a43aa61000000000702177a",
+      "content": "请问harness走什么好的教程吗",
+      "ipLocation": "江苏",
+      "id": "6a43b98f000000000b03a548",
+      "status": 0,
+      "createTime": 1782823312000,
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "invalid": false,
+          "content": "可以蹲一下，今晚出，本来说端午出的，拖到今天了",
+          "atUsers": [],
+          "likeCount": "5",
+          "userInfo": {
+            "userId": "5f310fd50000000001009df5",
+            "nickname": "阿东玩AI",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZpYagnh7YvHBMAw4SOO7fo49AKOhYFuvqR-2OHgMzwA="
+          },
+          "createTime": 1782823578000,
+          "targetComment": {
+            "id": "6a43b98f000000000b03a548",
+            "userInfo": {
+              "nickname": "最冷一天。",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5db4e47a00000000010057f3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB10onxt9U7HbTb_DBoA2mwEnI2n-MGaWAHsHseQ2LkVk=",
+              "userId": "5db4e47a00000000010057f3"
+            }
+          },
+          "id": "6a43ba990000000029037068",
+          "noteId": "6a43aa61000000000702177a"
+        }
+      ],
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "5",
+      "userInfo": {
+        "nickname": "最冷一天。",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5db4e47a00000000010057f3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB10onxt9U7HbTb_DBoA2mwEnI2n-MGaWAHsHseQ2LkVk=",
+        "userId": "5db4e47a00000000010057f3"
+      },
+      "subCommentCount": "5",
+      "invalid": false,
+      "showTags": [],
+      "subCommentCursor": "6a43ba990000000029037068",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "文科生以为软件开发是比写代码。实际软件开发是一门工程学[叹气R]",
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0I5tkPODFLblWHilmSa5XWu_xf9MVdUKpB_5zR3cYlQ=",
+        "userId": "66aa47a6000000001d020905"
+      },
+      "createTime": 1783311072000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "showTags": [],
+      "ipLocation": "广东",
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "subComments": [],
+      "id": "6a4b2adf000000002a030df5",
+      "noteId": "6a43aa61000000000702177a",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "invalid": false,
+      "content": "cs336 有学习小组吗 刚开始看",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "北京",
+      "subCommentHasMore": false,
+      "id": "6a60a196000000001403927b",
+      "atUsers": [],
+      "subComments": [],
+      "noteId": "6a43aa61000000000702177a",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "602e79c7000000000100a9cd",
+        "nickname": "路飞",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/602e7a3273072576c8891851.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8ROc3aA868nsVvGk5XZukNjJazuxqAvpbbFrSXjAFE4="
+      },
+      "createTime": 1784717718000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 体验",
+  "search_item": {
+    "id": "6a43aa61000000000702177a",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "做Agent前，请先把Stanford CS336过一遍",
+      "user": {
+        "nickName": "阿东玩AI",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31it9akbi146g5nph1vag97fl7rm4c10?imageView2/2/w/80/format/jpg",
+        "userId": "5f310fd50000000001009df5",
+        "nickname": "阿东玩AI",
+        "xsecToken": "ABKTedQ9QvTXQA44Qanao3jVjEDgEe_6iZ5P1QzNLOtC4="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "2000",
+        "collected": false,
+        "collectedCount": "3541",
+        "commentCount": "67",
+        "sharedCount": "647"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041913/94926283b68f01712e574d6fe8b121de/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041913/483d3501f278db469b984689c46f1282/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/94926283b68f01712e574d6fe8b121de/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/483d3501f278db469b984689c46f1282/1040g0083221ohbc57u3g5nph1vag97fldt5far8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/64240092bc2e0a4133eb3de305fff2b1/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/89692d09b48023edca6b16727b7cc758/1040g0083221ohbc57u1g5nph1vag97flqqjve68!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/3b6ddacfb4b1ea8986217a3a7e4b59fb/1040g0083221ohbc57u005nph1vag97flm0filj0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/2f4d3560a136221aa53350c94dc139dc/1040g0083221ohbc57u005nph1vag97flm0filj0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/6d5c08fa36bff2146685b71c1cb421af/1040g0083221ohbc57u605nph1vag97fl56j34do!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/516b8105e6693c6984000c18abfd95d2/1040g0083221ohbc57u605nph1vag97fl56j34do!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/c06d0b5920a769fb986479d5f50b7057/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/fe49818bd20c560a20c5a4ab1af89c36/1040g0083221ohbc57u405nph1vag97fl6sfhdao!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/6f5b0a8062335e93900b2f0221b9e8a3/1040g0083221ohbc57u505nph1vag97fl8j5695g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/327d522ed52ae56d82c89c3d909cf0a4/1040g0083221ohbc57u505nph1vag97fl8j5695g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1800,
+          "width": 1350
+        },
+        {
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/b4da2901753eb16148dbd6f1ae31849f/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/f7ca70437194422ebc026db4db041492/1040g0083221ohbc57u0g5nph1vag97fl3quk0mg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1800
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/fdab8cd9e84d370ab78a92eae0f6b627/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/8f27c40f833fb20b82b5992348b67b07/1040g0083221ohbc57u205nph1vag97flmgi7ng8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/e1f9e9e04d6eea4d60274837f54a5953/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/95d1f234f5da5ca478f24c2e329f7b51/1040g0083221ohbc57u5g5nph1vag97fl75e2bm0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1800,
+          "width": 1350,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/b4bd40ce7dd4a77160289388cd6b9c29/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041913/93eeb9a78e63a1c7d6e3c0b28e9dc7ae/1040g0083221ohbc57u2g5nph1vag97flsae8vk8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-30"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "AB6Q9co1GXtrlH-XIOz7_JRfp2u_gxcExUv9rWVrLpEok=",
+    "index": 12,
+    "exposed": false,
+    "trackId": "6a43aa61000000000702177a"
+  }
+}

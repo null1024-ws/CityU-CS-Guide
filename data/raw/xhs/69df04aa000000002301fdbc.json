@@ -1,0 +1,685 @@
+{
+  "note_id": "69df04aa000000002301fdbc",
+  "url": "https://www.xiaohongshu.com/explore/69df04aa000000002301fdbc?xsec_token=ABDW1c5CGilKdeora-lr7W2Gy28zTvGPzI_gg9vx2wDAk=",
+  "fetched_at": 1785840477.8995533,
+  "note": {
+    "xsecToken": "ABDW1c5CGilKdeora-lr7W2Gy28zTvGPzI_gg9vx2wDAk=",
+    "desc": "原论文: Revisiting the Role of Language Priors in Vision-Language Models\n\t\n抄袭论文: MASS: Overcoming Language Bias in Image-Text Matching\n\t\n#AAAI[话题]# #学术打假[话题]# #文献阅读[话题]# #论文[话题]# [偷笑R][偷笑R][偷笑R]",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "219",
+      "shareCount": "190",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "493",
+      "commentCount": "96"
+    },
+    "imageList": [
+      {
+        "height": 1296,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041848/84e8c847fadc40bc6345e81fb7da90f7/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041848/6d834a100c4c3397d4fe16962973adad/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "fileId": "spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg",
+        "width": 1856,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041848/84e8c847fadc40bc6345e81fb7da90f7/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041848/6d834a100c4c3397d4fe16962973adad/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041848/3c5cf6cccfc9391be8b5f7c568d1d4da/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041848/5726ccbf71ca04610d5c72327632ae6c/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041848/3c5cf6cccfc9391be8b5f7c568d1d4da/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041848/5726ccbf71ca04610d5c72327632ae6c/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nd_dft_wgth_jpg_3",
+        "fileId": "spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g",
+        "height": 1066,
+        "width": 1846,
+        "traceId": ""
+      }
+    ],
+    "time": 1776223402000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "user": {
+      "userId": "643a9248000000002a009d13",
+      "nickname": "祝好运",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0n669uks6g5p1qi94ah78jqdblk7o",
+      "xsecToken": "AB-zak3Pbx-uGWdzaCMUXx9k7XcUq8KvZn3TKb-j0mQoQ="
+    },
+    "tagList": [
+      {
+        "id": "61a8f447000000000101cfff",
+        "name": "AAAI",
+        "type": "topic"
+      },
+      {
+        "id": "6265084b0000000001009904",
+        "name": "学术打假",
+        "type": "topic"
+      },
+      {
+        "name": "文献阅读",
+        "type": "topic",
+        "id": "5d0b8991000000000e0146da"
+      },
+      {
+        "id": "5beb8aaf91cb280001037338",
+        "name": "论文",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1776223402000,
+    "noteId": "69df04aa000000002301fdbc",
+    "type": "normal",
+    "title": "抓到一篇 AAAI 2025 抄袭的论文"
+  },
+  "comments": [
+    {
+      "noteId": "69df04aa000000002301fdbc",
+      "likeCount": "48",
+      "userInfo": {
+        "xsecToken": "ABpieV9QH6t6y_tuJuT3MQAE5acjadfkwIhfKC_4SMhhk=",
+        "userId": "61544841000000000202040a",
+        "nickname": "cser",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pgi4e7d24405oak910gk10abhuegbo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1776224065000,
+      "ipLocation": "四川",
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "9",
+      "content": "怎么判断是不是抄袭的，一个领域的方法应用到另一个领域算抄袭吗",
+      "subComments": [
+        {
+          "userInfo": {
+            "xsecToken": "ABAuoNolvqKMnXgEcPdGUNZc7XiFoDhyrRI-YYk0jBeEE=",
+            "userId": "643a9248000000002a009d13",
+            "nickname": "祝好运",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0n669uks6g5p1qi94ah78jqdblk7o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1776224265000,
+          "invalid": false,
+          "id": "69df08090000000001007a06",
+          "noteId": "69df04aa000000002301fdbc",
+          "content": "方法一样，公式换了个形式，都是用贝叶斯在那里分解，然后用的领域都是一样的，都是图文匹配",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "陕西",
+          "targetComment": {
+            "id": "69df0741000000000203754f",
+            "userInfo": {
+              "userId": "61544841000000000202040a",
+              "nickname": "cser",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pgi4e7d24405oak910gk10abhuegbo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpieV9QH6t6y_tuJuT3MQAE5acjadfkwIhfKC_4SMhhk="
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "123"
+        }
+      ],
+      "subCommentCursor": "69df08090000000001007a06",
+      "subCommentHasMore": true,
+      "id": "69df0741000000000203754f",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69df29d800000000160145b7",
+      "noteId": "69df04aa000000002301fdbc",
+      "showTags": [],
+      "subComments": [
+        {
+          "noteId": "69df04aa000000002301fdbc",
+          "status": 0,
+          "content": "不同作者也属于，同一作者就是self-p[暗中观察R]",
+          "liked": false,
+          "userInfo": {
+            "nickname": "小红薯644890B4",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABKAip_pHg-335l80zF4gtlNqKZZqjwCuQrBNtwWPLoCY=",
+            "userId": "6447907d000000002a00a182"
+          },
+          "showTags": [],
+          "createTime": 1776233362000,
+          "targetComment": {
+            "id": "69df29d800000000160145b7",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABV-wUPSWT44u2LSh5z6QZuJ8pkkY_sjbENQgtyxlOuqU=",
+              "userId": "62898df800000000210239a0",
+              "nickname": "早睡早起，锻炼身体",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3204r37omia6g5ok9hns8ced0sd2cjqg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "69df2b910000000035022445",
+          "atUsers": [],
+          "likeCount": "108",
+          "ipLocation": "江苏",
+          "invalid": false
+        }
+      ],
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3204r37omia6g5ok9hns8ced0sd2cjqg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABV-wUPSWT44u2LSh5z6QZuJ8pkkY_sjbENQgtyxlOuqU=",
+        "userId": "62898df800000000210239a0",
+        "nickname": "早睡早起，锻炼身体"
+      },
+      "createTime": 1776232921000,
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "要是同一个课题组发的，这算抄袭吗",
+      "liked": false,
+      "ipLocation": "江苏",
+      "subCommentCursor": "69df2b910000000035022445",
+      "likeCount": "54",
+      "subCommentCount": "12",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "noteId": "69df04aa000000002301fdbc",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "59f532bf11be107f960876c1",
+        "nickname": "顺利毕业",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tdsnhrdme0049uvtppbutm1olq2c8g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSEiU9Vk3n6DdOzaXxPdDgwGrNmpQbnEfGp-H-1yopvE="
+      },
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1779680840000,
+      "ipLocation": "浙江",
+      "subCommentCount": "1",
+      "id": "6a13c648000000002702df70",
+      "status": 0,
+      "content": "虽然但是 人家都引用了啊",
+      "showTags": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a3ffd4000000000290373da",
+          "status": -2,
+          "content": "给你的文章角落里引一下，然后通篇照抄你愿意不？",
+          "atUsers": [],
+          "likeCount": "5",
+          "ipLocation": "湖北",
+          "targetComment": {
+            "id": "6a13c648000000002702df70",
+            "userInfo": {
+              "userId": "59f532bf11be107f960876c1",
+              "nickname": "顺利毕业",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tdsnhrdme0049uvtppbutm1olq2c8g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABSEiU9Vk3n6DdOzaXxPdDgwGrNmpQbnEfGp-H-1yopvE="
+            }
+          },
+          "noteId": "69df04aa000000002301fdbc",
+          "liked": false,
+          "userInfo": {
+            "userId": "67063a77000000001e000e7b",
+            "nickname": "东子",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318ovjng0k4005po679rng3jr1nr9io8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABpRwd8_oefsJ4ikk-7LkcAfMMlJx1jAHXDhjmlK5xDkI="
+          },
+          "showTags": [],
+          "createTime": 1782578497000
+        }
+      ],
+      "subCommentCursor": "6a3ffd4000000000290373da",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69df131e0000000015007f95",
+      "showTags": [],
+      "createTime": 1776227103000,
+      "noteId": "69df04aa000000002301fdbc",
+      "likeCount": "7",
+      "subCommentCursor": "69df154d0000000015007156",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "中国香港",
+      "subCommentCount": "5",
+      "content": "Yonsei 好像还是不错的学校",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABpZYUN4ODyaFJJJ7toN1UypwrpqcOI_R_269Rr9-3-uc=",
+        "userId": "68dfcb58000000003700226f",
+        "nickname": "Cascadial",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nlbn2ba06005q6vpdcdo8jf2lhmn1o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "noteId": "69df04aa000000002301fdbc",
+          "status": 0,
+          "content": "和kaist一样都是灌论文学校",
+          "liked": false,
+          "createTime": 1776227661000,
+          "id": "69df154d0000000015007156",
+          "atUsers": [],
+          "likeCount": "43",
+          "userInfo": {
+            "userId": "691351b90000000032024e74",
+            "nickname": "小红薯69143A56",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABrX4F6GI4zB0mqb3zQ5PHLDNQtYOBSVfbz5ESDSPGZYQ="
+          },
+          "showTags": [],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "69df131e0000000015007f95",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nlbn2ba06005q6vpdcdo8jf2lhmn1o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpZYUN4ODyaFJJJ7toN1UypwrpqcOI_R_269Rr9-3-uc=",
+              "userId": "68dfcb58000000003700226f",
+              "nickname": "Cascadial"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "id": "69df36a4000000003501f43e",
+          "status": -2,
+          "content": "难道抄袭仅仅是因为没有引用吗[捂脸R]要这么说，都不用自己想idea了，直接转写",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kth4ikaiu005na3r2lljp5rp7n98ng?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB0m2ZIExOUErKbFWlcoAydAU4Db97ds9yFBLlfsDiS68=",
+            "userId": "5d43d8ab000000001601e4bb",
+            "nickname": "diffusion"
+          },
+          "createTime": 1776236196000,
+          "ipLocation": "陕西",
+          "noteId": "69df04aa000000002301fdbc",
+          "likeCount": "2",
+          "showTags": [],
+          "targetComment": {
+            "id": "69df0a6f00000000010075ab",
+            "userInfo": {
+              "userId": "5d4e797c000000001600f3c6",
+              "nickname": "追梦",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ib246grmq005naef5u5hsu685tdfn0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABSPvUm77sOksBrnmzc0rGV0qLtwRYcxnd0im_BHLcRwo="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "noteId": "69df04aa000000002301fdbc",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1776224879000,
+      "subCommentCursor": "69df36a4000000003501f43e",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "invalid": false,
+      "id": "69df0a6f00000000010075ab",
+      "content": "某公司被顶会鉴定抄袭的论文，加一条引用后继续投，这样合规吗？[笑哭R]",
+      "likeCount": "10",
+      "userInfo": {
+        "userId": "5d4e797c000000001600f3c6",
+        "nickname": "追梦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ib246grmq005naef5u5hsu685tdfn0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSPvUm77sOksBrnmzc0rGV0qLtwRYcxnd0im_BHLcRwo="
+      },
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "甚至四个人共用邮箱[doge]",
+      "atUsers": [],
+      "likeCount": "6",
+      "ipLocation": "北京",
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "nickname": "凤血凰魂",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318p9csb2jk6g5pbbis7n35ek8snuni8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABSLZGUQspinzuwAuI8GYYX3KTAfJgqIP8rgcRjdeQ_3k=",
+            "userId": "656b970f000000001c0195d4"
+          },
+          "createTime": 1776227449000,
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "69df0d79000000000c032d26",
+            "userInfo": {
+              "userId": "6323f3c3000000002303b7d1",
+              "nickname": "果亦呆",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3153l5q4kgs6g5op3uf1ovduh0cdb16o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB0ZV9PZWYPeRrcy98krC2CQF3Eg27Due6AOwwqKDXK8U="
+            }
+          },
+          "content": "这个倒是正常的吧，确实不一定需要放所有作者的邮箱",
+          "atUsers": [],
+          "likeCount": "61",
+          "showTags": [],
+          "invalid": false,
+          "id": "69df1479000000000202b3bc",
+          "noteId": "69df04aa000000002301fdbc",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69df04aa000000002301fdbc",
+      "status": 0,
+      "liked": false,
+      "subCommentCursor": "69df1479000000000202b3bc",
+      "id": "69df0d79000000000c032d26",
+      "userInfo": {
+        "userId": "6323f3c3000000002303b7d1",
+        "nickname": "果亦呆",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3153l5q4kgs6g5op3uf1ovduh0cdb16o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0ZV9PZWYPeRrcy98krC2CQF3Eg27Due6AOwwqKDXK8U="
+      },
+      "showTags": [],
+      "createTime": 1776225657000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "xsecToken": "AB8NdKxCRzuTapKi8MKjNBWXOIDX84L05Mgk9v2_thgrg=",
+        "userId": "653e066f0000000030033eb7",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "nickname": "祝好运",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0n669uks6g5p1qi94ah78jqdblk7o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABAuoNolvqKMnXgEcPdGUNZc7XiFoDhyrRI-YYk0jBeEE=",
+            "userId": "643a9248000000002a009d13"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "陕西",
+          "status": 0,
+          "content": "实际上和原文比起来少了一部分，把那个自适应的α讨论给删了[笑哭R]",
+          "atUsers": [],
+          "likeCount": "46",
+          "createTime": 1776242797000,
+          "targetComment": {
+            "id": "69df49910000000002034779",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB8NdKxCRzuTapKi8MKjNBWXOIDX84L05Mgk9v2_thgrg=",
+              "userId": "653e066f0000000030033eb7",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "69df506c0000000002028d07",
+          "noteId": "69df04aa000000002301fdbc"
+        }
+      ],
+      "id": "69df49910000000002034779",
+      "liked": false,
+      "likeCount": "10",
+      "subCommentCursor": "69df506c0000000002028d07",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "69df04aa000000002301fdbc",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1776241041000,
+      "content": "可能是有新增创新点",
+      "atUsers": [],
+      "subCommentCount": "2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "content": "在别人的论文上增加三个创新点 算抄袭吗[皱眉R]",
+          "atUsers": [],
+          "showTags": [],
+          "ipLocation": "辽宁",
+          "targetComment": {
+            "id": "69ee0772000000002a02da2d",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AByDSW0aAECmgXd7E0rN6AZ0lYzxlImGuxW9OpH3xfcUA=",
+              "userId": "5fc473d2000000000100623b",
+              "nickname": "mono",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "69df04aa000000002301fdbc",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "601ff0840000000001001b4d",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABeAw3pdmEDrAFeUcLdzC5OhYqu5VDJrRhHwFASuStSDU="
+          },
+          "createTime": 1777962036000,
+          "id": "69f98c3400000000280316a3"
+        }
+      ],
+      "subCommentHasMore": true,
+      "subCommentCursor": "69f98c3400000000280316a3",
+      "id": "69ee0772000000002a02da2d",
+      "liked": false,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "5fc473d2000000000100623b",
+        "nickname": "mono",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByDSW0aAECmgXd7E0rN6AZ0lYzxlImGuxW9OpH3xfcUA="
+      },
+      "showTags": [],
+      "createTime": 1777207155000,
+      "noteId": "69df04aa000000002301fdbc",
+      "subCommentCount": "5",
+      "invalid": false,
+      "status": 0,
+      "content": "有没有增加创新点，期刊在会议的基础上进行扩展，这是可以的（当然仅限于作者一样，作者不一样肯定算抄袭）",
+      "atUsers": [],
+      "ipLocation": "黑龙江",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "抄袭不是这么简单就能定性或者实锤的，idea像的文章太多了",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "id": "69df2c8a000000000203726f",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31filv9apng6g5nqu7sjgbhjiin2l8s0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2P7drui7TXHivQZJED3duivWII8Zj6EueJRQ7LH9idA=",
+        "userId": "5f5e3f27000000000101c672",
+        "nickname": "momo"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "createTime": 1776233610000,
+      "subComments": [],
+      "noteId": "69df04aa000000002301fdbc",
+      "status": 0,
+      "likeCount": "33",
+      "showTags": [],
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "辽宁",
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "likeCount": "6",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3180aiub70s6g5n7onk7481fet1qnt80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABo6vrYNkTK3Q1eeASIFtTkhyYqvVbEMn6dr4PcLZtzVI=",
+        "userId": "5cf8bd0e00000000110005ee",
+        "nickname": "爱吃炒菜的小女孩"
+      },
+      "invalid": false,
+      "noteId": "69df04aa000000002301fdbc",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1776258772000,
+      "id": "69df8ed400000000010055cc",
+      "content": "这都没被审出来。我也抄一下它俩！",
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 评价",
+  "search_item": {
+    "id": "69df04aa000000002301fdbc",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-15"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "抓到一篇 AAAI 2025 抄袭的论文",
+      "user": {
+        "xsecToken": "ABZdDtC_8ieDFCqR-c_VP20oHDmJ7YpF2OBgTqjRE69mE=",
+        "nickName": "祝好运",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m0n669uks6g5p1qi94ah78jqdblk7o?imageView2/2/w/80/format/jpg",
+        "userId": "643a9248000000002a009d13",
+        "nickname": "祝好运"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "493",
+        "collected": false,
+        "collectedCount": "219",
+        "commentCount": "96",
+        "sharedCount": "190"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041847/271fbd494ea41b272964bccf0b446e88/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nc_n_webp_prv_1",
+        "height": 1296,
+        "width": 1856,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041847/3f1f7e2ef86d92e1b574cbda4713a882/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "width": 1856,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041847/3f1f7e2ef86d92e1b574cbda4713a882/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041847/271fbd494ea41b272964bccf0b446e88/spectrum/1040g0k031uvfdkcpis005p1qi94ah78jogsg4vg!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1296
+        },
+        {
+          "height": 1066,
+          "width": 1846,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041847/f2c770dea5d2c7dd524527f399902996/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041847/2b9c3f86e60792c24b845bbf78db9b7b/spectrum/1040g0k031uvfdo2j2s005p1qi94ah78j0vgtn3g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABDW1c5CGilKdeora-lr7W2Gy28zTvGPzI_gg9vx2wDAk=",
+    "index": 38,
+    "exposed": false,
+    "trackId": "69df04aa000000002301fdbc"
+  }
+}

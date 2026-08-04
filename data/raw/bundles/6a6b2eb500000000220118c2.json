@@ -1,0 +1,50 @@
+{
+  "note_id": "6a6b2eb500000000220118c2",
+  "url": "https://www.xiaohongshu.com/explore/6a6b2eb500000000220118c2?xsec_token=AB18E15xyRqwCLne7RQOKEMZ7-dASUbDvUEJdH2TJfa9o=",
+  "fetched_at": 1785841915.0260992,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🎮游戏圈大地震！Godot首次干掉Unity~",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "2026年的GMTK Game Jam，游戏引擎排行榜变天了！\n\t\n刚刚结束的第10届GMTK Game Jam（），总共提交了 10777部 游戏作品！其中可查引擎的10511个里\n\t\n🥇 Godot 占比 47%（接近一半！）\n🥈 Unity 占比 34%（首次被反超，差距超10%）\n🥉 GameMaker 5%\n🏅 Unreal Engine 3%\n\t\n要知道往年Unity可是绝对霸主，这次被Godot弯道超车，真的有点“开源逆袭”那味儿了\n\t\n开发者们纷纷表示：Godot轻量、免费、开源、更新快，尤其适合Jam这种极限开发场景。\nUnity这两年政策风波不断，不少人默默转了阵营……\n\t\n当然，Epic家的Unreal Engine还是稳坐“画质天花板”，但Jam这种短平快项目确实不太吃香～\n\t\n#GMTKGameJam[话题]#  #Godot[话题]#  #Unity[话题]#  #游戏开发[话题]#  #独立游戏[话题]#  #游戏引擎[话题]#  #开源软件[话题]# #steam游戏[话题]#   #UE5[话题]##游戏设计[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "godot能打ps和xb的包吗",
+      "sourceRef": "comment:6a6b30d800000000050092c9",
+      "commentId": "6a6b30d800000000050092c9",
+      "likes": 0,
+      "author": "开心饲养员"
+    },
+    {
+      "type": "sub_comment",
+      "text": "官方有个服务处理打包和授权",
+      "sourceRef": "comment:6a6b331d000000000802d57c",
+      "commentId": "6a6b331d000000000802d57c",
+      "likes": 0,
+      "author": "Taobe"
+    },
+    {
+      "type": "comment",
+      "text": "空头整天拿unity风波说事，仔细一看都是5年前的事了，就算按收入分成也比ue收的少。至于godot，就是路边，啥也不是。看看游戏工作室和业内，依然用unity最多。",
+      "sourceRef": "comment:6a6d8342000000000802cc2e",
+      "commentId": "6a6d8342000000000802cc2e",
+      "likes": 0,
+      "author": "尘世"
+    },
+    {
+      "type": "sub_comment",
+      "text": "空头都是同一套说辞，财报出来一看，用unity的公司更多了…",
+      "sourceRef": "comment:6a6d83510000000004039e54",
+      "commentId": "6a6d83510000000004039e54",
+      "likes": 1,
+      "author": "尘世"
+    }
+  ]
+}

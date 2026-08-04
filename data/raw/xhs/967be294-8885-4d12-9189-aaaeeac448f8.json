@@ -1,0 +1,43 @@
+{
+  "note_id": "967be294-8885-4d12-9189-aaaeeac448f8",
+  "url": "https://www.xiaohongshu.com/explore/967be294-8885-4d12-9189-aaaeeac448f8?xsec_token=ABcTqsyr_L9Mwye8fn388U0w_wj-0x01u1FrEFsAc3ncouYJp7aqoIfgJF-zj6gUQCf4xziUMf3_2QXT11U5XncDsG8sC84n4epGYX6mQJbnw=",
+  "fetched_at": 1785838420.075848,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5282 城大CS",
+  "search_item": {
+    "xsecToken": "ABcTqsyr_L9Mwye8fn388U0w_wj-0x01u1FrEFsAc3ncouYJp7aqoIfgJF-zj6gUQCf4xziUMf3_2QXT11U5XncDsG8sC84n4epGYX6mQJbnw=",
+    "id": "967be294-8885-4d12-9189-aaaeeac448f8#1785838424091",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "967be294-8885-4d12-9189-aaaeeac448f8#1785838424091",
+      "queries": [
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程"
+        },
+        {
+          "id": "港校cs申请难度",
+          "name": "港校cs申请难度",
+          "searchWord": "港校cs申请难度"
+        },
+        {
+          "id": "cityu cs课表",
+          "name": "cityu cs课表",
+          "searchWord": "cityu cs课表"
+        },
+        {
+          "id": "cityu cs bar",
+          "name": "cityu cs bar",
+          "searchWord": "cityu cs bar"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "967be294-8885-4d12-9189-aaaeeac448f8#1785838424091"
+  }
+}

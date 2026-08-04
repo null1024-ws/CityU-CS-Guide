@@ -1,0 +1,18 @@
+{
+  "note_id": "6a6cab4e00000000250078a6",
+  "url": "https://www.xiaohongshu.com/explore/6a6cab4e00000000250078a6?xsec_token=ABxPuJqanhpWjA6XvIQSw7VGQYok6p_oxlFCaTriIbdFM=",
+  "fetched_at": 1785841882.8498738,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "3D 游戏角色，怎么用 AI 做出多套皮肤？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "同一个 3D 游戏角色，想增加多套皮肤，真的需要把模型从头重做很多遍吗？这期从一张角色参考图开始，演示如何借助 AI 整理站姿、拆分身体与装备，再把参考图生成可继续处理的三维模型；随后在 Blender 中修整网格、展开 UV，并围绕同一套模型制作不同纹理和材质。最后完成角色装配、自动绑定，并导入 Unreal Engine 检查跑动、接缝、反光和材质切换。视频也会讲清楚：什么时候只需增加一套新纹理，什么时候轮廓发生变化后必须重新制作部件。\n\t\n#AI游戏开发[话题]# #3D建模[话题]# #游戏美术[话题]# #Blender[话题]# #UnrealEngine[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

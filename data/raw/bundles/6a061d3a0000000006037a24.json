@@ -1,0 +1,154 @@
+{
+  "note_id": "6a061d3a0000000006037a24",
+  "url": "https://www.xiaohongshu.com/explore/6a061d3a0000000006037a24?xsec_token=AB0esJRvpuQiCOX9CqM2iJBECnbyv0PLawD4CGlcZwSVg=",
+  "fetched_at": 1785842571.0832887,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Usenix26b rebuttal 4333->1223 被拒",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "第一篇研究工作，一年多了，本来以为4333终于AC，结果re完后变1223被拒了，一股强烈的不可思议和窒息感——我们re时提到的disclosure让reviewer怀疑论文结果是影响不大的，我…",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "感谢大家的关注，我认为工作本身是没硬伤和大问题的，我自己这边的看法是：因为得分很好，所以想在rebuttal中being honest，说的比较朴素，却反而被reviewer C用我们的朴素表述来攻击工作的重要性了，并最终用他的skeptism（原话）成功说服了其他reviewer降分；---想法是以后不能太天真了，reviewer的意见要读懂一些beyond the tone的含义，多滴水不漏，圆滑无缝些吧。",
+      "sourceRef": "comment:6a15ea23000000002b0018b4",
+      "commentId": "6a15ea23000000002b0018b4",
+      "likes": 11,
+      "author": "小鱼小鱼快快游"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看法一旦形成会更倾向于加深固化，只听一面之词只会更加重这种现象的产生； 如果reviewer C在rebuttal前提出质疑，还可以通过rebuttal来解答回复，但在rebuttal后的质疑，我感到一种深深的无力感，只能看着他们以此质疑为由拒掉自己的工作。",
+      "sourceRef": "comment:6a15ed34000000002a0060ca",
+      "commentId": "6a15ed34000000002a0060ca",
+      "likes": 0,
+      "author": "小鱼小鱼快快游"
+    },
+    {
+      "type": "comment",
+      "text": "前年第一次投usenix sec. 经历了rebuttal降分后再也没投[doge]",
+      "sourceRef": "comment:6a0628c7000000002803f641",
+      "commentId": "6a0628c7000000002803f641",
+      "likes": 9,
+      "author": "耶耶耶耶耶"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ip没发力呀[doge]",
+      "sourceRef": "comment:6a065a6e000000002901aeda",
+      "commentId": "6a065a6e000000002901aeda",
+      "likes": 73,
+      "author": "养云"
+    },
+    {
+      "type": "comment",
+      "text": "安全社区真的太mean了...",
+      "sourceRef": "comment:6a0626cb000000002900fb4b",
+      "commentId": "6a0626cb000000002900fb4b",
+      "likes": 25,
+      "author": "酱酱酱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "因为没啥新东西，都在瞎√8卷[笑哭R]",
+      "sourceRef": "comment:6a069ffa0000000028032571",
+      "commentId": "6a069ffa0000000028032571",
+      "likes": 10,
+      "author": "小红薯67C463D4"
+    },
+    {
+      "type": "comment",
+      "text": "能问一下是哪个track吗？",
+      "sourceRef": "comment:6a06744a00000000280318c3",
+      "commentId": "6a06744a00000000280318c3",
+      "likes": 0,
+      "author": "宝见我受你一靠子"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Network Security",
+      "sourceRef": "comment:6a0675b8000000002902c010",
+      "commentId": "6a0675b8000000002902c010",
+      "likes": 2,
+      "author": "小鱼小鱼快快游"
+    },
+    {
+      "type": "comment",
+      "text": "我也经历了降分。真的是不可思议，rebuttal居然能起副作用",
+      "sourceRef": "comment:6a067caf000000000d022800",
+      "commentId": "6a067caf000000000d022800",
+      "likes": 0,
+      "author": "Orange"
+    },
+    {
+      "type": "sub_comment",
+      "text": "在systems的会其实好多rebuttal都会降分，应该比升分的要多 [捂脸R]",
+      "sourceRef": "comment:6a06dfb8000000000d022000",
+      "commentId": "6a06dfb8000000000d022000",
+      "likes": 4,
+      "author": "YiyingZhang-GenseeAIUCSD"
+    },
+    {
+      "type": "comment",
+      "text": "我也是 3233 -> 3232，reviewer完全不看rebuttal，回复了的说没回复，看到结果呆住了",
+      "sourceRef": "comment:6a06a57f000000002901b25e",
+      "commentId": "6a06a57f000000002901b25e",
+      "likes": 2,
+      "author": "Marcus"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一模一样[微笑R][哭惹R]",
+      "sourceRef": "comment:6a06b505000000002b000b5f",
+      "commentId": "6a06b505000000002b000b5f",
+      "likes": 2,
+      "author": "好运连连"
+    },
+    {
+      "type": "comment",
+      "text": "说明被狙击了，这个圈子完了",
+      "sourceRef": "comment:6a06c548000000002a025499",
+      "commentId": "6a06c548000000002a025499",
+      "likes": 3,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "早就对四大祛魅了，四大就是玩儿圈子",
+      "sourceRef": "comment:6a0883a0000000002803d50d",
+      "commentId": "6a0883a0000000002803d50d",
+      "likes": 5,
+      "author": "无名"
+    },
+    {
+      "type": "comment",
+      "text": "碰到仇家了吧[笑哭R]或者被审稿人报复社会了[笑哭R]",
+      "sourceRef": "comment:6a0ea1a80000000028008d28",
+      "commentId": "6a0ea1a80000000028008d28",
+      "likes": 2,
+      "author": "喵喵大王"
+    },
+    {
+      "type": "comment",
+      "text": "蛮震惊的 就算要达成一致也没必要改成一分吧 差不多行了 你是有什么硬伤么 盲猜里面有个事儿逼突然来一下子 argue 结果不 solid 什么的",
+      "sourceRef": "comment:6a066efc00000000270223f3",
+      "commentId": "6a066efc00000000270223f3",
+      "likes": 4,
+      "author": "兔子尾巴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "能整体这样，绝对是发现什么很恶心的点",
+      "sourceRef": "comment:6a07d8ad0000000029037e53",
+      "commentId": "6a07d8ad0000000029037e53",
+      "likes": 2,
+      "author": "还玩继续玩"
+    }
+  ]
+}

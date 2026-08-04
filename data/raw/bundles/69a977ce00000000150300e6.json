@@ -1,0 +1,50 @@
+{
+  "note_id": "69a977ce00000000150300e6",
+  "url": "https://www.xiaohongshu.com/explore/69a977ce00000000150300e6?xsec_token=ABhuwS9j81driOPxpRKP9qL9JC6xOCr7W99g8hdhmRyFQ=",
+  "fetched_at": 1785841465.5941036,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "翻出来了中的第一篇paper的分数记录",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "凭空多了一篇A[色色R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "7个审稿人吗，rebuttal会不会工作量很大啊",
+      "sourceRef": "comment:69aa34aa000000000600d14d",
+      "commentId": "69aa34aa000000000600d14d",
+      "likes": 2,
+      "author": "Cesasasasar"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个会没rebuttal[笑哭R]",
+      "sourceRef": "comment:69aa482c000000000c00a2f6",
+      "commentId": "69aa482c000000000c00a2f6",
+      "likes": 0,
+      "author": "Oreo"
+    },
+    {
+      "type": "comment",
+      "text": "还是 best paper candidate，牛的张老师[doge]",
+      "sourceRef": "comment:69a97887000000000c014343",
+      "commentId": "69a97887000000000c014343",
+      "likes": 2,
+      "author": "rui"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[doge]",
+      "sourceRef": "comment:69a97d4f000000000c017415",
+      "commentId": "69a97d4f000000000c017415",
+      "likes": 0,
+      "author": "Oreo"
+    }
+  ]
+}

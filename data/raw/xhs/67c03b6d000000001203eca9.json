@@ -1,0 +1,685 @@
+{
+  "note_id": "67c03b6d000000001203eca9",
+  "url": "https://www.xiaohongshu.com/explore/67c03b6d000000001203eca9?xsec_token=ABQNAGGAhfz-VmNnvgWiCXQRU_DjjNPdhvgcX_BRyhzfI=",
+  "fetched_at": 1785842844.305678,
+  "note": {
+    "xsecToken": "ABQNAGGAhfz-VmNnvgWiCXQRU_DjjNPdhvgcX_BRyhzfI=",
+    "desc": "接上篇\n4. Computer Vision 计算机视觉 选修\n个人体感比较枯燥…讲传统图像处理，立体视觉，三维重建之类的。能感觉到这些内容其实有点重要，应该是作为空间智能和agent环境交互的底层原理，但是整体太过工程化，robotics方向的同学可能会更感兴趣一些(?)授课老师是Lu Shijian，老师倒是没什么问题人挺好的，而且没有quiz。希望有同学喜欢这种课吧））\n\t\n5. Advanced Computer Vision 高级计算机视觉 选修\n最值回学费的课没有之一。Chen Change Loy和Liu Ziwei合讲。每节课都是从宏观到微观解释算法设计和建模思路，涵盖了CV领域绝大部分有影响力的paper，从CNN到多模态生成。图和动画很清晰看了有一种醍醐灌顶的感觉。每节课都收获满满，而且听课时真的能体会到老师把他们丰富的实践经验和顶层视角的理解倾囊相授。目前唯一的缺点是，有quiz[doge]\n\t\n6. Time Series Analysis 时间序列分析 选修\nai和ds的同学一起上。老师(Pan Guangming)很有学术风范，是理学院统计系来的，讲纯统计理论和各种经典回归模型，编程语言可以用python但老师会用R演示。这学期也新加了quiz，还好是开卷。我本科就是搞这个方向的听下来还是觉得有点难度 难度党劝退。个人认为这门课定位跟传统CV那门课类似，都是讲ai依赖度较高的专业基础理论为以后该专业结合AI打下基础(非传统AI4S)。最后浅浅吐槽一下老师经常迟到[捂脸R]\n\t\n7. Large Language Model 大语言模型 选修\n最新开的课大家都想抢也很难抢。授课老师是Luu Anh Tuan ，有🇸🇬口音可以用努力与汗水感受他的真诚和热情。内容从NLP基本原理开始讲到几个主流基座LLM的架构分析 以及各种花式微调方法 还更新了Deepseek 关键细节基本上都涵盖到了 讲的也通俗易懂 小白友好型。课设是大(?)模型相关，实用性还行。总体感觉唯一的缺点是不如ACV硬核[doge]\n\t\n其他的课我暂时还没选 可以参考其他学长学姐的分享 最后祝大家前途似锦 殊途同归[合十R]\n#NTU人工智能[话题]# #NTUAI[话题]#",
+    "user": {
+      "nickname": "读硕救不了中国",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg",
+      "xsecToken": "AB9yVJRy_B6yHVdkYZ5rsV97rxHemRj7PYVS_kIaNh5JY=",
+      "userId": "61c49564000000001000cab6"
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "relation": "none",
+      "likedCount": "146",
+      "collectedCount": "181",
+      "commentCount": "55",
+      "shareCount": "49",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831eddftkbgk005oe4ili41ilmjr0eo28",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/c2680c25e979eb445fa81985980dc891/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041927/ade48b3163f55062e9a4b52fb1c4f2f9/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "stream": {},
+        "height": 4284,
+        "width": 5712,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/c2680c25e979eb445fa81985980dc891/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/ade48b3163f55062e9a4b52fb1c4f2f9/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "64623d5e00000000280160a3",
+        "name": "NTU人工智能"
+      },
+      {
+        "id": "6409382c000000001803c9ad",
+        "name": "NTUAI",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1740651374000,
+    "noteId": "67c03b6d000000001203eca9",
+    "type": "normal",
+    "title": "NTU MSAI课程体验(下)",
+    "time": 1740651373000,
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "ipLocation": "北京",
+      "subCommentCount": "2",
+      "subCommentCursor": "692ab29c000000001601c1aa",
+      "id": "692aa029000000003802d366",
+      "content": "学长 想问下 msai disciplinary diversity 咋样，跨专业申请难受大么？9 本机械类+AI 实习经历&竞赛的话有可能被录么[玫瑰R]",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1764401194000,
+      "noteId": "67c03b6d000000001203eca9",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5e0cc06a00000000010047f9",
+        "nickname": "ccsnd",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s0g65d64i6g5ngco1l08hvpru2i4s8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOT_9KQ3CsjK3H_-VKT2UeFSIFA6skajXXOtOzZlePNA="
+      },
+      "invalid": false,
+      "atUsers": [],
+      "subComments": [
+        {
+          "noteId": "67c03b6d000000001203eca9",
+          "content": "挺多元的 但跨申难度感觉还是有的 像机械这种一届一两个吧",
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1764405917000,
+          "targetComment": {
+            "id": "692aa029000000003802d366",
+            "userInfo": {
+              "userId": "5e0cc06a00000000010047f9",
+              "nickname": "ccsnd",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s0g65d64i6g5ngco1l08hvpru2i4s8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABOT_9KQ3CsjK3H_-VKT2UeFSIFA6skajXXOtOzZlePNA="
+            }
+          },
+          "invalid": false,
+          "id": "692ab29c000000001601c1aa",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "ipLocation": "重庆"
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "status": 0,
+      "content": "学长，可以请问一下课程大概时间吗，比如是不是都在晚上？",
+      "id": "6824518700000000040185a1",
+      "atUsers": [],
+      "createTime": 1747210631000,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b80f6vg7a005o7ml4kg8mbrofm1460?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpvIxxGcwq8w4-fu1wkKqOobaC3-xvANrr8jodIg_LQk=",
+        "userId": "60f6a929000000000100597b",
+        "nickname": "淋雨的仙姑"
+      },
+      "ipLocation": "马来西亚",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "id": "6825c5ab000000000401c835",
+          "noteId": "67c03b6d000000001203eca9",
+          "content": "是都在晚上",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "ipLocation": "重庆",
+          "targetComment": {
+            "id": "6824518700000000040185a1",
+            "userInfo": {
+              "xsecToken": "ABpvIxxGcwq8w4-fu1wkKqOobaC3-xvANrr8jodIg_LQk=",
+              "userId": "60f6a929000000000100597b",
+              "nickname": "淋雨的仙姑",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b80f6vg7a005o7ml4kg8mbrofm1460?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1747305899000,
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "67c03b6d000000001203eca9",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "6825c5ab000000000401c835",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "userId": "61aa0c49000000001000cc71",
+        "nickname": "宜家大鲨鲨",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6301bd161dc971b90ce4f833.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvJ5hsSZSaDiWZPP3zO1isO1J2zG2MsKTC33Ro8vbT0c="
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "liked": false,
+      "subCommentCursor": "67c9bd74000000001801ed3c",
+      "invalid": false,
+      "likeCount": "1",
+      "ipLocation": "新加坡",
+      "subComments": [
+        {
+          "content": "我自己感觉中偏上 不过还是要因人而异 看底子",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "新加坡",
+          "invalid": false,
+          "id": "67c9bd74000000001801ed3c",
+          "noteId": "67c03b6d000000001203eca9",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "createTime": 1741274484000,
+          "targetComment": {
+            "id": "67c99dc1000000001502ab07",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABvJ5hsSZSaDiWZPP3zO1isO1J2zG2MsKTC33Ro8vbT0c=",
+              "userId": "61aa0c49000000001000cc71",
+              "nickname": "宜家大鲨鲨",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6301bd161dc971b90ce4f833.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": false,
+      "id": "67c99dc1000000001502ab07",
+      "content": "哥，想问你本科不是cs的话读起来难度怎么样？",
+      "createTime": 1741266370000,
+      "noteId": "67c03b6d000000001203eca9",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "6",
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "noteId": "67c03b6d000000001203eca9",
+          "content": "据我所知就业的话留新加坡大厂的有很多 但总体上回国的应该更多 看个人选择",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1743837432000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "67ee4140000000001f019cbf",
+            "userInfo": {
+              "nickname": "小红薯momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iues6jv1i0g5pd6160214hn1l4ct70?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1r5t4zrwn914wTDpt4X5okf3keuzJKmwdnsPOznHeYE=",
+              "userId": "65a609800000000008009237"
+            }
+          },
+          "invalid": false,
+          "id": "67f0d8f8000000001e0389a4",
+          "status": 0,
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "content": "想了解一下MSAI毕业去向如何呢[哭惹R]",
+      "atUsers": [],
+      "subCommentHasMore": true,
+      "id": "67ee4140000000001f019cbf",
+      "noteId": "67c03b6d000000001203eca9",
+      "liked": false,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "65a609800000000008009237",
+        "nickname": "小红薯momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iues6jv1i0g5pd6160214hn1l4ct70?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1r5t4zrwn914wTDpt4X5okf3keuzJKmwdnsPOznHeYE="
+      },
+      "subCommentCount": "3",
+      "subCommentCursor": "67f0d8f8000000001e0389a4",
+      "invalid": false,
+      "createTime": 1743667521000,
+      "ipLocation": "安徽",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "id": "6a71b9c60000000007016da3",
+      "noteId": "67c03b6d000000001203eca9",
+      "content": "请问选acv需要先修完cv吗～",
+      "userInfo": {
+        "userId": "5bfeb1e451783a32d3cb1b3b",
+        "nickname": "霸王洗发水唯一真官方代言人",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r18fp2k6u0g4bul56ou86prvo1o1lo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYPZ5vcUOmsokf8GMsp1NLXKNCSKO83yK_8cU_rMZthI="
+      },
+      "subCommentCount": "0",
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "createTime": 1785838023000,
+      "ipLocation": "韩国",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1745515919000,
+      "ipLocation": "上海",
+      "subCommentCursor": "680bc02c000000000400dde6",
+      "noteId": "67c03b6d000000001203eca9",
+      "content": "现在留下的概率如何呢",
+      "atUsers": [],
+      "showTags": [],
+      "invalid": false,
+      "id": "680a758f0000000012001c7b",
+      "likeCount": "2",
+      "subComments": [
+        {
+          "noteId": "67c03b6d000000001203eca9",
+          "content": "非要给个参考标准的话 大概二三成左右",
+          "atUsers": [],
+          "ipLocation": "新加坡",
+          "status": 0,
+          "liked": false,
+          "likeCount": "4",
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1745600557000,
+          "targetComment": {
+            "id": "680a758f0000000012001c7b",
+            "userInfo": {
+              "xsecToken": "ABm_qShfqOMEC8iLtIHF8WGB5HVxGHkpH-0-Y7p9zeK70=",
+              "userId": "5b3031c54eacab4078fa1df0",
+              "nickname": "闪电五连鞭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62ec8dd41139bf2294086999.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "680bc02c000000000400dde6"
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABm_qShfqOMEC8iLtIHF8WGB5HVxGHkpH-0-Y7p9zeK70=",
+        "userId": "5b3031c54eacab4078fa1df0",
+        "nickname": "闪电五连鞭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62ec8dd41139bf2294086999.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "4",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1742362804000,
+      "subCommentCursor": "67dc46f700000000120332b0",
+      "ipLocation": "加拿大",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "showTags": [],
+      "subCommentCount": "3",
+      "noteId": "67c03b6d000000001203eca9",
+      "content": "请问可以留课到第二年来延长到1.5年毕业吗？可以的话是不是只按学分补学费？",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f89d40b0000000001005194",
+        "nickname": "玛德琳的小蛋糕",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/643468dd2b3ebad5e52b72f9.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2k90ycK1hrVGWtDzmpct22NZPFiyJzbK5ztsmWEODow="
+      },
+      "subComments": [
+        {
+          "content": "可以1-2.5年毕业，推荐按自己节奏来；是的",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ=",
+            "userId": "61c49564000000001000cab6"
+          },
+          "id": "67dc46f700000000120332b0",
+          "likeCount": "3",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1742489336000,
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "67da58b40000000018007d86",
+            "userInfo": {
+              "xsecToken": "AB2k90ycK1hrVGWtDzmpct22NZPFiyJzbK5ztsmWEODow=",
+              "userId": "5f89d40b0000000001005194",
+              "nickname": "玛德琳的小蛋糕",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/643468dd2b3ebad5e52b72f9.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "67c03b6d000000001203eca9",
+          "status": 0
+        }
+      ],
+      "id": "67da58b40000000018007d86",
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "id": "695fc8df000000001d01e97e",
+          "noteId": "67c03b6d000000001203eca9",
+          "liked": false,
+          "likeCount": "0",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB5t06xfhlpsnx1DeUlH0DO6jUGIO1U9UB1DoyYP6XGLM=",
+              "userId": "587582c66a6a6950e6546f98",
+              "nickname": "Lozan是假喵",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/64ee96822e600f23e2889e3a.jpg?imageView2/2/w/120/format/jpg"
+            },
+            "id": "695e30be000000000601a1d2"
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "没有强制签到",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767885023000,
+          "ipLocation": "北京"
+        }
+      ],
+      "noteId": "67c03b6d000000001203eca9",
+      "content": "请问msai课程有签到要求吗",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB5t06xfhlpsnx1DeUlH0DO6jUGIO1U9UB1DoyYP6XGLM=",
+        "userId": "587582c66a6a6950e6546f98",
+        "nickname": "Lozan是假喵",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64ee96822e600f23e2889e3a.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "1",
+      "subCommentCursor": "695fc8df000000001d01e97e",
+      "invalid": false,
+      "id": "695e30be000000000601a1d2",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1767780542000,
+      "subCommentHasMore": false,
+      "liked": false,
+      "ipLocation": "新加坡",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1743131463000,
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "Alice",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6056bd960000000001009d89.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1N1mAdUGSgBDWgvIQhbs4W1cxLg0jevPVv8CLKqSMzA=",
+        "userId": "6056bd960000000001009d89"
+      },
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "createTime": 1743160514000,
+          "invalid": false,
+          "id": "67e684c20000000012031958",
+          "noteId": "67c03b6d000000001203eca9",
+          "content": "只是学分课(credit-bearing)所有人都可以选的 具体的job opportunities 需要自己找",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "67e61347000000001f029134",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6056bd960000000001009d89.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1N1mAdUGSgBDWgvIQhbs4W1cxLg0jevPVv8CLKqSMzA=",
+              "userId": "6056bd960000000001009d89",
+              "nickname": "Alice"
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ=",
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "山东",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "67e61347000000001f029134",
+      "subCommentCursor": "67e684c20000000012031958",
+      "noteId": "67c03b6d000000001203eca9",
+      "content": "请问internship国际学生可以选吗？什么时间申请？",
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6893747d000000002a004bbb",
+      "likeCount": "1",
+      "createTime": 1754494077000,
+      "subCommentCursor": "68959e9b000000002902854b",
+      "subCommentHasMore": true,
+      "status": 0,
+      "ipLocation": "新加坡",
+      "subCommentCount": "2",
+      "noteId": "67c03b6d000000001203eca9",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABP0V70FzkaaAzY9N9-UX7ExyFbuA9KXaNbKU-JPbKHQ4=",
+        "userId": "6842f1d9000000001e004435",
+        "nickname": "老虎尾巴包包",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202nsd5ok8705q22u7cngh1lkk0upbg?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "content": "一门课1-2次 绝大部分都是一次",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61c49564000000001000cab6",
+            "nickname": "读硕救不了中国",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPBqQ_ItQUidsL74c3CCDBXCnU7INNqnd2IgwwVv2vcQ="
+          },
+          "targetComment": {
+            "id": "6893747d000000002a004bbb",
+            "userInfo": {
+              "xsecToken": "ABP0V70FzkaaAzY9N9-UX7ExyFbuA9KXaNbKU-JPbKHQ4=",
+              "userId": "6842f1d9000000001e004435",
+              "nickname": "老虎尾巴包包",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202nsd5ok8705q22u7cngh1lkk0upbg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "noteId": "67c03b6d000000001203eca9",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1754635932000,
+          "ipLocation": "重庆",
+          "invalid": false,
+          "id": "68959e9b000000002902854b",
+          "status": 0
+        }
+      ],
+      "invalid": false,
+      "content": "学长好，想问下这些课的quiz频率是多高呀",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6187 Vision and Language",
+  "search_item": {
+    "id": "67c03b6d000000001203eca9",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "NTU MSAI课程体验(下)",
+      "user": {
+        "xsecToken": "ABmvCXNHmRT6OM2WMY3Ud-dUGWB9F79TAeGFWUvMcjrDs=",
+        "nickName": "读硕救不了中国",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311qnaogrgk6g5oe4ili41ilm88rbdgg?imageView2/2/w/80/format/jpg",
+        "userId": "61c49564000000001000cab6",
+        "nickname": "读硕救不了中国"
+      },
+      "interactInfo": {
+        "sharedCount": "49",
+        "liked": false,
+        "likedCount": "146",
+        "collected": false,
+        "collectedCount": "181",
+        "commentCount": "55"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041927/fb915112d8b4d96c3a4cbe75353a9096/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nc_n_webp_prv_1",
+        "height": 4284,
+        "width": 5712,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041927/11afac3335c9db2643e0157558e954f7/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 4284,
+          "width": 5712,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/11afac3335c9db2643e0157558e954f7/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041927/fb915112d8b4d96c3a4cbe75353a9096/1040g00831eddftkbgk005oe4ili41ilmjr0eo28!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-02-27"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABQNAGGAhfz-VmNnvgWiCXQRU_DjjNPdhvgcX_BRyhzfI=",
+    "index": 2,
+    "exposed": true,
+    "trackId": "67c03b6d000000001203eca9"
+  }
+}

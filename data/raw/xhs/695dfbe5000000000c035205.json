@@ -1,0 +1,328 @@
+{
+  "note_id": "695dfbe5000000000c035205",
+  "url": "https://www.xiaohongshu.com/explore/695dfbe5000000000c035205?xsec_token=ABCBX7ktxrVvVXuQIFwn3s-RMPXFfYq-D5UDnbnXq-3hU=",
+  "fetched_at": 1785840634.264269,
+  "note": {
+    "interactInfo": {
+      "likedCount": "40",
+      "collectedCount": "71",
+      "commentCount": "7",
+      "followed": true,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "shareCount": "16",
+      "relation": "follows"
+    },
+    "atUserList": [],
+    "time": 1767767013000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "695dfbe5000000000c035205",
+    "type": "normal",
+    "title": "港中文cs选课攻略-Term1（上）",
+    "imageList": [
+      {
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041850/e307fc08951e17a6c64f1c60c609a8a4/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o",
+        "height": 1600,
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041850/e307fc08951e17a6c64f1c60c609a8a4/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041850/7d00d1180bf1e144354233a05c6a0d93/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041850/7d00d1180bf1e144354233a05c6a0d93/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "652cc94a000000000b0324b5",
+        "name": "港中文cs",
+        "type": "topic"
+      },
+      {
+        "id": "652a9a62000000000d007f73",
+        "name": "cucs",
+        "type": "topic"
+      },
+      {
+        "name": "港中文cs课程",
+        "type": "topic",
+        "id": "695b3aba000000002502ece0"
+      },
+      {
+        "type": "topic",
+        "id": "695b3ab100000000240010ea",
+        "name": "港中文cs选课"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "name": "港中文",
+        "type": "topic",
+        "id": "5d8882bf0000000002002f46"
+      },
+      {
+        "name": "港中文计算机",
+        "type": "topic",
+        "id": "653a1bbe000000001702851a"
+      },
+      {
+        "type": "topic",
+        "id": "667bd6760000000003019bcb",
+        "name": "cs港硕"
+      }
+    ],
+    "lastUpdateTime": 1767767014000,
+    "desc": "[一R] CMSC5719\n体验极其舒适，每周有一位老师来介绍一个研究领域的最新进展，就当听讲座。强考勤，签到十次就可以拿满50%的分，剩下50%交一篇survey report，此外无任何作业，给分极高。\n个人得分：A\n\t\n[二R] CMSC5713\n体验极其舒适，无需考勤，主要讲IT项目管理相关的内容，几乎无硬核烧脑内容，老师很和蔼但确实有口音，不过问题不大，完全可以自行看课件学习。\n考核方式：三次作业（共占60%，均为小组作业，第三次作业包括presentation，不是所有组都会上台pre，老师抽签决定。作业难度都不大，踏踏实实做完就能拿高分）+期末考试（40%）。期末考试完全开卷，不过只能带打印资料（24fall可带电子版资料，输了！），期末老师会发往年真题，建议所有真题必须打印，因为会有相似的题目，考试中直接无脑抄。至于课件个人觉得没有太大的打印必要，因为太多了，而且期末考试题量很大，根本来不及翻那么多资料，要打印就好好review一遍打印重点（往年真题中涉及的知识点就是重点[doge]）。总体来讲，这门课极其舒适，给分也极高，但完全不学只靠突击未必能拿A，因为期末题量很大，有些知识点如果没有理解不一定做得出来，反正我最后一道大题是没空写也写不来。\n个人得分：A\n\t\n[三R] CMSC5727\n体验极其舒适，主要讲游戏开发，包括理论和实战，实战教授Godot游戏引擎，无需考勤，理论可以自行看课件学习，实战可以直接跟着Godot官方教程学，很快就能上手。\n考核方式：一个项目（40%）+期末考试（60%）。项目就是开发一个游戏，可以用任意游戏引擎开发，可单飞or两人组队，老师对项目没有很难的要求，自己看着做一个游戏出来就行，无非就是做得好多拿点分，期末要pre，可以上台pre（投票前几可获额外加分），也可以不要bonus单独给老师汇报。不必担心项目，只要不抄袭踏踏实实做，即使做出来一个demo感觉老师也不会挂（华莱士人很好的）。期末可带一张双面A4纸的cheatsheet，虽然游戏理论本身不简单，但期末真的考的很简单，大多数考的就是课件上的定义和概念，只要好好整理课件打印全了无脑抄就行（我没打印全[哭惹R]），当然题量还是很大的，我没写完，给分很大方。\n个人得分：A-\n\t\n#港中文cs[话题]# #cucs[话题]# #港中文cs课程[话题]# #港中文cs选课[话题]# #港硕[话题]# #港中文[话题]# #港中文计算机[话题]# #cs港硕[话题]#",
+    "user": {
+      "xsecToken": "ABZGi_Zhr8egV0EKUZNal2B0DLYhGquj48hnIsFbRjLU8=",
+      "userId": "6228b4ee0000000010008391",
+      "nickname": "摆烂的郝荐荐",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o"
+    },
+    "xsecToken": "ABCBX7ktxrVvVXuQIFwn3s-RMPXFfYq-D5UDnbnXq-3hU="
+  },
+  "comments": [
+    {
+      "status": 3,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "695e29e0000000001d00a4e3",
+      "invalid": false,
+      "id": "695e296b0000000005039651",
+      "userInfo": {
+        "xsecToken": "AB7kAVHg-9l2BQOqgBptHC9esMKyjSC5tAP-em9ZJm-M8=",
+        "userId": "5b3a5411e8ac2b111fa76146",
+        "nickname": "iullius",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a90clien2004a6pgha12oa6f30o7uo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "status": 0,
+          "content": "[派对R]",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "createTime": 1767778785000,
+          "targetComment": {
+            "id": "695e296b0000000005039651",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB7kAVHg-9l2BQOqgBptHC9esMKyjSC5tAP-em9ZJm-M8=",
+              "userId": "5b3a5411e8ac2b111fa76146",
+              "nickname": "iullius",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a90clien2004a6pgha12oa6f30o7uo?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "695dfbe5000000000c035205",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "id": "695e29e0000000001d00a4e3"
+        }
+      ],
+      "content": "我喜欢华莱士[哭惹R][哭惹R]",
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "noteId": "695dfbe5000000000c035205",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1767778668000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "695dfbe5000000000c035205",
+      "status": 0,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "noteId": "695dfbe5000000000c035205",
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a5339c6000000002300d40b",
+            "userInfo": {
+              "xsecToken": "ABf9QgZuzZlM1k1BHh2L3IzIhgLKd9pvJExqlOYbS4OjE=",
+              "userId": "621116270000000010008189",
+              "nickname": "mo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pr6slvdkm005ogh2ojk10c9lm7tb60?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "status": 0,
+          "content": "不考勤",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "createTime": 1783844306000,
+          "invalid": false,
+          "id": "6a534dd200000000290272fe"
+        }
+      ],
+      "subCommentCursor": "6a534dd200000000290272fe",
+      "content": "5727，看得分比例，是没有考勤的对吧，楼主大大",
+      "showTags": [],
+      "id": "6a5339c6000000002300d40b",
+      "liked": false,
+      "userInfo": {
+        "nickname": "mo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pr6slvdkm005ogh2ojk10c9lm7tb60?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABf9QgZuzZlM1k1BHh2L3IzIhgLKd9pvJExqlOYbS4OjE=",
+        "userId": "621116270000000010008189"
+      },
+      "createTime": 1783839174000,
+      "ipLocation": "浙江",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "nickname": "FireEgg",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzV_rs5SmBMgPj0a0py1ofPqTZElgsblK_pjtIwtpMXA=",
+        "userId": "631610c0000000001200e15a"
+      },
+      "noteId": "695dfbe5000000000c035205",
+      "content": "5727神中神",
+      "atUsers": [],
+      "createTime": 1767800485000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "2",
+      "showTags": [],
+      "status": 0,
+      "ipLocation": "广东",
+      "subComments": [],
+      "id": "695e7ea4000000001d02775e",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "subCommentCursor": "",
+      "status": 0,
+      "userInfo": {
+        "userId": "5e254de70000000001005287",
+        "nickname": "Ellis",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uk05bs12i0g5nh59njg8kk707dlf30?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZznq-AGpEC3X31c3CuyI93aCO2QUiFTNPb_WD27SkEA="
+      },
+      "createTime": 1783956583000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "id": "6a5504660000000015005a79",
+      "content": "想问一下CMSC5713期末考机考代码吗",
+      "showTags": [],
+      "ipLocation": "浙江",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "695dfbe5000000000c035205",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 选课",
+  "search_item": {
+    "id": "695dfbe5000000000c035205",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港中文cs选课攻略-Term1（上）",
+      "user": {
+        "nickname": "摆烂的郝荐荐",
+        "xsecToken": "AB6kHsdwoUcKK4YubmS_ajGfqTM1A0FGSn8DpOB-iTtYw=",
+        "nickName": "摆烂的郝荐荐",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/80/format/jpg",
+        "userId": "6228b4ee0000000010008391"
+      },
+      "interactInfo": {
+        "commentCount": "7",
+        "sharedCount": "16",
+        "liked": false,
+        "likedCount": "40",
+        "collected": false,
+        "collectedCount": "71"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041850/40e234688ef94eabcb734de0005e140e/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041850/9e3c6ca59bb40b763d79abb8d24034a5/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041850/9e3c6ca59bb40b763d79abb8d24034a5/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041850/40e234688ef94eabcb734de0005e140e/spectrum/1040g0k031r1chqnogm005oh8mjn410shlsmq53o!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ]
+    },
+    "xsecToken": "ABCBX7ktxrVvVXuQIFwn3s-RMPXFfYq-D5UDnbnXq-3hU=",
+    "index": 21,
+    "exposed": false,
+    "trackId": "695dfbe5000000000c035205"
+  }
+}

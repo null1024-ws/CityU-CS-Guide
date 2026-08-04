@@ -1,0 +1,187 @@
+{
+  "note_id": "6a583dea000000001303d0a4",
+  "url": "https://www.xiaohongshu.com/explore/6a583dea000000001303d0a4?xsec_token=ABWTD5SlSx_k73LrohVv6QwfZ-Q-8cpJU5gwQ63XnrOWQ=",
+  "fetched_at": 1785843347.9912155,
+  "note": {
+    "noteId": "6a583dea000000001303d0a4",
+    "desc": "链式思维（CoT）提示广泛用于视觉-语言模型（VLM）的测试阶段扩展策略，但当 VLM 生成更长的推理路径时，到底延伸了什么仍不清楚。我们想知道 CoT 是否需要持续访问图像 token，还是主要依赖于之前前向传播中已经获得的视觉信息。我们提出了视觉访问扫描（Visual Access Sweep），这是一种因果干预方法，它在层深和生成时间上屏蔽生成 token 查询对图像 token 键的注意力，并定义视觉访问边界（VAB）为能够保持任务精度的最小访问区域。在 Qwen2.5-VL 和 InternVL3 的六种模型配置中，无论是无 CoT 的直接回答，还是 CoT 提示，都表现出有限的 VAB。在 Qwen2.5-VL-32B 和 InternVL3 的 14B 和 38B 规模模型中，当将 CoT 与无 CoT 的完全访问目标进行比较时，其 VAB 层与无 CoT 边界最多相差两层，尽管生成的内容明显更长。这表明CoT提升性能的方式主要不是通过在推理过程中延长对图像标记的直接访问，而是通过在语言端对图像派生的隐藏状态信息进行更多计算。我们进一步展示了CoT的收益受感知读取能力的限制。当模型能够可靠地读取所查询的视觉属性时，CoT会有帮助，但当读取不可靠时则无效。一个符号属性的Oracle显示，一旦将真实属性作为文本提供，CoT可以提升计数能力，而单个对象的探测-解码检查表明，难以获取的属性虽然能从隐藏状态中线性恢复，但模型本身很难输出。综合来看，这些分析显示瓶颈在于读取，而不是计数。",
+    "interactInfo": {
+      "niceCount": "",
+      "commentCount": "",
+      "shareCount": "22",
+      "liked": false,
+      "likedCount": "30",
+      "collected": false,
+      "collectedCount": "51",
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [],
+    "time": 1784167914000,
+    "ipLocation": "上海",
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "东大：视觉语言模型推理中的视觉访问边界",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321rgg364ne005qdgtjqt4doo4kojmk8",
+      "xsecToken": "AB7bqRvtkR-4ObciGigKVJXB79T_Ku3mfmh72MKFc6C1k=",
+      "userId": "69b0ecf50000000034023718",
+      "nickname": "wfanae"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/2c37bb4b67d33f2a7782695c92fc1cfa/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/2c37bb4b67d33f2a7782695c92fc1cfa/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/f978e360462f7a23cac60b5a8c5fa1a9/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/f978e360462f7a23cac60b5a8c5fa1a9/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nd_dft_wlteh_jpg_3",
+        "fileId": "notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo",
+        "height": 3373,
+        "width": 2400
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/74197bd9a0b587d5add701aba1a96396/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/8de6c39bd42f83faca7c069038628690/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/74197bd9a0b587d5add701aba1a96396/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "width": 1206,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/8de6c39bd42f83faca7c069038628690/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao",
+        "height": 576
+      },
+      {
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/0852efafa2b640efd20aa53ee4ca506b/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nd_dft_wgth_jpg_3",
+        "width": 672,
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/ed6cb9004305c9c91751da5295f1d50b/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041936/0852efafa2b640efd20aa53ee4ca506b/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/ed6cb9004305c9c91751da5295f1d50b/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8",
+        "height": 383
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1784167914000,
+    "xsecToken": "ABWTD5SlSx_k73LrohVv6QwfZ-Q-8cpJU5gwQ63XnrOWQ="
+  },
+  "comments": [],
+  "search_query": "CS6187 视觉语言",
+  "search_item": {
+    "id": "6a583dea000000001303d0a4",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "30",
+        "collected": false,
+        "collectedCount": "51",
+        "commentCount": "0",
+        "sharedCount": "22"
+      },
+      "cover": {
+        "height": 3373,
+        "width": 2400,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041935/f5e8dd6b15d21f4c4c3a96d4b43cf1f2/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041935/48e223535e824ee74e65c5cc84f7dd69/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 2400,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/f5e8dd6b15d21f4c4c3a96d4b43cf1f2/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/48e223535e824ee74e65c5cc84f7dd69/notes_pre_post/1040g3k0322lqbascna305qdgtjqt4doorq6kbpo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 3373
+        },
+        {
+          "height": 576,
+          "width": 1206,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/91670e50112c68163203b0001368bb98/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/d84c7b69ad85cdb8e976d1609a5d5289/notes_pre_post/1040g3k0322lqbascna3g5qdgtjqt4doo53perao!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 672,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/dbb45cb9b8e2c27770838e8e2f0359aa/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/47b2a39a97f55c3fe1ac5a43a0443e3a/notes_pre_post/1040g3k0322lqbascna405qdgtjqt4doonri49m8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 383
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-16"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "东大：视觉语言模型推理中的视觉访问边界",
+      "user": {
+        "xsecToken": "ABNY_Kbl_KX63bLRE8RVK8_XeSc6bOcneGH5H4ji9gSaQ=",
+        "nickName": "wfanae",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321rgg364ne005qdgtjqt4doo4kojmk8?imageView2/2/w/80/format/jpg",
+        "userId": "69b0ecf50000000034023718",
+        "nickname": "wfanae"
+      }
+    },
+    "xsecToken": "ABWTD5SlSx_k73LrohVv6QwfZ-Q-8cpJU5gwQ63XnrOWQ=",
+    "index": 10,
+    "exposed": false,
+    "trackId": "6a583dea000000001303d0a4"
+  }
+}

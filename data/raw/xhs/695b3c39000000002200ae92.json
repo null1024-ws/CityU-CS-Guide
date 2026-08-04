@@ -1,0 +1,756 @@
+{
+  "note_id": "695b3c39000000002200ae92",
+  "url": "https://www.xiaohongshu.com/explore/695b3c39000000002200ae92?xsec_token=ABI501A6GeRziIXA1MauwnicOsaxLwYbwVoQxcMTD0xRs=",
+  "fetched_at": 1785837745.8733299,
+  "note": {
+    "xsecToken": "ABI501A6GeRziIXA1MauwnicOsaxLwYbwVoQxcMTD0xRs=",
+    "type": "normal",
+    "title": "港中文cs选课攻略-开篇",
+    "desc": "2026新年的第一篇笔记，为大家奉上cuhk cs msc的选课攻略！我打算采用挤牙膏的方式，这篇写个开篇综述，下一篇带来term1的选课攻略（term2等我上完先[doge]）。声明一下，每个人选课的策略出发点不同，有人只是想毕业随便水水，有人想真的学东西，我给的攻略仅供参考。\n\t\n咱cucs只需要上8门课就可以毕业，相比其他学校的cs项目已经是超爽了，可以把选课安排在term1、term2，或者是summer term，常见的组合有4+4、5+3、5+2+1等（也有猛男一学期上6门），我的选课方案是5+3，第一学期上5门课，第二学期上3门并兼顾实习。我也有同学选择4+4，两学期都兼顾实习，精力旺盛的同学可以这样搞，我是懒狗第一学期选择躺平[大笑R]不过也还好，第一学期9月开学12月初几乎就全部结课，第二学期1月开学4月就基本结课，第一学期先好好享受留学生活，第二学期再实习完全OK。咱cucs的每门课容量有限，不能保证每个人都能选上，建议大家提前了解选课流程准时上号抢课（本篇不讲咋抢课）。除了选cucs msc的课以外，也有mphil/phd和外系的课可以选，具体可看学校课程列表，我个人全部选的cucs msc的课。关于外系的课，个人亲测很难抢，只有极少数同学能抢到，甚至有不少同学都抢不到本系的课，所以最稳妥的方案还是选本系的。\n\t\n话不多说（已经说完了），先直接放上我的选课清单：\nterm1:\n[一R] CMSC5719 Seminar\n[二R] CMSC5713 IT Project Management\n[三R] CMSC5728 Decision Analysis & Game Theo\n[四R] CMSC5727 Comp Game Software Production\n[五R] CMSC5720 Project I\nterm2:\n[一R] CMSC5730 IT Entrepreneurship &Marketing\n[二R] CMSC5726 Computer and Network Security\n[三R] CMSC5721 Project II\n\t\n亲测下来，我的选课方案特别适合只求毕业的同学，workload不大，十分舒适[doge]不敢说是最佳组合，但也肯定能排top，供学弟学妹们参考！\n#选课[话题]# #cucs[话题]# #港中文cs[话题]# #cuhkcs[话题]# #港中文cs选课[话题]# #港中文cs课程[话题]# #港硕[话题]# #港硕选课[话题]# #港硕选课攻略[话题]# #港中文[话题]#",
+    "user": {
+      "userId": "6228b4ee0000000010008391",
+      "nickname": "摆烂的郝荐荐",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o",
+      "xsecToken": "ABZGi_Zhr8egV0EKUZNal2B0DLYhGquj48hnIsFbRjLU8="
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041802/ad6347cf669d611354981e6d49f069dc/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041802/11784c00a0ea387ed8089572604fcc04/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8",
+        "height": 1600,
+        "width": 1200,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041802/11784c00a0ea387ed8089572604fcc04/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041802/ad6347cf669d611354981e6d49f069dc/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "lastUpdateTime": 1767586874000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "118",
+      "relation": "follows",
+      "likedCount": "80",
+      "collected": false,
+      "commentCount": "45",
+      "shareCount": "19",
+      "followed": true,
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "652a9a62000000000d007f73",
+        "name": "cucs",
+        "type": "topic"
+      },
+      {
+        "id": "652cc94a000000000b0324b5",
+        "name": "港中文cs",
+        "type": "topic"
+      },
+      {
+        "name": "cuhkcs",
+        "type": "topic",
+        "id": "642e46590000000011035441"
+      },
+      {
+        "id": "695b3ab100000000240010ea",
+        "name": "港中文cs选课",
+        "type": "topic"
+      },
+      {
+        "id": "695b3aba000000002502ece0",
+        "name": "港中文cs课程",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "id": "64bd02a20000000025013849",
+        "name": "港硕选课",
+        "type": "topic"
+      },
+      {
+        "name": "港硕选课攻略",
+        "type": "topic",
+        "id": "695b3ace0000000025030fe5"
+      },
+      {
+        "id": "5d8882bf0000000002002f46",
+        "name": "港中文",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1767586873000,
+    "noteId": "695b3c39000000002200ae92"
+  },
+  "comments": [
+    {
+      "subCommentCursor": "695b48b20000000031001be0",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gsac8i5js6g5pmcsfgnc8e6lfmfq7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxR9DyhUg05NmwBEFFxkGtWxMg_vSakEUFLcBwhtRcEo=",
+        "userId": "66cce3e1000000001d0221c6",
+        "nickname": "窗透初晓"
+      },
+      "subCommentCount": "4",
+      "invalid": false,
+      "content": "这个项目是有实习学分吗？那是不是可以留一个实习课在summer term，然后前面的两个学期就可以少上一门课了？",
+      "liked": false,
+      "createTime": 1767588742000,
+      "id": "695b4385000000001d01f60e",
+      "noteId": "695b3c39000000002200ae92",
+      "atUsers": [],
+      "subComments": [
+        {
+          "content": "实习课的quota很少，还要面试，不建议抱太大希望",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "695b4385000000001d01f60e",
+            "userInfo": {
+              "userId": "66cce3e1000000001d0221c6",
+              "nickname": "窗透初晓",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gsac8i5js6g5pmcsfgnc8e6lfmfq7o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABxR9DyhUg05NmwBEFFxkGtWxMg_vSakEUFLcBwhtRcEo="
+            }
+          },
+          "invalid": false,
+          "id": "695b48b20000000031001be0",
+          "noteId": "695b3c39000000002200ae92",
+          "status": 0,
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "createTime": 1767590066000
+        }
+      ],
+      "subCommentHasMore": true,
+      "showTags": [],
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "695b3e0800000000140354d5",
+      "noteId": "695b3c39000000002200ae92",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "userInfo": {
+        "userId": "5825b52d50c4b453882d8a16",
+        "nickname": "我剑也未尝不利",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3201lagje2s0048r9o0qir2gm515b1fg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1mYrvY5_gF4zhCpSOjHVqOs2FMzahcf1a6Zx3Hhg-jE="
+      },
+      "invalid": false,
+      "subCommentCount": "8",
+      "subComments": [
+        {
+          "content": "你在waitlist上的话有可能给你扩进去[doge]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6564bca5000000001103e1ed",
+            "nickname": "十二瓶水_Aquarius",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31soqn7cv5c6g5pb4niikfofdp3na3v0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABtr7-WxNXrDjhalBe3ebHLJyKCk0gH63pS6pLAbm64n4="
+          },
+          "createTime": 1767587931000,
+          "ipLocation": "广东",
+          "id": "695b405b000000001502d052",
+          "noteId": "695b3c39000000002200ae92",
+          "liked": false,
+          "showTags": [],
+          "targetComment": {
+            "id": "695b3e0800000000140354d5",
+            "userInfo": {
+              "userId": "5825b52d50c4b453882d8a16",
+              "nickname": "我剑也未尝不利",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3201lagje2s0048r9o0qir2gm515b1fg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1mYrvY5_gF4zhCpSOjHVqOs2FMzahcf1a6Zx3Hhg-jE="
+            }
+          },
+          "invalid": false,
+          "status": 0
+        }
+      ],
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1767587336000,
+      "content": "是不是closed的课就没有希望了[哭惹R]",
+      "liked": false,
+      "subCommentCursor": "695b405b000000001502d052",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "695b3c39000000002200ae92",
+      "createTime": 1767703142000,
+      "subComments": [
+        {
+          "noteId": "695b3c39000000002200ae92",
+          "content": "要求看老师，做啥看老师给的topic，需要线下答辩",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6228b4ee0000000010008391",
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE="
+          },
+          "targetComment": {
+            "id": "695d0265000000001900062f",
+            "userInfo": {
+              "userId": "5dc7cdff00000000010087e9",
+              "nickname": "洛棠羽",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/61c743aa6622a041146dc0e6.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABTf3HLHXSXR2ZFtzgwdMhS6JnhPYbSf7t9fqbyzi1-WY="
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767715903000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "id": "695d343f0000000032001419"
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "重庆",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCursor": "695d343f0000000032001419",
+      "subCommentHasMore": true,
+      "id": "695d0265000000001900062f",
+      "content": "想问一下project要求高吗，主要是做啥，需要线下答辩莫[萌萌哒R]",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5dc7cdff00000000010087e9",
+        "nickname": "洛棠羽",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61c743aa6622a041146dc0e6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTf3HLHXSXR2ZFtzgwdMhS6JnhPYbSf7t9fqbyzi1-WY="
+      },
+      "subCommentCount": "8",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "695b71aa000000000503960a",
+      "liked": false,
+      "userInfo": {
+        "userId": "5f472897000000000101c136",
+        "nickname": "骊山语罢清宵半",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f472897000000000101c136.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABA2-cCT2-hWD_z0NDjguH6OoQKGuz6sQZrH2vkneNX3I="
+      },
+      "showTags": [],
+      "createTime": 1767597815000,
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "6228b4ee0000000010008391",
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE="
+          },
+          "targetComment": {
+            "id": "695b66f7000000001d00ceff",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f472897000000000101c136.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABA2-cCT2-hWD_z0NDjguH6OoQKGuz6sQZrH2vkneNX3I=",
+              "userId": "5f472897000000000101c136",
+              "nickname": "骊山语罢清宵半"
+            }
+          },
+          "noteId": "695b3c39000000002200ae92",
+          "content": "[微笑R][害羞R]",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767600554000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "id": "695b71aa000000000503960a",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "noteId": "695b3c39000000002200ae92",
+      "content": "bd郝同学[偷笑R]",
+      "ipLocation": "广东",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "id": "695b66f7000000001d00ceff",
+      "status": 0,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "还有一个问题是cs master选课时间比较自由吗，不知道晚课会不会多，想住福田",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广东",
+      "id": "6a17d3d3000000002901abd6",
+      "noteId": "695b3c39000000002200ae92",
+      "liked": false,
+      "userInfo": {
+        "userId": "5b55e4fcf7e8b907d5080021",
+        "nickname": "Jia",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31btda30cgu004a7eg1ifo011opr0f38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJeAJGe8bCNpd-cY5RAMkiEjp3QMN-efbucnkmt2TXMw="
+      },
+      "subCommentCursor": "6a184e04000000002a00792e",
+      "status": 0,
+      "createTime": 1779946451000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1779977733000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "5b55e4fcf7e8b907d5080021",
+              "nickname": "Jia",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31btda30cgu004a7eg1ifo011opr0f38?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABJeAJGe8bCNpd-cY5RAMkiEjp3QMN-efbucnkmt2TXMw="
+            },
+            "id": "6a17d3d3000000002901abd6"
+          },
+          "invalid": false,
+          "id": "6a184e04000000002a00792e",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6228b4ee0000000010008391",
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE="
+          },
+          "ipLocation": "安徽",
+          "noteId": "695b3c39000000002200ae92",
+          "content": "本系课几乎晚课"
+        }
+      ],
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "1",
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/602b7a4900000000010089b9.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfvXPnN1UIa17TIBZN6RRVUxaTdc1B0DeNgVM_EKL6WI=",
+        "userId": "602b7a4900000000010089b9",
+        "nickname": "明洞里"
+      },
+      "subComments": [
+        {
+          "noteId": "695b3c39000000002200ae92",
+          "content": "[色色R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "createTime": 1767600516000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "695b5597000000001601cbce",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABfvXPnN1UIa17TIBZN6RRVUxaTdc1B0DeNgVM_EKL6WI=",
+              "userId": "602b7a4900000000010089b9",
+              "nickname": "明洞里",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/602b7a4900000000010089b9.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "695b71830000000018023e60",
+          "status": 0,
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "content": "我是猛男",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "695b71830000000018023e60",
+      "subCommentHasMore": false,
+      "id": "695b5597000000001601cbce",
+      "noteId": "695b3c39000000002200ae92",
+      "liked": false,
+      "createTime": 1767593368000,
+      "ipLocation": "广东",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "noteId": "695b3c39000000002200ae92",
+          "status": 0,
+          "content": "5727是游戏开发，5728是决策分析与博弈论",
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "createTime": 1767600417000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "695b4a5b00000000060183bd",
+            "userInfo": {
+              "xsecToken": "ABhCHsn8Lwk9iA2NPIpfNYg4CluI6DubASqyJwa5WrRJ4=",
+              "userId": "62bdcd46000000001b026b56",
+              "nickname": "snow",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j82hirrii005oltpl36sqqmfjc0hj8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "695b7121000000000f02ae9c",
+          "atUsers": []
+        }
+      ],
+      "atUsers": [],
+      "userInfo": {
+        "userId": "62bdcd46000000001b026b56",
+        "nickname": "snow",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j82hirrii005oltpl36sqqmfjc0hj8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhCHsn8Lwk9iA2NPIpfNYg4CluI6DubASqyJwa5WrRJ4="
+      },
+      "subCommentCursor": "695b7121000000000f02ae9c",
+      "createTime": 1767590492000,
+      "ipLocation": "天津",
+      "subCommentCount": "2",
+      "status": 0,
+      "content": "我看都是game相关诶，游戏制作吗",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "695b4a5b00000000060183bd",
+      "noteId": "695b3c39000000002200ae92",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5b55e4fcf7e8b907d5080021",
+        "nickname": "Jia",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31btda30cgu004a7eg1ifo011opr0f38?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJeAJGe8bCNpd-cY5RAMkiEjp3QMN-efbucnkmt2TXMw="
+      },
+      "showTags": [],
+      "createTime": 1779946274000,
+      "atUsers": [],
+      "ipLocation": "广东",
+      "id": "6a17d322000000002b00134c",
+      "noteId": "695b3c39000000002200ae92",
+      "status": 0,
+      "liked": false,
+      "content": "想问一下如果延迟到11月份毕业学费是一样吗。 还有summer上课的话有什么利弊呀 谢谢！",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a17d322000000002b00134c",
+            "userInfo": {
+              "xsecToken": "ABJeAJGe8bCNpd-cY5RAMkiEjp3QMN-efbucnkmt2TXMw=",
+              "userId": "5b55e4fcf7e8b907d5080021",
+              "nickname": "Jia",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31btda30cgu004a7eg1ifo011opr0f38?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "695b3c39000000002200ae92",
+          "status": 0,
+          "content": "学费一样",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391",
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1779977671000,
+          "ipLocation": "安徽",
+          "id": "6a184dc7000000002b02ab22",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "subCommentCursor": "6a184dc7000000002b02ab22",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "695b6fd900000000160274a8",
+      "content": "能翘课吗[doge]",
+      "likeCount": "0",
+      "createTime": 1767600089000,
+      "subCommentCursor": "695b71c1000000000f01c1d8",
+      "noteId": "695b3c39000000002200ae92",
+      "status": 0,
+      "userInfo": {
+        "userId": "60f69f9f000000000101e32f",
+        "nickname": "我是喵",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p3p11mb2u5g5o7mjufgbopfbv77o8g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpvIxxGcwq8w4-fu1wkKqOv3Xj1-csdnAL-7KM2d0z_4="
+      },
+      "ipLocation": "安徽",
+      "subCommentCount": "1",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "id": "695b71c1000000000f01c1d8",
+          "noteId": "695b3c39000000002200ae92",
+          "status": 0,
+          "userInfo": {
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE=",
+            "userId": "6228b4ee0000000010008391"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767600578000,
+          "targetComment": {
+            "id": "695b6fd900000000160274a8",
+            "userInfo": {
+              "userId": "60f69f9f000000000101e32f",
+              "nickname": "我是喵",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p3p11mb2u5g5o7mjufgbopfbv77o8g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpvIxxGcwq8w4-fu1wkKqOv3Xj1-csdnAL-7KM2d0z_4="
+            }
+          },
+          "content": "翘课的一堆人",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "ipLocation": "广东",
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1767623033000,
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1767673422000,
+          "invalid": false,
+          "id": "695c8e4e000000003100067c",
+          "content": "我没选",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6228b4ee0000000010008391",
+            "nickname": "摆烂的郝荐荐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABoSuqm45y1LG7cgXvLSrfoGwCGMxMzUy4ffmt31cOksE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABOWZO1OrLyJx8jr2gJSj73_VJQYu-297JY5YtnUi7flc=",
+              "userId": "5ef1fa490000000001003976",
+              "nickname": "clsds",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nn3im1h586g5nnhv94g8ebmo8mco60?imageView2/2/w/120/format/jpg"
+            },
+            "id": "695bc978000000001d01e71b"
+          },
+          "noteId": "695b3c39000000002200ae92"
+        }
+      ],
+      "id": "695bc978000000001d01e71b",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "695c8e4e000000003100067c",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "noteId": "695b3c39000000002200ae92",
+      "content": "data mining没有了吗",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABOWZO1OrLyJx8jr2gJSj73_VJQYu-297JY5YtnUi7flc=",
+        "userId": "5ef1fa490000000001003976",
+        "nickname": "clsds",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nn3im1h586g5nnhv94g8ebmo8mco60?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 选课",
+  "search_item": {
+    "id": "695b3c39000000002200ae92",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "港中文cs选课攻略-开篇",
+      "user": {
+        "nickName": "摆烂的郝荐荐",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314273i1kho6g5oh8mjn410sh8fme88o?imageView2/2/w/80/format/jpg",
+        "userId": "6228b4ee0000000010008391",
+        "nickname": "摆烂的郝荐荐",
+        "xsecToken": "AB6kHsdwoUcKK4YubmS_ajGfqTM1A0FGSn8DpOB-iTtYw="
+      },
+      "interactInfo": {
+        "collectedCount": "118",
+        "commentCount": "45",
+        "sharedCount": "19",
+        "liked": false,
+        "likedCount": "80",
+        "collected": false
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041802/984159b685bf6ec5995cb48d712995b0/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041802/9aa623a24817af17d9fe28e9fba81c57/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041802/984159b685bf6ec5995cb48d712995b0/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041802/9aa623a24817af17d9fe28e9fba81c57/spectrum/1040g34o31qu1o91hmu805oh8mjn410shhg9q2m8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-05"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABI501A6GeRziIXA1MauwnicOsaxLwYbwVoQxcMTD0xRs=",
+    "index": 3,
+    "exposed": true,
+    "trackId": "695b3c39000000002200ae92"
+  }
+}

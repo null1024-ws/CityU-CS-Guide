@@ -1,0 +1,43 @@
+{
+  "note_id": "92c6fbe9-7931-425e-8bee-066e9a789355",
+  "url": "https://www.xiaohongshu.com/explore/92c6fbe9-7931-425e-8bee-066e9a789355?xsec_token=ABwAqc5UmkEqRDvqQs1tcSMv5hnzjZVrR3d20i1Jvdk2pCEV93bn-1N_jwaZ3xmjKyFd8aKVnT1Pf1a22k32WpCNV1093ick4eLG5ud8iwhro=",
+  "fetched_at": 1785839098.9581876,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5286 CityU",
+  "search_item": {
+    "id": "92c6fbe9-7931-425e-8bee-066e9a789355#1785839086941",
+    "modelType": "rec_query",
+    "recQuery": {
+      "source": 1,
+      "wordRequestId": "92c6fbe9-7931-425e-8bee-066e9a789355#1785839086941",
+      "queries": [
+        {
+          "id": "cityu cs project",
+          "name": "cityu cs project",
+          "searchWord": "cityu cs project"
+        },
+        {
+          "id": "cityu cs课程",
+          "name": "cityu cs课程",
+          "searchWord": "cityu cs课程"
+        },
+        {
+          "id": "cityu出成绩",
+          "name": "cityu出成绩",
+          "searchWord": "cityu出成绩"
+        },
+        {
+          "id": "cityu ai选课",
+          "name": "cityu ai选课",
+          "searchWord": "cityu ai选课"
+        }
+      ],
+      "title": "相关搜索"
+    },
+    "xsecToken": "ABwAqc5UmkEqRDvqQs1tcSMv5hnzjZVrR3d20i1Jvdk2pCEV93bn-1N_jwaZ3xmjKyFd8aKVnT1Pf1a22k32WpCNV1093ick4eLG5ud8iwhro=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "92c6fbe9-7931-425e-8bee-066e9a789355#1785839086941"
+  }
+}

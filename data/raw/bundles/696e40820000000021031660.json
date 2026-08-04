@@ -1,0 +1,66 @@
+{
+  "note_id": "696e40820000000021031660",
+  "url": "https://www.xiaohongshu.com/explore/696e40820000000021031660?xsec_token=ABKGam6GfBQk6OBjFBYYO0ZlGZoI2xptU2RQnlIAnbKvA=",
+  "fetched_at": 1785841637.267127,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "HKU Year3 sem1一些课的测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "COMP3230: 有名的烂龟课，但现在开卷了，给分还不错。好好看reading，认真复习assignment就行。\nCOMP3270: 老师有点摆，缺的课也没有补。也没有给反馈。少讲了HMM的一些内容、贝叶斯网络、NLP。如果完全照抄伯克利的CS188，会好很多。我考前对着伯克利的笔记复习，感觉比课程ppt的质量高得多。\nCOMP3353: 主要讲了基因组有关的生物信息学，带大家使用了一些生物信息学工具，最后的pre也让我认真查询了一些关于新冠病毒的资料。final很简单，和往年类似，据说RB以后要重新出题了。\nCOMP3354: 给分很好，workload小。但我觉得讲得不是很统计，除了generalization那一块，其余内容都很trivial。\nMATH3904：臧老师的口音有意思，5个assignment的题目都很好。我midterm curve后拿了89，final除了最后一题最后一问都写了。这学期时间紧，没有讲kkt的证明，有点遗憾。\nCCST9017: 我有点阴沟帆船，final那天状态很不好，人很不舒服，也算一点小遗憾吧！#选课[话题]# #港大[话题]# #HKU[话题]# #cs[话题]# #数学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "太强了哥哥[惊恐R]",
+      "sourceRef": "comment:696f50030000000005039625",
+      "commentId": "696f50030000000005039625",
+      "likes": 0,
+      "author": "邪恶的baka"
+    },
+    {
+      "type": "comment",
+      "text": "tql哥哥",
+      "sourceRef": "comment:69736fb00000000018020909",
+      "commentId": "69736fb00000000018020909",
+      "likes": 1,
+      "author": "垂颤颤夏花繁重"
+    },
+    {
+      "type": "comment",
+      "text": "直系学长来捞intern了",
+      "sourceRef": "comment:697111af000000000601de6b",
+      "commentId": "697111af000000000601de6b",
+      "likes": 0,
+      "author": "小红薯61F105CC"
+    },
+    {
+      "type": "comment",
+      "text": "Tql 哥哥",
+      "sourceRef": "comment:696eb9190000000018021221",
+      "commentId": "696eb9190000000018021221",
+      "likes": 2,
+      "author": "shironeko"
+    },
+    {
+      "type": "comment",
+      "text": "这爆四了吧？打算留多少学分给math呢？看你math不少？",
+      "sourceRef": "comment:696ea9240000000009021050",
+      "commentId": "696ea9240000000009021050",
+      "likes": 0,
+      "author": "小红薯jkpa"
+    },
+    {
+      "type": "comment",
+      "text": "请问comp3230有gp和attendance吗",
+      "sourceRef": "comment:6a6ac53e000000000d023c01",
+      "commentId": "6a6ac53e000000000d023c01",
+      "likes": 0,
+      "author": "Olivia_c"
+    }
+  ]
+}

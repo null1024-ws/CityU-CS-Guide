@@ -5,8 +5,8 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 7,
-      "distinctSources": 5
+      "sourceCount": 8,
+      "distinctSources": 6
     },
     "difficulty": {
       "value": "hard",
@@ -78,6 +78,15 @@
       "postTitle": "CityU CS Master SemA"
     },
     {
+      "noteId": "66bb33d10000000025030553",
+      "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
+      "excerpt": "CS5351 Software Engineering（必修）；分数构成：project，midterm，final；教授人非常好，但香港口音对大陆人来说难听懂；TA很耐心可以普通话交流。project是5-8人项目，社恐可以考虑把课程置换掉，内容是开发一个工具/平台等等，可以基于现有github内容进行扩展。合理就不会挂，注重开发过程，不可以摆（本人被大佬带飞）；midterm开卷，final半开卷，开放式问题比较多，需要记住概念然后发挥想象力扩展。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc Computer Science选课1"
+    },
+    {
       "noteId": "676793ee000000000b00d2b1",
       "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
       "excerpt": "CS5351 Software Engineering(必修)；虽然没去，但也不妨碍这是最抽象的一门课，内容抽象，老师的口音也很抽象…分数由group project、research paper、期中和期末构成，group project跟着大佬带飞的，researchpaper 好水的，期中可以带手机，期末只能带三张cheatsheet，全是主观题，挺抽象的，但把字都写满了，不会的就抄cheatsheet上的概念，问题也不大。",
@@ -112,15 +121,6 @@
         "post_body"
       ],
       "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
-    },
-    {
-      "noteId": "669e38ab0000000027018fc3",
-      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
-      "excerpt": "CS5351 Software Engineering",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
     }
   ],
   "commentSources": [

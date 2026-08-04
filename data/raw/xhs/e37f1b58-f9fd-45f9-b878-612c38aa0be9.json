@@ -1,0 +1,43 @@
+{
+  "note_id": "e37f1b58-f9fd-45f9-b878-612c38aa0be9",
+  "url": "https://www.xiaohongshu.com/explore/e37f1b58-f9fd-45f9-b878-612c38aa0be9?xsec_token=ABpM4Keqzkf6TUAZCRntZhnGwxYAZg5hBkGA2_pgiUoxayY2ZRjkZyT03H_OXyeg20uYuat7spo1nzhPqt0g21zigLXIi4uKc4AyI8lopiLos=",
+  "fetched_at": 1785840735.597569,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS5348",
+  "search_item": {
+    "id": "e37f1b58-f9fd-45f9-b878-612c38aa0be9#1785840739519",
+    "modelType": "rec_query",
+    "recQuery": {
+      "queries": [
+        {
+          "name": "cityucsphd",
+          "searchWord": "cityucsphd",
+          "id": "cityucsphd"
+        },
+        {
+          "id": "cityu ped1305测验",
+          "name": "cityu ped1305测验",
+          "searchWord": "cityu ped1305测验"
+        },
+        {
+          "id": "cityu cs 6491课程体验",
+          "name": "cityu cs 6491课程体验",
+          "searchWord": "cityu cs 6491课程体验"
+        },
+        {
+          "id": "cityu 26fall cs",
+          "name": "cityu 26fall cs",
+          "searchWord": "cityu 26fall cs"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "e37f1b58-f9fd-45f9-b878-612c38aa0be9#1785840739519"
+    },
+    "xsecToken": "ABpM4Keqzkf6TUAZCRntZhnGwxYAZg5hBkGA2_pgiUoxayY2ZRjkZyT03H_OXyeg20uYuat7spo1nzhPqt0g21zigLXIi4uKc4AyI8lopiLos=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "e37f1b58-f9fd-45f9-b878-612c38aa0be9#1785840739519"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "note_id": "6a43aa61000000000702177a",
+  "url": "https://www.xiaohongshu.com/explore/6a43aa61000000000702177a?xsec_token=AB6Q9co1GXtrlH-XIOz7_JRfp2u_gxcExUv9rWVrLpEok=",
+  "fetched_at": 1785842047.1833797,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "做Agent前，请先把Stanford CS336过一遍",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "每一个计算机系大学生都应该在大学期间把CS336啃完。啃完后，你对LLM的理解和英语能力至少能到国内前1%。\n\t\n其实做Agent不是装个LangGraph跑通demo就叫会了。遇到问题就调prompt、换模型、加memory，但说不清为什么不行—— 碰运气。\nCS336的哲学就一句：自己实现一切。 Tokenizer、Attention、Transformer Block、分布式训练，五个Assignment全手写。\n\t\n[一R]写过Tokenizer，才知道为什么JSON结构化输出老出幺蛾子。\n[二R]写过Attention，才懂为什么长对话里tool calling不稳定。\n[三R]position encoding的物理限制，不是加prompt能绕过去的。\n\t\n这些不是优化细节，是Agent的能力上限。\n\t\n先花1-2周过完所有Lecture，建立LLM完整pipeline的全局框架。地基打牢再盖楼，弯路会少走非常多。\n\t\n代码在github.com/stanford-cs336，视频在youtobe。\n\t\n#agent[话题]# #cs336[话题]# #llm[话题]# #agent算法[话题]# #动手学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我虽然小白，但是我也觉得你这个理论怪异，说的绝对，css336对于需要做agent的人并非必须，还有英语这东西我之前看cs61a，b也并没感觉多大提升，大家需要知道的一个点，刻意练习才是提高你对一个事物了解的本质。英语要好就练英语，agent要好就学agent，慢慢的在铺开，而不是学agent，我先学习一下理论基础，这些东西等你遇到困惑再学都行",
+      "sourceRef": "comment:6a45276000000000150015e9",
+      "commentId": "6a45276000000000150015e9",
+      "likes": 52,
+      "author": "x?=y"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是这样的，我以前就陷入了一种迷思，要学技术得先看理论基础，要理解理论又要先学数学，学数学看到外语资料又开始想要不要先练练英语，结果资料搜集一堆学倒是没学多少。实际上对于计算机这样极重视实践的学科完全可以先从动手做东西开始，等感到自己遇到了明显的瓶颈或者歧路再思考要补齐什么也来得及。尤其是现在有了ai，不管是给项目搭脚手架还是评估自己的知识储备都空前方便",
+      "sourceRef": "comment:6a476d27000000002b000d5f",
+      "commentId": "6a476d27000000002b000d5f",
+      "likes": 13,
+      "author": "仍然233"
+    },
+    {
+      "type": "comment",
+      "text": "还记得前两年刚开始接触LLM的时候，不能理解对话是怎么做的，为什么是model/user这种格式，也不理解LLM如何能调用工具。后来才知道这只是训练出来的，和其他神经网络没有本质区别，输入输出的是token罢了，没什么魔法[捂脸R]所以说确实得过一遍基础，即使不能完全掌握也要有点概念，不然总是在隔靴搔痒，头痛医头。",
+      "sourceRef": "comment:6a43b56d0000000005008c55",
+      "commentId": "6a43b56d0000000005008c55",
+      "likes": 43,
+      "author": "withoutward"
+    },
+    {
+      "type": "sub_comment",
+      "text": "最近在做harness，做着做着又得回去复习基础[笑哭R]",
+      "sourceRef": "comment:6a43b6080000000029026374",
+      "commentId": "6a43b6080000000029026374",
+      "likes": 7,
+      "author": "阿东玩AI"
+    },
+    {
+      "type": "comment",
+      "text": "要不要再学习一下怎么写 cuda 核，怎么写汇编语言，怎么设计芯片？[doge]",
+      "sourceRef": "comment:6a4461c3000000002a006c64",
+      "commentId": "6a4461c3000000002a006c64",
+      "likes": 61,
+      "author": "Karney"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有时间确实也该学[微笑R]",
+      "sourceRef": "comment:6a450d1e0000000029019bb0",
+      "commentId": "6a450d1e0000000029019bb0",
+      "likes": 4,
+      "author": "山海乔"
+    },
+    {
+      "type": "comment",
+      "text": "根本没必要 上学手推过所有ML/DL公式 写过所有算法代码 照样忘掉",
+      "sourceRef": "comment:6a44456d000000000d022c02",
+      "commentId": "6a44456d000000000d022c02",
+      "likes": 59,
+      "author": "一只Jojojo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "还是有必要的 大概知道哪里是什么遇到问题了能定位 要不然两眼一黑毫无头绪",
+      "sourceRef": "comment:6a44bb44000000002b003da6",
+      "commentId": "6a44bb44000000002b003da6",
+      "likes": 7,
+      "author": "小红薯6600C566"
+    },
+    {
+      "type": "comment",
+      "text": "一切都是promt+tool，nothing else",
+      "sourceRef": "comment:6a448fd0000000002a02ec2e",
+      "commentId": "6a448fd0000000002a02ec2e",
+      "likes": 14,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "harness的本质是这样的，思考一个问题，如何让你的harness去适配不同的模型？",
+      "sourceRef": "comment:6a449498000000002b002390",
+      "commentId": "6a449498000000002b002390",
+      "likes": 3,
+      "author": "阿东玩AI"
+    },
+    {
+      "type": "comment",
+      "text": "哪里找这课的资料呢",
+      "sourceRef": "comment:6a445e150000000004039e89",
+      "commentId": "6a445e150000000004039e89",
+      "likes": 0,
+      "author": "阅界火种Hozon V2.7🌍"
+    },
+    {
+      "type": "sub_comment",
+      "text": "@问一问 回答下",
+      "sourceRef": "comment:6a44982a000000002a031d52",
+      "commentId": "6a44982a000000002a031d52",
+      "likes": 2,
+      "author": "阿东玩AI"
+    },
+    {
+      "type": "comment",
+      "text": "没必要 现在需要自己train/post training场景太少了，认识的做agent真的懂cs336的百分之五都不到，agent开发好多都套路化了，用个框架加memory还有些容错机制就差不多了，学这个的一般都是自己感兴趣或者做想做training的",
+      "sourceRef": "comment:6a441149000000000403a4ac",
+      "commentId": "6a441149000000000403a4ac",
+      "likes": 25,
+      "author": "空气都凝固了"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那建議怎麼學呢",
+      "sourceRef": "comment:6a448c18000000000d021803",
+      "commentId": "6a448c18000000000d021803",
+      "likes": 0,
+      "author": "Www_n"
+    },
+    {
+      "type": "comment",
+      "text": "请问harness走什么好的教程吗",
+      "sourceRef": "comment:6a43b98f000000000b03a548",
+      "commentId": "6a43b98f000000000b03a548",
+      "likes": 5,
+      "author": "最冷一天。"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以蹲一下，今晚出，本来说端午出的，拖到今天了",
+      "sourceRef": "comment:6a43ba990000000029037068",
+      "commentId": "6a43ba990000000029037068",
+      "likes": 5,
+      "author": "阿东玩AI"
+    },
+    {
+      "type": "comment",
+      "text": "文科生以为软件开发是比写代码。实际软件开发是一门工程学[叹气R]",
+      "sourceRef": "comment:6a4b2adf000000002a030df5",
+      "commentId": "6a4b2adf000000002a030df5",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "cs336 有学习小组吗 刚开始看",
+      "sourceRef": "comment:6a60a196000000001403927b",
+      "commentId": "6a60a196000000001403927b",
+      "likes": 0,
+      "author": "路飞"
+    }
+  ]
+}

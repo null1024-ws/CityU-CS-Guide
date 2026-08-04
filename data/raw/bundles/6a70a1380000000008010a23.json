@@ -1,0 +1,90 @@
+{
+  "note_id": "6a70a1380000000008010a23",
+  "url": "https://www.xiaohongshu.com/explore/6a70a1380000000008010a23?xsec_token=ABDd6EuYoA2pnbUU7yEFXNCY3VTycBSOJqXYT_Ctjjc8I=",
+  "fetched_at": 1785839823.8589756,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU DS 2026 排课网页版",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "完全基于@抹茶大巴菲 的ec课程表改出来的，欢迎大家给他的项目star。不过由于ds的课程变动似乎比较大，以往推荐的课程不知道最新评价，包括之前推荐的一些课程今年好像也没开，今年同学发的求助贴也没有多少有效推荐，所以就把ds的课程评价空出来了，只留了ai生成的课程简介，只有cs相关选修有@momo 整合的评价。如果有相关课程的评价也欢迎在评论区补充！\n希望对大家有所帮助，网站链接：https://char1es-emp.github.io/CityUDS-courses-2627/index.html\n项目链接：https://github.com/Char1es-EMP/CityUDS-courses-2627",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "https://char1es-emp.github.io/CityUDS-courses-2627/index.html",
+      "sourceRef": "comment:6a70a24a000000002203d7d3",
+      "commentId": "6a70a24a000000002203d7d3",
+      "likes": 0,
+      "author": "Charles_"
+    },
+    {
+      "type": "comment",
+      "text": "艾特了一个momo哈哈哈哈哈哈哈哈哈",
+      "sourceRef": "comment:6a716cb50000000015002d65",
+      "commentId": "6a716cb50000000015002d65",
+      "likes": 0,
+      "author": "卡比有颗星"
+    },
+    {
+      "type": "sub_comment",
+      "text": "专门复制的小红书号@的，以防找错人",
+      "sourceRef": "comment:6a71970f000000002a004089",
+      "commentId": "6a71970f000000002a004089",
+      "likes": 0,
+      "author": "Charles_"
+    },
+    {
+      "type": "comment",
+      "text": "感谢楼主[派对R]",
+      "sourceRef": "comment:6a714992000000002b000528",
+      "commentId": "6a714992000000002b000528",
+      "likes": 0,
+      "author": "萱某"
+    },
+    {
+      "type": "comment",
+      "text": "[赞R][赞R][赞R]",
+      "sourceRef": "comment:6a71be3c000000002a0042d2",
+      "commentId": "6a71be3c000000002a0042d2",
+      "likes": 0,
+      "author": "折口"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢楼主！！非常清晰了[赞R]",
+      "sourceRef": "comment:6a70a6390000000014038aa9",
+      "commentId": "6a70a6390000000014038aa9",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "[赞R]",
+      "sourceRef": "comment:6a70a7e5000000002b0241cd",
+      "commentId": "6a70a7e5000000002b0241cd",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "更新：基于 @MiLami 制作的小红书评价整合添加了部分课程的评价，不过大多评价过于久远仅供参考",
+      "sourceRef": "comment:6a70b259000000002100d574",
+      "commentId": "6a70b259000000002100d574",
+      "likes": 1,
+      "author": "Charles_"
+    },
+    {
+      "type": "comment",
+      "text": "声明：课程时间分布来源于ai提取的banweb信息，但是ai提取可能有误且课程时间可能再做更改，请大家以选课时的官网信息为准",
+      "sourceRef": "comment:6a70b2cc000000002101390d",
+      "commentId": "6a70b2cc000000002101390d",
+      "likes": 0,
+      "author": "Charles_"
+    }
+  ]
+}

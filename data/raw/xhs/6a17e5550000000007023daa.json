@@ -1,0 +1,303 @@
+{
+  "note_id": "6a17e5550000000007023daa",
+  "url": "https://www.xiaohongshu.com/explore/6a17e5550000000007023daa?xsec_token=ABWeQLmAqvFF_m4PFvjCS_wmI5iIcpTq5Mbm0bA8v3R-Q=",
+  "fetched_at": 1785843796.6391027,
+  "note": {
+    "type": "normal",
+    "title": "港中文计算机科学与工程学系教授-Yu Cheng",
+    "user": {
+      "userId": "6343de12000000001801f95c",
+      "nickname": "世毕盟留学",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cja9hoc0c005oq3ro963uas84trn3g",
+      "xsecToken": "ABqqOy07aZxH39mBFRG43pHBHxGhWKeztdzHIixwoEfBg="
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041943/35fd35205680978d356530d669faea9e/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041943/7f63603b55634187b935577dce5ae0ee/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041943/35fd35205680978d356530d669faea9e/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041943/7f63603b55634187b935577dce5ae0ee/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1876,
+        "width": 1331,
+        "url": "",
+        "traceId": ""
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041943/5f760a1abc64a2070d9feeb2a4a0f3fe/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1749,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041943/1ffa1cc64bb539a5af29f0d901ba44f3/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0",
+        "width": 1226,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041943/1ffa1cc64bb539a5af29f0d901ba44f3/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041943/5f760a1abc64a2070d9feeb2a4a0f3fe/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5bea5e2186535d0001bf235d",
+        "name": "留学",
+        "type": "topic"
+      },
+      {
+        "id": "5d78cfb7000000000101cad9",
+        "name": "留学申请季",
+        "type": "topic"
+      },
+      {
+        "id": "651e540c000000000d01c4e3",
+        "name": "教授招生",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5d00824e000000000f02961c",
+        "name": "教授"
+      },
+      {
+        "id": "6103ab25000000000101d9aa",
+        "name": "博士套磁",
+        "type": "topic"
+      },
+      {
+        "id": "5be42d7913138c000144350d",
+        "name": "香港中文大学",
+        "type": "topic"
+      },
+      {
+        "id": "6a17e35a0000000001032fb9",
+        "name": "计算机科学与工程学",
+        "type": "topic"
+      },
+      {
+        "id": "5e7fe6610000000001009356",
+        "name": "深度学习",
+        "type": "topic"
+      },
+      {
+        "id": "5c6bb611000000000f0101ee",
+        "name": "机器学习",
+        "type": "topic"
+      },
+      {
+        "id": "5f2a8172000000000101ca75",
+        "name": "计算机视觉",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1779950933000,
+    "noteId": "6a17e5550000000007023daa",
+    "desc": "Yu Cheng老师目前担任香港中文大学计算机科学与工程学系的副教授，老师本科毕业于清华大学工程学，在西北大学获得计算机科学博士学位，其后在IBM T.J Watson Research Center以及MIT-IBM Watson AI Lab担任研究人员，2018年至2023年在微软担任首席研究员兼技术主管。2023年至2025年之间，在MiniMax担任首席科学家。\n\t\n#留学[话题]# #留学申请季[话题]# #教授招生[话题]# #教授[话题]# #博士套磁[话题]# #香港中文大学[话题]# #计算机科学与工程学[话题]# #深度学习[话题]# #机器学习[话题]# #计算机视觉[话题]#\n\t\n@商业产品情报官 @知识薯 @小红书成长笔记 @小红书创作助手 @小红书创作学院 creator academy @电商学习薯 @商家薯",
+    "interactInfo": {
+      "commentCount": "2",
+      "followed": false,
+      "likedCount": "19",
+      "shareCount": "14",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "14"
+    },
+    "atUserList": [
+      {
+        "userId": "62470e0800000000210250b3",
+        "nickname": "商业产品情报官",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABZobYYSnyXpJvlxl-oDgqLNNhAHERpTBB5ouXxqO17j0="
+      },
+      {
+        "userId": "5dc1746f000000000100ae57",
+        "nickname": "知识薯",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABAkAF1-xrtSYHpjtsiEPYQZRy_hr34aNr7ts-Th3poRE="
+      },
+      {
+        "xsecToken": "ABhIQNOv6N_uNu3TaNdKoDtywzTI__2REwf_ZvfY251yU=",
+        "userId": "58d62a3c50c4b475a9b2415e",
+        "nickname": "小红书成长笔记",
+        "redOfficialVerifyType": 0
+      },
+      {
+        "userId": "5b84b6c3d24e10000169b0b1",
+        "nickname": "小红书创作助手",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABoflFWZUEXmqpFM-SMtpUZ5IHh1g6XBiWZ37PA7y7Dsk="
+      },
+      {
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABiE8SPGbsZsKvJzkt9kME5wzE_ASl3MguNUFrtvuduf8=",
+        "userId": "5c450b8a00000000050393d8",
+        "nickname": "小红书创作学院 creator academy"
+      },
+      {
+        "userId": "5f0ff6c7000000000101e1c7",
+        "nickname": "电商学习薯",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABcer7IZsP12bGNOjXzSdBbcStVj3O_NapICqBD0ngZEE="
+      },
+      {
+        "userId": "5ed6082b000000000100179e",
+        "nickname": "商家薯",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "AB9mVYpiirrmN9sKMODT35DczXfHXEzz0JKzgX7XbXHEs="
+      }
+    ],
+    "time": 1780098540000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABWeQLmAqvFF_m4PFvjCS_wmI5iIcpTq5Mbm0bA8v3R-Q="
+  },
+  "comments": [
+    {
+      "status": 0,
+      "content": "本科说自己工程学 什么纯度一眼便知",
+      "likeCount": "1",
+      "invalid": false,
+      "noteId": "6a17e5550000000007023daa",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "600a30270000000001005b89",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322n1bqrm7k0g5o0a60jg8ms9nku6t5g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdX6rMyoNUx4HBwZQ9ecKi0ovqiBQ3N9yb_ViZWUKjVc="
+      },
+      "showTags": [],
+      "createTime": 1781412563000,
+      "subCommentHasMore": false,
+      "id": "6a2e32d30000000029011736",
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentCursor": "6a5d618300000000090158f0",
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "status": 0,
+          "showTags": [],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a2e32d30000000029011736",
+            "userInfo": {
+              "userId": "600a30270000000001005b89",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322n1bqrm7k0g5o0a60jg8ms9nku6t5g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABdX6rMyoNUx4HBwZQ9ecKi0ovqiBQ3N9yb_ViZWUKjVc="
+            }
+          },
+          "invalid": false,
+          "id": "6a5d618300000000090158f0",
+          "content": "什么意思呀",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABHTomQa97oDgU-v6OAVER8UIcMjH4tEXKPAxWbXCyjDU=",
+            "userId": "6338577d0000000018028a77",
+            "nickname": "lijiy",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pctdd2bi4005opoatum52jn0rlpkrg?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1784504707000,
+          "noteId": "6a17e5550000000007023daa"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 Research/Internship Project",
+  "search_item": {
+    "id": "6a17e5550000000007023daa",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "港中文计算机科学与工程学系教授-Yu Cheng",
+      "user": {
+        "nickName": "世毕盟留学",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cja9hoc0c005oq3ro963uas84trn3g?imageView2/2/w/80/format/jpg",
+        "userId": "6343de12000000001801f95c",
+        "nickname": "世毕盟留学",
+        "xsecToken": "ABS290ic7rlqU1uFOzhchuhWgXZb3GNNVs8UEGtCUgCPc="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "19",
+        "collected": false,
+        "collectedCount": "14",
+        "commentCount": "2",
+        "sharedCount": "14"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041943/ec9f408904390786ac8b09e9df69c6ca/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041943/bb34c0843cf45e167a4cabbab8a77720/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nc_n_webp_prv_1",
+        "height": 1876,
+        "width": 1331
+      },
+      "imageList": [
+        {
+          "height": 1876,
+          "width": 1331,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/ec9f408904390786ac8b09e9df69c6ca/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/bb34c0843cf45e167a4cabbab8a77720/spectrum/1040g34o320n0l1sg6o2g5oq3ro963uasaaoucng!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1749,
+          "width": 1226,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/899369313e78408c57c8d33bc0f0ed93/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041943/2e7495b2489917a46df319a67401e171/spectrum/1040g34o320n0l1sg6o205oq3ro963uasur9nlk0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-30"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABWeQLmAqvFF_m4PFvjCS_wmI5iIcpTq5Mbm0bA8v3R-Q=",
+    "index": 4,
+    "exposed": false,
+    "trackId": "6a17e5550000000007023daa"
+  }
+}

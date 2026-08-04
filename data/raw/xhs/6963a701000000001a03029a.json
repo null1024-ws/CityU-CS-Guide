@@ -1,0 +1,745 @@
+{
+  "note_id": "6963a701000000001a03029a",
+  "url": "https://www.xiaohongshu.com/explore/6963a701000000001a03029a?xsec_token=AB0aKx50VI48AXAZxZQdtt1zRXl6cTg3bNjEKwm_oNIAU=",
+  "fetched_at": 1785843962.6359618,
+  "note": {
+    "title": "CS336适合作为找实习的项目吗",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "1044",
+      "collected": false,
+      "collectedCount": "1394",
+      "commentCount": "48",
+      "shareCount": "139",
+      "relation": "none",
+      "followed": false,
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290",
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "stream": {},
+        "livePhoto": false,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041946/63a6db02d59abf25e84c17c9a1c399a4/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041946/b99f981fa1028618210445deb017ef6d/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041946/63a6db02d59abf25e84c17c9a1c399a4/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041946/b99f981fa1028618210445deb017ef6d/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "624d11eb000000000101e223",
+        "name": "大模型",
+        "type": "topic"
+      },
+      {
+        "id": "5d8984ef000000000103dbba",
+        "name": "找实习",
+        "type": "topic"
+      },
+      {
+        "id": "62e106820000000001007a11",
+        "name": "考研",
+        "type": "topic"
+      },
+      {
+        "name": "考研复试",
+        "type": "topic",
+        "id": "6221cd00000000000101cd86"
+      },
+      {
+        "id": "6740328d0000000020022f56",
+        "name": "考研复试项目",
+        "type": "topic"
+      },
+      {
+        "id": "638eeead00000000010012a5",
+        "name": "大语言模型",
+        "type": "topic"
+      },
+      {
+        "id": "645f9542000000001a004e0f",
+        "name": "大模型应用",
+        "type": "topic"
+      },
+      {
+        "name": "cs336",
+        "type": "topic",
+        "id": "67f553dc0000000004019838"
+      },
+      {
+        "id": "60bdff70000000000101cc9c",
+        "name": "计算机实习",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1768138498000,
+    "lastUpdateTime": 1768812243000,
+    "type": "normal",
+    "desc": "若需答疑服务见置顶笔记\n----------------------------------------------\nCS336共有五个大作业，分别是，\n1. 构建一个LLM，并预训练\n2. 单 GPU 性能优化 和 多 GPU 分布式训练\n3. 通过实践掌握大语言模型的缩放定律\n4. 数据处理\n5. 后训练：sft 和 rl\n\t\n我认为的重要性排序 1 -> 5 -> 4 -> 2 -> 3\n\t\nCS336适合作为找实习的项目吗？ 我觉得分情况，\n如果是找第一段实习，我觉得cs336就是完美的项目，据我的经验，第一段实习的面试官不会对你的项目有过多的实际场景的应用要求，而是更多的看你的基础，你的代码基础和理论基础。而cs336 完美的包括了这两个要求，所以完全不用担忧cs336不能作为实习项目，认真做完1和5，我觉得是可以乱杀的~\n而如果是第二段实习，我觉得重要性就比较低了，根据我和组里正式工的交谈，如果你已经在企业里实习过了，那么他们更看重的是你在实习中遇到了哪些实际业务问题，以及怎么解决的，效果怎么样。\n-----------------------------------\n我是23级科软，目前已经获得了互联网大厂算法岗SSP Offer，目前最后半年的学生时光，打算更新大模型领域的教学视频，提升自己的同时也帮助大家。\n\t\n根据我对于找实习和考研复试，面试官和老师更看重的是你的基础（理论和代码）。现在市面上的那些古老的图像分类项目，或者好一点的微调大模型的项目，这些都不能较好的体现你对这个领域的基础，工作量更多的是在数据集上面。\n\t\n接下来我会录制CS336的教程，视频特点就是 事无巨细，欢迎大家进群（🐧🐧裙4二6️⃣75️⃣4二14），我会更新 我视频的发布进展~\n最重要的是，视频教程都是免费的！大家点个关注就是对我最大的支持啦\n#大模型[话题]# #找实习[话题]#  #考研[话题]# #考研复试[话题]#   #考研复试项目[话题]#  #大语言模型[话题]#  #大模型应用[话题]##cs336[话题]# #计算机实习[话题]#",
+    "user": {
+      "userId": "5eb672450000000001001f5b",
+      "nickname": "这就是小C",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo",
+      "xsecToken": "ABfKc9a0w6bEGnksx1wjroC4TqtGDyKWlh6wrCd_anArQ="
+    },
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6963a701000000001a03029a",
+    "xsecToken": "AB0aKx50VI48AXAZxZQdtt1zRXl6cTg3bNjEKwm_oNIAU="
+  },
+  "comments": [
+    {
+      "noteId": "6963a701000000001a03029a",
+      "showTags": [],
+      "subCommentCount": "3",
+      "subCommentCursor": "69fd776e000000002702b3d8",
+      "content": "找实习看这个一点用都没。。还不如clone开源搞搞，这种学校课程就图一乐[捂脸R]",
+      "atUsers": [],
+      "liked": false,
+      "status": 0,
+      "likeCount": "10",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "69889967000000000c00bdf7",
+      "userInfo": {
+        "userId": "6290ec6f000000001501f05a",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g8ea05dhq6g5okgthnlbs2qvjqgigg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPr5Fl5bKhRfPkrlCyPSeVI0GbObEFXO3ueb5mHmqT8A="
+      },
+      "createTime": 1770559848000,
+      "ipLocation": "加拿大",
+      "subComments": [
+        {
+          "noteId": "6963a701000000001a03029a",
+          "content": "真的假的？[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310caisq2mo6g5oplo1q65je68lrpmgo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3UIp83hYMEenq3WQji4t1hz93hRaDkgIUPJ_jNR4zjs=",
+            "userId": "6335c074000000001802cdc6",
+            "nickname": "老牛要吃嫩草嘞"
+          },
+          "showTags": [],
+          "createTime": 1778218862000,
+          "ipLocation": "湖南",
+          "id": "69fd776e000000002702b3d8",
+          "status": 0,
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6988b96a000000000400048d",
+            "userInfo": {
+              "userId": "5eb672450000000001001f5b",
+              "nickname": "这就是小C",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a38ac0a000000000d022003",
+      "noteId": "6963a701000000001a03029a",
+      "status": 0,
+      "likeCount": "0",
+      "invalid": false,
+      "content": "1做完能直接做5吗",
+      "liked": false,
+      "ipLocation": "英国",
+      "userInfo": {
+        "userId": "62b14d46000000001902b552",
+        "nickname": "很难虚构不哭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30s49p00mis005olh9l36ddaij785v7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABaxxaqnopWjoNL2aYhze41fLMn4P321PTET0btWSBvVM="
+      },
+      "createTime": 1782098955000,
+      "subCommentCursor": "6a4fa28f0000000029018860",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "id": "6a4fa28f0000000029018860",
+          "noteId": "6963a701000000001a03029a",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "60ccbfad000000000101d694",
+            "nickname": "恐怖的姜王博士",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319p640fc7a005o6cnumgblkkuq2qr4o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABg60o9vz0vDwLkzGLEZqLT7vCAqEn1LiFA0KGdsraLNQ="
+          },
+          "showTags": [],
+          "createTime": 1783603856000,
+          "ipLocation": "江苏",
+          "status": 0,
+          "content": "同问",
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6a38ac0a000000000d022003",
+            "userInfo": {
+              "xsecToken": "ABaxxaqnopWjoNL2aYhze41fLMn4P321PTET0btWSBvVM=",
+              "userId": "62b14d46000000001902b552",
+              "nickname": "很难虚构不哭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30s49p00mis005olh9l36ddaij785v7o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": true,
+      "likeCount": "6",
+      "subCommentCount": "6",
+      "noteId": "6963a701000000001a03029a",
+      "liked": false,
+      "subCommentCursor": "6963b9830000000006032997",
+      "invalid": false,
+      "id": "6963b9530000000008030815",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "62f27826000000001f016157",
+        "nickname": "爻爻领先",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oe2g438mg605onif0j7qoan3mgb2p8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnuAbKlFlBOW9kWrggSLU9aRgwWBqFU9ZiE6KzjSPJ2A="
+      },
+      "createTime": 1768143188000,
+      "ipLocation": "上海",
+      "subComments": [
+        {
+          "id": "6963b9830000000006032997",
+          "noteId": "6963a701000000001a03029a",
+          "status": 0,
+          "content": "算法岗，也就其中第二个和infra有点关系",
+          "atUsers": [],
+          "invalid": false,
+          "liked": false,
+          "likeCount": "10",
+          "userInfo": {
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc=",
+            "userId": "5eb672450000000001001f5b"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768143236000,
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "6963b9530000000008030815",
+            "userInfo": {
+              "userId": "62f27826000000001f016157",
+              "nickname": "爻爻领先",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oe2g438mg605onif0j7qoan3mgb2p8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABnuAbKlFlBOW9kWrggSLU9aRgwWBqFU9ZiE6KzjSPJ2A="
+            }
+          }
+        }
+      ],
+      "status": 0,
+      "content": "这个项目更适合算法岗还是infra?[doge]",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6963b957000000000f00c992",
+      "userInfo": {
+        "userId": "6565e557000000001103d13f",
+        "nickname": "布皇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uroeaep2q6g5pb5slbkfk9vujo73g8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABv0LyZB1M0Su2CZgAMdtuw25XRCudmZHope18mGKvRm4="
+      },
+      "createTime": 1768143192000,
+      "subCommentCount": "6",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6963ba120000000005030f5a",
+          "status": 0,
+          "createTime": 1768143378000,
+          "ipLocation": "江苏",
+          "invalid": false,
+          "noteId": "6963a701000000001a03029a",
+          "content": "不太了解哈",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "5eb672450000000001001f5b",
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6963b957000000000f00c992",
+            "userInfo": {
+              "userId": "6565e557000000001103d13f",
+              "nickname": "布皇",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uroeaep2q6g5pb5slbkfk9vujo73g8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABv0LyZB1M0Su2CZgAMdtuw25XRCudmZHope18mGKvRm4="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "6963ba120000000005030f5a",
+      "invalid": false,
+      "noteId": "6963a701000000001a03029a",
+      "liked": false,
+      "likeCount": "1",
+      "content": "hello agemt咋样",
+      "ipLocation": "内蒙古",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6963a701000000001a03029a",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "61219fc90000000001007868",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61219fc90000000001007868.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtGCZIpBa1QWiVJk1oN-lPayQVqp-nZe10-t9mwBQOF4="
+      },
+      "createTime": 1768141638000,
+      "ipLocation": "广东",
+      "subCommentCursor": "6963b5d5000000000603040d",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6963b345000000000f00cfda",
+      "content": "学长学长，双非本9硕，有机会进算法岗吗？",
+      "likeCount": "2",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "likeCount": "5",
+          "userInfo": {
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc=",
+            "userId": "5eb672450000000001001f5b"
+          },
+          "ipLocation": "江苏",
+          "targetComment": {
+            "id": "6963b345000000000f00cfda",
+            "userInfo": {
+              "userId": "61219fc90000000001007868",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/61219fc90000000001007868.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtGCZIpBa1QWiVJk1oN-lPayQVqp-nZe10-t9mwBQOF4="
+            }
+          },
+          "invalid": false,
+          "id": "6963b5d5000000000603040d",
+          "noteId": "6963a701000000001a03029a",
+          "status": 0,
+          "content": "我就是哦",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768142294000
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6963a701000000001a03029a",
+      "content": "为了准备保研夏令营面试可以尝试做一下然后讲讲吗[doge]",
+      "likeCount": "1",
+      "invalid": false,
+      "liked": false,
+      "subCommentCursor": "6963c31900000000060090c7",
+      "id": "6963c2e30000000005030e01",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "66d401da000000001d022f65",
+        "nickname": "TheBunniestForever",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kn8c772k8605pmk07d7cbr5bjnu03o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABE9UHR2fwLmPl3wkr6iVjIhUGrE0a0Ii5oPPqA--pPow="
+      },
+      "showTags": [],
+      "createTime": 1768145636000,
+      "ipLocation": "安徽",
+      "status": 0,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "id": "6963c31900000000060090c7",
+          "noteId": "6963a701000000001a03029a",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "江苏",
+          "content": "当然了",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc=",
+            "userId": "5eb672450000000001001f5b",
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1768145690000,
+          "targetComment": {
+            "id": "6963c2e30000000005030e01",
+            "userInfo": {
+              "userId": "66d401da000000001d022f65",
+              "nickname": "TheBunniestForever",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kn8c772k8605pmk07d7cbr5bjnu03o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABE9UHR2fwLmPl3wkr6iVjIhUGrE0a0Ii5oPPqA--pPow="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6963a701000000001a03029a",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m9tl0m368004buekhfslq00dejfu6g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB1C2OeVHJapHeGr5lWf64DA2ON16uJ7pXtvtSksaMvXw=",
+        "userId": "5bfd5fca44363b356f03e800",
+        "nickname": "读研？读个屁"
+      },
+      "status": 3,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1768148726000,
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [],
+          "createTime": 1768189889000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6963cef6000000000f0281af",
+            "userInfo": {
+              "userId": "5bfd5fca44363b356f03e800",
+              "nickname": "读研？读个屁",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m9tl0m368004buekhfslq00dejfu6g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB1C2OeVHJapHeGr5lWf64DA2ON16uJ7pXtvtSksaMvXw="
+            }
+          },
+          "invalid": false,
+          "noteId": "6963a701000000001a03029a",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "55",
+          "userInfo": {
+            "userId": "60a4583d000000000101d93c",
+            "nickname": "oiko",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j9hiq7f2g6g5o54b0ugbm9sni2imd8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABLvN8YYHXmebHFYspj50xfIk7PlE6qvQgWDj6EjHb5bw="
+          },
+          "id": "69646fc1000000000601ec1c",
+          "content": "这俩都不是一个赛道的..."
+        }
+      ],
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "likeCount": "3",
+      "ipLocation": "浙江",
+      "subCommentCursor": "69646fc1000000000601ec1c",
+      "content": "cs336肯定不太够啊 不都得上rag agent",
+      "subCommentCount": "2",
+      "invalid": false,
+      "id": "6963cef6000000000f0281af",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6964253c000000000601ddbe",
+      "id": "6963d4d6000000000800ce85",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "成果果",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f0410ad0000000001001d6d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABGxPQLEWVDwBIYjrzebTETY-qq8-giKiKQDNaU5Bjbbc=",
+        "userId": "5f0410ad0000000001001d6d"
+      },
+      "subCommentHasMore": false,
+      "noteId": "6963a701000000001a03029a",
+      "status": 0,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "content": "llm的网络和训练流程，不使用封装好的包，而是自己实现。触及到代码后，才能真正理解它是什么",
+          "atUsers": [],
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6963d4d6000000000800ce85",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f0410ad0000000001001d6d.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGxPQLEWVDwBIYjrzebTETY-qq8-giKiKQDNaU5Bjbbc=",
+              "userId": "5f0410ad0000000001001d6d",
+              "nickname": "成果果"
+            }
+          },
+          "invalid": false,
+          "noteId": "6963a701000000001a03029a",
+          "liked": false,
+          "userInfo": {
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc=",
+            "userId": "5eb672450000000001001f5b"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768170813000,
+          "ipLocation": "江苏",
+          "id": "6964253c000000000601ddbe",
+          "status": 0
+        }
+      ],
+      "content": "佬，请问代码基础和理论基础要学到什么水平[微笑R]",
+      "liked": false,
+      "ipLocation": "安徽",
+      "subCommentCount": "1",
+      "invalid": false,
+      "showTags": [],
+      "createTime": 1768150231000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "6035439a0000000001005bdc",
+        "nickname": "🥕",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mss1i39kq305o1l8ed08mus9k4sj70?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABn10j89loT6WlkD1B5nEoFVBtfS3R2QzxhclI4ysvjA8="
+      },
+      "invalid": false,
+      "status": 0,
+      "likeCount": "2",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "697312690000000031032f25",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mss1i39kq305o1l8ed08mus9k4sj70?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABn10j89loT6WlkD1B5nEoFVBtfS3R2QzxhclI4ysvjA8=",
+              "userId": "6035439a0000000001005bdc",
+              "nickname": "🥕"
+            }
+          },
+          "invalid": false,
+          "id": "6974625f000000001802377b",
+          "noteId": "6963a701000000001a03029a",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "nickname": "哈基彤在update",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qdccv2r7u005nf3qm2g8lmjfhar0kg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABEqscL_MQJP-yW7AUApMCb_1wT9_EdpMITCWJiGIY9tk=",
+            "userId": "5de3d58500000000010056d3"
+          },
+          "showTags": [],
+          "ipLocation": "广东",
+          "status": 0,
+          "content": "适用的",
+          "atUsers": [],
+          "createTime": 1769235039000
+        }
+      ],
+      "subCommentCursor": "6974625f000000001802377b",
+      "id": "697312690000000031032f25",
+      "noteId": "6963a701000000001a03029a",
+      "atUsers": [],
+      "createTime": 1769149034000,
+      "subCommentHasMore": false,
+      "content": "做vla或者具身基模的学cs336适用吗",
+      "showTags": [],
+      "ipLocation": "上海",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "哎感觉这个和当年的15-445或者xv6",
+      "liked": false,
+      "showTags": [],
+      "id": "6963c53d000000000800c324",
+      "atUsers": [],
+      "likeCount": "6",
+      "userInfo": {
+        "userId": "5faa6f7200000000010036d3",
+        "nickname": "fighting",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5faa6f7200000000010036d3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnTl9W7rLadNb0HJXGrBNt71jBcxOuIMNxjneA0PQJbc="
+      },
+      "createTime": 1768146238000,
+      "ipLocation": "上海",
+      "subCommentHasMore": false,
+      "noteId": "6963a701000000001a03029a",
+      "status": 0,
+      "subComments": [
+        {
+          "status": 0,
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5eb672450000000001001f5b",
+            "nickname": "这就是小C",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZ6KrMWNG40MMFHHisOoaYG6MgY5tMzmHINlW7wor6rc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "江苏",
+          "id": "6963c5b0000000000600edd3",
+          "content": "是这样的，不过我当年做的是6.824",
+          "atUsers": [],
+          "createTime": 1768146353000,
+          "targetComment": {
+            "id": "6963c53d000000000800c324",
+            "userInfo": {
+              "nickname": "fighting",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5faa6f7200000000010036d3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABnTl9W7rLadNb0HJXGrBNt71jBcxOuIMNxjneA0PQJbc=",
+              "userId": "5faa6f7200000000010036d3"
+            }
+          },
+          "invalid": false,
+          "noteId": "6963a701000000001a03029a"
+        }
+      ],
+      "subCommentCount": "1",
+      "subCommentCursor": "6963c5b0000000000600edd3",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6521 体验",
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "CS336适合作为找实习的项目吗",
+      "user": {
+        "xsecToken": "ABNe8xeQgIjJVZ-MYUgBiUD_hsEN_TIM4zXxOnsq1qs14=",
+        "nickName": "这就是小C",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qv53afq746g5nlme92g87qrah04nmo?imageView2/2/w/80/format/jpg",
+        "userId": "5eb672450000000001001f5b",
+        "nickname": "这就是小C"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "1394",
+        "commentCount": "48",
+        "sharedCount": "139",
+        "liked": false,
+        "likedCount": "1044"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041945/f85d87b72bc10d7ba745f1a2e519ce14/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041945/a5d1ebf84e6e2567b90682b8cce002a8/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041945/f85d87b72bc10d7ba745f1a2e519ce14/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041945/a5d1ebf84e6e2567b90682b8cce002a8/spectrum/1040g0k031r6v0es46u005nlme92g87qrqfcl290!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "01-19",
+          "type": "publish_time"
+        }
+      ]
+    },
+    "xsecToken": "AB0aKx50VI48AXAZxZQdtt1zRXl6cTg3bNjEKwm_oNIAU=",
+    "id": "6963a701000000001a03029a",
+    "modelType": "note",
+    "index": 21,
+    "exposed": false,
+    "trackId": "6963a701000000001a03029a"
+  }
+}

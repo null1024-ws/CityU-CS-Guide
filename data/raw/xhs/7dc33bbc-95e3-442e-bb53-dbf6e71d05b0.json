@@ -1,0 +1,43 @@
+{
+  "note_id": "7dc33bbc-95e3-442e-bb53-dbf6e71d05b0",
+  "url": "https://www.xiaohongshu.com/explore/7dc33bbc-95e3-442e-bb53-dbf6e71d05b0?xsec_token=ABGHPjpBs221e7raEiIXrB-SXF98sLqKguEHSrSVgs0OEX3ggmmAHl9es831ledPDqca9BzvE9RPqhrx_ruvBU9_gxk5SWqStBQxz1--QIyYA=",
+  "fetched_at": 1785840599.131849,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5348 选课",
+  "search_item": {
+    "id": "7dc33bbc-95e3-442e-bb53-dbf6e71d05b0#1785840602724",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "7dc33bbc-95e3-442e-bb53-dbf6e71d05b0#1785840602724",
+      "queries": [
+        {
+          "id": "omscs cs6999选课流程",
+          "name": "omscs cs6999选课流程",
+          "searchWord": "omscs cs6999选课流程"
+        },
+        {
+          "id": "多大cs选课",
+          "name": "多大cs选课",
+          "searchWord": "多大cs选课"
+        },
+        {
+          "id": "悉尼大学cs需要选多少课",
+          "name": "悉尼大学cs需要选多少课",
+          "searchWord": "悉尼大学cs需要选多少课"
+        },
+        {
+          "id": "comp5348",
+          "name": "comp5348",
+          "searchWord": "comp5348"
+        }
+      ]
+    },
+    "xsecToken": "ABGHPjpBs221e7raEiIXrB-SXF98sLqKguEHSrSVgs0OEX3ggmmAHl9es831ledPDqca9BzvE9RPqhrx_ruvBU9_gxk5SWqStBQxz1--QIyYA=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "7dc33bbc-95e3-442e-bb53-dbf6e71d05b0#1785840602724"
+  }
+}

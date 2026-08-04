@@ -1,0 +1,270 @@
+{
+  "note_id": "6a6cab4e00000000250078a6",
+  "url": "https://www.xiaohongshu.com/explore/6a6cab4e00000000250078a6?xsec_token=ABxPuJqanhpWjA6XvIQSw7VGQYok6p_oxlFCaTriIbdFM=",
+  "fetched_at": 1785841882.8498738,
+  "note": {
+    "desc": "同一个 3D 游戏角色，想增加多套皮肤，真的需要把模型从头重做很多遍吗？这期从一张角色参考图开始，演示如何借助 AI 整理站姿、拆分身体与装备，再把参考图生成可继续处理的三维模型；随后在 Blender 中修整网格、展开 UV，并围绕同一套模型制作不同纹理和材质。最后完成角色装配、自动绑定，并导入 Unreal Engine 检查跑动、接缝、反光和材质切换。视频也会讲清楚：什么时候只需增加一套新纹理，什么时候轮廓发生变化后必须重新制作部件。\n\t\n#AI游戏开发[话题]# #3D建模[话题]# #游戏美术[话题]# #Blender[话题]# #UnrealEngine[话题]#",
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo",
+        "width": 1448,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041911/8efecc94f4eda855073cf74a8720ad05/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041911/98cb4247d4ddff3263df052b99a0dad3/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041911/98cb4247d4ddff3263df052b99a0dad3/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "height": 1086,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041911/8efecc94f4eda855073cf74a8720ad05/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nd_prv_wgth_jpg_3"
+      }
+    ],
+    "video": {
+      "media": {
+        "videoId": 138042220302129570,
+        "video": {
+          "bizId": "282157409677637798",
+          "duration": 371,
+          "md5": "230cdfc35098daad413a4e36a1d7489b",
+          "hdrType": 0,
+          "drmType": 0,
+          "streamTypes": [
+            309,
+            301,
+            259
+          ],
+          "bizName": 110
+        },
+        "stream": {
+          "EF6": [],
+          "EF5": [
+            {
+              "videoCodec": "EF5",
+              "audioCodec": "aac",
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/79/110/309/01ea6cab011d599e4f0370019fb87fb77b_309.mp4?sign=56fbfbed54962570b0fffce4ac4ab01f&t=6a76662b",
+              "fps": 30,
+              "videoBitrate": 342379,
+              "audioDuration": 370666,
+              "rotate": 0,
+              "vmaf": -1,
+              "psnr": 0,
+              "format": "mp4",
+              "size": 20609213,
+              "videoDuration": 370666,
+              "audioBitrate": 96005,
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/309/01ea6cab011d599e4f0370019fb87fb77b_309.mp4"
+              ],
+              "weight": 62,
+              "qualityType": "HD",
+              "defaultStream": 0,
+              "width": 1280,
+              "height": 720,
+              "duration": 370667,
+              "audioChannels": 2,
+              "hdrType": 0,
+              "ssim": 0,
+              "streamType": 309,
+              "streamDesc": "WEB_309",
+              "volume": 0,
+              "avgBitrate": 444802
+            },
+            {
+              "qualityType": "HD",
+              "streamType": 301,
+              "format": "mp4",
+              "size": 21738119,
+              "fps": 30,
+              "videoCodec": "EF5",
+              "audioCodec": "aac",
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/1/110/301/01ea6cab011d599e010370019fb87fefd0_301.mp4"
+              ],
+              "vmaf": -1,
+              "width": 1920,
+              "avgBitrate": 469167,
+              "videoBitrate": 366744,
+              "hdrType": 0,
+              "ssim": 0,
+              "weight": 62,
+              "streamDesc": "WEB_301",
+              "defaultStream": 0,
+              "height": 1080,
+              "duration": 370667,
+              "volume": 0,
+              "videoDuration": 370666,
+              "audioBitrate": 96005,
+              "audioDuration": 370666,
+              "audioChannels": 2,
+              "rotate": 0,
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/1/110/301/01ea6cab011d599e010370019fb87fefd0_301.mp4?sign=f48be89ae68650348533e43575efa9a0&t=6a76662b",
+              "psnr": 0
+            }
+          ],
+          "EF7": [],
+          "EF4": [
+            {
+              "fps": 30,
+              "audioCodec": "aac",
+              "audioBitrate": 64003,
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/79/110/259/01ea6cab011d599e010370039fb87e1372_259.mp4?sign=59c7d49b276a1f3c839b1d2c5a9a3924&t=6a76662b",
+              "hdrType": 0,
+              "weight": 62,
+              "streamType": 259,
+              "volume": 0,
+              "videoCodec": "EF4",
+              "audioChannels": 2,
+              "qualityType": "HD",
+              "videoDuration": 370666,
+              "streamDesc": "WM_X264_MP4_web",
+              "format": "mp4",
+              "width": 1280,
+              "height": 720,
+              "duration": 370667,
+              "avgBitrate": 289587,
+              "videoBitrate": 219261,
+              "defaultStream": 0,
+              "size": 13417544,
+              "audioDuration": 370666,
+              "rotate": 0,
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/259/01ea6cab011d599e010370039fb87e1372_259.mp4"
+              ],
+              "vmaf": -1,
+              "psnr": 0,
+              "ssim": 0
+            }
+          ]
+        }
+      },
+      "image": {
+        "firstFrameFileid": "110/0/01ea6cab011d599e0010000000019fb87d307b_0.jpg",
+        "thumbnailFileid": "frame/110/0/01ea6cab011d599e0010000000019fb87d61e8_0.webp"
+      },
+      "capa": {
+        "duration": 370
+      },
+      "mediaV2": "{\"video_id\":\"138042220302129566\",\"video\":{\"biz_name\":110,\"biz_id\":\"282157409677637798\",\"duration\":371,\"md5\":\"230cdfc35098daad413a4e36a1d7489b\",\"hdr_type\":0,\"drm_type\":0,\"stream_types\":[309,301,259],\"width\":1920,\"height\":1080,\"bound\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"bbox\":{\"2\":[{\"x\":0,\"y\":7,\"w\":1920,\"h\":1026}],\"ocr_v5\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v3\":[{\"x\":477,\"y\":941,\"w\":933,\"h\":56}],\"ocr_v4\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v2\":[{\"x\":472,\"y\":409,\"w\":992,\"h\":591}]},\"opaque1\":{\"bottomAvgLuma\":\"209\",\"loudnorm\":\"{\\\"lra\\\":2.6,\\\"htp\\\":-1.52,\\\"hldn\\\":-15.11,\\\"ldn\\\":-14.98,\\\"thr\\\":-25.34}\",\"hasHumanVoice\":\"true\",\"topAvgLuma\":\"181\",\"domestic\":\"1\",\"isSupportSubtitle\":\"true\",\"rightAvgLuma\":\"215\",\"videoLanguage\":\"[\\\"zh-CN\\\"]\",\"audioLevInfo\":\"{\\\"audio_quality_level\\\":\\\"E\\\",\\\"mos_overall\\\":4.1727,\\\"version\\\":\\\"3.0\\\"}\",\"weakNetUserFlag\":\"1\",\"insertSubtitleLanguages\":\"[\\\"zh-CN\\\"]\",\"audioClsInfo\":\"{\\\"music_ratio\\\":0.2990583592826853,\\\"freesound_ratio\\\":0.0026171653600162823,\\\"speech_ratio\\\":0.9997032053538484}\"},\"subtitles\":{\"en-US\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea6cab011d599e010370039fb87d7574_12.srt?sign=e438a584e2693a5acab852faaac902d4&t=6a76662b\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"source\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea6cab011d599e010370039fb87d6c2a_1.srt?sign=7c252540afc841c2bcfb7fad5b47ac27&t=6a76662b\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}],\"zh-CN\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea6cab011d599e010370039fb87d6d3b_11.srt?sign=4fd57181e90f37c850dd4a0ed977c869&t=6a76662b\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}]}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WM_X264_MP4_web\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1280,\"height\":720,\"duration\":370667,\"size\":13417544,\"volume\":0.0,\"avg_bitrate\":289587,\"fps\":30,\"video_codec\":\"EF4\",\"video_bitrate\":219261,\"video_duration\":370666,\"audio_codec\":\"aac\",\"audio_bitrate\":64003,\"audio_duration\":370666,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-qc.xhscdn.com/stream/79/110/259/01ea6cab011d599e010370039fb87e1372_259.mp4?sign=59c7d49b276a1f3c839b1d2c5a9a3924&t=6a76662b\",\"backup_urls\":[\"http://sns-bak-v6.xhscdn.com/stream/79/110/259/01ea6cab011d599e010370039fb87e1372_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":309,\"stream_desc\":\"WEB_309\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1280,\"height\":720,\"duration\":370667,\"size\":20609213,\"volume\":0.0,\"avg_bitrate\":444802,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":342379,\"video_duration\":370666,\"audio_codec\":\"aac\",\"audio_bitrate\":96005,\"audio_duration\":370666,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-qc.xhscdn.com/stream/79/110/309/01ea6cab011d599e4f0370019fb87fb77b_309.mp4?sign=56fbfbed54962570b0fffce4ac4ab01f&t=6a76662b\",\"backup_urls\":[\"http://sns-bak-v6.xhscdn.com/stream/79/110/309/01ea6cab011d599e4f0370019fb87fb77b_309.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}},{\"stream_type\":301,\"stream_desc\":\"WEB_301\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1920,\"height\":1080,\"duration\":370667,\"size\":21738119,\"volume\":0.0,\"avg_bitrate\":469167,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":366744,\"video_duration\":370666,\"audio_codec\":\"aac\",\"audio_bitrate\":96005,\"audio_duration\":370666,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-qc.xhscdn.com/stream/1/110/301/01ea6cab011d599e010370019fb87fefd0_301.mp4?sign=f48be89ae68650348533e43575efa9a0&t=6a76662b\",\"backup_urls\":[\"http://sns-bak-v6.xhscdn.com/stream/1/110/301/01ea6cab011d599e010370019fb87fefd0_301.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}"
+    },
+    "atUserList": [],
+    "time": 1785506638000,
+    "lastUpdateTime": 1785506639000,
+    "title": "3D 游戏角色，怎么用 AI 做出多套皮肤？",
+    "user": {
+      "userId": "61109b55000000000101f053",
+      "nickname": "Game AI studio",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32298upbank005o8gjdagbs2jgfkjuo0",
+      "xsecToken": "ABGntZdtUp27o6Sqx-yq2OwwjYWTk3Xz1eCKCyNSGbo_0="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "shareCount": "",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "3",
+      "collectedCount": "1",
+      "commentCount": "",
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "id": "64ae9dfd0000000038019c70",
+        "name": "AI游戏开发",
+        "type": "topic"
+      },
+      {
+        "id": "5d38482d000000000f0066b4",
+        "name": "3D建模",
+        "type": "topic"
+      },
+      {
+        "id": "5d6b8a13000000000101ed09",
+        "name": "游戏美术",
+        "type": "topic"
+      },
+      {
+        "name": "Blender",
+        "type": "topic",
+        "id": "600db40a000000000101f5f6"
+      },
+      {
+        "id": "6199ecdd0000000001003d5f",
+        "name": "UnrealEngine",
+        "type": "topic"
+      }
+    ],
+    "ipLocation": "智利",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a6cab4e00000000250078a6",
+    "type": "video",
+    "xsecToken": "ABxPuJqanhpWjA6XvIQSw7VGQYok6p_oxlFCaTriIbdFM="
+  },
+  "comments": [],
+  "search_query": "CS6175 VR game engine",
+  "search_item": {
+    "id": "6a6cab4e00000000250078a6",
+    "modelType": "note",
+    "noteCard": {
+      "type": "video",
+      "displayTitle": "3D 游戏角色，怎么用 AI 做出多套皮肤？",
+      "user": {
+        "xsecToken": "ABjfnX6cO3e-l09RpxD7sII02aaSRe6WA6Su1XScXmQ64=",
+        "nickName": "Game AI studio",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32298upbank005o8gjdagbs2jgfkjuo0?imageView2/2/w/80/format/jpg",
+        "userId": "61109b55000000000101f053",
+        "nickname": "Game AI studio"
+      },
+      "interactInfo": {
+        "commentCount": "0",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "3",
+        "collected": false,
+        "collectedCount": "1"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041911/37747029e46b2a3ad94cd67e14aa6c71/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nc_n_webp_prv_1",
+        "height": 1086,
+        "width": 1448,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041911/e10d844b68bbfeb965e2966256e4c246/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1086,
+          "width": 1448,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/e10d844b68bbfeb965e2966256e4c246/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/37747029e46b2a3ad94cd67e14aa6c71/1040g0083239q3ikvnk005o8gjdagbs2jb8d3fvo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "3天前"
+        }
+      ]
+    },
+    "xsecToken": "ABxPuJqanhpWjA6XvIQSw7VGQYok6p_oxlFCaTriIbdFM=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "6a6cab4e00000000250078a6"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "note_id": "69624cc7000000000d009084",
+  "url": "https://www.xiaohongshu.com/explore/69624cc7000000000d009084?xsec_token=ABoYrsCtPedtStKyDnNx02kh59LkBdfLrOPkx-POc12sc=",
+  "fetched_at": 1785843673.1633508,
+  "note": {
+    "xsecToken": "ABoYrsCtPedtStKyDnNx02kh59LkBdfLrOPkx-POc12sc=",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "3",
+      "commentCount": "32",
+      "shareCount": "11",
+      "relation": "none",
+      "liked": false,
+      "likedCount": "14",
+      "followed": false,
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041941/cc38b9aeecb168fb371344b97baa450d/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041941/b7e76555b0fab82132c7507d30cce99f/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041941/cc38b9aeecb168fb371344b97baa450d/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041941/b7e76555b0fab82132c7507d30cce99f/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nd_dft_wgth_jpg_3",
+        "height": 736,
+        "width": 1408,
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8",
+        "url": ""
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "69624cc7000000000d009084",
+    "type": "normal",
+    "user": {
+      "userId": "660e201d000000000b00fd36",
+      "nickname": "Moody",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg",
+      "xsecToken": "AB6ub5QyVK1L_4oOHpBd_c0zSnbwdPcv2uhsR8ti70p28="
+    },
+    "tagList": [
+      {
+        "id": "65bcaa1e0000000013010eb6",
+        "name": "港城莞",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1768049863000,
+    "lastUpdateTime": 1768049863000,
+    "title": "港城莞CS Semester A期末出分",
+    "desc": "虽然分数没什么用，只能宽慰一下坚信成绩非常重要的父母，但啥也没干颓废摆烂的我想了想还是发出来意思一下 #港城莞[话题]#"
+  },
+  "comments": [
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "660e201d000000000b00fd36",
+        "nickname": "Moody",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA="
+      },
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "subComments": [],
+      "subCommentCursor": "",
+      "pictures": [],
+      "id": "6a3f478b000000002901acbc",
+      "noteId": "69624cc7000000000d009084",
+      "atUsers": [],
+      "createTime": 1782531980000,
+      "content": "uu 们， 总之课程不需要了解太细，说到底还是聚焦于自己的后续规划（比如实习）最重要，考试确实很好过",
+      "status": 4,
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1774108391000,
+      "subCommentHasMore": true,
+      "content": "学长，想问一下一般来说cs课程第一年能把全部在校的课修完不，看着一共有12节课(3必修+9选修)，并且还有一节思政课",
+      "likeCount": "0",
+      "subCommentCount": "14",
+      "invalid": false,
+      "noteId": "69624cc7000000000d009084",
+      "atUsers": [],
+      "ipLocation": "湖北",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "660e201d000000000b00fd36",
+            "nickname": "Moody",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA="
+          },
+          "createTime": 1774135800000,
+          "targetComment": {
+            "id": "69bebee70000000018021394",
+            "userInfo": {
+              "nickname": "诶诶诶",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u30go2bne5g5nb3vkqgbb715hln0ko?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABLmaAbKWUu-oMp6zwpVvfAW_zONy6V5eGAM46Nvf04bU=",
+              "userId": "5d63fd35000000000101ace1"
+            }
+          },
+          "invalid": false,
+          "id": "69bf29f8000000001403304f",
+          "status": 0,
+          "content": "可以的，3必修+7选修+2思政，后面实习也可以算学分",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "pictures": [],
+          "noteId": "69624cc7000000000d009084",
+          "atUsers": []
+        }
+      ],
+      "pictures": [],
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "5d63fd35000000000101ace1",
+        "nickname": "诶诶诶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u30go2bne5g5nb3vkqgbb715hln0ko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLmaAbKWUu-oMp6zwpVvfAW_zONy6V5eGAM46Nvf04bU="
+      },
+      "subCommentCursor": "69bf29f8000000001403304f",
+      "id": "69bebee70000000018021394",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "noteId": "69624cc7000000000d009084",
+      "content": "[看R]研究生吗？想问下就读体验呢",
+      "showTags": [],
+      "createTime": 1769045442000,
+      "subCommentCount": "9",
+      "subComments": [
+        {
+          "pictures": [],
+          "status": 0,
+          "content": "嗯还行，人少 空气不好食堂不咋行 其他感觉没毛病。主要图不用给导师打工，而且我本科绩点很低，它录我了那我有学上了 当然还是吹它[doge]",
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA=",
+            "userId": "660e201d000000000b00fd36",
+            "nickname": "Moody"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "69717dc2000000000f01800a",
+            "userInfo": {
+              "userId": "5ebd20b80000000001005bdc",
+              "nickname": "daydream",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3130un6mgk2005nlt42s08musm12762o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9nn9B-pjdB3EMd3w6OB5KVLLDmHrr3tsygux22FZlmA="
+            }
+          },
+          "invalid": false,
+          "id": "6971da7f000000000f01b2e0",
+          "noteId": "69624cc7000000000d009084",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1769069184000,
+          "ipLocation": "广东"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCursor": "6971da7f000000000f01b2e0",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB9nn9B-pjdB3EMd3w6OB5KVLLDmHrr3tsygux22FZlmA=",
+        "userId": "5ebd20b80000000001005bdc",
+        "nickname": "daydream",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3130un6mgk2005nlt42s08musm12762o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "四川",
+      "pictures": [],
+      "id": "69717dc2000000000f01800a",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "才发现ai去水印把CS5481 B+改成了CS5482 B[doge]",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "pictures": [],
+      "status": 0,
+      "createTime": 1768049952000,
+      "subCommentCursor": "69a907e500000000080313f2",
+      "invalid": false,
+      "id": "69624d1f000000000f029af9",
+      "noteId": "69624cc7000000000d009084",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA=",
+        "userId": "660e201d000000000b00fd36",
+        "nickname": "Moody"
+      },
+      "subCommentCount": "2",
+      "showTags": [
+        "is_author"
+      ],
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "ipLocation": "陕西",
+          "pictures": [],
+          "noteId": "69624cc7000000000d009084",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "62f59b68000000001f0158c9",
+            "nickname": "decland",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c9aervd0k605onljdk7qm69graqobg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABdJvSaOa3SV32-fLix3MQfShjUPZ-Nm1BFDUHoCciX4U="
+          },
+          "createTime": 1772685285000,
+          "targetComment": {
+            "userInfo": {
+              "nickname": "Moody",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA=",
+              "userId": "660e201d000000000b00fd36"
+            },
+            "id": "69624d1f000000000f029af9"
+          },
+          "invalid": false,
+          "id": "69a907e500000000080313f2",
+          "status": 0,
+          "content": "老哥我想问问，港城莞cs课程是不和港城的设置差不多？那样的话是不是事情挺多的啊，作业展示啥的"
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "69624cc7000000000d009084",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB9RNkAQ58FcbcL1xDNvyZ3FvyfuXBz9JAdf0IePCuI6A=",
+        "userId": "62a4902c000000002102442f",
+        "nickname": "干煸大虾猫头鹰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d756r230m605ol4i0m8ch1fhf01clg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "湖南",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "id": "6a21cfab000000002b02bdea",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1780600747000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a21c8a30000000028037f36",
+            "userInfo": {
+              "xsecToken": "AB9RNkAQ58FcbcL1xDNvyZ3FvyfuXBz9JAdf0IePCuI6A=",
+              "userId": "62a4902c000000002102442f",
+              "nickname": "干煸大虾猫头鹰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31d756r230m605ol4i0m8ch1fhf01clg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "noteId": "69624cc7000000000d009084",
+          "status": 0,
+          "content": "其实都差不多，多数课都很难挂，好像就 5285 挂的多一点。然后这年头，什么作业如果不想写就丢给 ai。。反正先等可以选的课出来，再来小红书搜一下对应的课程代码，就能了解到了",
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB6t4wIFsXqq_P2JbIzovn4RbUDMozy6N56iBImHBYSAA=",
+            "userId": "660e201d000000000b00fd36",
+            "nickname": "Moody",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a21c8a30000000028037f36",
+      "atUsers": [],
+      "liked": false,
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "6a21cfab000000002b02bdea",
+      "content": "学长学长 我来蹲点选课推荐[暗中观察R]",
+      "createTime": 1780598948000,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "港城 CS6187",
+  "search_item": {
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城莞CS Semester A期末出分",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7eecf82b98b5c9349913.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "660e201d000000000b00fd36",
+        "nickname": "Moody",
+        "xsecToken": "ABrhAsHWXQEra86YsvXH9KjVe9Xp4XFGz5Lg9KRWA5wmI=",
+        "nickName": "Moody"
+      },
+      "interactInfo": {
+        "likedCount": "14",
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "32",
+        "sharedCount": "11",
+        "liked": false
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041940/3650445dcfcc966c9befb3b098898bb6/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nc_n_webp_prv_1",
+        "height": 736,
+        "width": 1408,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041940/6b56e15740e7ad1efd6475aecc6ed8fb/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041940/6b56e15740e7ad1efd6475aecc6ed8fb/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041940/3650445dcfcc966c9befb3b098898bb6/notes_pre_post/1040g3k031r5luhhpno005pge40eipv9mr9g7jm8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 736,
+          "width": 1408
+        }
+      ]
+    },
+    "xsecToken": "ABoYrsCtPedtStKyDnNx02kh59LkBdfLrOPkx-POc12sc=",
+    "id": "69624cc7000000000d009084",
+    "modelType": "note",
+    "index": 15,
+    "exposed": false,
+    "trackId": "69624cc7000000000d009084"
+  }
+}

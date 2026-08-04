@@ -1,0 +1,162 @@
+{
+  "note_id": "69b10ce7000000000600d773",
+  "url": "https://www.xiaohongshu.com/explore/69b10ce7000000000600d773?xsec_token=ABMoRYWaMetZ15Hrw98tXi1Rd-lqA-WbcttJzXTWMUtKo=",
+  "fetched_at": 1785841091.2731402,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "拿到人生第一个网络安全证书 CPTS",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "拖拖拉拉两年，终于完成了HTB 的penetration testing path。 顺利完成了考试拿到了我的第一个证书。这里分享一些我的小小心得，希望能帮到准备CPTS考试的朋友们。\n\t\n1. 战线不要拉的太长，我觉得pentesting path的内容维持在半年到一年比较合适，战线拉太长很容易遗忘前面学的东西。如果很有经验的可以直接刷题就更快了。\n2. 一定要充分准备。官方有考试相关的box的collection，还有ippsec自己总结的一系列box，全做。考试的时候你会少走很多很多弯路。\n3. 不要迷信AI，考试让你随便用AI人家出题人是有几分底气的。我在AI上浪费了很多时间。其中遇到过chatgpt给我完全事实性错误的情况。\n4. 考试中会涉及到很多黑掉一台机器作为跳板，跳到内网的情况，这种pivoting方式有很多种，学一下ligolo-ng 会节省很多时间。\n5. 关注自身的身体状态，尤其到后期，体力和精神都比较透支了，很多你有能力做出来的东西也会做得很慢甚至想不到。别太焦虑，就算挂了的话也有补考。思路卡住的时候喝点水，吃点东西，睡一觉都是不错的选择。\n6. 平台崩了的时候，一定要截图联系客服，客服会酌情给你增加考试时间。\n7. 报告还是比较严格的，花点时间在报告上，用htb官方的cpts模版比较好。在你hack过程中就要把命令和截图记录下来。最终的报告一定要善用AI。报告很磨人，记得练练盲打键盘，最后熬夜写报告的时候感觉真的是闭着眼睛在打字。\n\t\n最后感谢在考试冲刺阶段女友的照顾和朋友们的支持。继续冲刺下一个目标 — 没想好呢，感觉security这里很多有趣的东西还没来得及搞，现在不搞AI又不太行。 先纠结个两年再说吧[扯脸H]\n\t\n#证书[话题]# #网络安全[话题]# #澳大利亚工作[话题]# #澳洲工作[话题]# #澳洲网络安全[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这难考么，偏离教程多么。手滑点了个认证。才看了一遍",
+      "sourceRef": "comment:69c137610000000015013bf0",
+      "commentId": "69c137610000000015013bf0",
+      "likes": 0,
+      "author": "AAAAAAAAA"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我个人觉得非常难。 教程涵盖的面太广了，说不上偏离，但是有可能是教程的角落的知识点。 10天的考试，中间有空看看官方和非官方的复习资料",
+      "sourceRef": "comment:69c196140000000009035e71",
+      "commentId": "69c196140000000009035e71",
+      "likes": 0,
+      "author": "Muyang不是牧羊"
+    },
+    {
+      "type": "comment",
+      "text": "厉害[派对R]我也在备考这个，后面在考cp[doge]，师傅觉得这个证书对工作有用吗",
+      "sourceRef": "comment:69b66afa000000000f0289af",
+      "commentId": "69b66afa000000000f0289af",
+      "likes": 0,
+      "author": "AlanCloush"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是先学这个path 然后找到了工作。然后完成path 考的证。这个证本身对找工作有多大的用处我不太了解。不过可能公认不如oscp。内容上我觉得学一学不错。",
+      "sourceRef": "comment:69b68095000000000f01ef8b",
+      "commentId": "69b68095000000000f01ef8b",
+      "likes": 1,
+      "author": "Muyang不是牧羊"
+    },
+    {
+      "type": "comment",
+      "text": "[坏笑R]恭喜群主[斜眼R][斜眼R][斜眼R]",
+      "sourceRef": "comment:69b113e80000000009006772",
+      "commentId": "69b113e80000000009006772",
+      "likes": 0,
+      "author": "West在澳洲"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我能加群吗师傅[害羞R]",
+      "sourceRef": "comment:69b66b12000000001500f124",
+      "commentId": "69b66b12000000001500f124",
+      "likes": 0,
+      "author": "AlanCloush"
+    },
+    {
+      "type": "comment",
+      "text": "恭喜恭喜，错过了首评[笑哭R]",
+      "sourceRef": "comment:69b11a000000000018023f36",
+      "commentId": "69b11a000000000018023f36",
+      "likes": 0,
+      "author": "testert1ng"
+    },
+    {
+      "type": "sub_comment",
+      "text": "注意力不集中[偷笑R]",
+      "sourceRef": "comment:69b245d5000000000f00f052",
+      "commentId": "69b245d5000000000f00f052",
+      "likes": 0,
+      "author": "Muyang不是牧羊"
+    },
+    {
+      "type": "comment",
+      "text": "想要加群[哭惹R]",
+      "sourceRef": "comment:6a19a5560000000027022f79",
+      "commentId": "6a19a5560000000027022f79",
+      "likes": 0,
+      "author": "饼工"
+    },
+    {
+      "type": "sub_comment",
+      "text": "苯人做analyst的",
+      "sourceRef": "comment:6a19a5730000000028008a11",
+      "commentId": "6a19a5730000000028008a11",
+      "likes": 0,
+      "author": "饼工"
+    },
+    {
+      "type": "comment",
+      "text": "目前见过B格最高的一个证书[笑哭R]",
+      "sourceRef": "comment:69caa337000000000d03face",
+      "commentId": "69caa337000000000d03face",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "特别好看，每次给小伙伴展示的时候都要先洗手才能传阅[笑哭R]",
+      "sourceRef": "comment:69cafa03000000001d00e6f1",
+      "commentId": "69cafa03000000001d00e6f1",
+      "likes": 0,
+      "author": "Muyang不是牧羊"
+    },
+    {
+      "type": "comment",
+      "text": "一起挖hackerone [doge]",
+      "sourceRef": "comment:69c0217a000000001500587b",
+      "commentId": "69c0217a000000001500587b",
+      "likes": 0,
+      "author": "小样"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[斜眼R][斜眼R]",
+      "sourceRef": "comment:69c0551f0000000015011dab",
+      "commentId": "69c0551f0000000015011dab",
+      "likes": 0,
+      "author": "Muyang不是牧羊"
+    },
+    {
+      "type": "comment",
+      "text": "大佬，能分享下report吗？[害羞R][飞吻R]",
+      "sourceRef": "comment:6a1bb2b9000000000d021800",
+      "commentId": "6a1bb2b9000000000d021800",
+      "likes": 0,
+      "author": "C Pointer"
+    },
+    {
+      "type": "comment",
+      "text": "真不错[赞R]",
+      "sourceRef": "comment:69b1720b0000000009007bee",
+      "commentId": "69b1720b0000000009007bee",
+      "likes": 1,
+      "author": "Offsec"
+    },
+    {
+      "type": "comment",
+      "text": "厉害啊大佬 [嘻嘻R]",
+      "sourceRef": "comment:69ba727c0000000011019409",
+      "commentId": "69ba727c0000000011019409",
+      "likes": 0,
+      "author": "社恐的小土匪"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[得意R]",
+      "sourceRef": "comment:69ba8ef00000000003011364",
+      "commentId": "69ba8ef00000000003011364",
+      "likes": 0,
+      "author": "Muyang不是牧羊"
+    }
+  ]
+}

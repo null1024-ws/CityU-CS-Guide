@@ -1,0 +1,298 @@
+{
+  "note_id": "6a6b450b0000000026035f5b",
+  "url": "https://www.xiaohongshu.com/explore/6a6b450b0000000026035f5b?xsec_token=AB18E15xyRqwCLne7RQOKEMYyDo13HG2H5pvAxNzaM4zg=",
+  "fetched_at": 1785838879.2116616,
+  "note": {
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMYyDo13HG2H5pvAxNzaM4zg=",
+    "desc": "LLM 已经能写 CUDA kernel，但换到 NPU 上，问题就不只是代码能力了。\n\t\nAscend C 和 CUDA 的编程范式不同。它更强调 UB tiling、TQue、显式数据流和硬件约束。公开语料又少，模型预训练里几乎没有足够样本。结果是，很多自动代码进化方法一到 Ascend C，就连可编译初始解都生成不出来。\n\t\n香港城市大学、Hong Kong Yuwin Technology Co., Ltd 提出 AgenticCANN，解决低语料 NPU 环境下 Ascend C 算子自动生成和优化的问题。\n\t\nAgenticCANN 的核心思路，是别让模型盲写代码，而是先给它补上硬件知识，再分阶段进化。\n\t\n论文构建 6 层知识体系：编程模型、算子模式、硬件约束、tiling 策略、API 参考和已验证样例。不同阶段只注入相关知识：初始化阶段给全量框架，变异阶段给约束，编译修复阶段给 API 和样例，性能调优阶段给 tiling 策略。\n\t\n这样做的好处是，模型既不会缺关键硬件常识，也不会被长文档淹没。论文显示，阶段化知识组装能把提示长度从约 800 token 降到100 token 以内。\n\t\n另一点是stage-adaptive agentic evolution。早期需要高探索模式，先找到能跑的种子；后期改用更收敛的修复和调优模式，减少结构漂移。候选代码会经过编译、数值验证和真实Ascend 910B 硬件profiling。\n\t\n实验覆盖54个Ascend C 算子。结构化知识让 elementwise 算子可行率从57% 到86%；LayerNorm消融中，从无知识0%到完整流程90%，速度提升2.71×。代表性实验里，elementwise和normalization 可行率达到90% 到 100，fusion 为56%；接入1B Pangu推理kernel 时，速度提升可达6.65×。\n\t\n边界也清楚：评估主要依赖DeepSeek-V4系列模型；attention、convolution等复杂拓扑还没充分覆盖；新算子模式的知识体系仍需要专家投入。\n\t\n#AgenticCANN[话题]# #香港城市大学[话题]# #AscendC[话题]# #NPU[话题]# #CANN[话题]# #算子优化[话题]# #代码生成[话题]# #howto用好AI[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "shareCount": "12",
+      "niceCount": "",
+      "likedCount": "13",
+      "collected": false,
+      "collectedCount": "15",
+      "commentCount": "",
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "6a6b44a4000000002d006ffc",
+        "name": "AgenticCANN",
+        "type": "topic"
+      },
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "name": "AscendC",
+        "type": "topic",
+        "id": "666a3e05000000000202f005"
+      },
+      {
+        "id": "62ace6910000000001000801",
+        "name": "NPU",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "61484dee00000000010041b4",
+        "name": "CANN"
+      },
+      {
+        "id": "66d986bb0000000024029698",
+        "name": "算子优化",
+        "type": "topic"
+      },
+      {
+        "id": "61ef8a5400000000010061b1",
+        "name": "代码生成",
+        "type": "topic"
+      },
+      {
+        "id": "6a2fbc940000000001033bd9",
+        "name": "howto用好AI",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1785489004000,
+    "lastUpdateTime": 1785415367000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a6b450b0000000026035f5b",
+    "type": "normal",
+    "title": "城大AgenticCANN：算子生成别只靠代码",
+    "user": {
+      "userId": "5cc64cd80000000017037798",
+      "nickname": "AI先声",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32199cl68706g5n669jc5utso4oa30g8",
+      "xsecToken": "ABqvgIxyAvj8S_2yt8Z17W1F1HHDK8t9-A0NLbtzdBgp8="
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco",
+        "width": 1438,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/1eede7c814b3b90964a0ba7996226012/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/e5486fe15214d51b198d9910c284cfe4/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/1eede7c814b3b90964a0ba7996226012/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/e5486fe15214d51b198d9910c284cfe4/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nd_dft_wlteh_jpg_3",
+        "height": 1722,
+        "url": "",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/93407d4c08cb33aed0a00aa4dc791bd9/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/6d713837e72992d211313870637ad9ff/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "height": 480,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/93407d4c08cb33aed0a00aa4dc791bd9/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/6d713837e72992d211313870637ad9ff/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nd_dft_wgth_jpg_3",
+        "fileId": "notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0",
+        "width": 1472,
+        "url": ""
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8",
+        "width": 1410,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/644ba767a54f081f6e503e5f69b46d87/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/d509edcb61ce3af728603ebc6cdf2f0d/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "height": 658,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/644ba767a54f081f6e503e5f69b46d87/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/d509edcb61ce3af728603ebc6cdf2f0d/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0",
+        "width": 1458,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/62f269ed0d6753cfe5484e262f547e85/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/cab0a074935556dad9de43fc23c3ec48/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/62f269ed0d6753cfe5484e262f547e85/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/cab0a074935556dad9de43fc23c3ec48/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nd_dft_wgth_jpg_3",
+        "height": 524,
+        "traceId": "",
+        "stream": {}
+      },
+      {
+        "traceId": "",
+        "stream": {},
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/48f75c4cb5bda39cdc039c5993e2a317/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041821/e3a0541b2e2dd0f245f58f69754e39b6/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/48f75c4cb5bda39cdc039c5993e2a317/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/e3a0541b2e2dd0f245f58f69754e39b6/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8",
+        "height": 454,
+        "width": 686
+      }
+    ],
+    "ipLocation": "天津"
+  },
+  "comments": [],
+  "search_query": "城大CS5282",
+  "search_item": {
+    "id": "6a6b450b0000000026035f5b",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "城大AgenticCANN：算子生成别只靠代码",
+      "user": {
+        "userId": "5cc64cd80000000017037798",
+        "nickname": "AI先声",
+        "xsecToken": "AB_1jkM8168Ax2vpwWmDGwvKjRCSuV_dFCXK7Hr1MzW-M=",
+        "nickName": "AI先声",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32199cl68706g5n669jc5utso4oa30g8?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "13",
+        "collected": false,
+        "collectedCount": "15",
+        "commentCount": "0",
+        "sharedCount": "12"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041821/aa18699aa67d727330b9640cd908f328/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041821/cf48f4dd53be0c60336ddcec256a9727/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nc_n_webp_prv_1",
+        "height": 1722,
+        "width": 1438
+      },
+      "imageList": [
+        {
+          "height": 1722,
+          "width": 1438,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/aa18699aa67d727330b9640cd908f328/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/cf48f4dd53be0c60336ddcec256a9727/notes_pre_post/1040g3k83238e68df743g5n669jc5utsol1khtco!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 480,
+          "width": 1472,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/c2e854453fc1d1be843f94f7ad935cf0/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/a3718eef3a240e00a4c6844a90591bdb/notes_pre_post/1040g3k83238e68df74405n669jc5utsolft8ub0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 658,
+          "width": 1410,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/e47e25231ef0b10d625d79d93f0bbbef/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/4b6ae9c5cba92c2c8c89d21906aff996/notes_pre_post/1040g3k83238e68df744g5n669jc5utsot530sq8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 524,
+          "width": 1458,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/6ad0700519a817fcb5c2f2116036e885/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/83c4e5aaad60840c235217e56918611a/notes_pre_post/1040g3k83238e68df74505n669jc5utsobisbfk0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 454,
+          "width": 686,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/d64271640be35e7fce2d2334b8bd1eb3/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041821/a5ddd012cc19b80bc85c7c1e33455e7b/notes_pre_post/1040g3k83238e68df745g5n669jc5utsokiqdea8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "4天前"
+        }
+      ]
+    },
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMYyDo13HG2H5pvAxNzaM4zg=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a6b450b0000000026035f5b"
+  }
+}

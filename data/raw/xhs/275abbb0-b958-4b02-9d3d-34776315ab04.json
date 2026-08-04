@@ -1,0 +1,43 @@
+{
+  "note_id": "275abbb0-b958-4b02-9d3d-34776315ab04",
+  "url": "https://www.xiaohongshu.com/explore/275abbb0-b958-4b02-9d3d-34776315ab04?xsec_token=AB-mi33t_ejhUDlMj13-Wq0_Nfc-Dsw83f7Rs3ABgjwoaSUyWuCuh_G6gj31rZkhkdAvrFdDiN_ZcQN-HTusY-x37E0KmS2LbzAEV1qsFEg2U=",
+  "fetched_at": 1785843741.8907263,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6521 CityU",
+  "search_item": {
+    "id": "275abbb0-b958-4b02-9d3d-34776315ab04#1785843728935",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "275abbb0-b958-4b02-9d3d-34776315ab04#1785843728935",
+      "queries": [
+        {
+          "id": "香港城市大学就读体验",
+          "name": "香港城市大学就读体验",
+          "searchWord": "香港城市大学就读体验"
+        },
+        {
+          "name": "香港城市大学硕士",
+          "searchWord": "香港城市大学硕士",
+          "id": "香港城市大学硕士"
+        },
+        {
+          "id": "cityu是什么大学",
+          "name": "cityu是什么大学",
+          "searchWord": "cityu是什么大学"
+        },
+        {
+          "id": "香港城市大学入学流程",
+          "name": "香港城市大学入学流程",
+          "searchWord": "香港城市大学入学流程"
+        }
+      ]
+    },
+    "xsecToken": "AB-mi33t_ejhUDlMj13-Wq0_Nfc-Dsw83f7Rs3ABgjwoaSUyWuCuh_G6gj31rZkhkdAvrFdDiN_ZcQN-HTusY-x37E0KmS2LbzAEV1qsFEg2U=",
+    "index": 28,
+    "exposed": false,
+    "trackId": "275abbb0-b958-4b02-9d3d-34776315ab04#1785843728935"
+  }
+}

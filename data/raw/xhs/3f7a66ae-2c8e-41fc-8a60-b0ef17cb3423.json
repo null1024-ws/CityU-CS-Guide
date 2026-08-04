@@ -1,0 +1,43 @@
+{
+  "note_id": "3f7a66ae-2c8e-41fc-8a60-b0ef17cb3423",
+  "url": "https://www.xiaohongshu.com/explore/3f7a66ae-2c8e-41fc-8a60-b0ef17cb3423?xsec_token=ABrG27UBKIdpZSHU8iV2vvPVGSRMyxgNIWxRemvmvWKcrv2PVMa-XTSMJAM3WCM7V9Qh97ZOVLiLKgls97z_PFngYmeWFziEpE7h_V33N3GBI=",
+  "fetched_at": 1785840865.1117423,
+  "note": {},
+  "comments": [],
+  "search_query": "港城 CS5348",
+  "search_item": {
+    "xsecToken": "ABrG27UBKIdpZSHU8iV2vvPVGSRMyxgNIWxRemvmvWKcrv2PVMa-XTSMJAM3WCM7V9Qh97ZOVLiLKgls97z_PFngYmeWFziEpE7h_V33N3GBI=",
+    "id": "3f7a66ae-2c8e-41fc-8a60-b0ef17cb3423#1785840868837",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "3f7a66ae-2c8e-41fc-8a60-b0ef17cb3423#1785840868837",
+      "queries": [
+        {
+          "id": "港城cs时间线",
+          "name": "港城cs时间线",
+          "searchWord": "港城cs时间线"
+        },
+        {
+          "id": "26fall港城cs",
+          "name": "26fall港城cs",
+          "searchWord": "26fall港城cs"
+        },
+        {
+          "id": "港城cs全攻略",
+          "name": "港城cs全攻略",
+          "searchWord": "港城cs全攻略"
+        },
+        {
+          "id": "港城cs录取逻辑",
+          "name": "港城cs录取逻辑",
+          "searchWord": "港城cs录取逻辑"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "3f7a66ae-2c8e-41fc-8a60-b0ef17cb3423#1785840868837"
+  }
+}

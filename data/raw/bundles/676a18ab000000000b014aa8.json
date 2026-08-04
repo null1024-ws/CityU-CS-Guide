@@ -1,0 +1,164 @@
+{
+  "note_id": "676a18ab000000000b014aa8",
+  "url": "https://www.xiaohongshu.com/explore/676a18ab000000000b014aa8?xsec_token=ABvD4w6ft-W5RVz1EhICnwUNTzFfRmmogBgpRU5uOyFAY=",
+  "fetched_at": 1785839669.2534084,
+  "course_codes": [
+    "CS5242"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "mcomp ai第一学期出分，附课程评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "第一学期不知死活地选了5门课，3门core课，加上sound and music和nlp[笑哭R]\n\t\n事实证明nus课业压力是真的很大。。。5门课很难再抽出时间做别的科研了，不划算。\n\t\n给分完全按curve：5242课业压力小，比较松懈，结果给分很低；5340非常难，期末考4题只做出2题，也能拿A+。因此不必太纠结选难课还是水课，卷的人多了水课也会变难课，按兴趣选课就行。\n\t\n课程评价：\n4248: nlp，可以学到语言模型，bert，熵和复杂度等。作业手撕bpe，有project，期末考很难[哭惹R]。\n\t\n5242: 神经网络基础，还包含一些ai infra知识比如flash attention，kv cache。作业notebook填空，有project，无考试。\n\t\n5340: 涵盖概率图，hmm，证据推理和信念传播，基于elbo的em，vae，diffusion等方法，mcmc和gibbis采样，图分割。🤯震撼的一门金课，把以前学的各类ai数学用很高层的视角串联起来。作业难，考试更难，2小时只考4道题，但是笔没停过，根本写不完[笑哭R]\n\t\n5446: 规划决策和强化学习基础，包括mdp，q-learning，policy network等。期中考难度中等，project要求低，整体比较简单。\n\t\n5647: sound and music computing，实验性的课程，课业压力极大，涵盖语音和音乐方面的识别和生成技术。好课！\n\t\n#选课[话题]# #nus[话题]# #mcomp[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5242如果只会基础Python学起来难度大吗",
+      "sourceRef": "comment:678628dd000000002101b597",
+      "commentId": "678628dd000000002101b597",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "隔壁gt的菜鸟想问问哪几门AI相关的课会比较不challenging[哭惹R]刚选了5340被劝退了",
+      "sourceRef": "comment:6790ebc8000000000b00b4c7",
+      "commentId": "6790ebc8000000000b00b4c7",
+      "likes": 3,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以试试5446",
+      "sourceRef": "comment:6790fa410000000009020141",
+      "commentId": "6790fa410000000009020141",
+      "likes": 0,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "学长可以教一下吗[哭惹R]，我什么都会做的",
+      "sourceRef": "comment:67cd89300000000015002fb2",
+      "commentId": "67cd89300000000015002fb2",
+      "likes": 1,
+      "author": "JOE"
+    },
+    {
+      "type": "sub_comment",
+      "text": "还在go",
+      "sourceRef": "comment:67cd8cd10000000018009059",
+      "commentId": "67cd8cd10000000018009059",
+      "likes": 0,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "佬[飞吻R]",
+      "sourceRef": "comment:677634e7000000001102eadc",
+      "commentId": "677634e7000000001102eadc",
+      "likes": 1,
+      "author": "add+"
+    },
+    {
+      "type": "sub_comment",
+      "text": "多谢你带飞[扯脸H]",
+      "sourceRef": "comment:67764f5a000000001200da99",
+      "commentId": "67764f5a000000001200da99",
+      "likes": 1,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "CS5242 看Prof的[捂脸R] 我选的2025sem1有考试 midterm+final+project",
+      "sourceRef": "comment:684121c200000000030364fa",
+      "commentId": "684121c200000000030364fa",
+      "likes": 0,
+      "author": "球球了别吃了"
+    },
+    {
+      "type": "sub_comment",
+      "text": "请问哪个Prof好一点呀[皱眉R]",
+      "sourceRef": "comment:687c5897000000000f03d3ec",
+      "commentId": "687c5897000000000f03d3ec",
+      "likes": 0,
+      "author": "宫泽千钏"
+    },
+    {
+      "type": "comment",
+      "text": "学长请问mcompai一年半毕业的话时间线是怎样的呀，推荐选课442吗？",
+      "sourceRef": "comment:687ce020000000001e0361d8",
+      "commentId": "687ce020000000001e0361d8",
+      "likes": 0,
+      "author": "Saul Goodcat"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以442",
+      "sourceRef": "comment:687ce056000000001901c2fe",
+      "commentId": "687ce056000000001901c2fe",
+      "likes": 0,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "大佬 如果这个 NUS 的专业和 IC 的研究型 AIML 相比，你会选哪个呀",
+      "sourceRef": "comment:68383a1c000000000702ba78",
+      "commentId": "68383a1c000000000702ba78",
+      "likes": 0,
+      "author": "爱睡觉的kiwi🐦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我不太了解ic的项目呢",
+      "sourceRef": "comment:68383a72000000000b01ce88",
+      "commentId": "68383a72000000000b01ce88",
+      "likes": 0,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "大佬是打算一年毕业吗[点赞R]",
+      "sourceRef": "comment:676a1a82000000000e0111fe",
+      "commentId": "676a1a82000000000e0111fe",
+      "likes": 2,
+      "author": "Kendall"
+    },
+    {
+      "type": "sub_comment",
+      "text": "1.5年，一年找不到工作呀[哭惹R]",
+      "sourceRef": "comment:676a1c2e0000000011032aea",
+      "commentId": "676a1c2e0000000011032aea",
+      "likes": 4,
+      "author": "繁星若尘"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下你那边5242是哪位老师啊😳",
+      "sourceRef": "comment:6965edc300000000180221c9",
+      "commentId": "6965edc300000000180221c9",
+      "likes": 0,
+      "author": "无路灯区域"
+    },
+    {
+      "type": "comment",
+      "text": "求问5446是哪个老师呀",
+      "sourceRef": "comment:6877e6bf000000001100fabc",
+      "commentId": "6877e6bf000000001100fabc",
+      "likes": 0,
+      "author": "小狗全肯定"
+    },
+    {
+      "type": "sub_comment",
+      "text": "求问5446是哪个老师呀+1",
+      "sourceRef": "comment:689c1aa0000000003002b3d5",
+      "commentId": "689c1aa0000000003002b3d5",
+      "likes": 1,
+      "author": "SpeedOMG"
+    }
+  ]
+}

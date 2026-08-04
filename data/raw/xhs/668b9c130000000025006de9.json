@@ -1,0 +1,261 @@
+{
+  "note_id": "668b9c130000000025006de9",
+  "url": "https://www.xiaohongshu.com/explore/668b9c130000000025006de9?xsec_token=ABipKafFnzG1hNVFlw45oqPSnQGZQBjRNsbEHx_SBgI4c=",
+  "fetched_at": 1785839398.0958495,
+  "note": {
+    "xsecToken": "ABipKafFnzG1hNVFlw45oqPSnQGZQBjRNsbEHx_SBgI4c=",
+    "noteId": "668b9c130000000025006de9",
+    "desc": "书接上文，这篇主要讲讲winter选的课。同样的，下述皆为个人体验，不同个体之间可能偏差很大，仅供参考，无统计学意义。\n[三R] CSE 202 - Algorithm Design and Analysis\nQtr: wi24, Prof: Russell, A/A+: 36.7%/16.5%\n选这门课主要是为了满足theory要求，同时复健一下算法，最后发现与预期也不大一样。首先这门课纯理论，所有作业都是latex打字，证明和算法复杂度分析需要非常严谨，经常一题要打两三页latex。然后Russell是个感觉要退休的老教授，讲课娓娓道来，但课程内容的广度和难度低于预期。可以说讲过的所有算法都是比较基础的本科水平，对于有过算法竞赛经历的人来说想必更加无趣。有一个用算法（非ai）解决游戏或其他问题的开放项目，还算有意思。作业和最后的project都是组队的，所以成绩如何也看队友。Workload适中，课程的schedule比较拖，作业成绩出的慢，而且甚至作业和考试题目都有typo，比较不愉快。有的作业题目还是有难度的，需要想想，期末考试take home给一周时间做且占比50%。给分还是ok的。\n推荐指数：[星R][星R][星R]\n[四R] CSE 291 Advances in Language Models\nQtr: wi24, Prof: Nakashole, A/A+: 16.7%/8.3%\n这门课是291系列中的一门，讲llm paper的。课程形式是每节课一个人讲一篇paper，然后课上做quiz。如果是想做llm方面的research可以选这门课，就是给分有点夸张。12人选3人拿A以上。最后有一个自己选题的project，需要自己选数据集，研究/解决某个问题，跑实验并交一篇报告和做pre。由于我拖延症大爆发把报告摆掉了所以得分惨烈。但周围望了一圈成绩都不太好。\n推荐指数：[星R][星R][星R]，如果是很在乎给分的话，最好别选。\n[五R] DSC 204A Scalable Data Sys\nQtr: wi24, Prof: Zhang Hao, A/A+: 36.2%/8.6%\n这门课的老师是刚来ds学院的mlsys方向的大牛，vllm的作者之一。别人推荐我上然后我一看是vllm的作者很快啊就选了。课程主要讲data sys，跨度较广，os/network等基础知识到mapreduce/spark等，最后有一点mlsys的intro。作业也比较杂，有python编程，reading summary啥的，期末考全是mcq不算太难。总体workload中等偏上，内容广度挺好深度略有欠缺，后面我还选了一门该教授的mlsys，主要是对这个方向感兴趣（讨饭吃用得到）。注意这门课暂不算进毕业要求。\n推荐指数：[星R][星R][星R][星R]\n这里先小小总结一下：cs75这个项目偏全栈开发的课极少读paper课很多，不太适合转码，但好在水课也多找工时可以轻松点。",
+    "user": {
+      "xsecToken": "ABUlAIfIuxlfvXcH2-_rmmnAntmdmh7IbZiaG7GMxVEVc=",
+      "userId": "5e3ee9bf00000000010091cd",
+      "nickname": "打工睦子米",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ctj4kgvgu0g5nhut6vg94ed9oi8bgg"
+    },
+    "interactInfo": {
+      "likedCount": "82",
+      "collected": false,
+      "commentCount": "5",
+      "followed": false,
+      "liked": false,
+      "collectedCount": "78",
+      "shareCount": "30",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "1040g008314vv48snha505nhut6vg94edllnikp8",
+        "height": 1920,
+        "livePhoto": false,
+        "width": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041830/127d37e8ac73ae1cf39a71da1757a229/1040g008314vv48snha505nhut6vg94edllnikp8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041830/c7c718333dac0db7d8ac593c7f0ae83a/1040g008314vv48snha505nhut6vg94edllnikp8!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041830/127d37e8ac73ae1cf39a71da1757a229/1040g008314vv48snha505nhut6vg94edllnikp8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041830/c7c718333dac0db7d8ac593c7f0ae83a/1040g008314vv48snha505nhut6vg94edllnikp8!nd_dft_wgth_jpg_3",
+        "stream": {}
+      },
+      {
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041830/33fb0e3ae9b57cfa64b5e5355b7b46a0/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041830/aad7cddc352b280b6349b992c79bacfd/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041830/33fb0e3ae9b57cfa64b5e5355b7b46a0/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041830/aad7cddc352b280b6349b992c79bacfd/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "1040g008314vv48snha6g5nhut6vg94ed4qu3qog",
+        "height": 1080,
+        "width": 1440
+      }
+    ],
+    "tagList": [],
+    "time": 1720425491000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "UCSD CS75就读体验——课程篇（2）",
+    "atUserList": [],
+    "lastUpdateTime": 1720425492000
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "subComments": [
+        {
+          "id": "69104b78000000003102cad0",
+          "noteId": "668b9c130000000025006de9",
+          "status": 3,
+          "content": "真的难上",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "美国",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "615a7a37000000000201b4f9",
+            "nickname": "Momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nv16j4ilm005oaqf8rgjd7pfur7sc8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABu_eks7f0vrPUrYHDlekfiXo9crIkAcmMQHxBVK14M54="
+          },
+          "createTime": 1762675576000,
+          "targetComment": {
+            "id": "668bea5d0000000017012dfb",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rd6k787a004btssm9dfn8f6hurvtg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtBvCEHbbCgSgj07AQJ5m80eOz0nM0Rsu2MdghEJN2wQ=",
+              "userId": "5bfa92d7dc17a9000178dd0f",
+              "nickname": "萨奇的Coding笔记"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "id": "668bea5d0000000017012dfb",
+      "status": 0,
+      "likeCount": "1",
+      "content": "完了[笑哭R]，选了一个202",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1720445534000,
+      "subCommentCursor": "69104b78000000003102cad0",
+      "noteId": "668b9c130000000025006de9",
+      "userInfo": {
+        "userId": "5bfa92d7dc17a9000178dd0f",
+        "nickname": "萨奇的Coding笔记",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rd6k787a004btssm9dfn8f6hurvtg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtBvCEHbbCgSgj07AQJ5m80eOz0nM0Rsu2MdghEJN2wQ="
+      },
+      "ipLocation": "湖南",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "dsc 204a对于cse的同学来说太水了，ray是真的难用",
+      "likeCount": "1",
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "668b9c130000000025006de9",
+      "userInfo": {
+        "userId": "610caec1000000000101c197",
+        "nickname": "224",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/644e097d9329aa25ed968fea.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABiPURn6VR-xiizVgZq6s3faGMIjPuxOvhsHXwrY2qyJo="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1722556049000,
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "subComments": [],
+      "id": "66ac1e91000000002300df0f",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "content": "感谢学长指路🥹",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1720517753000,
+      "subCommentHasMore": false,
+      "noteId": "668b9c130000000025006de9",
+      "userInfo": {
+        "xsecToken": "ABdz0RASUAFO36QnI2YpFHFwRBa8q3rE00lGjf61seGfU=",
+        "userId": "62c8f71b0000000002003828",
+        "nickname": "小青马",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311ld7gsl7a005om8usdgge18dgfit60?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "id": "668d0479000000001700181d",
+      "atUsers": [],
+      "ipLocation": "黑龙江",
+      "subComments": [],
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 怎么样",
+  "search_item": {
+    "id": "668b9c130000000025006de9",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041829/f7289b43e17772ceceab000ab4b68f0e/1040g008314vv48snha505nhut6vg94edllnikp8!nc_n_webp_prv_1",
+        "height": 1920,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041829/fefa3ea78303bd181ac453b2380f2d5f/1040g008314vv48snha505nhut6vg94edllnikp8!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1920,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041829/fefa3ea78303bd181ac453b2380f2d5f/1040g008314vv48snha505nhut6vg94edllnikp8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041829/f7289b43e17772ceceab000ab4b68f0e/1040g008314vv48snha505nhut6vg94edllnikp8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1080,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041829/a7c3de6c947c768e38f6fda572056f2b/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041829/028b869b629cfe556a115a959b3f2722/1040g008314vv48snha6g5nhut6vg94ed4qu3qog!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-07-08"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "UCSD CS75就读体验——课程篇（2）",
+      "user": {
+        "nickName": "打工睦子米",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ctj4kgvgu0g5nhut6vg94ed9oi8bgg?imageView2/2/w/80/format/jpg",
+        "userId": "5e3ee9bf00000000010091cd",
+        "nickname": "打工睦子米",
+        "xsecToken": "ABGE3JoVwaogHEXHOz_RTJLqZZh8T9shNH4X_x6zNvfLg="
+      },
+      "interactInfo": {
+        "likedCount": "82",
+        "collected": false,
+        "collectedCount": "78",
+        "commentCount": "5",
+        "sharedCount": "30",
+        "liked": false
+      }
+    },
+    "xsecToken": "ABipKafFnzG1hNVFlw45oqPSnQGZQBjRNsbEHx_SBgI4c=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "668b9c130000000025006de9"
+  }
+}

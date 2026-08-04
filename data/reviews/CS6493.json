@@ -1,12 +1,19 @@
 {
   "courseCode": "CS6493",
   "fields": {
+    "difficulty": {
+      "value": "hard",
+      "label": "较难",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 5
+      "sourceCount": 6,
+      "distinctSources": 6
     },
     "grading": {
       "value": "generous",
@@ -14,18 +21,6 @@
       "confidence": "confirmed",
       "sourceCount": 3,
       "distinctSources": 3
-    },
-    "difficulty": {
-      "value": "hard",
-      "label": "较难",
-      "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 2,
-      "note": "来源说法不一：较难×1、适中×1",
-      "variants": {
-        "hard": 1,
-        "medium": 1
-      }
     },
     "attendance": {
       "value": "not_strict",
@@ -48,6 +43,7 @@
     }
   },
   "tips": [
+    "宋老师还是放了水了，复习的时候快崩溃了，原本以为会特别难",
     "CS6493 NLP 必选",
     "cs6493 nlp：和上学期的de一个老师，整体流程也差不多，两次作业，一次给分不高但也不难的project，闭卷考试"
   ],
@@ -125,6 +121,20 @@
       "postTitle": "cityu CS课程评价(二)"
     }
   ],
-  "commentSources": [],
+  "commentSources": [
+    {
+      "noteId": "6821e91f00000000120034cc",
+      "url": "https://www.xiaohongshu.com/explore/6821e91f00000000120034cc?xsec_token=AByqv20cS0cRsdrp2sPrbTpFgyJCtTxSOtBBqoHqIY5EI=",
+      "excerpt": "宋老师还是放了水了，复习的时候快崩溃了，原本以为会特别难",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "香港城市大学 CS6493NLP 评测",
+      "commentId": "6821ee1f000000000b014148",
+      "author": "。。。",
+      "likes": 4,
+      "role": "supplement"
+    }
+  ],
   "lastUpdated": "2026-08-04"
 }

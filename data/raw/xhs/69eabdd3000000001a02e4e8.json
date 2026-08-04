@@ -1,0 +1,584 @@
+{
+  "note_id": "69eabdd3000000001a02e4e8",
+  "url": "https://www.xiaohongshu.com/explore/69eabdd3000000001a02e4e8?xsec_token=ABz8OFueGwkzzlSWAv9GdDIRl5eSGdgulAmmXG3BG8v3M=",
+  "fetched_at": 1785843523.6246676,
+  "note": {
+    "xsecToken": "ABz8OFueGwkzzlSWAv9GdDIRl5eSGdgulAmmXG3BG8v3M=",
+    "noteId": "69eabdd3000000001a02e4e8",
+    "title": "好家伙，发现一个openreview版导师红黑榜",
+    "desc": "好家伙，红黑榜挂了，马上就有人做了个openadvisor\n\t\n#导师评价[话题]# #PhD申请[话题]# #研究生选导师[话题]# #PhD[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "711",
+      "collected": false,
+      "collectedCount": "469",
+      "shareCount": "1002",
+      "followed": false,
+      "relation": "none",
+      "commentCount": "73",
+      "niceCount": ""
+    },
+    "atUserList": [],
+    "time": 1776991699000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "userId": "5b02df22e8ac2b0e1c479ffa",
+      "nickname": "🤔",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321cfrn1cnk004a5hcgfi57vqpa4nns8",
+      "xsecToken": "ABazgPjKTouif9zAQpS06NcWS98Bmqdh4pUUBUEHvtDcg="
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo",
+        "height": 1642,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041938/d6aaac50361d126bc31adc0fbce6c81f/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041938/eac6b268e5e16724c64b0d5ac9615ab4/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041938/eac6b268e5e16724c64b0d5ac9615ab4/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nd_dft_wgth_jpg_3",
+        "width": 2436,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041938/d6aaac50361d126bc31adc0fbce6c81f/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "61c6e397000000000101d6d0",
+        "name": "导师评价",
+        "type": "topic"
+      },
+      {
+        "id": "5d735b6a000000000103bbfc",
+        "name": "PhD申请",
+        "type": "topic"
+      },
+      {
+        "id": "5ebfc85d0000000001006944",
+        "name": "研究生选导师",
+        "type": "topic"
+      },
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1776994136000
+  },
+  "comments": [
+    {
+      "status": 0,
+      "likeCount": "108",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "id": "69eb1761000000000d023c01",
+      "noteId": "69eabdd3000000001a02e4e8",
+      "atUsers": [],
+      "createTime": 1777014626000,
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "50",
+          "showTags": [],
+          "createTime": 1777044847000,
+          "targetComment": {
+            "id": "69eb1761000000000d023c01",
+            "userInfo": {
+              "nickname": "小红薯64CDE930",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e78731e07eb8ca3d81b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDq4PMVkQgFV4jSspDF2wpb9KZAoREGK9kaD28tiH6TA=",
+              "userId": "64cda5b9000000000b00ac16"
+            }
+          },
+          "invalid": false,
+          "noteId": "69eabdd3000000001a02e4e8",
+          "content": "我觉得年轻的老中还行啊",
+          "liked": false,
+          "userInfo": {
+            "userId": "60a5ecbe000000000100166f",
+            "nickname": "黄焖鸡",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/60a5ecbe000000000100166f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB1SNKXXGQ65_FiEBDjder_wWWt_a3PtXtFKob0-yROEc="
+          },
+          "ipLocation": "美国",
+          "id": "69eb8d6f000000000d021401",
+          "status": 0
+        }
+      ],
+      "content": "北美华人导师名声烂透了，甚至今天听东南亚的学生申PhD首先就是避雷华人导师[捂脸R]",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e78731e07eb8ca3d81b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDq4PMVkQgFV4jSspDF2wpb9KZAoREGK9kaD28tiH6TA=",
+        "userId": "64cda5b9000000000b00ac16",
+        "nickname": "小红薯64CDE930"
+      },
+      "subCommentCount": "8",
+      "subCommentCursor": "69eb8d6f000000000d021401",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69eac696000000001401e001",
+      "noteId": "69eabdd3000000001a02e4e8",
+      "status": 0,
+      "likeCount": "61",
+      "ipLocation": "英国",
+      "subCommentHasMore": true,
+      "content": "打学生真的绷不住[笑哭R]",
+      "liked": false,
+      "subCommentCursor": "69eacc55000000001401cc1c",
+      "subComments": [
+        {
+          "status": 0,
+          "userInfo": {
+            "userId": "5ab99f014eacab5d92a6a8b5",
+            "nickname": "效真",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iukjufu0s004a3vldfg3a5l2tcab28?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZQ1iy7HEYKKpuKK7Z55Y3J2Ii9RBrH6SiezprN4MnQ8="
+          },
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "69eac696000000001401e001",
+            "userInfo": {
+              "userId": "632bf9a90000000023039fbe",
+              "nickname": "emomo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fufc9d1gi005opbv6kov7tupo8s42o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMtDD06aVclQAmwbYrQrVT-LtxR5s60hCIXD0KIB356M="
+            }
+          },
+          "invalid": false,
+          "id": "69eacc55000000001401cc1c",
+          "noteId": "69eabdd3000000001a02e4e8",
+          "content": "咋进的呀",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1776995414000
+        }
+      ],
+      "showTags": [],
+      "createTime": 1776993942000,
+      "subCommentCount": "4",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "632bf9a90000000023039fbe",
+        "nickname": "emomo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fufc9d1gi005opbv6kov7tupo8s42o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMtDD06aVclQAmwbYrQrVT-LtxR5s60hCIXD0KIB356M="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "6590d34c0000000022004b6f",
+        "nickname": "不务正业的巴普洛夫在coding",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322alspmvn46g5pcgqd68girf5a9ln6g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMNtpU1Ec6z2Z6Br6kUU5Eq4y6jC-qGFoprNN69iO8BQ="
+      },
+      "showTags": [],
+      "status": 0,
+      "content": "这个网站为什么和 openreview 这么像[石化R]这是用了什么模板吗",
+      "likeCount": "13",
+      "subCommentCount": "3",
+      "subCommentCursor": "69eac7dd000000001401cc22",
+      "invalid": false,
+      "createTime": 1776993975000,
+      "subComments": [
+        {
+          "id": "69eac7dd000000001401cc22",
+          "noteId": "69eabdd3000000001a02e4e8",
+          "status": 0,
+          "content": "这种简约风应该可以vibe出来吧",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "63a5ae000000000026012136",
+            "nickname": "XqwqX",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g5352d3h66g5ot5lo09i89m8hcqgd0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABW3SBw4iJTwlpjlxvQaZTrWA3QwBgWd2uxiPfZhyhgsk="
+          },
+          "invalid": false,
+          "liked": false,
+          "likeCount": "112",
+          "showTags": [],
+          "createTime": 1776994270000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "nickname": "不务正业的巴普洛夫在coding",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322alspmvn46g5pcgqd68girf5a9ln6g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMNtpU1Ec6z2Z6Br6kUU5Eq4y6jC-qGFoprNN69iO8BQ=",
+              "userId": "6590d34c0000000022004b6f"
+            },
+            "id": "69eac6b7000000001401b80c"
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "69eac6b7000000001401b80c",
+      "noteId": "69eabdd3000000001a02e4e8",
+      "ipLocation": "陕西",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "5",
+      "id": "69eba2b2000000000d023001",
+      "content": "不是已经有ratemyprofessor了吗[捂脸R]",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "69ed2e5d000000002a033c6c",
+      "invalid": false,
+      "noteId": "69eabdd3000000001a02e4e8",
+      "createTime": 1777050290000,
+      "subCommentCount": "2",
+      "userInfo": {
+        "nickname": "打电话",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31osbu9f3ha005oclutv41gglm5j4em8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLJEAjIIwJJNlU6Mq8AUD_WLgXNgUBbGi1R-_7GZ3liU=",
+        "userId": "6195f77e000000001000c215"
+      },
+      "subComments": [
+        {
+          "noteId": "69eabdd3000000001a02e4e8",
+          "status": 0,
+          "content": "那个是给本科生上课挑老师用的，在硕博选导这个赛道还一直没有同等体量稳定存在的产品",
+          "likeCount": "45",
+          "showTags": [],
+          "ipLocation": "加拿大",
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "610ccc8500000000010087fa",
+            "nickname": "Senza Fine",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/610ccc8500000000010087fa.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABiPURn6VR-xiizVgZq6s3ffcb27ve7SU-_TfxAd8TDmw="
+          },
+          "createTime": 1777151581000,
+          "targetComment": {
+            "id": "69eba2b2000000000d023001",
+            "userInfo": {
+              "userId": "6195f77e000000001000c215",
+              "nickname": "打电话",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31osbu9f3ha005oclutv41gglm5j4em8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABLJEAjIIwJJNlU6Mq8AUD_WLgXNgUBbGi1R-_7GZ3liU="
+            }
+          },
+          "id": "69ed2e5d000000002a033c6c"
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "nickname": "名字随便加",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/67038ee6ccd3d65476ee08f3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpySzk34I7iMBJmplkC5DPhpDv6B1MdJVQ4OCGIuhUmk=",
+        "userId": "62a2ef5e0000000021027c69"
+      },
+      "createTime": 1776997632000,
+      "subCommentCount": "0",
+      "atUsers": [],
+      "likeCount": "132",
+      "showTags": [],
+      "ipLocation": "北京",
+      "subCommentHasMore": false,
+      "noteId": "69eabdd3000000001a02e4e8",
+      "status": 0,
+      "invalid": false,
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "69ead4ff000000001401b029",
+      "content": "太好笑了，还能对评价rebuttal呢[笑哭R]",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69ead7df0000000014013003",
+      "status": 0,
+      "noteId": "69eabdd3000000001a02e4e8",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "只能说前期初衷是好的，但发展到现在就是没审核谁都踩一脚；dp的真实性存疑，强相关的phd哪来那么多。。。",
+      "userInfo": {
+        "userId": "634e1cc300000000180287ff",
+        "nickname": "Eliz",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k3hjkd036005oqe3j1m51vvfktjohg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwAQLm83Uo1R-NkqBpvm-p93t1eeqM3qcI6zbNo-YlP0="
+      },
+      "createTime": 1776998368000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "likeCount": "31",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1776995789000,
+      "ipLocation": "上海",
+      "content": "马嘉祺[黄金薯R]",
+      "likeCount": "6",
+      "subComments": [
+        {
+          "createTime": 1776996724000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "noteId": "69eabdd3000000001a02e4e8",
+          "likeCount": "3",
+          "userInfo": {
+            "userId": "63d90595000000002702ba75",
+            "nickname": "曲折迂回",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d90595000000002702ba75.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2tpQMLRnSjm1NjcoTQuyQbuGFn4KQa9Yf0OmqqOzTgo="
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "69eacdcc0000000014019414",
+            "userInfo": {
+              "userId": "6279fa0c00000000210217b5",
+              "nickname": "乙烯",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jkpmddbio605ojpv868c5tlie5dra8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIwQYOxuwvyM-BF_De_qwNbYm9tRPAWC-tsFoXOCk4XI="
+            }
+          },
+          "id": "69ead1730000000014019418",
+          "status": 0,
+          "content": "我还套过他的磁 可惜他完全没搭理我",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jkpmddbio605ojpv868c5tlie5dra8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIwQYOxuwvyM-BF_De_qwNbYm9tRPAWC-tsFoXOCk4XI=",
+        "userId": "6279fa0c00000000210217b5",
+        "nickname": "乙烯"
+      },
+      "subCommentCursor": "69ead1730000000014019418",
+      "id": "69eacdcc0000000014019414",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69eabdd3000000001a02e4e8",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "1",
+          "invalid": false,
+          "id": "69ead2610000000014018c13",
+          "status": 0,
+          "userInfo": {
+            "userId": "6530f07e000000002b003bb2",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315j272o6hc005p9gu1vaoetill9qn00?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4NBNu7ga6ZOl8bDXEhk3gCjC9T4_6ibnvI4UGxrRflc="
+          },
+          "showTags": [],
+          "createTime": 1776996962000,
+          "ipLocation": "陕西",
+          "targetComment": {
+            "id": "69eac807000000001401e41b",
+            "userInfo": {
+              "userId": "5bfa92d7dc17a9000178dd0f",
+              "nickname": "萨奇的Coding笔记",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rd6k787a004btssm9dfn8f6hurvtg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtBvCEHbbCgSgj07AQJ5m80eOz0nM0Rsu2MdghEJN2wQ="
+            }
+          },
+          "noteId": "69eabdd3000000001a02e4e8",
+          "content": "确实[笑哭R]",
+          "atUsers": []
+        }
+      ],
+      "noteId": "69eabdd3000000001a02e4e8",
+      "content": "我感觉好多是错的[笑哭R]",
+      "userInfo": {
+        "userId": "5bfa92d7dc17a9000178dd0f",
+        "nickname": "萨奇的Coding笔记",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rd6k787a004btssm9dfn8f6hurvtg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtBvCEHbbCgSgj07AQJ5m80eOz0nM0Rsu2MdghEJN2wQ="
+      },
+      "ipLocation": "浙江",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "showTags": [],
+      "subCommentCursor": "69ead2610000000014018c13",
+      "id": "69eac807000000001401e41b",
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "1",
+      "atUsers": [],
+      "likeCount": "7",
+      "createTime": 1776994312000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69eabdd3000000001a02e4e8",
+      "content": "只能添加老师不能添加学校吗，有点不合理了",
+      "subComments": [],
+      "id": "69eac87a000000001401a016",
+      "atUsers": [],
+      "createTime": 1776994426000,
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "likeCount": "3",
+      "showTags": [],
+      "subCommentCount": "0",
+      "liked": false,
+      "userInfo": {
+        "userId": "61161ee2000000000100568d",
+        "nickname": "QuixoteZ",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61eda4b82da58874252ea515.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5zCyz7Mf9fy8RijgfhVWJfhUIS_zDEwD-uskrXQmM4Y="
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69eae367000000001401e02d",
+      "content": "好乱啊[笑哭R]看了几个老师评论都是乱的",
+      "showTags": [],
+      "ipLocation": "美国",
+      "noteId": "69eabdd3000000001a02e4e8",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "68545870000000001b01a5ef",
+        "nickname": "xswl",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rqnd9dvia605q2kb1o6r9ffkb92g90?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABED8AyRq94q5WOr_k2pyZKDM6dLoVWyiMt9UB77uwMuw="
+      },
+      "createTime": 1777001320000,
+      "status": 0,
+      "likeCount": "6",
+      "invalid": false,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 避雷",
+  "search_item": {
+    "noteCard": {
+      "cover": {
+        "height": 1642,
+        "width": 2436,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041938/2179d9bbfe0313d657c9422e76772620/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041938/b8ac6e4574143e217958aeb799de49e1/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1642,
+          "width": 2436,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041938/2179d9bbfe0313d657c9422e76772620/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041938/b8ac6e4574143e217958aeb799de49e1/notes_pre_post/1040g3k831vatq4uo2al04a5hcgfi57vqc8harbo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "04-24"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "好家伙，发现一个openreview版导师红黑榜",
+      "user": {
+        "xsecToken": "ABp3eA869QWIOERVxnekzBumtNZIUcRDse28A0Iw4Z-70=",
+        "nickName": "🤔",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321cfrn1cnk004a5hcgfi57vqpa4nns8?imageView2/2/w/80/format/jpg",
+        "userId": "5b02df22e8ac2b0e1c479ffa",
+        "nickname": "🤔"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "469",
+        "commentCount": "73",
+        "sharedCount": "1002",
+        "liked": false,
+        "likedCount": "711"
+      }
+    },
+    "xsecToken": "ABz8OFueGwkzzlSWAv9GdDIRl5eSGdgulAmmXG3BG8v3M=",
+    "id": "69eabdd3000000001a02e4e8",
+    "modelType": "note",
+    "index": 10,
+    "exposed": false,
+    "trackId": "69eabdd3000000001a02e4e8"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "note_id": "6a68c444000000001101f1d6",
+  "url": "https://www.xiaohongshu.com/explore/6a68c444000000001101f1d6?xsec_token=ABOWOz_t0rhEX5A8E6KwT3vNvxmndvhCOss--dyr9hSoc=",
+  "fetched_at": 1785837923.0082107,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs(msc) semA 课表时间可视化参考",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "必修加粗了 蓝色是ai 绿色是ds 黄色是is\n每天课从11点开始 3个小时是一节课\n#选课[话题]# #港城大[话题]# #cityu[话题]# #msc[话题]# #cs[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5481是不是时间填错了，我看主课是12.00到13.50",
+      "sourceRef": "comment:6a695163000000002a02f568",
+      "commentId": "6a695163000000002a02f568",
+      "likes": 0,
+      "author": "肉蛋奶鱼虾贝"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我去检查一下 可能昨晚做的有点急",
+      "sourceRef": "comment:6a696494000000000403bafa",
+      "commentId": "6a696494000000000403bafa",
+      "likes": 0,
+      "author": "HIlowen"
+    },
+    {
+      "type": "comment",
+      "text": "5351有晚上的课吗，我的怎么显示没有",
+      "sourceRef": "comment:6a6da4ca000000002902f8e6",
+      "commentId": "6a6da4ca000000002902f8e6",
+      "likes": 0,
+      "author": "noteabefit"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有 你看的是自己的课表还是整个课程列表？下午的课是c01晚上的课是c02",
+      "sourceRef": "comment:6a6e04480000000005016e97",
+      "commentId": "6a6e04480000000005016e97",
+      "likes": 0,
+      "author": "HIlowen"
+    },
+    {
+      "type": "comment",
+      "text": "uu搜索课表的时候unit和subject选的是什么呀",
+      "sourceRef": "comment:6a6c1ec7000000001500297e",
+      "commentId": "6a6c1ec7000000001500297e",
+      "likes": 0,
+      "author": "kismet"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都是computer science",
+      "sourceRef": "comment:6a6c52df0000000009017e5e",
+      "commentId": "6a6c52df0000000009017e5e",
+      "likes": 0,
+      "author": "HIlowen"
+    },
+    {
+      "type": "comment",
+      "text": "5285今年好像改名了？",
+      "sourceRef": "comment:6a6c9e9b000000001500409b",
+      "commentId": "6a6c9e9b000000001500409b",
+      "likes": 0,
+      "author": "想要躺在沙发数钱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "居然这样 我没留意 已换源",
+      "sourceRef": "comment:6a6cb0f70000000005009604",
+      "commentId": "6a6cb0f70000000005009604",
+      "likes": 0,
+      "author": "HIlowen"
+    },
+    {
+      "type": "comment",
+      "text": "加油加油",
+      "sourceRef": "comment:6a696b23000000000d021400",
+      "commentId": "6a696b23000000000d021400",
+      "likes": 0,
+      "author": "TENNISCOACHHK"
+    }
+  ]
+}

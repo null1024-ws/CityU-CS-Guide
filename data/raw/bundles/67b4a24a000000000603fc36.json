@@ -1,0 +1,178 @@
+{
+  "note_id": "67b4a24a000000000603fc36",
+  "url": "https://www.xiaohongshu.com/explore/67b4a24a000000000603fc36?xsec_token=ABqxWwEv1HKNF-fj3aCh22VnZmhsq_kUbUGep6qep5N74=",
+  "fetched_at": 1785842926.1816723,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NTU MSAI课程体验(上)",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "先叠甲勿盒勿喷））由于目前只来了一个多学期，有不完善的地方请多多谅解 体验具有主观性 仅仅是从出勤视角得到的纯上课体验，希望给大家一些参考\n我自己是24fall，之前由于扩招必修课分成了AB两个组不同老师授课，这学期好像又合到一起了。其他方面的话，老师和同学们都很友善 总体课业压力有但不算大(大概6/10)，有充足的时间可以开放世界RPG(bushi)秋招或者搞研究 资源和机会还是挺多的毕竟有很多AP 但强组就那么几个卷度绝对在线\n以下是正题(上半是Group A)\n\t\n一共四门必修课，最新的毕业要求是除了四门必修外，可以再选四门选修，或者三门选修➕一项毕业研究，或者三门选修➕一段毕业实习(🇸🇬本地)\n1.Math for AI 人工智能数学基础 必修\nAdam Kong(项目主任)亲自教，Singlish口音有点重但还算能听懂。内容难度和考试都比大一的高数简单，只是涵盖得比较广加上带了点梯度下降的intuition比如链式求导, Jaccobian, Hessian矩阵等等。比较遗憾的是没有涉及到非凸优化，选修课里也没找到解释高级优化技巧的。另外开卷quiz打印费花的太多…结果闭卷不带计算器也照样做\n2.Machine Learning 机器学习 必修\n授课老师是Hanwang Zhang，语速慢发音好评。内容很基础，用教授自己的话来讲都已经“outdated”，quiz很简单不用担心不通过，老师很“mercy”。课设是打Kaggle比赛。基本上不用管先修数学的要求。后面几节不考的内容难度曲线不平滑 今年还加了流模型 听得一脸懵逼 最后还有个印度教授来冒了个泡，讲宏观层面的模型bias\n3.Deep Learning 深度学习 必修\n授课老师是Li Boyang，有标准美式口音(在坡算很难听到)大家公认最严的一个老师，形式上的要求很多。内容干货不少，quiz很难考完全场破防，但最后给分还过得去。是需要用心对待的一门课也是必修里最推荐的一门。中途有业界嘉宾来分享\n字数不够了[流汗R]剩下的这些课见下篇吧\nComputer Vision 计算机视觉\nAdvanced Computer Vision 高级计算机视觉\nTime Series Analysis 时间序列分析\nLarge Language Models 大语言模型\n#NTU人工智能[话题]# #NTUAI[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "感觉ai和ds课业压力都不大，不如eee是真疯狂[doge]",
+      "sourceRef": "comment:67b590bc00000000190176a1",
+      "commentId": "67b590bc00000000190176a1",
+      "likes": 3,
+      "author": "Spectrum"
+    },
+    {
+      "type": "sub_comment",
+      "text": "@DinoK @带毛椰子🥥",
+      "sourceRef": "comment:67b5b23e00000000190074b6",
+      "commentId": "67b5b23e00000000190074b6",
+      "likes": 0,
+      "author": "humo拉比"
+    },
+    {
+      "type": "comment",
+      "text": "请问 和robotics相关的课程 有lab session吗",
+      "sourceRef": "comment:67f0155b00000000120235dd",
+      "commentId": "67f0155b00000000120235dd",
+      "likes": 0,
+      "author": "Wowo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们学院没有robotics的课 得去MAE或者nus robotics",
+      "sourceRef": "comment:67f0d7c6000000001e00f59b",
+      "commentId": "67f0d7c6000000001e00f59b",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "想问下学长，毕业研究是跟着导师做项目吗？有机会发文章或者继续读博吗？以及留坡难度如何呢？[偷笑R]",
+      "sourceRef": "comment:67bfea50000000001b03c659",
+      "commentId": "67bfea50000000001b03c659",
+      "likes": 0,
+      "author": "NSTART"
+    },
+    {
+      "type": "sub_comment",
+      "text": "发文章的机会很多 取决于导师但能不能出成果还是要结合自身水平；留坡真正想留的话我感觉难度不算高 但会有一些取舍比如岗位方向",
+      "sourceRef": "comment:67c028b500000000160328f1",
+      "commentId": "67c028b500000000160328f1",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问本科一定要CS专业吗？EEE可申吗？",
+      "sourceRef": "comment:67d280f20000000018006e75",
+      "commentId": "67d280f20000000018006e75",
+      "likes": 0,
+      "author": "小红薯63667142"
+    },
+    {
+      "type": "sub_comment",
+      "text": "跨专业对背景要求更高 如果真的热爱不妨一试",
+      "sourceRef": "comment:67d2aae6000000001801330d",
+      "commentId": "67d2aae6000000001801330d",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "还想请教学长选project和直接跟老师说想进组学习会有什么差别呢～因为想试试在新加坡找份实习。感谢学长指点！！[合十R]",
+      "sourceRef": "comment:694f9ff5000000001d025630",
+      "commentId": "694f9ff5000000001d025630",
+      "likes": 0,
+      "author": "小红薯69462F26"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个最好私聊哦",
+      "sourceRef": "comment:695865aa0000000016024423",
+      "commentId": "695865aa0000000016024423",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下学长计算器咋选择鸭。马上msai入学，要提交计算器的信息。款式琳琅满目的都搜不到",
+      "sourceRef": "comment:682452d8000000000401f826",
+      "commentId": "682452d8000000000401f826",
+      "likes": 0,
+      "author": "AfterWind"
+    },
+    {
+      "type": "sub_comment",
+      "text": "国内买的991最好用 能计算三阶矩阵就OK",
+      "sourceRef": "comment:6825c5f5000000000400ac7d",
+      "commentId": "6825c5f5000000000400ac7d",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下学长接着留读博的机会大吗，已经拿到了msai，想留着接着读，但又怕一年出不了东西",
+      "sourceRef": "comment:67f3c84c000000001e030333",
+      "commentId": "67f3c84c000000001e030333",
+      "likes": 0,
+      "author": "AfterWind"
+    },
+    {
+      "type": "sub_comment",
+      "text": "努力和运气都得沾一点[笑哭R]",
+      "sourceRef": "comment:67f4320f0000000012030743",
+      "commentId": "67f4320f0000000012030743",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "学长，下午好[飞吻R]想请问一下学长AI的课都是在主校区吗？会不会有one-north校区的课呀",
+      "sourceRef": "comment:684170b4000000001c031e04",
+      "commentId": "684170b4000000001c031e04",
+      "likes": 0,
+      "author": "AfterWind"
+    },
+    {
+      "type": "sub_comment",
+      "text": "都是在主校区",
+      "sourceRef": "comment:68417621000000001c01c8a8",
+      "commentId": "68417621000000001c01c8a8",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "想问问有没有规定第一个学期要选几个core，是课表里的课随便选最多五门吗",
+      "sourceRef": "comment:687ccf25000000001a02de07",
+      "commentId": "687ccf25000000001a02de07",
+      "likes": 0,
+      "author": "我"
+    },
+    {
+      "type": "sub_comment",
+      "text": "至少一门 最多五门（含project)",
+      "sourceRef": "comment:68809ed000000000010208e0",
+      "commentId": "68809ed000000000010208e0",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "学长好~ 想请教您一下机器学习这门课最后的开卷考具体的考试形式是什么样的鸭。我看现在的课上和作业都是在用数学推导公式这些的。请问最后的考试也会考推导吗，还是考啥鸭[哭惹R][哭惹R][哭惹R][哭惹R]",
+      "sourceRef": "comment:68fc5010000000003102cb60",
+      "commentId": "68fc5010000000003102cb60",
+      "likes": 0,
+      "author": "AfterWind"
+    },
+    {
+      "type": "sub_comment",
+      "text": "去年只有最后一道题是推导，今年我不太清楚哈",
+      "sourceRef": "comment:68fcb1d10000000033020ace",
+      "commentId": "68fcb1d10000000033020ace",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    }
+  ]
+}

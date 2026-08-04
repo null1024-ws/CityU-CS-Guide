@@ -1,0 +1,43 @@
+{
+  "note_id": "b153253a-a498-4f90-a8f0-0d7807878e82",
+  "url": "https://www.xiaohongshu.com/explore/b153253a-a498-4f90-a8f0-0d7807878e82?xsec_token=ABSbMM6gjogmKE16DI03tvALkqK95dFRh1PpTv2MLBLd8Z3qk78AzTIr_5vRFxasV13h7UnmHrVfI-ArlL2r7vgtarmaWYBsap7uVarEv26NU=",
+  "fetched_at": 1785838809.5332148,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS5282",
+  "search_item": {
+    "xsecToken": "ABSbMM6gjogmKE16DI03tvALkqK95dFRh1PpTv2MLBLd8Z3qk78AzTIr_5vRFxasV13h7UnmHrVfI-ArlL2r7vgtarmaWYBsap7uVarEv26NU=",
+    "id": "b153253a-a498-4f90-a8f0-0d7807878e82#1785838813153",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "b153253a-a498-4f90-a8f0-0d7807878e82#1785838813153",
+      "queries": [
+        {
+          "id": "cityu cs 5487课程评价",
+          "name": "cityu cs 5487课程评价",
+          "searchWord": "cityu cs 5487课程评价"
+        },
+        {
+          "searchWord": "cityu ped1305测验",
+          "id": "cityu ped1305测验",
+          "name": "cityu ped1305测验"
+        },
+        {
+          "name": "cityu cs 6491课程体验",
+          "searchWord": "cityu cs 6491课程体验",
+          "id": "cityu cs 6491课程体验"
+        },
+        {
+          "id": "cityu cs 6382课程",
+          "name": "cityu cs 6382课程",
+          "searchWord": "cityu cs 6382课程"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "b153253a-a498-4f90-a8f0-0d7807878e82#1785838813153"
+  }
+}

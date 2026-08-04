@@ -1,0 +1,318 @@
+{
+  "note_id": "6a6b2eb500000000220118c2",
+  "url": "https://www.xiaohongshu.com/explore/6a6b2eb500000000220118c2?xsec_token=AB18E15xyRqwCLne7RQOKEMZ7-dASUbDvUEJdH2TJfa9o=",
+  "fetched_at": 1785841915.0260992,
+  "note": {
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "2026年的GMTK Game Jam，游戏引擎排行榜变天了！\n\t\n刚刚结束的第10届GMTK Game Jam（），总共提交了 10777部 游戏作品！其中可查引擎的10511个里\n\t\n🥇 Godot 占比 47%（接近一半！）\n🥈 Unity 占比 34%（首次被反超，差距超10%）\n🥉 GameMaker 5%\n🏅 Unreal Engine 3%\n\t\n要知道往年Unity可是绝对霸主，这次被Godot弯道超车，真的有点“开源逆袭”那味儿了\n\t\n开发者们纷纷表示：Godot轻量、免费、开源、更新快，尤其适合Jam这种极限开发场景。\nUnity这两年政策风波不断，不少人默默转了阵营……\n\t\n当然，Epic家的Unreal Engine还是稳坐“画质天花板”，但Jam这种短平快项目确实不太吃香～\n\t\n#GMTKGameJam[话题]#  #Godot[话题]#  #Unity[话题]#  #游戏开发[话题]#  #独立游戏[话题]#  #游戏引擎[话题]#  #开源软件[话题]# #steam游戏[话题]#   #UE5[话题]##游戏设计[话题]#",
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041912/6fdc7a0e4afbe759193dca8cad7461f0/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041912/dea6a269d8002380dd3191b17dec9b47/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041912/6fdc7a0e4afbe759193dca8cad7461f0/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041912/dea6a269d8002380dd3191b17dec9b47/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg",
+        "height": 908
+      },
+      {
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041912/55d500790c6225c3d3b309f472995afe/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041912/aff9f1d7a5436c0b331dff8c819f836c/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041912/55d500790c6225c3d3b309f472995afe/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041912/aff9f1d7a5436c0b331dff8c819f836c/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "height": 607,
+        "width": 1080,
+        "traceId": "",
+        "stream": {},
+        "fileId": "spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "666bf1f60000000003019dcb",
+        "name": "GMTKGameJam",
+        "type": "topic"
+      },
+      {
+        "name": "Godot",
+        "type": "topic",
+        "id": "62d573cc000000000101d1eb"
+      },
+      {
+        "id": "5dba5e060000000002000b02",
+        "name": "Unity",
+        "type": "topic"
+      },
+      {
+        "id": "5be2946470ef8200013ad896",
+        "name": "游戏开发",
+        "type": "topic"
+      },
+      {
+        "id": "5f78389f000000000101feb7",
+        "name": "独立游戏",
+        "type": "topic"
+      },
+      {
+        "id": "611dd15600000000010022f5",
+        "name": "游戏引擎",
+        "type": "topic"
+      },
+      {
+        "id": "61204e230000000001006a05",
+        "name": "开源软件",
+        "type": "topic"
+      },
+      {
+        "id": "5c4192fd000000000d010b47",
+        "name": "steam游戏",
+        "type": "topic"
+      },
+      {
+        "id": "612a10a30000000001004ed4",
+        "name": "UE5",
+        "type": "topic"
+      },
+      {
+        "id": "5c9af688000000000f011cec",
+        "name": "游戏设计",
+        "type": "topic"
+      }
+    ],
+    "time": 1785409206000,
+    "ipLocation": "海南",
+    "noteId": "6a6b2eb500000000220118c2",
+    "type": "normal",
+    "title": "🎮游戏圈大地震！Godot首次干掉Unity~",
+    "user": {
+      "nickname": "永辉游戏",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ckqr6tagm6g5phlqt81ogmvqsjtroo",
+      "xsecToken": "ABtR19jOISQwUvvGTq274ycvMpjnE1IiGm86yiqmmpgcM=",
+      "userId": "6635d75000000000070042df"
+    },
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "14",
+      "likedCount": "22",
+      "collectedCount": "7",
+      "shareCount": "6",
+      "followed": false
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1785409206000,
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMZ7-dASUbDvUEJdH2TJfa9o="
+  },
+  "comments": [
+    {
+      "createTime": 1785409753000,
+      "ipLocation": "上海",
+      "subCommentCursor": "6a6b331d000000000802d57c",
+      "id": "6a6b30d800000000050092c9",
+      "content": "godot能打ps和xb的包吗",
+      "subCommentCount": "10",
+      "subCommentHasMore": true,
+      "noteId": "6a6b2eb500000000220118c2",
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a6b331d000000000802d57c",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABPUZIqZguuCxO1Pob5jJKg4A9JxdkZxfAT5GGltJCuZQ=",
+            "userId": "5c6c15b80000000012017d61",
+            "nickname": "Taobe",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31smpirpule005n3c2ms4ivb1hn0ccqg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a6b30d800000000050092c9",
+            "userInfo": {
+              "nickname": "开心饲养员",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r022f38n25g5pgif5vgu8b4la0pf20?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABg09oah1jZd37RZ1_XEJU8PrZ6P-PWd77Y_V0eo836Hg=",
+              "userId": "6612797f0000000003032164"
+            }
+          },
+          "noteId": "6a6b2eb500000000220118c2",
+          "content": "官方有个服务处理打包和授权",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1785410334000
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABg09oah1jZd37RZ1_XEJU8PrZ6P-PWd77Y_V0eo836Hg=",
+        "userId": "6612797f0000000003032164",
+        "nickname": "开心饲养员",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r022f38n25g5pgif5vgu8b4la0pf20?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "content": "空头整天拿unity风波说事，仔细一看都是5年前的事了，就算按收入分成也比ue收的少。至于godot，就是路边，啥也不是。看看游戏工作室和业内，依然用unity最多。",
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "noteId": "6a6b2eb500000000220118c2",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "6a5a73c7000000000f03b401",
+            "nickname": "尘世",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322o0vjujnu605qiqef3jvd01d2cfgv0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZRhtb998i7QOjZ_c2tEP1lXm0k0QwdE0zcBz4HtIOsA="
+          },
+          "showTags": [],
+          "createTime": 1785561937000,
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a6d8342000000000802cc2e",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABZRhtb998i7QOjZ_c2tEP1lXm0k0QwdE0zcBz4HtIOsA=",
+              "userId": "6a5a73c7000000000f03b401",
+              "nickname": "尘世",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322o0vjujnu605qiqef3jvd01d2cfgv0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6a6d83510000000004039e54",
+          "status": 0,
+          "content": "空头都是同一套说辞，财报出来一看，用unity的公司更多了…",
+          "atUsers": [],
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "6a6d83510000000004039e54",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "6a5a73c7000000000f03b401",
+        "nickname": "尘世",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322o0vjujnu605qiqef3jvd01d2cfgv0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZRhtb998i7QOjZ_c2tEP1lXm0k0QwdE0zcBz4HtIOsA="
+      },
+      "ipLocation": "上海",
+      "subCommentHasMore": true,
+      "id": "6a6d8342000000000802cc2e",
+      "noteId": "6a6b2eb500000000220118c2",
+      "status": 0,
+      "createTime": 1785561923000,
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6175 VR game engine",
+  "search_item": {
+    "id": "6a6b2eb500000000220118c2",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 908,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/b76b608554ec4d181a94aeddca9c3f53/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/9fd16e4ed6cbacae954c86b30abad6ba/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 607,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/5aa9c3277f959242d90bb9aa23450cc2/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041911/a0e3ce330146f00de42b64958b967940/spectrum/1040g34o3238betjh6s105phlqt81ogmvaf2af9o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "5天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "🎮游戏圈大地震！Godot首次干掉Unity~",
+      "user": {
+        "xsecToken": "ABFFApeUHqTA7lFYdjxHAYVYHHY9oIboYGage9WuyBnwo=",
+        "nickName": "永辉游戏",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ckqr6tagm6g5phlqt81ogmvqsjtroo?imageView2/2/w/80/format/jpg",
+        "userId": "6635d75000000000070042df",
+        "nickname": "永辉游戏"
+      },
+      "interactInfo": {
+        "commentCount": "14",
+        "sharedCount": "6",
+        "liked": false,
+        "likedCount": "22",
+        "collected": false,
+        "collectedCount": "7"
+      },
+      "cover": {
+        "height": 908,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041911/b76b608554ec4d181a94aeddca9c3f53/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041911/9fd16e4ed6cbacae954c86b30abad6ba/spectrum/1040g0k03238beh0o70005phlqt81ogmvei4fdcg!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "AB18E15xyRqwCLne7RQOKEMZ7-dASUbDvUEJdH2TJfa9o=",
+    "index": 2,
+    "exposed": true,
+    "trackId": "6a6b2eb500000000220118c2"
+  }
+}

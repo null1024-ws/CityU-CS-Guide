@@ -1,0 +1,43 @@
+{
+  "note_id": "c6815c07-f8e4-4444-a607-659a3835266c",
+  "url": "https://www.xiaohongshu.com/explore/c6815c07-f8e4-4444-a607-659a3835266c?xsec_token=ABekM50vkM5XFykBwKdDgVzWTqN3xtXnkZx3qbx3R3dpbPDWXNGWQUBmAUC7Idopi62BoqoT1BeQlkq5Kys25SyPe3CTVVvN8nA3q_-TatA3U=",
+  "fetched_at": 1785838573.9812264,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5282 给分",
+  "search_item": {
+    "id": "c6815c07-f8e4-4444-a607-659a3835266c#1785838564620",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "c6815c07-f8e4-4444-a607-659a3835266c#1785838564620",
+      "queries": [
+        {
+          "id": "cs综合得分",
+          "name": "cs综合得分",
+          "searchWord": "cs综合得分"
+        },
+        {
+          "id": "csgo分数",
+          "name": "csgo分数",
+          "searchWord": "csgo分数"
+        },
+        {
+          "id": "cs上分",
+          "name": "cs上分",
+          "searchWord": "cs上分"
+        },
+        {
+          "name": "cs分数",
+          "searchWord": "cs分数",
+          "id": "cs分数"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "xsecToken": "ABekM50vkM5XFykBwKdDgVzWTqN3xtXnkZx3qbx3R3dpbPDWXNGWQUBmAUC7Idopi62BoqoT1BeQlkq5Kys25SyPe3CTVVvN8nA3q_-TatA3U=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "c6815c07-f8e4-4444-a607-659a3835266c#1785838564620"
+  }
+}

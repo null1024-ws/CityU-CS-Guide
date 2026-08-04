@@ -1,0 +1,106 @@
+{
+  "note_id": "697f0490000000002102b888",
+  "url": "https://www.xiaohongshu.com/explore/697f0490000000002102b888?xsec_token=ABE-W7pOm8uGXf7CLu_D57UxHvjtlWpkpDpKsSX2sCKS0=",
+  "fetched_at": 1785840328.1167464,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "悉大CS 25S2测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "依然是半工全读的一学期，物欲不高从而实现了打工Cover生活费➕房租嘿嘿，课程强度不大成绩还过得去性价比不错，最遗憾5348因为粗心差考的很差一点点D😭\n\t\nCOMP5348: 后端八股，课程内容可以但不多，个人作业不难，两个task用时0.5～1小时，两个Ass用时4-5小时，全部可以用AI解决，基本上大家都是满分。小组作业有点东西，4个人开发小型微服务，遇上菜b队友的话工作量将非常大，感觉这门课每个组平均有一半的人是做不了什么活的（比如我的台湾队友git根本不会用全靠upload files…写出来的东西是纯AI甚至没参考其他服务所以需要几乎重来，我最后和另一个哥连麦猛干15小时才让整个项目看起来没问题），给分很松感觉也是人均满分或者扣1分，期末2面cheatsheet ，考的有点超纲不在lecture 里，给分非常手紧甚至感觉有些地方纯硬扣…\n\t\nCSYS5030: 信息论，内容不多感觉和数学推导关系不小，没期末，第一个作业不难AI可以完全解决，用时7-8小时，论文Proposal 感觉给分全看老师，字数限制很严格所以他总能找到你没写完善的东西，我的评分tutor也是比较手紧但是提出的问题也是比较清晰合理（听说有些老师连指出问题都指不明白），final pre完全按照tutor给的建议去改尽管能看出他还在控分但最终分数应该也不算低（接近85），用时4-5天，总体来说性价比不错，但是听说下一次课可能会有期末了\n\t\nIDEA9106: 设计课，没期末简单轻松给分高但请please extremely no doubt that避雷印度mean姐史瓦塔，语速飞快，原型展示居然有2/4个组（其中一个还是纯设计学生）拿40多50分这就不能是我的偏见了😤第一个个人作业她因我的参考文献格式只因为没有完全按照格式（没有斜体）那部分直接判C里的几乎最低的分，面对面argue了一个小时没招了，给分看组，好的组分数不错但别的组分数烂的无下限非常的心狠手辣，由于我第一个作业后直接摆烂所以整门课的作业一共用时25小时左右\n\t\nINFO5990: 文科课，印度mean哥tutor也是非常的心狠手辣，口试3个题我答的都到点了也只有80，report 最初的给分已知至少3个组45-50分，后面都重新改分了但其实也还是不高，期末乱给分大放水🙃\n\t\n总体而言这是被各位tutor mean爆炸的一学期🥲",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "救命，悉大cs很多口试吗，我转cs的一部分原因就是不想在商科整天做presentation[泪崩R]",
+      "sourceRef": "comment:6982bf2b00000000090044bb",
+      "commentId": "6982bf2b00000000090044bb",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有要求很严格的，实际上很多人英语都说不明白，和商科的pre没有可比性",
+      "sourceRef": "comment:6983fc2a00000000090200ab",
+      "commentId": "6983fc2a00000000090200ab",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "下学期求求了给我一些好tutor吧[哭惹R]下学期5318还需要组队🙋‍♀️",
+      "sourceRef": "comment:697f0632000000000c00bd75",
+      "commentId": "697f0632000000000c00bd75",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我当你tutor 直接给你HD",
+      "sourceRef": "comment:697f4127000000000503a957",
+      "commentId": "697f4127000000000503a957",
+      "likes": 0,
+      "author": "戴珍珠耳环的蛋"
+    },
+    {
+      "type": "comment",
+      "text": "5348后端开发是啥语言jaba吗还是啥",
+      "sourceRef": "comment:6a3922ef0000000015015617",
+      "commentId": "6a3922ef0000000015015617",
+      "likes": 0,
+      "author": "柒."
+    },
+    {
+      "type": "sub_comment",
+      "text": "Java spring boot",
+      "sourceRef": "comment:6a3a254e00000000150166c4",
+      "commentId": "6a3a254e00000000150166c4",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问上5348之前要不要先学一些web基础呢有没有什么推荐的前置课呀 学过前端开发用过vue+springboot但是感觉啥也不会能学懂吗[哭惹R]",
+      "sourceRef": "comment:6a3026a3000000002800abbe",
+      "commentId": "6a3026a3000000002800abbe",
+      "likes": 0,
+      "author": "Feb."
+    },
+    {
+      "type": "sub_comment",
+      "text": "学了5347再来5348吧，起码得知道点后端开发",
+      "sourceRef": "comment:6a30a2580000000029012792",
+      "commentId": "6a30a2580000000029012792",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "问下学长5030的pre是视频还是线下的[合十R]",
+      "sourceRef": "comment:6a423c6700000000290244de",
+      "commentId": "6a423c6700000000290244de",
+      "likes": 0,
+      "author": "曰辰日"
+    },
+    {
+      "type": "comment",
+      "text": "5030要是有期末感觉得提桶🪣跑路了[捂脸R]",
+      "sourceRef": "comment:697f07fd000000000f02a219",
+      "commentId": "697f07fd000000000f02a219",
+      "likes": 1,
+      "author": "Fluffy&Luna"
+    },
+    {
+      "type": "sub_comment",
+      "text": "包的，因为没咋学写report 的时候我都是Chatgpt Claude Gemini各位大师轮流审查对方结果的，我都已经无法判断他做的对不对了[失望R]",
+      "sourceRef": "comment:697f08bc00000000080313be",
+      "commentId": "697f08bc00000000080313be",
+      "likes": 1,
+      "author": "momo"
+    }
+  ]
+}

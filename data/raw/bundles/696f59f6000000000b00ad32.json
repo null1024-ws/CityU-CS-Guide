@@ -1,0 +1,106 @@
+{
+  "note_id": "696f59f6000000000b00ad32",
+  "url": "https://www.xiaohongshu.com/explore/696f59f6000000000b00ad32?xsec_token=ABBJGws1go1BSXZ9YaklAQr53KfBQzeOSrmOPqMCaO7a8=",
+  "fetched_at": 1785839168.2982497,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Security对web和移动安全这么不友好吗😂",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "USENIX Security对web和移动安全这么不友好吗[捂脸R]才9.8%\n数据是USENIX Security 2026第一轮的统计\n#usenixsecurity2026[话题]# #学术圈[话题]# #论文投稿[话题]# #计算机安全[话题]# #网络安全[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "Hardware Security真的好高啊[偷笑R]",
+      "sourceRef": "comment:696f673200000000050393b2",
+      "commentId": "696f673200000000050393b2",
+      "likes": 0,
+      "author": "不想当港漂的歌手不是好博士"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不知道他们cycle2会不会平衡一下[捂脸R]",
+      "sourceRef": "comment:696f6925000000000601cc28",
+      "commentId": "696f6925000000000601cc28",
+      "likes": 0,
+      "author": "骑老奶奶闯红灯"
+    },
+    {
+      "type": "comment",
+      "text": "软件安全也很低啊",
+      "sourceRef": "comment:696f7346000000000c00bab2",
+      "commentId": "696f7346000000000c00bab2",
+      "likes": 2,
+      "author": "Carl"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不过那个主要是程序分析和恶意软件检测，我感觉偏pl多一些？",
+      "sourceRef": "comment:696faf7400000000040025e7",
+      "commentId": "696faf7400000000040025e7",
+      "likes": 2,
+      "author": "骑老奶奶闯红灯"
+    },
+    {
+      "type": "comment",
+      "text": "佬，这个数据是从哪获取的呀，我在官网 usenixsecurity25/technical-sessions 没找到",
+      "sourceRef": "comment:69d7b5b8000000002b02bea9",
+      "commentId": "69d7b5b8000000002b02bea9",
+      "likes": 0,
+      "author": "小红薯69C64FE6"
+    },
+    {
+      "type": "sub_comment",
+      "text": "嗯，您在security25官网上肯定是找不到的，因为这个是security26的数据[捂脸R]",
+      "sourceRef": "comment:69d7c25c0000000002029bb4",
+      "commentId": "69d7c25c0000000002029bb4",
+      "likes": 0,
+      "author": "骑老奶奶闯红灯"
+    },
+    {
+      "type": "comment",
+      "text": "mean reviewer[doge]我collaborator投了n遍才中，每遍都挨骂骂骂不一样",
+      "sourceRef": "comment:696ff2e300000000180222d0",
+      "commentId": "696ff2e300000000180222d0",
+      "likes": 0,
+      "author": "Du3t1n"
+    },
+    {
+      "type": "comment",
+      "text": "web还有啥能做的吗[doge]",
+      "sourceRef": "comment:698748e0000000000f02644c",
+      "commentId": "698748e0000000000f02644c",
+      "likes": 0,
+      "author": "萝卜墩"
+    },
+    {
+      "type": "sub_comment",
+      "text": "您这个IP的话，web3应该可以[doge]",
+      "sourceRef": "comment:69877bf3000000000600f7ed",
+      "commentId": "69877bf3000000000600f7ed",
+      "likes": 0,
+      "author": "骑老奶奶闯红灯"
+    },
+    {
+      "type": "comment",
+      "text": "crypto投稿量这么大？ml 反而没那么多？[笑哭R]",
+      "sourceRef": "comment:696f86ce000000000600bb7c",
+      "commentId": "696f86ce000000000600bb7c",
+      "likes": 3,
+      "author": "A会批发王哥"
+    },
+    {
+      "type": "sub_comment",
+      "text": "安全四大对ai有限制，必须与安全有强相关性才允许投。crypto一直投稿量很大，光是专门的A会就有美密欧密，B会有亚密 PKC TCC。而且这五个会偏理论，所以应用密码就往安全四大和期刊投递。这下知道谁才是security老大了吧[自拍R]",
+      "sourceRef": "comment:696f8b5d000000000c00b1eb",
+      "commentId": "696f8b5d000000000c00b1eb",
+      "likes": 11,
+      "author": "momo"
+    }
+  ]
+}

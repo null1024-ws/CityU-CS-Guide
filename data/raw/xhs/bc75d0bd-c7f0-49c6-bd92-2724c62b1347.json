@@ -1,0 +1,43 @@
+{
+  "note_id": "bc75d0bd-c7f0-49c6-bd92-2724c62b1347",
+  "url": "https://www.xiaohongshu.com/explore/bc75d0bd-c7f0-49c6-bd92-2724c62b1347?xsec_token=ABsQMDLTS3FkDyhU04JF-aPQ9cyj86qqxW5aRqZqgxWc9n42ikRv-cfLaup9HhhLvQNTXUL0My2pS7UozzE9ukILdLa0o4zwjodyNkB19ApwA=",
+  "fetched_at": 1785840409.747193,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5348 给分",
+  "search_item": {
+    "xsecToken": "ABsQMDLTS3FkDyhU04JF-aPQ9cyj86qqxW5aRqZqgxWc9n42ikRv-cfLaup9HhhLvQNTXUL0My2pS7UozzE9ukILdLa0o4zwjodyNkB19ApwA=",
+    "id": "bc75d0bd-c7f0-49c6-bd92-2724c62b1347#1785840400311",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "bc75d0bd-c7f0-49c6-bd92-2724c62b1347#1785840400311",
+      "queries": [
+        {
+          "id": "csgo官匹段位等级",
+          "name": "csgo官匹段位等级",
+          "searchWord": "csgo官匹段位等级"
+        },
+        {
+          "id": "cs段位图",
+          "name": "cs段位图",
+          "searchWord": "cs段位图"
+        },
+        {
+          "id": "cs综合得分",
+          "name": "cs综合得分",
+          "searchWord": "cs综合得分"
+        },
+        {
+          "name": "cs官匹分数对应",
+          "searchWord": "cs官匹分数对应",
+          "id": "cs官匹分数对应"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "bc75d0bd-c7f0-49c6-bd92-2724c62b1347#1785840400311"
+  }
+}

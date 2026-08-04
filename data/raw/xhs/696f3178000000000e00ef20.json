@@ -1,0 +1,254 @@
+{
+  "note_id": "696f3178000000000e00ef20",
+  "url": "https://www.xiaohongshu.com/explore/696f3178000000000e00ef20?xsec_token=ABBJGws1go1BSXZ9YaklAQr2-poU9eat3ur-YtyQAvN3g=",
+  "fetched_at": 1785842418.0812707,
+  "note": {
+    "xsecToken": "ABBJGws1go1BSXZ9YaklAQr2-poU9eat3ur-YtyQAvN3g=",
+    "imageList": [
+      {
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041920/fb2715c07e3a2ca49dd78ed69eceb8d2/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31ri68df6gal05ot6vu29i92iroas25g",
+        "width": 1010,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041920/62093bed3b0400d87bf38c9bb3ac4b25/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041920/fb2715c07e3a2ca49dd78ed69eceb8d2/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041920/62093bed3b0400d87bf38c9bb3ac4b25/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "height": 180,
+        "url": ""
+      }
+    ],
+    "lastUpdateTime": 1769196232000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "696f3178000000000e00ef20",
+    "type": "normal",
+    "desc": "也是出分了，借此机会对本学期的课程做一个总结，供学弟学妹们参考。\n首先说明，从学到东西的角度看，这五门都是好课，收获很大，如果想提升自己冲这些就对了。以下内容主要从workload和考试难度两方面评价。\n个人bg:几乎没有深度学习知识，有金融背景，课程全勤\n\t\n[一R]7103C：伟大无须多言，虽然叫数据挖掘但教的是RAG/agent相关。workload包括一个个人作业(coding agent)和小组project（自由选题），有一定工作量；final以简答题为主，难度不算高。必选！\n[二R]7607A：伟大无须多言*2，详细讲解NLP相关知识。workload包括两个个人作业(prompt engineering)和小组project（自由选题），有一定工作量，无final（真神）。必选！\n[三R]7606B：夫妻档，很好的深度学习入门课，workload为一个作业（cifar-100)，难度比较高，另一个作业为选做；final以简答题为主，难度不算高，也很推荐！\n[四R]7415:量化课程，大部分是统计学内容。workload为一个小组project（写一个量化策略），有一定难度；final为60道选择+1道大题，相当有难度。整体事情比较少，但如果对这方面不感兴趣的话不太推荐，学起来会很痛苦。\n[五R]7802A:重量级选手，讲各类金融衍生品，期货期权等。workload为两个个人作业（excel)和一个mid quiz，无论是作业还是quiz都不好拿分；final全部是计算题，出考场脑子嗡嗡的。虽然最后给分很不错（感谢）但出分前十分恐慌，考前考后都非常担忧挂科。如果想学知识旁听或许是更好的选择。",
+    "user": {
+      "userId": "63a6ff840000000026012452",
+      "nickname": "呷哺呷哺",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg",
+      "xsecToken": "ABAjHRLMFpVU1RYOYwM30RnUfZ18LUH0mH4jbtIkKYG5k="
+    },
+    "interactInfo": {
+      "collectedCount": "47",
+      "commentCount": "5",
+      "relation": "none",
+      "niceCount": "",
+      "shareCount": "12",
+      "followed": false,
+      "liked": false,
+      "likedCount": "33",
+      "collected": false
+    },
+    "tagList": [],
+    "atUserList": [],
+    "time": 1768894840000,
+    "title": "HKU CS sem1 课程点评"
+  },
+  "comments": [
+    {
+      "noteId": "696f3178000000000e00ef20",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "nickname": "🌲",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dbc27a400000000010041fd.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7s9sf5yjYnnLZHqFseiIEymijtcwmUly7UabfpKpdGo=",
+        "userId": "5dbc27a400000000010041fd"
+      },
+      "subCommentCount": "1",
+      "status": 0,
+      "createTime": 1768916782000,
+      "subCommentCursor": "696f88d4000000001803af97",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "696f872e0000000006032fc4",
+      "content": "7802开这么高[哭惹R][哭惹R][哭惹R]",
+      "showTags": [],
+      "ipLocation": "上海",
+      "subComments": [
+        {
+          "userInfo": {
+            "xsecToken": "AB7Wye0f6jNNrgyxaPpP4Obrv-QH-IUcydvUdZdM_NSR4=",
+            "userId": "63a6ff840000000026012452",
+            "nickname": "呷哺呷哺",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1768917204000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "id": "696f88d4000000001803af97",
+          "content": "我也不敢相信",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5dbc27a400000000010041fd.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB7s9sf5yjYnnLZHqFseiIEymijtcwmUly7UabfpKpdGo=",
+              "userId": "5dbc27a400000000010041fd",
+              "nickname": "🌲"
+            },
+            "id": "696f872e0000000006032fc4"
+          },
+          "noteId": "696f3178000000000e00ef20",
+          "status": 0,
+          "likeCount": "0"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB15tIdY9NF_SQOOx2X-O2uc4tTPyEmkFgDp4jXcNlhvs=",
+        "userId": "563df147a40e184740dd0122",
+        "nickname": "彩虹🌈",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cjkeg1d0s00427986oke092o56qjag?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "ipLocation": "上海",
+      "subCommentCursor": "",
+      "status": 0,
+      "content": "研究生？",
+      "liked": false,
+      "createTime": 1781605246000,
+      "subCommentCount": "0",
+      "id": "6a31237e000000002a005d32",
+      "noteId": "696f3178000000000e00ef20",
+      "atUsers": [],
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "content": "友友全勤的话怎么安排实习的呢",
+      "userInfo": {
+        "userId": "6119e5f800000000010020bf",
+        "nickname": "多喝hot瓦特",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322k1qtn0na0g5o8psns0885vg0aeudg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABoo4PNHtSnp6nKUKDKJmEwxwCntWl5J0vBh9hwCmikRM="
+      },
+      "ipLocation": "北京",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a30a67c0000000029011078",
+      "noteId": "696f3178000000000e00ef20",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1781573244000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "感谢分享！",
+      "userInfo": {
+        "nickname": "律动的蘑菇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hegjt0ljs005oeu8mek0pi3ugkg6u0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABikkgLuDoZ_tV2ivCMGurKeqfOGWIOZuA8K5qte1qqNQ=",
+        "userId": "61de459d0000000010006643"
+      },
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "696f3178000000000e00ef20",
+      "subCommentCursor": "",
+      "id": "6974e651000000000800e228",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "status": 0,
+      "createTime": 1769268818000,
+      "ipLocation": "上海",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 评价",
+  "search_item": {
+    "xsecToken": "ABBJGws1go1BSXZ9YaklAQr2-poU9eat3ur-YtyQAvN3g=",
+    "id": "696f3178000000000e00ef20",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickname": "呷哺呷哺",
+        "xsecToken": "ABsh_emXRjDYxIMZgGhZumoLpF0fs2mNLt6qeM6qq9Dpg=",
+        "nickName": "呷哺呷哺",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "63a6ff840000000026012452"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "47",
+        "commentCount": "5",
+        "sharedCount": "12",
+        "liked": false,
+        "likedCount": "33"
+      },
+      "cover": {
+        "height": 180,
+        "width": 1010,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041920/c925639b7a4a5ba9bb84e1ba7a357e83/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041920/5584dc4243dbaffdd07ca8cf3729bf0b/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 180,
+          "width": 1010,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041920/c925639b7a4a5ba9bb84e1ba7a357e83/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041920/5584dc4243dbaffdd07ca8cf3729bf0b/1040g2sg31ri68df6gal05ot6vu29i92iroas25g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-24"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "HKU CS sem1 课程点评"
+    },
+    "index": 9,
+    "exposed": true,
+    "trackId": "696f3178000000000e00ef20"
+  }
+}

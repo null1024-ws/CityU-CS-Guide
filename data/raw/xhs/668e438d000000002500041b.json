@@ -1,0 +1,379 @@
+{
+  "note_id": "668e438d000000002500041b",
+  "url": "https://www.xiaohongshu.com/explore/668e438d000000002500041b?xsec_token=ABwq1MKzA_KZ8Qo1vLQLU-tLekSAfv45oJmdteUIu2mcM=",
+  "fetched_at": 1785841568.1136913,
+  "note": {
+    "noteId": "668e438d000000002500041b",
+    "title": "UCSD CS75就读体验——课程篇（3）",
+    "desc": "这篇主要分享一下今年spring学期上过的课，所有体验均是个人看法，仅供参考。这个学期选的课比较杂，CSE/ECE/DSC各选了一门。\n[六R] ECE 208 Computational Evolutionary Bio\nProf: Siavash, A/A+: 20.0%/36.0%\n选这门课实在是因为没课选了。256没选上，research没选，听说这门课只有作业分（9个作业drop最低，每个12.5%）而且是写python就选了。一节课没去上，大概可以理解为把算法和统计学知识用在进化生物学上。没bio背景也能上，但可能做作业需要上上课或查点资料，有时我还看些paper。总体workload不算大，作业都好好做拿高分问题不大。\n推荐指数：[樱花R][樱花R][樱花R][樱花R]，推荐给感兴趣或是想选水课的。\n[七R] CSE 224 Graduate Network Sys\nProf: Alex Snoeren\n算是sd比较出名的一门课，选之前抱有很大的期望，但落差也较大（没学到太多东西）。之前一直是另一个老师教，但课程内容和project都没变。课程cover的都很基础本科都学过，也就rpc之前写得不多。如果计网和分布式学得不差的话这门课拿A应该是轻轻又松松。总共有6个project，每个都不算难，实测都可以在一天之内最多两天完成（极致的p人[捂脸R]，别学）。最后3个project是写一个极简dropbox，要实现一个阉割版的no election的raft协议。要求使用比较适合network programming的go语言。除了project还有期中期末考，workload中等偏上，没基础可能会有点压力。想写点代码的推荐选。另外Alex很看重学术诚信，千万不要抄袭代码，不然直接就挂了。成绩分布参考图2，两百多人的课被他fail了四十几个，还有些没出成绩的，估计还在打复活赛。\n推荐指数：[樱花R][樱花R][樱花R][樱花R]，sd同类型做proj的课也没多少了hh。\n[八R] DSC 291 ML Systems\nProf: Zhang, Hao, A/A+: 40.0%/5.0%\n本人选的第二门ds的课，老师是lmsys org的faulty之一。选它主要是想学一些mlsys的知识，课程主要包含autodiff, gpu, compilation, 训练/推理的single-device优化，parallelization, flash attention和vllm等等。内容还是很充实的，认真学应该能学到不少知识，课上有时有quiz，我经常做的一塌糊涂。Workload中偏下，有三个PA，一个pre和一个final。这门课是第一次开，而且作业发布比较晚，本人又很能拖，最后甚至出现了final结束实习前一天晚上还在赶PA3的due的奇观。。\n推荐指数：[樱花R][樱花R][樱花R][樱花R][樱花R]，如果对mlsys感兴趣无脑选就完了。\n然后下学期计划主要选ai水课，哈哈，摆就完了。",
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "1040g0083152jvi7f0u6g5nhut6vg94edk37no2o",
+        "url": "",
+        "traceId": "",
+        "stream": {},
+        "height": 1228,
+        "width": 2388,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041906/417a3527fb559020258505b07210a6b2/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041906/7b0b17ea4e735618e9bbcd7bf50aacdd/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041906/417a3527fb559020258505b07210a6b2/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041906/7b0b17ea4e735618e9bbcd7bf50aacdd/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nd_dft_wgth_jpg_3"
+      },
+      {
+        "livePhoto": false,
+        "height": 1424,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041906/f6345fe817a1865f2b4e6a9a918da9bd/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nd_dft_wlteh_jpg_3",
+        "fileId": "1040g0083152jvi7f0u605nhut6vg94edgfrkt1o",
+        "width": 1081,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041906/761d8633110db2e97aee5171ae37ba0e/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041906/f6345fe817a1865f2b4e6a9a918da9bd/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041906/761d8633110db2e97aee5171ae37ba0e/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nd_prv_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "time": 1720599437000,
+    "lastUpdateTime": 1720599438000,
+    "type": "normal",
+    "user": {
+      "userId": "5e3ee9bf00000000010091cd",
+      "nickname": "打工睦子米",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ctj4kgvgu0g5nhut6vg94ed9oi8bgg",
+      "xsecToken": "ABUlAIfIuxlfvXcH2-_rmmnAntmdmh7IbZiaG7GMxVEVc="
+    },
+    "interactInfo": {
+      "shareCount": "19",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "66",
+      "collectedCount": "58",
+      "commentCount": "9",
+      "collected": false
+    },
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABwq1MKzA_KZ8Qo1vLQLU-tLekSAfv45oJmdteUIu2mcM="
+  },
+  "comments": [
+    {
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1720616085000,
+      "subCommentCount": "2",
+      "content": "那些U的是也挂了吗[doge]不懂就问",
+      "subComments": [
+        {
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "打工睦子米",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ctj4kgvgu0g5nhut6vg94ed9oi8bgg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB2ZC7wPBfRfJjBBQpMWMZCM8636UcWXI1Kk_ZfXVGHSE=",
+            "userId": "5e3ee9bf00000000010091cd"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "668e849500000000090166fe",
+            "userInfo": {
+              "userId": "60ea6719000000000101ff88",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63f9913fd27b886b4409ade3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABtUl67-FewG6ZgGvwq5BOjwoRz53qYUxHLutihFiob9Y="
+            }
+          },
+          "invalid": false,
+          "id": "668eb24e0000000005033f2f",
+          "status": 0,
+          "content": "好像还真是 没注意[笑哭R]",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1720627790000,
+          "ipLocation": "美国",
+          "noteId": "668e438d000000002500041b"
+        }
+      ],
+      "noteId": "668e438d000000002500041b",
+      "showTags": [],
+      "invalid": false,
+      "id": "668e849500000000090166fe",
+      "status": 0,
+      "userInfo": {
+        "userId": "60ea6719000000000101ff88",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63f9913fd27b886b4409ade3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtUl67-FewG6ZgGvwq5BOjwoRz53qYUxHLutihFiob9Y="
+      },
+      "ipLocation": "美国",
+      "subCommentCursor": "668eb24e0000000005033f2f",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "noteId": "668e438d000000002500041b",
+      "status": 0,
+      "userInfo": {
+        "userId": "5f3ceeca0000000001003f17",
+        "nickname": "AAA五金批发王哥",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31a8dtcaqn2005npstr508fon7psn3qg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfzr59EJKAzC_ua14PrWgJ3122thrSu2Nad6_sOPATPw="
+      },
+      "createTime": 1721100094000,
+      "ipLocation": "天津",
+      "subComments": [],
+      "invalid": false,
+      "id": "6695e73d0000000012027c5e",
+      "subCommentHasMore": false,
+      "content": "帅！",
+      "liked": false,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "createTime": 1726655230000,
+      "subCommentCount": "0",
+      "id": "66eaaafe00000000240104b4",
+      "content": "请问学长有没有导师推荐呀[皱眉R]",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "invalid": false,
+      "subComments": [],
+      "noteId": "668e438d000000002500041b",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5f503cfc000000000101e1eb",
+        "nickname": "Sakuya",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mn4peir5m005nqg7ju0bofb6slm34o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxb2meuzjkB3hq3bfxiedoiBMCOlEYrypAvDyEvAihpw="
+      },
+      "subCommentHasMore": false,
+      "status": 3,
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6690e6350000000017002a2a",
+      "createTime": 1720772150000,
+      "ipLocation": "上海",
+      "subCommentCount": "0",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "感谢学长！",
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "668e438d000000002500041b",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312tdut3ol4005nvliclgbvn014usnc0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0mBVcH0HHZ_x-_32dK1Asst8pjwF22FKOVL0o418s2o=",
+        "userId": "5ff5932b000000000101fee0",
+        "nickname": "Clikiii"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABwUQbKXG1tY_WTbYN9O7vOzobqdfDWSDwXbBicsrApZc=",
+        "userId": "5f013dd7000000000101e99d",
+        "nickname": "零度",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62876b446e1bf1e2b58d4ae5.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "noteId": "668e438d000000002500041b",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "美国",
+      "createTime": 1750278100000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "68531fd3000000000d014746",
+      "content": "怎么不更新了[哭惹R]",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "668e438d000000002500041b",
+      "liked": false,
+      "createTime": 1742887168000,
+      "subCommentCursor": "67e27680000000001e03e1d2",
+      "atUsers": [
+        {
+          "xsecToken": "ABbfvqka96xtve3280_W5-z5z2gY_esr6kHxKQdtSs_LE=",
+          "userId": "5fdb789c000000000101c332",
+          "nickname": "初升的东曦（见过许嵩版）",
+          "aiAgent": false
+        }
+      ],
+      "showTags": [],
+      "ipLocation": "阿联酋",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "没问题",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5fdb789c000000000101c332",
+            "nickname": "吃辣条的时候粘上三滴辣椒油以为自己三度暴血",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31udtcf3pig605nurf2e0bgpiu0vf8e8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABbfvqka96xtve3280_W5-z5z2gY_esr6kHxKQdtSs_LE="
+          },
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "67e258ff000000001f02a04d",
+            "userInfo": {
+              "xsecToken": "ABhm6CMQE4n16I_Qsv9rZqDUiWetRbHweRO3GxjzE9kEQ=",
+              "userId": "62df6840000000001f015757",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ic02c5r7s605omvd107qlqnb2ka3p8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "67e27680000000001e03e1d2",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "createTime": 1742894721000,
+          "invalid": false,
+          "noteId": "668e438d000000002500041b"
+        }
+      ],
+      "id": "67e258ff000000001f02a04d",
+      "content": "@初升的东曦（见过许嵩版）  你觉得我学得动dsc291吗",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 3,
+      "userInfo": {
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ic02c5r7s605omvd107qlqnb2ka3p8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhm6CMQE4n16I_Qsv9rZqDUiWetRbHweRO3GxjzE9kEQ=",
+        "userId": "62df6840000000001f015757"
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 选课",
+  "search_item": {
+    "id": "668e438d000000002500041b",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1228,
+        "width": 2388,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041906/c77a4e8933e3ca360cb76c5203450d61/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041906/7bca0de45a4cd32bc61ba867fed38115/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1228,
+          "width": 2388,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/c77a4e8933e3ca360cb76c5203450d61/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/7bca0de45a4cd32bc61ba867fed38115/1040g0083152jvi7f0u6g5nhut6vg94edk37no2o!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1424,
+          "width": 1081,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/af1b3c0d8ee919d487d256c801e57f18/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041906/587e897fdbc22ba51266f37836c4ff71/1040g0083152jvi7f0u605nhut6vg94edgfrkt1o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-07-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "UCSD CS75就读体验——课程篇（3）",
+      "user": {
+        "nickName": "打工睦子米",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ctj4kgvgu0g5nhut6vg94ed9oi8bgg?imageView2/2/w/80/format/jpg",
+        "userId": "5e3ee9bf00000000010091cd",
+        "nickname": "打工睦子米",
+        "xsecToken": "ABGE3JoVwaogHEXHOz_RTJLqZZh8T9shNH4X_x6zNvfLg="
+      },
+      "interactInfo": {
+        "likedCount": "66",
+        "collected": false,
+        "collectedCount": "58",
+        "commentCount": "9",
+        "sharedCount": "19",
+        "liked": false
+      }
+    },
+    "xsecToken": "ABwq1MKzA_KZ8Qo1vLQLU-tLekSAfv45oJmdteUIu2mcM=",
+    "index": 19,
+    "exposed": false,
+    "trackId": "668e438d000000002500041b"
+  }
+}

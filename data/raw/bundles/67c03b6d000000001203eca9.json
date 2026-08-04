@@ -1,0 +1,170 @@
+{
+  "note_id": "67c03b6d000000001203eca9",
+  "url": "https://www.xiaohongshu.com/explore/67c03b6d000000001203eca9?xsec_token=ABQNAGGAhfz-VmNnvgWiCXQRU_DjjNPdhvgcX_BRyhzfI=",
+  "fetched_at": 1785842844.305678,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NTU MSAI课程体验(下)",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "接上篇\n4. Computer Vision 计算机视觉 选修\n个人体感比较枯燥…讲传统图像处理，立体视觉，三维重建之类的。能感觉到这些内容其实有点重要，应该是作为空间智能和agent环境交互的底层原理，但是整体太过工程化，robotics方向的同学可能会更感兴趣一些(?)授课老师是Lu Shijian，老师倒是没什么问题人挺好的，而且没有quiz。希望有同学喜欢这种课吧））\n\t\n5. Advanced Computer Vision 高级计算机视觉 选修\n最值回学费的课没有之一。Chen Change Loy和Liu Ziwei合讲。每节课都是从宏观到微观解释算法设计和建模思路，涵盖了CV领域绝大部分有影响力的paper，从CNN到多模态生成。图和动画很清晰看了有一种醍醐灌顶的感觉。每节课都收获满满，而且听课时真的能体会到老师把他们丰富的实践经验和顶层视角的理解倾囊相授。目前唯一的缺点是，有quiz[doge]\n\t\n6. Time Series Analysis 时间序列分析 选修\nai和ds的同学一起上。老师(Pan Guangming)很有学术风范，是理学院统计系来的，讲纯统计理论和各种经典回归模型，编程语言可以用python但老师会用R演示。这学期也新加了quiz，还好是开卷。我本科就是搞这个方向的听下来还是觉得有点难度 难度党劝退。个人认为这门课定位跟传统CV那门课类似，都是讲ai依赖度较高的专业基础理论为以后该专业结合AI打下基础(非传统AI4S)。最后浅浅吐槽一下老师经常迟到[捂脸R]\n\t\n7. Large Language Model 大语言模型 选修\n最新开的课大家都想抢也很难抢。授课老师是Luu Anh Tuan ，有🇸🇬口音可以用努力与汗水感受他的真诚和热情。内容从NLP基本原理开始讲到几个主流基座LLM的架构分析 以及各种花式微调方法 还更新了Deepseek 关键细节基本上都涵盖到了 讲的也通俗易懂 小白友好型。课设是大(?)模型相关，实用性还行。总体感觉唯一的缺点是不如ACV硬核[doge]\n\t\n其他的课我暂时还没选 可以参考其他学长学姐的分享 最后祝大家前途似锦 殊途同归[合十R]\n#NTU人工智能[话题]# #NTUAI[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "学长 想问下 msai disciplinary diversity 咋样，跨专业申请难受大么？9 本机械类+AI 实习经历&竞赛的话有可能被录么[玫瑰R]",
+      "sourceRef": "comment:692aa029000000003802d366",
+      "commentId": "692aa029000000003802d366",
+      "likes": 0,
+      "author": "ccsnd"
+    },
+    {
+      "type": "sub_comment",
+      "text": "挺多元的 但跨申难度感觉还是有的 像机械这种一届一两个吧",
+      "sourceRef": "comment:692ab29c000000001601c1aa",
+      "commentId": "692ab29c000000001601c1aa",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "学长，可以请问一下课程大概时间吗，比如是不是都在晚上？",
+      "sourceRef": "comment:6824518700000000040185a1",
+      "commentId": "6824518700000000040185a1",
+      "likes": 0,
+      "author": "淋雨的仙姑"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是都在晚上",
+      "sourceRef": "comment:6825c5ab000000000401c835",
+      "commentId": "6825c5ab000000000401c835",
+      "likes": 1,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "哥，想问你本科不是cs的话读起来难度怎么样？",
+      "sourceRef": "comment:67c99dc1000000001502ab07",
+      "commentId": "67c99dc1000000001502ab07",
+      "likes": 1,
+      "author": "宜家大鲨鲨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我自己感觉中偏上 不过还是要因人而异 看底子",
+      "sourceRef": "comment:67c9bd74000000001801ed3c",
+      "commentId": "67c9bd74000000001801ed3c",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "想了解一下MSAI毕业去向如何呢[哭惹R]",
+      "sourceRef": "comment:67ee4140000000001f019cbf",
+      "commentId": "67ee4140000000001f019cbf",
+      "likes": 2,
+      "author": "小红薯momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "据我所知就业的话留新加坡大厂的有很多 但总体上回国的应该更多 看个人选择",
+      "sourceRef": "comment:67f0d8f8000000001e0389a4",
+      "commentId": "67f0d8f8000000001e0389a4",
+      "likes": 6,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问选acv需要先修完cv吗～",
+      "sourceRef": "comment:6a71b9c60000000007016da3",
+      "commentId": "6a71b9c60000000007016da3",
+      "likes": 0,
+      "author": "霸王洗发水唯一真官方代言人"
+    },
+    {
+      "type": "comment",
+      "text": "现在留下的概率如何呢",
+      "sourceRef": "comment:680a758f0000000012001c7b",
+      "commentId": "680a758f0000000012001c7b",
+      "likes": 2,
+      "author": "闪电五连鞭"
+    },
+    {
+      "type": "sub_comment",
+      "text": "非要给个参考标准的话 大概二三成左右",
+      "sourceRef": "comment:680bc02c000000000400dde6",
+      "commentId": "680bc02c000000000400dde6",
+      "likes": 4,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问可以留课到第二年来延长到1.5年毕业吗？可以的话是不是只按学分补学费？",
+      "sourceRef": "comment:67da58b40000000018007d86",
+      "commentId": "67da58b40000000018007d86",
+      "likes": 1,
+      "author": "玛德琳的小蛋糕"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以1-2.5年毕业，推荐按自己节奏来；是的",
+      "sourceRef": "comment:67dc46f700000000120332b0",
+      "commentId": "67dc46f700000000120332b0",
+      "likes": 3,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问msai课程有签到要求吗",
+      "sourceRef": "comment:695e30be000000000601a1d2",
+      "commentId": "695e30be000000000601a1d2",
+      "likes": 0,
+      "author": "Lozan是假喵"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有强制签到",
+      "sourceRef": "comment:695fc8df000000001d01e97e",
+      "commentId": "695fc8df000000001d01e97e",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "请问internship国际学生可以选吗？什么时间申请？",
+      "sourceRef": "comment:67e61347000000001f029134",
+      "commentId": "67e61347000000001f029134",
+      "likes": 0,
+      "author": "Alice"
+    },
+    {
+      "type": "sub_comment",
+      "text": "只是学分课(credit-bearing)所有人都可以选的 具体的job opportunities 需要自己找",
+      "sourceRef": "comment:67e684c20000000012031958",
+      "commentId": "67e684c20000000012031958",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    },
+    {
+      "type": "comment",
+      "text": "学长好，想问下这些课的quiz频率是多高呀",
+      "sourceRef": "comment:6893747d000000002a004bbb",
+      "commentId": "6893747d000000002a004bbb",
+      "likes": 1,
+      "author": "老虎尾巴包包"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一门课1-2次 绝大部分都是一次",
+      "sourceRef": "comment:68959e9b000000002902854b",
+      "commentId": "68959e9b000000002902854b",
+      "likes": 0,
+      "author": "读硕救不了中国"
+    }
+  ]
+}

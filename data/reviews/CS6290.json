@@ -5,20 +5,15 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 7,
-      "distinctSources": 6
+      "sourceCount": 11,
+      "distinctSources": 7
     },
     "difficulty": {
       "value": "easy",
       "label": "简单",
-      "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 1,
-      "note": "来源说法不一：简单×1、适中×1",
-      "variants": {
-        "easy": 1,
-        "medium": 1
-      }
+      "confidence": "confirmed",
+      "sourceCount": 6,
+      "distinctSources": 2
     },
     "hasRecording": {
       "value": "false",
@@ -30,16 +25,21 @@
     "attendance": {
       "value": "strict",
       "label": "考勤严",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "confidence": "disputed",
+      "sourceCount": 2,
+      "distinctSources": 2,
+      "note": "来源说法不一：考勤严×1、考勤松×1",
+      "variants": {
+        "strict": 1,
+        "not_strict": 1
+      }
     },
     "grading": {
       "value": "generous",
       "label": "给分友好",
       "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
+      "sourceCount": 3,
+      "distinctSources": 3
     },
     "workload": {
       "value": "unknown",
@@ -52,6 +52,15 @@
     "CS6290 Privacy-enhancing Technology 必选"
   ],
   "sources": [
+    {
+      "noteId": "6a0c731f000000003501caeb",
+      "url": "https://www.xiaohongshu.com/explore/6a0c731f000000003501caeb?xsec_token=ABZj4YAJom_9FdFt1nfhNkR0z-pZPEGNPg6KMrnpq6c7s=",
+      "excerpt": "1.CS6290 隐私增强技术：主要是Web3和区块链，理解难度还是很高的，想考好需要花时间学。但总体算愉快，4次作业，每次写一篇短的文献综述，论文老师会给。此外有4次test，test内容就是作业的论文。有小组项目+pre，给分不错，项目也算比较水。期末考试两页手写cheatsheet，难度中高，但应该算好过。虽然事情算有点多，4次test+pre相当于必须5次到场上课，但和EE的其他神人课相比已经算顶级，能选就选。；2.EE5412 通信网络：这门课往年是神中神，但今年老师上了一半生病换了老师，整体比较混乱，内容是计算机网络自顶向下+网络安全，今年难度和往年比高了很多，两次test均闭卷，以往是全开卷+允许ai。此外还有两次lab，很简单。但如果本科是计算机类，学过计网，还是可以无脑选，因为考的知识点其实不算深，且和内地的比其实算少了一些，但侧重点不完全一样，且需要英文表达。对没学过计网的同学来说算是有点折磨。；3.EE5437 AIOT物联网：神中神，无脑选不用多说，Alan顶级好老师，今年简化复杂度，一次期中，两个作业，一个单人AIOT项目，只需录视频演示，包过。；4.EE5811 计算机视觉：难度较大，且两次test考的很难，不过期末全开卷，相对简单一点，不过这门课以后可能要换老师，今年的经验可能不再适用。；5.EE6621 计算神经学：平时与期末成绩七三开。课程难度较大，但test和期末全部全开卷，对着找总归是能找到的，有小组项目两次pre，一次开题一次汇报，项目也算比较水，好做。很推荐选。；以上课程除pre、test、lab…",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityUEE-SemB混分向选课体验"
+    },
     {
       "noteId": "68a545a7000000001c030804",
       "url": "https://www.xiaohongshu.com/explore/68a545a7000000001c030804?xsec_token=ABBgAVu6GLiQ6g_H0bRvFnVsiz19cSS9_VvCoYT41yYoY=",
@@ -114,15 +123,6 @@
         "post_body"
       ],
       "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
-    },
-    {
-      "noteId": "692ff3710000000019026fb6",
-      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
-      "excerpt": "CS6290 Privacy-enhancing Technologies",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城市26fall新增网络安全专业"
     }
   ],
   "commentSources": [

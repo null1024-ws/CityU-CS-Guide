@@ -1,0 +1,403 @@
+{
+  "note_id": "6a58564d000000000c01688d",
+  "url": "https://www.xiaohongshu.com/explore/6a58564d000000000c01688d?xsec_token=ABWTD5SlSx_k73LrohVv6QwQsRfHCvt2FcTVUin2wJ9YA=",
+  "fetched_at": 1785838507.718336,
+  "note": {
+    "interactInfo": {
+      "collectedCount": "2",
+      "commentCount": "13",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "5"
+    },
+    "tagList": [
+      {
+        "id": "62bbb8130000000001002ae4",
+        "name": "dse放榜",
+        "type": "topic"
+      },
+      {
+        "id": "5c493998000000000f03de17",
+        "name": "志愿填报",
+        "type": "topic"
+      },
+      {
+        "id": "6939687a000000001d002cd3",
+        "name": "港大科大",
+        "type": "topic"
+      },
+      {
+        "id": "5c468bf1000000000f0359ac",
+        "name": "大学",
+        "type": "topic"
+      },
+      {
+        "id": "5de0a640000000000100768b",
+        "name": "工科",
+        "type": "topic"
+      },
+      {
+        "id": "5cbeca87000000000f0004c4",
+        "name": "求建议",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1784174157000,
+    "lastUpdateTime": 1784174157000,
+    "type": "normal",
+    "title": "",
+    "desc": "读工科去港大6377还是科大5282\n分数都够但是纠结，求建议[皱眉R]\n想了解学校氛围，未来想回内地工作\n#dse放榜[话题]##志愿填报[话题]##港大科大[话题]##大学[话题]#选择#工科[话题]##求建议[话题]#",
+    "imageList": [
+      {
+        "height": 562,
+        "width": 1863,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041815/b1d977d32ab9610810979377d2612628/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041815/4a3a5c84c35b04bc68025134d479aec1/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041815/b1d977d32ab9610810979377d2612628/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041815/4a3a5c84c35b04bc68025134d479aec1/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988"
+      }
+    ],
+    "ipLocation": "广东",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a58564d000000000c01688d",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322366rmmne6g5pscer0ji8luphguus0",
+      "xsecToken": "ABGXvtEkKB307iPBPCBhV-RNQoIiM8bqXfi0FUTQurCVQ=",
+      "userId": "678c76c1000000000e0122be",
+      "nickname": "灰鸟子"
+    },
+    "xsecToken": "ABWTD5SlSx_k73LrohVv6QwQsRfHCvt2FcTVUin2wJ9YA="
+  },
+  "comments": [
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "6a585fb6000000002b00162e",
+      "invalid": false,
+      "content": "不清楚dse报考 你想去港大读什么工程？体感上带电相关都建议去科大 就是辛苦些",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1784176014000,
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "678c76c1000000000e0122be",
+            "nickname": "灰鸟子",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322366rmmne6g5pscer0ji8luphguus0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABseNU8Z7_f19lWqnN86_ddeEl-aijLUt7apG5K5F2ARw="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784176567000,
+          "noteId": "6a58564d000000000c01688d",
+          "content": "港大我大概率就是选计算机或者那个数据与系统，是科大的工科强一点吗？我看到科大的工科选的范围多一点，有偏商科还有个生物化学工程，主要是现在也没想好具体的主修方向。",
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a585d8d000000002a02e06a",
+            "userInfo": {
+              "userId": "631a153d000000002303b18a",
+              "nickname": "信",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ldh8kvg06g5ooq2kuovcca0fjbldo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFERbrg05le6wODf8xwdL8ttAtC4OQqGQX7dhV9CSe2Q="
+            }
+          },
+          "invalid": false,
+          "id": "6a585fb6000000002b00162e"
+        }
+      ],
+      "noteId": "6a58564d000000000c01688d",
+      "userInfo": {
+        "userId": "631a153d000000002303b18a",
+        "nickname": "信",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ldh8kvg06g5ooq2kuovcca0fjbldo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFERbrg05le6wODf8xwdL8ttAtC4OQqGQX7dhV9CSe2Q="
+      },
+      "id": "6a585d8d000000002a02e06a",
+      "subCommentHasMore": true,
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subCommentCount": "2",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "634e79a80000000018029082",
+        "nickname": "Crisis",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qtncu78k80605oqef6k65442lri3aq0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwAQLm83Uo1R-NkqBpvm-p3SKqBehlMJ-xeli1DmNXQ8="
+      },
+      "showTags": [],
+      "createTime": 1784174783000,
+      "subComments": [
+        {
+          "content": "算了一下应该可以冲，我没有很了解这个专业怎么样啊[萌萌哒R]",
+          "createTime": 1784175780000,
+          "targetComment": {
+            "id": "6a5858be000000002101057c",
+            "userInfo": {
+              "userId": "634e79a80000000018029082",
+              "nickname": "Crisis",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2qtncu78k80605oqef6k65442lri3aq0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwAQLm83Uo1R-NkqBpvm-p3SKqBehlMJ-xeli1DmNXQ8="
+            }
+          },
+          "invalid": false,
+          "id": "6a585ca400000000290349c3",
+          "noteId": "6a58564d000000000c01688d",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "678c76c1000000000e0122be",
+            "nickname": "灰鸟子",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322366rmmne6g5pscer0ji8luphguus0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABseNU8Z7_f19lWqnN86_ddeEl-aijLUt7apG5K5F2ARw="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "status": 0
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a58564d000000000c01688d",
+      "subCommentHasMore": true,
+      "id": "6a5858be000000002101057c",
+      "content": "这个能不能进CU的AIST",
+      "subCommentCursor": "6a585ca400000000290349c3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1784185060000,
+      "subComments": [],
+      "id": "6a5880e4000000000d023000",
+      "showTags": [],
+      "ipLocation": "英国",
+      "subCommentCursor": "",
+      "noteId": "6a58564d000000000c01688d",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "3",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "CS 和 AI 都是 CU / UST > HKU，首選應該 CU AIST 或 UST CS extend AI。CU壓力會少一點，而且學科種類更多元，UST創業氛圍會更濃 in case 你想創業",
+      "userInfo": {
+        "userId": "6493fab30000000010036d59",
+        "nickname": "莫問出處",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ce8ulrs0s005p4jvapk6rapclnkv0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxXRIn5gj6xrjaHl8CsdBPvhGDWieZGOHkNr0qyfmunU="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a58564d000000000c01688d",
+      "liked": false,
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "63da3fc30000000026012431",
+        "nickname": "Michael",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBD5_VUhooXmMCOnPydAhysmLetX_yXoPsF8jQ9mA2HA="
+      },
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "noteId": "6a58564d000000000c01688d",
+          "status": 0,
+          "content": "好的好的，我也觉得确实要补，毕竟学了生物没学m1m2[笑哭R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "678c76c1000000000e0122be",
+            "nickname": "灰鸟子",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322366rmmne6g5pscer0ji8luphguus0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABseNU8Z7_f19lWqnN86_ddeEl-aijLUt7apG5K5F2ARw="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784182787000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a586ff3000000000d023c00",
+            "userInfo": {
+              "xsecToken": "ABBD5_VUhooXmMCOnPydAhysmLetX_yXoPsF8jQ9mA2HA=",
+              "userId": "63da3fc30000000026012431",
+              "nickname": "Michael",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/d784fc20c996f3d2f39d034c404f234e.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a587803000000002a02c269"
+        }
+      ],
+      "id": "6a586ff3000000000d023c00",
+      "status": 0,
+      "content": "cs的话ust/cu>hku吧其他不清楚，工科不清楚选啥可以考虑ust的school base+AI然后暑假把微积分，线代和概率补一下大一就轻松点",
+      "showTags": [],
+      "createTime": 1784180723000,
+      "subCommentCount": "2",
+      "subCommentCursor": "6a587803000000002a02c269",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "0",
+      "noteId": "6a58564d000000000c01688d",
+      "content": "我会比较建议5282",
+      "invalid": false,
+      "status": 0,
+      "subCommentCursor": "",
+      "subComments": [],
+      "id": "6a58df00000000000d022802",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "2",
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "subCommentHasMore": false,
+      "userInfo": {
+        "xsecToken": "ABhwcRQECeUHE1nLiL5k7K_hkoSO3NCyKdmalD64Orjbg=",
+        "userId": "6a576ca1000000000e03b802",
+        "nickname": "小红薯6A57E834",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f8f2a34639eb26eb1cd.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1784209153000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1784643025000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "content": "都回内地了去港大",
+      "liked": false,
+      "status": 0,
+      "subComments": [],
+      "id": "6a5f7dd0000000002b02bc3c",
+      "noteId": "6a58564d000000000c01688d",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31amtspd07e6g5pjdil61onautfpv1lo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSOAEmgCuIDBmsAzzFxOix7lYjFxLo0vf-_SkyYLSgI8=",
+        "userId": "666d954c0000000007005d5e",
+        "nickname": "momo"
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 怎么样",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-16"
+        }
+      ],
+      "type": "normal",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322366rmmne6g5pscer0ji8luphguus0?imageView2/2/w/80/format/jpg",
+        "userId": "678c76c1000000000e0122be",
+        "nickname": "灰鸟子",
+        "xsecToken": "AB559A3cRRCVgEGSeBjm35kZ7898j9Dt7vf8h59KDpGXk=",
+        "nickName": "灰鸟子"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "5",
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "13",
+        "sharedCount": "2"
+      },
+      "cover": {
+        "height": 562,
+        "width": 1863,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041814/43ec9d69787087f9f1481057158448b0/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041814/a915e2c2f077730bb5201caaa3770bbc/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/43ec9d69787087f9f1481057158448b0/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/a915e2c2f077730bb5201caaa3770bbc/notes_pre_post/1040g3k0322luic1j00005pscer0ji8luepsd988!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 562,
+          "width": 1863
+        }
+      ]
+    },
+    "xsecToken": "ABWTD5SlSx_k73LrohVv6QwQsRfHCvt2FcTVUin2wJ9YA=",
+    "id": "6a58564d000000000c01688d",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a58564d000000000c01688d"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "note_id": "6a4385ad0000000006020384",
+  "url": "https://www.xiaohongshu.com/explore/6a4385ad0000000006020384?xsec_token=AB6Q9co1GXtrlH-XIOz7_JRcUIYzwiYyaj9Av2VLLLVVE=",
+  "fetched_at": 1785840669.8804774,
+  "note": {
+    "type": "normal",
+    "imageList": [
+      {
+        "width": 560,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/cf1793e6fe828c0ac4c99d6af09ea703/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/724ff56c6b348cfbbb46ebb4ad9e1113/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/cf1793e6fe828c0ac4c99d6af09ea703/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/724ff56c6b348cfbbb46ebb4ad9e1113/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nd_dft_wlteh_jpg_3",
+        "height": 630
+      }
+    ],
+    "atUserList": [],
+    "time": 1782810029000,
+    "lastUpdateTime": 1782810029000,
+    "title": "悉大MCS最后一学期找队友",
+    "desc": "5348 5703 5995 均分DI 有本科背景 上学期小组作业几乎全满分 tut时间任选 求大佬带飞",
+    "user": {
+      "userId": "62a963a4000000001b029d45",
+      "nickname": "Walker",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/636a085f984955493069e2d3.jpg",
+      "xsecToken": "ABnGt1_IxiQ4Z9QMI691nx6Mm0XaFMIYm5i2nt9lIQSNc="
+    },
+    "interactInfo": {
+      "commentCount": "8",
+      "relation": "none",
+      "likedCount": "8",
+      "shareCount": "2",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": ""
+    },
+    "tagList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a4385ad0000000006020384",
+    "xsecToken": "AB6Q9co1GXtrlH-XIOz7_JRcUIYzwiYyaj9Av2VLLLVVE="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "65378260000000000301dd6d",
+            "nickname": "了了",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sofs11m5s005p9ng9g0rnbdu1m1vig?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABmYD7EJfmYyUkhlO1EWohSEKYbkgaekuWF4ms8uwctoo="
+          },
+          "showTags": [],
+          "ipLocation": "澳大利亚",
+          "targetComment": {
+            "id": "6a4badc5000000002a024472",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ht656hjjo005nscbrmgbsl0um1m5t0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABF3Xv5nf3hq3U8Y3V2iSXIjqzH4-BRalTA2ZMZMa8d_U=",
+              "userId": "5f8c5eed000000000101f2a0",
+              "nickname": "水蜜桃味的小梅"
+            }
+          },
+          "noteId": "6a4385ad0000000006020384",
+          "status": 0,
+          "content": "5995组队",
+          "likeCount": "0",
+          "createTime": 1784956839000,
+          "invalid": false,
+          "id": "6a6447a6000000002b024bcb",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "noteId": "6a4385ad0000000006020384",
+      "status": 0,
+      "content": "蹲蹲5703和5995组队",
+      "atUsers": [],
+      "createTime": 1783344582000,
+      "ipLocation": "上海",
+      "subCommentHasMore": false,
+      "id": "6a4badc5000000002a024472",
+      "userInfo": {
+        "xsecToken": "ABF3Xv5nf3hq3U8Y3V2iSXIjqzH4-BRalTA2ZMZMa8d_U=",
+        "userId": "5f8c5eed000000000101f2a0",
+        "nickname": "水蜜桃味的小梅",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ht656hjjo005nscbrmgbsl0um1m5t0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "subCommentCursor": "6a6447a6000000002b024bcb",
+      "invalid": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "6a44cfc00000000015010250",
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "content": "哈喽同学",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1782894528000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "6a4385ad0000000006020384",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "橘子海漫游",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5mcm95ia5g5oqk20lm5aiqfqgd3pg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABu2st-lY_AkiIcWRw7wtkJyxjZ4c1evMwU-9_hlsa23Q=",
+        "userId": "6354102b000000001802aa5a"
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a460b58000000000b03a766",
+      "content": "Comp5703",
+      "likeCount": "0",
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABJB5R0mO6FLa8Q3Fp_hNZMUtSaveU6D4BxWaVvYA-YzM=",
+        "userId": "68747e99000000000d02c2ab",
+        "nickname": "小姜",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jto3o5s3q6g5q3kfqcjdglbk8cm39o?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "澳大利亚",
+      "subCommentCursor": "",
+      "noteId": "6a4385ad0000000006020384",
+      "subCommentCount": "0",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1782975320000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1783061942000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "ipLocation": "澳大利亚",
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a475db6000000000d022800",
+      "noteId": "6a4385ad0000000006020384",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6a3a5aa9000000000e03b801",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321q9cve0n6405qhqbakjne01p2atmb8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABF0PgPTRCDVBUjAp6VezYpkPe0aM-kwUPCt7S4YSOAR8="
+      },
+      "subComments": [],
+      "showTags": [],
+      "content": "我们选课完全一样啊，均分可能刚好DI本科也是计算机，要认识一下吗[吧唧R]",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "澳大利亚",
+      "noteId": "6a4385ad0000000006020384",
+      "likeCount": "0",
+      "liked": false,
+      "userInfo": {
+        "userId": "63f213ca000000001001e172",
+        "nickname": "小红薯63F2C866",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQ7h4ny3J9fopQjxMB8zIUI-KulJ7DwlH_G5BKgq57Lk="
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a6b25f9000000002902f8d1",
+      "status": 0,
+      "content": "5348找组队",
+      "createTime": 1785406969000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a5a29fb0000000015012ad6",
+      "content": "5703组队，还缺人吗",
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "noteId": "6a4385ad0000000006020384",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABIVwGegAcBNJdJxBCSkTWAj9KnGoC2FUSgj6OuEwQcTc=",
+        "userId": "5b5573e64eacab4dce32e735",
+        "nickname": "ssd",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32359fjdag20g4a7dr6pudppl4p00avo?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1784293884000,
+      "ipLocation": "山东",
+      "subCommentCount": "0",
+      "invalid": false,
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "createTime": 1782972959000,
+      "subCommentCount": "0",
+      "noteId": "6a4385ad0000000006020384",
+      "content": "妈呀，大神这个成绩应该不缺队友嘿，帮顶一哈哈[派对R]",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "subComments": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABaTVivVirS6e7C-3PJs19h1s6mBkEej9VxhbI9vs_GQ0=",
+        "userId": "67ec94a3000000000e0134f9",
+        "nickname": "Molly不挖坑",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v7f6b07jm6g5pvciihjid7pmlnpu38?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "上海",
+      "invalid": false,
+      "id": "6a46021f0000000005014696",
+      "status": -2,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 避雷",
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "悉大MCS最后一学期找队友",
+      "user": {
+        "nickName": "Walker",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/636a085f984955493069e2d3.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "62a963a4000000001b029d45",
+        "nickname": "Walker",
+        "xsecToken": "ABEKRB3Tea-igw5IEMaLSXzQD0GEuyZ67Gg-qOM4oDJbA="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "8",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "8",
+        "sharedCount": "2"
+      },
+      "cover": {
+        "height": 630,
+        "width": 560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/b345182fd92e8efee7753aac686c3eaa/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/9498e994735f1ac2caa9b682670f7a5e/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 630,
+          "width": 560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/b345182fd92e8efee7753aac686c3eaa/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/9498e994735f1ac2caa9b682670f7a5e/notes_pre_post/1040g3k83221k7mdr7ad05ol9cei6t7a5q02bhno!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-30"
+        }
+      ]
+    },
+    "xsecToken": "AB6Q9co1GXtrlH-XIOz7_JRcUIYzwiYyaj9Av2VLLLVVE=",
+    "id": "6a4385ad0000000006020384",
+    "modelType": "note",
+    "index": 2,
+    "exposed": true,
+    "trackId": "6a4385ad0000000006020384"
+  }
+}

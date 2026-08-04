@@ -1,0 +1,50 @@
+{
+  "note_id": "668b9c130000000025006de9",
+  "url": "https://www.xiaohongshu.com/explore/668b9c130000000025006de9?xsec_token=ABipKafFnzG1hNVFlw45oqPSnQGZQBjRNsbEHx_SBgI4c=",
+  "fetched_at": 1785839398.0958495,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UCSD CS75就读体验——课程篇（2）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "书接上文，这篇主要讲讲winter选的课。同样的，下述皆为个人体验，不同个体之间可能偏差很大，仅供参考，无统计学意义。\n[三R] CSE 202 - Algorithm Design and Analysis\nQtr: wi24, Prof: Russell, A/A+: 36.7%/16.5%\n选这门课主要是为了满足theory要求，同时复健一下算法，最后发现与预期也不大一样。首先这门课纯理论，所有作业都是latex打字，证明和算法复杂度分析需要非常严谨，经常一题要打两三页latex。然后Russell是个感觉要退休的老教授，讲课娓娓道来，但课程内容的广度和难度低于预期。可以说讲过的所有算法都是比较基础的本科水平，对于有过算法竞赛经历的人来说想必更加无趣。有一个用算法（非ai）解决游戏或其他问题的开放项目，还算有意思。作业和最后的project都是组队的，所以成绩如何也看队友。Workload适中，课程的schedule比较拖，作业成绩出的慢，而且甚至作业和考试题目都有typo，比较不愉快。有的作业题目还是有难度的，需要想想，期末考试take home给一周时间做且占比50%。给分还是ok的。\n推荐指数：[星R][星R][星R]\n[四R] CSE 291 Advances in Language Models\nQtr: wi24, Prof: Nakashole, A/A+: 16.7%/8.3%\n这门课是291系列中的一门，讲llm paper的。课程形式是每节课一个人讲一篇paper，然后课上做quiz。如果是想做llm方面的research可以选这门课，就是给分有点夸张。12人选3人拿A以上。最后有一个自己选题的project，需要自己选数据集，研究/解决某个问题，跑实验并交一篇报告和做pre。由于我拖延症大爆发把报告摆掉了所以得分惨烈。但周围望了一圈成绩都不太好。\n推荐指数：[星R][星R][星R]，如果是很在乎给分的话，最好别选。\n[五R] DSC 204A Scalable Data Sys\nQtr: wi24, Prof: Zhang Hao, A/A+: 36.2%/8.6%\n这门课的老师是刚来ds学院的mlsys方向的大牛，vllm的作者之一。别人推荐我上然后我一看是vllm的作者很快啊就选了。课程主要讲data sys，跨度较广，os/network等基础知识到mapreduce/spark等，最后有一点mlsys的intro。作业也比较杂，有python编程，reading summary啥的，期末考全是mcq不算太难。总体workload中等偏上，内容广度挺好深度略有欠缺，后面我还选了一门该教授的mlsys，主要是对这个方向感兴趣（讨饭吃用得到）。注意这门课暂不算进毕业要求。\n推荐指数：[星R][星R][星R][星R]\n这里先小小总结一下：cs75这个项目偏全栈开发的课极少读paper课很多，不太适合转码，但好在水课也多找工时可以轻松点。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "完了[笑哭R]，选了一个202",
+      "sourceRef": "comment:668bea5d0000000017012dfb",
+      "commentId": "668bea5d0000000017012dfb",
+      "likes": 1,
+      "author": "萨奇的Coding笔记"
+    },
+    {
+      "type": "sub_comment",
+      "text": "真的难上",
+      "sourceRef": "comment:69104b78000000003102cad0",
+      "commentId": "69104b78000000003102cad0",
+      "likes": 0,
+      "author": "Momo"
+    },
+    {
+      "type": "comment",
+      "text": "dsc 204a对于cse的同学来说太水了，ray是真的难用",
+      "sourceRef": "comment:66ac1e91000000002300df0f",
+      "commentId": "66ac1e91000000002300df0f",
+      "likes": 1,
+      "author": "224"
+    },
+    {
+      "type": "comment",
+      "text": "感谢学长指路🥹",
+      "sourceRef": "comment:668d0479000000001700181d",
+      "commentId": "668d0479000000001700181d",
+      "likes": 0,
+      "author": "小青马"
+    }
+  ]
+}

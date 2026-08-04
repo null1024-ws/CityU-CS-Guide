@@ -1,0 +1,43 @@
+{
+  "note_id": "466f70ab-849e-4340-9843-5e18ca532808",
+  "url": "https://www.xiaohongshu.com/explore/466f70ab-849e-4340-9843-5e18ca532808?xsec_token=ABzvRf4W0HW5SXQDRwBAQrAnr48UN7jjr-0_Mlh9XGBm4IO0hLnmN8-BDOmjsVxALUoUzy67iC_DBog5VGWlu9_OqOFbKWOmD1hsL6Ybuju8g=",
+  "fetched_at": 1785843466.0033975,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6187 选课",
+  "search_item": {
+    "id": "466f70ab-849e-4340-9843-5e18ca532808#1785843454924",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "466f70ab-849e-4340-9843-5e18ca532808#1785843454924",
+      "queries": [
+        {
+          "searchWord": "cs61b选课建议",
+          "id": "cs61b选课建议",
+          "name": "cs61b选课建议"
+        },
+        {
+          "id": "omscs cs6457选课体验",
+          "name": "omscs cs6457选课体验",
+          "searchWord": "omscs cs6457选课体验"
+        },
+        {
+          "searchWord": "cs320选课攻略",
+          "id": "cs320选课攻略",
+          "name": "cs320选课攻略"
+        },
+        {
+          "id": "ucb cs61a cs70选课组合",
+          "name": "ucb cs61a cs70选课组合",
+          "searchWord": "ucb cs61a cs70选课组合"
+        }
+      ]
+    },
+    "xsecToken": "ABzvRf4W0HW5SXQDRwBAQrAnr48UN7jjr-0_Mlh9XGBm4IO0hLnmN8-BDOmjsVxALUoUzy67iC_DBog5VGWlu9_OqOFbKWOmD1hsL6Ybuju8g=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "466f70ab-849e-4340-9843-5e18ca532808#1785843454924"
+  }
+}

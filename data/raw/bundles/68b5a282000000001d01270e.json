@@ -1,0 +1,44 @@
+{
+  "note_id": "68b5a282000000001d01270e",
+  "url": "https://www.xiaohongshu.com/explore/68b5a282000000001d01270e?xsec_token=ABhpCKyEesg_YN4HTlsjFcw1VJTWwPCHOxcLyAFHSPSCI=",
+  "fetched_at": 1785840829.281109,
+  "course_codes": [
+    "CS5488"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS5488找队友",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "𢤦一点Hadoop和在城大读本科时做过时序分析相关的小组作业，希望可以找到好合作有想法的搭子\n\t\n现在组已经有三个人，就差一个了，有兴趣的聊一聊呀 [害羞R]\n\t\n#香港城市大学[话题]# #港硕[话题]# #选课[话题]# #cs5488[话题]# #找搭子[话题]# #小组作孽[话题]# #小组作业[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "sub_comment",
+      "text": "私你啦[害羞R]",
+      "sourceRef": "comment:68b5afe80000000030004225",
+      "commentId": "68b5afe80000000030004225",
+      "likes": 1,
+      "author": "Huh"
+    },
+    {
+      "type": "comment",
+      "text": "满了么？",
+      "sourceRef": "comment:68c01c18000000003002c75f",
+      "commentId": "68c01c18000000003002c75f",
+      "likes": 0,
+      "author": "EliUis"
+    },
+    {
+      "type": "sub_comment",
+      "text": "满了[捂脸R]",
+      "sourceRef": "comment:68c03c0f00000000300056c7",
+      "commentId": "68c03c0f00000000300056c7",
+      "likes": 0,
+      "author": "Huh"
+    }
+  ]
+}

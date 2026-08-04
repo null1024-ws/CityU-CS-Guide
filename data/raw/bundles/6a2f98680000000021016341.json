@@ -1,7 +1,7 @@
 {
   "note_id": "6a2f98680000000021016341",
-  "url": "https://www.xiaohongshu.com/explore/6a2f98680000000021016341?xsec_token=ABW5QAGfZIw-Tj11VBApTfpapPfVCvWC6M83Z1VOr6q0g=",
-  "fetched_at": 1785223064.3072722,
+  "url": "https://www.xiaohongshu.com/explore/6a2f98680000000021016341?xsec_token=ABW5QAGfZIw-Tj11VBApTfpWSriN34_6tpLLJOHoPjBfI=",
+  "fetched_at": 1785841158.7324734,
   "course_codes": [],
   "chunks": [
     {
@@ -29,6 +29,38 @@
       "commentId": "6a2fab740000000027015aba",
       "likes": 0,
       "author": "巴巴博一"
+    },
+    {
+      "type": "comment",
+      "text": "不是cs的，但是cs学业上压力还是有，有的课很水有的课你要好好学，最好能拿到上届的考试资料啥的",
+      "sourceRef": "comment:6a2f9b6e0000000028036612",
+      "commentId": "6a2f9b6e0000000028036612",
+      "likes": 0,
+      "author": "我是坏人"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这样你压力小很多",
+      "sourceRef": "comment:6a2f9b78000000002900cf4a",
+      "commentId": "6a2f9b78000000002900cf4a",
+      "likes": 0,
+      "author": "我是坏人"
+    },
+    {
+      "type": "comment",
+      "text": "蹲蹲请问团关系可以转入吗",
+      "sourceRef": "comment:6a2fcd1500000000280382d3",
+      "commentId": "6a2fcd1500000000280382d3",
+      "likes": 0,
+      "author": "好评加送可乐"
+    },
+    {
+      "type": "sub_comment",
+      "text": "团关系 党关系 个人学籍都能转入",
+      "sourceRef": "comment:6a309ca4000000002702f4e5",
+      "commentId": "6a309ca4000000002702f4e5",
+      "likes": 1,
+      "author": "双层吉士汉堡"
     },
     {
       "type": "comment",
@@ -61,38 +93,6 @@
       "commentId": "6a2fa85c000000002803e231",
       "likes": 1,
       "author": "Magikarp"
-    },
-    {
-      "type": "comment",
-      "text": "蹲蹲请问团关系可以转入吗",
-      "sourceRef": "comment:6a2fcd1500000000280382d3",
-      "commentId": "6a2fcd1500000000280382d3",
-      "likes": 0,
-      "author": "好评加送可乐"
-    },
-    {
-      "type": "sub_comment",
-      "text": "团关系 党关系 个人学籍都能转入",
-      "sourceRef": "comment:6a309ca4000000002702f4e5",
-      "commentId": "6a309ca4000000002702f4e5",
-      "likes": 0,
-      "author": "双层吉士汉堡"
-    },
-    {
-      "type": "comment",
-      "text": "不是cs的，但是cs学业上压力还是有，有的课很水有的课你要好好学，最好能拿到上届的考试资料啥的",
-      "sourceRef": "comment:6a2f9b6e0000000028036612",
-      "commentId": "6a2f9b6e0000000028036612",
-      "likes": 0,
-      "author": "我是坏人"
-    },
-    {
-      "type": "sub_comment",
-      "text": "这样你压力小很多",
-      "sourceRef": "comment:6a2f9b78000000002900cf4a",
-      "commentId": "6a2f9b78000000002900cf4a",
-      "likes": 0,
-      "author": "我是坏人"
     },
     {
       "type": "comment",

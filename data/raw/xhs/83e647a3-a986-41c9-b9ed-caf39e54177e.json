@@ -1,0 +1,41 @@
+{
+  "note_id": "83e647a3-a986-41c9-b9ed-caf39e54177e",
+  "url": "https://www.xiaohongshu.com/explore/83e647a3-a986-41c9-b9ed-caf39e54177e?xsec_token=ABHrP9BJCYKDrv_xG06JPaeEjPUgyD7bh_XLERrZkOf35d0HprWuMO8qISQR-5cQ2s6BXvMC8qr9q1fP3ZMI3WoGaeAEcUmntYquzo4vNUJXE=",
+  "fetched_at": 1785841692.4327178,
+  "search_query": "CityU CS5367",
+  "search_item": {
+    "id": "83e647a3-a986-41c9-b9ed-caf39e54177e#1785841678512",
+    "modelType": "rec_query",
+    "recQuery": {
+      "wordRequestId": "83e647a3-a986-41c9-b9ed-caf39e54177e#1785841678512",
+      "queries": [
+        {
+          "id": "cityu fms 6629课程评价",
+          "name": "cityu fms 6629课程评价",
+          "searchWord": "cityu fms 6629课程评价"
+        },
+        {
+          "name": "cb3043 cityu",
+          "searchWord": "cb3043 cityu",
+          "id": "cb3043 cityu"
+        },
+        {
+          "searchWord": "cityu攻略",
+          "id": "cityu攻略",
+          "name": "cityu攻略"
+        },
+        {
+          "name": "cityu ef5052期末考试",
+          "searchWord": "cityu ef5052期末考试",
+          "id": "cityu ef5052期末考试"
+        }
+      ],
+      "title": "相关搜索",
+      "source": 1
+    },
+    "xsecToken": "ABHrP9BJCYKDrv_xG06JPaeEjPUgyD7bh_XLERrZkOf35d0HprWuMO8qISQR-5cQ2s6BXvMC8qr9q1fP3ZMI3WoGaeAEcUmntYquzo4vNUJXE=",
+    "index": 28,
+    "exposed": false,
+    "trackId": "83e647a3-a986-41c9-b9ed-caf39e54177e#1785841678512"
+  }
+}

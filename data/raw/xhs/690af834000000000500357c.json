@@ -1,0 +1,789 @@
+{
+  "note_id": "690af834000000000500357c",
+  "url": "https://www.xiaohongshu.com/explore/690af834000000000500357c?xsec_token=ABBE933y1JylrXPZqClf3s_X0aUL-eC15iTq6Qi4itK_Y=",
+  "fetched_at": 1785840700.8117735,
+  "note": {
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "38",
+      "shareCount": "27",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "62",
+      "commentCount": "126",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/a83f51be7ca1f2a77a232453f3d64bba/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/b8f74761d2bb7637eeaa40d6122c3a9b/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1600,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/a83f51be7ca1f2a77a232453f3d64bba/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/b8f74761d2bb7637eeaa40d6122c3a9b/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "fileId": "1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30",
+        "width": 1200
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "fileId": "1040g2sg31ohson7omge05n9s78akaflkuddhku8",
+        "height": 794,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/857b08563e02b31c2c16f40c6ceb2948/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041851/30942a68269767af288bf1b254843618/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/857b08563e02b31c2c16f40c6ceb2948/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/30942a68269767af288bf1b254843618/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "width": 1920
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "userId": "5d3c3a150000000011013eb4",
+      "nickname": "Cocota",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g",
+      "xsecToken": "ABWieE1Y3UXkkNU8sgcg7_fVLWAsIT2BoUXbDD2i-bZro="
+    },
+    "tagList": [
+      {
+        "id": "62340763000000000100ab2d",
+        "name": "低gpa申研",
+        "type": "topic"
+      },
+      {
+        "name": "港硕",
+        "type": "topic",
+        "id": "609a5fee00000000010020ea"
+      },
+      {
+        "id": "5c950c40000000000e00be57",
+        "name": "hku",
+        "type": "topic"
+      },
+      {
+        "id": "5c1b7b0f0000000008003a1d",
+        "name": "cuhk",
+        "type": "topic"
+      },
+      {
+        "id": "5de4c3af000000000100ae3e",
+        "name": "hkust",
+        "type": "topic"
+      },
+      {
+        "id": "6522850e000000000d00779f",
+        "name": "26fall申请",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "id": "6864dfd50000000017039e9a",
+        "name": "香港泛CS项目",
+        "type": "topic"
+      },
+      {
+        "id": "137653365622385017",
+        "name": "offer",
+        "type": "interact_vote"
+      }
+    ],
+    "time": 1762326580000,
+    "lastUpdateTime": 1762480582000,
+    "noteId": "690af834000000000500357c",
+    "title": "cucs谢谢你❤️",
+    "desc": "bg如图🥹，主要考虑就业，会考虑走算法（传统搜广推or业务大模型？）和开发，打算1.5年刷实习\nhkust bdt 马上留位费到ddl，基本上cucs不太可能在ddl前下offer，好像必须要二选一了，bdt VS cucs + hku\n\t\nbdt 坏处在于，离哪都很远，生活舒适度不如cuhk😫\n其他bdt的坏处，比如说有uu说他课业压力大（edx后3+3+1解决）和不方便实习（住深圳实习+翘一节课+周六上2节），感觉都可以有办法解决，暂时看起来可以接受，但具体来说也不算很了解情况😵\n但除此之外或许bdt对于我以后去做算法相对cucs有一些加成？（你最好是有加成。\n\t\ncuhk cs 在 10.27 三锁，跟同校的差不多时间申请的朋友同时锁的，但是🈚️后续进度\nps：看起来像是一个学校的一起处理？🤔\n看到也有uu10.3就三锁了但还没有offer，也有uu早锁了但昨天取消锁了，我的gpa不太能看，对自己没啥把握\n也有uu说三锁了基本稳，并且这段时间cucs没咋发offer，可能offer一批一批的来，只是不知道等到什么时候\n要是cuhk不要我的话，最后应该只能得去hku了，没得挑😭\n\t\n我的 ie 也毫无动静😭，求求了给我发点sl吧好不好嘛我亲爱的cuhk啊啊啊啊🤯\n\t\n后续：\n不管了先把bdt交了，算了算bdt交个留位费和cucs的最后的差距也就3-4w hkd，可以接受/点头\ncucs来再说吧，再考虑吧🥹\n\t\n【后后续】\n11.6 晚上一查cuhk admit了，11.7 早上收到了 Update on application status 的邮件\n坏消息：bdt 刚交完4h cucs就admit了😭😭\n\t\n非常纠结去bdt还是cucs\n一方面是很喜欢ust的海景，并且感觉ust的课业压力和港深通勤上来说，修edx以后实则比cucs压力更小；另一方面是觉得硕士再接着学本科学的cs课程有些无聊💦\n但是cu的地理位置比较方便（不过这个方便程度有待考察），ust具体的课业压力也有待考察，我觉得以我的能力不太能做到这一年时间内无间断实习😴\n\t\n#低gpa申研[话题]#  #港硕[话题]# #hku[话题]# #cuhk[话题]# #hkust[话题]# #26fall申请[话题]# #cs[话题]# #香港泛CS项目[话题]#",
+    "xsecToken": "ABBE933y1JylrXPZqClf3s_X0aUL-eC15iTq6Qi4itK_Y="
+  },
+  "comments": [
+    {
+      "id": "690f2172000000003802416e",
+      "likeCount": "12",
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "subComments": [
+        {
+          "showTags": [],
+          "targetComment": {
+            "id": "690f2172000000003802416e",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY=",
+              "userId": "5d3c3a150000000011013eb4",
+              "nickname": "Cocota"
+            }
+          },
+          "id": "690f237700000000380159fd",
+          "likeCount": "0",
+          "createTime": 1762599800000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "noteId": "690af834000000000500357c",
+          "status": 0,
+          "content": "交了bdt！蹲蹲组织[害羞R]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5e44af8c0000000001009b3f",
+            "nickname": "gchenpi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e1g4gjo0u005ni4lu6096pvsb6jj3g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3wo5KSVf2Y4dqu4TxWFcbeiL8qHSX41gnDpl7CveQeg="
+          }
+        }
+      ],
+      "subCommentCursor": "690f237700000000380159fd",
+      "liked": false,
+      "userInfo": {
+        "nickname": "Cocota",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY=",
+        "userId": "5d3c3a150000000011013eb4"
+      },
+      "createTime": 1762599283000,
+      "ipLocation": "浙江",
+      "invalid": false,
+      "subCommentCount": "11",
+      "noteId": "690af834000000000500357c",
+      "status": 4,
+      "content": "最后决定去bdt了[棒R]喜欢海景，喜欢离中环近的地方[棒R]ust课程安排就是很利好可以科研可以住深圳实习[棒R]ust充点qs好不好好的对吧[飞吻R]",
+      "atUsers": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "nickname": "小红薯6448087E",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKAip_pHg-335l80zF4gtlNf_Sf3WHu3x2V5z6PF3yIg=",
+        "userId": "6447db88000000001f0339b7"
+      },
+      "ipLocation": "安徽",
+      "status": 0,
+      "content": "我纠结的是交了cu的ai留位费，现在cu的cs也下来了，本科是软件工程。都说cs就业更广泛，我自己是觉得本科学了计算机，读研学点人工智能是不是好些，但更多的是考虑就业方面，要是cs没下来反而没纠结[捂脸R]",
+      "likeCount": "0",
+      "createTime": 1762735667000,
+      "subCommentCount": "12",
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY=",
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1762739038000,
+          "noteId": "690af834000000000500357c",
+          "content": "我觉得你如果真的很想去cucs可以直接去，因为说来26.4w+12.6w和38w也就只差1w[哇R]而且我猜，cuai和cucs应该可以互相选课的吧🤔，要是你觉得cs可以面向就业你就可以学cs，你如果想学点ai也可以去选ai的课[派对R]我觉得都大差不差，如果你有别的选择的影响因素你可以先考虑别的因素起[doge]不过我对cuai不是很了解捏，ai会不会有啥别的debuff和顾虑[呃R]",
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "691136320000000033022ff1",
+            "userInfo": {
+              "userId": "6447db88000000001f0339b7",
+              "nickname": "小红薯6448087E",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKAip_pHg-335l80zF4gtlNf_Sf3WHu3x2V5z6PF3yIg="
+            }
+          },
+          "invalid": false,
+          "id": "6911435d000000003800917a",
+          "status": 0
+        }
+      ],
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "6911435d000000003800917a",
+      "subCommentHasMore": true,
+      "id": "691136320000000033022ff1",
+      "noteId": "690af834000000000500357c",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "invalid": false,
+          "status": 0,
+          "content": "我是se的[doge]",
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1762348095000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "690b463d0000000030026b79",
+            "userInfo": {
+              "userId": "5654750b67bc655af3f9b005",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66da6d1e239fb0f0db0ea237.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzWPxOHA2FiejxHFmLBw7VY86wGbFX_QBMVdZZjb5stg="
+            }
+          },
+          "id": "690b4c3f00000000380082df",
+          "noteId": "690af834000000000500357c",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "690b4c3f00000000380082df",
+      "id": "690b463d0000000030026b79",
+      "content": "佬是什么专业啊",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5654750b67bc655af3f9b005",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66da6d1e239fb0f0db0ea237.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABzWPxOHA2FiejxHFmLBw7VY86wGbFX_QBMVdZZjb5stg="
+      },
+      "showTags": [],
+      "subCommentCount": "5",
+      "noteId": "690af834000000000500357c",
+      "invalid": false,
+      "createTime": 1762346558000,
+      "ipLocation": "上海",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "userId": "65b8e6dd000000000e026d2d",
+        "nickname": "Quantum",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v5b80e7586g5pdosrejkr9dc8g4u98?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABtNQo4ydw_rsttXMwivBTE0KxY8_QZBe7R4Gj8onfub8="
+      },
+      "subCommentCursor": "6985a629000000000f02f0f8",
+      "invalid": false,
+      "content": "我现在是拿到hkust it的offer，纠结要不要放it等hku ai的offer[哭惹R]",
+      "ipLocation": "广东",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1770344771000,
+      "subCommentCount": "8",
+      "subCommentHasMore": true,
+      "id": "69855142000000000f00d9fe",
+      "noteId": "690af834000000000500357c",
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "createTime": 1770366506000,
+          "targetComment": {
+            "id": "69855142000000000f00d9fe",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABtNQo4ydw_rsttXMwivBTE0KxY8_QZBe7R4Gj8onfub8=",
+              "userId": "65b8e6dd000000000e026d2d",
+              "nickname": "Quantum",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v5b80e7586g5pdosrejkr9dc8g4u98?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6985a629000000000f02f0f8",
+          "noteId": "690af834000000000500357c",
+          "content": "uu可以看看课程安排，it课程本身偏开发一些，对之后走大厂很有帮助。在实习上来说，edx后ust可以让你一周把课排在周五周六两天内，完全可以直接住在深圳实习。如果uu想走大模型llm等，也可以在it的基础上选择做ip（或者在edx的基础上必修ip）参加一些实验室看看能不能利用一下实验室资源，并且it的课本身就可以选到bdt来直接学算法。hku ai那边的课程我不是很了解[呃R]，感觉应该是会偏向算法一些，但hku挂着的是学期要修课程最多，可能会影响到进实验室和实习，都还挺致命的。"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "content": "华五但是83，放在同批竞争里面我感觉只属于中等偏下吧",
+      "liked": false,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "6003c5cc0000000001002607",
+        "nickname": "霞的",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318u57vpn4c005o03on6089g7imf6l30?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUhYF44NyZUJF986x9psBjTWrq92QmH4u1Hwi9c6UGNA="
+      },
+      "createTime": 1762341684000,
+      "subCommentCount": "7",
+      "invalid": false,
+      "ipLocation": "广东",
+      "subCommentCursor": "690b3365000000003802af7c",
+      "atUsers": [],
+      "subComments": [
+        {
+          "createTime": 1762341733000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "6003c5cc0000000001002607",
+              "nickname": "霞的",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318u57vpn4c005o03on6089g7imf6l30?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUhYF44NyZUJF986x9psBjTWrq92QmH4u1Hwi9c6UGNA="
+            },
+            "id": "690b33340000000038031a6f"
+          },
+          "invalid": false,
+          "noteId": "690af834000000000500357c",
+          "content": "gpa是这样的....[可怜R]cu你要不给我reject一下算了吧[可怜R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "id": "690b3365000000003802af7c",
+          "status": 0
+        }
+      ],
+      "id": "690b33340000000038031a6f",
+      "noteId": "690af834000000000500357c",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "690af834000000000500357c",
+      "ipLocation": "四川",
+      "subCommentCount": "3",
+      "subCommentCursor": "690ed78e00000000390077d5",
+      "id": "690ed495000000003800405c",
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "690ed495000000003800405c",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31094koppmc0g5onac16njvllko5vb6g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABAW2-_iQIA05hJI4XmF_hdvxC7LezSpY1pp5N74wNtzg=",
+              "userId": "62ea604d000000001e01feb5",
+              "nickname": "Shana."
+            }
+          },
+          "invalid": false,
+          "id": "690ed78e00000000390077d5",
+          "noteId": "690af834000000000500357c",
+          "content": "[可怜R][可怜R][可怜R][可怜R][可怜R][可怜R]那你去ust吗哈哈哈哈",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "createTime": 1762580367000,
+          "ipLocation": "浙江"
+        }
+      ],
+      "content": "我也四号交的ust，五号cu来了[哭惹R]",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1762579605000,
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "62ea604d000000001e01feb5",
+        "nickname": "Shana.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31094koppmc0g5onac16njvllko5vb6g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABAW2-_iQIA05hJI4XmF_hdvxC7LezSpY1pp5N74wNtzg="
+      },
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "639ded0d0000000026006cd0",
+        "nickname": "cdmoon",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cao3mtth06g5osttk6pgr6gla2emko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxySZ2imIiwHwrItsOWJCg3SUpR4ajsA9uOCHTJhmPyI="
+      },
+      "showTags": [],
+      "subCommentHasMore": true,
+      "noteId": "690af834000000000500357c",
+      "content": "感觉可以等，这个bg已经锁了的话挺稳的[doge]",
+      "atUsers": [],
+      "subComments": [
+        {
+          "status": 0,
+          "content": "最好是这个bg稳[可怜R]谢谢uu",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1762341396000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "690b30350000000037011f7a",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABxySZ2imIiwHwrItsOWJCg3SUpR4ajsA9uOCHTJhmPyI=",
+              "userId": "639ded0d0000000026006cd0",
+              "nickname": "cdmoon",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cao3mtth06g5osttk6pgr6gla2emko?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "690b3213000000003900952e",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY=",
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota"
+          },
+          "invalid": false,
+          "noteId": "690af834000000000500357c"
+        }
+      ],
+      "subCommentCursor": "690b3213000000003900952e",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "id": "690b30350000000037011f7a",
+      "createTime": 1762340918000,
+      "subCommentCount": "6",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "一样的情况[哭惹R]，话说有决定住深圳吗，好多人劝我不要港深通勤",
+      "likeCount": "0",
+      "ipLocation": "加拿大",
+      "subCommentCount": "2",
+      "invalid": false,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1763573197000,
+      "subComments": [
+        {
+          "id": "691e61540000000038009a5a",
+          "content": "我最后还是先接了bdt然后同一天等到cucs了，现在又有点想去cu[呃R]我打算住hk，一是我觉得我没能力一直在深圳实习，二是我npy在hku，我比较倾向住hk[doge]实在要实习了再去深圳租房，深圳租房本来就没那么贵而且房补加一下感觉不需要花什么钱[棒R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "invalid": false,
+          "noteId": "690af834000000000500357c",
+          "status": 0,
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "createTime": 1763598676000,
+          "targetComment": {
+            "id": "691dfdcc000000003800fae2",
+            "userInfo": {
+              "userId": "61b901d8000000001000bb73",
+              "nickname": "。。",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/61b901d8000000001000bb73.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABN68oFu_CSQaNXuk_Yo_HXS9mZq5GdC6lGwP67Kn55as="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "691e61540000000038009a5a",
+      "noteId": "690af834000000000500357c",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "。。",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/61b901d8000000001000bb73.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABN68oFu_CSQaNXuk_Yo_HXS9mZq5GdC6lGwP67Kn55as=",
+        "userId": "61b901d8000000001000bb73"
+      },
+      "subCommentHasMore": true,
+      "id": "691dfdcc000000003800fae2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5e5876820000000001005b6c",
+              "nickname": "天然水",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ti6gp2o4u005nioeq108mrc6vkj0g8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5siXC0Q05KNrafx9qUgSdWixQN1dJHiuViJP7v8Xnvs="
+            },
+            "id": "690b5a0a000000003701209c"
+          },
+          "id": "690b6cb7000000003900acb1",
+          "noteId": "690af834000000000500357c",
+          "content": "是因为一边嫌读博浪费时间，一边又尽可能不做开发，既要又要了属于是[doge]",
+          "atUsers": [],
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY=",
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota"
+          },
+          "createTime": 1762356407000,
+          "invalid": false,
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "690b6cb7000000003900acb1",
+      "id": "690b5a0a000000003701209c",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1762351627000,
+      "subCommentHasMore": true,
+      "showTags": [],
+      "ipLocation": "陕西",
+      "invalid": false,
+      "content": "为什么人人都想走搜广推和大模型开发[笑哭R]其实大模型开发依然是开发，至于搜广推，没有论文的话就很看实习了",
+      "noteId": "690af834000000000500357c",
+      "liked": false,
+      "userInfo": {
+        "userId": "5e5876820000000001005b6c",
+        "nickname": "天然水",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ti6gp2o4u005nioeq108mrc6vkj0g8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5siXC0Q05KNrafx9qUgSdWixQN1dJHiuViJP7v8Xnvs="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "ipLocation": "广东",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABHSudEWFdIEntwFaRQfjT7N6MxTagAfiokah7sGEl_0Y=",
+        "userId": "60c402a1000000000100bd40",
+        "nickname": "CillianH5",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311c21frfmc005o640agg9fa00iu9kc8?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "690b323a000000003803ef08",
+      "invalid": false,
+      "id": "690b2eea0000000039032c9f",
+      "content": "去年10.29CUCS三锁，然后到现在都没个结果。如果到十二月还没发offer的话建议接别的offer",
+      "atUsers": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d3c3a150000000011013eb4",
+            "nickname": "Cocota",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABRh3ja9_JRlPQfDzYbViU98-u75pbE38tp4wqTmUCSXY="
+          },
+          "createTime": 1762341434000,
+          "targetComment": {
+            "id": "690b2eea0000000039032c9f",
+            "userInfo": {
+              "nickname": "CillianH5",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo311c21frfmc005o640agg9fa00iu9kc8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABHSudEWFdIEntwFaRQfjT7N6MxTagAfiokah7sGEl_0Y=",
+              "userId": "60c402a1000000000100bd40"
+            }
+          },
+          "content": "[石化R]这也太恐怖了我靠......",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "invalid": false,
+          "id": "690b323a000000003803ef08",
+          "noteId": "690af834000000000500357c",
+          "status": 0
+        }
+      ],
+      "noteId": "690af834000000000500357c",
+      "status": 0,
+      "likeCount": "5",
+      "createTime": 1762340586000,
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5348 避雷",
+  "search_item": {
+    "id": "690af834000000000500357c",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "cucs谢谢你❤️",
+      "user": {
+        "userId": "5d3c3a150000000011013eb4",
+        "nickname": "Cocota",
+        "xsecToken": "ABMAscXAHdUvVYBanlJRIloUJw_cHirP9bmpfzPrfY5uc=",
+        "nickName": "Cocota",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ne6p0g9mg005n9s78akaflkr7gs22g?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "62",
+        "collected": false,
+        "collectedCount": "38",
+        "commentCount": "126",
+        "sharedCount": "27"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041851/dd482f56b6225828e96b07ab3dbc8428/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041851/cc1fada857cea8855cafcb4b1e8dc8bb/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/dd482f56b6225828e96b07ab3dbc8428/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/cc1fada857cea8855cafcb4b1e8dc8bb/1040g2sg31ogcpdlo58e05n9s78akaflk8ifkp30!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/12defb93eae6e1913402c0a62087f8a8/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041851/a1cbf2f18f4b7fe088ca70cc89fda173/1040g2sg31ohson7omge05n9s78akaflkuddhku8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 794,
+          "width": 1920
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-11-07"
+        }
+      ]
+    },
+    "xsecToken": "ABBE933y1JylrXPZqClf3s_X0aUL-eC15iTq6Qi4itK_Y=",
+    "index": 20,
+    "exposed": false,
+    "trackId": "690af834000000000500357c"
+  }
+}

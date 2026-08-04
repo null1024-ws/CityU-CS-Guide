@@ -1,0 +1,82 @@
+{
+  "note_id": "65bc8e58000000001100d034",
+  "url": "https://www.xiaohongshu.com/explore/65bc8e58000000001100d034?xsec_token=ABThpv2aDu1Qf7UQzF7j7o2mTqqhwGCZ1GpgZsRn3GH0M=",
+  "fetched_at": 1785839683.374881,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "被抓着问的科大cs人必看选课推荐：",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "新学期又到啦，对课程分享做一下更新[赞R]\n（课程要求是PhD的，课程内容本硕博都可以参考）\n.\nPhD课程要求：\n毕业需要18学分，分为以下几部分\n1️⃣ PG core courses：需要12学分即4门，必须分别位于4个不同的area(见P2)，且每门成绩必须在B+及以上。❗️不少同学因为疏忽最后没有达到要求，需要重修/再多选core。建议尽早修完❗️\n2️⃣ 选修课：6学分即2门，要B及以上。\n3️⃣ UG课程和英语课（18学分之外但必要）：COMP3XXX系列的本科基础课(见P3)和LAGN5000/5001(B及以上)。\n.\nCOMP 5212 Machine Learning:\n- workload：日常作业，期末project，期末考(开卷)\n- 课程内容：ml理论+实践。基础知识是概率论和信息论，数学要求不是太高。老师上课时候会现场推公式，作业和考试会有一些公式推导的东西，不是特别难/多。会讲CNN，RNN，transformer，GAN等。作业有code。知识量蛮大，很有用。考试难度一般。\n\t\nCOMP 5421 Computer vision:\n- workload：日常作业，期末考试(开卷)\n- 课程内容：覆盖计算机视觉的很多知识，从传统视觉的各种算子到CNN, RNN(这部分和ML有一定重合)，难度尚可。后边会涉及到一些3D vision的东西，比如，多视角几何，光流，SLAM…难度高，知识量拉满，非常有用，上完基本CV的很多东西都能有初步了解，但是确实需要付出相应的时间。考试难度一般，但题量大时间少。\n\t\n-CIVL5220\n这门课事儿少分多，没期中期末考，有几次作业，每次可能需要几个小时做，不难，最后就是做一个team project，建议作为院内系外课。\n\t\n-COMP6411B\n导论课，不点名，workload一次paper reading，一个team project，建议作选修课。\n\t\n我会继续分享科大学习生活，欢迎关注我的账号:D\n\t\n#香港科技大学[话题]# #学习[话题]# #大学选课[话题]# #学习日常[话题]# #PhD[话题]# #开学[话题]# #选课[话题]# #研究生[话题]# #博士生[话题]# #新生[话题]# #计算机[话题]# #ai[话题]# #香港读研[话题]# #大学生[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "感谢老哥，没你我是真不知道选啥课了[笑哭R][笑哭R]",
+      "sourceRef": "comment:678f7cc3000000000a035faa",
+      "commentId": "678f7cc3000000000a035faa",
+      "likes": 0,
+      "author": "晴天小玉"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不客气～[派对R]加油[大笑R]",
+      "sourceRef": "comment:678f7d0d000000000a037bb1",
+      "commentId": "678f7d0d000000000a037bb1",
+      "likes": 0,
+      "author": "Nick在努力💪"
+    },
+    {
+      "type": "comment",
+      "text": "COMP5212不是闭卷考嘛",
+      "sourceRef": "comment:65be534d000000000803377b",
+      "commentId": "65be534d000000000803377b",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我那年是开卷哟",
+      "sourceRef": "comment:66c536d6000000000c019f28",
+      "commentId": "66c536d6000000000c019f28",
+      "likes": 0,
+      "author": "Nick在努力💪"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下一个学期上多少门课呀？",
+      "sourceRef": "comment:66c402c4000000000502c9bf",
+      "commentId": "66c402c4000000000502c9bf",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "借楼问一下COMP 5311的给分情况[害羞R]",
+      "sourceRef": "comment:69f9894f0000000028032e49",
+      "commentId": "69f9894f0000000028032e49",
+      "likes": 0,
+      "author": "泉水叮咚"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下往年考试题目可以在哪里有参考嘛",
+      "sourceRef": "comment:68f203280000000039020d7c",
+      "commentId": "68f203280000000039020d7c",
+      "likes": 0,
+      "author": "Do Mi So"
+    },
+    {
+      "type": "comment",
+      "text": "[点赞R][点赞R][点赞R][点赞R][点赞R][点赞R]",
+      "sourceRef": "comment:65fd9422000000000402bc5e",
+      "commentId": "65fd9422000000000402bc5e",
+      "likes": 0,
+      "author": "华韵科技"
+    }
+  ]
+}

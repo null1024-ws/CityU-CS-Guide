@@ -1,0 +1,741 @@
+{
+  "note_id": "6a3e9f11000000001503d61f",
+  "url": "https://www.xiaohongshu.com/explore/6a3e9f11000000001503d61f?xsec_token=ABtYENABo3Nbt-QgMhxFmJGAGMYQfvKQvWtx1Int8SnvA=",
+  "fetched_at": 1785843412.6985886,
+  "note": {
+    "type": "normal",
+    "title": "吐槽体系架构科研",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8",
+      "xsecToken": "ABoGXd9uitAMEG7wUB5Vl0TPoASOIqYqcMqBS0yMNC8SY=",
+      "userId": "678870fc00000000080190a1",
+      "nickname": "ロストワンの号哭"
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "livePhoto": false,
+        "width": 1200,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041937/247368fc933f31543e5ff58498580b14/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041937/7f630b57851ad06b84c14ff2dd34113a/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041937/247368fc933f31543e5ff58498580b14/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nd_prv_wlteh_jpg_3",
+        "fileId": "1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0",
+        "height": 1600,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041937/7f630b57851ad06b84c14ff2dd34113a/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "time": 1782488849000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a3e9f11000000001503d61f",
+    "desc": "贴主进组一个月了.组里师兄师姐人很好，这点真的很感谢.而且组里也算得上不错的组，有很多篇ccf-a会.在师兄的带领下ye是看了很多篇体系架构论文.实在打不上兴趣.1.首先很多体系架构不流片，也就是跑不了端到端模型.所以很多论文只写核心算子.实用性不强.   2.很多论文讲求一个大模型算法先创个新.比如剪枝，比如稀释，又或者层的结构发生改善以适配硬件加速.在此基础上硬件对新模型做针对性优化.软硬件协同确实是发论文不错思路.毕竟模型创新比纯加速器架构创新相对简单.不过这样子创新对设计者神经网络知识要求水平不低，贴主本人深度学习水平在同专业绝对不算差的，但是毕竟是ic出生需求我真的对那么多模型创新有敏锐察觉力实在做不到.而且此类asic芯片太专.适配模型有限.而且往往数据流复杂.编译器写不出.     3.不过还是有些论文思路值得学习.比如一篇叫FEATHER的加速器文章提出的蝴蝶网络在片上改变数据排布方式我觉得很神奇.       以上就是贴主的一些体系架构学习心得了.做正统npu还是得公司或计算所那种大组。其实贴主ye是希望在保研前有科研经历.贴主只能算是这方面小白、如果是因为我的目光以及学识短浅而有的错误想法的话还请各位大佬指正.现在正值保研、觉得自己拉完l.每天压力好大哎哎#科研[话题]#  #软硬件协同[话题]# #体系架构[话题]##数字ic[话题]##硬件加速[话题]##本科生科研[话题]# #保研[话题]##焦虑[话题]#\n\t\n二编：怎么这篇帖子吸引了好几个浙大佬和上交国科大de佬.有一个上交佬甚至我当初就是在看他的帖子了解我的梦校东南导师，我纯桂物，东南数字ic都很难选到.不过还是很欢迎和做体系架构的佬交流的。[哇R][哇R]\n\t\n三编：学习了一段时间。发现体系架构还是很有魅力的，有些文章的设计让我觉得很好。如果研究生还能做体系架构的话，我大概会很开心的。只可惜心有余而力不足。",
+    "interactInfo": {
+      "shareCount": "35",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "202",
+      "collected": false,
+      "collectedCount": "181",
+      "followed": false,
+      "relation": "none",
+      "commentCount": "81"
+    },
+    "tagList": [
+      {
+        "id": "5be635a9d111a50001a4436e",
+        "name": "科研",
+        "type": "topic"
+      },
+      {
+        "id": "6753b29c000000000b02c008",
+        "name": "软硬件协同",
+        "type": "topic"
+      },
+      {
+        "id": "640a92af00000000180396e5",
+        "name": "体系架构",
+        "type": "topic"
+      },
+      {
+        "id": "61cdd19f00000000010069f9",
+        "name": "数字ic",
+        "type": "topic"
+      },
+      {
+        "id": "6468407c000000001e012b3f",
+        "name": "硬件加速",
+        "type": "topic"
+      },
+      {
+        "id": "616406c5000000000101f987",
+        "name": "本科生科研",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5bf2f8ef1c593c00015acd64",
+        "name": "保研"
+      },
+      {
+        "id": "5beee7079e1dec0001762fb2",
+        "name": "焦虑",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1783529883000,
+    "ipLocation": "日本",
+    "xsecToken": "ABtYENABo3Nbt-QgMhxFmJGAGMYQfvKQvWtx1Int8SnvA="
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "subComments": [
+        {
+          "createTime": 1782493711000,
+          "ipLocation": "上海",
+          "targetComment": {
+            "id": "6a3eae3600000000150057f3",
+            "userInfo": {
+              "userId": "6391b87c000000001f016166",
+              "nickname": "pep",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hb6ri3pji005oshn1u7qob63u3qdi0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABzX2V_borsAnFsgwk72eXFcuFwxhL3wx4omHrO388PWc="
+            }
+          },
+          "id": "6a3eb20e000000002b027fcd",
+          "noteId": "6a3e9f11000000001503d61f",
+          "atUsers": [],
+          "showTags": [],
+          "invalid": false,
+          "status": 0,
+          "content": "数字ic研究生，感觉很难想到很创新的idea了[笑哭R]。",
+          "liked": false,
+          "likeCount": "4",
+          "userInfo": {
+            "userId": "62a4815c00000000210219df",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/66df10cdb60d8bbbc855322f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB9RNkAQ58FcbcL1xDNvyZ3Ixdc3idH5NPu1rQHXJ1Urw="
+          }
+        }
+      ],
+      "noteId": "6a3e9f11000000001503d61f",
+      "ipLocation": "湖南",
+      "subCommentHasMore": true,
+      "content": "蝴蝶网络是2012年美国的一个专利hhh，电路这里也被抢先发了ISSCC。 然后电路这里的确也做不出啥创新了，还有把deepseek的模型作为challenge来写[捂脸R][捂脸R][捂脸R]",
+      "atUsers": [],
+      "likeCount": "11",
+      "userInfo": {
+        "xsecToken": "ABzX2V_borsAnFsgwk72eXFcuFwxhL3wx4omHrO388PWc=",
+        "userId": "6391b87c000000001f016166",
+        "nickname": "pep",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hb6ri3pji005oshn1u7qob63u3qdi0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "6a3eb20e000000002b027fcd",
+      "id": "6a3eae3600000000150057f3",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1782492726000,
+      "subCommentCount": "6",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "invalid": false,
+      "noteId": "6a3e9f11000000001503d61f",
+      "content": "体系架构太吃资源了[笑哭R]尤其是现在都和大模型结合的玩不然基本发不出好论文[笑哭R][笑哭R]你不是不喜欢体系架构，是你导师的组环境让人做这个就痛苦[笑哭R]我之前在中科院一个组也做这个的，没资源没指导，硬件设备只有一个类似stm32的板子[笑哭R][笑哭R]非常理解这种感受，但是我现在还是学了一生一芯[害羞R][害羞R]我觉得后面对ai infra用处很大。（PS:我博士做计算物理，基本和计算机只有一点交叉但是不是重心）",
+      "createTime": 1782555392000,
+      "ipLocation": "德国",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "66eb9166000000000d02699c",
+            "nickname": "关注我奖励一块华为手表",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322q8drdr006g5pnbi5j3cqcs6l6uea0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABG7nbNNFIZMaZ3MB8OXYBjRjBEGU6Vdts_jzBHsBYYHg="
+          },
+          "createTime": 1782555670000,
+          "targetComment": {
+            "id": "6a3fa2ff00000000140389d4",
+            "userInfo": {
+              "userId": "66eb9166000000000d02699c",
+              "nickname": "关注我奖励一块华为手表",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322q8drdr006g5pnbi5j3cqcs6l6uea0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABG7nbNNFIZMaZ3MB8OXYBjRjBEGU6Vdts_jzBHsBYYHg="
+            }
+          },
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "3",
+          "showTags": [],
+          "ipLocation": "德国",
+          "id": "6a3fa4150000000015003215",
+          "noteId": "6a3e9f11000000001503d61f",
+          "status": 0,
+          "content": "说来我当时记得CMU一个组这方面做的特别好，因为我有个ustc的朋友直博去的这里。我当时没资源没指导但是还是在我这个朋友帮助下三个月完成MICRO，而且在自己本身写作特别菜的情况下还进入第一批了[派对R]（MICRO最终审稿前会发个邮件告诉你什么前40%进入最后评审，附赠审稿意见可以rebuttal或者补充修改啥的），只不过因为这篇论文一作被抢给组里老板嫡系了，那个嫡系从头到尾啥都没做，所以rebuttal阶段他不过来帮忙干活我也就直接摆烂放弃[偷笑R][偷笑R]"
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a3fa2ff00000000140389d4",
+      "userInfo": {
+        "xsecToken": "ABG7nbNNFIZMaZ3MB8OXYBjRjBEGU6Vdts_jzBHsBYYHg=",
+        "userId": "66eb9166000000000d02699c",
+        "nickname": "关注我奖励一块华为手表",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322q8drdr006g5pnbi5j3cqcs6l6uea0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "6a3fa4150000000015003215",
+      "atUsers": [],
+      "liked": false,
+      "status": 0,
+      "likeCount": "8",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "3",
+      "showTags": [],
+      "createTime": 1782518353000,
+      "subCommentCount": "7",
+      "id": "6a3f1250000000002a02d402",
+      "noteId": "6a3e9f11000000001503d61f",
+      "subCommentCursor": "6a3f5139000000002b026ed9",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABLvN8YYHXmebHFYspj50xfKdAlI5-qnlwFLccFUzWVFU=",
+        "userId": "60a4c90200000000010036cd",
+        "nickname": "也先",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6447e227b72edfcefe4e8c6e.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "北京",
+      "subComments": [
+        {
+          "likeCount": "7",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r1chhol7o5g5q9c5nqsjqsg4ra153g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDhvZe-lnuU6TsZ3WIuLzNY3XrjILSMkC6is_iBBYGh4=",
+            "userId": "692c2df5000000003201eb90",
+            "nickname": "别耐听王了，写题去吧"
+          },
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a3f1250000000002a02d402",
+            "userInfo": {
+              "userId": "60a4c90200000000010036cd",
+              "nickname": "也先",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6447e227b72edfcefe4e8c6e.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABLvN8YYHXmebHFYspj50xfKdAlI5-qnlwFLccFUzWVFU="
+            }
+          },
+          "noteId": "6a3e9f11000000001503d61f",
+          "status": 0,
+          "content": "因为只要算法端一变，硬件架构全白做吗？",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1782534458000,
+          "invalid": false,
+          "id": "6a3f5139000000002b026ed9",
+          "liked": false
+        }
+      ],
+      "status": 0,
+      "content": "别做算法-硬件协同[doge]",
+      "liked": false,
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "9",
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "id": "6a3f96fd000000001500b85b",
+          "noteId": "6a3e9f11000000001503d61f",
+          "status": 0,
+          "liked": false,
+          "likeCount": "5",
+          "createTime": 1782552318000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "6a3f956300000000050093d3",
+            "userInfo": {
+              "nickname": "DuoDuo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6128ac8d000000002002ae8c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABO6wOSHSRT8kt58h6IBuroOV_3l8wcbqFhwVfhMb9-rY=",
+              "userId": "6128ac8d000000002002ae8c"
+            }
+          },
+          "content": "感觉流片的工作写的代码会严谨一点？经过很多验证能实际投入使用.不流片的往往搭个架子.我们组里大部分人以后都不找ic的工作.因为写的算子代码没能考虑那么多缓存、读取调度等",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI=",
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "createTime": 1782551908000,
+      "ipLocation": "北京",
+      "showTags": [],
+      "subCommentCursor": "6a3f96fd000000001500b85b",
+      "id": "6a3f956300000000050093d3",
+      "noteId": "6a3e9f11000000001503d61f",
+      "content": "流片的工作是什么很有吸引力的东西吗？",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABO6wOSHSRT8kt58h6IBuroOV_3l8wcbqFhwVfhMb9-rY=",
+        "userId": "6128ac8d000000002002ae8c",
+        "nickname": "DuoDuo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6128ac8d000000002002ae8c.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a3e9f11000000001503d61f",
+      "ipLocation": "北京",
+      "subCommentCount": "2",
+      "invalid": false,
+      "content": "请问想做这个方向清华电子系和计算所哪个比较好啊[哭惹R]除去title是不是计算所更强一点",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": true,
+      "liked": false,
+      "likeCount": "1",
+      "createTime": 1782533681000,
+      "subComments": [
+        {
+          "atUsers": [],
+          "userInfo": {
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782533740000,
+          "ipLocation": "湖南",
+          "invalid": false,
+          "noteId": "6a3e9f11000000001503d61f",
+          "status": 0,
+          "content": "体系架构计算所很强.清华集院不清楚.电子院不如计算所",
+          "liked": false,
+          "likeCount": "3",
+          "targetComment": {
+            "id": "6a3f4e30000000002b02b8b4",
+            "userInfo": {
+              "userId": "5b5a010211be106a380ecc71",
+              "nickname": "Paigeff",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6728d68d7885eb6c640da21c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABp_zKhNZxK29nek8YRi3Eu4bN9GNASyhwKq_vI9c10Bo="
+            }
+          },
+          "id": "6a3f4e6c0000000015016cfe"
+        }
+      ],
+      "id": "6a3f4e30000000002b02b8b4",
+      "status": 0,
+      "userInfo": {
+        "userId": "5b5a010211be106a380ecc71",
+        "nickname": "Paigeff",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6728d68d7885eb6c640da21c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABp_zKhNZxK29nek8YRi3Eu4bN9GNASyhwKq_vI9c10Bo="
+      },
+      "subCommentCursor": "6a3f4e6c0000000015016cfe",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "[回招呼]大佬是ic转体系吗",
+      "likeCount": "1",
+      "createTime": 1782494107000,
+      "subComments": [
+        {
+          "status": 0,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南",
+          "invalid": false,
+          "id": "6a3f3a0f000000001500365e",
+          "noteId": "6a3e9f11000000001503d61f",
+          "content": "哈哈不是大佬.以前做ic的.但是感觉自己摸索水平非常难提升于是进组学习[捂脸R]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI="
+          },
+          "createTime": 1782528528000,
+          "targetComment": {
+            "id": "6a3eb39a000000001500a433",
+            "userInfo": {
+              "nickname": "tomjoe6",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p6a7lv3jc005o82gi208vsd4se4j08?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5-NnlHIAuZFvfc5dAK3x7jFhbLLifvP_5JG1cXYtsz8=",
+              "userId": "610284840000000001007f8d"
+            }
+          }
+        }
+      ],
+      "noteId": "6a3e9f11000000001503d61f",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p6a7lv3jc005o82gi208vsd4se4j08?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5-NnlHIAuZFvfc5dAK3x7jFhbLLifvP_5JG1cXYtsz8=",
+        "userId": "610284840000000001007f8d",
+        "nickname": "tomjoe6"
+      },
+      "showTags": [],
+      "subCommentCount": "6",
+      "id": "6a3eb39a000000001500a433",
+      "status": 0,
+      "ipLocation": "上海",
+      "subCommentCursor": "6a3f3a0f000000001500365e",
+      "invalid": false,
+      "liked": false,
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a3eba6500000000150079ba",
+      "content": "湖南有啥学校，国防科大，这也不发四大啊",
+      "ipLocation": "广东",
+      "noteId": "6a3e9f11000000001503d61f",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABGM3JHi5dZmv6h_sLguPEiKuacSTPQUYgPIpC5shboL0=",
+        "userId": "693ca4ee000000002b00a10c",
+        "nickname": "小红薯693D2A3E",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1782495846000,
+      "subCommentHasMore": true,
+      "status": 0,
+      "liked": false,
+      "subComments": [
+        {
+          "id": "6a3efd85000000002b024829",
+          "status": 0,
+          "content": "hnu？",
+          "showTags": [],
+          "ipLocation": "浙江",
+          "invalid": false,
+          "noteId": "6a3e9f11000000001503d61f",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "别耐听王了，写题去吧",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r1chhol7o5g5q9c5nqsjqsg4ra153g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDhvZe-lnuU6TsZ3WIuLzNY3XrjILSMkC6is_iBBYGh4=",
+            "userId": "692c2df5000000003201eb90"
+          },
+          "createTime": 1782513029000,
+          "targetComment": {
+            "id": "6a3eba6500000000150079ba",
+            "userInfo": {
+              "userId": "693ca4ee000000002b00a10c",
+              "nickname": "小红薯693D2A3E",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGM3JHi5dZmv6h_sLguPEiKuacSTPQUYgPIpC5shboL0="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "6a3efd85000000002b024829",
+      "likeCount": "1",
+      "subCommentCount": "7",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "我博一认识到这点后，从arch/电路转算法/infra去了[笑哭R]。我读硕的时候arch科研和算法科研的差距还不大，算法那边大部分也就是做一些没啥用的corner case优化和微小的增量/排列组合创新，也没啥实际意义。可从23年llm出来后，两边的科研的质量差距被拉的很大，arch这边永远都是一些吊用没有的研究，算法那边日新月异大跨步演变。",
+      "liked": false,
+      "ipLocation": "湖南",
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5d03e2d1000000001200d311",
+        "nickname": "啦啦啦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d03e308e51467000108931b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB2H2bWv5uCIVYIfJayRC2Sb15lNo8Mpw4ELbDZ4PKZCQ="
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a3f369b0000000009016cf7",
+            "userInfo": {
+              "xsecToken": "AB2H2bWv5uCIVYIfJayRC2Sb15lNo8Mpw4ELbDZ4PKZCQ=",
+              "userId": "5d03e2d1000000001200d311",
+              "nickname": "啦啦啦",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d03e308e51467000108931b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "6a3e9f11000000001503d61f",
+          "content": "正确的.这个可能更吃香.毕竟xhs大部分人这么说[微笑R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI=",
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭"
+          },
+          "createTime": 1782528688000,
+          "id": "6a3f3ab000000000150015cb",
+          "status": 0,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖南"
+        }
+      ],
+      "invalid": false,
+      "id": "6a3f369b0000000009016cf7",
+      "likeCount": "13",
+      "createTime": 1782527644000,
+      "subCommentCursor": "6a3f3ab000000000150015cb",
+      "noteId": "6a3e9f11000000001503d61f",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a3ea0a3000000002a030fe4",
+      "noteId": "6a3e9f11000000001503d61f",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "1",
+      "subComments": [
+        {
+          "id": "6a3ea202000000001500b888",
+          "noteId": "6a3e9f11000000001503d61f",
+          "content": "哈哈喔初入门而已.其实本身不是非常愿意做[笑哭R]以后我继续研究有点水平以后再和浙✌🏻交流估计更有深度",
+          "atUsers": [],
+          "createTime": 1782489603000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "6a3ea0a3000000002a030fe4",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66cfb7c6e9acc3f1ee3ec4c1.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABgKxD7-ROuETGw-VstPW-05zRKgZSe4vNmERsR-l16Hg=",
+              "userId": "648af6ca0000000012034036",
+              "nickname": "RaspG&T"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "invalid": false,
+      "userInfo": {
+        "userId": "648af6ca0000000012034036",
+        "nickname": "RaspG&T",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66cfb7c6e9acc3f1ee3ec4c1.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABgKxD7-ROuETGw-VstPW-05zRKgZSe4vNmERsR-l16Hg="
+      },
+      "content": "同好同好 可以互相交流一下[喝奶茶R]",
+      "liked": false,
+      "createTime": 1782489252000,
+      "subCommentCount": "3",
+      "subCommentCursor": "6a3ea202000000001500b888",
+      "subCommentHasMore": true,
+      "showTags": [],
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "其实isscc和vlsi上的数字片子很少会真的跑完整layer，真的想实用的话软件配套的工作量也不比流片小",
+      "ipLocation": "广东",
+      "subCommentCursor": "6a3f47d2000000001500112e",
+      "status": 0,
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABYBk5Ps4eBTGuP-Zq6oNF-M6kv3_roPfyNHcCpClbr5I=",
+        "userId": "6204d7be000000001000cb60",
+        "nickname": "方方土",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vu97rd55q6g5og4quv41ir07i0pjvo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "createTime": 1782531881000,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a3f4729000000001500a4c9",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABYBk5Ps4eBTGuP-Zq6oNF-M6kv3_roPfyNHcCpClbr5I=",
+              "userId": "6204d7be000000001000cb60",
+              "nickname": "方方土",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vu97rd55q6g5og4quv41ir07i0pjvo?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "content": "确实他们硬件都做的很复杂编译器不好写.之前在知乎就看有佬吐槽说i上流片出的很多也跑不了端到端，还有人吐槽纯“雕花”",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false,
+          "id": "6a3f47d2000000001500112e",
+          "noteId": "6a3e9f11000000001503d61f",
+          "status": 0,
+          "userInfo": {
+            "userId": "678870fc00000000080190a1",
+            "nickname": "ロストワンの号哭",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB-BxVsSldR8Ha1upOTnZdJX0KNu5mVky4XKl4wK1dLRI="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782532050000,
+          "ipLocation": "湖南"
+        }
+      ],
+      "id": "6a3f4729000000001500a4c9",
+      "noteId": "6a3e9f11000000001503d61f",
+      "subCommentCount": "1",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 评价",
+  "search_item": {
+    "id": "6a3e9f11000000001503d61f",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "ロストワンの号哭",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3212l3jn37o005ps8e3u23451j9vqkk8?imageView2/2/w/80/format/jpg",
+        "userId": "678870fc00000000080190a1",
+        "nickname": "ロストワンの号哭",
+        "xsecToken": "ABk6tC4ConyIgNwikVQzNoJBCc5mJv51U6AlLZWg6BzPM="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "181",
+        "commentCount": "81",
+        "sharedCount": "35",
+        "liked": false,
+        "likedCount": "202"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041936/e00a3f67a5f534e603282afadb189e00/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041936/8fe6c3f097afaae1ae2894fecb0cf8b7/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041936/e00a3f67a5f534e603282afadb189e00/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041936/8fe6c3f097afaae1ae2894fecb0cf8b7/1040g2sg321sqmb9l7o005ps8e3u23451c3ua5g0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-09"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "吐槽体系架构科研"
+    },
+    "xsecToken": "ABtYENABo3Nbt-QgMhxFmJGAGMYQfvKQvWtx1Int8SnvA=",
+    "index": 20,
+    "exposed": false,
+    "trackId": "6a3e9f11000000001503d61f"
+  }
+}

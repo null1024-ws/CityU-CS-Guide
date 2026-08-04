@@ -1,0 +1,43 @@
+{
+  "note_id": "f5971521-48c2-4342-8ccb-5caf1df677e7",
+  "url": "https://www.xiaohongshu.com/explore/f5971521-48c2-4342-8ccb-5caf1df677e7?xsec_token=ABfJQtNXnYsulKPT-z30k7csDS_sl4nYNEvFUWs62U9nFpSpdb_NeSFy2YEzfc8SHwQdt9bqjCU-OiRGfpskisc1k-UWj5GB6tYZKKexM4RmE=",
+  "fetched_at": 1785837968.2118754,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS5185",
+  "search_item": {
+    "id": "f5971521-48c2-4342-8ccb-5caf1df677e7#1785837923627",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "f5971521-48c2-4342-8ccb-5caf1df677e7#1785837923627",
+      "queries": [
+        {
+          "id": "cityu is5238申请状态",
+          "name": "cityu is5238申请状态",
+          "searchWord": "cityu is5238申请状态"
+        },
+        {
+          "id": "cityu cs5185成绩",
+          "name": "cityu cs5185成绩",
+          "searchWord": "cityu cs5185成绩"
+        },
+        {
+          "id": "cityu cs1302",
+          "name": "cityu cs1302",
+          "searchWord": "cityu cs1302"
+        },
+        {
+          "name": "cityu ef5403考试",
+          "searchWord": "cityu ef5403考试",
+          "id": "cityu ef5403考试"
+        }
+      ]
+    },
+    "xsecToken": "ABfJQtNXnYsulKPT-z30k7csDS_sl4nYNEvFUWs62U9nFpSpdb_NeSFy2YEzfc8SHwQdt9bqjCU-OiRGfpskisc1k-UWj5GB6tYZKKexM4RmE=",
+    "index": 26,
+    "exposed": false,
+    "trackId": "f5971521-48c2-4342-8ccb-5caf1df677e7#1785837923627"
+  }
+}

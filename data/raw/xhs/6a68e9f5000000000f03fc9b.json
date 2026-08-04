@@ -1,0 +1,375 @@
+{
+  "note_id": "6a68e9f5000000000f03fc9b",
+  "url": "https://www.xiaohongshu.com/explore/6a68e9f5000000000f03fc9b?xsec_token=ABOWOz_t0rhEX5A8E6KwT3vAy8Hl3bl7JR4kQqCf6s1FI=",
+  "fetched_at": 1785843332.62006,
+  "note": {
+    "xsecToken": "ABOWOz_t0rhEX5A8E6KwT3vAy8Hl3bl7JR4kQqCf6s1FI=",
+    "tagList": [
+      {
+        "id": "6a68e54c000000002d0075e5",
+        "name": "VisualCoding",
+        "type": "topic"
+      },
+      {
+        "id": "6a68e54c000000002d0075e6",
+        "name": "多模态代码智能",
+        "type": "topic"
+      },
+      {
+        "id": "67a2c35000000000040261ae",
+        "name": "CodeAgent",
+        "type": "topic"
+      },
+      {
+        "id": "6388240800000000010058c5",
+        "name": "论文分享",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "65d9983a00000000020180b3",
+        "name": "TMLR"
+      }
+    ],
+    "time": 1785260533000,
+    "lastUpdateTime": 1785260533000,
+    "type": "normal",
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "10",
+      "followed": false,
+      "likedCount": "52",
+      "collected": false,
+      "collectedCount": "50",
+      "shareCount": "26"
+    },
+    "atUserList": [],
+    "ipLocation": "北京",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a68e9f5000000000f03fc9b",
+    "title": "宣传一下在前司写的visual coding综述",
+    "desc": "半年前在前司写的综述终于中了！！顺带发张离职时候拍的小袋鼠🦘\n[TMLR 2026] 《Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence》 — 关于多模态代码智能的结构化综述\n💡 先问一个问题：\n现在的AI编程Agent都在干嘛？\n读文字需求 → 改代码 → 跑测试 ✅\n但大量编程任务的意图和反馈，本身就藏在视觉世界里——网页截图、UI 设计稿、图表、CAD、甚至交互视频。\n🎯 这就是「Visual Coding」\n不只是\"看图写代码\"，它是一个完整闭环：\n视觉意图 → 生成代码 → 执行渲染 → 观察结果 → 迭代修复\n⚡ 和 General Coding 的核心区别：\nGeneral Coding 问：代码能跑吗？\nVisual Coding 还要问：跑完之后，看起来对吗？\n网页能运行，但布局可能错位\n图表能渲染，但数据语义可能错误\n首屏看起来相似，但按钮可能点不动\n👉 这篇综述就是来回答这些问题的。\n我们系统梳理了整个多模态代码智能领域，把它结构化地分成了四大方向：\n🖥️ GUI（网页、移动端）\n📊 科学可视化（图表、文档PPT）\n🎨 结构化图形（SVG、流程图、CAD）\n🔮 前沿任务（视频、具身、Think with image）\n💬 总结来说：\nGeneral Coding 关心代码实现了什么；\nVisual Coding 还关心代码执行后，界面变成了什么。\n后续我们会update近期的相关工作，欢迎大家阅读和交流！！\n#VisualCoding[话题]# #多模态代码智能[话题]# #CodeAgent[话题]# #论文分享[话题]# #TMLR[话题]#",
+    "user": {
+      "userId": "60b4623e0000000001008784",
+      "nickname": "Noct",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rso6ia5ia005o5kc8v091s473ip2j0",
+      "xsecToken": "ABHpI7hB8Vtv7550splNNL2sSIS5UAPw2a5ts6RWmYJns="
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041935/630a3cfd88ce0d983cd2b0903ee35994/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041935/548b917bb4ada919fb0f06cce4130330/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg",
+        "height": 918,
+        "width": 1254,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041935/630a3cfd88ce0d983cd2b0903ee35994/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041935/548b917bb4ada919fb0f06cce4130330/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nd_dft_wgth_jpg_3"
+          }
+        ]
+      },
+      {
+        "fileId": "note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38",
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041935/81ccd3adc01fcc5edbd24f24d0a70081/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041935/a9359aa4523aa445e345d2a241d4f1d0/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041935/a9359aa4523aa445e345d2a241d4f1d0/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nd_dft_wlteh_jpg_3",
+        "height": 4032,
+        "width": 3024,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041935/81ccd3adc01fcc5edbd24f24d0a70081/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ]
+  },
+  "comments": [
+    {
+      "id": "6a6903c00000000014038733",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "北京",
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "content": "请问文献主要update到什么时候啊？",
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "createTime": 1785289975000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a6903c00000000014038733",
+            "userInfo": {
+              "userId": "5c1997540000000007020ee7",
+              "nickname": "Strong_Accept",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5c1998fd313d5500015b56fd.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABoFQ6XpBJMZ3pjoTCyAQo337_LsJh_VFz3LuOBs5G6rU="
+            }
+          },
+          "id": "6a695cf6000000002a0253a5",
+          "content": "现在还是投稿时候的paper list，准备先更新一下github 再慢慢改论文[皱眉R][皱眉R]",
+          "atUsers": [],
+          "liked": false,
+          "invalid": false,
+          "noteId": "6a68e9f5000000000f03fc9b",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "60b4623e0000000001008784",
+            "nickname": "Noct",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rso6ia5ia005o5kc8v091s473ip2j0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7uROvmkKd9gtBBjiMnFz5bvxPmlYpzGfGUtM-RoO49w="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a68e9f5000000000f03fc9b",
+      "createTime": 1785267136000,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABoFQ6XpBJMZ3pjoTCyAQo337_LsJh_VFz3LuOBs5G6rU=",
+        "userId": "5c1997540000000007020ee7",
+        "nickname": "Strong_Accept",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5c1998fd313d5500015b56fd.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "6a695cf6000000002a0253a5",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABpg42YqA2FvdYKOlQHv8wochfqhYrkB882bwLl5ylwYo=",
+        "userId": "64df63240000000001013725",
+        "nickname": "聊赠一枝春（思考idea版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rq5cjj12m005p6vcci0adp5c0tegc8?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6a68ea6c0000000015002a08",
+      "noteId": "6a68e9f5000000000f03fc9b",
+      "content": "佬[抽泣R]",
+      "atUsers": [],
+      "likeCount": "1",
+      "createTime": 1785260653000,
+      "ipLocation": "北京",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1785399654000,
+          "targetComment": {
+            "id": "6a6b08a9000000002a00597a",
+            "userInfo": {
+              "userId": "640d1f4f000000001f03037c",
+              "nickname": "起亚",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rumonboig605p0d3t7nu0rs0va1mlo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AByuJftD7xPjpcoClc5jvC6gtgbUUh5EHmJeIhpD8evK4="
+            }
+          },
+          "invalid": false,
+          "id": "6a6b0966000000002b024ce9",
+          "noteId": "6a68e9f5000000000f03fc9b",
+          "status": 0,
+          "content": "[哇R]",
+          "liked": false,
+          "userInfo": {
+            "userId": "60b4623e0000000001008784",
+            "nickname": "Noct",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rso6ia5ia005o5kc8v091s473ip2j0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7uROvmkKd9gtBBjiMnFz5bvxPmlYpzGfGUtM-RoO49w="
+          },
+          "ipLocation": "北京",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "subCommentCursor": "6a6b0966000000002b024ce9",
+      "subCommentHasMore": false,
+      "content": "佬[哇R]",
+      "showTags": [],
+      "createTime": 1785399466000,
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "6a68e9f5000000000f03fc9b",
+      "id": "6a6b08a9000000002a00597a",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "640d1f4f000000001f03037c",
+        "nickname": "起亚",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rumonboig605p0d3t7nu0rs0va1mlo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByuJftD7xPjpcoClc5jvC6gtgbUUh5EHmJeIhpD8evK4="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "佬[抽泣R]",
+      "ipLocation": "北京",
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "id": "6a695bdd000000001403ba70",
+      "liked": false,
+      "likeCount": "1",
+      "subCommentHasMore": false,
+      "noteId": "6a68e9f5000000000f03fc9b",
+      "userInfo": {
+        "userId": "5c45bd8500000000120370d0",
+        "nickname": "人称小坎耶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2nmgsbaak40005n25nm2kms6gkm8liko?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABskEqryAPWz17hqZbMH8vmPZcBF95wkX5thBqxLn2Kkg="
+      },
+      "showTags": [],
+      "createTime": 1785289694000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vui4lha2q505o6b37fg914uvvsmk7o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABi6Akig1NFbnC8ZAsHENiIkN7LZsooZPVQSsyv2vuMvg=",
+        "userId": "60cb19df000000000100849e",
+        "nickname": "Kernel"
+      },
+      "subCommentCount": "0",
+      "createTime": 1785291921000,
+      "ipLocation": "北京",
+      "subComments": [],
+      "id": "6a696490000000001500b7c9",
+      "noteId": "6a68e9f5000000000f03fc9b",
+      "status": 0,
+      "content": "[哇R][哇R][哇R]",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "likeCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 视觉语言",
+  "search_item": {
+    "xsecToken": "ABOWOz_t0rhEX5A8E6KwT3vAy8Hl3bl7JR4kQqCf6s1FI=",
+    "id": "6a68e9f5000000000f03fc9b",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "宣传一下在前司写的visual coding综述",
+      "user": {
+        "nickName": "Noct",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rso6ia5ia005o5kc8v091s473ip2j0?imageView2/2/w/80/format/jpg",
+        "userId": "60b4623e0000000001008784",
+        "nickname": "Noct",
+        "xsecToken": "AB3NJxQeadtlNI_7DcQyS42YvQx5vHNRfJFneRApkupDk="
+      },
+      "interactInfo": {
+        "sharedCount": "26",
+        "liked": false,
+        "likedCount": "52",
+        "collected": false,
+        "collectedCount": "50",
+        "commentCount": "10"
+      },
+      "cover": {
+        "height": 918,
+        "width": 1254,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041935/382eeb5af0ab9ddbd2bacb5ef52925f1/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041935/20c1ec8c1ba1e72cdc61c1a6fb0af90e/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 918,
+          "width": 1254,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/382eeb5af0ab9ddbd2bacb5ef52925f1/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/20c1ec8c1ba1e72cdc61c1a6fb0af90e/notes_pre_post/1040g3k8323646nci02805o5kc8v091s4s6k6amg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 4032,
+          "width": 3024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/d6ff6d1a732f9b94f36aa41b3bc8c09e/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041935/e46c1462f81f4216982c79064ed679d4/note_pre_post_uhdr/1040g3r032364nen0g2005o5kc8v091s47p48m38!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ]
+    },
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a68e9f5000000000f03fc9b"
+  }
+}

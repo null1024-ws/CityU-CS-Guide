@@ -1,0 +1,98 @@
+{
+  "note_id": "69b440fa00000000220259ee",
+  "url": "https://www.xiaohongshu.com/explore/69b440fa00000000220259ee?xsec_token=ABpotibgdX_CjDka3anepOTduIJmEvhhc2KO-Y-IsV5ac=",
+  "fetched_at": 1785839153.2680774,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "web search求助",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "有大佬知道为什么kimi明明有余额而且api key也是最新的，也配置好了web search provider，但是还是401嘛？孩子要被弄疯了，求求大佬。#龙虾[话题]# #openclaw[话题]# #编程[话题]# #月之暗面[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我在.jason配置文件里寻找web项显式增加了base url和model两个条目。现在可以用了。Model里指定模型moonshot-v1-128k",
+      "sourceRef": "comment:69b61533000000000d0375ff",
+      "commentId": "69b61533000000000d0375ff",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "谢谢大佬！！我成功了[哭惹R][哭惹R][哭惹R]",
+      "sourceRef": "comment:69b6ba920000000018038ab2",
+      "commentId": "69b6ba920000000018038ab2",
+      "likes": 0,
+      "author": "island"
+    },
+    {
+      "type": "comment",
+      "text": "千万别用",
+      "sourceRef": "comment:69cb3e920000000031032cf5",
+      "commentId": "69cb3e920000000031032cf5",
+      "likes": 0,
+      "author": "快进到下次见面"
+    },
+    {
+      "type": "sub_comment",
+      "text": "已经用skill了，kimi这个我真用不明白[叹气R]",
+      "sourceRef": "comment:69cb4385000000000f00e689",
+      "commentId": "69cb4385000000000f00e689",
+      "likes": 0,
+      "author": "island"
+    },
+    {
+      "type": "comment",
+      "text": "我也遇到了同样问题！",
+      "sourceRef": "comment:69b60eb0000000000d034c7e",
+      "commentId": "69b60eb0000000000d034c7e",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "不过搜索功能比较弱，调用时不能限定语言和日期等",
+      "sourceRef": "comment:69b6155f0000000002035e13",
+      "commentId": "69b6155f0000000002035e13",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "中文的网页生成的api用的base url和默认的（英文网页生成的）不是一个，",
+      "sourceRef": "comment:69b442e8000000001d00b1c9",
+      "commentId": "69b442e8000000001d00b1c9",
+      "likes": 1,
+      "author": "特级高盐咸鱼"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那我改成英文网页生成的就好了么？",
+      "sourceRef": "comment:69b444d2000000001d008574",
+      "commentId": "69b444d2000000001d008574",
+      "likes": 0,
+      "author": "island"
+    },
+    {
+      "type": "comment",
+      "text": "我也是这样",
+      "sourceRef": "comment:69bb3588000000001500240e",
+      "commentId": "69bb3588000000001500240e",
+      "likes": 0,
+      "author": "克劳德しゅじ"
+    },
+    {
+      "type": "comment",
+      "text": "+1[捂脸R][捂脸R]",
+      "sourceRef": "comment:69c4df220000000016016b03",
+      "commentId": "69c4df220000000016016b03",
+      "likes": 0,
+      "author": "灰"
+    }
+  ]
+}

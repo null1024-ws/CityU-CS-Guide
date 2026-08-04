@@ -1,0 +1,53 @@
+{
+  "note_id": "68a5d917000000001c0354a9",
+  "url": "https://www.xiaohongshu.com/explore/68a5d917000000001c0354a9?xsec_token=AB7eI2wp7bvpfPc-ry6wXOV3v8DNoRaV7ENg4KFTW01Uw=",
+  "fetched_at": 1785838676.1439536,
+  "course_codes": [
+    "CS3334",
+    "CS6382"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "有上过CS6382的吗？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "网上没有什么和这科有关的资源，在小红书也没有找到什么评价。我会微积分和线性代数、也有博弈论和拍卖理论的基础（会计算和证明一点结论），但没有接触过算法分析（对算法的认知停在CS3334的层次）。\n\t\n想选这科主要是不想投入太多精力背书和希望学些偏数学的东西，读五科的话这科是个好选择吗？[失望R]\n\t\n#香港城市大学[话题]# #港硕[话题]# #计算机[话题]# #CS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "前半部分讲算法，后半部分讲博弈论，作业证明题略难，像我这种笨笨的做作业折磨的要死[哭惹R]，考试有难题有简单题，想过挺容易的，老师讲课也不错，英文发音特别好听[偷笑R]但是就是挺折磨....学不懂",
+      "sourceRef": "comment:68a68db00000000030015c5b",
+      "commentId": "68a68db00000000030015c5b",
+      "likes": 2,
+      "author": "winterspring"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是Minming吗？（城大可能也只有他能教这种东西了）最后什么grade呀[笑哭R]",
+      "sourceRef": "comment:68a6917e0000000030015611",
+      "commentId": "68a6917e0000000030015611",
+      "likes": 3,
+      "author": "Huh"
+    },
+    {
+      "type": "comment",
+      "text": "喜欢minming 想上minming的课[哭惹R]",
+      "sourceRef": "comment:68a71ce6000000003003081e",
+      "commentId": "68a71ce6000000003003081e",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我也是[笑哭R] Minming太强了，如果有他十分之一聪明我人生就𣈱通无阻了[笑哭R]",
+      "sourceRef": "comment:68a7219b000000003000a00e",
+      "commentId": "68a7219b000000003000a00e",
+      "likes": 0,
+      "author": "Huh"
+    }
+  ]
+}

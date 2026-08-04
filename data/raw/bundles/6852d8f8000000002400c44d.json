@@ -1,0 +1,66 @@
+{
+  "note_id": "6852d8f8000000002400c44d",
+  "url": "https://www.xiaohongshu.com/explore/6852d8f8000000002400c44d?xsec_token=ABIDVGpXuqxAvrRwrAQqpnt63W8vJo9m12iZF_TM7K0Hs=",
+  "fetched_at": 1785842896.3133008,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "6.17 jailbreak paper | 4th day",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "SoK: Evaluating Jailbreak Guardrails for Large Language Models：LLM guardrails的综述，对LLM guardrails 分类和测评，提出了一个evaluation framework\nLLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges： 对恶意代码生成的benchmark，包含了3520个恶意prompt\nA Systematic Survey on Black-box Attacks in Large Language Models Within Communication Networks： 黑盒攻击的survey\nEnhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations：针对medical vision-language models的推理时用的防御手段。避免恶意使用（比如用CT结果骗保）\nHow Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?：推理模型在被注入无用的思想的时候能难回到主线上，而且大模型比小模型更糟糕\nGenBreak: Red Teaming Text-to-Image Generators Using Large Language Models ：介绍了一个名为 GenBreak 的新方法，旨在评估并揭示文本生成图像（Text-to-Image, T2I）模型（例如 Stable Diffusion）中的安全漏洞。（本质上也是个攻击）\nEffective Red-Teaming of Policy-Adherent Agents： 用multi-agent red-teaming system攻击客服\n倒数第二篇：提示词变异的影响\n最后一篇：用攻击结果来finetune（没看懂怎么train的）\n以后不看jailbreak了，这个方向有点无聊",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "怎么还在jailbreak",
+      "sourceRef": "comment:6853b998000000000d017106",
+      "commentId": "6853b998000000000d017106",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不jailbreak了 溜了溜了",
+      "sourceRef": "comment:6853c4870000000004014e0b",
+      "commentId": "6853c4870000000004014e0b",
+      "likes": 0,
+      "author": "小红薯60A9F74A"
+    },
+    {
+      "type": "comment",
+      "text": "这个领域看几篇文章就结束了",
+      "sourceRef": "comment:68537386000000000c01798c",
+      "commentId": "68537386000000000c01798c",
+      "likes": 0,
+      "author": "用户已注销"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那倒也没那么垃",
+      "sourceRef": "comment:6853827c00000000040142fa",
+      "commentId": "6853827c00000000040142fa",
+      "likes": 0,
+      "author": "小红薯60A9F74A"
+    },
+    {
+      "type": "comment",
+      "text": "支持[doge]",
+      "sourceRef": "comment:6852daf500000000200262c1",
+      "commentId": "6852daf500000000200262c1",
+      "likes": 0,
+      "author": "{{ full name }}"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[笑哭了R]",
+      "sourceRef": "comment:6852db94000000000400f89e",
+      "commentId": "6852db94000000000400f89e",
+      "likes": 0,
+      "author": "小红薯60A9F74A"
+    }
+  ]
+}

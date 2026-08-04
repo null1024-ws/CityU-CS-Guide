@@ -1,0 +1,74 @@
+{
+  "note_id": "695ef037000000001a032d39",
+  "url": "https://www.xiaohongshu.com/explore/695ef037000000001a032d39?xsec_token=ABGXpOKISUX3XlHOOET7DoUeynNoOH5ThnE_EIz-MpOT4=",
+  "fetched_at": 1785843197.590315,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS336 A1通关：30分钟出图",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🎉CS336 Assignment 01 完成。\n虽然严格来说“全做完”里消融实验还没补，但整体流程已经跑通✅\n除了 BPE-Tokenizer 那块稍微麻烦一点，其他部分真的相对友好～\n📌代码已上传 GitHub（模型代码 + 训练代码全套），想对照实现/复现结果/一起交流的同学都可以去看看！\n\t\n🚀H100 训练速度实测：真的夸张\n我用的配置：\n✅ batch_size = 256\n✅ total_steps = 10,000\n\t\n结果：1 张 H100 训练约 30 分钟就能拿到图7️⃣图8️⃣\n📉 train_loss ≈ 0.8\n📉 val_loss ≈ 0.8。train_loss～0.8， val_loss～0.8.\n\t\n⚠️训练很慢？99% 不是你模型问题，是 dataloader\n如果你跑了很久还没结果：\n🔎第一件事：检查 dataloader\n很多情况是 CPU bottleneck（数据加载拖死 GPU），GPU 在那儿“等饭”…\n\t\n✅建议：先把 data loading 跑满、把 GPU 利用率拉起来，再谈训练曲线！\n----\nAssignment 01 文档部分还在进行中，预计这周可以完成\n\t\nHAPPY LEARNING！！！\n\t\n#代码[话题]# #学习资源[话题]# #100PapersWithCode[话题]# #llm[话题]# #stanford[话题]# #cs336[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "hello想问一下自学cs336之前要有什么基础呀（计算机和数学）",
+      "sourceRef": "comment:69cd86f500000000090373c6",
+      "commentId": "69cd86f500000000090373c6",
+      "likes": 0,
+      "author": "tar1q"
+    },
+    {
+      "type": "sub_comment",
+      "text": "了解基本的Python语法就够了，其他可以边学边补。",
+      "sourceRef": "comment:69d35f2300000000320003f0",
+      "commentId": "69d35f2300000000320003f0",
+      "likes": 1,
+      "author": "AI喵喵酱"
+    },
+    {
+      "type": "comment",
+      "text": "抄一下大佬的模型超参数再试试，训练了好几次一直卡在1.5的loss[哭惹R]，我实验室的卡比较菜，只能跑bs64 [哭惹R]",
+      "sourceRef": "comment:69635cd4000000000f01d755",
+      "commentId": "69635cd4000000000f01d755",
+      "likes": 0,
+      "author": "イレイナ"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以用Gradient Accumulate。或者租个H100。 大概半小时就能跑完。",
+      "sourceRef": "comment:69636a850000000006032ab2",
+      "commentId": "69636a850000000006032ab2",
+      "likes": 1,
+      "author": "AI喵喵酱"
+    },
+    {
+      "type": "comment",
+      "text": "求链接[暗中观察R]",
+      "sourceRef": "comment:69606ff2000000000e0344a8",
+      "commentId": "69606ff2000000000e0344a8",
+      "likes": 1,
+      "author": "听我说句谢谢你"
+    },
+    {
+      "type": "sub_comment",
+      "text": "在主页可以看到[暗中观察R]",
+      "sourceRef": "comment:69610be5000000001502e8e7",
+      "commentId": "69610be5000000001502e8e7",
+      "likes": 0,
+      "author": "AI喵喵酱"
+    },
+    {
+      "type": "comment",
+      "text": "感谢喵喵酱[微笑R]",
+      "sourceRef": "comment:6962e115000000001403f40f",
+      "commentId": "6962e115000000001403f40f",
+      "likes": 0,
+      "author": "吃虫饱"
+    }
+  ]
+}

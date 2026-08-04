@@ -1,0 +1,146 @@
+{
+  "note_id": "6a4e3718000000000602175f",
+  "url": "https://www.xiaohongshu.com/explore/6a4e3718000000000602175f?xsec_token=ABtwvGZm8kS-ZhlPQAIyrIPR4rVMLoouseiBDS1P20Nqo=",
+  "fetched_at": 1785839465.191355,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "理论计算机track B博士生存指南",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#理论计算机[话题]# #形式化方法[话题]# #程序语言理论[话题]# #逻辑[话题]# #博士[话题]# #经验分享[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这个方向确实是非常重积累，前两年多读、多上网和其他前沿研究者交流，PhD第二三年基本都能出还过得去的文章。但如果一开始就进了垃圾题目的坑了，就有可能一事无成",
+      "sourceRef": "comment:6a4e3c20000000000d021c00",
+      "commentId": "6a4e3c20000000000d021c00",
+      "likes": 11,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "还有就是一定要注重数学能力和知识范围的培养，PhD阶段应该要每年都要学一块新的数学内容。逻辑，拓扑，代数等等基本都知道一点自己做研究的思路才开阔",
+      "sourceRef": "comment:6a4e3d81000000000d022003",
+      "commentId": "6a4e3d81000000000d022003",
+      "likes": 10,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "直博前两年一事无成，压力很大[捂脸R]",
+      "sourceRef": "comment:6a4e500100000000150141d2",
+      "commentId": "6a4e500100000000150141d2",
+      "likes": 0,
+      "author": "jduebxnnz"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我第一篇文章博三才接受的[微笑R]",
+      "sourceRef": "comment:6a4e51dc0000000029024131",
+      "commentId": "6a4e51dc0000000029024131",
+      "likes": 1,
+      "author": "Musan"
+    },
+    {
+      "type": "comment",
+      "text": "一周前刷到了这个帖子，当时就觉得受益匪浅。今天突然发现竟然是我身边的师兄写的[doge]",
+      "sourceRef": "comment:6a6389270000000029018b35",
+      "commentId": "6a6389270000000029018b35",
+      "likes": 1,
+      "author": "猫吃山竹"
+    },
+    {
+      "type": "sub_comment",
+      "text": "怎么说，我也是早就点赞了然后才发现[doge]",
+      "sourceRef": "comment:6a63ab2c000000000b03b727",
+      "commentId": "6a63ab2c000000000b03b727",
+      "likes": 0,
+      "author": "说好的小水呢"
+    },
+    {
+      "type": "comment",
+      "text": "佬怎么看fm和ai的交叉作为phd的课题呢",
+      "sourceRef": "comment:6a4e4af8000000001500720b",
+      "commentId": "6a4e4af8000000001500720b",
+      "likes": 0,
+      "author": "RGBRYANT"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ai4fm我觉得能提供一些可以落地的形式化技术，fm4ai够呛[偷笑R]",
+      "sourceRef": "comment:6a4e51400000000029025fe8",
+      "commentId": "6a4e51400000000029025fe8",
+      "likes": 1,
+      "author": "Musan"
+    },
+    {
+      "type": "comment",
+      "text": "唉 与君共勉",
+      "sourceRef": "comment:6a4e38fc000000002901b263",
+      "commentId": "6a4e38fc000000002901b263",
+      "likes": 1,
+      "author": "PLmomo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "同意[捂脸R]",
+      "sourceRef": "comment:6a4e4732000000000d023001",
+      "commentId": "6a4e4732000000000d023001",
+      "likes": 1,
+      "author": "不念"
+    },
+    {
+      "type": "comment",
+      "text": "track b最主要的问题是这个圈子太exclusive了 作为pldi和cav多年的审稿人 我觉得这两个会 writing的重要性远远大于工作质量本身[doge] （当然还是远远比ai的会要严谨很多的.....",
+      "sourceRef": "comment:6a4ea3220000000004038764",
+      "commentId": "6a4ea3220000000004038764",
+      "likes": 4,
+      "author": "一个助理教授的生存日记"
+    },
+    {
+      "type": "comment",
+      "text": "其实一直不太懂track ABC都是啥[失望R]这个是谁给分的要去哪看呀[害羞R]",
+      "sourceRef": "comment:6a4e7643000000002901a7ae",
+      "commentId": "6a4e7643000000002901a7ae",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "最早是 EATCS 分的：Track A 是 automata, algebra and algorithms；Track B 是 logic, semantics and related topics。",
+      "sourceRef": "comment:6a4e8299000000000d021c02",
+      "commentId": "6a4e8299000000000d021c02",
+      "likes": 8,
+      "author": "skylee"
+    },
+    {
+      "type": "comment",
+      "text": "用circuit complexity来做LLM expressiveness还是很好水的[笑哭R]",
+      "sourceRef": "comment:6a4e58a0000000001500bc53",
+      "commentId": "6a4e58a0000000001500bc53",
+      "likes": 1,
+      "author": "苏呆呆"
+    },
+    {
+      "type": "comment",
+      "text": "感觉很吃天赋，普通人做不来",
+      "sourceRef": "comment:6a4f1d1b000000002901bb88",
+      "commentId": "6a4f1d1b000000002901bb88",
+      "likes": 0,
+      "author": "捷风"
+    },
+    {
+      "type": "comment",
+      "text": "尽快quit",
+      "sourceRef": "comment:6a4f0af6000000000d021401",
+      "commentId": "6a4f0af6000000000d021401",
+      "likes": 1,
+      "author": "梨酱"
+    }
+  ]
+}

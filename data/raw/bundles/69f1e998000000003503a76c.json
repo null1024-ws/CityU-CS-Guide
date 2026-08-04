@@ -1,0 +1,66 @@
+{
+  "note_id": "69f1e998000000003503a76c",
+  "url": "https://www.xiaohongshu.com/explore/69f1e998000000003503a76c?xsec_token=ABTW6DzvYGeice0w2mfmMTsXkPEBWVm-Vof1uB-qb9Xqs=",
+  "fetched_at": 1785839449.4734156,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "S&P'26:利用网页搜索能力进行大模型越狱",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "今天分享一篇来自S&P 2026的论文，URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models\n📌 研究背景\n大型语言模型（LLMs）在各类场景中广泛落地，其内置的网页搜索能力可拓展知识边界，但也引入了未被重视的安全风险。越狱攻击作为威胁LLM安全的核心手段，可诱导模型生成违规有害内容，现有研究仅围绕模型自身推理与语义特性展开攻击，忽视了网页搜索功能带来的新型攻击面。\n🚫 现有研究不足\n现有越狱攻击可分为角色扮演、结构化响应、虚拟AI模拟等五类方法，主要存在以下不足：\n🔹 隐蔽性差：依赖固定关键词、固定句式与显式恶意指令，易被关键词检测、语义过滤等防御机制拦截；\n🔹 灵活性不足：攻击载荷模式固定，无法适配LLMs的安全更新，模型迭代后攻击成功率会大幅下降。\n💡 本文方法\n提出URLcoat越狱攻击方法，核心是利用LLMs对自主检索内容的信任偏差，通过三层策略绕过安全机制：\n🔸 敏感词混淆（SWO）：提取有害指令中的敏感词，从结构特征、用途特征、操作方式三个维度进行抽象描述，替换显式敏感词汇，规避输入检测；\n🔸 隐式关联（IA）：检索与敏感词语义相关的低敏感网页URL，引导模型通过URL内容与混淆特征，自动还原原始有害指令；\n🔸 上下文叙事引导（CNG）：构建科幻小说等无害叙事背景，将有害指令嵌入叙事中，结合输出约束引导模型生成实际有害内容。\n该方法由影子LLM自动化完成攻击准备，全程无需手动调整，适配多敏感词复杂指令场景。\n🏆 实验验证\n在GPT-4o、Gemini系列、DeepSeek R1等10个主流LLMs上验证，URLcoat实现了优异的攻击效果，显著超越现有越狱方法。消融实验表明，敏感词混淆、隐式关联、叙事引导三个模块缺一不可。该方法可有效绕过释义改写、随机插入/替换等现有防御手段，具备强鲁棒性与泛化性，证实了LLMs网页搜索能力存在的高风险安全。\n#llm[话题]# #越狱攻击[话题]# #AI安全[话题]# #论文分享[话题]# #安全四大顶会[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "没想到小红书可以刷到我犬子的论文[doge]",
+      "sourceRef": "comment:69f221a0000000002a0267bf",
+      "commentId": "69f221a0000000002a0267bf",
+      "likes": 2,
+      "author": "光"
+    },
+    {
+      "type": "comment",
+      "text": "求pdf，这篇论文还没公开",
+      "sourceRef": "comment:6a1eb7db00000000210123f7",
+      "commentId": "6a1eb7db00000000210123f7",
+      "likes": 0,
+      "author": "睡前不刷🍠"
+    },
+    {
+      "type": "comment",
+      "text": "在哪能下载这篇文章的原文啊[哭惹R]",
+      "sourceRef": "comment:69f32ec900000000290192c0",
+      "commentId": "69f32ec900000000290192c0",
+      "likes": 0,
+      "author": "蒸饭大师"
+    },
+    {
+      "type": "comment",
+      "text": "作者是发生了什么吗[笑哭R]",
+      "sourceRef": "comment:69f24466000000002b02a86a",
+      "commentId": "69f24466000000002b02a86a",
+      "likes": 0,
+      "author": "Lance有一棵树"
+    },
+    {
+      "type": "comment",
+      "text": "太棒了，孙！",
+      "sourceRef": "comment:69f2220b0000000029012e55",
+      "commentId": "69f2220b0000000029012e55",
+      "likes": 1,
+      "author": "好"
+    },
+    {
+      "type": "comment",
+      "text": "孙神开博了？真的假的？我去真开博了！",
+      "sourceRef": "comment:69f21792000000002702890a",
+      "commentId": "69f21792000000002702890a",
+      "likes": 1,
+      "author": "烤鸭骑士"
+    }
+  ]
+}

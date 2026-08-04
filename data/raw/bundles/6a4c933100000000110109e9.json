@@ -1,0 +1,122 @@
+{
+  "note_id": "6a4c933100000000110109e9",
+  "url": "https://www.xiaohongshu.com/explore/6a4c933100000000110109e9?xsec_token=ABB2N9-oLUUib476jD7b5D74sooOy_H5cOy7MbikEGjGc=",
+  "fetched_at": 1785841516.446651,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "一些对生涯的思考",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "最近做了三次生涯教练，越来越明确的是我不想做engineer。\n\t\n1. 有无数次转cs的机会，但我抓住\n本科有机会选隔壁华科cs辅修，但我选了whu的统计系辅修；研究生可以修cs（但我只修了数据库）；毕业之后可以读gt的online ms，但我毫无兴趣；现在有机会看ai engineer，打开教程一个头两个大。\n没缘分的就算是碰面一万次，也不会有交集。\n\t\n2. 对engineer的理解需要比别人花更多时间，还不一定做得好\n其实高中就发现了，当时的Office各种考试也是需要比其他人多花一些时间才能做好，并不是我擅长的。\n\t\n3. 本科选专业很抗拒cs\n记得高考完填报志愿，我很明确的排除了医生和计算机 因为怕挂科\n\t\n4. 上个engineer工作里让我兴奋的部分不是engineer本身\n不巧的是学生阶段最后一个实习&第一个全职就是engineer，但我并不喜欢这个工作，当然工作里有我喜欢的部分，比如掌控业务细节在代码里的逻辑和debug，看到流程里可以优化的部分，带实习生… 唯独对工程部分一个头两个大，比如CICD…\n…\n\t\n职业生涯辅导实在是晚了一些 但是对于一个没有任何背景的山河四省做题家来说，也正常\n#职业[话题]# #生涯[话题]# #生涯规划[话题]# #人生迷茫是常态[话题]# #乱七八糟的想法[话题]# #人生道路选择[话题]# #思考人生[话题]# #人生可能性[话题]# #思考[话题]# #奔赴一场自由梦[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "职业生涯辅导是找的教练吗",
+      "sourceRef": "comment:6a4cff64000000000403aef8",
+      "commentId": "6a4cff64000000000403aef8",
+      "likes": 0,
+      "author": "Ash今晚睡了吗"
+    },
+    {
+      "type": "sub_comment",
+      "text": "对😂 是生涯教练不是职业辅导🤔更像coach",
+      "sourceRef": "comment:6a4d0814000000000403aec8",
+      "commentId": "6a4d0814000000000403aec8",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    },
+    {
+      "type": "comment",
+      "text": "开始做sales了么",
+      "sourceRef": "comment:6a4cae01000000000901689b",
+      "commentId": "6a4cae01000000000901689b",
+      "likes": 0,
+      "author": "ÑËWØ"
+    },
+    {
+      "type": "sub_comment",
+      "text": "兼职😂 其实做的不多",
+      "sourceRef": "comment:6a4cae79000000000b03a065",
+      "commentId": "6a4cae79000000000b03a065",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    },
+    {
+      "type": "comment",
+      "text": "诶 我不懂 cicd占比很大吗？不应该只占工作的一小部分吗？",
+      "sourceRef": "comment:6a4cc322000000000d021c04",
+      "commentId": "6a4cc322000000000d021c04",
+      "likes": 0,
+      "author": "巳巳巳"
+    },
+    {
+      "type": "sub_comment",
+      "text": "所以是“比如”",
+      "sourceRef": "comment:6a4cc35600000000050152b9",
+      "commentId": "6a4cc35600000000050152b9",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    },
+    {
+      "type": "comment",
+      "text": "姐妹在哪里做职业生涯辅导呀 最近也有点需要哈哈",
+      "sourceRef": "comment:6a4dcf2e000000002300327f",
+      "commentId": "6a4dcf2e000000002300327f",
+      "likes": 0,
+      "author": "reffo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我coach，不过更像教练对话，不是咨询🤔不过也可以找我coach咨询，她是英国外企的亚洲副总裁",
+      "sourceRef": "comment:6a4dd33a000000000403a380",
+      "commentId": "6a4dd33a000000000403a380",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    },
+    {
+      "type": "comment",
+      "text": "原来CICD才是engineer吗，那代码逻辑和debug是啥（纯好奇",
+      "sourceRef": "comment:6a4da38a000000000d021801",
+      "commentId": "6a4da38a000000000d021801",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "逻辑和debug对我来说是通用技能吧🤔 偏业务，主观评价😂",
+      "sourceRef": "comment:6a4dade60000000005014a75",
+      "commentId": "6a4dade60000000005014a75",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    },
+    {
+      "type": "comment",
+      "text": "+1，我只喜欢debug和优化细节（像做题一样），不喜欢CICD更不喜欢对接用户弄需求",
+      "sourceRef": "comment:6a4c9b2f000000000500b2c8",
+      "commentId": "6a4c9b2f000000000500b2c8",
+      "likes": 2,
+      "author": "今天打螺丝挣了150（回国倒计时7个月版）"
+    },
+    {
+      "type": "comment",
+      "text": "不用那么焦虑或遗憾。塞翁失马，焉知非福。",
+      "sourceRef": "comment:6a4cdc1a00000000150039c1",
+      "commentId": "6a4cdc1a00000000150039c1",
+      "likes": 2,
+      "author": "帝都風雲"
+    },
+    {
+      "type": "comment",
+      "text": "😂虽然但是，为啥会有好几个uu因为这个帖子关注我😂",
+      "sourceRef": "comment:6a4caced0000000004038762",
+      "commentId": "6a4caced0000000004038762",
+      "likes": 0,
+      "author": "Celine_real在人间流浪"
+    }
+  ]
+}

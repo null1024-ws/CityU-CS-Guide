@@ -1,0 +1,462 @@
+{
+  "note_id": "696f59f6000000000b00ad32",
+  "url": "https://www.xiaohongshu.com/explore/696f59f6000000000b00ad32?xsec_token=ABBJGws1go1BSXZ9YaklAQr53KfBQzeOSrmOPqMCaO7a8=",
+  "fetched_at": 1785839168.2982497,
+  "note": {
+    "user": {
+      "userId": "658eccc5000000002201767d",
+      "nickname": "骑老奶奶闯红灯",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o",
+      "xsecToken": "AB2nrODojVqlNaJbwO2pGNL_vBhfFtzc38s-KgOOP1oiE="
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/97542715fda2462c5fce9e90b900060e/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041826/a1fc8da59ad09e656bf641b15eb08910/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041826/97542715fda2462c5fce9e90b900060e/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041826/a1fc8da59ad09e656bf641b15eb08910/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1140,
+        "width": 864,
+        "url": "",
+        "traceId": "",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "690d54ea000000002503bf2a",
+        "name": "usenixsecurity2026",
+        "type": "topic"
+      },
+      {
+        "id": "5da373240000000001038c4f",
+        "name": "学术圈",
+        "type": "topic"
+      },
+      {
+        "id": "5c1e3fe20000000003011531",
+        "name": "论文投稿",
+        "type": "topic"
+      },
+      {
+        "id": "618405c5000000000101c4ec",
+        "name": "计算机安全",
+        "type": "topic"
+      },
+      {
+        "id": "5ca3f67e000000000e0189de",
+        "name": "网络安全",
+        "type": "topic"
+      }
+    ],
+    "time": 1768905206000,
+    "lastUpdateTime": 1769351150000,
+    "desc": "USENIX Security对web和移动安全这么不友好吗[捂脸R]才9.8%\n数据是USENIX Security 2026第一轮的统计\n#usenixsecurity2026[话题]# #学术圈[话题]# #论文投稿[话题]# #计算机安全[话题]# #网络安全[话题]#",
+    "interactInfo": {
+      "shareCount": "54",
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "32",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "51",
+      "collected": false,
+      "collectedCount": "52"
+    },
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "696f59f6000000000b00ad32",
+    "type": "normal",
+    "title": "Security对web和移动安全这么不友好吗😂",
+    "xsecToken": "ABBJGws1go1BSXZ9YaklAQr53KfBQzeOSrmOPqMCaO7a8="
+  },
+  "comments": [
+    {
+      "showTags": [],
+      "id": "696f673200000000050393b2",
+      "noteId": "696f59f6000000000b00ad32",
+      "atUsers": [],
+      "subCommentCursor": "696f6925000000000601cc28",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABwnSjjdqqRXCQKyLZHXLVNRwMK9ug8KXgmW0mi8x2Oe0=",
+        "userId": "5d3a41370000000016005d2b",
+        "nickname": "不想当港漂的歌手不是好博士",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhkf73gnq005n9q84rlgn9b5t8fbh0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1768908594000,
+      "ipLocation": "中国香港",
+      "subCommentCount": "5",
+      "subCommentHasMore": true,
+      "content": "Hardware Security真的好高啊[偷笑R]",
+      "subComments": [
+        {
+          "ipLocation": "上海",
+          "content": "不知道他们cycle2会不会平衡一下[捂脸R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1768909093000,
+          "targetComment": {
+            "id": "696f673200000000050393b2",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABwnSjjdqqRXCQKyLZHXLVNRwMK9ug8KXgmW0mi8x2Oe0=",
+              "userId": "5d3a41370000000016005d2b",
+              "nickname": "不想当港漂的歌手不是好博士",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhkf73gnq005n9q84rlgn9b5t8fbh0?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "696f6925000000000601cc28",
+          "noteId": "696f59f6000000000b00ad32",
+          "status": 0,
+          "userInfo": {
+            "userId": "658eccc5000000002201767d",
+            "nickname": "骑老奶奶闯红灯",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4qhytI47knJwriqYFN0et470Ir1W0nTWGH8TfS8CKoY="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "696f7346000000000c00bab2",
+      "noteId": "696f59f6000000000b00ad32",
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "619aeaf90000000021028315",
+        "nickname": "Carl",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rrig4ei2s005ocqtbsod0olrt52u78?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdklBF9Y7L8eCzrZ8ZlnJSGf49bHtbCoW9gAgtuvz11Q="
+      },
+      "showTags": [],
+      "createTime": 1768911687000,
+      "ipLocation": "北京",
+      "subCommentCursor": "696faf7400000000040025e7",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "status": 0,
+      "content": "软件安全也很低啊",
+      "liked": false,
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "696f7346000000000c00bab2",
+            "userInfo": {
+              "userId": "619aeaf90000000021028315",
+              "nickname": "Carl",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rrig4ei2s005ocqtbsod0olrt52u78?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABdklBF9Y7L8eCzrZ8ZlnJSGf49bHtbCoW9gAgtuvz11Q="
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "658eccc5000000002201767d",
+            "nickname": "骑老奶奶闯红灯",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4qhytI47knJwriqYFN0et470Ir1W0nTWGH8TfS8CKoY="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1768927092000,
+          "invalid": false,
+          "id": "696faf7400000000040025e7",
+          "noteId": "696f59f6000000000b00ad32",
+          "content": "不过那个主要是程序分析和恶意软件检测，我感觉偏pl多一些？",
+          "atUsers": [],
+          "ipLocation": "上海"
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69d7b5b8000000002b02bea9",
+      "content": "佬，这个数据是从哪获取的呀，我在官网 usenixsecurity25/technical-sessions 没找到",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "美国",
+      "subComments": [
+        {
+          "id": "69d7c25c0000000002029bb4",
+          "noteId": "696f59f6000000000b00ad32",
+          "status": 0,
+          "content": "嗯，您在security25官网上肯定是找不到的，因为这个是security26的数据[捂脸R]",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4qhytI47knJwriqYFN0et470Ir1W0nTWGH8TfS8CKoY=",
+            "userId": "658eccc5000000002201767d",
+            "nickname": "骑老奶奶闯红灯"
+          },
+          "createTime": 1775747677000,
+          "targetComment": {
+            "id": "69d7b5b8000000002b02bea9",
+            "userInfo": {
+              "userId": "69c53352000000002603bff3",
+              "nickname": "小红薯69C64FE6",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPRp0QHOXRfUx50VSrPcYkOBau9mt1MYhPmyuG8yeZDM="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "likeCount": "0",
+      "createTime": 1775744440000,
+      "noteId": "696f59f6000000000b00ad32",
+      "subCommentHasMore": true,
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "69c53352000000002603bff3",
+        "nickname": "小红薯69C64FE6",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPRp0QHOXRfUx50VSrPcYkOBau9mt1MYhPmyuG8yeZDM="
+      },
+      "subCommentCount": "2",
+      "subCommentCursor": "69d7c25c0000000002029bb4",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1768944356000,
+      "ipLocation": "美国",
+      "atUsers": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "696ff2e300000000180222d0",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "noteId": "696f59f6000000000b00ad32",
+      "content": "mean reviewer[doge]我collaborator投了n遍才中，每遍都挨骂骂骂不一样",
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "5bfe1fb551783a3f10144f88",
+        "nickname": "Du3t1n",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iof6shph48g4buiihfrajs8shdr7f8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPWHdLcpGNveefKkPiMTdu_4QF2Z9YoU94mmVDCAqyp0="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "web还有啥能做的吗[doge]",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1770473697000,
+      "subCommentCount": "1",
+      "id": "698748e0000000000f02644c",
+      "noteId": "696f59f6000000000b00ad32",
+      "status": 0,
+      "subCommentCursor": "69877bf3000000000600f7ed",
+      "invalid": false,
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB4qhytI47knJwriqYFN0et470Ir1W0nTWGH8TfS8CKoY=",
+            "userId": "658eccc5000000002201767d",
+            "nickname": "骑老奶奶闯红灯",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1770486771000,
+          "ipLocation": "上海",
+          "invalid": false,
+          "id": "69877bf3000000000600f7ed",
+          "noteId": "696f59f6000000000b00ad32",
+          "status": 0,
+          "content": "您这个IP的话，web3应该可以[doge]",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "698748e0000000000f02644c",
+            "userInfo": {
+              "nickname": "萝卜墩",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ua1bj4v2gm05oh2tev40j5v9r86n0g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNzooPXThvjDIwsOI6upaXVa3tIZL4HAm5GP8E_FBxks=",
+              "userId": "6222ebbe0000000010004cbf"
+            }
+          },
+          "atUsers": []
+        }
+      ],
+      "liked": false,
+      "userInfo": {
+        "userId": "6222ebbe0000000010004cbf",
+        "nickname": "萝卜墩",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ua1bj4v2gm05oh2tev40j5v9r86n0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNzooPXThvjDIwsOI6upaXVa3tIZL4HAm5GP8E_FBxks="
+      },
+      "ipLocation": "新加坡",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "696f8b5d000000000c00b1eb",
+          "content": "安全四大对ai有限制，必须与安全有强相关性才允许投。crypto一直投稿量很大，光是专门的A会就有美密欧密，B会有亚密 PKC TCC。而且这五个会偏理论，所以应用密码就往安全四大和期刊投递。这下知道谁才是security老大了吧[自拍R]",
+          "liked": false,
+          "likeCount": "11",
+          "userInfo": {
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nedpoh96m005osqeurptebtlhtvav8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7Z2IqJKZD5bYR6DEPqsknTW1A1U7QXRbUUQlk6E026Q=",
+            "userId": "639a77b7000000002702b97d"
+          },
+          "showTags": [],
+          "createTime": 1768917854000,
+          "ipLocation": "上海",
+          "noteId": "696f59f6000000000b00ad32",
+          "status": 0,
+          "atUsers": [],
+          "targetComment": {
+            "id": "696f86ce000000000600bb7c",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ridr8oh20005o6261v088uohcte980?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABcwwxAZf7uhP2bMfoTAV8OCfGPBoQ8TgkqZgp5G9YxDI=",
+              "userId": "60c2307e00000000010023d8",
+              "nickname": "A会批发王哥"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "atUsers": [],
+      "ipLocation": "浙江",
+      "subCommentCursor": "696f8b5d000000000c00b1eb",
+      "subCommentHasMore": true,
+      "noteId": "696f59f6000000000b00ad32",
+      "status": -2,
+      "content": "crypto投稿量这么大？ml 反而没那么多？[笑哭R]",
+      "likeCount": "3",
+      "subCommentCount": "15",
+      "id": "696f86ce000000000600bb7c",
+      "liked": false,
+      "userInfo": {
+        "nickname": "A会批发王哥",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ridr8oh20005o6261v088uohcte980?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABcwwxAZf7uhP2bMfoTAV8OCfGPBoQ8TgkqZgp5G9YxDI=",
+        "userId": "60c2307e00000000010023d8"
+      },
+      "createTime": 1768916687000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5286 web search",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "01-25"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Security对web和移动安全这么不友好吗😂",
+      "user": {
+        "xsecToken": "ABD6EM8uVrnqQwlQ95eFo9HgH-FropT-kT72Pe-HAHjgw=",
+        "nickName": "骑老奶奶闯红灯",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofalvc3l2605pcepj2oitjt15ttn7o?imageView2/2/w/80/format/jpg",
+        "userId": "658eccc5000000002201767d",
+        "nickname": "骑老奶奶闯红灯"
+      },
+      "interactInfo": {
+        "commentCount": "32",
+        "sharedCount": "54",
+        "liked": false,
+        "likedCount": "51",
+        "collected": false,
+        "collectedCount": "52"
+      },
+      "cover": {
+        "height": 1140,
+        "width": 864,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041825/ec14c27c145f34efd953cca77ce73ebe/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041825/75bc9771b2bbf6eeeab7d0fc968caf36/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1140,
+          "width": 864,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/ec14c27c145f34efd953cca77ce73ebe/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041825/75bc9771b2bbf6eeeab7d0fc968caf36/notes_pre_post/1040g3k031ridrsudi0005pcepj2oitjt91vr91g!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABBJGws1go1BSXZ9YaklAQr53KfBQzeOSrmOPqMCaO7a8=",
+    "id": "696f59f6000000000b00ad32",
+    "index": 2,
+    "exposed": true,
+    "trackId": "696f59f6000000000b00ad32"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "note_id": "c3c65e98-eefa-4bb3-9e5a-a2c2555dbc49",
+  "url": "https://www.xiaohongshu.com/explore/c3c65e98-eefa-4bb3-9e5a-a2c2555dbc49?xsec_token=ABOwftTT5be8zr14QqpHDiwgya-bJhHfpmWwvgVyvUz7cLpJHyBvvVhR4bsLxakl9ctGEOZoyydWrkhkehtEA8_ZrDDz7iQHMApANmCE9dmwE=",
+  "fetched_at": 1785841673.9848773,
+  "note": {},
+  "comments": [],
+  "search_query": "CityU CS5367",
+  "search_item": {
+    "id": "c3c65e98-eefa-4bb3-9e5a-a2c2555dbc49#1785841677532",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "c3c65e98-eefa-4bb3-9e5a-a2c2555dbc49#1785841677532",
+      "queries": [
+        {
+          "id": "cityu cs 5487课程评价",
+          "name": "cityu cs 5487课程评价",
+          "searchWord": "cityu cs 5487课程评价"
+        },
+        {
+          "searchWord": "cityu cs 6491课程体验",
+          "id": "cityu cs 6491课程体验",
+          "name": "cityu cs 6491课程体验"
+        },
+        {
+          "id": "cityu cs 6382课程",
+          "name": "cityu cs 6382课程",
+          "searchWord": "cityu cs 6382课程"
+        },
+        {
+          "name": "cityu com5101",
+          "searchWord": "cityu com5101",
+          "id": "cityu com5101"
+        }
+      ]
+    },
+    "xsecToken": "ABOwftTT5be8zr14QqpHDiwgya-bJhHfpmWwvgVyvUz7cLpJHyBvvVhR4bsLxakl9ctGEOZoyydWrkhkehtEA8_ZrDDz7iQHMApANmCE9dmwE=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "c3c65e98-eefa-4bb3-9e5a-a2c2555dbc49#1785841677532"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "note_id": "68ac228a000000001d02987c",
+  "url": "https://www.xiaohongshu.com/explore/68ac228a000000001d02987c?xsec_token=ABYzvcglo3rygbg5jw4RP8P4_Ww4OGYDBJGsVdGse6CWs=",
+  "fetched_at": 1785838966.4419618,
+  "note": {
+    "noteId": "68ac228a000000001d02987c",
+    "title": "CityU CS 选课求助",
+    "desc": "关于选修课的学分方案，没太看懂这里的专注于某支流和广泛选课有什么区别[失望R]，之前看学长学姐们分享的课程经验好像都是各个方向都在选\n\t\n#选课[话题]# #港城大[话题]#  #CS[话题]#",
+    "interactInfo": {
+      "followed": false,
+      "niceCount": "",
+      "collected": false,
+      "commentCount": "2",
+      "shareCount": "",
+      "relation": "none",
+      "liked": false,
+      "likedCount": "6",
+      "collectedCount": "3"
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko",
+        "width": 1048,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041823/c5bf4d5d994ded45d23acef2ae71c545/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041823/3d6f379c71d9743038b2319fcefc14c3/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "height": 211,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041823/c5bf4d5d994ded45d23acef2ae71c545/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041823/3d6f379c71d9743038b2319fcefc14c3/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "time": 1756111498000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "userId": "65e06365000000000500ecd0",
+      "nickname": "Aurora",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8",
+      "xsecToken": "ABCceQnlUexKhKf9bOjPJ-dGrAOMHcccqSUjnOLL_RdVQ="
+    },
+    "tagList": [
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "601a6afb000000000101f419",
+        "name": "港城大",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1756111499000,
+    "xsecToken": "ABYzvcglo3rygbg5jw4RP8P4_Ww4OGYDBJGsVdGse6CWs="
+  },
+  "comments": [
+    {
+      "createTime": 1756116924000,
+      "subCommentCursor": "",
+      "id": "68ac37bc0000000027000085",
+      "noteId": "68ac228a000000001d02987c",
+      "subCommentHasMore": false,
+      "content": "相当于专业里的三个方向，你可以选择声明走某一个方向，也可以不声明默认一个都不选；如果声明方向，每个方向有自己特定的选课要求，需要满足特定方向的要求才能毕业，毕业证上会有额外标出方向，比如computer science（AI stream）；如果不声明方向，就各个方向的课都能选，满足CS的毕业要求就好，毕业证上也没有方向",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5a3befbfe8ac2b79d77a80cc",
+        "nickname": "满杯kiwi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3109t9c9fmg104a0dk1nrv06cqf04ri8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdi8orLdfHTNzbe0DCN_ahy95eRlrVGwqPTRWhdALzc8="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "atUsers": [],
+      "ipLocation": "北京",
+      "status": 0,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68ac23ea000000003001a06a",
+      "showTags": [],
+      "subComments": [],
+      "likeCount": "0",
+      "createTime": 1756111850000,
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "68ac228a000000001d02987c",
+      "status": 0,
+      "content": "我觉得这个意思是这几个系的课都有cs可以选的，但是具体还要点进去看一下",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "liked": false,
+      "userInfo": {
+        "userId": "679ec1ea000000000a03e9c8",
+        "nickname": "亦谐",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r0h776jmu5g5psuo7l2nqe87v698qg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxo0oOWkMjpc_bir8A6L5rDDHhvNpZEyY4ZAzvFge0c8="
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "港城 CS5282",
+  "search_item": {
+    "id": "68ac228a000000001d02987c",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 211,
+        "width": 1048,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041822/c5aaac357afb2881a6cfcb7b173af896/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041822/b9482b2d3283b8651ba814b8b2fd7047/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041822/c5aaac357afb2881a6cfcb7b173af896/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041822/b9482b2d3283b8651ba814b8b2fd7047/notes_pre_post/1040g3k831ljpeoevl8dg5pf0cdih9r6gojflrko!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 211,
+          "width": 1048
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-25"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityU CS 选课求助",
+      "user": {
+        "nickName": "Aurora",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30voqialvm46g5pf0cdih9r6gqbfbdo8?imageView2/2/w/80/format/jpg",
+        "userId": "65e06365000000000500ecd0",
+        "nickname": "Aurora",
+        "xsecToken": "ABmAIFgREO4mJB1OQ5mXAJlA3wfVvWak0yn6ooTGPIQEs="
+      },
+      "interactInfo": {
+        "commentCount": "2",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "6",
+        "collected": false,
+        "collectedCount": "3"
+      }
+    },
+    "xsecToken": "ABYzvcglo3rygbg5jw4RP8P4_Ww4OGYDBJGsVdGse6CWs=",
+    "index": 12,
+    "exposed": false,
+    "trackId": "68ac228a000000001d02987c"
+  }
+}

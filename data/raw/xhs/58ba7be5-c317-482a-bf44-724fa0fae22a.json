@@ -1,0 +1,43 @@
+{
+  "note_id": "58ba7be5-c317-482a-bf44-724fa0fae22a",
+  "url": "https://www.xiaohongshu.com/explore/58ba7be5-c317-482a-bf44-724fa0fae22a?xsec_token=ABmh1iJ4K4b_vTZHauSBzAaWiA5IaO1fLR-ImBn-789pYe3iXfkz5ElNZuYrVqjhTL4XWjP5MaygUUcGIJI1QdEsAqyLLP2Qh278bYGVhj1cY=",
+  "fetched_at": 1785842758.462236,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6187 CityU",
+  "search_item": {
+    "id": "58ba7be5-c317-482a-bf44-724fa0fae22a#1785842761024",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "58ba7be5-c317-482a-bf44-724fa0fae22a#1785842761024",
+      "queries": [
+        {
+          "id": "cityu攻略",
+          "name": "cityu攻略",
+          "searchWord": "cityu攻略"
+        },
+        {
+          "id": "cityu奖学金申请",
+          "name": "cityu奖学金申请",
+          "searchWord": "cityu奖学金申请"
+        },
+        {
+          "id": "cityu本科",
+          "name": "cityu本科",
+          "searchWord": "cityu本科"
+        },
+        {
+          "id": "cityu计算机",
+          "name": "cityu计算机",
+          "searchWord": "cityu计算机"
+        }
+      ]
+    },
+    "xsecToken": "ABmh1iJ4K4b_vTZHauSBzAaWiA5IaO1fLR-ImBn-789pYe3iXfkz5ElNZuYrVqjhTL4XWjP5MaygUUcGIJI1QdEsAqyLLP2Qh278bYGVhj1cY=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "58ba7be5-c317-482a-bf44-724fa0fae22a#1785842761024"
+  }
+}

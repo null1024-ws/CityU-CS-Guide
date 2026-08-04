@@ -1,0 +1,211 @@
+{
+  "note_id": "6a694e2c000000001303eab2",
+  "url": "https://www.xiaohongshu.com/explore/6a694e2c000000001303eab2?xsec_token=ABs0yNfdVkRt5iglS9RC1_JMp6x8GCjrVf-nOAfKPHDN0=",
+  "fetched_at": 1785841965.199497,
+  "note": {
+    "atUserList": [],
+    "time": 1785286189000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "INFINATELY WAR, YOU READY?",
+    "interactInfo": {
+      "collected": false,
+      "collectedCount": "",
+      "shareCount": "",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "",
+      "commentCount": "",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "stream": {},
+        "livePhoto": false,
+        "height": 480,
+        "width": 640,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041913/f29c202e051440cacb2cae1534d7e6db/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041913/f37a89622f825ffc3ccbf0490bb2a149/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041913/f29c202e051440cacb2cae1534d7e6db/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nd_prv_wgth_jpg_3",
+        "fileId": "spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041913/f37a89622f825ffc3ccbf0490bb2a149/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "tagList": [],
+    "lastUpdateTime": 1785286189000,
+    "ipLocation": "广东",
+    "noteId": "6a694e2c000000001303eab2",
+    "type": "video",
+    "desc": "INFINATELY WAR, YOU READY?This isn't a game on a screen. This is a room you walk into, a gun in your hand, and three friends at your side — all of you wearing nothing but a wireless VR headset. Welcome to the FunInVR free-roam shooting arena, where the walls come alive and the mission starts the second you step in. No wires. No boundaries. Just pure, untethered virtual reality.\n#FunInVR #VirtualReality #FreeRoamVR #FreeRoamShooting #VRArena #VRGaming #FEC #ImmersiveEntertainment #VRArcade #NextGenEntertainment #FreeRoamGaming #TeamVR",
+    "user": {
+      "userId": "5e186659000000000100600e",
+      "nickname": "努力的梁富南(娱乐行业版)",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgsuvh17o605ngocpcg8o0e2qtlbm8",
+      "xsecToken": "ABP1HRcP0Ae8f6gaWX4Q5Tg3-Dcj4FR1Tt6OPaMU4mMS0="
+    },
+    "video": {
+      "media": {
+        "videoId": 138038517692186530,
+        "video": {
+          "streamTypes": [
+            309,
+            259
+          ],
+          "bizName": 110,
+          "bizId": "282153711135877810",
+          "duration": 34,
+          "md5": "ab49636836138de6e07d83338039965f",
+          "hdrType": 0,
+          "drmType": 0
+        },
+        "stream": {
+          "EF6": [],
+          "EF5": [
+            {
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/79/110/309/01ea694cec5d3f9b4f0370019fab59e29f_309.mp4?sign=c63803e4f928067f6c68a6b13b5b8ead&t=6a76667d",
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/309/01ea694cec5d3f9b4f0370019fab59e29f_309.mp4"
+              ],
+              "hdrType": 0,
+              "psnr": 40.79800033569336,
+              "streamDesc": "WEB_309",
+              "fps": 25,
+              "audioCodec": "aac",
+              "audioChannels": 2,
+              "vmaf": -1,
+              "weight": 62,
+              "format": "mp4",
+              "duration": 33280,
+              "avgBitrate": 536021,
+              "videoDuration": 33280,
+              "audioDuration": 33280,
+              "ssim": 0,
+              "qualityType": "HD",
+              "defaultStream": 0,
+              "width": 640,
+              "height": 480,
+              "size": 2229851,
+              "volume": 0,
+              "videoCodec": "EF5",
+              "videoBitrate": 434678,
+              "audioBitrate": 96005,
+              "streamType": 309,
+              "rotate": 0
+            }
+          ],
+          "EF7": [],
+          "EF4": [
+            {
+              "fps": 25,
+              "videoBitrate": 601154,
+              "audioBitrate": 64093,
+              "audioChannels": 2,
+              "vmaf": -1,
+              "audioCodec": "aac",
+              "backupUrls": [
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/259/01ea694cec5d3f9b010370039fab5985b6_259.mp4"
+              ],
+              "hdrType": 0,
+              "format": "mp4",
+              "width": 640,
+              "height": 480,
+              "duration": 33280,
+              "size": 2788975,
+              "videoDuration": 33280,
+              "rotate": 0,
+              "weight": 62,
+              "streamType": 259,
+              "avgBitrate": 670426,
+              "videoCodec": "EF4",
+              "audioDuration": 33280,
+              "masterUrl": "http://sns-video-qc.xhscdn.com/stream/79/110/259/01ea694cec5d3f9b010370039fab5985b6_259.mp4?sign=2abdf4e20dc1dfe946531a2d18d7438d&t=6a76667d",
+              "psnr": 0,
+              "ssim": 0,
+              "qualityType": "HD",
+              "streamDesc": "WM_X264_MP4_web",
+              "defaultStream": 0,
+              "volume": 0
+            }
+          ]
+        }
+      },
+      "image": {
+        "thumbnailFileid": "frame/110/0/01ea694cec5d3f9b0010000000019fab596e96_0.webp"
+      },
+      "capa": {
+        "duration": 33
+      },
+      "mediaV2": "{\"video_id\":\"138038517692186523\",\"video\":{\"biz_name\":110,\"biz_id\":\"282153711135877810\",\"duration\":34,\"md5\":\"ab49636836138de6e07d83338039965f\",\"hdr_type\":0,\"drm_type\":0,\"stream_types\":[309,259],\"width\":640,\"height\":480,\"bound\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"bbox\":{\"2\":[{\"x\":0,\"y\":54,\"w\":640,\"h\":367}],\"ocr_v5\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v3\":[{\"x\":219,\"y\":157,\"w\":284,\"h\":67}],\"ocr_v4\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v2\":[{\"x\":199,\"y\":157,\"w\":304,\"h\":225}]},\"opaque1\":{\"bottomAvgLuma\":\"54\",\"loudnorm\":\"{\\\"lra\\\":8.1,\\\"htp\\\":5.59,\\\"hldn\\\":-4.13,\\\"ldn\\\":-4.39,\\\"thr\\\":-14.63}\",\"domestic\":\"1\",\"isSupportSubtitle\":\"true\",\"rightAvgLuma\":\"88\",\"hasHumanVoice\":\"true\",\"videoLanguage\":\"[\\\"en-US\\\"]\",\"audioLevInfo\":\"{\\\"audio_quality_level\\\":\\\"G\\\",\\\"mos_overall\\\":2.7875,\\\"version\\\":\\\"3.0\\\"}\",\"weakNetUserFlag\":\"1\",\"topAvgLuma\":\"62\",\"audioClsInfo\":\"{\\\"music_ratio\\\":0.9494736556549276,\\\"freesound_ratio\\\":0.6643608822748607,\\\"speech_ratio\\\":0.08661653874837477}\"},\"subtitles\":{\"en-US\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea694cec5d3f9b010370039fab597766_12.srt?sign=8fdf2f2c896fcea985ea002ed0be086f&t=6a76667d\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"source\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea694cec5d3f9b010370039fab597598_1.srt?sign=d2dea5cc53b94dad18d78fa1101704c5&t=6a76667d\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"zh-CN\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01ea694cec5d3f9b010370039fab597741_11.srt?sign=dd0fb2ae3e17da4287aa39881e12731f&t=6a76667d\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}]}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WM_X264_MP4_web\",\"default_stream\":0,\"format\":\"mp4\",\"width\":640,\"height\":480,\"duration\":33280,\"size\":2788975,\"volume\":0.0,\"avg_bitrate\":670426,\"fps\":25,\"video_codec\":\"EF4\",\"video_bitrate\":601154,\"video_duration\":33280,\"audio_codec\":\"aac\",\"audio_bitrate\":64093,\"audio_duration\":33280,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-qc.xhscdn.com/stream/79/110/259/01ea694cec5d3f9b010370039fab5985b6_259.mp4?sign=2abdf4e20dc1dfe946531a2d18d7438d&t=6a76667d\",\"backup_urls\":[\"http://sns-bak-v6.xhscdn.com/stream/79/110/259/01ea694cec5d3f9b010370039fab5985b6_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":309,\"stream_desc\":\"WEB_309\",\"default_stream\":0,\"format\":\"mp4\",\"width\":640,\"height\":480,\"duration\":33280,\"size\":2229851,\"volume\":0.0,\"avg_bitrate\":536021,\"fps\":25,\"video_codec\":\"EF5\",\"video_bitrate\":434678,\"video_duration\":33280,\"audio_codec\":\"aac\",\"audio_bitrate\":96005,\"audio_duration\":33280,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-qc.xhscdn.com/stream/79/110/309/01ea694cec5d3f9b4f0370019fab59e29f_309.mp4?sign=c63803e4f928067f6c68a6b13b5b8ead&t=6a76667d\",\"backup_urls\":[\"http://sns-bak-v6.xhscdn.com/stream/79/110/309/01ea694cec5d3f9b4f0370019fab59e29f_309.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":40.79800033569336,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}"
+    },
+    "xsecToken": "ABs0yNfdVkRt5iglS9RC1_JMp6x8GCjrVf-nOAfKPHDN0="
+  },
+  "comments": [],
+  "search_query": "CS6175 Virtual Reality and",
+  "search_item": {
+    "id": "6a694e2c000000001303eab2",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "0",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "0",
+        "sharedCount": "0",
+        "liked": false
+      },
+      "cover": {
+        "height": 480,
+        "width": 640,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041912/c81e5019bfb01ec62da11dbb99dff656/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041912/3e83a8789cb70c2769884fc254dcc044/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041912/c81e5019bfb01ec62da11dbb99dff656/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041912/3e83a8789cb70c2769884fc254dcc044/spectrum/1040g34o3236gsaq8n2105ngocpcg8o0eofas0jo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 480,
+          "width": 640
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ],
+      "type": "video",
+      "displayTitle": "INFINATELY WAR, YOU READY?",
+      "user": {
+        "nickname": "努力的梁富南(娱乐行业版)",
+        "xsecToken": "ABO_5wm0o0o7_YU_ZKONKn2I7WwHzhvOALjBjSY-rx-0M=",
+        "nickName": "努力的梁富南(娱乐行业版)",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rgsuvh17o605ngocpcg8o0e2qtlbm8?imageView2/2/w/80/format/jpg",
+        "userId": "5e186659000000000100600e"
+      }
+    },
+    "xsecToken": "ABs0yNfdVkRt5iglS9RC1_JMp6x8GCjrVf-nOAfKPHDN0=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a694e2c000000001303eab2"
+  }
+}

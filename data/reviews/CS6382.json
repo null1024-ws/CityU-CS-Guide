@@ -12,8 +12,8 @@
       "value": "hard",
       "label": "较难",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 2
+      "sourceCount": 4,
+      "distinctSources": 3
     },
     "grading": {
       "value": "unknown",
@@ -40,7 +40,9 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "前半部分讲算法，后半部分讲博弈论，作业证明题略难，像我这种笨笨的做作业折磨的要死，考试有难题有简单题，想过挺容易的，老师讲课也不错，英文发音特别好听但是就是挺折磨....学不懂"
+  ],
   "sources": [
     {
       "noteId": "677bef1a000000001800eca7",
@@ -61,6 +63,20 @@
       "postTitle": "CityU CS PhD第一年课程评估（3节必修）"
     }
   ],
-  "commentSources": [],
+  "commentSources": [
+    {
+      "noteId": "68a5d917000000001c0354a9",
+      "url": "https://www.xiaohongshu.com/explore/68a5d917000000001c0354a9?xsec_token=AB7eI2wp7bvpfPc-ry6wXOV3v8DNoRaV7ENg4KFTW01Uw=",
+      "excerpt": "前半部分讲算法，后半部分讲博弈论，作业证明题略难，像我这种笨笨的做作业折磨的要死，考试有难题有简单题，想过挺容易的，老师讲课也不错，英文发音特别好听但是就是挺折磨....学不懂",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "有上过CS6382的吗？",
+      "commentId": "68a68db00000000030015c5b",
+      "author": "winterspring",
+      "likes": 2,
+      "role": "supplement"
+    }
+  ],
   "lastUpdated": "2026-08-04"
 }

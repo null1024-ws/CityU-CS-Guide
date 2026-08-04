@@ -1,0 +1,525 @@
+{
+  "note_id": "69aba7d9000000002303a05c",
+  "url": "https://www.xiaohongshu.com/explore/69aba7d9000000002303a05c?xsec_token=ABExKXAuFcAhOQPLO1BafN0fEpWgijrFjUXjQoI-pjgD4=",
+  "fetched_at": 1785838440.5731864,
+  "note": {
+    "xsecToken": "ABExKXAuFcAhOQPLO1BafN0fEpWgijrFjUXjQoI-pjgD4=",
+    "noteId": "69aba7d9000000002303a05c",
+    "title": "我想参考一下决定是港深通勤还是住hk",
+    "desc": "如题\n#26fall[话题]# #港城大[话题]# #计算机科学[话题]# #港深通勤[话题]# #提问[话题]# #求助贴[话题]#",
+    "interactInfo": {
+      "commentCount": "18",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "shareCount": "",
+      "liked": false,
+      "likedCount": "10",
+      "collected": false,
+      "collectedCount": "11"
+    },
+    "imageList": [
+      {
+        "fileId": "1040g00831tdaf486me605pvjgp8m4clk20eg66o",
+        "height": 1600,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041814/1850c868a76423acba5de99327641bd8/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608041814/8c60db8e06ee10a7d7e96f647b272b50/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041814/1850c868a76423acba5de99327641bd8/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041814/8c60db8e06ee10a7d7e96f647b272b50/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nd_dft_wlteh_jpg_3",
+        "width": 1200,
+        "url": "",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1772857305000,
+    "lastUpdateTime": 1772857361000,
+    "type": "normal",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322p4jtri726g5pvjgp8m4clkon2vls8",
+      "xsecToken": "ABRwWbORMrealp01XP-wW6iuoelEeKsef38hihGk63B8M=",
+      "userId": "67f3865100000000180232b4",
+      "nickname": "HIlowen"
+    },
+    "tagList": [
+      {
+        "id": "6285eb2a000000000101c6c1",
+        "name": "26fall",
+        "type": "topic"
+      },
+      {
+        "id": "601a6afb000000000101f419",
+        "name": "港城大",
+        "type": "topic"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "id": "63b50832000000000101dd97",
+        "name": "港深通勤",
+        "type": "topic"
+      },
+      {
+        "name": "提问",
+        "type": "topic",
+        "id": "53570106b4c4d64b836cbaea"
+      },
+      {
+        "id": "53cef977b4c4d63cbb01ff36",
+        "name": "求助贴",
+        "type": "topic"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    }
+  },
+  "comments": [
+    {
+      "showTags": [],
+      "subCommentHasMore": true,
+      "status": 0,
+      "liked": false,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "id": "69ac3a18000000000100442b",
+          "content": "感谢感谢",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772894745000,
+          "ipLocation": "安徽",
+          "noteId": "69aba7d9000000002303a05c",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322p4jtri726g5pvjgp8m4clkon2vls8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQkulkCe_aw7sulnNEg0iW5dqw0mbRuH8zm0NNNPU5U8=",
+            "userId": "67f3865100000000180232b4",
+            "nickname": "HIlowen"
+          },
+          "targetComment": {
+            "id": "69ac38c1000000000c03019e",
+            "userInfo": {
+              "nickname": "Albedo0127g",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310esljl1ma0048i2essigo9m880lapo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABR350nMOvUcpDJ_Ew1NT-V1tpuXN11Q3kPg6aYEo_-gg=",
+              "userId": "578b392882ec394ae81d6136"
+            }
+          },
+          "pictures": [],
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "69ac3a18000000000100442b",
+      "noteId": "69aba7d9000000002303a05c",
+      "content": "上学期四天有课，这学期三天，不过和我并没有什么关系[doge]",
+      "likeCount": "2",
+      "userInfo": {
+        "xsecToken": "ABR350nMOvUcpDJ_Ew1NT-V1tpuXN11Q3kPg6aYEo_-gg=",
+        "userId": "578b392882ec394ae81d6136",
+        "nickname": "Albedo0127g",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo310esljl1ma0048i2essigo9m880lapo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "5",
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/2dadd80e3f757794cdd9b8cd4e591cb3/comment/1040g2h031tds5hcbl80048i2essigo9ml0vm518!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/86d16f3ad5a112e18161a4bd1bae3f92/comment/1040g2h031tds5hcbl80048i2essigo9ml0vm518!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 1801,
+          "width": 1317,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041814/2dadd80e3f757794cdd9b8cd4e591cb3/comment/1040g2h031tds5hcbl80048i2essigo9ml0vm518!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041814/86d16f3ad5a112e18161a4bd1bae3f92/comment/1040g2h031tds5hcbl80048i2essigo9ml0vm518!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "invalid": false,
+      "createTime": 1772894402000,
+      "id": "69ac38c1000000000c03019e",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "2",
+      "createTime": 1772951767000,
+      "subCommentCursor": "69b53ad10000000016016a85",
+      "noteId": "69aba7d9000000002303a05c",
+      "userInfo": {
+        "userId": "5f5d084c0000000001002256",
+        "nickname": "Jeremy_65536",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30u7ek6sq58005nqt116088imt1iae7g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABP_LOdGdspJ8Hs08z-MbhOPG6uHX-qcwm75mkIoge5VE="
+      },
+      "subComments": [
+        {
+          "invalid": false,
+          "status": 0,
+          "content": "有落户需求的话可以每天去刷关吗",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABbItxeydCl2LaoyqqtraoTxwOn6Jq_QFG0gMY73A7Dls=",
+            "userId": "68a97d31000000001a00effe",
+            "nickname": "ref:rain",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321c4vi46no6g5q59fkomhrvufejdq2g?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1773484754000,
+          "ipLocation": "河北",
+          "pictures": [],
+          "id": "69b53ad10000000016016a85",
+          "noteId": "69aba7d9000000002303a05c",
+          "liked": false,
+          "showTags": [],
+          "targetComment": {
+            "id": "69ad18d6000000000f01ce3c",
+            "userInfo": {
+              "userId": "5f5d084c0000000001002256",
+              "nickname": "Jeremy_65536",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30u7ek6sq58005nqt116088imt1iae7g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABP_LOdGdspJ8Hs08z-MbhOPG6uHX-qcwm75mkIoge5VE="
+            }
+          }
+        }
+      ],
+      "pictures": [],
+      "id": "69ad18d6000000000f01ce3c",
+      "status": 0,
+      "content": "没有180天落户需求的完全可以住深圳",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "subCommentCount": "2",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "0",
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69b222ff000000000103e6e1",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABCgTBrgsP26B0b7hzRu9od04YRSWn0dzrw_S-zH74LO4=",
+        "userId": "65fd037a000000000b00e60c",
+        "nickname": "曦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rs7lm7ni26g5pft0dt2ppgcd29bssg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [],
+      "pictures": [],
+      "noteId": "69aba7d9000000002303a05c",
+      "likeCount": "1",
+      "createTime": 1773282047000,
+      "content": "慎重考虑吧，去年尝试了一下晚上港深通勤，我只能说很煎熬",
+      "ipLocation": "北京",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1772884087000,
+      "status": 0,
+      "content": "恭喜收到offer，欢迎加入港城大家庭一起交流讨论啦[拔草R]",
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABOxn-CL54X3SixzvI2u1GyQEgHRJ9415Co72Qh4MqZEY=",
+        "userId": "61494697000000001f03a08b",
+        "nickname": "香港城市大学CSSA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rdjchgm700g5oa98qbnv84b4djjfo0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "69ac1076000000000d034e4a",
+      "noteId": "69aba7d9000000002303a05c",
+      "atUsers": [],
+      "liked": false,
+      "pictures": [
+        {
+          "width": 988,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041814/773e20f30ca73ae9e71c02d4bd022c4a/comment/1040g2h031tdmv1hc6e0g5oa98qbnv84b9eevs60!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041814/8af38597c080616211510e1fad31a726/comment/1040g2h031tdmv1hc6e0g5oa98qbnv84b9eevs60!nd_whgt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/773e20f30ca73ae9e71c02d4bd022c4a/comment/1040g2h031tdmv1hc6e0g5oa98qbnv84b9eevs60!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041814/8af38597c080616211510e1fad31a726/comment/1040g2h031tdmv1hc6e0g5oa98qbnv84b9eevs60!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 1080
+        }
+      ],
+      "invalid": false,
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "content": "同求，我想要港深通勤，据说考勤不严",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "createTime": 1772864546000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "id": "69abc421000000000c00860d",
+      "userInfo": {
+        "userId": "64d4f5e90000000001012dbb",
+        "nickname": "Milk的粉丝",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qq63pg1g0605p6kunkgabdropov91g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPY5C_fr3hZgvyXU6sm5z438zsDOuwhTlWUf3fZTHQqo="
+      },
+      "ipLocation": "四川",
+      "noteId": "69aba7d9000000002303a05c",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69abd7ca000000000c0097f9",
+      "noteId": "69aba7d9000000002303a05c",
+      "createTime": 1772869579000,
+      "subCommentHasMore": false,
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "content": "同蹲",
+      "atUsers": [],
+      "ipLocation": "陕西",
+      "subComments": [],
+      "pictures": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "634d05cf000000001802ec50",
+        "nickname": "Sheepc",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uk4rsv0ig0g5oqd0n7m5r2gnnqa9ro?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABT6tHxaJq-SBRXx2SpgeJFJKsagDkwV438adR-pt6bsY="
+      },
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "pictures": [],
+      "noteId": "69aba7d9000000002303a05c",
+      "atUsers": [],
+      "likeCount": "0",
+      "id": "69abd7470000000014030c5a",
+      "createTime": 1772869448000,
+      "ipLocation": "上海",
+      "subCommentCursor": "",
+      "invalid": false,
+      "status": 0,
+      "content": "蹲！",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "liked": false,
+      "userInfo": {
+        "userId": "5d33efb700000000120320f3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxF_A88SsY-5zWgGma0PP0jmPAPeWtv2YL5wi9RlHNUs="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "pictures": [],
+      "status": -2,
+      "likeCount": "1",
+      "createTime": 1772986723000,
+      "ipLocation": "吉林",
+      "subCommentCursor": "",
+      "noteId": "69aba7d9000000002303a05c",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "69ada163000000000d03ed8d",
+      "content": "蹲",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABwmuQjvBxEiWyynlgqCJKHQHMT2su5tywhvGpzwZZkRI=",
+        "userId": "5c01f7cc0000000008001d04",
+        "nickname": ".",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ofbaqcb6g004bunharso784dq3os20?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB3q_KxeKQGGXTxv6U42kRpNVzWtBI8K-8LtQI5Bg94Gs=",
+        "userId": "5bf7bd7b4fd8340001ec7bef",
+        "nickname": "Lilith",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322g2m5n6nu004bt5h8unmuvfcbmivp8?imageView2/2/w/120/format/jpg"
+      },
+      "id": "69ad4d0c0000000031002611",
+      "noteId": "69aba7d9000000002303a05c",
+      "showTags": [],
+      "ipLocation": "贵州",
+      "pictures": [],
+      "content": "uu可以问一下你的tl吗",
+      "subCommentCount": "2",
+      "subCommentCursor": "69ad965c0000000002036128",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "createTime": 1772965133000,
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "HIlowen",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322p4jtri726g5pvjgp8m4clkon2vls8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQkulkCe_aw7sulnNEg0iW5dqw0mbRuH8zm0NNNPU5U8=",
+            "userId": "67f3865100000000180232b4"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772983901000,
+          "ipLocation": "山东",
+          "pictures": [],
+          "id": "69ad965c0000000002036128",
+          "noteId": "69aba7d9000000002303a05c",
+          "atUsers": [],
+          "likeCount": "0",
+          "targetComment": {
+            "id": "69ad4d0c0000000031002611",
+            "userInfo": {
+              "nickname": "Lilith",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322g2m5n6nu004bt5h8unmuvfcbmivp8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB3q_KxeKQGGXTxv6U42kRpNVzWtBI8K-8LtQI5Bg94Gs=",
+              "userId": "5bf7bd7b4fd8340001ec7bef"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "在主页",
+          "liked": false
+        }
+      ],
+      "status": -2,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5282 城大CS",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608041813/dbac40319801e5fd2b43c290a34891cd/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608041813/c4a830447c5de120215d937a14c66069/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041813/dbac40319801e5fd2b43c290a34891cd/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608041813/c4a830447c5de120215d937a14c66069/1040g00831tdaf486me605pvjgp8m4clk20eg66o!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "03-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "我想参考一下决定是港深通勤还是住hk",
+      "user": {
+        "nickName": "HIlowen",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322p4jtri726g5pvjgp8m4clkon2vls8?imageView2/2/w/80/format/jpg",
+        "userId": "67f3865100000000180232b4",
+        "nickname": "HIlowen",
+        "xsecToken": "ABpXdazxBxE77yFyjIE94Z4xn3QEimjMJ1r9AdnbN7yEc="
+      },
+      "interactInfo": {
+        "likedCount": "10",
+        "collected": false,
+        "collectedCount": "11",
+        "commentCount": "18",
+        "sharedCount": "0",
+        "liked": false
+      }
+    },
+    "xsecToken": "ABExKXAuFcAhOQPLO1BafN0fEpWgijrFjUXjQoI-pjgD4=",
+    "id": "69aba7d9000000002303a05c",
+    "index": 10,
+    "exposed": true,
+    "trackId": "69aba7d9000000002303a05c"
+  }
+}
