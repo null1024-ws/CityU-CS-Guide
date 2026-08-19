@@ -1,0 +1,79 @@
+{
+  "note_id": "6a1fb8e4000000003503bdd2",
+  "url": "https://www.xiaohongshu.com/explore/6a1fb8e4000000003503bdd2?xsec_token=ABd311S0Yqed9qDaoODJ1FuxUFrepA1qyCUeLSk5v8ao8=",
+  "fetched_at": 1787137630.2967057,
+  "course_codes": [
+    "CS5260",
+    "CS5321",
+    "CS5332",
+    "CS5462"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS Semester 2课程体验和评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本人专业：Master of Computing\nCS5321-Network Security\n推荐度：🌟🌟🌟🌟\n继续无脑冲梁振凯老师的课。主要讲网络通信协议层面的安全问题，适合有计算机网络基础的同学，刚开始密码学部分有点头大[哭惹R]。2次作业、一个期中考试、一个在线Quiz和一个Project。\n\t\nIS5008-Technology Risk & Cyber Resilience\n推荐度：🌟🌟🌟🌟🌟\n划水神课！主要讲企业和政府遇到的各种IT问题和网络风险，比如针对DBS数智转型进行分析等。每节课有签到，出勤占成绩10%，剩下的分为2次homework和1个project，适合PPT高手，无需任何CS或者代码基础。\n\t\nCS5462- Machine Learning Systems\n推荐度：🌟🌟🌟\n一门硬课，让你感觉到一学期都在敲这课的代码[捂脸R]包含TinyTorch等原理，也有Agent工作流和模型微调等落地应用。3次硬核作业、6次辅导练习题、1个project[再见R]\n\t\nCS5260- Neural Networks and Deep Learning\n推荐度：🌟🌟🌟\n也是一门硬课，但比CS5462好一点，6次作业和1个project，project可以是一篇成熟的论文且需提交至AI顶会，也可以做一个工程落地Agent，并提供公网链接和源码仓库，授课内容包括Transformer、MoE、LoRA、ReAct和多模态等。\n\t\nCS5332- Biometric Authentication\n推荐度：🌟🌟🌟🌟\n强推这个老师。本科MIT，硕士斯坦福，博士CMU，讲课生动无口音。从线性代数到生物特征识别的算法和代码，并结合了樟宜机场海关和ICA实际落地的各种生物识别技术。3次作业+project+闭卷期中考试，期中考试难度较高，但课程整体给分高！\n\t\nIFS4103- Penetration Testing Practice\n推荐度：🌟🌟🌟\n旁听的课，讲渗透测试基础，从Burp安装开始讲[笑哭R]主要是本科生，老师是个白男。交付物是对NUS网站或APP进行渗透并通过pre的方式报给学校IT团队协助修复。打分情况未知，适合网安小白参加。\n#NUS[话题]# #新加坡国立大学[话题]# #计算机[话题]# #绩点[话题]# #课程推荐[话题]# #CS[话题]# #成绩[话题]# #选课[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "求问有没有不小组作业的课程[哇R]",
+      "sourceRef": "comment:6a261dcb0000000028034ccb",
+      "commentId": "6a261dcb0000000028034ccb",
+      "likes": 0,
+      "author": "Moi名其妙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "目前我上的所有课都有team work",
+      "sourceRef": "comment:6a2620ac000000002701d915",
+      "commentId": "6a2620ac000000002701d915",
+      "likes": 0,
+      "author": "重生之在CTFer在坡要饭"
+    },
+    {
+      "type": "comment",
+      "text": "你好请问is5008需要pre吗",
+      "sourceRef": "comment:6a51e87f000000002b000292",
+      "commentId": "6a51e87f000000002b000292",
+      "likes": 0,
+      "author": "已读不回是未读"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不需要，交ppt就行，只是老师上课爱抽人回答问题或者自我介绍或者分享一些见解，有点像即兴p re",
+      "sourceRef": "comment:6a52106b000000000802c2e2",
+      "commentId": "6a52106b000000000802c2e2",
+      "likes": 1,
+      "author": "重生之在CTFer在坡要饭"
+    },
+    {
+      "type": "comment",
+      "text": "有没有不记考勤不考试不quiz的课推荐",
+      "sourceRef": "comment:6a2129f8000000002902d393",
+      "commentId": "6a2129f8000000002902d393",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "二维码签到约等于没考勤，让同学帮拍一张就行",
+      "sourceRef": "comment:6a2158c500000000270148aa",
+      "commentId": "6a2158c500000000270148aa",
+      "likes": 0,
+      "author": "重生之在CTFer在坡要饭"
+    },
+    {
+      "type": "comment",
+      "text": "小小避雷youyang虽然是我忘交了一次作业，但是给的也太低了",
+      "sourceRef": "comment:6a1fbbbd000000002803cba6",
+      "commentId": "6a1fbbbd000000002803cba6",
+      "likes": 0,
+      "author": "hardydy"
+    }
+  ]
+}

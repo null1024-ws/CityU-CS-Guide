@@ -1,0 +1,155 @@
+{
+  "note_id": "681af2c3000000000303d8b2",
+  "url": "https://www.xiaohongshu.com/explore/681af2c3000000000303d8b2?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXxxYj2TvNA1zLnfnmIIBxzs=",
+  "fetched_at": 1787139175.0022058,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5281",
+    "CS5285",
+    "CS5487",
+    "CS5489",
+    "CS6491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学 泛CS IS系 不完全选课指北",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "闲着无事(其实是不是很想复习考试，打算先摸鱼写个选课指南再复习)来写一篇选课指南，首先声明此篇纯属个人主观感受，没有上过的课程属于道听途说，造成选课感受不好笔者概不负责[偷笑R]\n\t\n以ec为例，对于选课各个专业学生应该都能找到sgs上的上年课程安排表(见p1)，在打开后会分成选修和必修，p2前5个是必修(不过可以进行豁免，但我没试过，有了解的同学可以在评论区分享一下)。\n\t\n以ec来说，这五门必修课难度基本都不大，除了cs5285以外都很好水（基本都在我之前的帖子提过，见5285和5281帖子，没提到的是is5314，但这门课算这几门最轻松的，故不再提）\n\t\n选修方面，偏向于考虑学术走ra转phd的同学可以选一些cs硬课，像是cs5487(机器学习偏数学推导)，cs5489(机器学习+深度学习偏应用，涉及到的知识点很广)，cs6493(自然语言处理用来入门不错，之后考完会进行评测)，以上是我上过的，其他的大概只能随便吹一吹大致方向，请大家自行搜索其他博主的分享。cs6491凸优化(也是数学，可以参考Quinn大佬的笔记，应该也是很硬的一门课)，博弈论，人工智能，大数据，数据挖掘，智能系统，云计算，隐私强化，VR开发，计算机图形学(这个ec不提供)，大家可以挑要做的方向选，不过机器学习和数学算是基础。总得来说B学期的CS系课都很硬核，A学期相对还好(我们这学期是这么个安排)\n\t\n然后是偏向于尽可能地省时间来进行实习，考公考编的水课选择。\nCS系相对简单有，cs5281数据工程，cs5222计网，(这两应该是cs必修来着）cs5187视觉与图像(好像是大家一致好评的课）这几门算适中难度。\n然后是IS系的课，is系水一点的应该会多，不过记得别选is6940c，每周都得写讲座报告查的还严(听别人讲的)，然后is6400也是相对比较难的一门(个人感觉是机器学习的青春版，我选是因为很多内容和机器学习重合，后续我会发帖细写，上面是我了解的两门，下面是以前选课的参考过的一些评论)。\n其他的话，可能像是is5540项目管理，考勤较严，讲的也很不错，对考pmp好像有帮助，期末开卷。is5740管理支持和商业智能系统好像是韩国老师教sas和数据分析的知识，普遍评价不错好像也算轻松，is6335(我们这学期没开)数据可视化主要用R语言做可视化，感觉还好?\n\t\n其他is课还请各位谷歌搜索Bis Navigator，上面有以前的学长学姐留下的评测。\n\t\n最后希望有上过这些课的同学可以在评论区进行补充说明。\n#选课[话题]#\n#香港城市大学[话题]#\n#计算机[话题]#\n#商科[话题]#\n#数据科学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "补充一条，水群的时候看到大家一致推荐ai是绝世好课，然后is绝世坑人课(均为CS系前者人工智能应该，后者智能系统)",
+      "sourceRef": "comment:68207f120000000004016fac",
+      "commentId": "68207f120000000004016fac",
+      "likes": 2,
+      "author": "Richett_L"
+    },
+    {
+      "type": "sub_comment",
+      "text": "学长请问这俩指的是5491和5486嘛  我是25fall的想问问这俩课的时间都是晚上的嘛[微笑R]",
+      "sourceRef": "comment:682331470000000007028934",
+      "commentId": "682331470000000007028934",
+      "likes": 1,
+      "author": "我的梯度消失在人海"
+    },
+    {
+      "type": "comment",
+      "text": "请问如果想实习的话，每学期选几门课会不那么赶呢",
+      "sourceRef": "comment:6a6b76450000000009015197",
+      "commentId": "6a6b76450000000009015197",
+      "likes": 0,
+      "author": "小红薯5E88CD52"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不太好说，因为我觉得光是实习就很累了，不管选几门，加上港深通勤都很够呛",
+      "sourceRef": "comment:6a6befba000000001500aa02",
+      "commentId": "6a6befba000000001500aa02",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长，请问下5187视觉与图像有前置课程要求到时候选课也能选吗，本科是计算机相关的但没学过这方面的课程",
+      "sourceRef": "comment:6a7304b6000000002902494e",
+      "commentId": "6a7304b6000000002902494e",
+      "likes": 0,
+      "author": "几分之几"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以试试，应该要求没那么严",
+      "sourceRef": "comment:6a731d320000000014015f6a",
+      "commentId": "6a731d320000000014015f6a",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长想问一下[吧唧R]课程上课时需要使用到电脑嘛，本身有一台游戏本（超重而且离电后续航不行）+ipad，",
+      "sourceRef": "comment:6a4bb3e2000000000b039700",
+      "commentId": "6a4bb3e2000000000b039700",
+      "likes": 0,
+      "author": "炒蛋"
+    },
+    {
+      "type": "sub_comment",
+      "text": "用不用都行，有ipad也OK，上课做一下笔记够用的。换不换电脑主要看你自己。",
+      "sourceRef": "comment:6a50fe180000000015004984",
+      "commentId": "6a50fe180000000015004984",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长，想咨询一下：本科数学 学的很烂都是背答案过的 本科也没怎么学过计算机的内容 然后自己已经工作了一年多 现在属于一个啥也不会的状态 英语也是用大一的六级申请的 我这种情况 去ec能顺利毕业吗[哭惹R][哭惹R][哭惹R]",
+      "sourceRef": "comment:6a21b1d6000000002a0066fa",
+      "commentId": "6a21b1d6000000002a0066fa",
+      "likes": 0,
+      "author": "abllllll"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以毕业，不过工作还可以的话没必要再折腾一趟(以就业为导向的话)",
+      "sourceRef": "comment:6a21c61b0000000029011ddb",
+      "commentId": "6a21c61b0000000029011ddb",
+      "likes": 0,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "学长你好[哭惹R]想咨询一下，老师上课讲普通话还是广东话还是英语",
+      "sourceRef": "comment:6a7443180000000003009996",
+      "commentId": "6a7443180000000003009996",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "nice[doge]",
+      "sourceRef": "comment:681af38a000000000d0155bb",
+      "commentId": "681af38a000000000d0155bb",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "[喝奶茶R]好实用的帖子",
+      "sourceRef": "comment:681af8db00000000030371d1",
+      "commentId": "681af8db00000000030371d1",
+      "likes": 0,
+      "author": "纸灰机"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]感谢学长码字，已收藏",
+      "sourceRef": "comment:681afb2f0000000008026acf",
+      "commentId": "681afb2f0000000008026acf",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问学长，ec的课都是在周一到周五的吗[萌萌哒R]有没有需要周六上的课",
+      "sourceRef": "comment:682d4a1800000000090140a3",
+      "commentId": "682d4a1800000000090140a3",
+      "likes": 1,
+      "author": "Oxetane"
+    },
+    {
+      "type": "sub_comment",
+      "text": "选修可能有，必修没有",
+      "sourceRef": "comment:682d4f0c000000001c0281c3",
+      "commentId": "682d4f0c000000001c0281c3",
+      "likes": 1,
+      "author": "Richett_L"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "note_id": "694a0836000000000d00df37",
+  "url": "https://www.xiaohongshu.com/explore/694a0836000000000d00df37?xsec_token=ABrjZ6PoDs6y3rgXagxYyZtNpP1IhQafcr1uwK79ouy-4=",
+  "fetched_at": 1787138781.728561,
+  "note": {
+    "xsecToken": "ABrjZ6PoDs6y3rgXagxYyZtNpP1IhQafcr1uwK79ouy-4=",
+    "title": "NUS mcomp cs sem1 课程评价",
+    "user": {
+      "userId": "61132caf000000000100a4b6",
+      "nickname": "Y青柚",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g0r0s5k00005o8j5ing995mkrm7v58",
+      "xsecToken": "ABbAPUCG_iw_Z_zvH8VFkbNN5QB__sZI5EN3SVDfplYKQ="
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1766459446000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "694a0836000000000d00df37",
+    "desc": "CS5228 workload[星R][星R][星R][星R]\n3 assign+1 midterm+1 group project+1 quiz in the last. 考察对ML和Deep Learning基础概念的深度理解，final题干有一些没理解好（没理解出题人意图），整体workload适中，Christ非常负责，人超级好，对于可交可不交的项目中期slides，我们组交了，他看的很认真，还写了好几百字的建议。\n\t\nCS5239 workload[星R][星R][星R]\n1 assign+1 final+1 group paper review+1 group project+1 group pre(可以pre paper也可以pre project). 我们组选的pre project虽然当时project没太做完。最后project做的有些连滚带爬，半天赶工写完报告，但是还好结果很不错。final选择题涂卡加一些简答题，简答题有一些半开放，给了捞人的余地，其中有一道考project内容，可以提前准备。\n\t\nCS5322 workload[星R][星R][星R]\nfinal exam 50+group project 50(2 sub project+1 paper pre). 组队之后要给老师发邮件，差点忘发[笑哭R]。记得第二个project差点忘了due date, 着急忙慌写了一个。project都是基于oracle database的，一个VPD一个MAC，建议要兼顾复杂性和合理性，pre的时候老师会拷打并且会现场写SQL语句测试。paper pre老师提问环节拷打的攻击性还挺强，有可能挂在上面。final exam以前的保留节目——paper pre总结今年是没有了，换成了完全没咋看的CriptDB,其他考察的点还算稳定。\n\t\nCS5340 workload[星R][星R][星R]\n4 coding assignment+final exam(one page).assign理解算法就不太难，老师说过只要写对都是满分，report也限制1 page，所以平时的workload非常小。final难，非常难，一年比一年难，想要拿到60%以上的分数平时PPT算法不仅要懂思想，那些公式都要看懂并且能自行推导。我发现这个课的隐藏好处是学完之后看论文中的公式容易看懂了许多[微笑R]，可能是被折磨了一下之后有的新技能吧。\n#选课[话题]# #大学绩点[话题]# #计算机科学[话题]# #NUS[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "64",
+      "shareCount": "10",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "62",
+      "collected": false,
+      "commentCount": "7",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191926/72fde12ea424555f5744a820bdc22587/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo",
+        "height": 2642,
+        "width": 1219,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191926/72fde12ea424555f5744a820bdc22587/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191926/18944d39ee86b802cae93cbfca6af0db/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191926/18944d39ee86b802cae93cbfca6af0db/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课"
+      },
+      {
+        "id": "600afa06000000000101e960",
+        "name": "大学绩点",
+        "type": "topic"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "id": "5e3023310000000001003597",
+        "name": "NUS",
+        "type": "topic"
+      }
+    ],
+    "time": 1766459446000,
+    "type": "normal"
+  },
+  "comments": [
+    {
+      "status": 0,
+      "content": "请问5228推荐吗？对于基础一般的学生来说难度大吗？给分如何呀？谢谢[玫瑰R]",
+      "atUsers": [],
+      "createTime": 1767351227000,
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABgsPtCWsYdPRbomSTeBbjiepqsZTBa54DdYJBDuKPxQ4=",
+            "userId": "61f41004000000001000e50a",
+            "nickname": "鼠鼠的快乐家园",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64118ce8a41e0aa3a66e0105.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1784524217000,
+          "ipLocation": "天津",
+          "targetComment": {
+            "id": "6957a3bb000000000f01dee0",
+            "userInfo": {
+              "userId": "5d332202000000001203ab4b",
+              "nickname": "黄色潜水艇",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3143lt8a6hm005n9j4814naqbus8gbvg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABK88_LuUDeLETW6WCejGaTroYsrbiFhtt4b-Jo-zwHro="
+            }
+          },
+          "noteId": "694a0836000000000d00df37",
+          "status": 0,
+          "content": "蹲蹲",
+          "showTags": [],
+          "invalid": false,
+          "id": "6a5dadb9000000002a0264bd",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "showTags": [],
+      "ipLocation": "四川",
+      "id": "6957a3bb000000000f01dee0",
+      "noteId": "694a0836000000000d00df37",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "5d332202000000001203ab4b",
+        "nickname": "黄色潜水艇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3143lt8a6hm005n9j4814naqbus8gbvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABK88_LuUDeLETW6WCejGaTroYsrbiFhtt4b-Jo-zwHro="
+      },
+      "subCommentCursor": "6a5dadb9000000002a0264bd",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5e7313e00000000001009b36",
+        "nickname": "www",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dfmsad9gk5g5njj2fg096pmafndle0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEdHrpurDWkb7KNfNZMtxweBkB-GN4OR5KBebWlMgVeg="
+      },
+      "showTags": [],
+      "subCommentCursor": "694a5d38000000001600e62e",
+      "subCommentHasMore": false,
+      "content": "5239开放题如捞[扶额R]",
+      "likeCount": "1",
+      "createTime": 1766465320000,
+      "ipLocation": "海南",
+      "invalid": false,
+      "noteId": "694a0836000000000d00df37",
+      "atUsers": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "694a1f28000000001d01c964",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dfmsad9gk5g5njj2fg096pmafndle0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEdHrpurDWkb7KNfNZMtxweBkB-GN4OR5KBebWlMgVeg=",
+              "userId": "5e7313e00000000001009b36",
+              "nickname": "www"
+            }
+          },
+          "invalid": false,
+          "id": "694a5d38000000001600e62e",
+          "noteId": "694a0836000000000d00df37",
+          "content": "我爱死她了[黄金薯R]",
+          "userInfo": {
+            "userId": "64c8b40e000000000b00b016",
+            "nickname": "cr777",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/64c8b45efae46675d341fbbd.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABdf1V9Fg_ryg8nbr7SH7TtS-hvNuI0YjX2MxGcC0TPq0="
+          },
+          "ipLocation": "四川",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [],
+          "createTime": 1766481208000
+        }
+      ],
+      "id": "694a1f28000000001d01c964",
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "694a130f000000001502cf21",
+      "status": 0,
+      "atUsers": [],
+      "subCommentCount": "1",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fedhepdmq405p59p6rikali8unk350?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABunR_H7DR9zyVxGruDfyvh2o8Kf4ptUQLs4HU6p8JWQA=",
+        "userId": "64a9c9b7000000000a022ab2",
+        "nickname": "木木枭训练师"
+      },
+      "createTime": 1766462223000,
+      "ipLocation": "北京",
+      "invalid": false,
+      "content": "5340 A+也太强了，感觉cheatsheet整合的都没咋用上，考的都是从头推导",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "64a9c9b7000000000a022ab2",
+              "nickname": "木木枭训练师",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fedhepdmq405p59p6rikali8unk350?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABunR_H7DR9zyVxGruDfyvh2o8Kf4ptUQLs4HU6p8JWQA="
+            },
+            "id": "694a130f000000001502cf21"
+          },
+          "id": "694a173f000000000f01cd38",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "nickname": "Y青柚",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g0r0s5k00005o8j5ing995mkrm7v58?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AByVAnciWfCsRvtEvplxCcmwM9zvampWDZI1ZcGJzuOvU=",
+            "userId": "61132caf000000000100a4b6"
+          },
+          "createTime": 1766463295000,
+          "ipLocation": "黑龙江",
+          "invalid": false,
+          "noteId": "694a0836000000000d00df37",
+          "status": 0,
+          "content": "确实 根本没时间看"
+        }
+      ],
+      "subCommentCursor": "694a173f000000000f01cd38",
+      "subCommentHasMore": false,
+      "noteId": "694a0836000000000d00df37",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "日本",
+      "subCommentCursor": "",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABK88_LuUDeLETW6WCejGaTroYsrbiFhtt4b-Jo-zwHro=",
+        "userId": "5d332202000000001203ab4b",
+        "nickname": "黄色潜水艇",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3143lt8a6hm005n9j4814naqbus8gbvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "id": "6a6b4027000000002b029026",
+      "noteId": "694a0836000000000d00df37",
+      "subComments": [],
+      "content": "请问uu cs5340会有挂科的风险吗[哭惹R]如果期末真的啥都不会，会挂科吗[哭惹R]",
+      "likeCount": "0",
+      "createTime": 1785413671000,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 Algorithms & Techniques",
+  "search_item": {
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-23"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "NUS mcomp cs sem1 课程评价",
+      "user": {
+        "nickname": "Y青柚",
+        "xsecToken": "ABRmI2zSji0486_fkavl0naFygILpnp46jiHQf3iLgZvM=",
+        "nickName": "Y青柚",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g0r0s5k00005o8j5ing995mkrm7v58?imageView2/2/w/80/format/jpg",
+        "userId": "61132caf000000000100a4b6"
+      },
+      "interactInfo": {
+        "sharedCount": "10",
+        "liked": false,
+        "likedCount": "62",
+        "collected": false,
+        "collectedCount": "64",
+        "commentCount": "7"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191925/c6bb791c38711b972393af5ecb9e8fd4/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nc_n_webp_prv_1",
+        "height": 2642,
+        "width": 1219,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191925/b76e3500828dd2138710da8c301c9425/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "width": 1219,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/b76e3500828dd2138710da8c301c9425/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/c6bb791c38711b972393af5ecb9e8fd4/spectrum/1040g0k031qdv5vskn0005o8j5ing995mk3fkedo!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 2642
+        }
+      ]
+    },
+    "xsecToken": "ABrjZ6PoDs6y3rgXagxYyZtNpP1IhQafcr1uwK79ouy-4=",
+    "id": "694a0836000000000d00df37",
+    "modelType": "note",
+    "index": 6,
+    "exposed": true,
+    "trackId": "694a0836000000000d00df37"
+  }
+}

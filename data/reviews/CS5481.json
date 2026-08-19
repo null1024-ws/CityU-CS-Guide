@@ -2,11 +2,11 @@
   "courseCode": "CS5481",
   "fields": {
     "difficulty": {
-      "value": "easy",
-      "label": "简单",
+      "value": "medium",
+      "label": "适中",
       "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 6
+      "sourceCount": 13,
+      "distinctSources": 7
     },
     "hasRecording": {
       "value": "true",
@@ -19,15 +19,15 @@
       "value": "generous",
       "label": "给分友好",
       "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 4
+      "sourceCount": 6,
+      "distinctSources": 5
     },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
-      "sourceCount": 6,
-      "distinctSources": 6
+      "sourceCount": 9,
+      "distinctSources": 7
     },
     "workload": {
       "value": "unknown",
@@ -54,6 +54,15 @@
         "post_body"
       ],
       "postTitle": "香港城市大学CS5481 Data Engineering"
+    },
+    {
+      "noteId": "6a7729bb0000000005020799",
+      "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
+      "excerpt": "1.CS5481 Software Engineering；不出意外的话这是港硕的第一门课。开幕雷击，所有课里要素最多的一门课：超大型的项目，八人左右一组，开发周期占了整个SemA的三分之二，如果组里有人划水会很困难，线上录制视频pre；两次quiz，虽然开卷，但难度不低；一次论文阅读写作，比较水。期末考试半开卷，能带三张小抄，但题量和难度都不小，整场考试像是英语阅读写作大挑战。老师人不错，但口音有点重，上课听起来有点吃力。另外老师喜欢整些互动小游戏，所以上课没发完全划水，整体给分一般。虽然是必修课，但可以考虑豁免。；优点：能在前期认识多个同学，方便后面抱团；缺点：超大型项目，两次quiz，考试难度较高",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMA（划水版）"
     },
     {
       "noteId": "68345b41000000002100ef66",
@@ -99,24 +108,6 @@
         "post_body"
       ],
       "postTitle": "CityU EC semA选课锐评（上）"
-    },
-    {
-      "noteId": "66bb33d10000000025030553",
-      "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
-      "excerpt": "CS5481 Data Engineering（必修）；分数构成：assignment，project，final；教授无可挑剔，课程不难。project是2-4人完成，今年有可能允许1人单独完成（计算机专业学生完全可以独立完成）。评价很好的一门课。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU Msc Computer Science选课1"
-    },
-    {
-      "noteId": "6a0c17bd000000000702ea2c",
-      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
-      "excerpt": "CS5481 data engineering；纯纯背书课，期末闭卷考PPT中的概念和理解。有平时作业和group project。老师人很不错，只要不是特别摆烂，没有挂的风险。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu CS课程评价(一)"
     }
   ],
   "commentSources": [
@@ -134,5 +125,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

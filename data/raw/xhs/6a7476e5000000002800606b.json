@@ -1,0 +1,165 @@
+{
+  "note_id": "6a7476e5000000002800606b",
+  "url": "https://www.xiaohongshu.com/explore/6a7476e5000000002800606b?xsec_token=ABvBUm5a5AjSb3CJAGu5ig2uetn7oc5JKXd2aio_pRoX8=",
+  "fetched_at": 1787139749.0762188,
+  "note": {
+    "atUserList": [],
+    "time": 1786017509000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "港城cs samB 选课体验 下",
+    "user": {
+      "userId": "67527c05000000001c019797",
+      "nickname": "Elona",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7efe1fc3de4c930effac.jpg",
+      "xsecToken": "ABm9CCU0WvkVHD2n5QGpcGJae5lOYXpQq7au0fJvzwg3M="
+    },
+    "imageList": [
+      {
+        "fileId": "1040g008323hdo8ikna005pqifg2n35sn0o3rpq8",
+        "height": 172,
+        "width": 1226,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191942/99c66b044ec9eb4d6a804eb3b3744626/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191942/9b3289f7d1f8b856fec630abe6e30458/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191942/99c66b044ec9eb4d6a804eb3b3744626/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191942/9b3289f7d1f8b856fec630abe6e30458/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "name": "选课",
+        "type": "topic",
+        "id": "5d1c9959000000000d017f43"
+      },
+      {
+        "type": "topic",
+        "id": "5d1ea316000000000e026c68",
+        "name": "港城"
+      }
+    ],
+    "lastUpdateTime": 1786017580000,
+    "ipLocation": "广东",
+    "noteId": "6a7476e5000000002800606b",
+    "type": "normal",
+    "desc": "上一篇到字数限制了，这篇讲最后一个\n\t\n自然语言\n字多，纯背，不过是有前沿知识的，包括llm，agent，rag，prompt工程，和我面试准备有一定重合，但是还没有我面试问的深，所以这门课程的复习相对快速一些。闭卷考试 ，考试里面还有给你一个场景让你写提示词的题目，给你带有空的代码，让你填写关键逻辑部分，实现rag。这门课还挺紧跟时事的，因此课程内容和期末考试大概率会随着当年的技术发展变化。大作业队友给力，让我划到水了，很舒服，感恩\n#cityu[话题]# #港硕[话题]# #选课[话题]# #港城[话题]#",
+    "interactInfo": {
+      "collected": false,
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "8",
+      "collectedCount": "7",
+      "commentCount": "1",
+      "shareCount": "",
+      "relation": "none"
+    },
+    "xsecToken": "ABvBUm5a5AjSb3CJAGu5ig2uetn7oc5JKXd2aio_pRoX8="
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "noteId": "6a7476e5000000002800606b",
+      "status": 0,
+      "content": "这课大作业给分是真扣[笑哭R]",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "6a753ad3000000000301697a",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "661ff4af000000000d024d5f",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b807d338379fac18930a8.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCb_ZRVvs3fX3cOwoQ1_773THKUbMVUVE4Nwb2xvmKB0="
+      },
+      "createTime": 1786067668000,
+      "ipLocation": "甘肃",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 怎么样",
+  "search_item": {
+    "xsecToken": "ABvBUm5a5AjSb3CJAGu5ig2uetn7oc5JKXd2aio_pRoX8=",
+    "id": "6a7476e5000000002800606b",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "8",
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "1"
+      },
+      "cover": {
+        "height": 172,
+        "width": 1226,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191942/822145ff6f8802b84a3e30134d1570ad/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191942/ad4f015dab884b3e6fdeacc9196bd2fb/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 172,
+          "width": 1226,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/822145ff6f8802b84a3e30134d1570ad/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/ad4f015dab884b3e6fdeacc9196bd2fb/1040g008323hdo8ikna005pqifg2n35sn0o3rpq8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-06"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城cs samB 选课体验 下",
+      "user": {
+        "nickName": "Elona",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b7efe1fc3de4c930effac.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "67527c05000000001c019797",
+        "nickname": "Elona",
+        "xsecToken": "ABlZI0Vq8qUNtUIhV7rS22hGfZrXS9Fix6cjbnCsU5kEI="
+      }
+    },
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a7476e5000000002800606b"
+  }
+}

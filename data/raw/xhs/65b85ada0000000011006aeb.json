@@ -1,0 +1,427 @@
+{
+  "note_id": "65b85ada0000000011006aeb",
+  "url": "https://www.xiaohongshu.com/explore/65b85ada0000000011006aeb?xsec_token=ABoeg40Z_Tsc9mIJyDSaPlCv5fntKDuENZYvifiPVMgc8=",
+  "fetched_at": 1787142273.1017592,
+  "note": {
+    "user": {
+      "userId": "61b000080000000010007330",
+      "nickname": "小可乐",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30mvupt4plc005odg00440spgsd111go",
+      "xsecToken": "ABjuPz1DgQsyWGVbUa8oRhjqy4ekBdwe5IQyIqIYAwjfg="
+    },
+    "interactInfo": {
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "59",
+      "commentCount": "12",
+      "shareCount": "19",
+      "relation": "none",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "56"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192024/0f70b8142f18a89a1a257969f19b958e/1040g00830uhnam5n5a005odg00440spg8f5hf80!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192024/10a529150a4e262bcba9344cdd27db8d/1040g00830uhnam5n5a005odg00440spg8f5hf80!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "fileId": "1040g00830uhnam5n5a005odg00440spg8f5hf80",
+        "height": 1080,
+        "width": 1920,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192024/0f70b8142f18a89a1a257969f19b958e/1040g00830uhnam5n5a005odg00440spg8f5hf80!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192024/10a529150a4e262bcba9344cdd27db8d/1040g00830uhnam5n5a005odg00440spg8f5hf80!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "url": ""
+      }
+    ],
+    "atUserList": [],
+    "time": 1706580698000,
+    "lastUpdateTime": 1706580699000,
+    "type": "normal",
+    "desc": "纯分享，给予大家一些些参考。\n第一学期（23fall）选的csci570，csci585，分别是算法和数据库技术，570Victor讲的真不咋地，如果本科学过算法的同学感觉应该压力不大，周长作业一天至两天完成；考试的话期中难度稍高一些（均分58），但是有算法基础的同学应该没啥问题（90+），期末捞人（均分80+），所以也不需要太担心什么的；585上课体验比较差，本来就是700个人大礼堂上课，还与抽查点名，老师上课基本没啥重点，但是工作量较小；期中是闭卷（好像是疫情上来第一次闭卷）比较搞（老师出题完全看他心情），期末开gpt，基本上不需要复习，4.0乱杀，给分也不错。\n这学期选的dsci551和csci571，分别是data management和web tech，571是出了名的工作量大，不过能熟悉很多技术栈，前端后端等；551老师上课讲的比较清楚，手把手教相关技术（database，firebase）等等，目前听录播体验尚可；没有基础的同学也可以选。\n提前祝大家新年快乐！一起约图书馆学习！\n#usc[话题]# #USC[话题]# #usc课程[话题]# #LA[话题]# #CS[话题]# #23fall[话题]#",
+    "tagList": [
+      {
+        "id": "5c087de77e831f00011c2ee5",
+        "name": "usc",
+        "type": "topic"
+      },
+      {
+        "id": "5e6a2d18000000000100b861",
+        "name": "USC",
+        "type": "topic"
+      },
+      {
+        "name": "usc课程",
+        "type": "topic",
+        "id": "65b85ad6000000001301a7bd"
+      },
+      {
+        "name": "LA",
+        "type": "topic",
+        "id": "5d59c475000000000103def8"
+      },
+      {
+        "type": "topic",
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS"
+      },
+      {
+        "name": "23fall",
+        "type": "topic",
+        "id": "61484204000000000101fe38"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "65b85ada0000000011006aeb",
+    "title": "Usc cs28 23fall体验",
+    "xsecToken": "ABoeg40Z_Tsc9mIJyDSaPlCv5fntKDuENZYvifiPVMgc8="
+  },
+  "comments": [
+    {
+      "content": "你好学长，我可以问一下当时csci你选的是哪个教授不，是saty还是另一个呢",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "invalid": false,
+      "id": "696f1b68000000001803885a",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "696f1b700000000009034968",
+          "status": 0,
+          "content": "csci585",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "javonous(骑手站  🦅版)",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d325f30000000026007c41.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABNrjqzvGf8AdXMWL3Qjl2_SEbDN7cBRxbT6g89lhr4WE=",
+            "userId": "63d325f30000000026007c41"
+          },
+          "createTime": 1768889200000,
+          "noteId": "65b85ada0000000011006aeb",
+          "showTags": [],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "696f1b68000000001803885a",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d325f30000000026007c41.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNrjqzvGf8AdXMWL3Qjl2_SEbDN7cBRxbT6g89lhr4WE=",
+              "userId": "63d325f30000000026007c41",
+              "nickname": "javonous(骑手站  🦅版)"
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "696f1b700000000009034968",
+      "subCommentHasMore": true,
+      "createTime": 1768889192000,
+      "subCommentCount": "3",
+      "noteId": "65b85ada0000000011006aeb",
+      "status": 0,
+      "userInfo": {
+        "userId": "63d325f30000000026007c41",
+        "nickname": "javonous(骑手站  🦅版)",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/63d325f30000000026007c41.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNrjqzvGf8AdXMWL3Qjl2_SEbDN7cBRxbT6g89lhr4WE="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1754549762000,
+      "subComments": [
+        {
+          "id": "68944e64000000002b0181c1",
+          "noteId": "65b85ada0000000011006aeb",
+          "status": 0,
+          "content": "不清楚",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "上海",
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61b000080000000010007330",
+            "nickname": "小可乐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30mvupt4plc005odg00440spgsd111go?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4dZ_T7nUeLJ5nP1scn8fG8C_0jJNjP3IG45TWE9evD4="
+          },
+          "createTime": 1754549861000,
+          "targetComment": {
+            "id": "68944e01000000002903dcfe",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31goaqk4n424g5p448ksk6jmqbrm9q3g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABudUwNvt7zMsS7qD5yEciIFjk9JUI8ffJmncn816hYhE=",
+              "userId": "648445390000000010034eda",
+              "nickname": "momo"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "content": "想问一下学长dsci551不是csci的话是不是需要额外申请呀",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "648445390000000010034eda",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31goaqk4n424g5p448ksk6jmqbrm9q3g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABudUwNvt7zMsS7qD5yEciIFjk9JUI8ffJmncn816hYhE="
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "65b85ada0000000011006aeb",
+      "status": 0,
+      "atUsers": [],
+      "subCommentCursor": "68944e64000000002b0181c1",
+      "subCommentHasMore": false,
+      "id": "68944e01000000002903dcfe",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1732234397000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "noteId": "65b85ada0000000011006aeb",
+      "status": 0,
+      "userInfo": {
+        "userId": "6027a3190000000001009ae3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rqnq97i2m005o17kccg96n3mi9hsmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrbedavky_QiPwp0sl9o2hBQiYpCQb0hdDOeMeF2QbIU="
+      },
+      "ipLocation": "美国",
+      "invalid": false,
+      "content": "551和585推荐哪个呢",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "673fcc9c000000001b025965",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "subComments": [],
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "subCommentHasMore": false,
+      "id": "65b9ed7d000000000800963a",
+      "noteId": "65b85ada0000000011006aeb",
+      "liked": false,
+      "userInfo": {
+        "userId": "5b3b777411be103d9cf116f5",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323iunm3p02004a6q2vrn85nlpag77n0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUapD-npFcpHrinwok5FtFaQPyqhclWx8-OOZhP96xvI="
+      },
+      "invalid": false,
+      "content": "《比较搞》铁铁这个形容词笑死我了",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1706683773000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "noteId": "65b85ada0000000011006aeb",
+      "atUsers": [],
+      "id": "65c02f3d000000000901686d",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABlIO8c0issy1T2mAkfUb3c7vy7qDjtn25svNkWd0gM6M=",
+        "userId": "602397420000000001007f0d",
+        "nickname": "Solitary",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31esq332u6i005o13it108vod04es58o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "content": "中肯的",
+      "liked": false,
+      "createTime": 1707093821000,
+      "subComments": [],
+      "invalid": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "65bb09c00000000009017042",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1706756544000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "content": "蹲[皱眉R]不过貌似今年改成cs32了",
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "湖南",
+      "subComments": [],
+      "subCommentCursor": "",
+      "noteId": "65b85ada0000000011006aeb",
+      "userInfo": {
+        "nickname": "momo在线秒回",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322bh3h3kno6g5pai273i5l6j1fmh718?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB-3NE7g0Zr9ci215TLSSXBMf36sMYeshQlT3ql73gM70=",
+        "userId": "655211c7000000000802d4d3"
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "subCommentHasMore": false,
+      "noteId": "65b85ada0000000011006aeb",
+      "subComments": [
+        {
+          "id": "65b86fcd0000000009017163",
+          "noteId": "65b85ada0000000011006aeb",
+          "status": 0,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1706586061000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "65b86edc00000000080304f4",
+            "userInfo": {
+              "xsecToken": "ABH3zYwKm8GuJtEE_AaXixulzrqEAjvd7LwRMEZrmBp1U=",
+              "userId": "5dcb3fbd0000000001003275",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/661d8172d197788d679386af.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "content": "可",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB4dZ_T7nUeLJ5nP1scn8fG8C_0jJNjP3IG45TWE9evD4=",
+            "userId": "61b000080000000010007330",
+            "nickname": "小可乐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30mvupt4plc005odg00440spgsd111go?imageView2/2/w/120/format/jpg"
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "65b86fcd0000000009017163",
+      "id": "65b86edc00000000080304f4",
+      "status": -2,
+      "content": "约图书馆学习！",
+      "liked": false,
+      "createTime": 1706585820000,
+      "userInfo": {
+        "xsecToken": "ABH3zYwKm8GuJtEE_AaXixulzrqEAjvd7LwRMEZrmBp1U=",
+        "userId": "5dcb3fbd0000000001003275",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/661d8172d197788d679386af.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "美国",
+      "invalid": false,
+      "subCommentCount": "1",
+      "atUsers": [],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6187 怎么样",
+  "search_item": {
+    "id": "65b85ada0000000011006aeb",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "59",
+        "collected": false,
+        "collectedCount": "56",
+        "commentCount": "12",
+        "sharedCount": "19",
+        "liked": false
+      },
+      "cover": {
+        "height": 1080,
+        "width": 1920,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192024/f1354715e0e198cb38d7117815efa532/1040g00830uhnam5n5a005odg00440spg8f5hf80!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192024/98c751369e9ed8f6223234049ef5f316/1040g00830uhnam5n5a005odg00440spg8f5hf80!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "width": 1920,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192024/f1354715e0e198cb38d7117815efa532/1040g00830uhnam5n5a005odg00440spg8f5hf80!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192024/98c751369e9ed8f6223234049ef5f316/1040g00830uhnam5n5a005odg00440spg8f5hf80!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1080
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-01-30"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Usc cs28 23fall体验",
+      "user": {
+        "nickName": "小可乐",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30mvupt4plc005odg00440spgsd111go?imageView2/2/w/80/format/jpg",
+        "userId": "61b000080000000010007330",
+        "nickname": "小可乐",
+        "xsecToken": "ABBIIn7Lxi9yiJeLRJcOD4GywNbP5d-64-N6_KsRSKUPQ="
+      }
+    },
+    "xsecToken": "ABoeg40Z_Tsc9mIJyDSaPlCv5fntKDuENZYvifiPVMgc8=",
+    "index": 12,
+    "exposed": true,
+    "trackId": "65b85ada0000000011006aeb"
+  }
+}

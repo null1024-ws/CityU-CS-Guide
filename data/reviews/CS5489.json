@@ -8,6 +8,13 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
+    "examFormat": {
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
     "difficulty": {
       "value": "hard",
       "label": "较难",
@@ -27,19 +34,12 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
-    "examFormat": {
-      "value": "open_book",
-      "label": "开卷",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
     "workload": {
       "value": "heavy",
       "label": "繁重",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
     },
     "attendance": {
       "value": "unknown",
@@ -98,6 +98,15 @@
       "postTitle": "🇭🇰CityU CS SemB选课"
     },
     {
+      "noteId": "6a68c369000000000401d020",
+      "url": "https://www.xiaohongshu.com/explore/6a68c369000000000401d020?xsec_token=ABuawtdgCfNg0LPb3huopF90LeInTU-kPgHb3VzJ-em_o=",
+      "excerpt": "CS5489（机器学习）：主包因为学分置换直接没上，但看同学反馈工作量大、强度高。不过评估下来效果应该不错（毕竟主包以前上机器学习的时候，老师都很难把slides讲得很清楚hhhh）。；选修课主推这几门",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "大龄学长聊对MSc AI的整体感受和选课建议"
+    },
+    {
       "noteId": "669e38ab0000000027018fc3",
       "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
       "excerpt": "CS5489 Machine Learning: Algorithms and Applications",
@@ -118,6 +127,19 @@
   ],
   "commentSources": [
     {
+      "noteId": "681a0b60000000000f03b478",
+      "url": "https://www.xiaohongshu.com/explore/681a0b60000000000f03b478?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXzV5LOWE_3LlNAJSfgeuw6w=",
+      "excerpt": "我以为我的cheatsheet够夸张了，没想到你的更厉害！不得不说这门课真的是又爱又恨，tutorial assignment project 工作量真的大，但沒有這些的話真的學不懂",
+      "extractedFrom": [
+        "comment"
+      ],
+      "postTitle": "香港城市大学 CS5489机器学习 继续吐槽",
+      "commentId": "681a17a6000000000b0174a8",
+      "author": "Babe",
+      "likes": 2,
+      "role": "supplement"
+    },
+    {
       "noteId": "66bf27a800000000250322f8",
       "url": "https://www.xiaohongshu.com/explore/66bf27a800000000250322f8?xsec_token=AB-xgSHmDbSXkGFlv0-KwRmPlRUO1Ep8Swb_ryhGds79E=",
       "excerpt": "CS5489 非考研党 高数三件套都差不多忘完了 学起来会不会很困难",
@@ -129,7 +151,20 @@
       "author": "momo",
       "likes": 0,
       "role": "supplement"
+    },
+    {
+      "noteId": "681a0b60000000000f03b478",
+      "url": "https://www.xiaohongshu.com/explore/681a0b60000000000f03b478?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXzV5LOWE_3LlNAJSfgeuw6w=",
+      "excerpt": "ds的ml应该和cs的不一样，难度应该没这么大",
+      "extractedFrom": [
+        "sub_comment"
+      ],
+      "postTitle": "香港城市大学 CS5489机器学习 继续吐槽",
+      "commentId": "681b054f000000000401c5be",
+      "author": "Richett_L",
+      "likes": 1,
+      "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

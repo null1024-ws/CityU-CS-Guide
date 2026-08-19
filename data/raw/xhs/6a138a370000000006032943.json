@@ -1,0 +1,398 @@
+{
+  "note_id": "6a138a370000000006032943",
+  "url": "https://www.xiaohongshu.com/explore/6a138a370000000006032943?xsec_token=AB_zhY-0B1Id9lZbvH7sh97pEJokeMXJTdGWPabPpEmAU=",
+  "fetched_at": 1787138890.0316777,
+  "note": {
+    "noteId": "6a138a370000000006032943",
+    "title": "OpenCode 接入 ClaudeCode，WebSearch 失效",
+    "desc": "#编程技巧[话题]# #AI工具报错[话题]# #ClaudeCode[话题]# #DeepSeek[话题]# #OpenCode[话题]# #开发排查[话题]# #程序员干货[话题]# #AI开发[话题]#",
+    "user": {
+      "userId": "64c4e05c000000000b005b18",
+      "nickname": "Cooli7wa",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31osbrs38ho0g5q78dnqs64ikrgbp6mo",
+      "xsecToken": "AB7nCLDgT1diMotB1NOjB3XdvXe4L8fPxusRDaaQVRPL4="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "20",
+      "shareCount": "4",
+      "likedCount": "19",
+      "commentCount": "5",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "617e78bf0000000001007906",
+        "name": "编程技巧"
+      },
+      {
+        "id": "6a1389700000000006011ce1",
+        "name": "AI工具报错",
+        "type": "topic"
+      },
+      {
+        "id": "67bd179a000000001d010de2",
+        "name": "ClaudeCode",
+        "type": "topic"
+      },
+      {
+        "id": "6639645c000000001b02e1fd",
+        "name": "DeepSeek",
+        "type": "topic"
+      },
+      {
+        "id": "685ebfe90000000018007279",
+        "name": "OpenCode",
+        "type": "topic"
+      },
+      {
+        "name": "开发排查",
+        "type": "topic",
+        "id": "6a1389700000000006011ce2"
+      },
+      {
+        "name": "程序员干货",
+        "type": "topic",
+        "id": "633601fb000000000101c414"
+      },
+      {
+        "id": "63db6d4f000000000101f5b6",
+        "name": "AI开发",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1779665464000,
+    "type": "normal",
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/fb1940c5797c41e853edc70c36aa9d64/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/151e6d08d0bea63132778d00357b084d/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/fb1940c5797c41e853edc70c36aa9d64/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/151e6d08d0bea63132778d00357b084d/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo",
+        "height": 2400,
+        "width": 1440,
+        "url": ""
+      },
+      {
+        "livePhoto": false,
+        "height": 2400,
+        "url": "",
+        "fileId": "notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8",
+        "width": 1440,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/97e30e73bbff7245e00acba6261ebe41/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/beceecdc21c8a54f22e07f46748a8627/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/97e30e73bbff7245e00acba6261ebe41/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/beceecdc21c8a54f22e07f46748a8627/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "height": 2400,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/e7277f9d5c0b709055802a509f113546/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/a1e3cdb9ac95f040fc5ad1f768ff632a/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag",
+        "width": 1440,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/e7277f9d5c0b709055802a509f113546/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/a1e3cdb9ac95f040fc5ad1f768ff632a/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "url": "",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto",
+        "height": 2400,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/e4f0b95e527b4f12d035bcaddd1c9a4f/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/76455cfe40ed0ee32e93cb597c9f20f1/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/e4f0b95e527b4f12d035bcaddd1c9a4f/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/76455cfe40ed0ee32e93cb597c9f20f1/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "width": 1440
+      }
+    ],
+    "time": 1779665463000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "AB_zhY-0B1Id9lZbvH7sh97pEJokeMXJTdGWPabPpEmAU="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "showTags": [],
+      "createTime": 1785953792000,
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5ef44ada00000000010059d8",
+            "nickname": "0x3f",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31prai1bcl4005nnk9bd08meo6o7cuso?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsrFaD18TVVsq6PG1_3Qext1J7Br2Vbm8yRuPHVBIGR0="
+          },
+          "createTime": 1786028985000,
+          "targetComment": {
+            "id": "6a737dff000000001400a2ef",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60159139000000000100093c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABO2PjQjOdQApcMpXErxTDeAJmPzdVw4yQiuKPrG993cI=",
+              "userId": "60159139000000000100093c",
+              "nickname": "小瓶子"
+            }
+          },
+          "noteId": "6a138a370000000006032943",
+          "status": 0,
+          "content": "同问",
+          "atUsers": [],
+          "showTags": [],
+          "ipLocation": "重庆",
+          "invalid": false,
+          "id": "6a74a3b90000000007039901",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "userInfo": {
+        "nickname": "小瓶子",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60159139000000000100093c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABO2PjQjOdQApcMpXErxTDeAJmPzdVw4yQiuKPrG993cI=",
+        "userId": "60159139000000000100093c"
+      },
+      "subCommentCount": "1",
+      "id": "6a737dff000000001400a2ef",
+      "noteId": "6a138a370000000006032943",
+      "status": 0,
+      "content": "还有其他方法吗",
+      "atUsers": [],
+      "subCommentCursor": "6a74a3b90000000007039901",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a26e39f000000002803f63b",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "66856a9c000000000f035772",
+        "nickname": "珩华",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31taskli8m86g5pk5dae3ulri5qncbvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYVlFWdsstj7rRTExJcSV0OvS67fvCiF9HW__SJcFliE="
+      },
+      "ipLocation": "安徽",
+      "subComments": [],
+      "noteId": "6a138a370000000006032943",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1780933536000,
+      "status": 0,
+      "content": "必须这样解决吗？",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a138a370000000006032943",
+      "likeCount": "0",
+      "ipLocation": "河北",
+      "status": 0,
+      "content": "我的也是opencode接的claude。原生webfetch也用不了。只能用mcpfetch",
+      "atUsers": [],
+      "createTime": 1782488221000,
+      "subCommentCursor": "",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7efe1fc3de4c930effac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABs8iqLBlTcBtskgi_vNa8JmUvfxF3Y1w8ERIPOO7ViI4=",
+        "userId": "65e58bf60000000005009cfe",
+        "nickname": "小红薯65E639BA"
+      },
+      "id": "6a3e9c9c0000000015004205",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "美国",
+      "atUsers": [],
+      "createTime": 1786782815000,
+      "subCommentCursor": "",
+      "id": "6a80245f000000002b0270fc",
+      "subCommentCount": "0",
+      "subComments": [],
+      "noteId": "6a138a370000000006032943",
+      "status": 0,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "duckduckgo endpoint hit a captcha",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "刘誉儿",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5d451b6c26a8670001fb669b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpzhzX_3-jU_52aMsdikSLkLy3XR0gBlUWa0gsUDmVa0=",
+        "userId": "5d451b2b0000000011016296"
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 web search",
+  "search_item": {
+    "id": "6a138a370000000006032943",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "OpenCode 接入 ClaudeCode，WebSearch 失效",
+      "user": {
+        "nickname": "Cooli7wa",
+        "xsecToken": "ABWtqmwyrSXqRdyDZOl7FqLxAqwuNGHnB4g_yOKeh9Tis=",
+        "nickName": "Cooli7wa",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31osbrs38ho0g5q78dnqs64ikrgbp6mo?imageView2/2/w/80/format/jpg",
+        "userId": "64c4e05c000000000b005b18"
+      },
+      "interactInfo": {
+        "commentCount": "5",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "19",
+        "collected": false,
+        "collectedCount": "20"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/e69046d549ccc5c217d6db78b30ad0b5/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/ba40565451bbdcd2b7a0913e0c8f54a2/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nc_n_webp_prv_1",
+        "height": 2400,
+        "width": 1440
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/e69046d549ccc5c217d6db78b30ad0b5/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/ba40565451bbdcd2b7a0913e0c8f54a2/notes_pre_post/1040g3k0320ioc9c1620g5p64s1e2omoo2laqpoo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2400,
+          "width": 1440
+        },
+        {
+          "height": 2400,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/7c40440f9ba1e3314cd4a6c9da22cb95/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/ff7e6169e32c6e6fdaf907b941c13e42/notes_pre_post/1040g3k0320ioc9c162105p64s1e2omoog3tklr8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2400,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/fd8de0ffc0476afd8258e28a0810f4c9/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/6a53546a7afd97e31dec2de110d3d440/notes_pre_post/1040g3k0320ioc9c1621g5p64s1e2omootoe97ag!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/9b6c31949c51bae5828d33c2efb3d29e/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/c233230b39fc2cebfaf867c657046124/notes_pre_post/1040g3k0320ioc9c162205p64s1e2omool74jhto!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2400
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "05-25"
+        }
+      ]
+    },
+    "xsecToken": "AB_zhY-0B1Id9lZbvH7sh97pEJokeMXJTdGWPabPpEmAU=",
+    "index": 0,
+    "exposed": true,
+    "trackId": "6a138a370000000006032943"
+  }
+}

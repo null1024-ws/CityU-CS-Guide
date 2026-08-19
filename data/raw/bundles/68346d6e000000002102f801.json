@@ -1,0 +1,77 @@
+{
+  "note_id": "68346d6e000000002102f801",
+  "url": "https://www.xiaohongshu.com/explore/68346d6e000000002102f801?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjeyDV0dSYkdlI3uoWEP1r38=",
+  "fetched_at": 1787137536.5700285,
+  "course_codes": [
+    "CS5182",
+    "CS5293"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Msc CS SemB课程评价（上）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "SemB的课程大多与AI相关，我在本科阶段几乎没有接触过AI，所以我这学期的绩点远低于上学期。这个学期由于教学要求，所有课都不再提供网课，不排除25fall的所有课延续该要求的可能性\n\t\n1. CS5293 Topics on Information Security\nLecturer: Qingchuan ZHAO\n上课体验：🌟🌟🌟\n不同于SemA的安全课，这门课的覆盖广度很大，从密码学到栈溢出到网络安全等等，甚至包含比特币和蓝牙安全相关，相对来说深度不大。这学期大概只有20来个人选这门课，实际课上来的只有十来个，教室空荡荡，老师提问没什么人回应，很尴尬。\n作业体验：🌟🌟🌟🌟\n相比起上学期安全课的理论计算作业，这学期更注重实操，例如编写链接实现XSS攻击等。所有作业都基于成熟的seedlab，可以在网上找到所有原题。但作业量很大很大（每次作业的题目文件中都提供了目录跳转），需要花费不少时间。\n项目体验：无项目\n考试体验：🌟🌟🌟🌟\n老师原话：“所有题目都比较tricky但不难”实际体验下来tricky不tricky不好说，但题量支撑得起奋笔疾书120分钟，不过给分还不错\n\t\n2. CS5182 Computer Graphics\nLecturer: Junhui HOU\n上课体验：🌟🌟🌟🌟\n相对来说课程内容是经过老师精挑细选的比较基础的部分，即使是图形学小白也可以理解。老师很友善，课下可以普通话讨论。\n项目体验：🌟🌟🌟🌟\n1-3人项目，有线下pre。老师提供了很多选题，建议选取点云之外的题目，老师原话说这题目太简单选的人太多，考虑之后取消该选题，选择点云之外题目的人更容易拿高分。电脑性能有限的同学应谨慎，项目涉及深度学习，可能要跑很久很久，环境配置也稍微有点棘手。\n作业体验：无作业\n考试体验：🌟🌟🌟🌟\n完全闭卷期中考试和期末考试，期中考试内容很简单，可能大家期中都拿了高分所以期末考试有点上强度了，题目难度看起来不大但细看觉得有些古怪。\n\t\n题外话：两个学期都会有线下Gathering，会有不少教授来和大家聊天交流，氛围很好。最重要的是有免费茶点，可以省一顿饭钱😚\n\t\n#选课[话题]# #香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "附本人自行整理复习资料",
+      "sourceRef": "comment:683476d3000000000103dfd9",
+      "commentId": "683476d3000000000103dfd9",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5293期末题型是什么",
+      "sourceRef": "comment:695dd902000000001600d76b",
+      "commentId": "695dd902000000001600d76b",
+      "likes": 0,
+      "author": "Duck"
+    },
+    {
+      "type": "sub_comment",
+      "text": "纯问答题",
+      "sourceRef": "comment:695e01e6000000000f024972",
+      "commentId": "695e01e6000000000f024972",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "请问CS5293和CS5182有考勤吗",
+      "sourceRef": "comment:69678a8f000000000c008a26",
+      "commentId": "69678a8f000000000c008a26",
+      "likes": 0,
+      "author": "Duck"
+    },
+    {
+      "type": "comment",
+      "text": "想请问下cs的选课的上课时间是啥时候哇",
+      "sourceRef": "comment:684da2db000000000703530d",
+      "commentId": "684da2db000000000703530d",
+      "likes": 0,
+      "author": "Mixiutiamo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "之后选课的时候在系统里查一查就好，时间和地点肯定不是一成不变的",
+      "sourceRef": "comment:684e5851000000001102f384",
+      "commentId": "684e5851000000001102f384",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "感谢前辈整理，请问一下Topics on Information Security有midterm吗和日常签到吗",
+      "sourceRef": "comment:6948ae63000000003102f15a",
+      "commentId": "6948ae63000000003102f15a",
+      "likes": 0,
+      "author": "小楼昨夜又东风"
+    }
+  ]
+}

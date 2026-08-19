@@ -1,0 +1,560 @@
+{
+  "note_id": "6761a57500000000140226a7",
+  "url": "https://www.xiaohongshu.com/explore/6761a57500000000140226a7?xsec_token=ABmhb-i6thPvn0_tCutb4AKtNn4KW8QGDF2L-esWwUvsU=",
+  "fetched_at": 1787141053.3159485,
+  "note": {
+    "noteId": "6761a57500000000140226a7",
+    "title": "被24fall的cs760深深伤害了",
+    "desc": "发个避雷帖（大佬请忽略）\nfinal早上八点到晚上12点，考前说题目是2小时并且剩下的时间给大家用于latex（甚至在卷子上也这么写，我怀疑老师自己两小时都够呛写完）。然而题目量巨大（我一共写了24页，还有题没写完、涵盖很多推导，并且一部分题目是没有出现在课程内容和作业中的）计算量也非常大（计算强化学习迭代步骤，聚类Estep Mstep等）。\nanyway，考完觉得被深深的伤害了，跟着这个老师上课没有让我感受到学习的乐趣，并且考试强制使用latex让我觉得很不公平。\n#威斯康星大学麦迪逊分校[话题]# #cs课程测评[话题]#",
+    "user": {
+      "userId": "5dae988300000000010026d1",
+      "nickname": "热爱生活的素素",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg",
+      "xsecToken": "AB-rcsarKJKUd5SUNph4K2dAJ1xjMsx0dXN9b82waA_KA="
+    },
+    "interactInfo": {
+      "commentCount": "21",
+      "shareCount": "31",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "likedCount": "28",
+      "collectedCount": "6"
+    },
+    "imageList": [
+      {
+        "height": 2532,
+        "width": 1170,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192004/5e5b23230f5f52c2e5182e338219e3d7/1040g2sg31bh1m435gm005ndej21g89mhljail28!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192004/14ae9e17ac07fee8d17763350e723a73/1040g2sg31bh1m435gm005ndej21g89mhljail28!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192004/14ae9e17ac07fee8d17763350e723a73/1040g2sg31bh1m435gm005ndej21g89mhljail28!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g2sg31bh1m435gm005ndej21g89mhljail28",
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192004/5e5b23230f5f52c2e5182e338219e3d7/1040g2sg31bh1m435gm005ndej21g89mhljail28!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1734452598000,
+    "type": "normal",
+    "tagList": [
+      {
+        "id": "5f69c8b0000000000100b474",
+        "name": "威斯康星大学麦迪逊分校",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "6761a57200000000040122ee",
+        "name": "cs课程测评"
+      }
+    ],
+    "time": 1734452597000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABmhb-i6thPvn0_tCutb4AKtNn4KW8QGDF2L-esWwUvsU="
+  },
+  "comments": [
+    {
+      "id": "67620be8000000000e00efff",
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5dae988300000000010026d1",
+            "nickname": "热爱生活的素素",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABybyIOk1G1_UnrRmnZ5aNJCMiwnKenfcCUTXMKwrUbA0="
+          },
+          "createTime": 1734479646000,
+          "ipLocation": "美国",
+          "invalid": false,
+          "id": "67620f1e0000000011019e28",
+          "noteId": "6761a57500000000140226a7",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "xsecToken": "AB-g42N4OMzhkCqzwYhoSbaZ3heZ0eqIXJn7sz51RvnP0=",
+              "userId": "647c7183000000001100353e",
+              "nickname": "种篱",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            },
+            "id": "67620be8000000000e00efff"
+          },
+          "status": 0,
+          "content": "春天好像会换老师，可以研究一下",
+          "atUsers": []
+        }
+      ],
+      "subCommentCount": "4",
+      "noteId": "6761a57500000000140226a7",
+      "content": "[哭惹R]我春天想选这门课的",
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB-g42N4OMzhkCqzwYhoSbaZ3heZ0eqIXJn7sz51RvnP0=",
+        "userId": "647c7183000000001100353e",
+        "nickname": "种篱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1734478824000,
+      "status": 0,
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCursor": "67620f1e0000000011019e28",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABqFcQD-GPhHJQ9thra6gMkUawqs-YZ0mtBtJYVGO0VXo=",
+        "userId": "5f0ffd6c000000000100766f",
+        "nickname": "不见萧山",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uoha47cl85g5nofvlm08tjfjc9u6ug?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1734476521000,
+      "ipLocation": "美国",
+      "invalid": false,
+      "id": "676202e9000000001102dbc0",
+      "likeCount": "0",
+      "subComments": [
+        {
+          "ipLocation": "美国",
+          "id": "6762074a0000000011019361",
+          "status": 0,
+          "createTime": 1734477642000,
+          "targetComment": {
+            "id": "676202e9000000001102dbc0",
+            "userInfo": {
+              "userId": "5f0ffd6c000000000100766f",
+              "nickname": "不见萧山",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30uoha47cl85g5nofvlm08tjfjc9u6ug?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABqFcQD-GPhHJQ9thra6gMkUawqs-YZ0mtBtJYVGO0VXo="
+            }
+          },
+          "invalid": false,
+          "noteId": "6761a57500000000140226a7",
+          "content": "我没上过761，帮你在线链接大佬@xx",
+          "atUsers": [
+            {
+              "aiAgent": false,
+              "xsecToken": "ABmGC5Ly6cJhEP53016s22PHiVFYapxTUBF1h5z-G052g=",
+              "userId": "5cda447800000000100393b3",
+              "nickname": "xx"
+            }
+          ],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5dae988300000000010026d1",
+            "nickname": "热爱生活的素素",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABybyIOk1G1_UnrRmnZ5aNJCMiwnKenfcCUTXMKwrUbA0="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "6762074a0000000011019361",
+      "subCommentHasMore": true,
+      "content": "我下学期761，跟这课关系大吗[哭惹R]",
+      "showTags": [],
+      "noteId": "6761a57500000000140226a7",
+      "liked": false,
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vb8b6cpk00g5phhd9ogu2vtjirr948?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB4MAG1KxvxU0pWk4dfAZ5hUKTe0DfR4h82B7dbQIXE9Y=",
+        "userId": "66316a710000000003030bfd",
+        "nickname": "momo"
+      },
+      "showTags": [],
+      "ipLocation": "美国",
+      "status": 0,
+      "content": "[笑哭R][笑哭R][笑哭R]我春天上的，没考试，只是做到project给分很抽象，但是a了",
+      "likeCount": "1",
+      "createTime": 1734463870000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "6761a57500000000140226a7",
+          "status": 0,
+          "content": "感觉这课一直新老师上、就是开盲盒[哭惹R]",
+          "liked": false,
+          "userInfo": {
+            "userId": "5dae988300000000010026d1",
+            "nickname": "热爱生活的素素",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABybyIOk1G1_UnrRmnZ5aNJCMiwnKenfcCUTXMKwrUbA0="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1734477679000,
+          "id": "6762076e00000000110319c6",
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6761d17d000000000f038f61",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB4MAG1KxvxU0pWk4dfAZ5hUKTe0DfR4h82B7dbQIXE9Y=",
+              "userId": "66316a710000000003030bfd",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vb8b6cpk00g5phhd9ogu2vtjirr948?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "noteId": "6761a57500000000140226a7",
+      "atUsers": [],
+      "liked": false,
+      "invalid": false,
+      "id": "6761d17d000000000f038f61",
+      "subCommentCursor": "6762076e00000000110319c6",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6761a57500000000140226a7",
+      "likeCount": "0",
+      "showTags": [],
+      "status": 0,
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "content": "[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5dae988300000000010026d1",
+            "nickname": "热爱生活的素素",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABybyIOk1G1_UnrRmnZ5aNJCMiwnKenfcCUTXMKwrUbA0="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6761cea4000000001101b4d3",
+            "userInfo": {
+              "userId": "60972edc000000000101f277",
+              "nickname": "Colin.I",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABTHvw-hv9SLjxPMWl8HdSL85UtwDVcz-aZXmGOmGiZt8="
+            }
+          },
+          "id": "67620759000000001200fd55",
+          "noteId": "6761a57500000000140226a7",
+          "status": 0,
+          "createTime": 1734477658000,
+          "invalid": false
+        }
+      ],
+      "content": "去年这门课全是统计，好处是没考试，坏处是project乱给分",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/c94b2589011be6d87bfbbbf21db9e2a0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTHvw-hv9SLjxPMWl8HdSL85UtwDVcz-aZXmGOmGiZt8=",
+        "userId": "60972edc000000000101f277",
+        "nickname": "Colin.I"
+      },
+      "createTime": 1734463140000,
+      "id": "6761cea4000000001101b4d3",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subCommentCursor": "67620759000000001200fd55",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "content": "怎么那么惨",
+      "atUsers": [],
+      "subCommentCursor": "6761ac99000000001103105b",
+      "id": "6761a8e30000000011018fdb",
+      "noteId": "6761a57500000000140226a7",
+      "liked": false,
+      "ipLocation": "美国",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB5wzBRkRycvnVJPQ3x9-wrX3FRNlr3uoCILORnaifbDE=",
+        "userId": "603446df00000000010050c6",
+        "nickname": "sai",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62e79d40842986e243d91280.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1734453476000,
+      "subComments": [
+        {
+          "id": "6761ac99000000001103105b",
+          "noteId": "6761a57500000000140226a7",
+          "status": 0,
+          "content": "太惨了[哭惹R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABybyIOk1G1_UnrRmnZ5aNJCMiwnKenfcCUTXMKwrUbA0=",
+            "userId": "5dae988300000000010026d1",
+            "nickname": "热爱生活的素素",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1734454425000,
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6761a8e30000000011018fdb",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62e79d40842986e243d91280.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5wzBRkRycvnVJPQ3x9-wrX3FRNlr3uoCILORnaifbDE=",
+              "userId": "603446df00000000010050c6",
+              "nickname": "sai"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCount": "0",
+      "invalid": false,
+      "id": "67889f2e000000002200c90d",
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "content": "期末卷子题太多 rl部分的推导基本一个题纯敲代码2个小时 我是用mathpix转手写的推导",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "nickname": "cartman",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/630b398d000000001200256c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6TwPevHPO33mH4ioaENX1Zps6QptRUBUtCkXdGu1FRk=",
+        "userId": "630b398d000000001200256c"
+      },
+      "createTime": 1737006895000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "6761a57500000000140226a7",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6762540b0000000010005b43",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "userInfo": {
+        "userId": "64ed6137000000000100c298",
+        "nickname": "ReeceY",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3215ujjsg74005p7dc4rg9gko562tl5g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8qQRhHfg2XwUuC7-bB4NjJJYbH9KWwok2tuizF03y4A="
+      },
+      "createTime": 1734497291000,
+      "subCommentHasMore": false,
+      "liked": false,
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "noteId": "6761a57500000000140226a7",
+      "content": "为什么会有手写latex这种东西？",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6761bd62000000001101974f",
+      "liked": false,
+      "status": 0,
+      "content": "现在谁教这门课",
+      "atUsers": [],
+      "likeCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "showTags": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "noteId": "6761a57500000000140226a7",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABCeVLI4pGJVzuwSPhaNf0fB0WpmJnFLPloInsJu_BBsM=",
+        "userId": "602459eb000000000100b48c",
+        "nickname": "gcy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v8ui38l5k005o14b7lg9d4cf28ai0o?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1734458722000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "content": "卷子上写 LaTeX 吗。。",
+      "showTags": [],
+      "createTime": 1734454166000,
+      "ipLocation": "山西",
+      "subCommentCount": "0",
+      "id": "6761ab96000000000e011b8d",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "665ac69e0000000003033935",
+        "nickname": "突然发现",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f8f2a34639eb26eb1cd.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjoLEWVtqvQRloKF27BZ-9F7fqE1KE7i6P_nN_PvmSNY="
+      },
+      "subCommentHasMore": false,
+      "noteId": "6761a57500000000140226a7",
+      "liked": false,
+      "subComments": [],
+      "invalid": false,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "id": "6761a81d000000001101ae20",
+      "createTime": 1734453278000,
+      "subCommentCount": "0",
+      "liked": false,
+      "likeCount": "0",
+      "invalid": false,
+      "noteId": "6761a57500000000140226a7",
+      "content": "[哭惹R]",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "AB5wzBRkRycvnVJPQ3x9-wrX3FRNlr3uoCILORnaifbDE=",
+        "userId": "603446df00000000010050c6",
+        "nickname": "sai",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62e79d40842986e243d91280.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "status": 0,
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS6175 体验",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2024-12-18"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "被24fall的cs760深深伤害了",
+      "user": {
+        "nickName": "热爱生活的素素",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30nsqk5kd1c005ndej21g89mhf4at2lg?imageView2/2/w/80/format/jpg",
+        "userId": "5dae988300000000010026d1",
+        "nickname": "热爱生活的素素",
+        "xsecToken": "ABF1CC1eaN-UcFr_1hzIFPO3TNhBa0pralDpca6R10bSY="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "28",
+        "collected": false,
+        "collectedCount": "6",
+        "commentCount": "21",
+        "sharedCount": "31"
+      },
+      "cover": {
+        "height": 2532,
+        "width": 1170,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192004/3bde5578fb4f0cff0c6675ebf57aff3b/1040g2sg31bh1m435gm005ndej21g89mhljail28!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192004/fdafd69f13fd6f97e6f90d84c8388e05/1040g2sg31bh1m435gm005ndej21g89mhljail28!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192004/3bde5578fb4f0cff0c6675ebf57aff3b/1040g2sg31bh1m435gm005ndej21g89mhljail28!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192004/fdafd69f13fd6f97e6f90d84c8388e05/1040g2sg31bh1m435gm005ndej21g89mhljail28!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2532,
+          "width": 1170
+        }
+      ]
+    },
+    "xsecToken": "ABmhb-i6thPvn0_tCutb4AKtNn4KW8QGDF2L-esWwUvsU=",
+    "id": "6761a57500000000140226a7",
+    "index": 9,
+    "exposed": true,
+    "trackId": "6761a57500000000140226a7"
+  }
+}

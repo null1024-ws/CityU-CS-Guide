@@ -11,13 +11,20 @@
     "grading": {
       "value": "generous",
       "label": "给分友好",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
     },
     "workload": {
       "value": "heavy",
       "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
+    },
+    "examFormat": {
+      "value": "closed_book",
+      "label": "闭卷",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -33,16 +40,30 @@
       "confidence": "unknown",
       "sourceCount": 0,
       "label": "暂无数据"
-    },
-    "examFormat": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "再次强调，谨慎选择CS5293"
+  ],
   "sources": [
+    {
+      "noteId": "6a772a610000000028031cd2",
+      "url": "https://www.xiaohongshu.com/explore/6a772a610000000028031cd2?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOyKZG4YlqYjRFXJCSZ_GI0=",
+      "excerpt": "8.CS5293 Topics on Information Security；港硕的最后一门考试，其难度绝对对得起“最终boss”名号。没有真正意义上的project和期中quiz，有三次超大型的作业和一个名义上的project（其实就是一个小作业），需要在虚拟机上进行实验，截图并撰写报告，即便有AI辅助也非常耗费时间。如果只是这样还好，因为平时分这方面给得都很高。但大的在后面，这门课的final是跟本科生一起考的，难度可以说是惨绝人寰级别的，断档领先其他所有课。老师故意不上传复习ppt，称所有lecture，tutorial，甚至作业都在考试范围内，并且完全闭卷。这可不是开玩笑，ppt中概念非常多且杂，包括了CS5285，6290等多门课在内的知识点，可以说是究极融合怪，复习和最后作答的过程非常痛苦。tutorial和作业中有大量虚拟机指令代码，AI来了都要喝一壶，但在考试中，他竟然真的出了代码分析题还有挖空题。也就是说，如果你之前用AI辅助写了作业，只是完成了实验流程，而没有自己真正理解并掌握代码的话，这部分的分数基本跟你说再见了。往年那么少人选这门课是有原因的，这考试不知道的以为在面大厂呢。如果你是想要平稳毕业拿毕业证，那不推荐选这门课。；优点：无真正意义上的project，平时分高。；缺点：作业量极大，知识点多且杂，考试极难；再次强调，谨慎选择CS5293！！！",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMB（中）（划水版）"
+    },
+    {
+      "noteId": "68346d6e000000002102f801",
+      "url": "https://www.xiaohongshu.com/explore/68346d6e000000002102f801?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjeyDV0dSYkdlI3uoWEP1r38=",
+      "excerpt": "1. CS5293 Topics on Information Security；Lecturer: Qingchuan ZHAO；上课体验；不同于SemA的安全课，这门课的覆盖广度很大，从密码学到栈溢出到网络安全等等，甚至包含比特币和蓝牙安全相关，相对来说深度不大。这学期大概只有20来个人选这门课，实际课上来的只有十来个，教室空荡荡，老师提问没什么人回应，很尴尬。；作业体验；相比起上学期安全课的理论计算作业，这学期更注重实操，例如编写链接实现XSS攻击等。所有作业都基于成熟的seedlab，可以在网上找到所有原题。但作业量很大很大（每次作业的题目文件中都提供了目录跳转），需要花费不少时间。；项目体验：无项目；考试体验；老师原话：“所有题目都比较tricky但不难”实际体验下来tricky不tricky不好说，但题量支撑得起奋笔疾书120分钟，不过给分还不错",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemB课程评价（上）"
+    },
     {
       "noteId": "6a0f8368000000003700faf0",
       "url": "https://www.xiaohongshu.com/explore/6a0f8368000000003700faf0?xsec_token=ABJk6pYInA2XD2gIhb6orjMubXjrHgsVSn3zl8-LlSy2g=",
@@ -121,5 +142,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

@@ -1,0 +1,68 @@
+{
+  "note_id": "6a76a35f0000000011022dc1",
+  "url": "https://www.xiaohongshu.com/explore/6a76a35f0000000011022dc1?xsec_token=ABZ4mhMvMPC8TzixRAzijiKr3da2xkMWQy5e622zRwyOw=",
+  "fetched_at": 1787139768.4939206,
+  "course_codes": [
+    "CS6601"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS6601 AI 课后测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "鼠鼠三个月前看了看OMScentral评价，想着暑假选一个难一些的课就选了AI，现在上完后感觉难度其实不大，而且体验很不错的。\n\t\n这门课的平均分很高，上到一大半的时候我很多分都低于90且低于中位数（主要是第一个作业就跳过了lol）一度担心能不能拿A，但其实整个课下来有很多补救的空间（比如有个白送5%的intro assignment）如果有统计和计算机的基础的话比较轻松，零基础可能稍微吃力一些，但其实个人认为还是挺适合在项目前期就上掉的\n\t\n评分主要包括Assignment(60%), 每周小开卷quiz(CQs，5%), Midterm(15%), 和final(20%)，学的内容比较杂，a star搜索，优化，对抗性搜索，贝叶斯网络，ML和DL，隐马尔可夫链，RL，每个主题都只有一个星期的课，就是学的广但都不太深\n\t\nA1: 跳过（尝试了3小时直接放弃了，工作量太大，但其实挺有用的，主要实现A星搜索和它的一些变体）\nA2: 15小时，主要做isolation游戏的对抗性搜索。评分标准中有一些（25%）偏运气成分，这25%我当时没时间直接放弃了，但其实多花点时间是可以做到的\nA3: 10小时，贝叶斯网络+gibbs和mh采样\nA4: 15小时，decision tree和随机森林\nA5: 15小时，kmeans聚类和高斯混合模型\nA6: 15小时，马尔可夫链的一些应用，就是画viterbi\n\t\n作业使用nosi（vscode但把ai功能ban了），ai课不让用ai哈哈哈有点尴尬了。两场考试都是不用开摄像头直接写题目，像一个包含所有topic的大CQ，还是比较人性化的。课程总体来说推荐",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "暑假选AI workload不会太大吗",
+      "sourceRef": "comment:6a771eee000000000d022400",
+      "commentId": "6a771eee000000000d022400",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "每周能空出15小时肯定够了的[吧唧R]",
+      "sourceRef": "comment:6a7730d7000000001202a5de",
+      "commentId": "6a7730d7000000001202a5de",
+      "likes": 1,
+      "author": "波比汀斯贾"
+    },
+    {
+      "type": "comment",
+      "text": "啊看omscentral上说workload 40hr，15-20真的可以搞定么？暑假会跟压力大一点么",
+      "sourceRef": "comment:6a776b10000000002b0021a2",
+      "commentId": "6a776b10000000002b0021a2",
+      "likes": 0,
+      "author": "浪游记快"
+    },
+    {
+      "type": "sub_comment",
+      "text": "40小时太夸张了，第一个作业可能要超20小时，有基础的话另外5个肯定不超过的[吧唧R]",
+      "sourceRef": "comment:6a778908000000001202b60e",
+      "commentId": "6a778908000000001202b60e",
+      "likes": 0,
+      "author": "波比汀斯贾"
+    },
+    {
+      "type": "comment",
+      "text": "[棒R]",
+      "sourceRef": "comment:6a76b068000000000d023800",
+      "commentId": "6a76b068000000000d023800",
+      "likes": 0,
+      "author": "五十铃甜橙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[心心眼R]",
+      "sourceRef": "comment:6a76e984000000001202ab19",
+      "commentId": "6a76e984000000001202ab19",
+      "likes": 0,
+      "author": "波比汀斯贾"
+    }
+  ]
+}

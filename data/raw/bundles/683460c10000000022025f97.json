@@ -1,0 +1,101 @@
+{
+  "note_id": "683460c10000000022025f97",
+  "url": "https://www.xiaohongshu.com/explore/683460c10000000022025f97?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjaLX8iWuf2UQ5fUSOSM2jlc=",
+  "fetched_at": 1787138406.3029084,
+  "course_codes": [
+    "CS5187",
+    "CS5285"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Msc CS SemA课程评价（下）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "上篇笔记的三节课是必修，本笔记评价剩余两节选修\n\t\n1. CS5285 Info Security for eCommerce\nLecturer: Gerhard Petrus HANCKE\n上课体验：🌟🌟🌟🌟\n这门课是EC专业的必修课。老师是南非白人，英语说的很好但可能太好了导致我有部分听不懂。课程设计比较偏外国那套，包含一些看着很搞笑的插图。课程内容主要聚焦于安全领域中的密码学，对初学者来说可能有些困难，但作为密码学入门课程非常合适。课下会给出每个课程PPT的笔记版，明确标注了哪些内容应该理解掌握，哪些内容仅供娱乐。Tutorial是自己做练习题然后老师讲解。无网课\n项目体验：无任何项目\n作业体验：🌟🌟🌟🌟\n两个Problem Sets，计算题比较多。课后会给出答案\n考试体验：🌟🌟🌟🌟\n包含电子设备开卷的期中考试和只有一张Cheat Sheet，考验微雕技术的期末考试。期中考试内容少相对简单，期末考试难度大题量多，其中最难的题应该是Authentication机制的设计题\n\t\n2. CS5187 Vision & Image(推荐每个人选）\nLecturer: Dapeng WU\n上课体验：🌟🌟🌟🌟🌟\n老师的咖位极大，上课比较风趣，课中会明示哪些内容期末必考，而且说到考到。Tutorial是TA来讲，但内容与期末考试无关。无网课（因为老师搞不明白zoom)\n项目体验：🌟🌟🌟🌟🌟\n只有一个个人项目，给出非常多选题，即使是很简单的选题也会拿到不错分数。无需pre只需录制讲解视频\n作业体验：🌟🌟🌟🌟\n对没接触过计算机视觉的人来说难度大，不过尽量做下来给分会非常友好\n考试体验：🌟🌟🌟🌟🌟\n所有课程（包括SemB)中最轻松简单的考试，简单到超乎想象，而且还是完全开卷。计算题的难度就像是把你当小学生哄。我SemA的最后一科考试，考完试神清气爽去深圳吃了三碗炒饭宵夜。\n\t\n总体而言，SemA的每个课程都体感舒适，压力主要在SE的项目上。但如果对自己要求放低些，SemA大概率会比接下来的SemB快乐很多。\n#选课[话题]# #香港城市大学[话题]# #计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "附本人自行整理复习资料",
+      "sourceRef": "comment:6834628f0000000007028363",
+      "commentId": "6834628f0000000007028363",
+      "likes": 3,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "cs5187好像有先修要求，这个对选课有影响吗",
+      "sourceRef": "comment:68ac351100000000260342d0",
+      "commentId": "68ac351100000000260342d0",
+      "likes": 0,
+      "author": "八千里路云和月"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有，直接选就行",
+      "sourceRef": "comment:68ac37110000000027008515",
+      "commentId": "68ac37110000000027008515",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "25fall果断关注！感谢学长[派对R]",
+      "sourceRef": "comment:6834a37f000000000103fbd7",
+      "commentId": "6834a37f000000000103fbd7",
+      "likes": 0,
+      "author": "Sur栗娅"
+    },
+    {
+      "type": "sub_comment",
+      "text": "加油哦[害羞R]",
+      "sourceRef": "comment:6834fa17000000000b02f23a",
+      "commentId": "6834fa17000000000b02f23a",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "大佬照片里拍到我了[黄金薯R]",
+      "sourceRef": "comment:68346bb9000000000900da4e",
+      "commentId": "68346bb9000000000900da4e",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不是大佬[笑哭R]。不小心拍到，抱歉哦[捂脸R]",
+      "sourceRef": "comment:68346e2a000000000103d54a",
+      "commentId": "68346e2a000000000103d54a",
+      "likes": 0,
+      "author": "Restraint丶"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下这两门课考勤嘛",
+      "sourceRef": "comment:689959cd000000002a0066bb",
+      "commentId": "689959cd000000002a0066bb",
+      "likes": 0,
+      "author": "Orange Zhi"
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，请问你们vision image的教材是用的什么捏[害羞R]",
+      "sourceRef": "comment:689dfc71000000003002c56a",
+      "commentId": "689dfc71000000003002c56a",
+      "likes": 0,
+      "author": "苇草球"
+    },
+    {
+      "type": "comment",
+      "text": "听大佬的！下学期就选这些课！[偷笑R]",
+      "sourceRef": "comment:683510cd0000000007037e6e",
+      "commentId": "683510cd0000000007037e6e",
+      "likes": 0,
+      "author": "啾咪"
+    }
+  ]
+}

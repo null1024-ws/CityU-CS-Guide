@@ -1,0 +1,34 @@
+{
+  "note_id": "6a797a930000000002003c00",
+  "url": "https://www.xiaohongshu.com/explore/6a797a930000000002003c00?xsec_token=ABE8HpHds2DPTjo2jiPzigtTw4jzb2VaLObzIhT3P5PCQ=",
+  "fetched_at": 1787140362.8181095,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Meet LOTUS OMNI.",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "I spent the last 9 months doing something most people say can't be done alone:\nI designed a complete superscalar out-of-order RISC-V processor — with an AI\ntensor accelerator — from scratch, and timing-closed it on real FPGA.\n\t\nMeet LOTUS OMNI.\n\t\nWhat I built (solo):\n• 4-wide OoO RV64I core — TAGE branch prediction, checkpointed register\nrenaming, partitioned reservation stations, 32-entry ROB, 128-entry PRF\n• Dual 8×8 systolic tensor arrays (BF16 + INT8) with 2:4 structured sparsity\n• 3-level cache hierarchy + stride prefetcher\n• 2-D mesh NoC with credit-based congestion control\n\t\nThe proof (Xilinx Vivado, post-route):\n✅ Timing MET @ 80 MHz — WNS +0.141 ns, 0 failing endpoints\n✅ Tensor 8×8 MATMUL verified 64/64 in self-checking simulation\n✅ 55k LUT / 38k FF / 17 BRAM / 64 DSP — zero latches\n✅ Timing closure from −7.019 ns → +0.141 ns\n\t\nI'm self-taught. No team, no shortcuts — just curiosity, discipline, and\nthousands of hours of RTL. Everything is open-source, with full documentation\nand raw Vivado reports:\n\t\n🔗 https://github.com/Sanuka-cmd-net/lotus-omni\n\t\nI'm looking for internships and junior RTL / digital-design roles where I can\nkeep building real silicon. If you're hiring — or know someone who is —\nI'd love to talk.\n\t\n#viral[话题]# #rtl[话题]# #vlsi[话题]# #computer葛[话题]# #hardware[话题]# #opensource[话题]# #semiconductors[话题]# #china[话题]# #fulltime[话题]# #folowers[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "How does it perform in Coremark？",
+      "sourceRef": "comment:6a79cc13000000000302c9ac",
+      "commentId": "6a79cc13000000000302c9ac",
+      "likes": 1,
+      "author": "大恩"
+    },
+    {
+      "type": "sub_comment",
+      "text": "I haven't done it yet, I'm in the process of doing it, I'll send it to you in the coming days. [皱眉R]",
+      "sourceRef": "comment:6a7aa2aa000000000d021400",
+      "commentId": "6a7aa2aa000000000d021400",
+      "likes": 0,
+      "author": "Sanuka Nethmira"
+    }
+  ]
+}

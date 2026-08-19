@@ -1,0 +1,383 @@
+{
+  "note_id": "6a83c977000000002402fac7",
+  "url": "https://www.xiaohongshu.com/explore/6a83c977000000002402fac7?xsec_token=ABAnXmkL8mGwynw4951ZeqMX7MeP7XM0HCuQ0efoDQxzE=",
+  "fetched_at": 1787138909.503484,
+  "note": {
+    "title": "为什么 DeepSeek Harness 把一切做成插件？",
+    "user": {
+      "userId": "67792b7500000000180164f6",
+      "nickname": "AI 小老六",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322h8bak17k005prp5dqm2p7mct5qo3g",
+      "xsecToken": "ABSfh6WvqsxwNsX9BUGk8k2nymoTNd87yRIZhMPes-tKA="
+    },
+    "interactInfo": {
+      "likedCount": "14",
+      "collected": false,
+      "collectedCount": "13",
+      "commentCount": "",
+      "liked": false,
+      "shareCount": "3",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "tagList": [
+      {
+        "id": "645d80390000000028017ce0",
+        "name": "AI工程",
+        "type": "topic"
+      },
+      {
+        "id": "64e1e61e0000000004001fad",
+        "name": "AIAgent",
+        "type": "topic"
+      },
+      {
+        "id": "6639645c000000001b02e1fd",
+        "name": "DeepSeek",
+        "type": "topic"
+      },
+      {
+        "id": "640031c8000000001803bc4c",
+        "name": "Harness",
+        "type": "topic"
+      },
+      {
+        "id": "6966c656000000001b01551c",
+        "name": "插件架构",
+        "type": "topic"
+      },
+      {
+        "name": "事件日志",
+        "type": "topic",
+        "id": "664232c3000000001b02ec41"
+      },
+      {
+        "id": "64299e7c00000000090196ec",
+        "name": "为什么系列",
+        "type": "topic"
+      },
+      {
+        "id": "6a59ed320000000028033f24",
+        "name": "AI进化生活howto",
+        "type": "topic"
+      },
+      {
+        "name": "howto使用ai",
+        "type": "topic",
+        "id": "6a2ccd0900000000060137dd"
+      },
+      {
+        "name": "deepseekHarness",
+        "type": "topic",
+        "id": "6a7dbc220000000021038881"
+      },
+      {
+        "type": "interact_vote",
+        "id": "138067642257393681",
+        "name": "插件热替换最容易出问题的是哪？"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1787021830000,
+    "type": "normal",
+    "desc": "🔌 为什么 DeepSeek Harness 换模型时，不需要把工具、会话和搜索服务一起重启？\n答案不在模型层，而在插件依赖。[微笑R]\n\t\n[一R]【01｜启动时先编译插件树】\nDSH 会把 Bundle、Profile、机器配置和临时 patch 合成装配清单，再交给 Cordis Runtime。模型适配器、工具注册表、会话日志、System Prompt 和 Agent Loop 都是插件，彼此只依赖稳定的服务名。\n\t\n[二R]【02｜一次搜索由多类插件协作】\n`tool-web` 把 `web_search` 的 schema 暴露给模型，Web provider 执行搜索，Agent Loop 推动模型与工具往返，Session 把消息、工具调用和结果写进事件日志。\n依赖没齐时，插件进入 `PENDING`，不代表启动失败。Agent Loop 要等 llm、tools、sessions 和 systemPrompt 都可用，才会变成 `ACTIVE`。\n\t\n[三R]【03｜换模型只动相关依赖】\n旧 llm 适配器卸载后，依赖它的 Agent Loop 暂停并撤销自身注册。新适配器上线，依赖重新满足，Agent Loop 再次加载。Session、Tools 和 Web provider 不受影响。\n\t\n[四R]【04｜热替换还要能撤销副作用】\n工具注册、事件监听、定时器和连接都要有对应的清理动作。否则文件版本虽然回滚，运行时还会留下旧工具或失效连接。事件日志则保证模型看到的信息能被重建。模型切换了，任务事实和上下文不能断。\n\t\n所以 DSH 的热换模型不是“改个配置”，而是稳定服务契约、显式依赖、可逆副作用和只追加事件日志共同完成的一次局部重连。\n\t\n#AI工程[话题]#  #AIAgent[话题]#  #DeepSeek[话题]#  #Harness[话题]#  #插件架构[话题]#  #事件日志[话题]# #为什么系列[话题]#  #AI进化生活howto[话题]# #howto使用ai[话题]# #deepseekHarness[话题]#",
+    "imageList": [
+      {
+        "width": 1440,
+        "traceId": "",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg",
+        "height": 2560,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/07b14b5f4219fd22fa081cbc52d04a43/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/00fe2cd6fdf02ecb34cac688aa80b073/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/07b14b5f4219fd22fa081cbc52d04a43/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/00fe2cd6fdf02ecb34cac688aa80b073/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao",
+        "width": 1440,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/3a666cb377cdb35ec1be317c704c5743/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/3a666cb377cdb35ec1be317c704c5743/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/6e707f91ae9fc6cde1d3970cd2edf341/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/6e707f91ae9fc6cde1d3970cd2edf341/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      },
+      {
+        "fileId": "spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0",
+        "width": 1440,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/7b8d330837b0ba12c8fd639762ff5228/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/2b931064359c02cd7f47aac72d691e8f/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 2560,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/7b8d330837b0ba12c8fd639762ff5228/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/2b931064359c02cd7f47aac72d691e8f/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "fileId": "spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0",
+        "height": 2560,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/8e74ba40786ccd2edf6b0fe9c4503f37/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "width": 1440,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/8e74ba40786ccd2edf6b0fe9c4503f37/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/8225e99786e9144383fc4de609bfb1d9/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/8225e99786e9144383fc4de609bfb1d9/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "fileId": "spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo",
+        "height": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/0d2058d6c9d7ee99aba6a4faf1de2646/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/b9cea75b7a42dc9dbd575e91a6ffdb41/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "width": 1440,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/0d2058d6c9d7ee99aba6a4faf1de2646/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/b9cea75b7a42dc9dbd575e91a6ffdb41/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nd_dft_wlteh_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "fileId": "spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/4d76af8705a9a8bd49e9c446253cf727/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/9851f117e39e010db58f0727c574fc2c/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/4d76af8705a9a8bd49e9c446253cf727/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/9851f117e39e010db58f0727c574fc2c/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 2560,
+        "width": 1440,
+        "url": "",
+        "traceId": "",
+        "stream": {}
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/36d8ee54317fef1be59b536230994947/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191928/56d3a260d43e0d7092fbd6a36642b9e7/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/36d8ee54317fef1be59b536230994947/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/56d3a260d43e0d7092fbd6a36642b9e7/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nd_dft_wlteh_jpg_3",
+        "fileId": "spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g",
+        "height": 2560,
+        "width": 1440,
+        "traceId": ""
+      }
+    ],
+    "time": 1787021687000,
+    "ipLocation": "北京",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a83c977000000002402fac7",
+    "xsecToken": "ABAnXmkL8mGwynw4951ZeqMX7MeP7XM0HCuQ0efoDQxzE="
+  },
+  "comments": [],
+  "search_query": "CS5286 web search",
+  "search_item": {
+    "xsecToken": "ABAnXmkL8mGwynw4951ZeqMX7MeP7XM0HCuQ0efoDQxzE=",
+    "id": "6a83c977000000002402fac7",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "为什么 DeepSeek Harness 把一切做成插件？",
+      "user": {
+        "xsecToken": "ABNboImFEgNa-Lvg9ir2PQ4u8-tSLfDKhqMKVbH66deoo=",
+        "nickName": "AI 小老六",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322h8bak17k005prp5dqm2p7mct5qo3g?imageView2/2/w/80/format/jpg",
+        "userId": "67792b7500000000180164f6",
+        "nickname": "AI 小老六"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "13",
+        "commentCount": "0",
+        "sharedCount": "3",
+        "liked": false,
+        "likedCount": "14"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191928/11c74f6fc5b4518338ab2f8978a9abd0/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191928/4ce6cc2820a86fef7f6359de3855ced1/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nc_n_webp_prv_1",
+        "height": 2560,
+        "width": 1440
+      },
+      "imageList": [
+        {
+          "height": 2560,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/11c74f6fc5b4518338ab2f8978a9abd0/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/4ce6cc2820a86fef7f6359de3855ced1/spectrum/1040g0k03240cg2mh72005prp5dqm2p7mpro4asg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 2560,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/20f0f6059ca6f31f1af8049ff229e1fa/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/0bb124a2617d70df7030d6c6aee7e1ec/spectrum/1040g0k03240cg2mh720g5prp5dqm2p7mijhnmao!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2560,
+          "width": 1440,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/209b07550de8fe77b5fd4a865b49b440/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/4d055b0679582a030317270501043914/spectrum/1040g0k03240cg2mh72105prp5dqm2p7melnplg0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 2560,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/b1a9e2c16586fa6015bfcad72b7795a2/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/4f974d4cc6708169b82ceb0b1d6577fb/spectrum/1040g0k03240cg2mh721g5prp5dqm2p7mushmhs0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/a46b05af86c22dd89e6afa221972d8ce/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/cf0e07c0fa18a21199c795040763d2bc/spectrum/1040g0k03240cg2mh72205prp5dqm2p7mredq4uo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2560
+        },
+        {
+          "height": 2560,
+          "width": 1440,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/d53505631b8d4a9fdfcfaad5ad8db03f/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/50c85796d47caba379f2638755787075/spectrum/1040g0k03240cg2mh722g5prp5dqm2p7m5c7s9ao!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/b797299b5429ebe22ba08150febf29c6/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191928/33074f81b96a9a77321e9f31645a8abb/spectrum/1040g0k03240cg2mh72305prp5dqm2p7mmqhdu7g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 2560,
+          "width": 1440
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "1天前"
+        }
+      ],
+      "type": "normal"
+    },
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a83c977000000002402fac7"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "note_id": "2702fe84-6d71-4c91-a33e-f46f28fd50dd",
+  "url": "https://www.xiaohongshu.com/explore/2702fe84-6d71-4c91-a33e-f46f28fd50dd?xsec_token=AB_4-j6qmtyl1uSkzvGx64lCUUeYWcezo4Iy0AGUSC5XfcluNdSGUECyXlwfKqt4OA1usxiKSwVYEVpMurUZBh8j2i97DzRJybZQoglD-9YIE=",
+  "fetched_at": 1787137138.2735124,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5185 CityU",
+  "search_item": {
+    "id": "2702fe84-6d71-4c91-a33e-f46f28fd50dd#1787137115311",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "2702fe84-6d71-4c91-a33e-f46f28fd50dd#1787137115311",
+      "queries": [
+        {
+          "id": "cityu奖学金申请",
+          "name": "cityu奖学金申请",
+          "searchWord": "cityu奖学金申请"
+        },
+        {
+          "id": "cityu读博体验",
+          "name": "cityu读博体验",
+          "searchWord": "cityu读博体验"
+        },
+        {
+          "id": "香港城市大学计算机硕士",
+          "name": "香港城市大学计算机硕士",
+          "searchWord": "香港城市大学计算机硕士"
+        },
+        {
+          "id": "cityu本科",
+          "name": "cityu本科",
+          "searchWord": "cityu本科"
+        }
+      ]
+    },
+    "xsecToken": "AB_4-j6qmtyl1uSkzvGx64lCUUeYWcezo4Iy0AGUSC5XfcluNdSGUECyXlwfKqt4OA1usxiKSwVYEVpMurUZBh8j2i97DzRJybZQoglD-9YIE=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "2702fe84-6d71-4c91-a33e-f46f28fd50dd#1787137115311"
+  }
+}

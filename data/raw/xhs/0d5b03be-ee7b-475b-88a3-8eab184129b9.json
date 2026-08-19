@@ -1,0 +1,43 @@
+{
+  "note_id": "0d5b03be-ee7b-475b-88a3-8eab184129b9",
+  "url": "https://www.xiaohongshu.com/explore/0d5b03be-ee7b-475b-88a3-8eab184129b9?xsec_token=ABTJB-Cqm178dmquJVhJGahUa786TjlPfwLymE9yjgBn0YZg-YRetegTVknTz0VZ27f4J06LXfh_1y4b6rZdt7q8pEPcb3ZqFMMXLfALC5rAw=",
+  "fetched_at": 1787140248.0206895,
+  "note": {},
+  "comments": [],
+  "search_query": "CS5367 CityU",
+  "search_item": {
+    "xsecToken": "ABTJB-Cqm178dmquJVhJGahUa786TjlPfwLymE9yjgBn0YZg-YRetegTVknTz0VZ27f4J06LXfh_1y4b6rZdt7q8pEPcb3ZqFMMXLfALC5rAw=",
+    "id": "0d5b03be-ee7b-475b-88a3-8eab184129b9#1787140246571",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "0d5b03be-ee7b-475b-88a3-8eab184129b9#1787140246571",
+      "queries": [
+        {
+          "id": "cityu cs留位费",
+          "name": "cityu cs留位费",
+          "searchWord": "cityu cs留位费"
+        },
+        {
+          "searchWord": "香港城市大学cs申请",
+          "id": "香港城市大学cs申请",
+          "name": "香港城市大学cs申请"
+        },
+        {
+          "name": "cityu cs offer时间",
+          "searchWord": "cityu cs offer时间",
+          "id": "cityu cs offer时间"
+        },
+        {
+          "name": "cityu cs攻略",
+          "searchWord": "cityu cs攻略",
+          "id": "cityu cs攻略"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "0d5b03be-ee7b-475b-88a3-8eab184129b9#1787140246571"
+  }
+}

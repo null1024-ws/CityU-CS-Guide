@@ -1,0 +1,76 @@
+{
+  "note_id": "6a7de4310000000025012317",
+  "url": "https://www.xiaohongshu.com/explore/6a7de4310000000025012317?xsec_token=ABU9Uas_otiz9oeSkVgT9UYwfjppy5Zth4BctEgSJhGEE=",
+  "fetched_at": 1787137278.2450347,
+  "course_codes": [
+    "CS6534"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城cs选课求助!",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "今年Semester A是不能选Guided Study了嘛[哭惹R]\n本来刷到前两年学长学姐的帖子说GS每个学期都能选来着，但是主包看了只有Semester B有GS，并且点进去发现MSCS2可以选但是主包是MSCS3的[失望R]所以这俩代号有啥区别啊\n后来上cityu官网看了一眼发现cs专业选修课里没有GS只有各个分支下的GS（GS in AI/DS/IS），但这几个也只能Semester B选，想问下之前也有这种GS嘛？要是没有的话是不是就是今年改成这种形式了?\n\t\np1 Semester A可选课程\np2 Semester B可选课程\np3 Semester B课程里的cs6534 Guided Study\np4-5 官网上cs专业的所有选修课\n\t\n#cityu[话题]# #cityucs[话题]# #港城cs选课[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "同问，请问guide study 去哪里了，我也想选[笑哭R]",
+      "sourceRef": "comment:6a841868000000002203d570",
+      "commentId": "6a841868000000002203d570",
+      "likes": 0,
+      "author": "大红书"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好像第一学期是没有了[失望R]",
+      "sourceRef": "comment:6a841d3d0000000029037268",
+      "commentId": "6a841d3d0000000029037268",
+      "likes": 0,
+      "author": "一只菇菇菇"
+    },
+    {
+      "type": "comment",
+      "text": "先回答第一个问题。是的，今年sem A没有GS了。 我都有发邮件向学院请求说能不能增设，但是只回复说不能保证每一年的课都一样。（你也可以发邮件问问看看会不会有改观",
+      "sourceRef": "comment:6a7de9860000000029026c3a",
+      "commentId": "6a7de9860000000029026c3a",
+      "likes": 4,
+      "author": "夢を失った小熊"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好吧我是想sem A选GS的[哭惹R] 谢谢解答!",
+      "sourceRef": "comment:6a7e6543000000002a031bd2",
+      "commentId": "6a7e6543000000002a031bd2",
+      "likes": 1,
+      "author": "一只菇菇菇"
+    },
+    {
+      "type": "comment",
+      "text": "第三个问题，好像去年就有各种方向的GS，以及一个单独的GS",
+      "sourceRef": "comment:6a7de9cd000000002a005952",
+      "commentId": "6a7de9cd000000002a005952",
+      "likes": 0,
+      "author": "夢を失った小熊"
+    },
+    {
+      "type": "comment",
+      "text": "[暗中观察R]",
+      "sourceRef": "comment:6a7fb8e90000000014007232",
+      "commentId": "6a7fb8e90000000014007232",
+      "likes": 0,
+      "author": "Wocessade"
+    },
+    {
+      "type": "comment",
+      "text": "欢迎来到香港城市大学[派对R]",
+      "sourceRef": "comment:6a7ee9f1000000001c013199",
+      "commentId": "6a7ee9f1000000001c013199",
+      "likes": 0,
+      "author": "香港城市大学CSSA"
+    }
+  ]
+}

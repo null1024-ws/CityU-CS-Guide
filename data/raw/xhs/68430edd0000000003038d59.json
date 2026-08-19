@@ -1,0 +1,701 @@
+{
+  "note_id": "68430edd0000000003038d59",
+  "url": "https://www.xiaohongshu.com/explore/68430edd0000000003038d59?xsec_token=ABNK-G4l8jChBmxf9rUvTfBM-7PHeGYmt08rWeI7z7_kg=",
+  "fetched_at": 1787141912.412854,
+  "note": {
+    "type": "normal",
+    "title": "cs本科生写代码能力的问题",
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "68430edd0000000003038d59",
+    "desc": "最近在招cs phd，想起来一个问题。\n以前我国内非头部985 cs本科，年级前～5%基本都是考试考出来+综合分，一大半不会写代码，甚至大三/大四就不怎么碰键盘。对cs非常热爱，会写代码，尤其是搞竞赛的一波人，基本排名都在后面。\n不知道现在非头部985 cs本科还是这个情况么？有了解的同学可以帮忙分享一下！\n\t\nPS. 各位理性讨论。这个问题的出发点是怎么找到self-motivated的学生作为合作者。",
+    "user": {
+      "userId": "5bc387ead2bde70001396fb7",
+      "nickname": "用爱发电",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg",
+      "xsecToken": "AB4JPwjd4GX_4pQsSiDDk_QRYX0k9HFNwyYy5yYzyBahI="
+    },
+    "interactInfo": {
+      "likedCount": "429",
+      "collectedCount": "239",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "160",
+      "shareCount": "51",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192018/5e68e4fcb2f6df95a67474c8120a6019/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg",
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192018/ba9da0b805f5f49d46109ea2f2596853/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nd_dft_wlteh_jpg_3",
+        "height": 4032,
+        "width": 3024,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192018/5e68e4fcb2f6df95a67474c8120a6019/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192018/ba9da0b805f5f49d46109ea2f2596853/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "tagList": [],
+    "time": 1749225181000,
+    "lastUpdateTime": 1751215767000,
+    "xsecToken": "ABNK-G4l8jChBmxf9rUvTfBM-7PHeGYmt08rWeI7z7_kg="
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8=",
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1749226273000,
+          "ipLocation": "美国",
+          "id": "68431321000000001c0360ec",
+          "noteId": "68430edd0000000003038d59",
+          "liked": false,
+          "targetComment": {
+            "id": "684312ce000000000d014be5",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABuzJP3mBifU_9hVBNAD5AIWQg_1bvxyNCJ7EIVE_20HE=",
+              "userId": "62bf0c09000000001b0247c7",
+              "nickname": "Castiglione",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/64fa1920dc5c7a8bcbf92600.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "嗯嗯，美本我带的比较多，大概知道啥路子。大三/大四是会写代码，而且课程难度都上来了。",
+          "atUsers": [],
+          "likeCount": "11"
+        }
+      ],
+      "subCommentCursor": "68431321000000001c0360ec",
+      "invalid": false,
+      "id": "684312ce000000000d014be5",
+      "noteId": "68430edd0000000003038d59",
+      "likeCount": "24",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64fa1920dc5c7a8bcbf92600.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuzJP3mBifU_9hVBNAD5AIWQg_1bvxyNCJ7EIVE_20HE=",
+        "userId": "62bf0c09000000001b0247c7",
+        "nickname": "Castiglione"
+      },
+      "showTags": [],
+      "subCommentCount": "6",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "ipLocation": "北京",
+      "status": 0,
+      "content": "美本的不会写代码的也挺多的，比如我[笑哭R]",
+      "liked": false,
+      "createTime": 1749226190000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "likeCount": "19",
+      "createTime": 1749358428000,
+      "ipLocation": "四川",
+      "subCommentHasMore": true,
+      "id": "6845175c0000000008026707",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "5",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1749365798000,
+          "ipLocation": "美国",
+          "content": "非常理解。其实面试官也很难知道怎么筛选合适的学生。",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "targetComment": {
+            "id": "6845175c0000000008026707",
+            "userInfo": {
+              "userId": "66652e6d00000000070064b6",
+              "nickname": "多次婉拒刘亦菲",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dr1sk2ggs005pj55pmhop5m4p01kqo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABVjl-ppsa7wef0m5V1dD32OoUTOEB82QqD-4869w9R6U="
+            }
+          },
+          "invalid": false,
+          "id": "68453426000000001c036a71",
+          "noteId": "68430edd0000000003038d59",
+          "status": 0,
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "68453426000000001c036a71",
+      "invalid": false,
+      "noteId": "68430edd0000000003038d59",
+      "content": "我北美本科 学的cs课就是从头到尾都是在写代码，没有考理论概念的，然后在国内找工作，面试比不过背概念的[哭惹R]国内面试官好像也不太了解，问我概念我不会，我说我cs课都满分，他们好像觉得我的课程水分大",
+      "userInfo": {
+        "xsecToken": "ABVjl-ppsa7wef0m5V1dD32OoUTOEB82QqD-4869w9R6U=",
+        "userId": "66652e6d00000000070064b6",
+        "nickname": "多次婉拒刘亦菲",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dr1sk2ggs005pj55pmhop5m4p01kqo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "2",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318l6s35a3q005oeusll41kuuu3krqj8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuoxxKBafR9_dZOi-zNznHJNBQ3aeaZxuZBE3OkLqUIM=",
+        "userId": "61dee56a000000001000d3de",
+        "nickname": "小红薯薯民61DFFB8A"
+      },
+      "ipLocation": "四川",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "status": 0,
+      "content": "其实绩点排名在前的同学学习能力和学习态度都没问题，更何况现在有ai了，做research的coding能力可以说不是什么问题",
+      "createTime": 1749269400000,
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "id": "6843c7bd000000001c0303b5",
+          "noteId": "68430edd0000000003038d59",
+          "status": 0,
+          "content": "其实如果按照学习能力和态度，搞竞赛的一点也不会弱于学霸；差的是对考试和综合分的兴趣。",
+          "likeCount": "2",
+          "targetComment": {
+            "id": "6843bb97000000001c0348d8",
+            "userInfo": {
+              "userId": "61dee56a000000001000d3de",
+              "nickname": "小红薯薯民61DFFB8A",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318l6s35a3q005oeusll41kuuu3krqj8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuoxxKBafR9_dZOi-zNznHJNBQ3aeaZxuZBE3OkLqUIM="
+            }
+          },
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1749272509000,
+          "ipLocation": "美国"
+        }
+      ],
+      "id": "6843bb97000000001c0348d8",
+      "noteId": "68430edd0000000003038d59",
+      "atUsers": [],
+      "subCommentCursor": "6843c7bd000000001c0303b5",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "createTime": 1749226151000,
+          "ipLocation": "美国",
+          "id": "684312a6000000001c01d3dd",
+          "atUsers": [],
+          "likeCount": "11",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "68431231000000001c01f9f6",
+            "userInfo": {
+              "userId": "675bf992000000001801c74a",
+              "nickname": "TheSymbol",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t5m1l6r68005pqrv6963hqaku9pi8o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABQKB7O0GndH7_y6PJLwxNsSnU_bME0tVHjFoJn4SWl3w="
+            }
+          },
+          "invalid": false,
+          "noteId": "68430edd0000000003038d59",
+          "status": 0,
+          "content": "然后考试成绩好，综合发展分高，再接着就拿大厂实习发论文这样？",
+          "liked": false
+        }
+      ],
+      "id": "68431231000000001c01f9f6",
+      "status": 0,
+      "likeCount": "13",
+      "createTime": 1749226034000,
+      "subCommentCount": "11",
+      "subCommentHasMore": true,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t5m1l6r68005pqrv6963hqaku9pi8o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQKB7O0GndH7_y6PJLwxNsSnU_bME0tVHjFoJn4SWl3w=",
+        "userId": "675bf992000000001801c74a",
+        "nickname": "TheSymbol"
+      },
+      "ipLocation": "湖北",
+      "subCommentCursor": "684312a6000000001c01d3dd",
+      "invalid": false,
+      "noteId": "68430edd0000000003038d59",
+      "content": "本人ip985大二现身说法了 周围很多人实验都是github抄/ai  到了找人合作做项目的时候  有人只会ai生成 任务进度超慢 气死人了[微笑R]",
+      "showTags": [],
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "68433463000000000a037807",
+      "noteId": "68430edd0000000003038d59",
+      "status": 0,
+      "liked": false,
+      "subCommentCount": "12",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "怎么不说把ide没收了把键盘没收了就不会写代码了）",
+          "liked": false,
+          "likeCount": "157",
+          "userInfo": {
+            "userId": "5f426516000000000101f1f2",
+            "nickname": "薄切鲑鱼加山葵谢谢喵",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30p260sef426g5nq2ckb0bsfik1p3ai8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABPMGzo94gpfox3BcFe8KYAsjIdkp5s1girX3KGxOtI74="
+          },
+          "ipLocation": "安徽",
+          "targetComment": {
+            "id": "68431056000000001c032cf4",
+            "userInfo": {
+              "userId": "64c541c4000000000b007625",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31842ieri44505p658722oth5kt92b0o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABB-s56PlzjtTMiKeApLS9R4WKyydNUtt8hM5VjqWpP1k="
+            }
+          },
+          "id": "68433463000000000a037807",
+          "noteId": "68430edd0000000003038d59",
+          "atUsers": [],
+          "showTags": [],
+          "createTime": 1749234788000,
+          "invalid": false
+        }
+      ],
+      "content": "现在有ai工具，表面看好点了，你把网断了又不会了[笑哭R]",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1749225559000,
+      "id": "68431056000000001c032cf4",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "likeCount": "50",
+      "userInfo": {
+        "userId": "64c541c4000000000b007625",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31842ieri44505p658722oth5kt92b0o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABB-s56PlzjtTMiKeApLS9R4WKyydNUtt8hM5VjqWpP1k="
+      },
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "6",
+      "content": "反正我们985cs考试用oj做题目啊 算法课数据结构课要求都很严格啊查重也很严格 一点都不能有 平时作业也有手撕红黑树这种 你当论算法能力985好学生再差肯定差不到哪里去 但是至于前后端工程代码，那就看你自己愿不愿意写了 不愿意写的都是ai",
+      "createTime": 1749342231000,
+      "ipLocation": "吉林",
+      "id": "6844d817000000001c02bd76",
+      "noteId": "68430edd0000000003038d59",
+      "liked": false,
+      "subCommentCount": "4",
+      "subCommentCursor": "6844d8ba000000001c036c80",
+      "subCommentHasMore": true,
+      "status": 0,
+      "userInfo": {
+        "userId": "5d405a8e0000000012007a40",
+        "nickname": "无幻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nf3jrdblm005na0ba74gui02alkbog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhY3BJElPPgXGWf2zZ3ubHlQWPrpoONFRLPWLiPqyjfM="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6844d817000000001c02bd76",
+            "userInfo": {
+              "xsecToken": "ABhY3BJElPPgXGWf2zZ3ubHlQWPrpoONFRLPWLiPqyjfM=",
+              "userId": "5d405a8e0000000012007a40",
+              "nickname": "无幻",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nf3jrdblm005na0ba74gui02alkbog?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "noteId": "68430edd0000000003038d59",
+          "status": 0,
+          "content": "本身能跑到coding竞赛最前面的那批人少之又少 我觉得有人不愿意去研究算法数据结构之类的东西也是有一定道理的 毕竟很多学历场待遇确实够。",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5d405a8e0000000012007a40",
+            "nickname": "无幻",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nf3jrdblm005na0ba74gui02alkbog?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhY3BJElPPgXGWf2zZ3ubHlQWPrpoONFRLPWLiPqyjfM="
+          },
+          "showTags": [],
+          "id": "6844d8ba000000001c036c80",
+          "createTime": 1749342395000,
+          "ipLocation": "吉林"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subCommentCursor": "6843e0570000000009014061",
+      "createTime": 1749277441000,
+      "noteId": "68430edd0000000003038d59",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "8",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABFgopUfKBL6vhGGrIDMs_X9xkTvNw7w787d3oVPh24kQ=",
+        "userId": "5ad9d9d411be102c9485adeb",
+        "nickname": "11",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ucevenpia004a4mdect9bfbb5ond0o?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6843db01000000001c03599b",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABFgopUfKBL6vhGGrIDMs_X9xkTvNw7w787d3oVPh24kQ=",
+              "userId": "5ad9d9d411be102c9485adeb",
+              "nickname": "11",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ucevenpia004a4mdect9bfbb5ond0o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "liked": false,
+          "likeCount": "11",
+          "showTags": [],
+          "ipLocation": "上海",
+          "id": "6843e0570000000009014061",
+          "noteId": "68430edd0000000003038d59",
+          "content": "我室友之前试用期没过的原因：用ai写代码不思考，导致leader和其他人review和修他bug的时间比自己写还多[doge][doge][doge]",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "AB7EwbmwMxSPxznKdT-UPEXI6lyXLZYghxI6LsbiZKxvs=",
+            "userId": "5fa812b900000000010044a7",
+            "nickname": "沃克walker",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f98vacp6q005nt82asg8h573tol7a8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1749278808000
+        }
+      ],
+      "invalid": false,
+      "id": "6843db01000000001c03599b",
+      "content": "Ai写代码，写写小demo还行。真要写项目，写前沿算法还是不太行的吧",
+      "ipLocation": "广东",
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCount": "3",
+      "subCommentCursor": "684314d2000000001c036c4f",
+      "noteId": "68430edd0000000003038d59",
+      "status": 0,
+      "likeCount": "9",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "684314d2000000001c036c4f",
+          "noteId": "68430edd0000000003038d59",
+          "content": "这个确实算，但不是核心技能。而且如果仅仅用ai tool就能实现的项目，可能就不那么需要phd学生了吧。",
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1749226707000,
+          "targetComment": {
+            "id": "684313ad000000001c02c35c",
+            "userInfo": {
+              "userId": "5e7c8c870000000001008fd3",
+              "nickname": "AI远坂神社",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318i7afe0ju0g5njshi3g93uj49r93to?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABf555rLXDazmQapKjcPph_DkosJWEZY1CD775nZFkZVo="
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "ipLocation": "美国"
+        }
+      ],
+      "subCommentHasMore": true,
+      "content": "老师觉得ai tool use算不算代码能力一部分，毕竟很少有不能使用tool的coding场景了",
+      "createTime": 1749226414000,
+      "invalid": false,
+      "id": "684313ad000000001c02c35c",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "nickname": "AI远坂神社",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318i7afe0ju0g5njshi3g93uj49r93to?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABf555rLXDazmQapKjcPph_DkosJWEZY1CD775nZFkZVo=",
+        "userId": "5e7c8c870000000001008fd3"
+      },
+      "showTags": [],
+      "ipLocation": "江苏",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "进组了的代码基本都很好，不做科研上课的很难有写的好的，这玩意就是得上手做项目被人骂着改才能练出来[笑哭R]",
+      "subCommentCursor": "68431c63000000001c030cd7",
+      "id": "68431b7f000000000b017a5d",
+      "atUsers": [],
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1749228643000,
+          "targetComment": {
+            "id": "68431b7f000000000b017a5d",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h7kkffn346g5p08iuoqaah44ddcrkg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlbKVcfzdfO1DpnBJaVDR6E0VlJ2cyyrtA1FsztOaGDU=",
+              "userId": "640897b10000000029012a24",
+              "nickname": "mono tokyo"
+            }
+          },
+          "id": "68431c63000000001c030cd7",
+          "noteId": "68430edd0000000003038d59",
+          "content": "hhh 不敢骂 这骂了就得上pdf",
+          "ipLocation": "美国",
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "7"
+        }
+      ],
+      "noteId": "68430edd0000000003038d59",
+      "likeCount": "42",
+      "showTags": [],
+      "ipLocation": "北京",
+      "invalid": false,
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABlbKVcfzdfO1DpnBJaVDR6E0VlJ2cyyrtA1FsztOaGDU=",
+        "userId": "640897b10000000029012a24",
+        "nickname": "mono tokyo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31h7kkffn346g5p08iuoqaah44ddcrkg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1749228416000,
+      "subCommentCount": "3",
+      "subCommentHasMore": true,
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "68431710000000001c034a2b",
+      "noteId": "68430edd0000000003038d59",
+      "liked": false,
+      "createTime": 1749227280000,
+      "ipLocation": "江苏",
+      "content": "还是这样，我同学中国传媒大学本科，计算机专业。绩点不能保研，但比赛参加很多，今年找工作在上海年薪40万",
+      "subCommentCursor": "68431768000000001c02af01",
+      "invalid": false,
+      "subComments": [
+        {
+          "noteId": "68430edd0000000003038d59",
+          "liked": false,
+          "userInfo": {
+            "userId": "5bc387ead2bde70001396fb7",
+            "nickname": "用爱发电",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4XMkdRTirmGqqABA3rZ2djv5FZNaMiHrgffnlx-FHy8="
+          },
+          "createTime": 1749227369000,
+          "targetComment": {
+            "id": "68431710000000001c034a2b",
+            "userInfo": {
+              "userId": "610f6ad5000000000100be12",
+              "nickname": "Lx.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316e7p0gjhc005o8fdbag9fgi404qjm0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABXOCkrViFr_ytIHBLy3efRor-DAUGsEnsYNUhfocjGt0="
+            }
+          },
+          "invalid": false,
+          "id": "68431768000000001c02af01",
+          "status": 0,
+          "content": "非常感谢！",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国"
+        }
+      ],
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "4",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "likeCount": "6",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316e7p0gjhc005o8fdbag9fgi404qjm0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXOCkrViFr_ytIHBLy3efRor-DAUGsEnsYNUhfocjGt0=",
+        "userId": "610f6ad5000000000100be12",
+        "nickname": "Lx."
+      },
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6187 Vision and Language",
+  "search_item": {
+    "id": "68430edd0000000003038d59",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickname": "用爱发电",
+        "xsecToken": "ABE-uUqn5sAti2WegGiLHFqlhYzkqag5qEOzb9lhyZ7Rw=",
+        "nickName": "用爱发电",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/620288d144d1b7dd666142ba.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5bc387ead2bde70001396fb7"
+      },
+      "interactInfo": {
+        "commentCount": "160",
+        "sharedCount": "51",
+        "liked": false,
+        "likedCount": "429",
+        "collected": false,
+        "collectedCount": "239"
+      },
+      "cover": {
+        "height": 4032,
+        "width": 3024,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192018/1e169e6d20ab1b4d95d8bb1a4c34ae27/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192018/8705d4fbe2d7a73099c5038a06c28314/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 4032,
+          "width": 3024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192018/1e169e6d20ab1b4d95d8bb1a4c34ae27/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192018/8705d4fbe2d7a73099c5038a06c28314/notes_pre_post/1040g3k831id5jkejg2704bf7513ukrtnaflg7pg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-06-30"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "cs本科生写代码能力的问题"
+    },
+    "xsecToken": "ABNK-G4l8jChBmxf9rUvTfBM-7PHeGYmt08rWeI7z7_kg=",
+    "index": 8,
+    "exposed": true,
+    "trackId": "68430edd0000000003038d59"
+  }
+}

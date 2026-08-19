@@ -4,15 +4,9 @@
     "difficulty": {
       "value": "medium",
       "label": "适中",
-      "confidence": "disputed",
-      "sourceCount": 3,
-      "distinctSources": 3,
-      "note": "来源说法不一：适中×1、简单×1、较难×1",
-      "variants": {
-        "medium": 1,
-        "easy": 1,
-        "hard": 1
-      }
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 4
     },
     "grading": {
       "value": "harsh",
@@ -24,14 +18,9 @@
     "workload": {
       "value": "heavy",
       "label": "繁重",
-      "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 2,
-      "note": "来源说法不一：繁重×1、轻松×1",
-      "variants": {
-        "heavy": 1,
-        "light": 1
-      }
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 3
     },
     "hasRecording": {
       "value": "unknown",
@@ -62,6 +51,15 @@
         "post_body"
       ],
       "postTitle": "CityU CS 选课血泪史6⃣"
+    },
+    {
+      "noteId": "6a773731000000002500a5fa",
+      "url": "https://www.xiaohongshu.com/explore/6a773731000000002500a5fa?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOsS7XOb37bBAFXgSgK9B7I=",
+      "excerpt": "9. CS5483 Data Warehousing and Data Mining；印象非常深刻的一门课，老师是MIT毕业的，上课音色非常温柔，内容也比较简单易懂，而且可以看出来老师真的非常认真地在上这门课，甚至会在课前跟我们讨论master的就业问题。老师注重上课互动，经常请全体同学举手选择答案，但可惜的是由于在SEMB，所以同学们课程参与度不高，经常冷场，但老师也不生气。每周都有tutorial，量很大，但总共只有5分，如果没时间可以放弃。有一个个人project和小组project，个人的类似于实验，很快就能做完。小组的project工作量适中，但最后需要录制pre视频并且小组互相评比，稍微有点繁琐。这门课最独特的是考试，老师特制了一套上机考试系统，可以无限次check答案，每错一次就会扣分。期中期末都使用该系统，并且会在考前提供模拟考试以供练习。考试题型跟模拟考差不多，题型相对固定，熵计算几乎必考，弄懂计算原理就能拿分。概念题相对较难，但由于check系统，也可以拿到不错的分数。；优点：老师人非常好，独特的考试系统和相对固定的题型大大降低了考试难度；缺点：小组project流程繁琐，考试概念题困难",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMB（下）（划水版）"
     },
     {
       "noteId": "682d5b26000000000c039eaf",
@@ -116,17 +114,8 @@
         "post_body"
       ],
       "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
-    },
-    {
-      "noteId": "69fdd97b000000003601efb7",
-      "url": "https://www.xiaohongshu.com/explore/69fdd97b000000003601efb7?xsec_token=ABnJ6_vOnxu4oCjNgD0hbfoStZOAnwPOrahZRTJiY-qQs=",
-      "excerpt": "CS5483 Data Warehousing and Data Mining 可选。学的内容非常基础，平时workload高（但占比小），但考试只要复习了问题不太大，项目的自由度很高。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

@@ -1,0 +1,167 @@
+{
+  "note_id": "67c90df9000000000302b73c",
+  "url": "https://www.xiaohongshu.com/explore/67c90df9000000000302b73c?xsec_token=AB9tKXXgL-NdXdAQ6O9H2PaoJXpUDuha5xCU_QWgZE9A0=",
+  "fetched_at": 1787138812.0759914,
+  "note": {
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "67c90df9000000000302b73c",
+    "type": "normal",
+    "title": "cs188 project2 学习笔记",
+    "imageList": [
+      {
+        "width": 964,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191927/aecfae1beab0935090070fe7d2177464/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "height": 482,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191927/aecfae1beab0935090070fe7d2177464/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191927/c60bc98b38f9cf2f58d5668c074fe451/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191927/c60bc98b38f9cf2f58d5668c074fe451/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg"
+      },
+      {
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g",
+        "width": 229,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191927/780219465549202e4e38b48142a54a5c/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191927/56b5495f4d43bf909a26ccdc76e07fbd/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191927/56b5495f4d43bf909a26ccdc76e07fbd/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nd_dft_wlteh_jpg_3",
+        "height": 268,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191927/780219465549202e4e38b48142a54a5c/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5d6b7cdb000000000103e136",
+        "name": "AI",
+        "type": "topic"
+      },
+      {
+        "id": "5c6bb611000000000f0101ee",
+        "name": "机器学习",
+        "type": "topic"
+      },
+      {
+        "id": "6507eb85000000000e006552",
+        "name": "cs188",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1741229561000,
+    "desc": "project参见：\nhttps://inst.eecs.berkeley.edu/~cs188/sp25/projects/proj2/\n\t\nQ1：写状态转移的评估函数；这里按优先级依次考虑（远离鬼，减少场面上的食物数量，减少与食物的最短距离），记得加上原来的scorefunction\nQ2：minimax agent，无思维难度，下一题。\nQ3：alphabeta pruning，无思维难度，下一题。\nQ4：expectimax agent，无思维难度，下一题。\nQ5：写状态的评估函数；这里按优先级依次考虑（在鬼未受到惊吓时远离鬼，减少场面上的胶囊数量，减少场面上的食物数量，减少与食物或胶囊的最短距离），记得加上原来的scorefunction，吃豆人在实战中可以吃掉鬼获得大量分数（在调代码前我居然不知道，鉴定为没有童年555）\n﻿#AI[话题]#﻿ ﻿#机器学习[话题]#﻿ ﻿#cs188[话题]#﻿",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313f3spteg4005ofoqkqod03u6p9e4tg",
+      "xsecToken": "ABr4IQZFWmnZYwhpvc0_QgpfDXwlt8U_OLP9ZLYKg37tM=",
+      "userId": "61f8d535000000002102807e",
+      "nickname": "释小龙"
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "11",
+      "collected": false,
+      "followed": false,
+      "niceCount": "",
+      "collectedCount": "7",
+      "commentCount": "",
+      "shareCount": "3",
+      "relation": "none"
+    },
+    "lastUpdateTime": 1741229562000,
+    "xsecToken": "AB9tKXXgL-NdXdAQ6O9H2PaoJXpUDuha5xCU_QWgZE9A0="
+  },
+  "comments": [],
+  "search_query": "CS5286 Algorithms & Techniques",
+  "search_item": {
+    "id": "67c90df9000000000302b73c",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "cs188 project2 学习笔记",
+      "user": {
+        "nickName": "释小龙",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313f3spteg4005ofoqkqod03u6p9e4tg?imageView2/2/w/80/format/jpg",
+        "userId": "61f8d535000000002102807e",
+        "nickname": "释小龙",
+        "xsecToken": "ABgObQxvF3rCXw4jOSVYPP-AybKctokSAdDav7mmKtMNw="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "7",
+        "commentCount": "0",
+        "sharedCount": "3",
+        "liked": false,
+        "likedCount": "11"
+      },
+      "cover": {
+        "height": 482,
+        "width": 964,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191925/dd652ed39f5e0fe415b62881ae342360/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191925/49fc52565a0b7169c867da7494ba07d6/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 482,
+          "width": 964,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/dd652ed39f5e0fe415b62881ae342360/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/49fc52565a0b7169c867da7494ba07d6/spectrum/1040g34o31em0s8ro4u0g5ofoqkqod03u3cvg7sg!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 268,
+          "width": 229,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/6e0dafa90909ad80260c5416b5b8cb4c/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191925/299da7f0502995ac733634913e36eba2/spectrum/1040g34o31em0vnhiku0g5ofoqkqod03ujsnh51g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-03-06"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "AB9tKXXgL-NdXdAQ6O9H2PaoJXpUDuha5xCU_QWgZE9A0=",
+    "index": 9,
+    "exposed": true,
+    "trackId": "67c90df9000000000302b73c"
+  }
+}

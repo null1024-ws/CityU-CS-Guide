@@ -1,0 +1,82 @@
+{
+  "note_id": "68b6eda7000000001d015dac",
+  "url": "https://www.xiaohongshu.com/explore/68b6eda7000000001d015dac?xsec_token=ABi7ni-iJ-7N0nZzfyJg3yFqRVjv24sMwPeGjPQl9OReM=",
+  "fetched_at": 1787138750.5261185,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港大计院 RPg 培养方案更新",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "之前的笔记（见评论区）提及港大计院于本学年起调整了研究型研究生的培养方案。新版培养方案广为诟病，其更高的课程数量要求尤其引发了同学们的不满。近日，同学们的反馈初见成效。\n\t\n9 月 1 日，SIS 中 CDS RPg 课程分类悄悄调整。其中所有 STAT 课程维持 Statistics 类别不变，而 COMP 及 DATA 课程分类变化较大。新旧分类对比如图 1 至图 3 所示。\n\t\n9 月 2 日，CS 系官网培养方案也悄悄更新，除课程分类的改动外，核心课程类别也不再局限于“3 科不同类别”或“2 科 Statistics 加 1 科其他类别”的模式，而允许“2 科 Foundations 加 1 科其他类别”（图 4）。\n\t\n以上变化对大部分人没什么影响，只是精准打击了那些原计划只上 COMP9601、COMP9602、DATA8014 3 科核心课程并且不想上其他任何核心课程的人。\n\t\n最振奋人心的是学院在课程数量上作出的让步：新培养方案的脚注（图 5）指出 2025/26 学年注册的学生可申请遵从上一学年的课程要求，即 1 科核心课程加 3 科选修课程的组合。\n\t\n#香港大学[话题]# #港大CDS[话题]# #马毅[话题]# #港大CS[话题]# #香港大学计算与数据科学学院[话题]# #港大PhD[话题]# #港大MPhil[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "95 skylee发布了一篇小红书笔记，快来看吧！ 😆 7y7CEN6UihX 😆 http://xhslink.com/n/5kc86MmllzR 复制本条信息，打开【小红书】App查看精彩内容！",
+      "sourceRef": "comment:68b6edc0000000000b024ef7",
+      "commentId": "68b6edc0000000000b024ef7",
+      "likes": 1,
+      "author": "skylee"
+    },
+    {
+      "type": "comment",
+      "text": "hi，请问前三页图片是在哪一个网页上呢？ sis没找到；谢谢！",
+      "sourceRef": "comment:68b7138d0000000030022534",
+      "commentId": "68b7138d0000000030022534",
+      "likes": 1,
+      "author": "李嘉图"
+    },
+    {
+      "type": "sub_comment",
+      "text": "前三页图片是我根据 SIS 和两版 syllabus 自己整理的。[偷笑R]",
+      "sourceRef": "comment:68b71723000000000b025672",
+      "commentId": "68b71723000000000b025672",
+      "likes": 1,
+      "author": "skylee"
+    },
+    {
+      "type": "comment",
+      "text": "请教博主CDS的课程需要签到嘛",
+      "sourceRef": "comment:6a694068000000002100cbfa",
+      "commentId": "6a694068000000002100cbfa",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不同老师要求不一样。",
+      "sourceRef": "comment:6a696083000000000d023000",
+      "commentId": "6a696083000000000d023000",
+      "likes": 2,
+      "author": "skylee"
+    },
+    {
+      "type": "comment",
+      "text": "9501难吗。[哭惹R]",
+      "sourceRef": "comment:6a7eb0030000000014007093",
+      "commentId": "6a7eb0030000000014007093",
+      "likes": 1,
+      "author": "Justin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "潘佳的 COMP9501 授课内容是最基本的机器学习知识，没什么难度，但是完全没有针对授课内容的考核。考核内容主要是针对自选顶会论文的小组书面阅读报告、口头汇报以及自选主题的机器学习小组专案，要通过课程不难，但是对 ML 新手不友好。",
+      "sourceRef": "comment:6a7eb159000000000d023c00",
+      "commentId": "6a7eb159000000000d023c00",
+      "likes": 2,
+      "author": "skylee"
+    },
+    {
+      "type": "comment",
+      "text": "感谢总结[点赞R]赞，好人一生幸运",
+      "sourceRef": "comment:68b9c24b000000000b0212be",
+      "commentId": "68b9c24b000000000b0212be",
+      "likes": 2,
+      "author": "learning"
+    }
+  ]
+}

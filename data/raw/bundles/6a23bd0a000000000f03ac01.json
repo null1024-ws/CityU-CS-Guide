@@ -1,0 +1,53 @@
+{
+  "note_id": "6a23bd0a000000000f03ac01",
+  "url": "https://www.xiaohongshu.com/explore/6a23bd0a000000000f03ac01?xsec_token=ABFuyDb1d_bIMJjhz2lL-7ypJVELxh-tFgRg7afe8fdBA=",
+  "fetched_at": 1787137729.2615347,
+  "course_codes": [
+    "CS5218",
+    "CS5223"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS MCOMP 选课 Part 1",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5218 (推荐指数： ⭐️⭐️⭐️)\n课程总共只有 4 个 Assignments，没有考试，也没有 Quiz。Prof Joxan 人很好，非常有耐心，问问题时都会认真解答。不过个人觉得 Lecture 内容相对比较boring, 课堂气氛也不算特别活跃，平时来上课的学生并不多。印象中第一堂课时，甚至还有学生直接在课堂上睡着了。不过老师讲解还是很认真，只是课程内容本身没有那么吸引人。\nAssignments 的难度整体不高（没记错前两个individual assignments 会稍微难些），workload 还可以，给分也不错。\n\t\nCS5223 (推荐指数：⭐️⭐️⭐️⭐️⭐️）\n很幸运能够上 Prof. Jialin 的课。老师讲课非常清楚，也非常有趣，常常让人听着听着就忘了时间。课程内容深入浅出，即使是比较复杂的概念，也能解释得很容易理解。\n课程总共有 4 个 Assignments (用的是Java) 和 2 个 Problem sets. 前两个 Assignments 相对简单（差不多一到两天就可以做完了），从第三个 Assignment 开始才有一些挑战性。我最后在 Assignment 4 丢了几分, 总分是95/100，结果拿了个A-, 这门课有太多卷王了。Debugging assignment 4 真的很费时间，还得一边上班，LLM 的帮助也不大，想拿满分还是得靠自己一遍又一遍去读paper 和代码。建议大家早点开始。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问打算水的话，5218推荐吗？ 谢谢楼主[哇R][哇R][哇R]",
+      "sourceRef": "comment:6a261dee000000002a024216",
+      "commentId": "6a261dee000000002a024216",
+      "likes": 0,
+      "author": "黄色潜水艇"
+    },
+    {
+      "type": "sub_comment",
+      "text": "如果编程基础很烂，推荐吗，用AI帮助能做出作业来吗[哭惹R]谢谢",
+      "sourceRef": "comment:6a261e15000000002902785a",
+      "commentId": "6a261e15000000002902785a",
+      "likes": 0,
+      "author": "黄色潜水艇"
+    },
+    {
+      "type": "comment",
+      "text": "求问cs5218有考勤或者小组作业吗[哇R][哇R][哇R]",
+      "sourceRef": "comment:6a23eaba0000000028034ca5",
+      "commentId": "6a23eaba0000000028034ca5",
+      "likes": 1,
+      "author": "Moi名其妙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没考勤，最后两个assignments是小组作业",
+      "sourceRef": "comment:6a23f1a3000000000d021c00",
+      "commentId": "6a23f1a3000000000d021c00",
+      "likes": 1,
+      "author": "程序dog"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "note_id": "6a138a370000000006032943",
+  "url": "https://www.xiaohongshu.com/explore/6a138a370000000006032943?xsec_token=AB_zhY-0B1Id9lZbvH7sh97pEJokeMXJTdGWPabPpEmAU=",
+  "fetched_at": 1787138890.0316777,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "OpenCode 接入 ClaudeCode，WebSearch 失效",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#编程技巧[话题]# #AI工具报错[话题]# #ClaudeCode[话题]# #DeepSeek[话题]# #OpenCode[话题]# #开发排查[话题]# #程序员干货[话题]# #AI开发[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "还有其他方法吗",
+      "sourceRef": "comment:6a737dff000000001400a2ef",
+      "commentId": "6a737dff000000001400a2ef",
+      "likes": 0,
+      "author": "小瓶子"
+    },
+    {
+      "type": "comment",
+      "text": "必须这样解决吗？",
+      "sourceRef": "comment:6a26e39f000000002803f63b",
+      "commentId": "6a26e39f000000002803f63b",
+      "likes": 0,
+      "author": "珩华"
+    },
+    {
+      "type": "comment",
+      "text": "我的也是opencode接的claude。原生webfetch也用不了。只能用mcpfetch",
+      "sourceRef": "comment:6a3e9c9c0000000015004205",
+      "commentId": "6a3e9c9c0000000015004205",
+      "likes": 0,
+      "author": "小红薯65E639BA"
+    },
+    {
+      "type": "comment",
+      "text": "duckduckgo endpoint hit a captcha",
+      "sourceRef": "comment:6a80245f000000002b0270fc",
+      "commentId": "6a80245f000000002b0270fc",
+      "likes": 0,
+      "author": "刘誉儿"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "note_id": "6a718c300000000035014c0a",
+  "url": "https://www.xiaohongshu.com/explore/6a718c300000000035014c0a?xsec_token=ABm9TvizRKpgqdr9UVknaTXSfJ32VtfcYkZ4AY1w1roSs=",
+  "fetched_at": 1787142309.0758443,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "ICLR|Stanfordpaperreview给6.7稳吗",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "如图，CSpaper review给的是top11.1％，但是得分只有4分，一直在说我要跑一个多种子实验，但是我那个实验跑一次要200个h100 GPU hours……实在不想跑了\nStanford的那个倒是给了6.7……#人工智能[话题]# #ICLR[话题]# #人工智能顶会[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这东西参考价值很有限，大部分审稿人看完你的摘要跟引言，他已经在打分了，用大模型给你找茬而已。",
+      "sourceRef": "comment:6a718ce30000000015017fb8",
+      "commentId": "6a718ce30000000015017fb8",
+      "likes": 1,
+      "author": "PI"
+    },
+    {
+      "type": "sub_comment",
+      "text": "只看摘要和引言的话，那岂不是只需要把motivation好好弄一下把故事说漂亮就行了？ 我不太懂这些套路QAQ我现在是大二刚投稿，我老师也有两年没有搞人工智能的会议了",
+      "sourceRef": "comment:6a718d45000000002a02f816",
+      "commentId": "6a718d45000000002a02f816",
+      "likes": 0,
+      "author": "Zorro"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下你cspaper选的是哪个模型",
+      "sourceRef": "comment:6a7b0833000000000302e85b",
+      "commentId": "6a7b0833000000000302e85b",
+      "likes": 0,
+      "author": "LongStoryShort"
+    },
+    {
+      "type": "sub_comment",
+      "text": "terra",
+      "sourceRef": "comment:6a7b0956000000002a0303b0",
+      "commentId": "6a7b0956000000002a0303b0",
+      "likes": 0,
+      "author": "Zorro"
+    }
+  ]
+}

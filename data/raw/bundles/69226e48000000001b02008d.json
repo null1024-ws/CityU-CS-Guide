@@ -1,0 +1,178 @@
+{
+  "note_id": "69226e48000000001b02008d",
+  "url": "https://www.xiaohongshu.com/explore/69226e48000000001b02008d?xsec_token=AB9gHlOsZ5lh5joqu4TQia7SDB-YO3T5jgGGtCZsrlzYY=",
+  "fetched_at": 1787139976.6248925,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "hku cs 11.23 场笔试",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "热乎刚考完的笔试，9:00-9:45 场。\n和 16 号还有 22 号场题型一样，10 道选择题和 1 道编程题。\n考了插入排序最坏情况时间复杂度\n技术题考 static 变量的 property，还有 garbage collection 的概念，abstract classes和 interface 的概念\n\t\n两道概率题，一道考条件概率，还有一道应该就是简单的乘法吧[失望R]（这个不太清楚）\n\t\n选择题考了一个伪代码和一段 python，给 input 求 output。\n\t\n编程题听我朋友说是 25fall 原题，考的是 string triangle，第一行 print 两次原 string，后面每一行掐头去尾。\n面试官是 dr.yiu，应该是一个新面试官。没有自我介绍，一直在问各个人技术问题和职业规划之类的。prof 出了一道 puzzle， 然后让学生出了 puzzle，解答了一下也没有讲答案。反问环节后就结束了。\n#hku[话题]# #hkucs面试[话题]# #hkucs笔试[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "uu请问这个dr.yui问技术问题是像拷打简历那样根据简历的项目啥的询问嘛，还是单纯的问cs专业知识捏[害羞R]",
+      "sourceRef": "comment:692307f80000000032002dff",
+      "commentId": "692307f80000000032002dff",
+      "likes": 0,
+      "author": "拾柒💝"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是根据你的 cv 来起头，然后后面的问题是根据你所讲述的来追问",
+      "sourceRef": "comment:69230b4d000000001d01edf0",
+      "commentId": "69230b4d000000001d01edf0",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "yui是歪果仁吗",
+      "sourceRef": "comment:6925ac4e0000000038032642",
+      "commentId": "6925ac4e0000000038032642",
+      "likes": 0,
+      "author": "香蕉和蓝莓"
+    },
+    {
+      "type": "sub_comment",
+      "text": "应该是香港人[笑哭R]",
+      "sourceRef": "comment:6925acb9000000001600f389",
+      "commentId": "6925acb9000000001600f389",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "刚考完就刷到了[偷笑R]",
+      "sourceRef": "comment:6922763d000000001403ed5f",
+      "commentId": "6922763d000000001403ed5f",
+      "likes": 1,
+      "author": "Ica_Nickbd"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈哈哈大数据",
+      "sourceRef": "comment:692276650000000016026943",
+      "commentId": "692276650000000016026943",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "大概啥时候能有结果？焦虑中",
+      "sourceRef": "comment:6922c179000000001502fb5d",
+      "commentId": "6922c179000000001502fb5d",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的，差不多 3week",
+      "sourceRef": "comment:6922e69f000000001601fb7d",
+      "commentId": "6922e69f000000001601fb7d",
+      "likes": 1,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "bro 你的帖子火了",
+      "sourceRef": "comment:6922cff300000000380067d2",
+      "commentId": "6922cff300000000380067d2",
+      "likes": 2,
+      "author": "Jange爱生活🍫"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[笑哭R][笑哭R][笑哭R]",
+      "sourceRef": "comment:6922e69000000000160204ff",
+      "commentId": "6922e69000000000160204ff",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "主包你好强[doge][doge][doge][doge]",
+      "sourceRef": "comment:69226f4e000000001502e728",
+      "commentId": "69226f4e000000001502e728",
+      "likes": 2,
+      "author": "傻吃猛涨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[派对R][派对R][派对R]",
+      "sourceRef": "comment:6922740d000000001d01c7de",
+      "commentId": "6922740d000000001d01c7de",
+      "likes": 1,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "手写代码会特别要求语法吗 容错率高吗",
+      "sourceRef": "comment:69620de80000000031000fc1",
+      "commentId": "69620de80000000031000fc1",
+      "likes": 0,
+      "author": "Zzo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会吧我觉得[捂脸R]核心代码段写清楚就行",
+      "sourceRef": "comment:69620fef000000001600de59",
+      "commentId": "69620fef000000001600de59",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下大家穿着都是什么样吗 都穿西装吗[皱眉R]",
+      "sourceRef": "comment:692856b40000000038016859",
+      "commentId": "692856b40000000038016859",
+      "likes": 0,
+      "author": "Deebo10"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没有[笑哭R]我们那组都挺休闲的，我们那天还有面 ecic 的，那边就很多西装",
+      "sourceRef": "comment:692991c3000000001d01cb4e",
+      "commentId": "692991c3000000001d01cb4e",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "你好 想问一下笔试是纸质的还是机考呀 机考的话编程是不是还要注意语法[哭惹R]",
+      "sourceRef": "comment:6927e35a0000000038009c1a",
+      "commentId": "6927e35a0000000038009c1a",
+      "likes": 0,
+      "author": "Deebo10"
+    },
+    {
+      "type": "sub_comment",
+      "text": "笔试是纸质的，代码都要手写的[笑哭R]",
+      "sourceRef": "comment:6927e5b00000000016021593",
+      "commentId": "6927e5b00000000016021593",
+      "likes": 0,
+      "author": "格林"
+    },
+    {
+      "type": "comment",
+      "text": "老师请问编程是手写函数部分吗",
+      "sourceRef": "comment:692695e6000000001600e059",
+      "commentId": "692695e6000000001600e059",
+      "likes": 0,
+      "author": "莎士比亚"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是的[笑哭R]都要自己写",
+      "sourceRef": "comment:69269659000000001702f18a",
+      "commentId": "69269659000000001702f18a",
+      "likes": 0,
+      "author": "格林"
+    }
+  ]
+}

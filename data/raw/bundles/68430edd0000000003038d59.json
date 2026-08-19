@@ -1,0 +1,178 @@
+{
+  "note_id": "68430edd0000000003038d59",
+  "url": "https://www.xiaohongshu.com/explore/68430edd0000000003038d59?xsec_token=ABNK-G4l8jChBmxf9rUvTfBM-7PHeGYmt08rWeI7z7_kg=",
+  "fetched_at": 1787141912.412854,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cs本科生写代码能力的问题",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "最近在招cs phd，想起来一个问题。\n以前我国内非头部985 cs本科，年级前～5%基本都是考试考出来+综合分，一大半不会写代码，甚至大三/大四就不怎么碰键盘。对cs非常热爱，会写代码，尤其是搞竞赛的一波人，基本排名都在后面。\n不知道现在非头部985 cs本科还是这个情况么？有了解的同学可以帮忙分享一下！\n\t\nPS. 各位理性讨论。这个问题的出发点是怎么找到self-motivated的学生作为合作者。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "美本的不会写代码的也挺多的，比如我[笑哭R]",
+      "sourceRef": "comment:684312ce000000000d014be5",
+      "commentId": "684312ce000000000d014be5",
+      "likes": 24,
+      "author": "Castiglione"
+    },
+    {
+      "type": "sub_comment",
+      "text": "嗯嗯，美本我带的比较多，大概知道啥路子。大三/大四是会写代码，而且课程难度都上来了。",
+      "sourceRef": "comment:68431321000000001c0360ec",
+      "commentId": "68431321000000001c0360ec",
+      "likes": 11,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "我北美本科 学的cs课就是从头到尾都是在写代码，没有考理论概念的，然后在国内找工作，面试比不过背概念的[哭惹R]国内面试官好像也不太了解，问我概念我不会，我说我cs课都满分，他们好像觉得我的课程水分大",
+      "sourceRef": "comment:6845175c0000000008026707",
+      "commentId": "6845175c0000000008026707",
+      "likes": 19,
+      "author": "多次婉拒刘亦菲"
+    },
+    {
+      "type": "sub_comment",
+      "text": "非常理解。其实面试官也很难知道怎么筛选合适的学生。",
+      "sourceRef": "comment:68453426000000001c036a71",
+      "commentId": "68453426000000001c036a71",
+      "likes": 5,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "其实绩点排名在前的同学学习能力和学习态度都没问题，更何况现在有ai了，做research的coding能力可以说不是什么问题",
+      "sourceRef": "comment:6843bb97000000001c0348d8",
+      "commentId": "6843bb97000000001c0348d8",
+      "likes": 2,
+      "author": "小红薯薯民61DFFB8A"
+    },
+    {
+      "type": "sub_comment",
+      "text": "其实如果按照学习能力和态度，搞竞赛的一点也不会弱于学霸；差的是对考试和综合分的兴趣。",
+      "sourceRef": "comment:6843c7bd000000001c0303b5",
+      "commentId": "6843c7bd000000001c0303b5",
+      "likes": 2,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "本人ip985大二现身说法了 周围很多人实验都是github抄/ai  到了找人合作做项目的时候  有人只会ai生成 任务进度超慢 气死人了[微笑R]",
+      "sourceRef": "comment:68431231000000001c01f9f6",
+      "commentId": "68431231000000001c01f9f6",
+      "likes": 13,
+      "author": "TheSymbol"
+    },
+    {
+      "type": "sub_comment",
+      "text": "然后考试成绩好，综合发展分高，再接着就拿大厂实习发论文这样？",
+      "sourceRef": "comment:684312a6000000001c01d3dd",
+      "commentId": "684312a6000000001c01d3dd",
+      "likes": 11,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "现在有ai工具，表面看好点了，你把网断了又不会了[笑哭R]",
+      "sourceRef": "comment:68431056000000001c032cf4",
+      "commentId": "68431056000000001c032cf4",
+      "likes": 50,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "怎么不说把ide没收了把键盘没收了就不会写代码了）",
+      "sourceRef": "comment:68433463000000000a037807",
+      "commentId": "68433463000000000a037807",
+      "likes": 157,
+      "author": "薄切鲑鱼加山葵谢谢喵"
+    },
+    {
+      "type": "comment",
+      "text": "反正我们985cs考试用oj做题目啊 算法课数据结构课要求都很严格啊查重也很严格 一点都不能有 平时作业也有手撕红黑树这种 你当论算法能力985好学生再差肯定差不到哪里去 但是至于前后端工程代码，那就看你自己愿不愿意写了 不愿意写的都是ai",
+      "sourceRef": "comment:6844d817000000001c02bd76",
+      "commentId": "6844d817000000001c02bd76",
+      "likes": 6,
+      "author": "无幻"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本身能跑到coding竞赛最前面的那批人少之又少 我觉得有人不愿意去研究算法数据结构之类的东西也是有一定道理的 毕竟很多学历场待遇确实够。",
+      "sourceRef": "comment:6844d8ba000000001c036c80",
+      "commentId": "6844d8ba000000001c036c80",
+      "likes": 1,
+      "author": "无幻"
+    },
+    {
+      "type": "comment",
+      "text": "Ai写代码，写写小demo还行。真要写项目，写前沿算法还是不太行的吧",
+      "sourceRef": "comment:6843db01000000001c03599b",
+      "commentId": "6843db01000000001c03599b",
+      "likes": 8,
+      "author": "11"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我室友之前试用期没过的原因：用ai写代码不思考，导致leader和其他人review和修他bug的时间比自己写还多[doge][doge][doge]",
+      "sourceRef": "comment:6843e0570000000009014061",
+      "commentId": "6843e0570000000009014061",
+      "likes": 11,
+      "author": "沃克walker"
+    },
+    {
+      "type": "comment",
+      "text": "老师觉得ai tool use算不算代码能力一部分，毕竟很少有不能使用tool的coding场景了",
+      "sourceRef": "comment:684313ad000000001c02c35c",
+      "commentId": "684313ad000000001c02c35c",
+      "likes": 9,
+      "author": "AI远坂神社"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个确实算，但不是核心技能。而且如果仅仅用ai tool就能实现的项目，可能就不那么需要phd学生了吧。",
+      "sourceRef": "comment:684314d2000000001c036c4f",
+      "commentId": "684314d2000000001c036c4f",
+      "likes": 2,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "进组了的代码基本都很好，不做科研上课的很难有写的好的，这玩意就是得上手做项目被人骂着改才能练出来[笑哭R]",
+      "sourceRef": "comment:68431b7f000000000b017a5d",
+      "commentId": "68431b7f000000000b017a5d",
+      "likes": 42,
+      "author": "mono tokyo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "hhh 不敢骂 这骂了就得上pdf",
+      "sourceRef": "comment:68431c63000000001c030cd7",
+      "commentId": "68431c63000000001c030cd7",
+      "likes": 7,
+      "author": "用爱发电"
+    },
+    {
+      "type": "comment",
+      "text": "还是这样，我同学中国传媒大学本科，计算机专业。绩点不能保研，但比赛参加很多，今年找工作在上海年薪40万",
+      "sourceRef": "comment:68431710000000001c034a2b",
+      "commentId": "68431710000000001c034a2b",
+      "likes": 6,
+      "author": "Lx."
+    },
+    {
+      "type": "sub_comment",
+      "text": "非常感谢！",
+      "sourceRef": "comment:68431768000000001c02af01",
+      "commentId": "68431768000000001c02af01",
+      "likes": 0,
+      "author": "用爱发电"
+    }
+  ]
+}

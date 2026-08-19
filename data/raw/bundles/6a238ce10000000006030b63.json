@@ -1,0 +1,170 @@
+{
+  "note_id": "6a238ce10000000006030b63",
+  "url": "https://www.xiaohongshu.com/explore/6a238ce10000000006030b63?xsec_token=ABFuyDb1d_bIMJjhz2lL-7yq5Mk3IVxD0ZtLzcfsnuq04=",
+  "fetched_at": 1787142411.9180253,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "这真的是 CVPR 论文的主图吗？？？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "今天看到一篇 CVPR 论文的主图，真的有点绷不住了。\n论文是 Think, Then Verify: A Hypothesis–Verification Multi-Agent Framework for Long Video Understanding。作者单位里有 浙江工业大学、UC Berkeley、华东师范大学。\n\t\n这个主图的排版质量，真的越看越难受。字符间距完全不一样，就算是刚入门的本科生也画不出这样的图吧，审稿人这都发现不了？还是说大模型审稿发现不了这种图片质量问题？[doge]\n\t\n更新: 没想到一个吐槽引发这么激烈的讨论。有一些拙见：\n1. 论文本身就是公开实名的，我只是指出其中的一个问题。\n2. 我没有评判论文内容不好，也没有评判框架图的画风不行，审美问题因人而异。\n3. 不管框架图画的简单还是复杂都是OK的，但是最基本的字符排版是应该做好的。\n4. 那些觉得我吹毛求疵的，可能你们真的觉得\n\"A ge nt\"，\"V id eo\"，\"C lu e\"这样的写法没问题吧，但愿你们之后投顶会用的都是这样的图，祝你们好运[赞R]\n\t\n#cvpr[话题]# #论文[话题]# #博士[话题]# #科研[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "主要是这个奇怪的间距[满月R]",
+      "sourceRef": "comment:6a23b2570000000028008993",
+      "commentId": "6a23b2570000000028008993",
+      "likes": 114,
+      "author": "多加一碗米饭"
+    },
+    {
+      "type": "sub_comment",
+      "text": "转svg是会变成这样的",
+      "sourceRef": "comment:6a23b83a000000002900e470",
+      "commentId": "6a23b83a000000002900e470",
+      "likes": 67,
+      "author": "青春"
+    },
+    {
+      "type": "comment",
+      "text": "以后发顶会必须得带个美术生了[doge]",
+      "sourceRef": "comment:6a23a65b0000000028030f62",
+      "commentId": "6a23a65b0000000028030f62",
+      "likes": 46,
+      "author": "用户已注销"
+    },
+    {
+      "type": "sub_comment",
+      "text": "非美术生也不会有这种错误",
+      "sourceRef": "comment:6a23ac27000000002902c955",
+      "commentId": "6a23ac27000000002902c955",
+      "likes": 20,
+      "author": "Dust"
+    },
+    {
+      "type": "comment",
+      "text": "哈哈哈哈。",
+      "sourceRef": "comment:6a23f147000000002a025ec4",
+      "commentId": "6a23f147000000002a025ec4",
+      "likes": 1,
+      "author": "用户已注销"
+    },
+    {
+      "type": "comment",
+      "text": "虽然有点难绷。但是我感觉不影响文章质量[失望R]这种东西能看懂就行。而且就会议文我感觉没必要太较真文章打磨。",
+      "sourceRef": "comment:6a23965f000000002701c13b",
+      "commentId": "6a23965f000000002701c13b",
+      "likes": 220,
+      "author": "听雨"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得是挺影响质量的，对于会议论文，也是需要精心打磨的，nips，icml，iclr随便写写就能发了？",
+      "sourceRef": "comment:6a2398ce000000002a02e937",
+      "commentId": "6a2398ce000000002a02e937",
+      "likes": 86,
+      "author": "Dust"
+    },
+    {
+      "type": "comment",
+      "text": "我猜chatgpt生成的",
+      "sourceRef": "comment:6a410366000000002b02ac44",
+      "commentId": "6a410366000000002b02ac44",
+      "likes": 0,
+      "author": "Ivy端端"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不一定存png图就会这样有不均匀的空格很难受",
+      "sourceRef": "comment:6a411ba9000000000802e296",
+      "commentId": "6a411ba9000000000802e296",
+      "likes": 2,
+      "author": "球文"
+    },
+    {
+      "type": "comment",
+      "text": "我感觉表达清楚意思就行了，他这个字符间距确实问题，如果它改好了字符间距你认为他是否是一张好图片，审稿本来就不该被太多美观程度所左右，不然全去打磨图片了，哪有更多时间研究内容",
+      "sourceRef": "comment:6a23a42d000000002a0252a0",
+      "commentId": "6a23a42d000000002a0252a0",
+      "likes": 141,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "点了，图片啥的都是次要的，能看懂就行，重要的是内容，搞面子工程没啥意义",
+      "sourceRef": "comment:6a23aa100000000028033dd2",
+      "commentId": "6a23aa100000000028033dd2",
+      "likes": 101,
+      "author": "宁芙奖请投小女孩"
+    },
+    {
+      "type": "comment",
+      "text": "字间距不一样，可能是visio画的图",
+      "sourceRef": "comment:6a23933c000000002b002bce",
+      "commentId": "6a23933c000000002b002bce",
+      "likes": 35,
+      "author": "雪顶咖啡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "如果是ppt画的，会有这个情况吗",
+      "sourceRef": "comment:6a2395830000000028036873",
+      "commentId": "6a2395830000000028036873",
+      "likes": 6,
+      "author": "informal"
+    },
+    {
+      "type": "comment",
+      "text": "评论区态度依旧取决于前三条评论，大脑直接跟着走就对了",
+      "sourceRef": "comment:6a261278000000002900c686",
+      "commentId": "6a261278000000002900c686",
+      "likes": 16,
+      "author": "PHOTOGRAPHERXin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好家伙，这都能刷到评论[doge]，头像还是太显眼了",
+      "sourceRef": "comment:6a26a6190000000027029e81",
+      "commentId": "6a26a6190000000027029e81",
+      "likes": 0,
+      "author": "凌晨九点"
+    },
+    {
+      "type": "comment",
+      "text": "Ai生成的图？",
+      "sourceRef": "comment:6a238f42000000002803da95",
+      "commentId": "6a238f42000000002803da95",
+      "likes": 0,
+      "author": "欢乐马"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ai画的没这么差[doge]",
+      "sourceRef": "comment:6a239171000000002901bda0",
+      "commentId": "6a239171000000002901bda0",
+      "likes": 68,
+      "author": "mini卡拉米"
+    },
+    {
+      "type": "comment",
+      "text": "我感觉画的挺好的呀[赞R][赞R]",
+      "sourceRef": "comment:6a239aa300000000270206e4",
+      "commentId": "6a239aa300000000270206e4",
+      "likes": 19,
+      "author": "ongoing"
+    },
+    {
+      "type": "sub_comment",
+      "text": "挺好的[棒R]",
+      "sourceRef": "comment:6a239cd8000000002b024b57",
+      "commentId": "6a239cd8000000002b024b57",
+      "likes": 0,
+      "author": "Dust"
+    }
+  ]
+}

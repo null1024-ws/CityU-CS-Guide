@@ -1,0 +1,43 @@
+{
+  "note_id": "39b73d83-87a1-46dc-82e3-6dedf8074835",
+  "url": "https://www.xiaohongshu.com/explore/39b73d83-87a1-46dc-82e3-6dedf8074835?xsec_token=ABNayN-6lk3-MQcfxA1u4gzMppQuW0MSvSZJi2MJjtF63C3RS8t-s48upY209sTkUqKX2ZN-FRBGvOSVD1k1Ql3lqmVYLVCrf8S01OkUsgqVk=",
+  "fetched_at": 1787141190.8798075,
+  "note": {},
+  "comments": [],
+  "search_query": "CS6175 城大CS",
+  "search_item": {
+    "id": "39b73d83-87a1-46dc-82e3-6dedf8074835#1787141160625",
+    "modelType": "rec_query",
+    "recQuery": {
+      "title": "相关搜索",
+      "source": 1,
+      "wordRequestId": "39b73d83-87a1-46dc-82e3-6dedf8074835#1787141160625",
+      "queries": [
+        {
+          "id": "cityu cs留位费",
+          "name": "cityu cs留位费",
+          "searchWord": "cityu cs留位费"
+        },
+        {
+          "id": "香港城市大学cs课程",
+          "name": "香港城市大学cs课程",
+          "searchWord": "香港城市大学cs课程"
+        },
+        {
+          "id": "cityu cs课程",
+          "name": "cityu cs课程",
+          "searchWord": "cityu cs课程"
+        },
+        {
+          "id": "香港城市大学cs硕士",
+          "name": "香港城市大学cs硕士",
+          "searchWord": "香港城市大学cs硕士"
+        }
+      ]
+    },
+    "xsecToken": "ABNayN-6lk3-MQcfxA1u4gzMppQuW0MSvSZJi2MJjtF63C3RS8t-s48upY209sTkUqKX2ZN-FRBGvOSVD1k1Ql3lqmVYLVCrf8S01OkUsgqVk=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "39b73d83-87a1-46dc-82e3-6dedf8074835#1787141160625"
+  }
+}

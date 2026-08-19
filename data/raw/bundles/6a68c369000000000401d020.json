@@ -1,0 +1,179 @@
+{
+  "note_id": "6a68c369000000000401d020",
+  "url": "https://www.xiaohongshu.com/explore/6a68c369000000000401d020?xsec_token=ABuawtdgCfNg0LPb3huopF90LeInTU-kPgHb3VzJ-em_o=",
+  "fetched_at": 1787137116.4091847,
+  "course_codes": [
+    "CS5187",
+    "CS5297",
+    "CS5489",
+    "CS5491",
+    "CS5494",
+    "CS5495",
+    "CS6491",
+    "CS6493"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "大龄学长聊对MSc AI的整体感受和选课建议",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "首先讲下整体感觉：作为city除MBA外最贵的taught master，读完一年觉得还算是值回票价。主包在内地读过研，对比下来觉得city这个项目在师资、课程和配套资源上都有自己的优势。而且学校对学生的培养也不搞纯绩优主义那一套，只要你认真学或者用好资源，实际收获绝对远超学费。\n\t\n再说课程结构，主要分Core、各种Stream选修和普通选修。\n\t\nCore必修里最有用的是CS5491和CS5489：\nCS5491（AI）：大杂烩入门，每个专题讲一两周，帮你建立对这个领域的基本知识储备。对非科班学生友好。\nCS5489（机器学习）：主包因为学分置换直接没上，但看同学反馈工作量大、强度高。不过评估下来效果应该不错（毕竟主包以前上机器学习的时候，老师都很难把slides讲得很清楚hhhh）。\n\t\n选修课主推这几门：\nCS6493（NLP）和CS5494：非常SOTA的NLP，不跟你上历史课，内容基本上是面试八股高频；\nCS5297（AI Security）：讲了一些偏企业级应用的东西（比如poisoning、backdoor、联邦学习等），作业水平非常高端；\nCS5495（xAI）：看着抽象其实挺简单，就是纯套公式和固定套路的解释；\nCS5187（Vision and Image）：传统CV，但老师很棒，值得去听。\n当然其他课也不是不好，比如想搞学术或者想做算法工程师，去上数学课CS6491也会大有收获，自动驾驶方向主包没上就不评价了。\n\t\nStream目前看没什么实质作用，选课反正都是自由的，不去follow没惩罚也没好处，不用太纠结。\n\t\n最后建议大家善用Guided Study和Project。不管你是学术向还是揾工向，找个对应的mentor沟通，压力会比纯上课小不少。不过名额比较少，抢不到也无所谓，多上点课就当投资，以后总有回报的。\n（8.6更新一下：学院出了新规，project需要gpa3.3以上才可以无条件选，3.0-3.3需要学院额外审批，看来是越来越难水了，果然是旗舰项目[失望R]）\n\t\n（8.10再更新一下：internship课需要先审批后入职才算数[汗颜R]）\n\t\n#港硕[话题]# #CityU[话题]# #AI硕士[话题]# #计算机硕士[话题]# #AI[话题]#\n\t\n#港硕[话题]#\n#CityU[话题]#\n#AI硕士[话题]#\n#计算机硕士[话题]#\n#AI[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "没有讲到的可以评论区留言，我动态回复[微笑R]",
+      "sourceRef": "comment:6a68c418000000001500646c",
+      "commentId": "6a68c418000000001500646c",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长学长可以分享下SemA选了哪几门嘛，压力会不会很大啊[哭惹R]",
+      "sourceRef": "comment:6a796bd0000000001402178f",
+      "commentId": "6a796bd0000000001402178f",
+      "likes": 1,
+      "author": "小红薯685A8D4D"
+    },
+    {
+      "type": "sub_comment",
+      "text": "第一学期的话应该是会有两门必修，然后看你的计划来，如果你想一年上完就可劲选就可以了，15分感觉就够了，18分会很有挑战，AI所有科目都要考试，难度其实差不多，基本都不划重点",
+      "sourceRef": "comment:6a796d3e00000000140251f0",
+      "commentId": "6a796d3e00000000140251f0",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学哥好请问一下，大家留服认证是认证成计算机（人工智能），还是直接人工智能呀？",
+      "sourceRef": "comment:6a6973200000000005009347",
+      "commentId": "6a6973200000000005009347",
+      "likes": 0,
+      "author": "玲娜背耳"
+    },
+    {
+      "type": "sub_comment",
+      "text": "信息不太够还不知道细节，不过留服是可以一定范围内自己来操作的，问题应该不大",
+      "sourceRef": "comment:6a697f540000000015009440",
+      "commentId": "6a697f540000000015009440",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长，实习课是要自己找，还是学校有岗位",
+      "sourceRef": "comment:6a6abc8d0000000004038919",
+      "commentId": "6a6abc8d0000000004038919",
+      "likes": 0,
+      "author": "卅子"
+    },
+    {
+      "type": "sub_comment",
+      "text": "要自己找，并且要按照规定的时间来实习才能够拿实习学分",
+      "sourceRef": "comment:6a6abefd0000000015011574",
+      "commentId": "6a6abefd0000000015011574",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长，我是26fall同专业，请问课程最后结业是考试还是pre比较多呀，比较害怕英语口语[哭惹R]li另外请问课程考勤严不严呀[黄金薯R]",
+      "sourceRef": "comment:6a6a28670000000023002575",
+      "commentId": "6a6a28670000000023002575",
+      "likes": 0,
+      "author": "雪夜长歌"
+    },
+    {
+      "type": "sub_comment",
+      "text": "gs和project没有考试，其它课程都有考试和pre，必修课有期中考试，难度只能说各异，但你只要参加考试了就会尽力不让你挂。考勤不严，老师态度都很开放。另外忠告一下，考试成绩高低在这里几乎没有任何意义，没有必要把应试阶段的零和博弈思维带入进去（因为我们这届已经出了一个嘉豪了[偷笑R]",
+      "sourceRef": "comment:6a6a34d300000000150091e4",
+      "commentId": "6a6a34d300000000150091e4",
+      "likes": 1,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长，考勤真的不严吗？估计九月份还在实习，不是在深圳，真要读书实习两边跑兼顾不来",
+      "sourceRef": "comment:6a7d9df50000000007015b1a",
+      "commentId": "6a7d9df50000000007015b1a",
+      "likes": 0,
+      "author": "每天更新一部短剧"
+    },
+    {
+      "type": "sub_comment",
+      "text": "至少25fall这一届不严，我们这一届有去上海实习的，需要来的时候再飞过来，你这边可以自己把握一下",
+      "sourceRef": "comment:6a805638000000001400501a",
+      "commentId": "6a805638000000001400501a",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "主包是打算读几年啊 我也今年26fall city纯ai另外如果想选project的话semA要选多少个学分啊[皱眉R]",
+      "sourceRef": "comment:6a69855c0000000015009c80",
+      "commentId": "6a69855c0000000015009c80",
+      "likes": 1,
+      "author": "小邓"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是a+b+st，如果想project又不想gap的话只能st毕业，a有两门必修，我又加了三门+gs一共18，但是没必要，没学分置换的话太累了[捂脸R]完全可以b选多一点",
+      "sourceRef": "comment:6a6988a20000000014038a2e",
+      "commentId": "6a6988a20000000014038a2e",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "大佬打算留港工作吗",
+      "sourceRef": "comment:6a68cf520000000015001448",
+      "commentId": "6a68cf520000000015001448",
+      "likes": 1,
+      "author": "小红薯63E93B1A"
+    },
+    {
+      "type": "sub_comment",
+      "text": "各有各的好，内地钱多，hk包容我这种大龄人士",
+      "sourceRef": "comment:6a68d249000000001403a376",
+      "commentId": "6a68d249000000001403a376",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长，其他专业也可以选1.5/2年毕业吗[皱眉R][皱眉R]",
+      "sourceRef": "comment:6a74e0a2000000001402271c",
+      "commentId": "6a74e0a2000000001402271c",
+      "likes": 1,
+      "author": "Amour"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以，在第一学期之后提交修改学习计划的申请",
+      "sourceRef": "comment:6a78a948000000001400547c",
+      "commentId": "6a78a948000000001400547c",
+      "likes": 0,
+      "author": "Arch🚀"
+    },
+    {
+      "type": "comment",
+      "text": "学长还有其他TAI相关课程推荐吗",
+      "sourceRef": "comment:6a6afdfa000000000500a791",
+      "commentId": "6a6afdfa000000000500a791",
+      "likes": 2,
+      "author": "卅子"
+    },
+    {
+      "type": "sub_comment",
+      "text": "就两个，都已经在文中讲过了，这个stream的课其它专业是上不了的，而且不能够算水，对得起这个钱",
+      "sourceRef": "comment:6a6b1c5400000000140384cd",
+      "commentId": "6a6b1c5400000000140384cd",
+      "likes": 0,
+      "author": "Arch🚀"
+    }
+  ]
+}

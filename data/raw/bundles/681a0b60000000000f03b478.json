@@ -1,0 +1,108 @@
+{
+  "note_id": "681a0b60000000000f03b478",
+  "url": "https://www.xiaohongshu.com/explore/681a0b60000000000f03b478?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXzV5LOWE_3LlNAJSfgeuw6w=",
+  "fetched_at": 1787137849.5944283,
+  "course_codes": [
+    "CS5489"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "香港城市大学 CS5489机器学习 继续吐槽",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这学期继续选择了机器学习，而刚才刚刚考完了机器学习的期末考试。总体来说还是一门又爱又恨的课。\n\t\n这学期的老师是antoni和马老师负责的，不过antoni好像没讲几节课，印象里马老师讲的更多。两个老师讲的都很不错，然后有录播没有直播。课程时长还是分成了授课和tutorial，tutorial去机房完成本周的tutorial，而lecture上讲解本节所涉及到的机器学习模型和代码(代码可能大概提一下，主要还是专注于各种模型)\n\t\n课程内容分成了两大块，一块是传统机器学习，另一块是深度学习。课程和考试不会涉及到过多的数学推导，但课程会侧重于知识的广度，不得不说如果认真搞完这个感觉直接科研没太大问题。\n\t\n课程的成绩构成分为平常tutorial10%，Assigment两个20%，midterm10%，group project30%，期末30%，平常tutorial就是写写和分析本节课的模型代码和表现，assignment则是做两个小的项目(kaggle平台老师发布的两个大作业)，group project则是kaggle上的热门比赛(选题都挺难，不过可以自选) 期中考试考前5周，难度适中。\n\t\n然后就是刚考完的期末考试，真的是全部内容都涉及了，没一个不考的，cheat paper双面手写还写不太下，gan那道都没咋复习，感觉期末寄了。不过对比起5487至少还是能写的。之后选这门课的同学一定要注意全部复习对于后面deeplearn更要着重复习，做cheat paper一定要注意格式和内容(双面，只拍了一面，但还是很多没写上去），因为真的很多，参考p2[捂脸R]\n\t\n总的来说，这门课是非常对得起学费的一门，有勇气和时间的同学都可以挑战一下[偷笑R]\n\t\n#香港城市大学[话题]#\n#深度学习[话题]#\n#机器学习[话题]#\n#期末[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我以为我的cheatsheet够夸张了，没想到你的更厉害！🤣🤣🤣不得不说这门课真的是又爱又恨，tutorial assignment project 工作量真的大，但沒有這些的話真的學不懂[笑哭R]",
+      "sourceRef": "comment:681a17a6000000000b0174a8",
+      "commentId": "681a17a6000000000b0174a8",
+      "likes": 2,
+      "author": "Babe"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈你坐我右边姐妹[偷笑R]",
+      "sourceRef": "comment:681cc60e000000000401ba88",
+      "commentId": "681cc60e000000000401ba88",
+      "likes": 0,
+      "author": "momo（见过王力宏3次版）"
+    },
+    {
+      "type": "comment",
+      "text": "感谢测评哈[赞R]",
+      "sourceRef": "comment:681ae895000000000a036c0e",
+      "commentId": "681ae895000000000a036c0e",
+      "likes": 4,
+      "author": "MOFA Lab"
+    },
+    {
+      "type": "sub_comment",
+      "text": "居然在这抓到老师本尊",
+      "sourceRef": "comment:68220037000000000401f5b4",
+      "commentId": "68220037000000000401f5b4",
+      "likes": 0,
+      "author": "太平洋鳗鱼"
+    },
+    {
+      "type": "comment",
+      "text": "本科课程还是phd课程",
+      "sourceRef": "comment:681a466d0000000009017dc3",
+      "commentId": "681a466d0000000009017dc3",
+      "likes": 0,
+      "author": "Oscar"
+    },
+    {
+      "type": "sub_comment",
+      "text": "硕士生和博士生可选的课",
+      "sourceRef": "comment:681a4dcd0000000004009fab",
+      "commentId": "681a4dcd0000000004009fab",
+      "likes": 2,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "看了R哥关于机器学习的课程吐槽，还庆幸提前看到了，开学选课得避开下。结果一看ds课程机器学习是必修[哭惹R]",
+      "sourceRef": "comment:681b020d0000000003035733",
+      "commentId": "681b020d0000000003035733",
+      "likes": 4,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ds的ml应该和cs的不一样，难度应该没这么大",
+      "sourceRef": "comment:681b054f000000000401c5be",
+      "commentId": "681b054f000000000401c5be",
+      "likes": 1,
+      "author": "Richett_L"
+    },
+    {
+      "type": "comment",
+      "text": "哥你太牛逼了",
+      "sourceRef": "comment:681a9bd8000000000b014c1a",
+      "commentId": "681a9bd8000000000b014c1a",
+      "likes": 0,
+      "author": "。"
+    },
+    {
+      "type": "comment",
+      "text": "woc，太夸张了哥们",
+      "sourceRef": "comment:681a122b0000000004019c53",
+      "commentId": "681a122b0000000004019c53",
+      "likes": 0,
+      "author": "二三"
+    },
+    {
+      "type": "comment",
+      "text": "[捂脸R]",
+      "sourceRef": "comment:681a1331000000000103e74c",
+      "commentId": "681a1331000000000103e74c",
+      "likes": 0,
+      "author": "天堂君"
+    }
+  ]
+}

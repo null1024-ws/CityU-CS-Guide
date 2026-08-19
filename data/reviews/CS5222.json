@@ -5,8 +5,8 @@
       "value": "medium",
       "label": "适中",
       "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 6
+      "sourceCount": 10,
+      "distinctSources": 7
     },
     "hasRecording": {
       "value": "true",
@@ -19,8 +19,8 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 10,
-      "distinctSources": 9
+      "sourceCount": 12,
+      "distinctSources": 10
     },
     "grading": {
       "value": "harsh",
@@ -75,6 +75,15 @@
       "postTitle": "CityU MSc CS Sem A课程评价"
     },
     {
+      "noteId": "6a7729bb0000000005020799",
+      "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
+      "excerpt": "2.CS5222 Computer Networks and Internets；体验非常好的一门课，老师上课口音很清楚，课程难度不大，每门课结束都会有tutorial，另外有几次作业。最后final是完全开卷，和作业和tutorial的题型差不多，印象里好像都是应用计算题，难度也不难。所以好好做作业，搞懂原理，再把作业带进去就很容易过。无project和期中quiz。；优点：考试开卷，tutorial和作业与final契合度高，无project；缺点：无",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMA（划水版）"
+    },
+    {
       "noteId": "695cf7a800000000220313b8",
       "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
       "excerpt": "1. cs5222 计网；15%: 3个作业，中等偏简单，中等量；10%: wireshark任务, 简单，指导书很详细；5%: 研究报告，随便糊弄就行；70%: 期末，开卷，不难，题量不多（甚至考场里大概4%的人提早交了），有时间翻打印的资料，其中90%以上的题目是tutorial和assignment变形，剩下的是PPT里出现的小知识点；复习建议：考前再做一遍tutorial和assignments即可；总结：无小组作业，不考勤，总体简单，必选",
@@ -109,17 +118,8 @@
         "post_body"
       ],
       "postTitle": "Cityu cs semA 课程测评"
-    },
-    {
-      "noteId": "677bef1a000000001800eca7",
-      "url": "https://www.xiaohongshu.com/explore/677bef1a000000001800eca7?xsec_token=AB9wdBcBIohhkYUX9WJBvzOdDPV--CHYvtgwkwCQM21Rs=",
-      "excerpt": "cs5222:作业占比30%，做起来难度中等，3个assignment两个额外的作业，不会太多。final占比70%，开卷，基本上都是tutorial的题目变形（考前也说明了这一点），题量较大，需要对概念真正掌握，但是考的概念不多，基本上每章都只考那些重点，不会太难到做不了。老师讲课也挺好的，基本上跟着ppt走不会上课有大问题，就算没听懂自己学也能理解。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu cs sem a 期末成绩评价"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

@@ -1,0 +1,861 @@
+{
+  "note_id": "6a238ce10000000006030b63",
+  "url": "https://www.xiaohongshu.com/explore/6a238ce10000000006030b63?xsec_token=ABFuyDb1d_bIMJjhz2lL-7yq5Mk3IVxD0ZtLzcfsnuq04=",
+  "fetched_at": 1787142411.9180253,
+  "note": {
+    "lastUpdateTime": 1780811264000,
+    "noteId": "6a238ce10000000006030b63",
+    "type": "normal",
+    "interactInfo": {
+      "collectedCount": "186",
+      "commentCount": "230",
+      "shareCount": "216",
+      "niceCount": "",
+      "likedCount": "554",
+      "collected": false,
+      "followed": false,
+      "relation": "none",
+      "liked": false
+    },
+    "tagList": [
+      {
+        "id": "5e368b970000000001005616",
+        "name": "cvpr",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5beb8aaf91cb280001037338",
+        "name": "论文"
+      },
+      {
+        "name": "博士",
+        "type": "topic",
+        "id": "5be9267650fe5600012a22f6"
+      },
+      {
+        "id": "5be635a9d111a50001a4436e",
+        "name": "科研",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1780714721000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "这真的是 CVPR 论文的主图吗？？？",
+    "desc": "今天看到一篇 CVPR 论文的主图，真的有点绷不住了。\n论文是 Think, Then Verify: A Hypothesis–Verification Multi-Agent Framework for Long Video Understanding。作者单位里有 浙江工业大学、UC Berkeley、华东师范大学。\n\t\n这个主图的排版质量，真的越看越难受。字符间距完全不一样，就算是刚入门的本科生也画不出这样的图吧，审稿人这都发现不了？还是说大模型审稿发现不了这种图片质量问题？[doge]\n\t\n更新: 没想到一个吐槽引发这么激烈的讨论。有一些拙见：\n1. 论文本身就是公开实名的，我只是指出其中的一个问题。\n2. 我没有评判论文内容不好，也没有评判框架图的画风不行，审美问题因人而异。\n3. 不管框架图画的简单还是复杂都是OK的，但是最基本的字符排版是应该做好的。\n4. 那些觉得我吹毛求疵的，可能你们真的觉得\n\"A ge nt\"，\"V id eo\"，\"C lu e\"这样的写法没问题吧，但愿你们之后投顶会用的都是这样的图，祝你们好运[赞R]\n\t\n#cvpr[话题]# #论文[话题]# #博士[话题]# #科研[话题]#",
+    "user": {
+      "userId": "67b765fb000000000e01c9b4",
+      "nickname": "Dust",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4pf83f0u6g5ptncntjjidkti7ldj0",
+      "xsecToken": "ABbhG5x6-d_bAcIDjzCbuI7Q8XNULZbf73MapABJ55Kyg="
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg",
+        "height": 2699,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/d38203c853d88a674121ce9236fe975d/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "width": 2809,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/d38203c853d88a674121ce9236fe975d/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/88f0db49f5177411af450971de52c583/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/88f0db49f5177411af450971de52c583/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0",
+        "url": "",
+        "height": 932,
+        "width": 2096,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/ec11d8faa25cb2c687c090b0fa161430/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/f47bf3dcb6857fa6cfaf5bd99d5703ef/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/ec11d8faa25cb2c687c090b0fa161430/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/f47bf3dcb6857fa6cfaf5bd99d5703ef/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98",
+        "height": 450,
+        "width": 486,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/28e2cf6b87a5d6b2e737463f9710c871/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nd_prv_wgth_jpg_3",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/28e2cf6b87a5d6b2e737463f9710c871/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/b873a3fbd5ec2e258f19ae4be5c82ddd/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/b873a3fbd5ec2e258f19ae4be5c82ddd/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nd_dft_wgth_jpg_3"
+      },
+      {
+        "fileId": "notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0",
+        "width": 1462,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/485710f11d8cad4d0979485248071e9b/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nd_dft_wgth_jpg_3",
+        "height": 470,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/b9aebee0c462c758c99178331bce6d0b/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/485710f11d8cad4d0979485248071e9b/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/b9aebee0c462c758c99178331bce6d0b/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg",
+        "height": 794,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/96ed7d5bbf480c4437226cbac5d80537/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192027/f835975c7ebb91f83747d89dd2958d08/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/96ed7d5bbf480c4437226cbac5d80537/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nd_prv_wgth_jpg_3",
+        "width": 1142,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/f835975c7ebb91f83747d89dd2958d08/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "xsecToken": "ABFuyDb1d_bIMJjhz2lL-7yq5Mk3IVxD0ZtLzcfsnuq04="
+  },
+  "comments": [
+    {
+      "status": 4,
+      "atUsers": [],
+      "likeCount": "114",
+      "userInfo": {
+        "nickname": "多加一碗米饭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322b1ghj16u0g5oqpcuj6588elfa985g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwOcyhfB3OY8yFBLPYx67DM3TYS3C6EKNH0Ncxu-0Wrw=",
+        "userId": "635967a6000000001802a10e"
+      },
+      "subCommentHasMore": true,
+      "showTags": [
+        "user_top"
+      ],
+      "ipLocation": "广东",
+      "content": "主要是这个奇怪的间距[满月R]",
+      "liked": false,
+      "subCommentCursor": "6a23b83a000000002900e470",
+      "createTime": 1780724312000,
+      "subCommentCount": "6",
+      "subComments": [
+        {
+          "likeCount": "67",
+          "userInfo": {
+            "userId": "5f12cc0d0000000001000512",
+            "nickname": "青春",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313im33bf00605noipg6g818i0ekhd4g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3ABKE5Rj9cF44eA1tpi03bwQ1YVG0tjduyyaifZe5wI="
+          },
+          "invalid": false,
+          "noteId": "6a238ce10000000006030b63",
+          "content": "转svg是会变成这样的",
+          "liked": false,
+          "showTags": [],
+          "createTime": 1780725818000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a23b2570000000028008993",
+            "userInfo": {
+              "userId": "635967a6000000001802a10e",
+              "nickname": "多加一碗米饭",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322b1ghj16u0g5oqpcuj6588elfa985g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABwOcyhfB3OY8yFBLPYx67DM3TYS3C6EKNH0Ncxu-0Wrw="
+            }
+          },
+          "pictures": [],
+          "id": "6a23b83a000000002900e470",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192027/3da8ae8b272aa9481bc9c6ca21c43d5f/comment/1040g2h03212hofl0n2005oqpcuj6588e18d6ui8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192027/a708dd1f7c8eb7524ab7e90b014dd673/comment/1040g2h03212hofl0n2005oqpcuj6588e18d6ui8!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 993,
+          "width": 962,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192027/3da8ae8b272aa9481bc9c6ca21c43d5f/comment/1040g2h03212hofl0n2005oqpcuj6588e18d6ui8!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192027/a708dd1f7c8eb7524ab7e90b014dd673/comment/1040g2h03212hofl0n2005oqpcuj6588e18d6ui8!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "invalid": false,
+      "id": "6a23b2570000000028008993",
+      "noteId": "6a238ce10000000006030b63",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a238ce10000000006030b63",
+      "content": "以后发顶会必须得带个美术生了[doge]",
+      "likeCount": "46",
+      "userInfo": {
+        "xsecToken": "ABF7xDIqgJr8afw77gZd3aWaS0qYRd0yp7mmxzHoa7Vhc=",
+        "userId": "657adb4d00000000200326b0",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "4",
+      "invalid": false,
+      "id": "6a23a65b0000000028030f62",
+      "createTime": 1780721243000,
+      "ipLocation": "广东",
+      "pictures": [],
+      "subComments": [
+        {
+          "ipLocation": "广东",
+          "pictures": [],
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABanUIyPQr9QMeATFBurh6dLnLMEEjbwsMLVRv9DK7gWo=",
+            "userId": "67b765fb000000000e01c9b4",
+            "nickname": "Dust",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4pf83f0u6g5ptncntjjidkti7ldj0?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1780722727000,
+          "targetComment": {
+            "id": "6a23a65b0000000028030f62",
+            "userInfo": {
+              "userId": "657adb4d00000000200326b0",
+              "nickname": "用户已注销",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b6b2504c28aa15eab1dac.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABF7xDIqgJr8afw77gZd3aWaS0qYRd0yp7mmxzHoa7Vhc="
+            }
+          },
+          "id": "6a23ac27000000002902c955",
+          "noteId": "6a238ce10000000006030b63",
+          "content": "非美术生也不会有这种错误",
+          "likeCount": "20",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "atUsers": [],
+      "liked": false,
+      "status": 0,
+      "subCommentCursor": "6a23ac27000000002902c955",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1780740424000,
+      "invalid": false,
+      "noteId": "6a238ce10000000006030b63",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABTk1iNro6Gz2x5Cn9IqG9JG8WWJKO80FDirEx8uXWXjo=",
+        "userId": "658f7f88000000001f03964c",
+        "nickname": "用户已注销",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7c0d1d74d41345e61461.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCount": "0",
+      "subComments": [],
+      "content": "哈哈哈哈。",
+      "liked": false,
+      "showTags": [],
+      "id": "6a23f147000000002a025ec4",
+      "likeCount": "1",
+      "ipLocation": "江苏",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": true,
+      "content": "虽然有点难绷。但是我感觉不影响文章质量[失望R]这种东西能看懂就行。而且就会议文我感觉没必要太较真文章打磨。",
+      "atUsers": [],
+      "likeCount": "220",
+      "showTags": [],
+      "createTime": 1780717152000,
+      "ipLocation": "浙江",
+      "subCommentCount": "16",
+      "subComments": [
+        {
+          "likeCount": "86",
+          "userInfo": {
+            "userId": "67b765fb000000000e01c9b4",
+            "nickname": "Dust",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4pf83f0u6g5ptncntjjidkti7ldj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABanUIyPQr9QMeATFBurh6dLnLMEEjbwsMLVRv9DK7gWo="
+          },
+          "createTime": 1780717775000,
+          "ipLocation": "广东",
+          "noteId": "6a238ce10000000006030b63",
+          "content": "我觉得是挺影响质量的，对于会议论文，也是需要精心打磨的，nips，icml，iclr随便写写就能发了？",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a23965f000000002701c13b",
+            "userInfo": {
+              "userId": "658be51c0000000022009d93",
+              "nickname": "听雨",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v1fqv9i1m005pcbske8h7cjrn6lcg0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZvSolAn4alTe9jS2ER7qWJQDc7IvLUNEqtQZ3sIJk18="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6a2398ce000000002a02e937",
+          "status": 0,
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "liked": false,
+      "subCommentCursor": "6a2398ce000000002a02e937",
+      "id": "6a23965f000000002701c13b",
+      "noteId": "6a238ce10000000006030b63",
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABZvSolAn4alTe9jS2ER7qWJQDc7IvLUNEqtQZ3sIJk18=",
+        "userId": "658be51c0000000022009d93",
+        "nickname": "听雨",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v1fqv9i1m005pcbske8h7cjrn6lcg0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1782645606000,
+      "invalid": false,
+      "noteId": "6a238ce10000000006030b63",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "6a411ba9000000000802e296",
+      "id": "6a410366000000002b02ac44",
+      "content": "我猜chatgpt生成的",
+      "userInfo": {
+        "userId": "68a41b0d00000000190233b7",
+        "nickname": "Ivy端端",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uauifp82i6g5q543c6mcctnddo8c1g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIrD3MAOMr1-_shxvV4FdNWGpI54Akb6CLskhl1bfIN4="
+      },
+      "subCommentCount": "4",
+      "pictures": [],
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a411ba9000000000802e296",
+          "content": "不一定存png图就会这样有不均匀的空格很难受",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABE4PCH5JM87f0ccVBTWGcjoHx3pEDPeQz9R6JWHFEAXQ=",
+            "userId": "5fd5b6be000000000101f729",
+            "nickname": "球文",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ug55f2v2o6g5nulmqv0btp9vsv0f4g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "userInfo": {
+              "userId": "68a41b0d00000000190233b7",
+              "nickname": "Ivy端端",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uauifp82i6g5q543c6mcctnddo8c1g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIrD3MAOMr1-_shxvV4FdNWGpI54Akb6CLskhl1bfIN4="
+            },
+            "id": "6a410366000000002b02ac44"
+          },
+          "noteId": "6a238ce10000000006030b63",
+          "status": 0,
+          "likeCount": "2",
+          "showTags": [],
+          "createTime": 1782651817000,
+          "ipLocation": "湖北",
+          "pictures": []
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a23a42d000000002a0252a0",
+      "content": "我感觉表达清楚意思就行了，他这个字符间距确实问题，如果它改好了字符间距你认为他是否是一张好图片，审稿本来就不该被太多美观程度所左右，不然全去打磨图片了，哪有更多时间研究内容",
+      "likeCount": "141",
+      "subComments": [
+        {
+          "content": "点了，图片啥的都是次要的，能看懂就行，重要的是内容，搞面子工程没啥意义",
+          "liked": false,
+          "showTags": [],
+          "ipLocation": "四川",
+          "pictures": [],
+          "id": "6a23aa100000000028033dd2",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "101",
+          "userInfo": {
+            "userId": "6720a90c000000001d02d15d",
+            "nickname": "宁芙奖请投小女孩",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vtj0eg32g405pp0l467dkat4u8p6gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQY-x5K3WVAoYqThPfCl4gAbu_bJxTKsV76JKnrIUtNk="
+          },
+          "createTime": 1780722192000,
+          "targetComment": {
+            "id": "6a23a42d000000002a0252a0",
+            "userInfo": {
+              "userId": "6024c53d000000000101d90d",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fjs0e2o046g5o14okugbm8d9jas7mg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABCeVLI4pGJVzuwSPhaNf0fNAQLUZuX9Bm0-PpMrLSIbA="
+            }
+          },
+          "invalid": false,
+          "noteId": "6a238ce10000000006030b63"
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1780720685000,
+      "subCommentCursor": "6a23aa100000000028033dd2",
+      "liked": false,
+      "ipLocation": "江苏",
+      "subCommentCount": "11",
+      "pictures": [],
+      "noteId": "6a238ce10000000006030b63",
+      "userInfo": {
+        "userId": "6024c53d000000000101d90d",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fjs0e2o046g5o14okugbm8d9jas7mg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCeVLI4pGJVzuwSPhaNf0fNAQLUZuX9Bm0-PpMrLSIbA="
+      },
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a23933c000000002b002bce",
+      "subCommentCursor": "6a2395830000000028036873",
+      "pictures": [],
+      "content": "字间距不一样，可能是visio画的图",
+      "likeCount": "35",
+      "userInfo": {
+        "xsecToken": "ABkx2Y9UAqySOWo7bCFmOXB6_ngNLCQQOJ1IUYFkk9io4=",
+        "userId": "5da3ebd70000000001005ba5",
+        "nickname": "雪顶咖啡",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3125jsnjd4o5g5nd3tfbg8mt53eobgco?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1780716349000,
+      "subCommentHasMore": true,
+      "noteId": "6a238ce10000000006030b63",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "陕西",
+      "subCommentCount": "12",
+      "invalid": false,
+      "liked": false,
+      "subComments": [
+        {
+          "id": "6a2395830000000028036873",
+          "noteId": "6a238ce10000000006030b63",
+          "content": "如果是ppt画的，会有这个情况吗",
+          "showTags": [],
+          "createTime": 1780716931000,
+          "ipLocation": "吉林",
+          "targetComment": {
+            "id": "6a23933c000000002b002bce",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABkx2Y9UAqySOWo7bCFmOXB6_ngNLCQQOJ1IUYFkk9io4=",
+              "userId": "5da3ebd70000000001005ba5",
+              "nickname": "雪顶咖啡",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3125jsnjd4o5g5nd3tfbg8mt53eobgco?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": [],
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "6",
+          "userInfo": {
+            "xsecToken": "ABxZW-L1_v6Yc4ESOLqDJ5DM3eYTup8Y41e239WDI4ric=",
+            "userId": "64ba5fd3000000001403e73a",
+            "nickname": "informal",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320n8m1d35mdg5p5qbv9l7ppqcnf6990?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a261278000000002900c686",
+      "noteId": "6a238ce10000000006030b63",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "60cb6db1000000000101d227",
+        "nickname": "PHOTOGRAPHERXin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3181mke01k4005o6bdmogbkh7oc7bnn8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZ84meNgTmQlkqHv8A27T0tmc5M8G7xdN8Ne2QEFuXd8="
+      },
+      "createTime": 1780879992000,
+      "ipLocation": "四川",
+      "subComments": [
+        {
+          "pictures": [],
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6a261278000000002900c686",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABZ84meNgTmQlkqHv8A27T0tmc5M8G7xdN8Ne2QEFuXd8=",
+              "userId": "60cb6db1000000000101d227",
+              "nickname": "PHOTOGRAPHERXin",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3181mke01k4005o6bdmogbkh7oc7bnn8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6a26a6190000000027029e81",
+          "noteId": "6a238ce10000000006030b63",
+          "content": "好家伙，这都能刷到评论[doge]，头像还是太显眼了",
+          "userInfo": {
+            "userId": "5ccdb262000000001701376c",
+            "nickname": "凌晨九点",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mu8itc14s605n6dm9h5qdrc5f3i83g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABQtaiiHXc3-GfQGpdG6nLDhV9slWEmdh4u4msguhrHZc="
+          },
+          "showTags": [],
+          "createTime": 1780917785000,
+          "ipLocation": "新疆"
+        }
+      ],
+      "liked": false,
+      "pictures": [],
+      "invalid": false,
+      "status": 0,
+      "content": "评论区态度依旧取决于前三条评论，大脑直接跟着走就对了",
+      "likeCount": "16",
+      "showTags": [],
+      "subCommentCount": "2",
+      "subCommentCursor": "6a26a6190000000027029e81",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subComments": [
+        {
+          "noteId": "6a238ce10000000006030b63",
+          "status": 0,
+          "likeCount": "68",
+          "showTags": [],
+          "createTime": 1780715890000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "6a238f42000000002803da95",
+            "userInfo": {
+              "userId": "641d60ec0000000011023cd8",
+              "nickname": "欢乐马",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABMjb6Do1CCfe2HACn7xRtZZko3w1u2XwU1HTSybhZ8Qw="
+            }
+          },
+          "invalid": false,
+          "id": "6a239171000000002901bda0",
+          "content": "ai画的没这么差[doge]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABfmefQYM3Hmpq-7Hy4z608gan8qZZIieUChcGt6SPWBA=",
+            "userId": "65562935000000000802d3c1",
+            "nickname": "mini卡拉米",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31s4ajp4alm505pam54qi5ku1qbqhai8?imageView2/2/w/120/format/jpg"
+          },
+          "pictures": []
+        }
+      ],
+      "invalid": false,
+      "id": "6a238f42000000002803da95",
+      "userInfo": {
+        "userId": "641d60ec0000000011023cd8",
+        "nickname": "欢乐马",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMjb6Do1CCfe2HACn7xRtZZko3w1u2XwU1HTSybhZ8Qw="
+      },
+      "noteId": "6a238ce10000000006030b63",
+      "createTime": 1780715331000,
+      "ipLocation": "上海",
+      "pictures": [],
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "3",
+      "subCommentCursor": "6a239171000000002901bda0",
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "Ai生成的图？",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "ipLocation": "云南",
+      "status": 0,
+      "likeCount": "19",
+      "userInfo": {
+        "xsecToken": "ABHEjR0GkLtAyTXklMxeR5Q8Alf-ki7fxTachkKaevWM8=",
+        "userId": "60c6b17e0000000001007204",
+        "nickname": "ongoing",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ikehsdans005o66m5v08sg4o8l2bbg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "content": "我感觉画的挺好的呀[赞R][赞R]",
+      "subCommentCount": "9",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "67b765fb000000000e01c9b4",
+            "nickname": "Dust",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4pf83f0u6g5ptncntjjidkti7ldj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABanUIyPQr9QMeATFBurh6dLnLMEEjbwsMLVRv9DK7gWo="
+          },
+          "createTime": 1780718808000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a239aa300000000270206e4",
+            "userInfo": {
+              "userId": "60c6b17e0000000001007204",
+              "nickname": "ongoing",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ikehsdans005o66m5v08sg4o8l2bbg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABHEjR0GkLtAyTXklMxeR5Q8Alf-ki7fxTachkKaevWM8="
+            }
+          },
+          "noteId": "6a238ce10000000006030b63",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "pictures": [],
+          "invalid": false,
+          "id": "6a239cd8000000002b024b57",
+          "status": 0,
+          "content": "挺好的[棒R]",
+          "likeCount": "0"
+        }
+      ],
+      "id": "6a239aa300000000270206e4",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1780718244000,
+      "pictures": [],
+      "noteId": "6a238ce10000000006030b63",
+      "subCommentCursor": "6a239cd8000000002b024b57",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6187 视觉语言",
+  "search_item": {
+    "id": "6a238ce10000000006030b63",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "这真的是 CVPR 论文的主图吗？？？",
+      "user": {
+        "xsecToken": "ABk4kx9CUQI0iypeKEqb8Zalt-RzQN5AVuQwVTH6lYvS8=",
+        "nickName": "Dust",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4pf83f0u6g5ptncntjjidkti7ldj0?imageView2/2/w/80/format/jpg",
+        "userId": "67b765fb000000000e01c9b4",
+        "nickname": "Dust"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "554",
+        "collected": false,
+        "collectedCount": "186",
+        "commentCount": "230",
+        "sharedCount": "216"
+      },
+      "cover": {
+        "height": 2699,
+        "width": 2809,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192026/f431f94ec2fa9a252c6b3e2809b911d9/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192026/9d5bfe293ceaf90516548040f49fac58/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 2699,
+          "width": 2809,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/f431f94ec2fa9a252c6b3e2809b911d9/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/9d5bfe293ceaf90516548040f49fac58/notes_pre_post/1040g3k03212d2qr17u005ptncntjjidkcr3c3rg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 932,
+          "width": 2096,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/60a94dd3929cd81d334b33715d223690/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/9be87f1709003800a84d46c417be88ae/notes_pre_post/1040g3k03212d2r63no005ptncntjjidkr54kbk0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "height": 450,
+          "width": 486,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/6092d32b17bae7882eba20266737c5de/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/1e744ebae7b5be730ffebad09a906a7a/notes_pre_post/1040g3k03212cql4p7k4g5ptncntjjidk6k0na98!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 470,
+          "width": 1462,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/df7d9af2e88982640ac30d91b9be31de/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/9c16718b4585d7e0cbaa9beefb09ce52/notes_pre_post/1040g3k03212cql4p7k505ptncntjjidkf56lkc0!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 794,
+          "width": 1142,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/d33618ec4957e72bee6ed3de5c5d26f3/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192026/f78cf41c8a191fd1a8c26d746bc2fb56/notes_pre_post/1040g3k03212cql4p7k3g5ptncntjjidklln53dg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-07"
+        }
+      ]
+    },
+    "xsecToken": "ABFuyDb1d_bIMJjhz2lL-7yq5Mk3IVxD0ZtLzcfsnuq04=",
+    "index": 13,
+    "exposed": false,
+    "trackId": "6a238ce10000000006030b63"
+  }
+}

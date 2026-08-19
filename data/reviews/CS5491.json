@@ -5,15 +5,15 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 8
+      "sourceCount": 10,
+      "distinctSources": 9
     },
     "difficulty": {
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 5,
-      "distinctSources": 3
+      "sourceCount": 6,
+      "distinctSources": 4
     },
     "hasRecording": {
       "value": "true",
@@ -37,10 +37,11 @@
       "distinctSources": 1
     },
     "grading": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     }
   },
   "tips": [
@@ -64,6 +65,15 @@
         "post_body"
       ],
       "postTitle": "Cityu Msc CS SemB课程评价（下）"
+    },
+    {
+      "noteId": "6a772a610000000028031cd2",
+      "url": "https://www.xiaohongshu.com/explore/6a772a610000000028031cd2?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOyKZG4YlqYjRFXJCSZ_GI0=",
+      "excerpt": "7.CS5491 Artificial Intelligence；这应该是SEMB为数不多比较轻松的课。课程难度不高，有几次作业，题型与考试一致。期中和final全部为开卷考试并且全部为应用计算题，无概念题，且题型相对固定。只要把作业搞懂，融会贯通，打印带进考场就不可能不过。有一个小型project，无需pre。整体而言这门课给分很高，事情也不多，推荐所有人选。唯一可惜的是由于某些原因期末难度有点高。；优点：考试开卷且全部为应用计算题，题型与作业相似；缺点：期末考试难度较高",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMB（中）（划水版）"
     },
     {
       "noteId": "682e95a7000000002301c25e",
@@ -109,15 +119,6 @@
         "post_body"
       ],
       "postTitle": "Cityu cs semB 课程测评"
-    },
-    {
-      "noteId": "6a016b410000000035021175",
-      "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
-      "excerpt": "5. CS5491 - Artificial Intelligence；授课风格：老师传闻比较严格，但实际接触下来感觉尚可；考试：非常简单且开卷。重点复习 Tutorial，基本都是原题或原题改编（发生过原题举报风波，估计你们享受不了这个福利了）；项目：支持自选题。如果你之前有 AI 相关项目经验，直接拿旧项目修改提交即可，性价比极高 。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU MSc Computer Science 课程经验总结"
     }
   ],
   "commentSources": [
@@ -174,5 +175,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

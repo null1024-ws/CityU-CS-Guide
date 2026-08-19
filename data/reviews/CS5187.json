@@ -5,15 +5,22 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 7,
-      "distinctSources": 4
+      "sourceCount": 8,
+      "distinctSources": 5
     },
     "examFormat": {
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 4,
-      "distinctSources": 4
+      "sourceCount": 6,
+      "distinctSources": 6
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
     },
     "hasRecording": {
       "value": "false",
@@ -29,13 +36,6 @@
       "sourceCount": 1,
       "distinctSources": 1
     },
-    "grading": {
-      "value": "generous",
-      "label": "给分友好",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
     "workload": {
       "value": "light",
       "label": "轻松",
@@ -45,8 +45,10 @@
     }
   },
   "tips": [
+    "2. CS5187 Vision & Image(推荐每个人选）",
     "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）",
-    "CS5187 vision and image 必选"
+    "CS5187 vision and image 必选",
+    "CS5187（Vision and Image）：传统CV，但老师很棒，值得去听"
   ],
   "sources": [
     {
@@ -59,6 +61,24 @@
       "postTitle": "CityU CS 选课血泪史2⃣"
     },
     {
+      "noteId": "683460c10000000022025f97",
+      "url": "https://www.xiaohongshu.com/explore/683460c10000000022025f97?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjaLX8iWuf2UQ5fUSOSM2jlc=",
+      "excerpt": "2. CS5187 Vision & Image(推荐每个人选）；Lecturer: Dapeng WU；上课体验；老师的咖位极大，上课比较风趣，课中会明示哪些内容期末必考，而且说到考到。Tutorial是TA来讲，但内容与期末考试无关。无网课（因为老师搞不明白zoom)；项目体验；只有一个个人项目，给出非常多选题，即使是很简单的选题也会拿到不错分数。无需pre只需录制讲解视频；作业体验；对没接触过计算机视觉的人来说难度大，不过尽量做下来给分会非常友好；考试体验；所有课程（包括SemB)中最轻松简单的考试，简单到超乎想象，而且还是完全开卷。计算题的难度就像是把你当小学生哄。我SemA的最后一科考试，考完试神清气爽去深圳吃了三碗炒饭宵夜。；总体而言，SemA的每个课程都体感舒适，压力主要在SE的项目上。但如果对自己要求放低些，SemA大概率会比接下来的SemB快乐很多。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemA课程评价（下）"
+    },
+    {
+      "noteId": "6a68c369000000000401d020",
+      "url": "https://www.xiaohongshu.com/explore/6a68c369000000000401d020?xsec_token=ABuawtdgCfNg0LPb3huopF90LeInTU-kPgHb3VzJ-em_o=",
+      "excerpt": "CS5187（Vision and Image）：传统CV，但老师很棒，值得去听。；当然其他课也不是不好，比如想搞学术或者想做算法工程师，去上数学课CS6491也会大有收获，自动驾驶方向主包没上就不评价了。；Stream目前看没什么实质作用，选课反正都是自由的，不去follow没惩罚也没好处，不用太纠结。；最后建议大家善用Guided Study和Project。不管你是学术向还是揾工向，找个对应的mentor沟通，压力会比纯上课小不少。不过名额比较少，抢不到也无所谓，多上点课就当投资，以后总有回报的。；（8.6更新一下：学院出了新规，project需要gpa3.3以上才可以无条件选，3.0-3.3需要学院额外审批，看来是越来越难水了，果然是旗舰项目）；（8.10再更新一下：internship课需要先审批后入职才算数）",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "大龄学长聊对MSc AI的整体感受和选课建议"
+    },
+    {
       "noteId": "68980dce000000002501bcd8",
       "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
       "excerpt": "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）；除此之外，project statement 上了两节课就会发出来，可以从很早开始做（不像有些课期末前一个月才放出来）；考试只复习课件就完全够用，题目所涉及的线性代数基本就是矩阵乘法这种程度；很难挑出缺点的一门课，不知道为什么 SemesterB 选的人比较少，跟 HOU 老师聊过几次，感觉他有点小失望哈哈哈；Anyway，选起来吧，xdm",
@@ -66,6 +86,15 @@
         "post_body"
       ],
       "postTitle": "CityU CS 选课血泪史4⃣"
+    },
+    {
+      "noteId": "6a7729bb0000000005020799",
+      "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
+      "excerpt": "4. CS5187 Vision and Image；全体起立，无需多言。讲课的吴老师是个大佬，风趣幽默，简单易懂。课程难度不高且内容有趣。有两次作业和一个单人project，都不算太难且无需pre。考试完全开卷，难度不高，想挂都难。总之无脑选就行了。；优点：几乎全是；缺点：硬要说的话第一次作业对电脑性能要求有点高；下篇开始讲重量级的SEMB。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMA（划水版）"
     },
     {
       "noteId": "677ca41c000000001703a42a",
@@ -93,35 +122,8 @@
         "post_body"
       ],
       "postTitle": "cityu cs semA选课攻略（期末速成版）"
-    },
-    {
-      "noteId": "68c2dbe2000000001d00a87b",
-      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
-      "excerpt": "CS5187 CV：平时实验和Project打分很好，期末Image Alignment和相机参数是重点，开小灶 -> 油管搜索First Principles of Computer Vision内容基本涵盖了。；ST 1门",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
-    },
-    {
-      "noteId": "6a0c17bd000000000702ea2c",
-      "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
-      "excerpt": "CS5187 Vision and Image；好课推荐，平时没怎么去上过课，期末考试主要是不定项选择和计算题。主要看看PPT里的题目和tutorial就OK。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu CS课程评价(一)"
-    },
-    {
-      "noteId": "693da5fb000000001e023bc0",
-      "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
-      "excerpt": "cs5187 视觉与图像。2次个人作业，1个期末个人项目，作业听说交了就有90+ 。无考勤无回放，期末开卷，时间很充裕多打印点资料可以现场学习（",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu ec选课分享（更新中"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

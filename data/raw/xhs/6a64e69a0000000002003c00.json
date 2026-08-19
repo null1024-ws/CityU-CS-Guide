@@ -1,0 +1,292 @@
+{
+  "note_id": "6a64e69a0000000002003c00",
+  "url": "https://www.xiaohongshu.com/explore/6a64e69a0000000002003c00?xsec_token=ABoOhX14bpkmdMjapUAYDaQtdDM59ba59wn-vcN-feN6w=",
+  "fetched_at": 1787140582.3597245,
+  "note": {
+    "xsecToken": "ABoOhX14bpkmdMjapUAYDaQtdDM59ba59wn-vcN-feN6w=",
+    "user": {
+      "userId": "61851fac0000000010008256",
+      "nickname": "张二狗 Chambers",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo",
+      "xsecToken": "AByME0bRYTzr7cpXu1YlR_KpMN74_Lfr-ev8pgJMtbWD8="
+    },
+    "tagList": [
+      {
+        "id": "5c15f370000000000303c7bd",
+        "name": "usyd",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "name": "math",
+        "type": "topic",
+        "id": "5f43678b000000000100bf82"
+      },
+      {
+        "id": "624083b6000000000101da56",
+        "name": "comp2017",
+        "type": "topic"
+      },
+      {
+        "id": "64ec4c0b000000001403ad24",
+        "name": "comp2123",
+        "type": "topic"
+      },
+      {
+        "name": "math2021",
+        "type": "topic",
+        "id": "623c033b000000000101f8af"
+      },
+      {
+        "id": "645a6151000000001a0061fc",
+        "name": "math2022",
+        "type": "topic"
+      }
+    ],
+    "ipLocation": "广东",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a64e69a0000000002003c00",
+    "type": "normal",
+    "desc": "首先不建议大家像我这样选课，这四门课一起学蛮累的，而且没办法给每一门课都投入应有的精力。\n这学期课明显比大一更难，但是可能是因为终于开始考虑硕士申请，这学期多花了些精力，得分竟然比大一上还好一点。\n\t\nCOMP2017\n很难评价的课，著名的 usyd计算机高山，对掏之王。计算机挂科的主要缔造者，传说中堵了两届毕业的神课。\n不过可能我们这一届改革了一些，感觉有捞不少。\n当然，难还是非常难。当时出分的时候我是 J2，一直到 7 月底才出成绩，等待过程非常折磨，最后出分的时候真的是喜极而泣。\n个人感觉，如果目标是申美硕的话，可以考虑最后学，免得影响均分绩点。\n考完期末感觉自己完全没学懂，甚至一直担心 double pass 会不会挂。\n建议至少提前半个月开始复习。\ncheatsheet 不用写知识点，毕竟你会拿到的是 28 页的全解答题，概念作用不大。\n多写一些算法的实现代码和框架，考试的时候直接搭积木。另外不用太担心，过程分其实挺高的。\n感谢 henry 老师@三文鱼小王 的 cheatsheet。也要感谢陪伴我一起等待j2撤销的课友们🙏\n\t\nCOMP2123\n好课，真是好课。\n我觉得这门课最大的价值是开拓思维。考试难度其实不高，因为是用 plain english 描述算法。只要理解了大概算法的思维，就可以开始瞎掰了。\n建议做 cheatsheet的时候多写细碎知识点，各种算法的实现思路，适用场景，时间和空间复杂度。考试的时候有这些真的很有信心\n\t\nMATH2021\n中规中矩的微分课，遇到了特别好的 tutor！\n本人有很强的惰性，能不上的课都懒得去上，lec 从来不听，tutorial 只去够最低次数。感谢这个 tutor 让我想去上课。\n做题，做题，再做题，这门课一定要多做题。\ntutorial 的题要过一遍，prac也尽量都写一下。千万别 ai 看一遍就以为自己会了，其实过一会儿就忘了。看不懂做不明白可以问 ai，但是多让 ai 给你出类似的题练思维和手感。\n我期末考就明显感觉自己计算很慢，最后题没做完。（其实1061 之后就发现自己懒得做题会导致期末做不完题，但是不长教训）\n\t\nMATH2022\n很不错的课。刚开始学群环域的时候有点绕，但是就浅浅讲一些，又回去讲线代了。\n抽代主要就是证明的条件和套路，期中期末前抱一下佛脚就 ok。\n我两次 quiz 都考的很烂，但是期末竟然特别简单。\n这个臭 eason @一盏明灯，学习一生 天天骗我说完全没学，结果期末只扣 3 分。\n#usyd[话题]# #选课[话题]# #cs[话题]# #math[话题]# #comp2017[话题]# #comp2123[话题]# #math2021[话题]# #math2022[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "3",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "7",
+      "commentCount": "9",
+      "shareCount": "",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "width": 1082,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191956/9ea90021024d1266f2c7d4fed1a4dd8c/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191956/9ea90021024d1266f2c7d4fed1a4dd8c/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191956/70e8e8b53540b81d8937dafbd045416f/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191956/70e8e8b53540b81d8937dafbd045416f/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8",
+        "height": 282
+      }
+    ],
+    "atUserList": [
+      {
+        "userId": "669fb9a7000000002401ea95",
+        "nickname": "三文鱼小王",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABPc8pL52dGmbzQduRFuVB_Ajc4oDI0GQ0qvmjM6raUe0="
+      },
+      {
+        "userId": "60ef9a6e000000000101d882",
+        "nickname": "一盏明灯，学习一生",
+        "redOfficialVerifyType": 0,
+        "xsecToken": "ABF0_C2HokBMf-J483pgCaAys0tYppQUR4_0zMPvj3mEg="
+      }
+    ],
+    "time": 1784997530000,
+    "lastUpdateTime": 1784997530000,
+    "title": "Usyd 26s1 选课测评|CS&Math"
+  },
+  "comments": [
+    {
+      "showTags": [],
+      "ipLocation": "北京",
+      "invalid": false,
+      "id": "6a6558ca000000000500bab2",
+      "status": 0,
+      "userInfo": {
+        "userId": "669fb9a7000000002401ea95",
+        "nickname": "三文鱼小王",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABodkHfPilv-UtCT4u5IP9nHgjYzHZFIJWwrNkoBqYrzs="
+      },
+      "subCommentCount": "5",
+      "subCommentCursor": "6a6586bc000000000d023001",
+      "subComments": [
+        {
+          "noteId": "6a64e69a0000000002003c00",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABPSyeY9lVR9Zc7V310Jk_l4cCY5DhZuX3Y-vbKjOvqao=",
+            "userId": "61851fac0000000010008256",
+            "nickname": "张二狗 Chambers",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a6558ca000000000500bab2",
+            "userInfo": {
+              "userId": "669fb9a7000000002401ea95",
+              "nickname": "三文鱼小王",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABodkHfPilv-UtCT4u5IP9nHgjYzHZFIJWwrNkoBqYrzs="
+            }
+          },
+          "invalid": false,
+          "id": "6a6586bc000000000d023001",
+          "status": 0,
+          "content": "回去就请你吃😋",
+          "createTime": 1785038525000,
+          "ipLocation": "广东"
+        }
+      ],
+      "noteId": "6a64e69a0000000002003c00",
+      "createTime": 1785026763000,
+      "subCommentHasMore": true,
+      "content": "cheatsheet最终还是没有帮我自己拿到hd，但是现在有三个人一人欠我一顿饭[doge]",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6a64e8c8000000000d023c01",
+      "noteId": "6a64e69a0000000002003c00",
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABPSyeY9lVR9Zc7V310Jk_l4cCY5DhZuX3Y-vbKjOvqao=",
+        "userId": "61851fac0000000010008256",
+        "nickname": "张二狗 Chambers",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [
+        "is_author"
+      ],
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [
+        {
+          "id": "6a64e8c8000000000d023c01",
+          "status": 0,
+          "content": "comp2123 考试不认识 terminate 是终止遗憾离场，没拿到 hd 也认了[微笑R]",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABPSyeY9lVR9Zc7V310Jk_l4cCY5DhZuX3Y-vbKjOvqao=",
+            "userId": "61851fac0000000010008256",
+            "nickname": "张二狗 Chambers",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1784998089000,
+          "ipLocation": "广东",
+          "noteId": "6a64e69a0000000002003c00",
+          "atUsers": [],
+          "liked": false,
+          "targetComment": {
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPSyeY9lVR9Zc7V310Jk_l4cCY5DhZuX3Y-vbKjOvqao=",
+              "userId": "61851fac0000000010008256",
+              "nickname": "张二狗 Chambers"
+            },
+            "id": "6a64e871000000000d021c01"
+          },
+          "invalid": false
+        }
+      ],
+      "status": 0,
+      "createTime": 1784998002000,
+      "ipLocation": "广东",
+      "subCommentCount": "2",
+      "invalid": false,
+      "id": "6a64e871000000000d021c01",
+      "content": "comp2017 的 hd 是我也没想到的[哭惹R]",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5367 怎么样",
+  "search_item": {
+    "xsecToken": "ABoOhX14bpkmdMjapUAYDaQtdDM59ba59wn-vcN-feN6w=",
+    "id": "6a64e69a0000000002003c00",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "Usyd 26s1 选课测评|CS&Math",
+      "user": {
+        "userId": "61851fac0000000010008256",
+        "nickname": "张二狗 Chambers",
+        "xsecToken": "ABACRuep1o_oMCXXPlkDs-UBwW9OPXwL8DbBxykxulyXM=",
+        "nickName": "张二狗 Chambers",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322ogp8mn7c6g5oc53um410im0ghi8uo?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "7",
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "9",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "height": 282,
+        "width": 1082,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191955/bcf023ef46220c165c7b8b1737d2b2a3/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191955/033382819444135bd7aaa78ad801a42a/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 282,
+          "width": 1082,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191955/bcf023ef46220c165c7b8b1737d2b2a3/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191955/033382819444135bd7aaa78ad801a42a/oss-sg/notes_pre_post/1040g3mo323278n07no5g5oc53um410imajh12h8!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-26"
+        }
+      ]
+    },
+    "index": 6,
+    "exposed": true,
+    "trackId": "6a64e69a0000000002003c00"
+  }
+}

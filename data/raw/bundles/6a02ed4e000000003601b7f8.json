@@ -1,0 +1,122 @@
+{
+  "note_id": "6a02ed4e000000003601b7f8",
+  "url": "https://www.xiaohongshu.com/explore/6a02ed4e000000003601b7f8?xsec_token=ABidhikq-oiORNTfAFMbji8zTMXw0Lcx5w5gOE4JZAmrg=",
+  "fetched_at": 1787141093.9819355,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS码农的最佳归宿（bushi",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "不得不说，这些年，Quant已经成为越来越多码农心中最向往的T0级“圣地”。\n\t\n以前更多人的观点是，进入大型科技公司就意味着职业成功。但慢慢的发现：同样是编写代码，在亚马逊等大厂需要深夜修复bug，而在量化公司却能实现朝九晚五、薪资翻倍。\n\t\n💰 薪酬\n实际一点来看，刚毕业时的时候，大厂NG的包，大家都知道，15-18万刀已经算不错的了。但量化公司对应届SWE的开价很多时候可以到25-30万美元。同样是写代码，甚至同样存在on-call（量化公司较少需要），一年收入快相当于大厂两年。\n\t\n⏳WLB：大环境下滑，Tech行业也整体卷起来了，不少大厂都在明里暗里搞996。Quant Fund和Prop Trading Firms虽然也不轻松，但除了Citadel这种著名的“压力怪”，大部分其实不会把人往死里逼。比如Two Sigma，WLB，朝九晚五是真的香。 总之就是……不是大厂去不起，而是量化更有性价比\n\t\n😂 当然，北美科技公司里还有另一类极端——所谓的“养老厂”。稳定是真稳定，但代码十年不重构，每天改改配置就能下班。但对于想多搞钱的年轻人来说，待久了技术也是真的会生锈。\n\t\n但量化公司的SWE就不一样了。每天基本都是在核心系统上写代码——低延迟、分布式、FPGA、回测平台，全是要磨技术地方。既有一定的稳定性，又可以天天接触最前沿的东西，经验越积累越值钱。\n\t\n🚀 再换个角度看。大厂基本都上市很多年了，RSU涨不动，每年3%的涨幅就算良心了。而量化领域每年都有新的自营交易机构或量化基金冒出来。早期进去做SWE，一旦公司被收购或上市，财富跃升的概率比在大厂等升职高太多了。\n\t\n所以啊，CS专业的理想归宿可能真的不是FAANG，不是初创公司，也不是养老厂——而是去量化公司写代码。钱更多、技术更深、强度未必更大，还有机会赶上下一波财富浪潮🌊\n\t\n就像我带过的一个CMU学员，目标就很明确，刚找我做规划的时候就说自己想做Quant，最后也拿到了Jane Street的offer。\n\t\n总之，CS转quant缺的不是技术，而是信息差。如果你也有这方面的打算，可以带着bg来找我～\n\t\n#quant[话题]# #美国实习[话题]# #CMU[话题]# #CS[话题]# #美国求职[话题]# #quant实习[话题]# #留学生求职[话题]# #dbc[话题]#  #量化竞赛[话题]# #美国留学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "world quant和anthropic在一个tier就很迷.... [doge][doge][doge]",
+      "sourceRef": "comment:6a03976f000000000d021800",
+      "commentId": "6a03976f000000000d021800",
+      "likes": 15,
+      "author": "Tony Xu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "猎头榜单",
+      "sourceRef": "comment:6a03ce3f000000002a004d86",
+      "commentId": "6a03ce3f000000002a004d86",
+      "likes": 3,
+      "author": "马先生，我们什么时候能去火星"
+    },
+    {
+      "type": "comment",
+      "text": "不见tk 应该在地底下吧",
+      "sourceRef": "comment:6a03a834000000002701e3d9",
+      "commentId": "6a03a834000000002701e3d9",
+      "likes": 0,
+      "author": "OooOoo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Bytedance, A+",
+      "sourceRef": "comment:6a03da2d000000002701f8ba",
+      "commentId": "6a03da2d000000002701f8ba",
+      "likes": 1,
+      "author": "Zj"
+    },
+    {
+      "type": "comment",
+      "text": "沒看過比這個還爛的排名",
+      "sourceRef": "comment:6a03bc4f000000000d022001",
+      "commentId": "6a03bc4f000000000d022001",
+      "likes": 34,
+      "author": "Wayne"
+    },
+    {
+      "type": "comment",
+      "text": "那请问美硕毕业要怎么才能进 quant 呢[哭惹R]",
+      "sourceRef": "comment:6a041481000000002902fde4",
+      "commentId": "6a041481000000002902fde4",
+      "likes": 0,
+      "author": "落落雪雪"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我dm你哦～",
+      "sourceRef": "comment:6a053702000000002203f20b",
+      "commentId": "6a053702000000002203f20b",
+      "likes": 0,
+      "author": "DBC CMUinsider"
+    },
+    {
+      "type": "comment",
+      "text": "刚毕业去了pwc做consulting，完全avoid",
+      "sourceRef": "comment:6a041d1a0000000029010c9a",
+      "commentId": "6a041d1a0000000029010c9a",
+      "likes": 0,
+      "author": "shizue"
+    },
+    {
+      "type": "comment",
+      "text": "boeing为啥在最底下 sophomore来好奇一下",
+      "sourceRef": "comment:6a041820000000002a0321cf",
+      "commentId": "6a041820000000002a0321cf",
+      "likes": 0,
+      "author": "ezimet"
+    },
+    {
+      "type": "comment",
+      "text": "dream company是b和b-[笑哭R]",
+      "sourceRef": "comment:6a04aac8000000002b001b8c",
+      "commentId": "6a04aac8000000002b001b8c",
+      "likes": 0,
+      "author": "xxxxdll"
+    },
+    {
+      "type": "comment",
+      "text": "不如留的在此集合",
+      "sourceRef": "comment:6a03fc7a000000002900f8a5",
+      "commentId": "6a03fc7a000000002900f8a5",
+      "likes": 0,
+      "author": "小红薯"
+    },
+    {
+      "type": "comment",
+      "text": "为什么avoid applovin",
+      "sourceRef": "comment:6a03e5dd000000000d023c00",
+      "commentId": "6a03e5dd000000000d023c00",
+      "likes": 0,
+      "author": "Doge"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]",
+      "sourceRef": "comment:6a042c540000000029018129",
+      "commentId": "6a042c540000000029018129",
+      "likes": 0,
+      "author": "小红薯69C1D178"
+    }
+  ]
+}

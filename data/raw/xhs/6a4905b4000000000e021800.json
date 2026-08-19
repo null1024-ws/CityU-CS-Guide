@@ -1,0 +1,505 @@
+{
+  "note_id": "6a4905b4000000000e021800",
+  "url": "https://www.xiaohongshu.com/explore/6a4905b4000000000e021800?xsec_token=ABO-FeijT6d2mOpoTEw2oEApn2sF9LqEWVXmVwmiZHmwA=",
+  "fetched_at": 1787138021.0809815,
+  "note": {
+    "type": "normal",
+    "time": 1783170484000,
+    "lastUpdateTime": 1783170484000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "[导师本人] UMD CS新AP招生贴",
+    "desc": "大家好，我叫黄亚凡，即将于2026年秋季学期加入University of Maryland, College Park (UMD) 的CS学院成为一名assistant professor。我计划于2027年秋季学期招收2-3名PhD students。欢迎大家邮件联系~\n\t\n我刚刚从University of Iowa博士毕业，并长期在Argonne National Laboratory做科研访问。我主要做system研究，具体而言有如下细分方向: (1) AI and HPC Co-design, (2) Data Compression, (3) Fault Tolerance, (4) Parallel Computing, and (5) Compiler Optimization。用一句话概括我的科研的话，应该是 “Towards Data-efficient and Fault-tolerant Computing for HPC and AI”，从tech stack的角度上我的核心竞争力是CUDA和LLVM Compiler。作为一名PI，我也会在未来拓展在system领域更多有趣的方向。\n\t\n在过去，我的第一作者的文章曾经发表在SC (x6), ICS, ISSRE, CCGrid等会议上，我的文章曾经5次获得SC, ICS, LDAV等会议的最佳论文提名(or award)。我也曾获得2025 ACM-IEEE CS George Michael Memorial HPC Fellowship和2026 MLCommons ML and Systems Rising Star等荣誉。\n\t\nUMD坐落于马里兰州的College Park，校园环境优美、安全宜居，既有大学城的宁静氛围，又紧邻美国首都华盛顿D.C.，无论是学术交流、实习机会还是生活娱乐都非常便利。作为美国顶尖公立研究型大学之一，UMD在计算机科学领域实力雄厚，目前在CSRankings上位列全美第8。\n\t\n感兴趣的同学们可以以 [Prospective PhD Students] 开头并且联系我的UIowa邮箱，可以附带一下自己的CV和transcripts并简单介绍一下自己的research interests。话说我11月会去Chicago参加今年的SC，我们也可以在会上详聊。",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226hoj5976005peutea190vtrni5veo",
+      "xsecToken": "ABn2BNB9s9sxaksMZy1zwFlItBD6bsKcN5s7mw7gho7xg=",
+      "userId": "65deeb9400000000050083fd",
+      "nickname": "黄亚凡"
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "298",
+      "collected": false,
+      "collectedCount": "201",
+      "commentCount": "84",
+      "shareCount": "195",
+      "followed": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "height": 735,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191913/f2e254ca6bc4c85d80a275ef1859981a/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191913/34fddc2369d1a043dad26461a5b5498d/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0",
+        "width": 957,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191913/f2e254ca6bc4c85d80a275ef1859981a/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191913/34fddc2369d1a043dad26461a5b5498d/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [],
+    "atUserList": [],
+    "noteId": "6a4905b4000000000e021800",
+    "xsecToken": "ABO-FeijT6d2mOpoTEw2oEApn2sF9LqEWVXmVwmiZHmwA="
+  },
+  "comments": [
+    {
+      "ipLocation": "卡塔尔",
+      "id": "6a4920f6000000000d023000",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "SC Best Paper candidate也没落了，ICS Best Paper candidate也没落了，George Michael Committee也没落了，HPC也没落了，System也没落了，学术圈也没落了，咋办啊，来救救我们啊！",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "ABBvQxzyaCxZ91AGuq3GuMhWPd4rAwbaPzntu6JJYvrfo=",
+            "userId": "57286fa7aed75815f4f79cee",
+            "nickname": "和蔼中年男人",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3227eisaf7e0048bcujnqf77euflrlp8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "ipLocation": "美国",
+          "id": "6a497f180000000015017c90",
+          "noteId": "6a4905b4000000000e021800",
+          "liked": false,
+          "likeCount": "43",
+          "createTime": 1783201560000,
+          "targetComment": {
+            "id": "6a4920f6000000000d023000",
+            "userInfo": {
+              "userId": "64cda5b9000000000b00ac16",
+              "nickname": "小红薯64CDE930",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e78731e07eb8ca3d81b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABJvKwjrTR9D-Svkshn0RUfO-zJBi9d-KAdHDSbJhVQ8Y="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "UMD这是没落了？[捂脸R]",
+      "userInfo": {
+        "userId": "64cda5b9000000000b00ac16",
+        "nickname": "小红薯64CDE930",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e78731e07eb8ca3d81b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABJvKwjrTR9D-Svkshn0RUfO-zJBi9d-KAdHDSbJhVQ8Y="
+      },
+      "showTags": [],
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "atUsers": [],
+      "subCommentCount": "12",
+      "subCommentCursor": "6a497f180000000015017c90",
+      "liked": false,
+      "likeCount": "19",
+      "createTime": 1783177462000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "1",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABC0gpXrkiZJgyNXSMG6pbMKfnfmrKXzzQautuq4z8FPk=",
+        "userId": "62b2ad5b000000001b027856",
+        "nickname": "歪瑞古德",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314eci04c6i005olilldmsu2m1bc6qso?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "6a4917f100000000140394ae",
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "atUsers": [],
+      "createTime": 1783175145000,
+      "subComments": [
+        {
+          "targetComment": {
+            "userInfo": {
+              "userId": "62b2ad5b000000001b027856",
+              "nickname": "歪瑞古德",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314eci04c6i005olilldmsu2m1bc6qso?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABC0gpXrkiZJgyNXSMG6pbMKfnfmrKXzzQautuq4z8FPk="
+            },
+            "id": "6a4917e90000000015003458"
+          },
+          "invalid": false,
+          "id": "6a4917f100000000140394ae",
+          "noteId": "6a4905b4000000000e021800",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "62b2ad5b000000001b027856",
+            "nickname": "歪瑞古德",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314eci04c6i005olilldmsu2m1bc6qso?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABC0gpXrkiZJgyNXSMG6pbMKfnfmrKXzzQautuq4z8FPk="
+          },
+          "showTags": [],
+          "ipLocation": "湖北",
+          "status": 0,
+          "content": "老师看看我",
+          "createTime": 1783175153000
+        }
+      ],
+      "id": "6a4917e90000000015003458",
+      "showTags": [],
+      "subCommentHasMore": true,
+      "status": 0,
+      "ipLocation": "湖北",
+      "subCommentCount": "5",
+      "content": "我去 华科校友[笑哭R]",
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "爱荷华王力宏？[偷笑R]",
+      "liked": false,
+      "likeCount": "5",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "status": 0,
+      "userInfo": {
+        "userId": "63b0449d0000000026013180",
+        "nickname": "小红梳",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3171d87fh3u005otg8iepicc0i44iido?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABw39uZziGYp1wmAVUD3ONliccIWNsq9EaVzDKtmmaC54="
+      },
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "liked": false,
+          "createTime": 1783171988000,
+          "ipLocation": "德国",
+          "targetComment": {
+            "id": "6a490a02000000002b0258dd",
+            "userInfo": {
+              "userId": "63b0449d0000000026013180",
+              "nickname": "小红梳",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3171d87fh3u005otg8iepicc0i44iido?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABw39uZziGYp1wmAVUD3ONliccIWNsq9EaVzDKtmmaC54="
+            }
+          },
+          "invalid": false,
+          "id": "6a490b94000000000d022001",
+          "noteId": "6a4905b4000000000e021800",
+          "status": 0,
+          "content": "害，徒有虚名罢了[嘻嘻R]",
+          "atUsers": [],
+          "likeCount": "3",
+          "userInfo": {
+            "nickname": "黄亚凡",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226hoj5976005peutea190vtrni5veo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABVmaIrzHqZ1yUrwZ2IX47hNiLIufe-b1Nps707BOFDSQ=",
+            "userId": "65deeb9400000000050083fd"
+          }
+        }
+      ],
+      "subCommentCursor": "6a490b94000000000d022001",
+      "id": "6a490a02000000002b0258dd",
+      "atUsers": [],
+      "createTime": 1783171586000,
+      "ipLocation": "江苏",
+      "subCommentCount": "4",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "id": "6a749e900000000007014595",
+      "status": 0,
+      "userInfo": {
+        "userId": "55c6e187c2bdeb535c215ccf",
+        "nickname": "得闲饮茶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qr7htpgh4404121nsgoen6f7vd180g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABcjLXKX1qDubx7itFWfm82CkNFWXr9cvaBgbJTTCUTWY="
+      },
+      "subCommentCount": "0",
+      "content": "顶顶 大家快冲！",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1786027664000,
+      "ipLocation": "瑞士",
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323chuo99n6005pn0f2lnccp73rne3o0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6OukEg01FwU8LNu7fwb5NT1HaS0FCgFNYEgqmDl6CbA=",
+        "userId": "66e078ab000000001d023327",
+        "nickname": "야르"
+      },
+      "subCommentHasMore": false,
+      "id": "6a71a3ec000000000d023000",
+      "noteId": "6a4905b4000000000e021800",
+      "status": 0,
+      "content": "老师您好 请问招收远程实习吗？",
+      "showTags": [],
+      "ipLocation": "韩国",
+      "subCommentCount": "0",
+      "invalid": false,
+      "createTime": 1785832428000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "subCommentCount": "0",
+      "id": "6a501731000000000802f924",
+      "content": "支持支持[微笑R]",
+      "likeCount": "0",
+      "createTime": 1783633713000,
+      "liked": false,
+      "userInfo": {
+        "userId": "5f4cb13b000000000100b13c",
+        "nickname": "Gravity",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f4cb13b000000000100b13c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIzdYAAlgw1_WJn_zcpvwLa7IvmfqOB9hqO8oUZc2-I8="
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "subComments": [],
+      "noteId": "6a4905b4000000000e021800",
+      "status": 0,
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "createTime": 1784381799000,
+      "ipLocation": "北京",
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "content": "老师之后会投osdi,eurosys,mlsys这些吗",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABEvlI79P6zNxXnnYPpMqs0iGh6aGjpzEXFZhjlrPgjKA=",
+        "userId": "64902cec000000001c0292c4",
+        "nickname": "jackiland",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sditf4e5m605p4g5jm754m4vlel46o?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [],
+      "id": "6a5b8166000000001501342b",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "status": 0,
+      "ipLocation": "瑞士",
+      "noteId": "6a4905b4000000000e021800",
+      "content": "黄老师能力又强 人又nice 为啥还这么帅？",
+      "liked": false,
+      "userInfo": {
+        "nickname": "得闲饮茶",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qr7htpgh4404121nsgoen6f7vd180g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABcjLXKX1qDubx7itFWfm82CkNFWXr9cvaBgbJTTCUTWY=",
+        "userId": "55c6e187c2bdeb535c215ccf"
+      },
+      "subComments": [],
+      "invalid": false,
+      "id": "6a749e1b000000000703b31c",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1786027548000,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "60c41051000000000101c89d",
+        "nickname": "FengYuan",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6302e7b1c4d4879b6c884a95.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMi9SWiLfMo2SsJHtVeu3b15nkoeIC83E7FkGfZx390g="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "showTags": [],
+      "createTime": 1784072879000,
+      "invalid": false,
+      "noteId": "6a4905b4000000000e021800",
+      "atUsers": [],
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "id": "6a56caae000000000d023c00",
+      "status": 0,
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "content": "Congrats",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "64902cec000000001c0292c4",
+        "nickname": "jackiland",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sditf4e5m605p4g5jm754m4vlel46o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEvlI79P6zNxXnnYPpMqs0iGh6aGjpzEXFZhjlrPgjKA="
+      },
+      "subCommentCount": "1",
+      "subCommentCursor": "6a49d774000000000d022800",
+      "noteId": "6a4905b4000000000e021800",
+      "content": "老师做llm infer,llm serving之类的吗",
+      "ipLocation": "上海",
+      "subCommentHasMore": false,
+      "id": "6a4948650000000015004026",
+      "status": 0,
+      "liked": false,
+      "subComments": [
+        {
+          "liked": false,
+          "createTime": 1783224180000,
+          "ipLocation": "德国",
+          "invalid": false,
+          "noteId": "6a4905b4000000000e021800",
+          "content": "做，AI这里主要就是LLM inference",
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABVmaIrzHqZ1yUrwZ2IX47hNiLIufe-b1Nps707BOFDSQ=",
+            "userId": "65deeb9400000000050083fd",
+            "nickname": "黄亚凡",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226hoj5976005peutea190vtrni5veo?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "64902cec000000001c0292c4",
+              "nickname": "jackiland",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sditf4e5m605p4g5jm754m4vlel46o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEvlI79P6zNxXnnYPpMqs0iGh6aGjpzEXFZhjlrPgjKA="
+            },
+            "id": "6a4948650000000015004026"
+          },
+          "id": "6a49d774000000000d022800",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "showTags": [],
+      "createTime": 1783187558000,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 optimization",
+  "search_item": {
+    "id": "6a4905b4000000000e021800",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 735,
+        "width": 957,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191913/8303c8c0ea570a9ba3f883518f58206c/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191913/a8423255dfc9e0ec7a5ec9297d77fc2f/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 735,
+          "width": 957,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191913/8303c8c0ea570a9ba3f883518f58206c/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191913/a8423255dfc9e0ec7a5ec9297d77fc2f/oss-sg/notes_pre_post/1040g3mo3226vkt07nk0g5peutea190vt4lba9s0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-04"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "[导师本人] UMD CS新AP招生贴",
+      "user": {
+        "nickName": "黄亚凡",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3226hoj5976005peutea190vtrni5veo?imageView2/2/w/80/format/jpg",
+        "userId": "65deeb9400000000050083fd",
+        "nickname": "黄亚凡",
+        "xsecToken": "ABg0j9HUSJmRgDpjxcuwQ2F__fW3RxJ9ppRTn4mPiEulA="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "298",
+        "collected": false,
+        "collectedCount": "201",
+        "commentCount": "84",
+        "sharedCount": "195"
+      }
+    },
+    "xsecToken": "ABO-FeijT6d2mOpoTEw2oEApn2sF9LqEWVXmVwmiZHmwA=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a4905b4000000000e021800"
+  }
+}

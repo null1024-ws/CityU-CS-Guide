@@ -12,7 +12,7 @@
   {
     "code": "CS5481",
     "coveredFields": 4,
-    "sourceCount": 9
+    "sourceCount": 8
   },
   {
     "code": "CS5487",
@@ -42,7 +42,7 @@
   {
     "code": "CS5489",
     "coveredFields": 5,
-    "sourceCount": 8
+    "sourceCount": 11
   },
   {
     "code": "CS6536",
@@ -51,8 +51,8 @@
   },
   {
     "code": "CS5293",
-    "coveredFields": 3,
-    "sourceCount": 7
+    "coveredFields": 4,
+    "sourceCount": 9
   },
   {
     "code": "CS6290",
@@ -106,7 +106,7 @@
   },
   {
     "code": "CS5491",
-    "coveredFields": 5,
+    "coveredFields": 6,
     "sourceCount": 12
   },
   {
@@ -177,6 +177,6 @@
   {
     "code": "EC5001",
     "coveredFields": 4,
-    "sourceCount": 5
+    "sourceCount": 8
   }
 ]

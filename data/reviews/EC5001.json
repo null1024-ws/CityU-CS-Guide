@@ -4,27 +4,27 @@
     "difficulty": {
       "value": "easy",
       "label": "简单",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
     },
     "attendance": {
       "value": "strict",
       "label": "考勤严",
       "confidence": "confirmed",
-      "sourceCount": 6,
-      "distinctSources": 4
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "sourceCount": 7,
+      "distinctSources": 5
     },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 2
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -63,6 +63,24 @@
       "postTitle": "CityU CS SEMA: Part II"
     },
     {
+      "noteId": "677d3dbb000000000b016faf",
+      "url": "https://www.xiaohongshu.com/explore/677d3dbb000000000b016faf?xsec_token=ABT5qmHeN9QLGYXhURieZtxRxYJ2Yx2Hwny9_8xmvOeMY=",
+      "excerpt": "EC5001,好课，一周一次简单小作业一次presentation一个小组report占50%+期末闭卷占50%，学的知识比较杂；IS5414,半好课，老师喜欢抽人回答问题，需要认真上课，每周一次小组作业+一次presentation占40%，期末闭卷占60%；IS5740,好中好课，一周一次简单quiz+简单assignment，assignment课堂上老师一步一步带着做,一次presentation和report,平时占60%，期末完全开卷40%；总结都是好课",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城ec SemA课程简评"
+    },
+    {
+      "noteId": "695ba7b0000000000e03fbfc",
+      "url": "https://www.xiaohongshu.com/explore/695ba7b0000000000e03fbfc?xsec_token=ABwa4erALNUbl0wtp1mvQPTas__DiWR4HOr-1VLiaUnyk=",
+      "excerpt": "EC5001；只去了前半学期，感觉课堂几乎没什么内容点了两次名，期末就看了两三小时。；IS5414；就最后四节没去，同样课堂内容不多，老师疯狂点人回答问题疑似填充课程时间期末把笔记全看一遍就行了。；IS6335；没什么投入，画画图，最后project也没认真做，感觉还能接受。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "ec semA安全下车"
+    },
+    {
       "noteId": "6a0c17bd000000000702ea2c",
       "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
       "excerpt": "EC5001 introduction to EC；看名字就知道这门课和5481差不多也是背书课，分两个老师，第一个老师会查出勤。类似于大学里的通识课，不追求GPA的话，这门课可以很摆。期末前一天下PPT开始看都来得及；上述课程除ec外均无考勤",
@@ -81,6 +99,15 @@
       "postTitle": "cityu ec选课分享（更新中"
     },
     {
+      "noteId": "67a33251000000001902fac3",
+      "url": "https://www.xiaohongshu.com/explore/67a33251000000001902fac3?xsec_token=ABf34ut9bzvFjrwIFh0jcFEUCUVr2ULA_Q8ZANYIskiNM=",
+      "excerpt": "EC5001电子商务简介；EC6001电子商务项目；‼以上hci方向的导师可以陶瓷咯（名额先到先得哈）",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "港城HCI全奖博士26fall开始招生啦"
+    },
+    {
       "noteId": "693a7b0a000000001e00c686",
       "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
       "excerpt": "ec5001 introduction to e-commerce",
@@ -91,5 +118,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

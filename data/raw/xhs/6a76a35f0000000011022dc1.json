@@ -1,0 +1,365 @@
+{
+  "note_id": "6a76a35f0000000011022dc1",
+  "url": "https://www.xiaohongshu.com/explore/6a76a35f0000000011022dc1?xsec_token=ABZ4mhMvMPC8TzixRAzijiKr3da2xkMWQy5e622zRwyOw=",
+  "fetched_at": 1787139768.4939206,
+  "note": {
+    "tagList": [],
+    "ipLocation": "江西",
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "CS6601 AI 课后测评",
+    "desc": "鼠鼠三个月前看了看OMScentral评价，想着暑假选一个难一些的课就选了AI，现在上完后感觉难度其实不大，而且体验很不错的。\n\t\n这门课的平均分很高，上到一大半的时候我很多分都低于90且低于中位数（主要是第一个作业就跳过了lol）一度担心能不能拿A，但其实整个课下来有很多补救的空间（比如有个白送5%的intro assignment）如果有统计和计算机的基础的话比较轻松，零基础可能稍微吃力一些，但其实个人认为还是挺适合在项目前期就上掉的\n\t\n评分主要包括Assignment(60%), 每周小开卷quiz(CQs，5%), Midterm(15%), 和final(20%)，学的内容比较杂，a star搜索，优化，对抗性搜索，贝叶斯网络，ML和DL，隐马尔可夫链，RL，每个主题都只有一个星期的课，就是学的广但都不太深\n\t\nA1: 跳过（尝试了3小时直接放弃了，工作量太大，但其实挺有用的，主要实现A星搜索和它的一些变体）\nA2: 15小时，主要做isolation游戏的对抗性搜索。评分标准中有一些（25%）偏运气成分，这25%我当时没时间直接放弃了，但其实多花点时间是可以做到的\nA3: 10小时，贝叶斯网络+gibbs和mh采样\nA4: 15小时，decision tree和随机森林\nA5: 15小时，kmeans聚类和高斯混合模型\nA6: 15小时，马尔可夫链的一些应用，就是画viterbi\n\t\n作业使用nosi（vscode但把ai功能ban了），ai课不让用ai哈哈哈有点尴尬了。两场考试都是不用开摄像头直接写题目，像一个包含所有topic的大CQ，还是比较人性化的。课程总体来说推荐",
+    "user": {
+      "xsecToken": "ABpe9GdrmJ-9a_bdBnNCjJv_u2cwxz1mWfp174gb6cZtA=",
+      "userId": "5f852a2d000000000101fe0c",
+      "nickname": "波比汀斯贾",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l65duc0iu005ns558mgbvgciu36ak8"
+    },
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/d837f48736a30f1414f95de506ef4293/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/45613b6f7e0a49c7d1a5f643e0bc2cd1/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8",
+        "width": 1200,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191943/d837f48736a30f1414f95de506ef4293/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191943/45613b6f7e0a49c7d1a5f643e0bc2cd1/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nd_dft_wlteh_jpg_3",
+        "height": 1600,
+        "traceId": ""
+      },
+      {
+        "fileId": "oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0",
+        "height": 412,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/1966e2e18eebb4a20445e3f523908270/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/43024fbae62542fae2b999bf67a7171a/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191943/1966e2e18eebb4a20445e3f523908270/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nd_prv_wgth_jpg_3",
+        "width": 659,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191943/43024fbae62542fae2b999bf67a7171a/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "stream": {},
+        "height": 3491,
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/7ff23749fb7611ae3a5de042cfabe243/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191943/103eb3082b7118bde4a8a54ed950758a/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191943/103eb3082b7118bde4a8a54ed950758a/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo",
+        "width": 4779,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191943/7ff23749fb7611ae3a5de042cfabe243/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nd_prv_wgth_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "time": 1786159967000,
+    "lastUpdateTime": 1786160252000,
+    "noteId": "6a76a35f0000000011022dc1",
+    "interactInfo": {
+      "commentCount": "9",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "27",
+      "collected": false,
+      "collectedCount": "20",
+      "shareCount": "2",
+      "relation": "none",
+      "liked": false
+    },
+    "xsecToken": "ABZ4mhMvMPC8TzixRAzijiKr3da2xkMWQy5e622zRwyOw="
+  },
+  "comments": [
+    {
+      "content": "暑假选AI workload不会太大吗",
+      "atUsers": [],
+      "invalid": false,
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "江西",
+          "id": "6a7730d7000000001202a5de",
+          "noteId": "6a76a35f0000000011022dc1",
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABYG71S8BG6A1536c0XKzTSzXzZqOz6G39E6NFAoGOts8=",
+            "userId": "5f852a2d000000000101fe0c",
+            "nickname": "波比汀斯贾",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l65duc0iu005ns558mgbvgciu36ak8?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1786196184000,
+          "targetComment": {
+            "id": "6a771eee000000000d022400",
+            "userInfo": {
+              "userId": "618ad965000000001000e0d2",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pk4ls8kmg005ocar5ik1o6ijehdaog?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB_zfBwonlTO6X9056RMTVr1OKVT-UDw3e0QIB3Aw1v0c="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "每周能空出15小时肯定够了的[吧唧R]"
+        }
+      ],
+      "subCommentCursor": "6a7730d7000000001202a5de",
+      "id": "6a771eee000000000d022400",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pk4ls8kmg005ocar5ik1o6ijehdaog?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB_zfBwonlTO6X9056RMTVr1OKVT-UDw3e0QIB3Aw1v0c=",
+        "userId": "618ad965000000001000e0d2",
+        "nickname": "momo"
+      },
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "showTags": [],
+      "noteId": "6a76a35f0000000011022dc1",
+      "status": 0,
+      "liked": false,
+      "createTime": 1786191599000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "ipLocation": "美国",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABWTGFWSuwNw3hm95HA7zw_s3g8y1Iw7HP9wLpRK-tyk8=",
+              "userId": "5d31936c000000001101f6a3",
+              "nickname": "浪游记快",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tcriv50m80g5n9hidm4btl3e1fhslo?imageView2/2/w/120/format/jpg"
+            },
+            "id": "6a776b10000000002b0021a2"
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "40小时太夸张了，第一个作业可能要超20小时，有基础的话另外5个肯定不超过的[吧唧R]",
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786218761000,
+          "id": "6a778908000000001202b60e",
+          "noteId": "6a76a35f0000000011022dc1",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5f852a2d000000000101fe0c",
+            "nickname": "波比汀斯贾",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l65duc0iu005ns558mgbvgciu36ak8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYG71S8BG6A1536c0XKzTSzXzZqOz6G39E6NFAoGOts8="
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "啊看omscentral上说workload 40hr，15-20真的可以搞定么？暑假会跟压力大一点么",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "noteId": "6a76a35f0000000011022dc1",
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABWTGFWSuwNw3hm95HA7zw_s3g8y1Iw7HP9wLpRK-tyk8=",
+        "userId": "5d31936c000000001101f6a3",
+        "nickname": "浪游记快",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tcriv50m80g5n9hidm4btl3e1fhslo?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "createTime": 1786211088000,
+      "subCommentCount": "2",
+      "id": "6a776b10000000002b0021a2",
+      "subCommentCursor": "6a778908000000001202b60e",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6a76e984000000001202ab19",
+      "content": "[棒R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "60e34f760000000001007b32",
+        "nickname": "五十铃甜橙",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60e34f760000000001007b32.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmHXKo1NCAH4on9dhwb_2dH5ryHz-Jg0GCHSMUR78Cr4="
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "createTime": 1786163304000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786177925000,
+          "invalid": false,
+          "id": "6a76e984000000001202ab19",
+          "status": 0,
+          "content": "[心心眼R]",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5f852a2d000000000101fe0c",
+            "nickname": "波比汀斯贾",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l65duc0iu005ns558mgbvgciu36ak8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABYG71S8BG6A1536c0XKzTSzXzZqOz6G39E6NFAoGOts8="
+          },
+          "ipLocation": "江西",
+          "targetComment": {
+            "id": "6a76b068000000000d023800",
+            "userInfo": {
+              "nickname": "五十铃甜橙",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60e34f760000000001007b32.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmHXKo1NCAH4on9dhwb_2dH5ryHz-Jg0GCHSMUR78Cr4=",
+              "userId": "60e34f760000000001007b32"
+            }
+          },
+          "noteId": "6a76a35f0000000011022dc1",
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "id": "6a76b068000000000d023800",
+      "noteId": "6a76a35f0000000011022dc1",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "加拿大",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 怎么样",
+  "search_item": {
+    "id": "6a76a35f0000000011022dc1",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/87392f945bcff024b9f2eb36e065ff4c/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/5635699c9f4cba35f3daec64593b6db3/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 412,
+          "width": 659,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/ca33622e55c7f3d58ffa5d25f1c478ff/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/a462ff21bb0fb312b81c22adba786bb0/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c105ns558mgbvgckqou3u0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/9dead5215c7e5c3bbe01a211928d712b/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191942/d3399df16724a76e3539f1d8104569f2/note_pre_post_uhdr/1040g3r8323jhkd7u7i705ns558mgbvgc33lqrvo!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 3491,
+          "width": 4779
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-08"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CS6601 AI 课后测评",
+      "user": {
+        "nickName": "波比汀斯贾",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l65duc0iu005ns558mgbvgciu36ak8?imageView2/2/w/80/format/jpg",
+        "userId": "5f852a2d000000000101fe0c",
+        "nickname": "波比汀斯贾",
+        "xsecToken": "AB5Or55J59o98Oiing4Y_jw6RvaCE57qRmnzUCMWlVy90="
+      },
+      "interactInfo": {
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "27",
+        "collected": false,
+        "collectedCount": "20",
+        "commentCount": "9"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191942/87392f945bcff024b9f2eb36e065ff4c/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191942/5635699c9f4cba35f3daec64593b6db3/oss-sg/notes_pre_post/1040g3mo323jeu2cs2c005ns558mgbvgcgqpkdk8!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABZ4mhMvMPC8TzixRAzijiKr3da2xkMWQy5e622zRwyOw=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a76a35f0000000011022dc1"
+  }
+}

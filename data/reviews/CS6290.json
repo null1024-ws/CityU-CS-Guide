@@ -5,8 +5,8 @@
       "value": "open_book",
       "label": "开卷",
       "confidence": "confirmed",
-      "sourceCount": 11,
-      "distinctSources": 7
+      "sourceCount": 14,
+      "distinctSources": 8
     },
     "difficulty": {
       "value": "easy",
@@ -38,8 +38,8 @@
       "value": "generous",
       "label": "给分友好",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 3
+      "sourceCount": 4,
+      "distinctSources": 4
     },
     "workload": {
       "value": "unknown",
@@ -69,6 +69,15 @@
         "post_body"
       ],
       "postTitle": "Cityu Msc CS St 课程评价"
+    },
+    {
+      "noteId": "6a772a24000000003300b3c9",
+      "url": "https://www.xiaohongshu.com/explore/6a772a24000000003300b3c9?xsec_token=ABRyAyBO3vKWbhccHEGpLfyEHQN2VCiv6HDu0sspPhM-Y=",
+      "excerpt": "5.CS6290 Privacy-enhancing Technologies；课程主要关于区块链，难度很高，除非上课非常认真地听讲，不然很难跟上。有四次论文阅读和对应的quiz。流程是先用ai辅助阅读给出的论文，然后撰写阅读报告，课前会有一个关于论文的十道选择题小测试，不算难，很多都是论文中的原句，用ai辅助通读留下个印象分数不会低，但这四次肯定就不能翘课了。老师鼓励大家使用ai，论文阅读报告这方面也不会太累，给分也很高。有一个中大型的project，有一定工作量和难度，需要线下pre，不过老师不会太为难。最后的final题量非常大，几乎都是概念简答题，不过考得都比较浅，都是些基础概念，并且允许带两页手写小抄。所以一定要在考前把所有ppt重要知识点全部整理在小抄上，这样考试就不会太困难，不至于像软工那样无从下笔。；优点：考试考的概念比较浅，允许带两页小抄；缺点：课程难度高，quiz和论文阅读次数太多，projcet需要线下pre",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMB（上）（划水版）"
     },
     {
       "noteId": "68a5b6d5000000001d00171a",
@@ -114,15 +123,6 @@
         "post_body"
       ],
       "postTitle": "为什么不推荐你速通港城cs硕（附选课攻略）"
-    },
-    {
-      "noteId": "68c2dbe2000000001d00a87b",
-      "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
-      "excerpt": "CS6290 Privacy：读了区块链很多论文，Proj也可以论文调研，总体给分不错。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
     }
   ],
   "commentSources": [
@@ -192,5 +192,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

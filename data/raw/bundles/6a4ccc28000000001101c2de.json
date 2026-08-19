@@ -1,0 +1,122 @@
+{
+  "note_id": "6a4ccc28000000001101c2de",
+  "url": "https://www.xiaohongshu.com/explore/6a4ccc28000000001101c2de?xsec_token=ABMdObQ2w1MO1MsZcR8wuaGc_EPquul5Shyshy1YYJIig=",
+  "fetched_at": 1787139957.8026521,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港中深大二｜算法实习一个月 飓风成长中🌀",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "分享一些ds大二算法实习的感受，讲讲自己为什么会选择这份实习，以及在什么都不懂的情况下第一个月我获得了什么体验和感受[自拍R]\n\t\n🔖本人ds大二，专业知识的储备算比较一般，在校专业课（计算机相关）的成绩差不多是A-水平。学期末挑了很多实习，自己也有投递，目前是在一家小的ai初创公司做算法实习生。\n\t\n其实原来对自己的第一段实习没抱什么很大的期望，在数分岗和难度较大的算法岗里纠结了一下，抱着学习的心态选了后者。目前发现因为本人技术水平趋近于0，于是无论做什么工作都是正收益、、😇\n\t\n👩‍💻由于自己的电脑系统有部分不兼容，所以被迫学会远程开发，创建docker容器等等。\n💼目前接手并完成两个任务都涉及到排布算法的设计，主要是对现有模型数据进行空间分析和位置优化。\n由于我是半路接手这个项目，所以花时间读了很多之前已经写好的算法以及整个项目的算法结构，逐渐熟悉不同任务的入口、前后端实现的功能，以及怎么规范化使用Git…\n\t\n其实很感谢这一个月在工作过程中遇到的很多问题，push我去探究这个问题为什么会出现、怎么解决。写出来才发现还有很多其他的体会，我会慢慢更新[吧唧R]\n\t\n#港中深[话题]#\n#实习[话题]#\n#算法[话题]#\n#算法实习[话题]#\n#我的实习plog[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问港中深大一新生买什么电脑比较好呀？可能是数据科学或理工学院的",
+      "sourceRef": "comment:6a4cf2a4000000000b039921",
+      "commentId": "6a4cf2a4000000000b039921",
+      "likes": 1,
+      "author": "😴（沈音）"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我自己是windows的办公本，我觉得够用了",
+      "sourceRef": "comment:6a4cfbdf000000000403aaf7",
+      "commentId": "6a4cfbdf000000000403aaf7",
+      "likes": 4,
+      "author": "Y_uuu"
+    },
+    {
+      "type": "comment",
+      "text": "请问ds是在龙岗校区还是大学城校区呀",
+      "sourceRef": "comment:6a73581f0000000003016ecf",
+      "commentId": "6a73581f0000000003016ecf",
+      "likes": 0,
+      "author": "我要去哪里找到你"
+    },
+    {
+      "type": "comment",
+      "text": "大二就开始实习了吗[呃R]",
+      "sourceRef": "comment:6a4cf9230000000009016f3c",
+      "commentId": "6a4cf9230000000009016f3c",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们学校是这样的[哭惹R]",
+      "sourceRef": "comment:6a4cfbeb000000000b03848f",
+      "commentId": "6a4cfbeb000000000b03848f",
+      "likes": 3,
+      "author": "Y_uuu"
+    },
+    {
+      "type": "comment",
+      "text": "好美的小姐姐[亲一个R]",
+      "sourceRef": "comment:6a61ccbf000000002a0255a3",
+      "commentId": "6a61ccbf000000002a0255a3",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "什么 bg 啊[哭惹R]",
+      "sourceRef": "comment:6a609dfa000000002901810b",
+      "commentId": "6a609dfa000000002901810b",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "港中深就读体验怎么样呀",
+      "sourceRef": "comment:6a5cb004000000002b02629c",
+      "commentId": "6a5cb004000000002b02629c",
+      "likes": 0,
+      "author": "gloria"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下，是在哪里找到的实习呀[萌萌哒R][萌萌哒R]",
+      "sourceRef": "comment:6a59e6e70000000009017bf1",
+      "commentId": "6a59e6e70000000009017bf1",
+      "likes": 0,
+      "author": "aaaz"
+    },
+    {
+      "type": "comment",
+      "text": "好厉害！",
+      "sourceRef": "comment:6a4cf7e0000000000b03b030",
+      "commentId": "6a4cf7e0000000000b03b030",
+      "likes": 0,
+      "author": "学生厘米"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[doge][doge]",
+      "sourceRef": "comment:6a4cf807000000000802d9b4",
+      "commentId": "6a4cf807000000000802d9b4",
+      "likes": 1,
+      "author": "Y_uuu"
+    },
+    {
+      "type": "comment",
+      "text": "惭愧...苯人研一才开始找第一段实习[笑哭R]",
+      "sourceRef": "comment:6a4dd5320000000009017d87",
+      "commentId": "6a4dd5320000000009017d87",
+      "likes": 1,
+      "author": "Tor葉"
+    },
+    {
+      "type": "comment",
+      "text": "同港中深计算机生，学姐有什么心得嘛",
+      "sourceRef": "comment:6a4fdda400000000150096f0",
+      "commentId": "6a4fdda400000000150096f0",
+      "likes": 0,
+      "author": "jacky li"
+    }
+  ]
+}

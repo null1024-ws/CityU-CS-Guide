@@ -1,0 +1,30 @@
+{
+  "note_id": "6a7729bb0000000005020799",
+  "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
+  "fetched_at": 1787137369.779513,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "CS5481"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU Msc CS选课指南SEMA（划水版）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "先叠个甲，本指南是划水版，以轻松毕业拿证，早点赚钱为目的。如果你是真的想学点东西，那直接忽略即可。\n评分分为五个等级：\n[星R][星R][星R][星R][星R]：必选\n[星R][星R][星R][星R]：推荐选\n[星R][星R][星R]：可选\n[星R][星R]：最好别选\n[星R]：避雷\n1.CS5481 Software Engineering\n不出意外的话这是港硕的第一门课。开幕雷击，所有课里要素最多的一门课：超大型的项目，八人左右一组，开发周期占了整个SemA的三分之二，如果组里有人划水会很困难，线上录制视频pre；两次quiz，虽然开卷，但难度不低；一次论文阅读写作，比较水。期末考试半开卷，能带三张小抄，但题量和难度都不小，整场考试像是英语阅读写作大挑战。老师人不错，但口音有点重，上课听起来有点吃力。另外老师喜欢整些互动小游戏，所以上课没发完全划水，整体给分一般。虽然是必修课，但可以考虑豁免。\n优点：能在前期认识多个同学，方便后面抱团\n缺点：超大型项目，两次quiz，考试难度较高\n评分：[星R]\n\t\n2.CS5222 Computer Networks and Internets\n体验非常好的一门课，老师上课口音很清楚，课程难度不大，每门课结束都会有tutorial，另外有几次作业。最后final是完全开卷，和作业和tutorial的题型差不多，印象里好像都是应用计算题，难度也不难。所以好好做作业，搞懂原理，再把作业带进去就很容易过。无project和期中quiz。\n优点：考试开卷，tutorial和作业与final契合度高，无project\n缺点：无\n评分：[星R][星R][星R][星R][星R]\n\t\n3.CS5481 Data Engineering\n课程难度适中。有一个中型project，关于数据分析的，需要线下pre。有几次作业，印象里也都是计算应用题，与考试契合。最后的final是闭卷，但难度不大，如果把作业做会就没问题。无期中quiz。\n优点：考试难度不大且与作业题型契合\n缺点：需要线下pre\n评分：[星R][星R][星R][星R]\n\t\n4. CS5187 Vision and Image\n全体起立，无需多言。讲课的吴老师是个大佬，风趣幽默，简单易懂。课程难度不高且内容有趣。有两次作业和一个单人project，都不算太难且无需pre。考试完全开卷，难度不高，想挂都难。总之无脑选就行了。\n优点：几乎全是\n缺点：硬要说的话第一次作业对电脑性能要求有点高\n评分：[星R][星R][星R][星R][星R]\n\t\n下篇开始讲重量级的SEMB。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "求水课教程[哭惹R]",
+      "sourceRef": "comment:6a78a270000000002903432f",
+      "commentId": "6a78a270000000002903432f",
+      "likes": 0,
+      "author": "MM"
+    }
+  ]
+}

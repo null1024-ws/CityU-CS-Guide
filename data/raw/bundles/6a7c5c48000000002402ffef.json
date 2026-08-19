@@ -1,0 +1,26 @@
+{
+  "note_id": "6a7c5c48000000002402ffef",
+  "url": "https://www.xiaohongshu.com/explore/6a7c5c48000000002402ffef?xsec_token=ABLrK6vi8s_YpO5lRQK_rzUZ2ZRuoeNsW5xGSR8p9st0Y=",
+  "fetched_at": 1787138194.0802665,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs选课板、cityu ds选课板",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "已导入26fall semesterA/B cs、ds开课信息\n功能：自由排课、查看课程评价(可跳转原帖)、本地写备注、注册登录后发表社区评价等\n欢迎探索～\ncs课程评价数据来源@momo\nds课程评价数据来源@Charles_\n在线访问：https://shariqri.github.io/CtiyU-CS-Course-Board/",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "[赞R]",
+      "sourceRef": "comment:6a7c73d7000000002a02e42f",
+      "commentId": "6a7c73d7000000002a02e42f",
+      "likes": 0,
+      "author": "momo"
+    }
+  ]
+}

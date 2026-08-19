@@ -1,0 +1,71 @@
+{
+  "note_id": "694a0836000000000d00df37",
+  "url": "https://www.xiaohongshu.com/explore/694a0836000000000d00df37?xsec_token=ABrjZ6PoDs6y3rgXagxYyZtNpP1IhQafcr1uwK79ouy-4=",
+  "fetched_at": 1787138781.728561,
+  "course_codes": [
+    "CS5228",
+    "CS5239",
+    "CS5322",
+    "CS5340"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS mcomp cs sem1 课程评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CS5228 workload[星R][星R][星R][星R]\n3 assign+1 midterm+1 group project+1 quiz in the last. 考察对ML和Deep Learning基础概念的深度理解，final题干有一些没理解好（没理解出题人意图），整体workload适中，Christ非常负责，人超级好，对于可交可不交的项目中期slides，我们组交了，他看的很认真，还写了好几百字的建议。\n\t\nCS5239 workload[星R][星R][星R]\n1 assign+1 final+1 group paper review+1 group project+1 group pre(可以pre paper也可以pre project). 我们组选的pre project虽然当时project没太做完。最后project做的有些连滚带爬，半天赶工写完报告，但是还好结果很不错。final选择题涂卡加一些简答题，简答题有一些半开放，给了捞人的余地，其中有一道考project内容，可以提前准备。\n\t\nCS5322 workload[星R][星R][星R]\nfinal exam 50+group project 50(2 sub project+1 paper pre). 组队之后要给老师发邮件，差点忘发[笑哭R]。记得第二个project差点忘了due date, 着急忙慌写了一个。project都是基于oracle database的，一个VPD一个MAC，建议要兼顾复杂性和合理性，pre的时候老师会拷打并且会现场写SQL语句测试。paper pre老师提问环节拷打的攻击性还挺强，有可能挂在上面。final exam以前的保留节目——paper pre总结今年是没有了，换成了完全没咋看的CriptDB,其他考察的点还算稳定。\n\t\nCS5340 workload[星R][星R][星R]\n4 coding assignment+final exam(one page).assign理解算法就不太难，老师说过只要写对都是满分，report也限制1 page，所以平时的workload非常小。final难，非常难，一年比一年难，想要拿到60%以上的分数平时PPT算法不仅要懂思想，那些公式都要看懂并且能自行推导。我发现这个课的隐藏好处是学完之后看论文中的公式容易看懂了许多[微笑R]，可能是被折磨了一下之后有的新技能吧。\n#选课[话题]# #大学绩点[话题]# #计算机科学[话题]# #NUS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问5228推荐吗？对于基础一般的学生来说难度大吗？给分如何呀？谢谢[玫瑰R]",
+      "sourceRef": "comment:6957a3bb000000000f01dee0",
+      "commentId": "6957a3bb000000000f01dee0",
+      "likes": 0,
+      "author": "黄色潜水艇"
+    },
+    {
+      "type": "comment",
+      "text": "5239开放题如捞[扶额R]",
+      "sourceRef": "comment:694a1f28000000001d01c964",
+      "commentId": "694a1f28000000001d01c964",
+      "likes": 1,
+      "author": "www"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我爱死她了[黄金薯R]",
+      "sourceRef": "comment:694a5d38000000001600e62e",
+      "commentId": "694a5d38000000001600e62e",
+      "likes": 1,
+      "author": "cr777"
+    },
+    {
+      "type": "comment",
+      "text": "5340 A+也太强了，感觉cheatsheet整合的都没咋用上，考的都是从头推导",
+      "sourceRef": "comment:694a130f000000001502cf21",
+      "commentId": "694a130f000000001502cf21",
+      "likes": 0,
+      "author": "木木枭训练师"
+    },
+    {
+      "type": "sub_comment",
+      "text": "确实 根本没时间看",
+      "sourceRef": "comment:694a173f000000000f01cd38",
+      "commentId": "694a173f000000000f01cd38",
+      "likes": 1,
+      "author": "Y青柚"
+    },
+    {
+      "type": "comment",
+      "text": "请问uu cs5340会有挂科的风险吗[哭惹R]如果期末真的啥都不会，会挂科吗[哭惹R]",
+      "sourceRef": "comment:6a6b4027000000002b029026",
+      "commentId": "6a6b4027000000002b029026",
+      "likes": 0,
+      "author": "黄色潜水艇"
+    }
+  ]
+}

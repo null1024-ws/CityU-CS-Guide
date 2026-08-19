@@ -1,0 +1,66 @@
+{
+  "note_id": "6a75d59a0000000026036773",
+  "url": "https://www.xiaohongshu.com/explore/6a75d59a0000000026036773?xsec_token=ABfzVLLZ_iBck_c2aI_cucHo1xCU690U07G9PLTfaoaRA=",
+  "fetched_at": 1787138926.3310606,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "🤩新手穷鬼版SEO工具包｜关键词怎么查",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Hey，我是 Zozo。\n\t\n最近在做一些微工具站，也给自己搭了一套 SEO 需求收集和调研流程。因为最怕的就是花时间做完，才发现这个需求根本没人搜，或者搜出来不值钱。\n\t\n我没有订阅 Ahrefs 或 Semrush（有点贵了😭），这里是我摸索出来的一套穷鬼版 SEO 工具包，对于少量关键词可以用免费网页工具手查，候选词多了可以再用 DataForSEO 按量补数据。\n\t\n这次我拿 `heic to jpg` 走了一遍，全程实测，数字都在图里。提前剧透结论，走完五关我不会做它🙅\n1️⃣ 发现关键词。用 Keywords Everywhere Google Keyword Tool 丢一个种子词进去，几分钟收到 118 个真实长尾，同时带回搜索量和单次点击广告价格\n2️⃣ 确认趋势和搜索量。最大的那个词一个月 246,000 次，可是流量在退潮；一个月只有 170 次的批量转换词，反而涨了 71%\n3️⃣ 确认竞争难度。关键词难度 31，前十里 AI 摘要占一位，People Also Ask 占一位，剩下的被大厂功能页和成熟工具站占满\n4️⃣ 确认商业价值。一个月搜 24 万次的词，广告主一次点击只肯出 2 美分；同一个主题下一个月只搜 170 次的批量转换词，能出到 1.22 美元\n5️⃣ 上线后观测。回到 Google Search Console 和 Bing Webmaster Tools，看 Google 实际把你的页面放到了哪些词下面\n\t\n💰 成本方面，除 DataForSEO 外这些网页工具都能免费用，Keywords Everywhere 免费计划每天一共 500 次查询，DataForSEO 最低充 50 美元按量扣费，不过它没有网页后台，得自己调接口，我是让 AI 写了个脚本跑的。\n\t\n🛠 完整工具组合、每一关需要怎么看，都整理在图里了。\n这篇是超级干货，都是我自己一步步摸出来的，记得收藏，下次找网站方向可以直接对着过一遍～\n你还用过哪些便宜又好用的 SEO 工具？评论区互相抄作业[派对R]@科技薯\n\t\n#独立开发者[话题]# #SEO[话题]# #SEO工具[话题]# #网站运营[话题]# #关键词[话题]# #出海网站[话题]# #个人开发者[话题]# #AI编程[话题]# #AI进化生活howto[话题]# #AI新手村[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "请问你确定竞争难度用的什么工具？",
+      "sourceRef": "comment:6a82561a000000000d023c00",
+      "commentId": "6a82561a000000000d023c00",
+      "likes": 0,
+      "author": "Momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我好像带了工具名就发不出来了 可以看看第五张图喔",
+      "sourceRef": "comment:6a82dc920000000003015307",
+      "commentId": "6a82dc920000000003015307",
+      "likes": 0,
+      "author": "Zozo build"
+    },
+    {
+      "type": "comment",
+      "text": "谢谢分享",
+      "sourceRef": "comment:6a8255b5000000000d021800",
+      "commentId": "6a8255b5000000000d021800",
+      "likes": 1,
+      "author": "Momo"
+    },
+    {
+      "type": "comment",
+      "text": "关注我[派对R]持续分享独立开发路上的探索和实用干货",
+      "sourceRef": "comment:6a76a1f90000000002037e67",
+      "commentId": "6a76a1f90000000002037e67",
+      "likes": 0,
+      "author": "Zozo build"
+    },
+    {
+      "type": "comment",
+      "text": "可以试下用seoagent",
+      "sourceRef": "comment:6a7ab98500000000030162ae",
+      "commentId": "6a7ab98500000000030162ae",
+      "likes": 0,
+      "author": "SEO Agent"
+    },
+    {
+      "type": "comment",
+      "text": "哈喽，       深圳翼果科技       前来报道，建站遥遥领先，谷歌seo，geo遥遥领先，有证书不吹牛",
+      "sourceRef": "comment:6a76f8f50000000014015002",
+      "commentId": "6a76f8f50000000014015002",
+      "likes": 0,
+      "author": "谷歌SEOGEO 翼果科技"
+    }
+  ]
+}

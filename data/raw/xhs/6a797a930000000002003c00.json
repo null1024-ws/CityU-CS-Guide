@@ -1,0 +1,263 @@
+{
+  "note_id": "6a797a930000000002003c00",
+  "url": "https://www.xiaohongshu.com/explore/6a797a930000000002003c00?xsec_token=ABE8HpHds2DPTjo2jiPzigtTw4jzb2VaLObzIhT3P5PCQ=",
+  "fetched_at": 1787140362.8181095,
+  "note": {
+    "noteId": "6a797a930000000002003c00",
+    "title": "Meet LOTUS OMNI.",
+    "desc": "I spent the last 9 months doing something most people say can't be done alone:\nI designed a complete superscalar out-of-order RISC-V processor — with an AI\ntensor accelerator — from scratch, and timing-closed it on real FPGA.\n\t\nMeet LOTUS OMNI.\n\t\nWhat I built (solo):\n• 4-wide OoO RV64I core — TAGE branch prediction, checkpointed register\nrenaming, partitioned reservation stations, 32-entry ROB, 128-entry PRF\n• Dual 8×8 systolic tensor arrays (BF16 + INT8) with 2:4 structured sparsity\n• 3-level cache hierarchy + stride prefetcher\n• 2-D mesh NoC with credit-based congestion control\n\t\nThe proof (Xilinx Vivado, post-route):\n✅ Timing MET @ 80 MHz — WNS +0.141 ns, 0 failing endpoints\n✅ Tensor 8×8 MATMUL verified 64/64 in self-checking simulation\n✅ 55k LUT / 38k FF / 17 BRAM / 64 DSP — zero latches\n✅ Timing closure from −7.019 ns → +0.141 ns\n\t\nI'm self-taught. No team, no shortcuts — just curiosity, discipline, and\nthousands of hours of RTL. Everything is open-source, with full documentation\nand raw Vivado reports:\n\t\n🔗 https://github.com/Sanuka-cmd-net/lotus-omni\n\t\nI'm looking for internships and junior RTL / digital-design roles where I can\nkeep building real silicon. If you're hiring — or know someone who is —\nI'd love to talk.\n\t\n#viral[话题]# #rtl[话题]# #vlsi[话题]# #computer葛[话题]# #hardware[话题]# #opensource[话题]# #semiconductors[话题]# #china[话题]# #fulltime[话题]# #folowers[话题]#",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229jqh69ni6g5qdipakpgea8qm3ovvo",
+      "xsecToken": "ABGl8KBHxYMj0EQTJkVBnh4MpU0nFFG_TfStmOrd8xtEo=",
+      "userId": "69b2caa90000000026003948",
+      "nickname": "Sanuka Nethmira"
+    },
+    "interactInfo": {
+      "relation": "none",
+      "collected": false,
+      "commentCount": "5",
+      "shareCount": "3",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "13",
+      "collectedCount": "8",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "width": 1920,
+        "url": "",
+        "traceId": "",
+        "stream": {},
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191952/78c5e6d0e6ab27ef189a254952dd408e/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191952/2f448bbb963c94ba35005bd26f102aaf/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191952/78c5e6d0e6ab27ef189a254952dd408e/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191952/2f448bbb963c94ba35005bd26f102aaf/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8",
+        "height": 1080
+      },
+      {
+        "height": 1080,
+        "width": 1920,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191952/69294a5acb71325c9d605e010f539beb/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nd_prv_wgth_jpg_3",
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191952/69294a5acb71325c9d605e010f539beb/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191952/8f6a73cc1dc7e6d43cc46266f3021422/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191952/8f6a73cc1dc7e6d43cc46266f3021422/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "6102b69e00000000010012f1",
+        "name": "viral",
+        "type": "topic"
+      },
+      {
+        "id": "63f496e50000000001001e60",
+        "name": "rtl",
+        "type": "topic"
+      },
+      {
+        "id": "63dd2d65000000000101ff82",
+        "name": "vlsi",
+        "type": "topic"
+      },
+      {
+        "id": "69ddb921000000000a039275",
+        "name": "computer葛",
+        "type": "topic"
+      },
+      {
+        "id": "61342dfe0000000001005dbb",
+        "name": "hardware",
+        "type": "topic"
+      },
+      {
+        "id": "621701720000000001009d63",
+        "name": "opensource",
+        "type": "topic"
+      },
+      {
+        "id": "6786af840000000004004939",
+        "name": "semiconductors",
+        "type": "topic"
+      },
+      {
+        "id": "5c34b844000000000901461d",
+        "name": "china",
+        "type": "topic"
+      },
+      {
+        "id": "6117c833000000000100b252",
+        "name": "fulltime",
+        "type": "topic"
+      },
+      {
+        "id": "65d837a90000000002026091",
+        "name": "folowers",
+        "type": "topic"
+      }
+    ],
+    "time": 1786346131000,
+    "type": "normal",
+    "atUserList": [],
+    "lastUpdateTime": 1786346323000,
+    "ipLocation": "斯里兰卡",
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABE8HpHds2DPTjo2jiPzigtTw4jzb2VaLObzIhT3P5PCQ="
+  },
+  "comments": [
+    {
+      "id": "6a79cc13000000000302c9ac",
+      "noteId": "6a797a930000000002003c00",
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "67db75eb000000000e011c95",
+        "nickname": "大恩",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vuvp9o4k86g5purenlji74ldgepe2g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZ3mmwz1X3lnsboTxHj8ItrUPbLS88Rf6g9UZV9q-abg="
+      },
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "广东",
+      "subCommentCount": "4",
+      "subCommentCursor": "6a7aa2aa000000000d021400",
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6a7aa2aa000000000d021400",
+          "content": "I haven't done it yet, I'm in the process of doing it, I'll send it to you in the coming days. [皱眉R]",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "69b2caa90000000026003948",
+            "nickname": "Sanuka Nethmira",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229jqh69ni6g5qdipakpgea8qm3ovvo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABzWXR5seSt0bHj_ebcdmlH8llBzQ1urAPspQ2So6GgLk="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786421930000,
+          "ipLocation": "斯里兰卡",
+          "noteId": "6a797a930000000002003c00",
+          "status": 0,
+          "atUsers": [],
+          "targetComment": {
+            "id": "6a79cc13000000000302c9ac",
+            "userInfo": {
+              "nickname": "大恩",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vuvp9o4k86g5purenlji74ldgepe2g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABZ3mmwz1X3lnsboTxHj8ItrUPbLS88Rf6g9UZV9q-abg=",
+              "userId": "67db75eb000000000e011c95"
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "How does it perform in Coremark？",
+      "createTime": 1786366995000,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5367 Computer Games Design",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "Meet LOTUS OMNI.",
+      "user": {
+        "nickName": "Sanuka Nethmira",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3229jqh69ni6g5qdipakpgea8qm3ovvo?imageView2/2/w/80/format/jpg",
+        "userId": "69b2caa90000000026003948",
+        "nickname": "Sanuka Nethmira",
+        "xsecToken": "ABe5MyrS8LAQ3jkaV5El4rradXOW8nCu28vkzcuK1rtH0="
+      },
+      "interactInfo": {
+        "collectedCount": "8",
+        "commentCount": "5",
+        "sharedCount": "3",
+        "liked": false,
+        "likedCount": "13",
+        "collected": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191952/e37f2e02ee675845cad8c718fa8df0b9/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191952/8ae053638ab93a511dda04138ba96507/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nc_n_webp_prv_1",
+        "height": 1080,
+        "width": 1920
+      },
+      "imageList": [
+        {
+          "height": 1080,
+          "width": 1920,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191952/e37f2e02ee675845cad8c718fa8df0b9/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191952/8ae053638ab93a511dda04138ba96507/oss-sg/notes_pre_post/1040g3mo323madqs5iq605qdipakpgea89vdfst8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1080,
+          "width": 1920,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191952/50be53ae42407bbc7ab0f607c0756e92/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191952/0a0f6025884f8b4bf9b46ae81768bef9/oss-sg/notes_pre_post/1040g3mo323madqs5iq5g5qdipakpgea83nk5770!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-10"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABE8HpHds2DPTjo2jiPzigtTw4jzb2VaLObzIhT3P5PCQ=",
+    "id": "6a797a930000000002003c00",
+    "index": 4,
+    "exposed": true,
+    "trackId": "6a797a930000000002003c00"
+  }
+}

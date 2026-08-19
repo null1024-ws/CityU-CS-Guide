@@ -1,0 +1,18 @@
+{
+  "note_id": "6a83c977000000002402fac7",
+  "url": "https://www.xiaohongshu.com/explore/6a83c977000000002402fac7?xsec_token=ABAnXmkL8mGwynw4951ZeqMX7MeP7XM0HCuQ0efoDQxzE=",
+  "fetched_at": 1787138909.503484,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "为什么 DeepSeek Harness 把一切做成插件？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🔌 为什么 DeepSeek Harness 换模型时，不需要把工具、会话和搜索服务一起重启？\n答案不在模型层，而在插件依赖。[微笑R]\n\t\n[一R]【01｜启动时先编译插件树】\nDSH 会把 Bundle、Profile、机器配置和临时 patch 合成装配清单，再交给 Cordis Runtime。模型适配器、工具注册表、会话日志、System Prompt 和 Agent Loop 都是插件，彼此只依赖稳定的服务名。\n\t\n[二R]【02｜一次搜索由多类插件协作】\n`tool-web` 把 `web_search` 的 schema 暴露给模型，Web provider 执行搜索，Agent Loop 推动模型与工具往返，Session 把消息、工具调用和结果写进事件日志。\n依赖没齐时，插件进入 `PENDING`，不代表启动失败。Agent Loop 要等 llm、tools、sessions 和 systemPrompt 都可用，才会变成 `ACTIVE`。\n\t\n[三R]【03｜换模型只动相关依赖】\n旧 llm 适配器卸载后，依赖它的 Agent Loop 暂停并撤销自身注册。新适配器上线，依赖重新满足，Agent Loop 再次加载。Session、Tools 和 Web provider 不受影响。\n\t\n[四R]【04｜热替换还要能撤销副作用】\n工具注册、事件监听、定时器和连接都要有对应的清理动作。否则文件版本虽然回滚，运行时还会留下旧工具或失效连接。事件日志则保证模型看到的信息能被重建。模型切换了，任务事实和上下文不能断。\n\t\n所以 DSH 的热换模型不是“改个配置”，而是稳定服务契约、显式依赖、可逆副作用和只追加事件日志共同完成的一次局部重连。\n\t\n#AI工程[话题]#  #AIAgent[话题]#  #DeepSeek[话题]#  #Harness[话题]#  #插件架构[话题]#  #事件日志[话题]# #为什么系列[话题]#  #AI进化生活howto[话题]# #howto使用ai[话题]# #deepseekHarness[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

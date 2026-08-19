@@ -1,0 +1,281 @@
+{
+  "note_id": "6a8340b20000000025006085",
+  "url": "https://www.xiaohongshu.com/explore/6a8340b20000000025006085?xsec_token=ABAnXmkL8mGwynw4951ZeqMT0H3ry3XTiQTaWoDYxjqJQ=",
+  "fetched_at": 1787137648.5619018,
+  "note": {
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "16",
+      "commentCount": "5",
+      "shareCount": "8",
+      "relation": "none",
+      "likedCount": "27",
+      "followed": false,
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58",
+        "height": 4032,
+        "width": 3024,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191907/a15f01e169e31a60e9f86a5c7114baeb/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191907/f3d8dda7bfa54e60352e2c26361c06fb/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191907/a15f01e169e31a60e9f86a5c7114baeb/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191907/f3d8dda7bfa54e60352e2c26361c06fb/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1787011860000,
+    "ipLocation": "贵州",
+    "noteId": "6a8340b20000000025006085",
+    "type": "normal",
+    "title": "为什么UW计算语言学很适合英专/小语种学生",
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "6244ac2b00000000010072dd",
+        "name": "语言学硕士"
+      },
+      {
+        "type": "topic",
+        "id": "5ff5540b0000000001005fbb",
+        "name": "UW"
+      },
+      {
+        "id": "61dd06a20000000001004f11",
+        "name": "计算语言学",
+        "type": "topic"
+      },
+      {
+        "id": "5e97c91c00000000010037ea",
+        "name": "小语种就业",
+        "type": "topic"
+      },
+      {
+        "name": "27fall",
+        "type": "topic",
+        "id": "639a9193000000000101f209"
+      }
+    ],
+    "lastUpdateTime": 1786986675000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "UW 的 CLMS（MSCL）是一个语言学本位的计算语言学项目，课程结构就能说明这一点：六门必修里两门是纯语言学（语音学、句法），四门是 NLP 核心序列（浅层与深层处理、统计与机器学习方法、端到端系统实践），三门选修中还必须至少有一门 400/500 级语言学课。也就是说，项目从制度上强迫每个学生同时具备语言和计算两个视角，而不是把语言学当点缀。\n\t\n第二个特点是工程落地导向强。课程要求做出一个完整可运行的 NLP 系统（机器翻译、对话系统、信息抽取等），毕业项目可以用 6–10 周实习代替论文，加上西雅图的产业环境，整体是奔着就业设计的专业硕士。\n\t\n第三个特点比较少见：鲜明的批判与伦理传统。选修课 LING575 每年轮换主题，除摘要、神经语言模型分析这类技术方向外，还有 Emily Bender 的语言技术社会影响、Fei Xia 的NLP 与真实世界（直接批评刷榜文化，讨论边缘化应用、绿色 NLP、可解释性），以及濒危语言语音技术这种用 NLP 做语言记录与保护的方向。换句话说，它不仅教你造模型，还教你追问模型该不该造、为谁造、会伤害谁。这对想做 AI 伦理、负责任 AI、语言资源建设的学生是稀缺资源。\n\t\n适合的人群因此很清楚：一是语言学、外语等文科背景、补过编程和数学、想转语言技术行业的学生；二是 CS 背景但对语言本身真有兴趣、不满足于把文本当纯 token 序列的学生；三是想做低资源语言、语音技术、AI 伦理等交叉方向的人。只想刷深度学习、目标是纯 ML 研究岗的人不适合，去 CS 系的 ML 硕士更划算。\n\t\n最后回应一个常见误解：CS 学生申请天然比文科生有优势。这放在UW站不住脚。项目一半的智力重心压在音系、句法、语义接口这些语言学内容上，CS 学生面对这类任务的吃力程度，不亚于文科生初学算法。两边都要跨，只是方向不同。而且最难速成的恰恰是语言学素养，因为编程有标准化的训练路径和明确的评价标准，而对语言现象的敏感是文科生多年积累的存量优势。\n\t\nPS：我们新一期直播主题为英专/小语种/语言学留学与就业出路（八月底），感兴趣的可以滴滴！\n\t\n#语言学硕士[话题]# #UW[话题]# #计算语言学[话题]# #小语种就业[话题]# #27fall[话题]#",
+    "user": {
+      "nickname": "一粒橙",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/751039e7-0bea-3ce9-9c81-6c0f70ebaf99",
+      "xsecToken": "ABl8KNInUhvTXPmzc90lK64Jlkirbmvbm3jxnwGzDdDy0=",
+      "userId": "6448cc670000000029015d52"
+    },
+    "xsecToken": "ABAnXmkL8mGwynw4951ZeqMT0H3ry3XTiQTaWoDYxjqJQ="
+  },
+  "comments": [
+    {
+      "id": "6a83d606000000002a030f10",
+      "content": "add",
+      "showTags": [],
+      "subCommentCursor": "6a83db7e0000000014025540",
+      "invalid": false,
+      "subCommentCount": "1",
+      "noteId": "6a8340b20000000025006085",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1787024902000,
+      "ipLocation": "浙江",
+      "subCommentHasMore": false,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1787026303000,
+          "ipLocation": "贵州",
+          "targetComment": {
+            "id": "6a83d606000000002a030f10",
+            "userInfo": {
+              "userId": "575ed8e150c4b430b1c8e4bf",
+              "nickname": "もも",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b3vb94s7m0048gchkce3p5vbqdk0hg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABsMoU-Qj-d8-ebj4aRmpwh5MO6lZzqV6mFT9lGvd1rdo="
+            }
+          },
+          "invalid": false,
+          "id": "6a83db7e0000000014025540",
+          "content": "好",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "6448cc670000000029015d52",
+            "nickname": "一粒橙",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/751039e7-0bea-3ce9-9c81-6c0f70ebaf99?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABsfVQehXQh1mEIS_bqJ8ZvKnKWXCwjUuaWBW1-G0xRGU="
+          },
+          "noteId": "6a8340b20000000025006085",
+          "status": 0
+        }
+      ],
+      "status": 0,
+      "userInfo": {
+        "userId": "575ed8e150c4b430b1c8e4bf",
+        "nickname": "もも",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31b3vb94s7m0048gchkce3p5vbqdk0hg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABsMoU-Qj-d8-ebj4aRmpwh5MO6lZzqV6mFT9lGvd1rdo="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "status": 0,
+      "createTime": 1787051001000,
+      "subCommentCursor": "",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "noteId": "6a8340b20000000025006085",
+      "content": "dd",
+      "userInfo": {
+        "xsecToken": "ABx9N7zQPPrpf2obDO3QU68Kdz-mdxcuiejxts2Soc6tE=",
+        "userId": "66a4a456000000001d02361d",
+        "nickname": "小红薯66A54B64",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "invalid": false,
+      "id": "6a843bf8000000002a004dba",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subComments": [],
+      "content": "dd",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABCBGMCtIq1xM2GURZZiVAnrgiGm6m6wUa-Iw0mjckfsM=",
+        "userId": "666ff42c00000000030333f1",
+        "nickname": "vincent",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66b47a28fc0df1fc0c8d2aa5.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "江西",
+      "createTime": 1787064520000,
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "id": "6a8470c7000000001500f1f0",
+      "noteId": "6a8340b20000000025006085",
+      "liked": false,
+      "showTags": [],
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "createTime": 1787014903000,
+      "ipLocation": "湖南",
+      "subComments": [],
+      "noteId": "6a8340b20000000025006085",
+      "liked": false,
+      "userInfo": {
+        "userId": "5ffb1ad5000000000101c3dd",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/65aa8bc279eeb806753bb525.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCD7M7l6hjoJVFRVL7wclU8SVvJGIMmsvGQEzn08WNok="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "id": "6a83aef7000000002902edc2",
+      "content": "dd",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 评价",
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "为什么UW计算语言学很适合英专/小语种学生",
+      "user": {
+        "nickName": "一粒橙",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/751039e7-0bea-3ce9-9c81-6c0f70ebaf99?imageView2/2/w/80/format/jpg",
+        "userId": "6448cc670000000029015d52",
+        "nickname": "一粒橙",
+        "xsecToken": "AB7kiegwzizLl6GTuROIu4zynWF2C1v3cqMtX_L-D0R9o="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "27",
+        "collected": false,
+        "collectedCount": "16",
+        "commentCount": "5",
+        "sharedCount": "8"
+      },
+      "cover": {
+        "height": 4032,
+        "width": 3024,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191907/78ccdc64d1818dde2ec3afb7a293d01b/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191907/45e4c1cba0b69e8b8e7603c59f6995e1/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 4032,
+          "width": 3024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191907/78ccdc64d1818dde2ec3afb7a293d01b/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191907/45e4c1cba0b69e8b8e7603c59f6995e1/notes_pre_post/1040g3k0323ujgng97a3g5p28phjqanai770bu58!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "1天前",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABAnXmkL8mGwynw4951ZeqMT0H3ry3XTiQTaWoDYxjqJQ=",
+    "id": "6a8340b20000000025006085",
+    "index": 14,
+    "exposed": false,
+    "trackId": "6a8340b20000000025006085"
+  }
+}

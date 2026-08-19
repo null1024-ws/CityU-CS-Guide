@@ -1,0 +1,269 @@
+{
+  "note_id": "68390ebf0000000021006646",
+  "url": "https://www.xiaohongshu.com/explore/68390ebf0000000021006646?xsec_token=AByZNec1ly_iW6FWnvGf7KN3pv6pRtu5T-gqrrHaufESo=",
+  "fetched_at": 1787141072.9625566,
+  "note": {
+    "noteId": "68390ebf0000000021006646",
+    "title": "HKUST CSIT 5970就读体验",
+    "desc": "在 HKUST 2025 spring修了云计算这门课，整体很不错，来给大家分享一下。\n[黄金薯R]这门课的学业负担不算重，而且没有签到的硬性要求，同时还提供了 video recording，方便课后复习回顾。我向老师说明自己在深圳有工作之后，老师认为课程内容对我来说基础，便允许我之后不用去上课了。\n[吧唧R]课程的一大亮点是非常注重实践 。每个学生在 aws 上会有 $50 的额度，对于有兴趣的同学而言，课后可以自己玩服务器。课程的理论知识涵盖丰富，主要讲解了虚拟化、容器、hdfs、hadoop、mapreduce、spark 等内容，让我对云计算领域有了较为全面和深入的认识。\n[扯脸H]除了常规授课，课后老师还安排 TA 结合 AWS 进行 lab 教学。这些 lab 以视频形式呈现，并且不用签到，学习方式十分灵活。TA 的讲解很细致，是手把手教学的模式，对于理解和掌握知识很有帮助。\n[偷笑R]从课程任务来看，有 4 个 assignments。前两个任务是建立几个 aws ec2 实例，后两个则是在 colab 上运行 spark 代码。整体难度不算高，用心做基本都能顺利完成。除了作业，还有开卷的 mid exam，不过考试难度较大，全班均分不到 60。另外还有 final project，这个项目限制不多，只要与 cloud 相关即可。即使把黑马商城部署到 aws 上也能过关，我观察到大多数人会选择和 LLM 结合来做。我对 project 中一些 ai 相关 infra 的 option 很感兴趣，可惜时间有限没能选择。project 支持一人 solo，最多可以 5 人组队，个人建议 3 人组队比较合适，在分工和协作上都能较好地把控。\n[蹲后续H]值得一提的是，这门课程的教授是阿里的顾问（通过内网确认过，非外包工号），并且在一个 P10 下面挂着。听说教授的很多学生都进入了相关团队从事 infra 相关的工作。在当下 LLM 时代，AI Infra 这个方向前景良好。如果有同学对这个方向感兴趣，可以多和老师交流交流，说不定就有机会去阿里实习。\n综合各方面表现，我给这门课打五星🌟🌟🌟🌟🌟 希望以上分享能对准备选课的同学有所帮助。\n#HKUST[话题]# #25fall[话题]# #港硕[话题]# #大厂[话题]# #阿里巴巴[话题]# #留学生[话题]# #水硕[话题]#",
+    "user": {
+      "userId": "63dbcba3000000002702896e",
+      "nickname": "福报厂资深牛马（在职港硕毕业版）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rfh2pj0nu5g5ourpehpt2be0e2t900",
+      "xsecToken": "ABz_Ohlf41NY7tja9NG08nidJegW5l4BeyDlmEZQ_PiDw="
+    },
+    "interactInfo": {
+      "commentCount": "8",
+      "collected": false,
+      "collectedCount": "44",
+      "shareCount": "17",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "32"
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1748569792000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192004/dd202ea444f92098e5ba7431a4debdb4/1040g00831i3d9e41na005ourpehpt2bevgap970!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608192004/11b6355dd0f737d5cdaeacde9ac8ab49/1040g00831i3d9e41na005ourpehpt2bevgap970!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192004/dd202ea444f92098e5ba7431a4debdb4/1040g00831i3d9e41na005ourpehpt2bevgap970!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192004/11b6355dd0f737d5cdaeacde9ac8ab49/1040g00831i3d9e41na005ourpehpt2bevgap970!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g00831i3d9e41na005ourpehpt2bevgap970",
+        "height": 1600,
+        "width": 1200,
+        "url": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "6135d59b000000000100a707",
+        "name": "HKUST",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "61b1933a000000000100361e",
+        "name": "25fall"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "id": "5c5a83da000000000f024b98",
+        "name": "大厂",
+        "type": "topic"
+      },
+      {
+        "id": "5beb9598fd3cab0001ce545c",
+        "name": "阿里巴巴",
+        "type": "topic"
+      },
+      {
+        "id": "5bf470c10a813f0001f89bf5",
+        "name": "留学生",
+        "type": "topic"
+      },
+      {
+        "name": "水硕",
+        "type": "topic",
+        "id": "6141df870000000001005212"
+      }
+    ],
+    "time": 1748569791000,
+    "xsecToken": "AByZNec1ly_iW6FWnvGf7KN3pv6pRtu5T-gqrrHaufESo="
+  },
+  "comments": [
+    {
+      "noteId": "68390ebf0000000021006646",
+      "subComments": [
+        {
+          "createTime": 1748570704000,
+          "ipLocation": "广东",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABk_3nyPtT3qGH9cMbpfNn0aC1YQyDe5oNgwoKfJozKgs=",
+            "userId": "63dbcba3000000002702896e",
+            "nickname": "福报厂资深牛马（在职港硕毕业版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rfh2pj0nu5g5ourpehpt2be0e2t900?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "683911a40000000007035c0a",
+            "userInfo": {
+              "nickname": "三餸饭牛马",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eri7s6b5u6g5p89810ghquq6lol9ng?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB3TT7n1IpXwqjgj5zSyomhA7zJ0KvE8eWr49zT6c2dEY=",
+              "userId": "65094041000000000200ebda"
+            }
+          },
+          "invalid": false,
+          "id": "6839124f000000000b01fb6c",
+          "noteId": "68390ebf0000000021006646",
+          "content": "我这个是24fall学生的课，但是估计25fall应该也差不多[笑哭R] 挣钱嘛 不寒颤[doge]",
+          "atUsers": [],
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "content": "Wei Wang 自然是大佬[害羞R]但是 UST M.Sc. IT 都从 15.5w 涨到现在 27w 了，咋还是这些课",
+      "atUsers": [],
+      "likeCount": "2",
+      "createTime": 1748570533000,
+      "subCommentCursor": "6839124f000000000b01fb6c",
+      "subCommentHasMore": true,
+      "id": "683911a40000000007035c0a",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "4",
+      "status": 0,
+      "userInfo": {
+        "userId": "65094041000000000200ebda",
+        "nickname": "三餸饭牛马",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eri7s6b5u6g5p89810ghquq6lol9ng?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB3TT7n1IpXwqjgj5zSyomhA7zJ0KvE8eWr49zT6c2dEY="
+      },
+      "ipLocation": "广东",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "invalid": false,
+      "id": "684132bb000000000d016be6",
+      "noteId": "68390ebf0000000021006646",
+      "status": 0,
+      "content": "不希望这个课25fall还在开，如果还在开各位都有责任",
+      "createTime": 1749103291000,
+      "subCommentCount": "2",
+      "subComments": [
+        {
+          "id": "68a19f42000000003000aed9",
+          "noteId": "68390ebf0000000021006646",
+          "status": 0,
+          "content": "为啥[偷笑R]",
+          "likeCount": "1",
+          "userInfo": {
+            "xsecToken": "ABMG0ENUDIwPXQMNfbykbLG8c394h-AQUTx7L7nvYNnTA=",
+            "userId": "616ecab7000000000201ad46",
+            "nickname": "AAA美团外卖骑手1638号",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/be4e54a984a21be925a215a08fb36c8b.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "684132bb000000000d016be6",
+            "userInfo": {
+              "xsecToken": "ABLkmvPj5EKBd3uD6xKFqjP3RavJXJnZW3k-pMaZGgnLw=",
+              "userId": "5f375a8c00000000010075f1",
+              "nickname": "bubble",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321i32lr472005npnba608tfhjhfht00?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1755422531000,
+          "ipLocation": "浙江",
+          "invalid": false
+        }
+      ],
+      "showTags": [],
+      "ipLocation": "山东",
+      "subCommentCursor": "68a19f42000000003000aed9",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321i32lr472005npnba608tfhjhfht00?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLkmvPj5EKBd3uD6xKFqjP3RavJXJnZW3k-pMaZGgnLw=",
+        "userId": "5f375a8c00000000010075f1",
+        "nickname": "bubble"
+      },
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS6175 体验",
+  "search_item": {
+    "xsecToken": "AByZNec1ly_iW6FWnvGf7KN3pv6pRtu5T-gqrrHaufESo=",
+    "id": "68390ebf0000000021006646",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192004/8f80125e55611acf4ab6f7af2b6d6f33/1040g00831i3d9e41na005ourpehpt2bevgap970!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608192004/926d6023e8e0724172c1c9dda5976594/1040g00831i3d9e41na005ourpehpt2bevgap970!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1600,
+          "width": 1200
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-05-30"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "HKUST CSIT 5970就读体验",
+      "user": {
+        "nickName": "福报厂资深牛马（在职港硕毕业版）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rfh2pj0nu5g5ourpehpt2be0e2t900?imageView2/2/w/80/format/jpg",
+        "userId": "63dbcba3000000002702896e",
+        "nickname": "福报厂资深牛马（在职港硕毕业版）",
+        "xsecToken": "AB715yarCQ1DYTbWznOzj6oDXKDPgo2UceiM2rYb14pXQ="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "32",
+        "collected": false,
+        "collectedCount": "44",
+        "commentCount": "8",
+        "sharedCount": "17"
+      },
+      "cover": {
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608192004/8f80125e55611acf4ab6f7af2b6d6f33/1040g00831i3d9e41na005ourpehpt2bevgap970!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608192004/926d6023e8e0724172c1c9dda5976594/1040g00831i3d9e41na005ourpehpt2bevgap970!nc_n_webp_prv_1",
+        "height": 1600
+      }
+    },
+    "index": 11,
+    "exposed": false,
+    "trackId": "68390ebf0000000021006646"
+  }
+}

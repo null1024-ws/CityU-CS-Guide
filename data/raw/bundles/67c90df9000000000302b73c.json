@@ -1,0 +1,18 @@
+{
+  "note_id": "67c90df9000000000302b73c",
+  "url": "https://www.xiaohongshu.com/explore/67c90df9000000000302b73c?xsec_token=AB9tKXXgL-NdXdAQ6O9H2PaoJXpUDuha5xCU_QWgZE9A0=",
+  "fetched_at": 1787138812.0759914,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cs188 project2 学习笔记",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "project参见：\nhttps://inst.eecs.berkeley.edu/~cs188/sp25/projects/proj2/\n\t\nQ1：写状态转移的评估函数；这里按优先级依次考虑（远离鬼，减少场面上的食物数量，减少与食物的最短距离），记得加上原来的scorefunction\nQ2：minimax agent，无思维难度，下一题。\nQ3：alphabeta pruning，无思维难度，下一题。\nQ4：expectimax agent，无思维难度，下一题。\nQ5：写状态的评估函数；这里按优先级依次考虑（在鬼未受到惊吓时远离鬼，减少场面上的胶囊数量，减少场面上的食物数量，减少与食物或胶囊的最短距离），记得加上原来的scorefunction，吃豆人在实战中可以吃掉鬼获得大量分数（在调代码前我居然不知道，鉴定为没有童年555）\n﻿#AI[话题]#﻿ ﻿#机器学习[话题]#﻿ ﻿#cs188[话题]#﻿",
+      "sourceRef": "post"
+    }
+  ]
+}

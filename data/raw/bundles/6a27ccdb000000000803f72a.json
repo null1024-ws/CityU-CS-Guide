@@ -1,0 +1,157 @@
+{
+  "note_id": "6a27ccdb000000000803f72a",
+  "url": "https://www.xiaohongshu.com/explore/6a27ccdb000000000803f72a?xsec_token=ABycNFRea5eyZ4v7Y4faB4Fsb_nDYBgOc34NQoRO27XCU=",
+  "fetched_at": 1787142378.7043922,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "本来想送这位同学上oral的，但经过评论区提醒，camera阶段很有可能改图，到时候就有理说不清了(感谢这位同学的提醒）\n\t\n为了给所有努力科研的同学们一个公平，本人以一己之力把5分审稿人打成了2分，所以评论区别再说什么“要是真的效果这么好呢？”这种话了，我真回累了。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "实验和结果自己跑的，文章纯ai写的算不算",
+      "sourceRef": "comment:6a2836720000000029024996",
+      "commentId": "6a2836720000000029024996",
+      "likes": 15,
+      "author": "Saint Tibo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个如果citation/实验分析写错了，还是很容易被怀疑的，最好还是写完多检查几遍",
+      "sourceRef": "comment:6a288c6c0000000027014b85",
+      "commentId": "6a288c6c0000000027014b85",
+      "likes": 27,
+      "author": "晴天"
+    },
+    {
+      "type": "comment",
+      "text": "大佬为啥最后还给2分啊",
+      "sourceRef": "comment:6a27d39c000000002800b870",
+      "commentId": "6a27d39c000000002800b870",
+      "likes": 7,
+      "author": "小红薯6A638CE7"
+    },
+    {
+      "type": "sub_comment",
+      "text": "他为啥给2分我不知道，可能为了挽尊吧，毕竟一开始给了5。我是给的1分",
+      "sourceRef": "comment:6a27d3de000000002b02a531",
+      "commentId": "6a27d3de000000002b02a531",
+      "likes": 41,
+      "author": "XiuFan"
+    },
+    {
+      "type": "comment",
+      "text": "改图是什么意思啊",
+      "sourceRef": "comment:6a27d488000000002803f1ad",
+      "commentId": "6a27d488000000002803f1ad",
+      "likes": 0,
+      "author": "wushaowu2014"
+    },
+    {
+      "type": "sub_comment",
+      "text": "camera版本可以和提交的版本有一些区别的[doge]",
+      "sourceRef": "comment:6a27e42e000000002a02fe76",
+      "commentId": "6a27e42e000000002a02fe76",
+      "likes": 23,
+      "author": "风流淌"
+    },
+    {
+      "type": "comment",
+      "text": "AI  auto research生成的文章，AI给的分普遍会很高，人写的文章，AI比较battle。怎么破局[doge]",
+      "sourceRef": "comment:6a27e352000000002a02d3f4",
+      "commentId": "6a27e352000000002a02d3f4",
+      "likes": 48,
+      "author": "低水平对手"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没这回事，生成器和判别器的区别",
+      "sourceRef": "comment:6a27ef35000000002803375f",
+      "commentId": "6a27ef35000000002803375f",
+      "likes": 22,
+      "author": "花喵梨"
+    },
+    {
+      "type": "comment",
+      "text": "直接给ac写信，作为社区的一份子，不管别人怎么样，自己做到问心无愧就好",
+      "sourceRef": "comment:6a27d38c000000002a03299b",
+      "commentId": "6a27d38c000000002a03299b",
+      "likes": 4,
+      "author": "BBBigC"
+    },
+    {
+      "type": "sub_comment",
+      "text": "写过了，我严重怀疑是AC上的压力",
+      "sourceRef": "comment:6a27d3fc000000002902d4e4",
+      "commentId": "6a27d3fc000000002902d4e4",
+      "likes": 19,
+      "author": "XiuFan"
+    },
+    {
+      "type": "comment",
+      "text": "如何判定AI写呢？",
+      "sourceRef": "comment:6a27e4e80000000028030148",
+      "commentId": "6a27e4e80000000028030148",
+      "likes": 2,
+      "author": "小红薯632AEEDD"
+    },
+    {
+      "type": "sub_comment",
+      "text": "AI看过的领域内文章比较少 充其量就是照猫画虎 重点也容易不对 所以小同行很快能看出来",
+      "sourceRef": "comment:6a282136000000002702bb2d",
+      "commentId": "6a282136000000002702bb2d",
+      "likes": 6,
+      "author": "冷冻青蛙"
+    },
+    {
+      "type": "comment",
+      "text": "最近这种论文太多了头疼",
+      "sourceRef": "comment:6a283bda0000000027015b9c",
+      "commentId": "6a283bda0000000027015b9c",
+      "likes": 0,
+      "author": "TBD"
+    },
+    {
+      "type": "sub_comment",
+      "text": "问题是审稿还给高分，很难受",
+      "sourceRef": "comment:6a283c9a0000000029036389",
+      "commentId": "6a283c9a0000000029036389",
+      "likes": 0,
+      "author": "XiuFan"
+    },
+    {
+      "type": "comment",
+      "text": "怎么判断是纯ai造假哇，这是点比baseline高很多吗",
+      "sourceRef": "comment:6a28b704000000002803e77f",
+      "commentId": "6a28b704000000002803e77f",
+      "likes": 0,
+      "author": "BiuBiu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我后续会写个工具",
+      "sourceRef": "comment:6a2911a5000000002a02d270",
+      "commentId": "6a2911a5000000002a02d270",
+      "likes": 1,
+      "author": "XiuFan"
+    },
+    {
+      "type": "comment",
+      "text": "当发现一篇的时候，实际上已经有一屋子了，和蟑螂一样",
+      "sourceRef": "comment:6a280bcb000000002803fec8",
+      "commentId": "6a280bcb000000002803fec8",
+      "likes": 3,
+      "author": "drizzle"
+    },
+    {
+      "type": "comment",
+      "text": "这次MM审稿，会在适当时候公开审稿人名字的",
+      "sourceRef": "comment:6a28afb9000000000d023c01",
+      "commentId": "6a28afb9000000000d023c01",
+      "likes": 1,
+      "author": "闲置专用（男盆友托管）"
+    }
+  ]
+}

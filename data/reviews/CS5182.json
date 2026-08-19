@@ -5,15 +5,29 @@
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 3
+      "sourceCount": 5,
+      "distinctSources": 5
     },
     "difficulty": {
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 10,
-      "distinctSources": 6
+      "sourceCount": 11,
+      "distinctSources": 7
+    },
+    "grading": {
+      "value": "generous",
+      "label": "给分友好",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 3
+    },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 4,
+      "distinctSources": 4
     },
     "attendance": {
       "value": "not_strict",
@@ -21,20 +35,6 @@
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 3
-    },
-    "grading": {
-      "value": "generous",
-      "label": "给分友好",
-      "confidence": "confirmed",
-      "sourceCount": 2,
-      "distinctSources": 2
     },
     "hasRecording": {
       "value": "unknown",
@@ -47,6 +47,24 @@
     "CS5182 Computer Graphic 必选"
   ],
   "sources": [
+    {
+      "noteId": "68346d6e000000002102f801",
+      "url": "https://www.xiaohongshu.com/explore/68346d6e000000002102f801?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjeyDV0dSYkdlI3uoWEP1r38=",
+      "excerpt": "2. CS5182 Computer Graphics；Lecturer: Junhui HOU；上课体验；相对来说课程内容是经过老师精挑细选的比较基础的部分，即使是图形学小白也可以理解。老师很友善，课下可以普通话讨论。；项目体验；1-3人项目，有线下pre。老师提供了很多选题，建议选取点云之外的题目，老师原话说这题目太简单选的人太多，考虑之后取消该选题，选择点云之外题目的人更容易拿高分。电脑性能有限的同学应谨慎，项目涉及深度学习，可能要跑很久很久，环境配置也稍微有点棘手。；作业体验：无作业；考试体验；完全闭卷期中考试和期末考试，期中考试内容很简单，可能大家期中都拿了高分所以期末考试有点上强度了，题目难度看起来不大但细看觉得有些古怪。；题外话：两个学期都会有线下Gathering，会有不少教授来和大家聊天交流，氛围很好。最重要的是有免费茶点，可以省一顿饭钱",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "Cityu Msc CS SemB课程评价（上）"
+    },
+    {
+      "noteId": "6a773731000000002500a5fa",
+      "url": "https://www.xiaohongshu.com/explore/6a773731000000002500a5fa?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOsS7XOb37bBAFXgSgK9B7I=",
+      "excerpt": "10.CS5182 Computer Graphics；课程结构为一次期中考试和一个小组project，无平时作业。project并没有太大的开发难度，但对电脑性能要求非常高，比较耗时，建议早点做，需要线下pre，但并不会太多难为人。课程内容难度适中，但概念比较多，复习起来比较麻烦。期末和期中考试题型类似，有概念加应用题，闭卷且难度偏高（不过老师一直说出简单了），但只要把几道固定的应用题，如图形变换等弄懂，也能拿到不错的分数。；优点：project开发难度较低，考试应用题好拿分；缺点：project对电脑性能要求高，需要线下pre，考试难度较高；SEMB课程强度明显比SEMA高出一大截，几乎没什么低难度课，所以最好SEMA多选一点，或者上st和选实习，不要跟我一样4+6选课。SEMA另有一门EC5001评价似乎不错，可以考虑选上。",
+      "extractedFrom": [
+        "post_body"
+      ],
+      "postTitle": "CityU Msc CS选课指南SEMB（下）（划水版）"
+    },
     {
       "noteId": "68980dce000000002501bcd8",
       "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
@@ -100,26 +118,8 @@
         "post_body"
       ],
       "postTitle": "🇭🇰CityU CS SemB选课"
-    },
-    {
-      "noteId": "6a0c1fc800000000080325e9",
-      "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
-      "excerpt": "CS5182 Computer graphic；课程内容也是经典图形学内容比如transformation，shading这些，课程项目需要用深度学习，最简单的应该就是点云那个项目。有期中期末两次考试，期末考试占比60。难度适中且包含了期中考过的很多知识点，如果只是想过的话，把矩阵变换的题掌握就可以了，再看看概念，总体是不难的。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu CS课程评价(二)"
-    },
-    {
-      "noteId": "6a0bd76e000000003700f86f",
-      "url": "https://www.xiaohongshu.com/explore/6a0bd76e000000003700f86f?xsec_token=ABhbQcz06VLSSPUzCUuOMVTFnDu0p-O2fdsPAHbpU2Qn4=",
-      "excerpt": "CS5182 计算机图形学（选修）；想省事的话闭眼选，无quiz，无作业，一个小组项目，闭卷期中＋期末。；想不听课还拿高分慎选，期中和期末题型差不多。期末十道大题：CPU和GPU、3D转换两道计算、线性裁剪算法、平行与透视投影、光线追踪和辐射度、混叠种类和抗混叠、照明中的几个反射。基本没去过几节课，复习起来比较吃力。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU CS Master SemB"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-19"
 }

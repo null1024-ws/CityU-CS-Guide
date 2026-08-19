@@ -1,0 +1,262 @@
+{
+  "note_id": "6a79c098000000000f03a800",
+  "url": "https://www.xiaohongshu.com/explore/6a79c098000000000f03a800?xsec_token=ABE8HpHds2DPTjo2jiPzigtZAs3YwxpmisvYtI6UwTe3o=",
+  "fetched_at": 1787140562.8994176,
+  "note": {
+    "interactInfo": {
+      "collectedCount": "14",
+      "commentCount": "8",
+      "liked": false,
+      "likedCount": "16",
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "collected": false
+    },
+    "tagList": [
+      {
+        "id": "5fe2511f0000000001005622",
+        "name": "omscs",
+        "type": "topic"
+      },
+      {
+        "id": "6740b5c90000000020002670",
+        "name": "CS7646",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "65d05e5e0000000003019d0f",
+        "name": "ml4t"
+      },
+      {
+        "id": "610a5833000000000100bbae",
+        "name": "machinelearning",
+        "type": "topic"
+      },
+      {
+        "id": "6452cfe70000000028012f12",
+        "name": "OMSCS选课",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1786364056000,
+    "noteId": "6a79c098000000000f03a800",
+    "type": "normal",
+    "user": {
+      "userId": "63d72a5200000000260129c5",
+      "nickname": "YaoYaoDeeDee",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l0vn0obj0005oun5999iae59pe27m0",
+      "xsecToken": "ABR3JA_DWVicWDO7BT6Vfh6xtmhSwWIdiMGaMDI2zAYUw="
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191956/4e94c201042ffd013fac7dc299477595/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "height": 1188,
+        "url": "",
+        "stream": {},
+        "fileId": "oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0",
+        "width": 1188,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191956/36c6578ebd63d4360f33349c99af8b9c/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608191956/4e94c201042ffd013fac7dc299477595/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191956/36c6578ebd63d4360f33349c99af8b9c/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "lastUpdateTime": 1786364057000,
+    "ipLocation": "美国",
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "26 Summer CS 7646 : Hard A，但算 Easy B",
+    "desc": "刚结束 OMSCS 的 CS 7646（Machine Learning for Trading），分享一下我对这门课的真实感受 ✍️\n\t\n如果目标只是拿 B，整体压力不算特别大；但如果想拿 A，就需要认真对待几乎每一个得分点，尤其是 Projects 和 Reports。\n\t\n📚 课程难点：占比25%的闭卷考试\n课程难点对我而言，是占总成绩25%的闭卷考试。\n考试最难受的地方不是单纯“知识点难”，而是：\n\t\n🔹 题目问法不直白\n🔹 很多选项看起来都像对的\n🔹 考完之后也很难判断自己究竟考得怎么样\n\t\n复习时除了看 Lectures，指定教材和 Readings 也需要认真看。如果你想拿 A，我建议默认两次考试总体会让总成绩丢掉6%左右。这个学期的期中和期末考试，大家的平均分都是 80/110左右。\n\t\n💻 Projects 才是保 A 的关键\n\t\n这门课一共有 8个 Projects，其中 4个需要写 Report。我的 Project 扣分基本都发生在 Report，而不是代码本身：\n\t\n🔸 我对 overfitting 的分析出现了问题，被扣了10分\n🔸 Report 里同一句话重复了一次，被扣了1分\n\t\n所以我的感觉是：TA真的会认真读你的 Report！ 👀 这门课每个 Project 的要求都非常繁琐和具体，一定要认真对待。\n\t\n📈 课程内容值不值得学？\n\t\n对于像我这样完全没有金融背景的人来说，Lectures 其实挺有意思，也挺有收获的。学完以后，至少能够理解机器学习如何被应用到量化交易中，也会对金融市场和交易策略建立一个比较基础的框架。\n但如果期待学完之后就能做出一个真正预测市场走势、稳定赚钱的 AI Trading Model，那这门课可能会让你失望。\n\t\n🙋 TA体验\n\t\n这门课的 TA 非常给力，也很有耐心，必须给个赞！👍\n因为我很马虎，前两个 Projects 都只提交到了 Gradescope 的 Testing Section，忘记提交到 Submission Section，所以和 TA 的交涉比较多。\n他们每次都很及时地回复，最后在出分当天也帮我完成了 Regrade。\n我的成绩终于从之前的 88.11% 变成了 90.5%，A 飘过！🎉😭\n\t\n#omscs[话题]# #CS7646[话题]# #ml4t[话题]# #machinelearning[话题]# #OMSCS选课[话题]#",
+    "xsecToken": "ABE8HpHds2DPTjo2jiPzigtZAs3YwxpmisvYtI6UwTe3o="
+  },
+  "comments": [
+    {
+      "likeCount": "0",
+      "ipLocation": "美国",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "showTags": [],
+      "createTime": 1786364790000,
+      "id": "6a79c3760000000003008133",
+      "content": "这课挺水的",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5b745a1c26935d00015832ab",
+        "nickname": "德拉蒙德尼古拉斯",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3109g62o2mk004aep1vd1oclb55ofii0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABOr__odPjEW8ekuqoaACYWW5pr1KzoBUWu2r4CK8xhuI="
+      },
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "每个人体感还是不同的 我上的时候很紧张 对我不是水的 [笑哭R][笑哭R] 不过我上的是夏季 秋季多一个月 节奏应该会好些",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a79c3760000000003008133",
+            "userInfo": {
+              "userId": "5b745a1c26935d00015832ab",
+              "nickname": "德拉蒙德尼古拉斯",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3109g62o2mk004aep1vd1oclb55ofii0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABOr__odPjEW8ekuqoaACYWW5pr1KzoBUWu2r4CK8xhuI="
+            }
+          },
+          "noteId": "6a79c098000000000f03a800",
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABZgj5id7zUqzBPtrdIsqknfK_h6hanx3AkKcPluEJd6E=",
+            "userId": "63d72a5200000000260129c5",
+            "nickname": "YaoYaoDeeDee",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l0vn0obj0005oun5999iae59pe27m0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1786367126000,
+          "invalid": false,
+          "id": "6a79cc96000000000d028400"
+        }
+      ],
+      "subCommentCursor": "6a79cc96000000000d028400",
+      "noteId": "6a79c098000000000f03a800",
+      "status": 0,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "6241592400000000210258b1",
+        "nickname": "XX",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322eta11hmu005oi1b4i8cm5hqmoctbo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABTIekZuL_N0PY0JQ_2CvOcbVIfEtI06lKj2uH8VlNtKo="
+      },
+      "createTime": 1786368216000,
+      "invalid": false,
+      "noteId": "6a79c098000000000f03a800",
+      "atUsers": [],
+      "ipLocation": "安徽",
+      "subCommentCursor": "6a79d277000000000d022401",
+      "subComments": [
+        {
+          "id": "6a79d277000000000d022401",
+          "content": "[笑哭R][笑哭R][笑哭R] 这门课一直很火的 之前属于水课因为开卷考试 现在有点儿变难了",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "noteId": "6a79c098000000000f03a800",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "nickname": "YaoYaoDeeDee",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l0vn0obj0005oun5999iae59pe27m0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZgj5id7zUqzBPtrdIsqknfK_h6hanx3AkKcPluEJd6E=",
+            "userId": "63d72a5200000000260129c5"
+          },
+          "createTime": 1786368631000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a79d0d8000000000203593c",
+            "userInfo": {
+              "userId": "6241592400000000210258b1",
+              "nickname": "XX",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322eta11hmu005oi1b4i8cm5hqmoctbo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABTIekZuL_N0PY0JQ_2CvOcbVIfEtI06lKj2uH8VlNtKo="
+            }
+          }
+        }
+      ],
+      "id": "6a79d0d8000000000203593c",
+      "status": 0,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "content": "还有这门课！我一直没找到跟我工作相关的课程，这两年都在瞎学[捂脸R][笑哭R][笑哭R]",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 怎么样",
+  "search_item": {
+    "xsecToken": "ABE8HpHds2DPTjo2jiPzigtZAs3YwxpmisvYtI6UwTe3o=",
+    "id": "6a79c098000000000f03a800",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "26 Summer CS 7646 : Hard A，但算 Easy B",
+      "user": {
+        "userId": "63d72a5200000000260129c5",
+        "nickname": "YaoYaoDeeDee",
+        "xsecToken": "ABMS70IYv43Dpp2X514eL26tbuLohsdQc1Lpmf0c9CWis=",
+        "nickName": "YaoYaoDeeDee",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l0vn0obj0005oun5999iae59pe27m0?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "likedCount": "16",
+        "collected": false,
+        "collectedCount": "14",
+        "commentCount": "8",
+        "sharedCount": "2",
+        "liked": false
+      },
+      "cover": {
+        "height": 1188,
+        "width": 1188,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608191955/afbcbb70edbb27cc368e43f01e80d554/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608191955/410f8e1198a18da23903e3e957f03c17/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1188,
+          "width": 1188,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191955/afbcbb70edbb27cc368e43f01e80d554/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202608191955/410f8e1198a18da23903e3e957f03c17/oss-ae/spectrum/1040g440323mhv3jk26005oun5999iae51b465h0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-10"
+        }
+      ],
+      "type": "normal"
+    },
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a79c098000000000f03a800"
+  }
+}
