@@ -120,6 +120,7 @@ tr:hover td{background:rgba(250,249,245,.85)}
 .tips li{padding:12px 0;border-bottom:1px solid var(--border-soft);line-height:1.6}
 .tips li:last-child{border-bottom:none}
 .site-footer{margin-top:72px;padding-top:28px;border-top:1px solid var(--border-soft);font-size:14px;color:var(--stone)}
+.site-footer .visit-count{margin:0 0 10px;font-size:13px;color:var(--stone)}
 @media(max-width:880px){.page{padding:48px 22px 72px}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}}
 @media(max-width:480px){.page{padding:36px 16px 60px}.hero h1{font-size:28px}.hero p{font-size:16px}.meta-grid{grid-template-columns:1fr 1fr}.chip{font-size:12px;padding:7px 12px}table{font-size:13px;min-width:680px}.legend{gap:8px 12px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
@@ -239,10 +240,19 @@ def site_back_link(href: str = "index.html") -> str:
     return f'<p class="back-link"><a href="{link(href)}">← 返回课程列表</a></p>'
 
 
+BUSUANZI_SCRIPT = '<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>'
+
+
 def site_footer(*, today: str = "") -> str:
     if not today:
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    return f'<footer class="site-footer">CityU-CS-Guide · 非官方选课参考 · {today}</footer>'
+    return (
+        f'<footer class="site-footer">'
+        f'<p class="visit-count">Total visits: <span id="busuanzi_site_pv">Loading…</span></p>'
+        f"<p>CityU-CS-Guide · 非官方选课参考 · {today}</p>"
+        f"</footer>"
+        f"{BUSUANZI_SCRIPT}"
+    )
 
 
 def render_index(courses: list[dict]) -> str:
