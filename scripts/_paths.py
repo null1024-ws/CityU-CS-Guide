@@ -19,6 +19,8 @@ RAW_INDEX = RAW_DIR / "index.json"
 SITE_DIST = ROOT / "site" / "dist"
 
 SITE_REPO = "https://github.com/null1024-ws/CityU-CS-Guide"
+PARTNER_REVIEW_SITE = "https://shanechen0722.github.io/cityu-CS-review/"
+PARTNER_REVIEW_NAME = "CityU 课程资料库"
 
 COURSE_CODE_RE = r"(?<![A-Za-z0-9])(CS\d{4}|EC5001)(?![A-Za-z0-9])"
 CATALOGUE_YEAR = "202627"

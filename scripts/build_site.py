@@ -10,7 +10,18 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from _paths import COURSES_JSON, REVIEWS_DIR, SITE_DIST, MSC_CURRICULUM_URL, SITE_REPO, catalogue_url, ensure_dirs, load_courses  # noqa: E402
+from _paths import (  # noqa: E402
+    COURSES_JSON,
+    MSC_CURRICULUM_URL,
+    PARTNER_REVIEW_NAME,
+    PARTNER_REVIEW_SITE,
+    REVIEWS_DIR,
+    SITE_DIST,
+    SITE_REPO,
+    catalogue_url,
+    ensure_dirs,
+    load_courses,
+)
 from review_extract import FIELD_LABELS, clean_excerpt  # noqa: E402
 
 BASE_PATH = "/CityU-CS-Guide"
@@ -44,9 +55,17 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .site-nav{font-family:var(--latin-ui);font-size:13px;color:var(--stone);display:flex;gap:14px;align-items:center}
 .site-nav a{color:var(--stone)}.site-nav a:hover,.site-nav a[aria-current="page"]{color:var(--brand)}
 .site-nav a[aria-current="page"]{font-weight:500}
-.github-star{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;border:1px solid var(--border);background:var(--ivory);color:var(--brand);font-family:var(--latin-ui);font-size:12px;font-weight:500;border-radius:999px;white-space:nowrap;line-height:1}
-.github-star:hover{border-color:var(--brand);background:var(--brand-tint);color:var(--brand)}
+.github-star,.partner-link{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;border:1px solid var(--border);background:var(--ivory);font-family:var(--latin-ui);font-size:12px;font-weight:500;border-radius:999px;white-space:nowrap;line-height:1}
+.github-star{color:var(--brand)}.github-star:hover{border-color:var(--brand);background:var(--brand-tint);color:var(--brand)}
+.partner-link{color:var(--olive)}.partner-link:hover{border-color:var(--brand-light);background:var(--brand-tint);color:var(--brand)}
 .github-star svg{width:14px;height:14px;fill:currentColor;flex-shrink:0}
+.partner-toast{background:var(--brand-tint);border-bottom:1px solid var(--border-soft)}
+.partner-toast[hidden]{display:none!important}
+.partner-toast-inner{max-width:1140px;margin:0 auto;padding:9px 40px;display:flex;align-items:center;gap:14px}
+.partner-toast p{margin:0;flex:1;min-width:0;font-family:var(--latin-ui);font-size:13px;color:var(--olive);line-height:1.45;letter-spacing:0}
+.partner-toast a{font-weight:500;color:var(--brand)}
+.partner-toast-close{flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;margin:0 -6px 0 0;border:none;border-radius:999px;background:transparent;color:var(--stone);font-size:18px;line-height:1;cursor:pointer;font-family:var(--latin-ui)}
+.partner-toast-close:hover{color:var(--brand);background:rgba(27,54,93,.08)}
 .back-link{font-family:var(--latin-ui);font-size:14px;margin:0 0 22px}
 .back-link a{color:var(--stone)}.back-link a:hover{color:var(--brand)}
 .ext-link{font-family:var(--latin-ui);font-size:12px;margin-left:6px;color:var(--stone)}
@@ -121,8 +140,8 @@ tr:hover td{background:rgba(250,249,245,.85)}
 .tips li:last-child{border-bottom:none}
 .site-footer{margin-top:72px;padding-top:28px;border-top:1px solid var(--border-soft);font-size:14px;color:var(--stone)}
 .site-footer .visit-count{margin:0 0 10px;font-size:13px;color:var(--stone)}
-@media(max-width:880px){.page{padding:48px 22px 72px}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}}
-@media(max-width:480px){.page{padding:36px 16px 60px}.hero h1{font-size:28px}.hero p{font-size:16px}.meta-grid{grid-template-columns:1fr 1fr}.chip{font-size:12px;padding:7px 12px}table{font-size:13px;min-width:680px}.legend{gap:8px 12px}}
+@media(max-width:880px){.page{padding:48px 22px 72px}.partner-toast-inner{padding:8px 22px;gap:10px}.partner-toast p{font-size:12px;line-height:1.4}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}}
+@media(max-width:480px){.page{padding:36px 16px 60px}.partner-toast-inner{padding:8px 16px}.hero h1{font-size:28px}.hero p{font-size:16px}.meta-grid{grid-template-columns:1fr 1fr}.chip{font-size:12px;padding:7px 12px}table{font-size:13px;min-width:680px}.legend{gap:8px 12px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 """
 
@@ -216,6 +235,44 @@ STAR_SVG = (
 )
 
 
+def partner_link(*, compact: bool = False) -> str:
+    label = "复习资料 ↗" if compact else f"{PARTNER_REVIEW_NAME} ↗"
+    return (
+        f'<a class="partner-link" href="{esc(PARTNER_REVIEW_SITE)}" target="_blank" rel="noopener" '
+        f'title="友情站点：课程复习资料与 past paper">{esc(label)}</a>'
+    )
+
+
+PARTNER_TOAST_KEY = "cityu-cs-guide-partner-toast"
+
+
+def partner_toast() -> str:
+    return (
+        f'<div id="partner-toast" class="partner-toast" hidden role="region" aria-label="友情站点提示">'
+        f'<div class="partner-toast-inner">'
+        f"<p>选课后需要复习资料？友情站点 "
+        f'<a href="{esc(PARTNER_REVIEW_SITE)}" target="_blank" rel="noopener">{esc(PARTNER_REVIEW_NAME)}</a>'
+        f" 有 past paper、复习笔记等 · 关闭后请点右上角「复习资料」</p>"
+        f'<button type="button" class="partner-toast-close" aria-label="关闭提示">×</button>'
+        f"</div></div>"
+    )
+
+
+def partner_toast_script() -> str:
+    return f"""<script>
+(function(){{
+  var key={json.dumps(PARTNER_TOAST_KEY)};
+  var el=document.getElementById('partner-toast');
+  if(!el||localStorage.getItem(key))return;
+  el.hidden=false;
+  el.querySelector('.partner-toast-close').addEventListener('click',function(){{
+    localStorage.setItem(key,'1');
+    el.hidden=true;
+  }});
+}})();
+</script>"""
+
+
 def site_header(active: str = "") -> str:
     links = [
         ("index.html", "课程列表"),
@@ -232,7 +289,7 @@ def site_header(active: str = "") -> str:
     return (
         f'<div class="site-top">'
         f'<div class="eyebrow">CityU MSc CS · 选课参考</div>'
-        f'<nav class="site-nav">{nav}{star}</nav>'
+        f'<nav class="site-nav">{nav}{partner_link(compact=True)}{star}</nav>'
         f"</div>"
     )
 
@@ -283,6 +340,7 @@ def render_index(courses: list[dict]) -> str:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return f"""{head("城大 MSc CS 选课参考", "香港城市大学计算机科学硕士课程评价与选课攻略，数据来自小红书")}
 <body>
+{partner_toast()}
 <div class="page">
 {site_header("课程列表")}
 <section class="hero">
@@ -317,6 +375,7 @@ def render_index(courses: list[dict]) -> str:
 </div>
 {site_footer(today=today)}
 </div>
+{partner_toast_script()}
 <script>
 document.querySelectorAll('.chip').forEach(btn=>{{
   btn.addEventListener('click',()=>{{
@@ -444,6 +503,12 @@ def render_about() -> str:
 <li><span class="badge badge-reported">单源提及</span> — 仅 1 篇来源提及，或同一帖子内重复提及</li>
 <li><span class="badge badge-disputed">存疑</span> — 帖子与评论区或其他来源说法冲突</li>
 </ul>
+<h2>友情链接</h2>
+<p>
+<a href="{esc(PARTNER_REVIEW_SITE)}" target="_blank" rel="noopener">{esc(PARTNER_REVIEW_NAME)}</a>
+（<a href="https://github.com/SHANECHEN0722/cityu-CS-review" target="_blank" rel="noopener">cityu-CS-review</a>）
+收录课程复习资料、past paper 与选课心得。本站侧重小红书选课评价，对方侧重复习备考，两者互补。
+</p>
 <h2>免责声明</h2>
 <p>本站为非官方选课参考，不保证信息完整或最新。选课请以 CityU 官方通知与课程大纲为准。</p>
 </article>
