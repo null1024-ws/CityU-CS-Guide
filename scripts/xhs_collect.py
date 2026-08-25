@@ -17,6 +17,7 @@ from _paths import (  # noqa: E402
     ensure_dirs,
     load_courses,
     load_raw_index,
+    resolve_note_url,
     save_raw_index,
     xhs_bin,
     xhs_env,
@@ -152,9 +153,12 @@ def save_note_bundle(note_id: str, bundle: dict) -> None:
     path.write_text(json.dumps(bundle, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def fetch_note_detail(url: str, note_id: str) -> dict:
+def fetch_note_detail(url: str, note_id: str, *, search_item: dict | None = None) -> dict:
     note_id = note_id.split("#", 1)[0]
+    url = resolve_note_url(note_id, url, search_item=search_item)
     bundle: dict = {"note_id": note_id, "url": url, "fetched_at": time.time()}
+    if search_item:
+        bundle["search_item"] = search_item
     read_data = run_xhs(["read", note_id, "--comments"], timeout=300)
     if read_data and isinstance(read_data, dict) and not read_data.get("_error"):
         if "note" in read_data:
@@ -163,6 +167,7 @@ def fetch_note_detail(url: str, note_id: str) -> dict:
             bundle["note"] = read_data.get("data")
         if "comments" in read_data:
             bundle["comments"] = read_data["comments"]
+    bundle["url"] = resolve_note_url(note_id, url, search_item=search_item)
     return bundle
 
 
@@ -223,12 +228,13 @@ def collect_search(query: str, index: dict, max_notes: int, max_pages: int = 1) 
             continue
 
         print(f"    fetch note {note_id}")
-        bundle = fetch_note_detail(url, note_id)
+        bundle = fetch_note_detail(url, note_id, search_item=item)
         bundle["search_query"] = query
         bundle["search_item"] = item
         save_note_bundle(note_id, bundle)
+        resolved_url = bundle["url"]
         index["notes"][note_id] = {
-            "url": url,
+            "url": resolved_url,
             "query": query,
             "queries": [query],
             "fetched_at": bundle["fetched_at"],

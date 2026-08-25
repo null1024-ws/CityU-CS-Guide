@@ -21,6 +21,7 @@ SITE_DIST = ROOT / "site" / "dist"
 SITE_REPO = "https://github.com/null1024-ws/CityU-CS-Guide"
 PARTNER_REVIEW_SITE = "https://shanechen0722.github.io/cityu-CS-review/"
 PARTNER_REVIEW_NAME = "CityU 课程资料库"
+XHS_TOKEN_CACHE = Path.home() / ".xhs-cli" / "token_cache.json"
 
 COURSE_CODE_RE = r"(?<![A-Za-z0-9])(CS\d{4}|EC5001)(?![A-Za-z0-9])"
 CATALOGUE_YEAR = "202627"
@@ -30,6 +31,41 @@ MSC_CURRICULUM_URL = "https://www.cs.cityu.edu.hk/en/academic-programmes/msc-com
 
 def catalogue_url(code: str) -> str:
     return f"{CATALOGUE_BASE}/{code.upper()}.htm"
+
+
+def load_xsec_token(note_id: str) -> str:
+    """Match xhs-cli: resolve xsec_token from ~/.xhs-cli/token_cache.json."""
+    if not XHS_TOKEN_CACHE.exists():
+        return ""
+    try:
+        cache = json.loads(XHS_TOKEN_CACHE.read_text(encoding="utf-8"))
+        return str(cache.get(note_id, "") or "")
+    except (OSError, json.JSONDecodeError):
+        return ""
+
+
+def resolve_note_url(note_id: str, url: str = "", *, search_item: dict | None = None) -> str:
+    """Build explore URL with xsec_token when available (search item or token cache)."""
+    note_id = note_id.split("#", 1)[0]
+    if url and "xsec_token=" in url:
+        return url.split("#", 1)[0]
+
+    xsec = ""
+    if search_item:
+        note_card = search_item.get("note_card") or search_item.get("noteCard") or {}
+        xsec = str(
+            search_item.get("xsec_token")
+            or search_item.get("xsecToken")
+            or note_card.get("xsec_token")
+            or ""
+        )
+    if not xsec:
+        xsec = load_xsec_token(note_id)
+
+    base = url.split("?", 1)[0].split("#", 1)[0] if url else f"https://www.xiaohongshu.com/explore/{note_id}"
+    if note_id not in base:
+        base = f"https://www.xiaohongshu.com/explore/{note_id}"
+    return f"{base}?xsec_token={xsec}" if xsec else base
 
 
 def ensure_dirs() -> None:

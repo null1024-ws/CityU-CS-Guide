@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from _paths import COURSE_CODE_RE, RAW_BUNDLES, RAW_OCR, RAW_XHS, ensure_dirs  # noqa: E402
+from _paths import COURSE_CODE_RE, RAW_BUNDLES, RAW_OCR, RAW_XHS, ensure_dirs, resolve_note_url  # noqa: E402
 
 CODE_PATTERN = re.compile(COURSE_CODE_RE, re.IGNORECASE)
 
@@ -153,9 +153,10 @@ def build_bundle(note_file: Path) -> dict:
         })
 
     codes = sorted(set(m.group(1).upper() for m in CODE_PATTERN.finditer("\n".join(c["text"] for c in chunks))))
+    url = resolve_note_url(note_id, raw.get("url", ""), search_item=raw.get("search_item"))
     return {
         "note_id": note_id,
-        "url": raw.get("url", ""),
+        "url": url,
         "fetched_at": raw.get("fetched_at"),
         "course_codes": codes,
         "chunks": chunks,

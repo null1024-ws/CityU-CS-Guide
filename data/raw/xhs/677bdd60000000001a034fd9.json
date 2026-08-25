@@ -1,22 +1,335 @@
 {
   "note_id": "677bdd60000000001a034fd9",
-  "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9",
-  "fetched_at": 1785926400.0,
-  "search_query": "manual",
+  "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9?xsec_token=AB9wdBcBIohhkYUX9WJBvzOUwGSCcSlKLl-OX_507fQXI=",
+  "fetched_at": 1787649443.894602,
   "note": {
-    "noteId": "677bdd60000000001a034fd9",
-    "title": "CityU CS SEMA: Part II",
-    "desc": "接上篇，先前已叠过甲，不再赘述\n\t\nCS5488 Big Data Algorithms and Techniques\n对的，就是为了这点醋，我才包的这顿饺子！内容包括多个Assignment、Final、Group-Project。Assignment基本不出意外都能拿满，Group-Project是3-4（应该是）人一组，相比其他课的，多了很多容错，项目可以小一点，人少也方便沟通。老师很有意思，幽默风趣，会经常看小红书里大伙对这门课的评价，在课上也会时不时的Call Back，会拿之前的吐槽贴举例子。我稍微复述一下老师的意思，这门课很考虑实践，\"并行\"贯穿这门课的始终，包括spark、Python和R中的并行库等，需要应用过，作业和Tutorial认真写过，Final就没什么问题了（老师课上是会讲重点的）。Final闭卷，会有实践的题，比如写代码，也会有一些硬记的题（不过我有些没答上来。。）。选这门课也是因为本科期间挺遗憾的，只是入门了Hadoop，当时一直要亲力亲为的搞懂每个配置文件，个人觉得有点浪费资源。\n\t\nEC5001 Introduction to Ecommerce\n会有两部分组成，应该是IS老师先上，CS老师上学期后半部分的课。包括签到（仅IS老师的部分）、Assignment、Final、Group-Project。前半部分偏文科，需要死记硬背，然后在final的时候找对应的应用（可能是我漏了三条，导致分低。。）。后半部分和CS相关，会有计网、网安、XML类似这种的知识，知识覆盖面还挺广的，也是需要记概念和会写一些代码的，不是很难，但是考的有些比较细，属于是蒙也蒙不上那种。\n\t\n欢迎评论，尽量回复解答，希望有帮助\n#cityu #cs",
     "user": {
+      "userId": "5dc6da37000000000100b5b3",
       "nickname": "momo",
-      "userId": "5dc6da37000000000100b5b3"
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0",
+      "xsecToken": "ABNJGaJLGd0O01TvrG7rJ1IyOaqipMtZOwbIqhapNSY0k="
     },
     "interactInfo": {
-      "likedCount": "30",
-      "collectedCount": "29",
-      "commentCount": "11"
+      "relation": "none",
+      "likedCount": "35",
+      "commentCount": "11",
+      "shareCount": "5",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "32"
     },
-    "time": 1736170848000
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g34o31cak2p61166g5ne6r8rg9ddjl335phg",
+        "width": 1017,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202608251717/19c801596db729b10ca7f4d22ebd7ecf/spectrum/1040g34o31cak2p61166g5ne6r8rg9ddjl335phg!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "height": 508,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608251717/19c801596db729b10ca7f4d22ebd7ecf/spectrum/1040g34o31cak2p61166g5ne6r8rg9ddjl335phg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202608251717/c3140e57293c568cd9374a9f1f1654b0/spectrum/1040g34o31cak2p61166g5ne6r8rg9ddjl335phg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202608251717/c3140e57293c568cd9374a9f1f1654b0/spectrum/1040g34o31cak2p61166g5ne6r8rg9ddjl335phg!nd_dft_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "name": "cs",
+        "type": "topic",
+        "id": "5cd30b11000000000f02eeb8"
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "接上篇，先前已叠过甲，不再赘述\n\t\nCS5488 Big Data Algorithms and Techniques\n对的，就是为了这点醋，我才包的这顿饺子！内容包括多个Assignment、Final、Group-Project。Assignment基本不出意外都能拿满，Group-Project是3-4（应该是）人一组，相比其他课的，多了很多容错，项目可以小一点，人少也方便沟通。老师很有意思，幽默风趣，会经常看小红书里大伙对这门课的评价，在课上也会时不时的Call Back，会拿之前的吐槽贴举例子。我稍微复述一下老师的意思，这门课很考虑实践，“并行”贯穿这门课的始终，包括spark、Python和R中的并行库等，需要应用过，作业和Tutorial认真写过，Final就没什么问题了（老师课上是会讲重点的）。Final闭卷，会有实践的题，比如写代码，也会有一些硬记的题（不过我有些没答上来。。）。选这门课也是因为本科期间挺遗憾的，只是入门了Hadoop，当时一直要亲力亲为的搞懂每个配置文件，个人觉得有点浪费资源。\n\t\nEC5001 Introduction to Ecommerce\n会有两部分组成，应该是IS老师先上，CS老师上学期后半部分的课。包括签到（仅IS老师的部分）、Assignment、Final、Group-Project。前半部分偏文科，需要死记硬背，然后在final的时候找对应的应用（可能是我漏了三条，导致分低。。）。后半部分和CS相关，会有计网、网安、XML类似这种的知识，知识覆盖面还挺广的，也是需要记概念和会写一些代码的，不是很难，但是考的有些比较细，属于是蒙也蒙不上那种。\n\t\n欢迎评论，尽量回复解答，希望有帮助\n﻿#cityu[话题]#﻿ ﻿#cs[话题]#﻿",
+    "atUserList": [],
+    "time": 1736170848000,
+    "lastUpdateTime": 1737139253000,
+    "noteId": "677bdd60000000001a034fd9",
+    "type": "normal",
+    "title": "CityU CS SEMA: Part II",
+    "xsecToken": "AB9wdBcBIohhkYUX9WJBvzOUwGSCcSlKLl-OX_507fQXI="
   },
-  "comments": []
+  "comments": [
+    {
+      "id": "6a6c6a7b000000002a032dd7",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "noteId": "677bdd60000000001a034fd9",
+      "content": "请问ec5001签到会查学生证啥的吗",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "6a6c6b250000000015017c05",
+      "userInfo": {
+        "userId": "5a7eae0011be102c4e29de06",
+        "nickname": "Naomm",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/66af67bd02d97e414b83d742.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABASoE3_Vs_3DBdyqMC6pgIxiklFiW_c-1rDm5dFabMnM="
+      },
+      "showTags": [],
+      "createTime": 1785490043000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "invalid": false,
+          "content": "好像不会",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1785490214000,
+          "targetComment": {
+            "id": "6a6c6a7b000000002a032dd7",
+            "userInfo": {
+              "xsecToken": "ABASoE3_Vs_3DBdyqMC6pgIxiklFiW_c-1rDm5dFabMnM=",
+              "userId": "5a7eae0011be102c4e29de06",
+              "nickname": "Naomm",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/66af67bd02d97e414b83d742.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a6c6b250000000015017c05",
+          "noteId": "677bdd60000000001a034fd9",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5dc6da37000000000100b5b3",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMFy-EbgbJLC7SUj5ocaKdTT6juZnz25Lgq_GaZCEYnQ="
+          }
+        }
+      ],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "userId": "5d33efb700000000120320f3",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0V8IL2e5NP1pJgkkEzh8WYl9g1Ani55C3zSbbc87T7Y="
+      },
+      "subCommentCursor": "6a6db22e000000001403913a",
+      "invalid": false,
+      "content": "主包，想问一下5488的project需要pre吗[皱眉R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [
+        {
+          "ipLocation": "北京",
+          "id": "6a6db22e000000001403913a",
+          "noteId": "677bdd60000000001a034fd9",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6a6dae3d000000002b002d62",
+            "userInfo": {
+              "userId": "5d33efb700000000120320f3",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob64bs406005n9jturkm87jjvp74pg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB0V8IL2e5NP1pJgkkEzh8WYl9g1Ani55C3zSbbc87T7Y="
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "有",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "ABMFy-EbgbJLC7SUj5ocaKdTT6juZnz25Lgq_GaZCEYnQ=",
+            "userId": "5dc6da37000000000100b5b3",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1785573934000
+        }
+      ],
+      "subCommentHasMore": false,
+      "liked": false,
+      "ipLocation": "上海",
+      "id": "6a6dae3d000000002b002d62",
+      "noteId": "677bdd60000000001a034fd9",
+      "status": 0,
+      "createTime": 1785572925000,
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "677bdd60000000001a034fd9",
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1736172240000,
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "677be2d000000000220057fd",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f257b3e7e60e53504de.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpDJMgs7aOb17hiWXwJna3zO_u1zIMB6oCfvMpmPFwmc=",
+              "userId": "60aa5e24000000000101feb0",
+              "nickname": "小红薯686F683A"
+            }
+          },
+          "id": "677be868000000001b0317fd",
+          "noteId": "677bdd60000000001a034fd9",
+          "content": "谢谢[飞吻R]",
+          "userInfo": {
+            "userId": "5dc6da37000000000100b5b3",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMFy-EbgbJLC7SUj5ocaKdTT6juZnz25Lgq_GaZCEYnQ="
+          },
+          "createTime": 1736173673000,
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东"
+        }
+      ],
+      "showTags": [],
+      "invalid": false,
+      "id": "677be2d000000000220057fd",
+      "status": 0,
+      "ipLocation": "辽宁",
+      "subCommentCount": "1",
+      "content": "那我也叠甲评论[doge]不再赘述 hhh 总而言之就是学长好牛呀！",
+      "liked": false,
+      "userInfo": {
+        "userId": "60aa5e24000000000101feb0",
+        "nickname": "小红薯686F683A",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f257b3e7e60e53504de.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpDJMgs7aOb17hiWXwJna3zO_u1zIMB6oCfvMpmPFwmc="
+      },
+      "subCommentCursor": "677be868000000001b0317fd",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "很強[微笑R]",
+      "atUsers": [],
+      "likeCount": "1",
+      "invalid": false,
+      "userInfo": {
+        "userId": "677bf905000000001801507c",
+        "nickname": "鴻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cekbc4kg8005prrv42m2k3ssbsahpo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABG5hHr99GpGy00HPto-sdI1wnyevHL8IS567fctMjwIM="
+      },
+      "subCommentHasMore": false,
+      "subComments": [],
+      "id": "677bfbe400000000200397b6",
+      "showTags": [],
+      "subCommentCount": "0",
+      "liked": false,
+      "createTime": 1736178660000,
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "noteId": "677bdd60000000001a034fd9",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "id": "693a5ae1000000003102d144",
+      "subCommentHasMore": true,
+      "status": -2,
+      "createTime": 1765432034000,
+      "noteId": "677bdd60000000001a034fd9",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "中国香港",
+      "subCommentCount": "2",
+      "content": "请问EC5001第一部分您提到的“找对应的应用”具体是什么意思嘞？给一个案例然后说出用了什么知识嘛？",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "60c6e18b0000000001009cb9",
+        "nickname": "畅畅",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ji4n1q6326g5o66s65g975pn1h2bo8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLgrdL2lNJ4tpO2ygYr3MWM_yS7vlUUemqY91N3nic6U="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "ipLocation": "北京",
+          "targetComment": {
+            "userInfo": {
+              "nickname": "畅畅",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ji4n1q6326g5o66s65g975pn1h2bo8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABLgrdL2lNJ4tpO2ygYr3MWM_yS7vlUUemqY91N3nic6U=",
+              "userId": "60c6e18b0000000001009cb9"
+            },
+            "id": "693a5ae1000000003102d144"
+          },
+          "invalid": false,
+          "id": "693a5da1000000001602768d",
+          "noteId": "677bdd60000000001a034fd9",
+          "content": "差不多 我也忘了",
+          "liked": false,
+          "userInfo": {
+            "userId": "5dc6da37000000000100b5b3",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cicqqtm2005ne6r8rg9ddj46jguj0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMFy-EbgbJLC7SUj5ocaKdTT6juZnz25Lgq_GaZCEYnQ="
+          },
+          "createTime": 1765432737000,
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "693a5da1000000001602768d",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "manual"
 }
