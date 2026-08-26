@@ -13,6 +13,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _paths import (  # noqa: E402
     COURSES_JSON,
     EDITORIAL_JSON,
+    CHANGELOG_JSON,
     MSC_CURRICULUM_URL,
     PARTNER_REVIEW_NAME,
     PARTNER_REVIEW_SITE,
@@ -85,6 +86,10 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .disclaimer{background:var(--brand-tint);border-left:3px solid var(--brand);padding:16px 20px;margin:24px 0;font-size:15px;color:var(--olive);line-height:1.55}
 .legend{display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;margin:0 0 20px;padding:14px 16px;background:var(--ivory);border:1px solid var(--border-soft);font-family:var(--latin-ui);font-size:12px;color:var(--stone)}
 .legend-item{display:flex;align-items:center;gap:6px}
+.changelog{list-style:none;margin:0;padding:0}
+.changelog li{display:grid;grid-template-columns:7.2em minmax(0,1fr);gap:8px 16px;align-items:baseline;margin:0;padding:11px 0;border-bottom:1px solid var(--border-soft);line-height:1.55}
+.changelog li:last-child{border-bottom:none;padding-bottom:0}
+.changelog time{font-family:var(--latin-ui);font-size:13px;color:var(--stone);white-space:nowrap}
 .filters{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 16px}
 .chip{font-family:var(--latin-ui);font-size:13px;padding:8px 16px;border-radius:999px;border:1px solid var(--border);background:var(--ivory);cursor:pointer;color:var(--olive);transition:background .15s,border-color .15s,color .15s}
 .chip:hover{border-color:var(--brand-light);color:var(--brand)}
@@ -237,6 +242,31 @@ def load_picks() -> dict:
         "note": picks.get("note") or "",
         "courses": picks.get("courses") or [],
     }
+
+
+def load_changelog() -> list[dict]:
+    if not CHANGELOG_JSON.exists():
+        return []
+    entries = json.loads(CHANGELOG_JSON.read_text(encoding="utf-8"))
+    if not isinstance(entries, list):
+        return []
+    return sorted(
+        [e for e in entries if e.get("date") and e.get("text")],
+        key=lambda e: str(e["date"]),
+        reverse=True,
+    )
+
+
+def render_changelog() -> str:
+    entries = load_changelog()
+    if not entries:
+        return ""
+    items = "".join(
+        f'<li><time datetime="{esc(e["date"])}">{esc(e["date"])}</time>'
+        f'<span>{esc(e["text"])}</span></li>'
+        for e in entries
+    )
+    return f'<h2>更新日志</h2>\n<ul class="changelog">{items}</ul>'
 
 
 def pick_mark(*, live: bool = True) -> str:
@@ -531,7 +561,7 @@ def render_about() -> str:
 <article class="prose">
 <h1>关于本站</h1>
 <h2>数据来源</h2>
-<p>课程基本信息来自 <a href="https://www.cs.cityu.edu.hk/en/academic-programmes/msc-computer-science/curriculum/structures">CityU CS 官网</a>。评价信息来自小红书帖子及评论区，通过 <a href="https://github.com/jackwener/xhs-cli" target="_blank" rel="noopener">xhs-cli</a> 采集。正则负责召回字段与候选来源；选课建议和帖子摘要再按编辑规范整理（口语、跑题、串课会删掉）。每条来源仍保留原帖链接，便于核对。</p>
+<p>课程信息来自 <a href="https://www.cs.cityu.edu.hk/en/academic-programmes/msc-computer-science/curriculum/structures">CityU CS 官网</a>。评价来自小红书帖子及评论区，由 <a href="https://github.com/jackwener/xhs-cli" target="_blank" rel="noopener">xhs-cli</a> 采集后整理成摘要；每条仍保留原帖链接，便于核对。</p>
 <h2>形成性参考说明</h2>
 <p>本站标签描述的是<strong>来源之间的说法一致程度</strong>，不是对课程质量的最终评判。选课请结合官方课纲、个人背景与整理后的来源摘要。</p>
 <h2>可信度说明</h2>
@@ -540,12 +570,7 @@ def render_about() -> str:
 <li><span class="badge badge-reported">单源提及</span> — 仅 1 篇来源提及，或同一帖子内重复提及</li>
 <li><span class="badge badge-disputed">存疑</span> — 帖子与评论区或其他来源说法冲突</li>
 </ul>
-<h2>友情链接</h2>
-<p>
-<a href="{esc(PARTNER_REVIEW_SITE)}" target="_blank" rel="noopener">{esc(PARTNER_REVIEW_NAME)}</a>
-（<a href="https://github.com/SHANECHEN0722/cityu-CS-review" target="_blank" rel="noopener">cityu-CS-review</a>）
-收录课程复习资料、past paper 与选课心得。本站侧重小红书选课评价，对方侧重复习备考，两者互补。
-</p>
+{render_changelog()}
 <h2>免责声明</h2>
 <p>本站为非官方选课参考，不保证信息完整或最新。选课请以 CityU 官方通知与课程大纲为准。</p>
 </article>
