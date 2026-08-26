@@ -45,16 +45,14 @@
     }
   },
   "tips": [
-    "2. CS5187 Vision & Image(推荐每个人选）",
-    "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）",
-    "CS5187 vision and image 必选",
-    "CS5187（Vision and Image）：传统CV，但老师很棒，值得去听"
+    "传统 CV，老师讲课口碑很好；作业对零基础会有点折腾，考试很少卡后半段很难的内容。",
+    "project 会给选题参考；认真听课的人普遍觉得考试好应对。"
   ],
   "sources": [
     {
       "noteId": "68960125000000002501ac81",
       "url": "https://www.xiaohongshu.com/explore/68960125000000002501ac81?xsec_token=ABgRVz4lYuYJz3jUIsqsVeGs0tushWOkQaQS-nhz3N8Oo=",
-      "excerpt": "CS5187 Vision and Image；三字箴言：无脑选；Dapeng 老师是内地人，有留美经历，讲课会用最基础的英语，没有口音，非常易懂，课堂生动有趣，讲兴奋的时候甚至会手舞足蹈，挺有意思的哈哈；前半学期的内容较为简单，搭配 Dapeng 老师的教学可以说是学得非常开心，后半段从 Stereo Vision 开始有些内容我就没法完全理解了（而且 PPT 讲得也不是很清楚，希望能改进），可能那些内容短时间内老师也很难一一拆解，不过好在考试也不涉及那些很难懂的东西，想弄明白自己下去学就完了；作业对于完全没接触过这方面的同学可能会稍有难度，虽然有示例代码，但还是得自己多折腾折腾；project 老师会给一个链接，提供各种选题参考；老师上课会有很多友情提示，所以但凡你去上课了且稍加留意，考试都很难有不会做的题；说实话，作为一名来自内地的学生，期末看到那张试卷的时候，心中不免会有一丝感动，并且会产生一种“终于可以不用再为了应付考试而学习”的错觉，考了这么多年试，我似乎已经失去了单纯从汲取知识中获得快乐的能力；Dapeng 老师生动诠释了课堂是为了让学生学到知识，考试也不是为了搞选拔让学生内卷；man，what can i say，选就完了；ps：看到私信以及上一篇评论区有一些 uu 问，“找工作推荐上几门课？”，“选了某某课还有时间找工作吗？” 等诸如此类的问题，我在这里统一回答，就不一一答复了；现在已经是 8 月了，找工作的同学应该已经走在秋招的路上，我觉得不应该有这样的问题；能够兼顾上课和找工作的同学，我相信选不选一两门课实际上影响不…",
+      "excerpt": "Dapeng Wu 用较基础的英语授课、口音不明显。前半学期内容较易。后半从 Stereo Vision 起课件不够清楚，考试一般不涉及最难部分。作业对完全没接触过 CV 的人会有点难，虽有示例代码仍需自己调试。project 会给选题参考链接。课上常有考试提示。",
       "extractedFrom": [
         "post_body"
       ],
@@ -63,34 +61,16 @@
     {
       "noteId": "683460c10000000022025f97",
       "url": "https://www.xiaohongshu.com/explore/683460c10000000022025f97?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjaLX8iWuf2UQ5fUSOSM2jlc=",
-      "excerpt": "2. CS5187 Vision & Image(推荐每个人选）；Lecturer: Dapeng WU；上课体验；老师的咖位极大，上课比较风趣，课中会明示哪些内容期末必考，而且说到考到。Tutorial是TA来讲，但内容与期末考试无关。无网课（因为老师搞不明白zoom)；项目体验；只有一个个人项目，给出非常多选题，即使是很简单的选题也会拿到不错分数。无需pre只需录制讲解视频；作业体验；对没接触过计算机视觉的人来说难度大，不过尽量做下来给分会非常友好；考试体验；所有课程（包括SemB)中最轻松简单的考试，简单到超乎想象，而且还是完全开卷。计算题的难度就像是把你当小学生哄。我SemA的最后一科考试，考完试神清气爽去深圳吃了三碗炒饭宵夜。；总体而言，SemA的每个课程都体感舒适，压力主要在SE的项目上。但如果对自己要求放低些，SemA大概率会比接下来的SemB快乐很多。",
+      "excerpt": "授课教师 Dapeng Wu。无 Zoom。个人 project，选题很多，简单题也能拿到不错分数，只需录讲解视频。作业对没接触过计算机视觉的人偏难，给分较松。该学期期末完全开卷，有人认为是 Sem A 里较轻松的考试。Tutorial 由 TA 上，内容与期末无关。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "Cityu Msc CS SemA课程评价（下）"
     },
     {
-      "noteId": "6a68c369000000000401d020",
-      "url": "https://www.xiaohongshu.com/explore/6a68c369000000000401d020?xsec_token=ABuawtdgCfNg0LPb3huopF90LeInTU-kPgHb3VzJ-em_o=",
-      "excerpt": "CS5187（Vision and Image）：传统CV，但老师很棒，值得去听。；当然其他课也不是不好，比如想搞学术或者想做算法工程师，去上数学课CS6491也会大有收获，自动驾驶方向主包没上就不评价了。；Stream目前看没什么实质作用，选课反正都是自由的，不去follow没惩罚也没好处，不用太纠结。；最后建议大家善用Guided Study和Project。不管你是学术向还是揾工向，找个对应的mentor沟通，压力会比纯上课小不少。不过名额比较少，抢不到也无所谓，多上点课就当投资，以后总有回报的。；（8.6更新一下：学院出了新规，project需要gpa3.3以上才可以无条件选，3.0-3.3需要学院额外审批，看来是越来越难水了，果然是旗舰项目）；（8.10再更新一下：internship课需要先审批后入职才算数）",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "大龄学长聊对MSc AI的整体感受和选课建议"
-    },
-    {
-      "noteId": "68980dce000000002501bcd8",
-      "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
-      "excerpt": "project 也是会有一个链接，提供各种选题参考，不过老师明确说了不能做 2D image classification 和 segmentation（因为这门课和 SemesterA 的 CS5187 Vision and Image 有异曲同工之妙，所以应该是为了避免学生套壳使用）；除此之外，project statement 上了两节课就会发出来，可以从很早开始做（不像有些课期末前一个月才放出来）；考试只复习课件就完全够用，题目所涉及的线性代数基本就是矩阵乘法这种程度；很难挑出缺点的一门课，不知道为什么 SemesterB 选的人比较少，跟 HOU 老师聊过几次，感觉他有点小失望哈哈哈；Anyway，选起来吧，xdm",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU CS 选课血泪史4⃣"
-    },
-    {
       "noteId": "6a7729bb0000000005020799",
       "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
-      "excerpt": "4. CS5187 Vision and Image；全体起立，无需多言。讲课的吴老师是个大佬，风趣幽默，简单易懂。课程难度不高且内容有趣。有两次作业和一个单人project，都不算太难且无需pre。考试完全开卷，难度不高，想挂都难。总之无脑选就行了。；优点：几乎全是；缺点：硬要说的话第一次作业对电脑性能要求有点高；下篇开始讲重量级的SEMB。",
+      "excerpt": "吴老师讲课口碑好，课程难度不高。两次作业加单人 project，都不必做 presentation。期末完全开卷。有人提到第一次作业对电脑性能要求略高。",
       "extractedFrom": [
         "post_body"
       ],
@@ -99,7 +79,7 @@
     {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
-      "excerpt": "1.CS5187 vision and image；2*assignment30%+个人project20%+final50%开卷；这门课我愿称之为非ban必选的一门课，考试十道多选题+四道大题都很简单（最后一节复习课一定要去上），project是题目自拟，大善人老师，听他说没给过B以下。",
+      "excerpt": "成绩构成约为两次作业 30%、个人 project 20%、开卷期末 50%。考试为选择题加大题。最后一节复习课较重要。project 题目自拟。有人转述老师很少给 B 以下。",
       "extractedFrom": [
         "post_body"
       ],
@@ -108,7 +88,7 @@
     {
       "noteId": "695c948d000000002102ad0b",
       "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
-      "excerpt": "CS5187 视觉与图像（选修）；无quiz，两个作业（给分很高），一个个人项目（给分中等），无期中，全开卷期末。；无脑选就完了，包过的，就算一节课不来也行。最后一次课有复习PPT，这节课得来，基本上总结了一大部分的重点，按照复习PPT对照往次课的PPT去复习就行了。",
+      "excerpt": "无 quiz，两次作业给分高，个人项目给分中等，无期中，期末全开卷。最后一次课有复习 PPT，按复习材料对照平时课件复习即可。",
       "extractedFrom": [
         "post_body"
       ],
@@ -117,7 +97,7 @@
     {
       "noteId": "676793ee000000000b00d2b1",
       "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
-      "excerpt": "CS5187 Vision and Image；期末出题最好的老师，巨巨巨放水，yyds，主观题基本全是送分题，平时一次课没去过，考前看了2h，轻轻松松通过，有手就行。平时分由两次assignment和一个单人project构成，也是好水的。强烈建议选！",
+      "excerpt": "平时分为两次 assignment 和一个单人 project。有人认为主观题偏送分，几乎不去上课、考前短时复习也能过。该说法偏速成个例，请对照其他来源。",
       "extractedFrom": [
         "post_body"
       ],
@@ -125,5 +105,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

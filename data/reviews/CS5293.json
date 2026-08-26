@@ -43,13 +43,14 @@
     }
   },
   "tips": [
-    "再次强调，谨慎选择CS5293"
+    "作业/实验报告量大，期末与本科同卷、完全闭卷，知识点杂、有代码分析题。",
+    "多源劝退想平稳毕业的人选；平时分往往不低，压力主要在期末。"
   ],
   "sources": [
     {
       "noteId": "6a772a610000000028031cd2",
       "url": "https://www.xiaohongshu.com/explore/6a772a610000000028031cd2?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOyKZG4YlqYjRFXJCSZ_GI0=",
-      "excerpt": "8.CS5293 Topics on Information Security；港硕的最后一门考试，其难度绝对对得起“最终boss”名号。没有真正意义上的project和期中quiz，有三次超大型的作业和一个名义上的project（其实就是一个小作业），需要在虚拟机上进行实验，截图并撰写报告，即便有AI辅助也非常耗费时间。如果只是这样还好，因为平时分这方面给得都很高。但大的在后面，这门课的final是跟本科生一起考的，难度可以说是惨绝人寰级别的，断档领先其他所有课。老师故意不上传复习ppt，称所有lecture，tutorial，甚至作业都在考试范围内，并且完全闭卷。这可不是开玩笑，ppt中概念非常多且杂，包括了CS5285，6290等多门课在内的知识点，可以说是究极融合怪，复习和最后作答的过程非常痛苦。tutorial和作业中有大量虚拟机指令代码，AI来了都要喝一壶，但在考试中，他竟然真的出了代码分析题还有挖空题。也就是说，如果你之前用AI辅助写了作业，只是完成了实验流程，而没有自己真正理解并掌握代码的话，这部分的分数基本跟你说再见了。往年那么少人选这门课是有原因的，这考试不知道的以为在面大厂呢。如果你是想要平稳毕业拿毕业证，那不推荐选这门课。；优点：无真正意义上的project，平时分高。；缺点：作业量极大，知识点多且杂，考试极难；再次强调，谨慎选择CS5293！！！",
+      "excerpt": "无真正意义上的大项目和期中。三次大型作业加一次名义 project（实为小作业），需在虚拟机实验、截图写报告，耗时但平时分往往不低。期末与本科同卷、完全闭卷，范围含 lecture、tutorial 与作业。知识点杂，含代码分析/填空。想平稳毕业的人多被劝退。",
       "extractedFrom": [
         "post_body"
       ],
@@ -58,7 +59,7 @@
     {
       "noteId": "68346d6e000000002102f801",
       "url": "https://www.xiaohongshu.com/explore/68346d6e000000002102f801?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjeyDV0dSYkdlI3uoWEP1r38=",
-      "excerpt": "1. CS5293 Topics on Information Security；Lecturer: Qingchuan ZHAO；上课体验；不同于SemA的安全课，这门课的覆盖广度很大，从密码学到栈溢出到网络安全等等，甚至包含比特币和蓝牙安全相关，相对来说深度不大。这学期大概只有20来个人选这门课，实际课上来的只有十来个，教室空荡荡，老师提问没什么人回应，很尴尬。；作业体验；相比起上学期安全课的理论计算作业，这学期更注重实操，例如编写链接实现XSS攻击等。所有作业都基于成熟的seedlab，可以在网上找到所有原题。但作业量很大很大（每次作业的题目文件中都提供了目录跳转），需要花费不少时间。；项目体验：无项目；考试体验；老师原话：“所有题目都比较tricky但不难”实际体验下来tricky不tricky不好说，但题量支撑得起奋笔疾书120分钟，不过给分还不错",
+      "excerpt": "Qingchuan Zhao 授课。覆盖面广（密码学、栈溢出、网络安全、比特币、蓝牙等），深度不大。作业偏实操（如 XSS），多基于 seedlab，网上能找到原题，但题量大。无项目。老师称题目 tricky 但不难。实际题量支撑满 120 分钟，给分有人认为还行。",
       "extractedFrom": [
         "post_body"
       ],
@@ -67,7 +68,7 @@
     {
       "noteId": "6a0f8368000000003700faf0",
       "url": "https://www.xiaohongshu.com/explore/6a0f8368000000003700faf0?xsec_token=ABJk6pYInA2XD2gIhb6orjMubXjrHgsVSn3zl8-LlSy2g=",
-      "excerpt": "CS5293 Topics on Information Security；评分：2 (满分5)；最终分数 = 50%作业 + 50%期末；这门课讲的是计算机安全方面的内容，包括密码学、计算机网络、区块链、一些常见的计算机攻击方式等，在密码学和计网部分分别和SemesterA的CS5285和CS5222有重叠。作业一共4次，其中有一次叫做project，但是形式和其他作业没有什么区别，因此统称为作业。作业的难度不算大，但是比较繁琐，除了project外其余3次都要完成很多任务，不过给分还不错。期末考试难度比较大，考的内容杂并且有的题目需要比较深刻的理解才能完成，我也是瞎写了几道不会的题，估计没得两分。",
+      "excerpt": "约 50% 作业 + 50% 期末。内容含密码学、网络、区块链与常见攻击，与 CS5285、CS5222 有重叠。四次作业（一次名为 project，形式与作业类似），繁琐但给分不错。期末内容杂、部分题需较深理解。",
       "extractedFrom": [
         "post_body"
       ],
@@ -76,7 +77,7 @@
     {
       "noteId": "6a0be1210000000035024644",
       "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
-      "excerpt": "CS5293 Topics on Information Security；好课。Assignment和Project在网上都有现成答案可以抄考，所以平时分很多人接近满分。那Project其实就是一个小的个人Assignment，大概Week 10/11发题，二选一即可。考试难度不高但题多（多复习Assignment，尤其是二进制安全的部份），读过CS5285的在做题上会有优势。",
+      "excerpt": "Assignment 与 Project 多来自网上能找到的实验材料，平时分常接近满分。Project 实为较小的个人作业，约第 10/11 周发题、二选一。考试题多、难度该来源认为不高。宜复习 assignment，尤其二进制安全。上过 CS5285 做题有优势。",
       "extractedFrom": [
         "post_body"
       ],
@@ -85,53 +86,18 @@
     {
       "noteId": "669e38ab0000000027018fc3",
       "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
-      "excerpt": "CS5293 Topics on Information Security；qingchuan Zhao；课程内容:信息安全，加密理论，操作系统漏洞，Web漏洞等；课程作业一般，无Project，考试难度略高，给分尚可",
+      "excerpt": "Qingchuan Zhao。内容含信息安全、加密、操作系统与 Web 漏洞。作业一般，无大项目，考试略难，给分尚可。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
-    },
-    {
-      "noteId": "692ff3710000000019026fb6",
-      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
-      "excerpt": "CS5293 Topics in Information Security and Privacy",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城市26fall新增网络安全专业"
     }
   ],
   "commentSources": [
     {
       "noteId": "682d519f000000000303c435",
       "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "project是一个比较大的项目要持续两个学期6学分，gs是小课题三学分只持续一个学期。六月毕业的话如果想选project你就第一个学期就要选，gs两个学期选一个学期选就好",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "68ac0cd60000000030022b66",
-      "author": "想喝椰云拿铁",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "每个项目要求不一样吧，统一的要求类似本科毕设，要开题报告、中期报告、项目代码和终期报告以及最终的答辩",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "cityu港硕CS SemB结束啦",
-      "commentId": "6843ecc6000000001c02a58b",
-      "author": "想喝椰云拿铁",
-      "likes": 1,
-      "role": "supplement"
-    },
-    {
-      "noteId": "682d519f000000000303c435",
-      "url": "https://www.xiaohongshu.com/explore/682d519f000000000303c435?xsec_token=ABop4vpEjseFUmwTweJFbgGy-CTpMeAS0-3stkFdmBibY=",
-      "excerpt": "作业很多，每次实验报告能写好多但是网上能找到相应的答案。如果本科是信安的话考试不难给分也还行",
+      "excerpt": "作业量大，实验报告长，网上能找到对应 seedlab 材料。有信安背景则考试相对好过、给分尚可。只完成实验流程、不理解代码，考试代码题会吃亏。",
       "extractedFrom": [
         "sub_comment"
       ],
@@ -142,5 +108,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

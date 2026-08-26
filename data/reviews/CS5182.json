@@ -44,13 +44,14 @@
     }
   },
   "tips": [
-    "CS5182 Computer Graphic 必选"
+    "图形学基础、无常规作业，闭卷期中期末；矩阵变换等应用题是得分关键。",
+    "1–3 人 project 对电脑性能要求高，点云分类等简单题容易扎堆，建议提早做。"
   ],
   "sources": [
     {
       "noteId": "68346d6e000000002102f801",
       "url": "https://www.xiaohongshu.com/explore/68346d6e000000002102f801?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjeyDV0dSYkdlI3uoWEP1r38=",
-      "excerpt": "2. CS5182 Computer Graphics；Lecturer: Junhui HOU；上课体验；相对来说课程内容是经过老师精挑细选的比较基础的部分，即使是图形学小白也可以理解。老师很友善，课下可以普通话讨论。；项目体验；1-3人项目，有线下pre。老师提供了很多选题，建议选取点云之外的题目，老师原话说这题目太简单选的人太多，考虑之后取消该选题，选择点云之外题目的人更容易拿高分。电脑性能有限的同学应谨慎，项目涉及深度学习，可能要跑很久很久，环境配置也稍微有点棘手。；作业体验：无作业；考试体验；完全闭卷期中考试和期末考试，期中考试内容很简单，可能大家期中都拿了高分所以期末考试有点上强度了，题目难度看起来不大但细看觉得有些古怪。；题外话：两个学期都会有线下Gathering，会有不少教授来和大家聊天交流，氛围很好。最重要的是有免费茶点，可以省一顿饭钱",
+      "excerpt": "Junhui Hou 授课，内容偏基础图形学，课下可用普通话讨论。1–3 人 project，有线下 presentation。老师提供选题，点云类题目偏简单、选的人多，高分更宜选其他题。无平时作业。期中期末完全闭卷，期中相对简单，期末更难。project 含深度学习，对电脑性能和环境配置要求高。",
       "extractedFrom": [
         "post_body"
       ],
@@ -59,7 +60,7 @@
     {
       "noteId": "6a773731000000002500a5fa",
       "url": "https://www.xiaohongshu.com/explore/6a773731000000002500a5fa?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOsS7XOb37bBAFXgSgK9B7I=",
-      "excerpt": "10.CS5182 Computer Graphics；课程结构为一次期中考试和一个小组project，无平时作业。project并没有太大的开发难度，但对电脑性能要求非常高，比较耗时，建议早点做，需要线下pre，但并不会太多难为人。课程内容难度适中，但概念比较多，复习起来比较麻烦。期末和期中考试题型类似，有概念加应用题，闭卷且难度偏高（不过老师一直说出简单了），但只要把几道固定的应用题，如图形变换等弄懂，也能拿到不错的分数。；优点：project开发难度较低，考试应用题好拿分；缺点：project对电脑性能要求高，需要线下pre，考试难度较高；SEMB课程强度明显比SEMA高出一大截，几乎没什么低难度课，所以最好SEMA多选一点，或者上st和选实习，不要跟我一样4+6选课。SEMA另有一门EC5001评价似乎不错，可以考虑选上。",
+      "excerpt": "一次期中、一个小组 project，无平时作业。project 开发难度不高但对电脑性能要求高、较耗时，需线下 presentation。期中期末题型相近，概念加应用，闭卷。图形变换等固定应用题是得分点。",
       "extractedFrom": [
         "post_body"
       ],
@@ -68,7 +69,7 @@
     {
       "noteId": "68980dce000000002501bcd8",
       "url": "https://www.xiaohongshu.com/explore/68980dce000000002501bcd8?xsec_token=ABy0I5dDD4WxdjdDBnbqn0FsJsDgNjDptsTKJWfvo5zf8=",
-      "excerpt": "CS5182 Computer Graphics；最基础的 CG 理论，SemesterB 学习体验最好的一门课，每周必上；课件详略得当，不夸一夸实在说不过去，因为它几乎提供了所有关键的信息，又不像有些课随随便便就是一百多页（鼠标中键都要滚烂了哦）；HOU 老师非常关注学生的学习体验，课上会在适当的地方停下来问大家有没有听懂，课间会走下讲台跟同学聊聊天，问一问课上的内容难不难，project 的进展如何等等，可以感受得出来，老师其实是非常愿意和大家聊一聊的；老师上课偶尔会抛出一个 small question（最终会变成试卷中的题目），只要你来上课了并且理解了课件的内容，没有任何难度",
+      "excerpt": "基础 CG 理论。课件信息较全。Hou 老师课上会停下来确认是否听懂，并会抛出可能出现在试卷中的 small question。有人认为只要到课并理解课件，考试难度不大。",
       "extractedFrom": [
         "post_body"
       ],
@@ -77,7 +78,7 @@
     {
       "noteId": "68313764000000002001dc41",
       "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
-      "excerpt": "CS5182：CG，作业整体不算多，一个project+一次期中+一次期末，平时没有别的作业了。老师比较佛，上课内容偏向理论多一点。期中和老师ppt中给出的习题重叠度很高，强烈建议去做！期末会有复习ppt，矩阵相关的计算题一定要会做（占比不小），其他理论记一记，就没啥问题。project（1-3人）我们组是期末周前临时赶工的，大家最好提前准备...我个人建议是不要做从头到尾自己训练的，可以尝试做微调相关的，这样实验起来快很多。project对电脑型号有要求，自己没有显卡的话就要租用云平台的算力。",
+      "excerpt": "考核为一个 project、一次期中、一次期末，无其他作业。期中与课件习题重叠度高。期末有复习 PPT，矩阵计算占比较大。project 1–3 人，对显卡有要求，无显卡需租用云算力。有人建议避免从头训练、可做微调以缩短实验。",
       "extractedFrom": [
         "post_body"
       ],
@@ -86,7 +87,7 @@
     {
       "noteId": "66c2b41e0000000025031b7f",
       "url": "https://www.xiaohongshu.com/explore/66c2b41e0000000025031b7f?xsec_token=ABzxwxMEJl_R9LqOxLpocTn-XDs8FrURJJ_HEYXiFlYRY=",
-      "excerpt": "CS5182 Computer Graphics；分数构成：midterm，final，project；教授挺好的，大陆人。课程内容就是基础知识（可以b站搜搜），tutorial是神经网络图像处理。Project对我来说有点难，对设备要求比较高，跑一次就得一晚上。另外处理图像和3D点云的内容我从来没接触过，开源代码扒过来也是一头雾水（也可以水一水，拿个现成代码跑通了交，但分数不会高。一般大家会搞个小创新）。midterm和final都不难，大部分课上讲过。",
+      "excerpt": "成绩含期中、期末与 project。大陆老师，内容为基础图形学。tutorial 涉及神经网络图像处理。project 对设备要求高，处理图像和 3D 点云对零基础不友好。期中期末大多为课上内容。",
       "extractedFrom": [
         "post_body"
       ],
@@ -95,7 +96,7 @@
     {
       "noteId": "6a0f2914000000003501f1b4",
       "url": "https://www.xiaohongshu.com/explore/6a0f2914000000003501f1b4?xsec_token=ABp3M15AaHTe7EJKyjHo9zD4bhAoAymljISCJ_zahf50Q=",
-      "excerpt": "cs5182 computer graphics：无作业，有期中（GitHub有往年题，虽然会有创新氮素还是有参考价值的），期中/期末都是闭卷，难度还行吧，大概会做矩阵transformation就挂不了（很可惜主播到最后也不太熟练）然后就是多背了，课程难度也不大，课件内容也挺好理解的。project 1-3人，主播反正是用pointcloud分类水过去的，当然大部分人也选了这个",
+      "excerpt": "无作业。期中期末闭卷。GitHub 有往年期中题可参考。有人认为会做矩阵 transformation 较易通过。project 1–3 人，点云分类选的人很多。",
       "extractedFrom": [
         "post_body"
       ],
@@ -104,7 +105,7 @@
     {
       "noteId": "682e95a7000000002301c25e",
       "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
-      "excerpt": "CS5182 CG: 15%期中 25%Proj 60%期末；workload；授课及口音 平时没作业没课程回放，考前会过一遍划重点。老师平易近人，大陆口音但很好懂。授课是经典图形学内容，Proj(可独狼最多3人)则是点云Nerual Rendering需要自己能搞到差不多的卡训练。期末的话基础的线代要会去算Matrix Transformation。",
+      "excerpt": "成绩构成约 15% 期中、25% project、60% 期末。平时无作业、无回放，考前会划重点。老师口音为大陆口音但较易懂。project 最多 3 人，点云 Neural Rendering 需要较好显卡。期末需会算 Matrix Transformation。",
       "extractedFrom": [
         "post_body"
       ],
@@ -113,7 +114,7 @@
     {
       "noteId": "6878c023000000002400e000",
       "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
-      "excerpt": "CS5182 Computer Graphics；24fall semB是内地老师，上课内容不难，涉及计算机图形学经典算法。成绩构成：期中考试项目期末考试。没有作业！项目选题广泛，但深度学习是必须的，不能用传统方法水，如果没有图形学基础和深度学习基础，项目会做得非常吃力，建议早早抱大腿。考试不难（真的不难），博主拿C+纯属自己没学好，项目做得一般。",
+      "excerpt": "该学期为内地老师，内容为经典图形学算法。成绩由期中、项目、期末构成，无作业。项目选题广但要求用深度学习、不能只用传统方法。无图形学和深度学习基础会较吃力。考试有人认为不难。",
       "extractedFrom": [
         "post_body"
       ],
@@ -121,5 +122,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

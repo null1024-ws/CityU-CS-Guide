@@ -38,6 +38,10 @@ def audit() -> int:
             issues.append(f"{code}: not finalized (missing fields)")
             continue
 
+        tips = review.get("tips") or []
+        if len(tips) > 2:
+            issues.append(f"{code}: {len(tips)} tips (want 1–2)")
+
         for fname, field in review.get("fields", {}).items():
             conf = field.get("confidence")
             ds = field.get("distinctSources", 0)

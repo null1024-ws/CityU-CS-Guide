@@ -42,13 +42,14 @@
     }
   },
   "tips": [
-    "CS5188 VR 慎选"
+    "难度主要在 UE5 + 真机 VR/AR 的 project，老师倾向有实际意义的应用而非套模板游戏。",
+    "考试多为概念题，闭开卷因学期而异；没接触过引擎或设备的人要预留大量时间。"
   ],
   "sources": [
     {
       "noteId": "6898aaf1000000002501b0eb",
       "url": "https://www.xiaohongshu.com/explore/6898aaf1000000002501b0eb?xsec_token=AB3fi6VFQfknG_oinjUL_HiUTk9FYCRm3jjj3n4SX6qBg=",
-      "excerpt": "CS5188 Virtual Reality Technologies and Applications；老师应该是香港人，英语会有一点 local 口音，能否适应因人而异，个人感觉还好；这门课的难度主要在 project 上，如果和我一样从来没有接触过 UE5，那可能需要花一些时间去学习；除此之外，还要求必须用到 VR/AR 设备，因此可以从 lab 把 Oculus Rift 和 HoloLens 2 借出来玩哈哈；project statement 也是很早就会发出来（第三次课），要求录制几分钟展示成果的 demo video，report 没有字数限制陈述，简单陈述即可，presentation 可以选择不参加（应该是不影响分数）；老师更推荐大家做有实际意义的 VR/AR 应用，并强调 idea 很重要，当然做游戏也可以，但需要有创意，不然很可能只拿到基础分（可能是不想看到全都是大同小异的游戏）；如果再懂一点 UE5 渲染的话，最后做出来确实会有一丝成就感，不过也就仅此而已；单纯只是因为想做出点好玩的东西而选这门课的话，那就属于是为了这点醋，才包的这顿饺子；考试题型主要是多选 + 简答，题量不算太大，两个小时绰绰有余",
+      "excerpt": "老师英语带一点香港口音，能否适应因人而异。难度主要在 project：需用 UE5，并必须用到 VR/AR 设备（可向 lab 借 Oculus Rift、HoloLens 2）。第三次课左右发 project statement，需录 demo 视频。report 无字数限制，presentation 可选。老师更倾向有实际意义的应用，套模板游戏往往只有基础分。考试多为选择题加简答，题量不大。",
       "extractedFrom": [
         "post_body"
       ],
@@ -57,7 +58,7 @@
     {
       "noteId": "6a772a24000000003300b3c9",
       "url": "https://www.xiaohongshu.com/explore/6a772a24000000003300b3c9?xsec_token=ABRyAyBO3vKWbhccHEGpLfyEHQN2VCiv6HDu0sspPhM-Y=",
-      "excerpt": "6.CS5188 Virtual Reality Technologies and Applications；课程内容很有趣，老师也非常亲切。有一次期中考试，和最终final题型完全一致，全部为概念简答题，并且完全闭卷，概念非常多，复习起来很麻烦，不过最终考得都不算太难。这门课放重点在project，首先，该项目给出了一个AR和一个VRdemo，必须挑选其中一个并在其基础上用UE进行开发，不能自己从头干。ARdemo我换了三种不同设备和多个UE版本全部因为插件版本问题无法运行，无奈转向VR。VR虽然能运行，但它本身是一个第一人称射击游戏，而项目要求你做一个“具有现实意义”的VR程序，不能是简单的游戏。所以你必须费尽心思去想怎么样能有现实意义，并且还得把这个程度改成VR，不然根本没法在VR设备上运行。开发结束还需要你写项目报告和录制演示视频。所以除非精通UE，或者直接摆烂做第三人称游戏拿基础分，不然这个project绝对会花费你很多时间。；优点：课程有趣，考试难度不高；缺点：考试闭卷，复习困难，超高难度project",
+      "excerpt": "有一次期中，与期末题型一致，均为概念简答、完全闭卷，概念多、复习负担重，实际考试不算很难。project 须在给定 AR 或 VR demo 上用 UE 开发，不能从头另起。要求做成有现实意义的程序而非简单游戏，还需报告和演示视频。不熟 UE 会非常耗时。",
       "extractedFrom": [
         "post_body"
       ],
@@ -66,7 +67,7 @@
     {
       "noteId": "68313764000000002001dc41",
       "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
-      "excerpt": "CS5188: VR，作业设置和CG一样，一个project（1-3人）+一次期中+一次期末，tutorial会有当场习题+讲解（但是不算分）。上课内容偏理论，project基本要自己现学一下UE5，可以做一些简单的小项目，但还是有一定的工程量，建议提早做。考试就是围绕PPT，细枝末节都有可能考，期中甚至考了一个跟耳朵相关的知识点和tutorial上的一个例子，时间充裕的情况下最好多看看PPT，了解知识原理，题目还是比较灵活的，但没有超出ppt范围，也是需要认真复习PPT！；这两门课没有公布具体的项目分数和考试成绩，我的最终等级都是A，其中CG两人组队，VR一人组队，总体感觉课程偏理论知识，熟悉PPT的情况下，考试基本能过。项目的话有难度，不了解给分情况。",
+      "excerpt": "考核与 CG 类似：1–3 人 project、期中、期末。tutorial 有当场习题但不计分。上课偏理论，project 多需现学 UE5。考试围绕 PPT，细枝末节也可能考到，题目较灵活但不超课件范围。",
       "extractedFrom": [
         "post_body"
       ],
@@ -75,7 +76,7 @@
     {
       "noteId": "682e95a7000000002301c25e",
       "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
-      "excerpt": "CS5188 VR: 20%期中 30%Proj 50%期末；workload；授课及口音 平时没作业没课程回放，考前有复习课但仅作为参考。老师做事很有原则（不能代领判完的期中），英音但会刻意用简单词汇让你理解。Proj（可独狼最多3人） 做VR的话就是UE5然后跟CS Lab借Oculus Rift 或者微软 HoloLens，不要做游戏倾向你做些有现实意义的。期末不考数学，要考察你对VR场景与VR应用的理解。选了CG会有一部分课程内容重叠有助于减小总体课程压力。",
+      "excerpt": "成绩约 20% 期中、30% project、50% 期末。平时无作业、无回放。考前有复习课仅作参考。老师英音，会刻意用简单词汇。project 最多 3 人，VR 用 UE5，可向 CS Lab 借设备。不要做成普通游戏。期末不考数学，考 VR 场景与应用理解。与 CS5182 有部分内容重叠。",
       "extractedFrom": [
         "post_body"
       ],
@@ -84,7 +85,7 @@
     {
       "noteId": "69fc8470000000003601ea02",
       "url": "https://www.xiaohongshu.com/explore/69fc8470000000003601ea02?xsec_token=ABvm0UzM6ysaoj6vJetVWRPa4FYxEh_oK5XHoGD3LmAwc=",
-      "excerpt": "3.CS5188，VR；本人背景：学过游戏开发（非ue5）；期中20，项目30，期末50；项目（1-3人），使用UE5。课程不建议开发游戏，而是具有现实意义的。（Epic是什么有现实意义的平台吗）pre可选可不选；课程内容涉及较多和生物相关，如人眼成像、耳朵结构、皮肤传感器等。这也带来较多生僻英文单词；期中考试质量差，基本为背单词大赛。与理解相关的只有1个选择题和1道简答题（共3个选择，5个简答）；不推荐选。理由：项目工作量大，备考耗时且不一定有什么效果",
+      "excerpt": "期中 20%、项目 30%、期末 50%。project 1–3 人、用 UE5，课程不建议做游戏。presentation 可选。内容含人眼成像、耳朵结构等，生僻词较多。有人认为期中偏背单词、项目工作量大，不推荐选。",
       "extractedFrom": [
         "post_body"
       ],
@@ -93,7 +94,7 @@
     {
       "noteId": "6a016b410000000035021175",
       "url": "https://www.xiaohongshu.com/explore/6a016b410000000035021175?xsec_token=AB-8OTA5utOCJ53TXk2zNgh5jrsSNnqRo5qA6I4xiayFo=",
-      "excerpt": "4. CS5188 - Virtual Reality Tech & Apns (背诵友好)；授课老师：口音清晰易懂 。；考试：最简单，全部是概念题，没有计算和难题，只要肯花时间背诵就能拿高分；项目：有一定的技术门槛，尤其是建模部分。如果你基础薄弱，建议抱紧大腿或早点开工。；避坑指南：常规的交互功能可以在 blueprintue.com 找蓝图，直接 Ctrl+C/V 。",
+      "excerpt": "口音较清晰。考试多为概念题、无计算。项目有技术门槛，尤其建模。有人提到常规交互可在公开蓝图站点查找参考，但仍需自己集成。",
       "extractedFrom": [
         "post_body"
       ],
@@ -102,40 +103,13 @@
     {
       "noteId": "6a0c2c9d0000000006033f16",
       "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
-      "excerpt": "CS5188 Virtual Reality Tech & Apns；老师感觉是香港本地人，我有时会听不太懂老师讲课发音，没有平时作业，一个1-3人的project 和期中期末，期中期末都是闭卷，如果没有ue5基础的不建议选，不然做项目就很耗时间，期中是选择加概念题，期末是选择加简答加综合，都是考ppt里面的内容，但是ppt复习起来要记忆的太多了，很耗时间",
+      "excerpt": "香港本地口音，有人听不太懂。无平时作业，1–3 人 project 加期中期末，均为闭卷。无 UE5 基础则项目很耗时。期中为选择加概念，期末为选择、简答加综合，都出在 PPT 里，但需记忆的内容很多。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "港城课程体验"
     }
   ],
-  "commentSources": [
-    {
-      "noteId": "68313764000000002001dc41",
-      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
-      "excerpt": "想问问5188期末有tutorial的内容吗，好多要背的，已死",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityU CS5182 CS5188 课程经验分享",
-      "commentId": "69f5cd730000000028033656",
-      "author": "蛋挞幼稚鬼",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "68313764000000002001dc41",
-      "url": "https://www.xiaohongshu.com/explore/68313764000000002001dc41?xsec_token=ABEbJ6DmFB17gcvCG11S9Kwlgw0cBWwYZT_aWO2NwrcaI=",
-      "excerpt": "hello学姐，5188vr是闭卷还是开卷呀",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityU CS5182 CS5188 课程经验分享",
-      "commentId": "6948d3b70000000039008a64",
-      "author": "巴巴拉拉能量",
-      "likes": 0,
-      "role": "supplement"
-    }
-  ],
-  "lastUpdated": "2026-08-25"
+  "commentSources": [],
+  "lastUpdated": "2026-08-26"
 }

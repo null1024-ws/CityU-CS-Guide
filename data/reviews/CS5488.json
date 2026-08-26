@@ -40,12 +40,15 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "作业多但大多能拿满，贯穿并行（Spark 等）；小组项目可小做，但必须体现并行。",
+    "闭卷期末既有代码/实践也有概念默写，复习负担不轻。"
+  ],
   "sources": [
     {
       "noteId": "677bdd60000000001a034fd9",
       "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9?xsec_token=AB9wdBcBIohhkYUX9WJBvzOUwGSCcSlKLl-OX_507fQXI=",
-      "excerpt": "CS5488 Big Data Algorithms and Techniques；对的，就是为了这点醋，我才包的这顿饺子！内容包括多个Assignment、Final、Group-Project。Assignment基本不出意外都能拿满，Group-Project是3-4（应该是）人一组，相比其他课的，多了很多容错，项目可以小一点，人少也方便沟通。老师很有意思，幽默风趣，会经常看小红书里大伙对这门课的评价，在课上也会时不时的Call Back，会拿之前的吐槽贴举例子。我稍微复述一下老师的意思，这门课很考虑实践，“并行”贯穿这门课的始终，包括spark、Python和R中的并行库等，需要应用过，作业和Tutorial认真写过，Final就没什么问题了（老师课上是会讲重点的）。Final闭卷，会有实践的题，比如写代码，也会有一些硬记的题（不过我有些没答上来。。）。选这门课也是因为本科期间挺遗憾的，只是入门了Hadoop，当时一直要亲力亲为的搞懂每个配置文件，个人觉得有点浪费资源。",
+      "excerpt": "含多次 assignment、期末、小组项目。assignment 大多能拿满。project 约 3–4 人，可以做得较小。课程贯穿并行（Spark、Python/R 并行库等），作业和 tutorial 认真做则期末较有把握。闭卷期末既有写代码等实践题，也有需记忆的概念。老师会在课上讲重点。",
       "extractedFrom": [
         "post_body"
       ],
@@ -54,7 +57,7 @@
     {
       "noteId": "695c948d000000002102ad0b",
       "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
-      "excerpt": "CS5488 大数据算法与技术（选修）；无quiz，七个作业（平均1-2周就有一个），一个小组大项目，无期中，闭卷期末。；选课前就在纠结要不要选这个，小红书比较劝退，但是个人比较想学一些大数据的知识，所以还是选了。作业太多了，虽然很简单而且也都能拿满分，但是也很耗精力。项目中规中矩，可以自己选题，也可以用老师提供的题目，注意一定要用并行计算，数据量也尽量多找。期末全闭卷，记忆内容很多，复习比较痛苦，比如写出5V是什么；除了时间序列和聚类还有什么算法运用了并行计算；sql和nosql的区别",
+      "excerpt": "无 quiz，约七个作业（平均一两周一交），一个小组项目，无期中，闭卷期末。作业简单能满分但耗精力。项目可自选题或用老师题，必须用并行、数据量宜大。期末记忆点多（如 5V、并行算法例子、SQL vs NoSQL）。",
       "extractedFrom": [
         "post_body"
       ],
@@ -63,7 +66,7 @@
     {
       "noteId": "66bb33d10000000025030553",
       "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
-      "excerpt": "CS5488 Big Data Algorithms and Techniques；分数构成：assignment，project，midterm，final；教授幽默，有时候讲不完会飞速读ppt，这点体验一般；TA人很好。Assignment基于实验课内容，不难；midterm开卷题量极大难度不大，不太友好（不确定会不会改）；project是3-4人项目，可以在要求之内水一水；final难度一般，但需要对ppt理解比较到位，并且有很多实验课内容。；剩下的下一篇说",
+      "excerpt": "成绩含 assignment、project、期中、期末。assignment 基于实验课、不难。期中开卷、题量大。project 3–4 人。期末需理解 PPT，并含实验课内容。有时讲不完会加快念课件。",
       "extractedFrom": [
         "post_body"
       ],
@@ -71,5 +74,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

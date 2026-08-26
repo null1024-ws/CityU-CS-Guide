@@ -44,27 +44,21 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "自选题目跟导师做小研究再汇报；体验几乎完全取决于导师风格（放养或每周组会）。",
+    "选题最好是自己有兴趣的，否则写报告会很耗。"
+  ],
   "sources": [
     {
       "noteId": "6a0be1210000000035024644",
       "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
-      "excerpt": "CS6537 Guided Study in IS；就是自选一个题目找导师带你，再做个简单研究，最后和导师汇报就可以。选题最好是自己有兴趣的，不然写报告很折磨人。导师方面每个人风格不同，我的是放养型导师，偶尔自己把写好的东西交给他听下反馈再改就得了，其他时间都让我自由发挥。我觉得这非常好，但也有同学需要每个星期和导师开组会且乐在其中的，总体上给分可以的。",
+      "excerpt": "自选题目找导师做小研究，最后汇报。选题最好是自己有兴趣的，否则写报告很耗。导师风格差很大：有放养、也有每周组会。给分总体上可以。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "CityU MSc CS Sem B课程评价（全A上岸啦）"
-    },
-    {
-      "noteId": "692ff3710000000019026fb6",
-      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
-      "excerpt": "CS6537 Guided Study in Information Security",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城市26fall新增网络安全专业"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

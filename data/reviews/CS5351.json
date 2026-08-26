@@ -49,16 +49,14 @@
     }
   },
   "tips": [
-    "CS5351 为 MSc CS 必修；本科有软件工程背景可尝试申请免修",
-    "6–8 人小组 project 占 30%，组队选择大于努力；建议在开源项目上扩展并记录开发流程",
-    "期中期末多为 case 简答题，考验英语写作能力；期末可带 3 张 A4 cheatsheet",
-    "老师口音对部分同学较难听懂，TA 可普通话交流；无常规作业，部分任务在 Tutorial 小组完成"
+    "必修；本科有软件工程背景可尝试申请免修。",
+    "6–8 人大组 project 占比较高，组队比个人努力更影响体验；期中期末多为 case 简答题，期末一般可带 3 张 A4。"
   ],
   "sources": [
     {
       "noteId": "68ab30eb000000001d034d6b",
       "url": "https://www.xiaohongshu.com/explore/68ab30eb000000001d034d6b?xsec_token=ABsQzS1HyOFhISpcdikqcp8OlELVdvGsNmQdXykYkPe2c=",
-      "excerpt": "CS5351 Software Engineering 必修；老师人真的很好，讲的课内容也挺丰富的。因为我本科是学软件工程的，感觉是我本科一些课程的综合，对软件开发的全周期基本都有涉猎。tutorial经常搞点小游戏，和小组成员讨论一下还蛮有趣的，虽然有时候会处在TA讲解半天我们还是不知道要干啥的情况下。基本上没什么作业，有也是基本上都在tutorial时候小组完成的。有小组任务两个，一个做project，一个做research。我这种i人平时上课也不会主动交朋友，感觉project组队也是一个认识新朋友的途径，认识了好朋友，偶尔有遇到不太做事的，但是大部分人都挺认真的。；20%期中开卷 + 10% research + 30% project + 40% 期末闭卷，可带3张cheatsheet。；SE的期中考是我来到cityu第一次考试，基本是以case模式在考，那时候我有点不知道所措，考的也是稀碎。期末基本也是case模式，但是这次有了期中的经验就没那么发怵了。感觉SE的考试不太简单呢。；project我觉得主要是学以致用，不需要多么高难度的开发，能把学到的项目管理知识融入开发的概念就很好了，当然最好早点开始，不然后续可能时间紧张。",
+      "excerpt": "必修。覆盖软件开发全周期，本科软工背景会觉得是旧课综合。tutorial 常有小组小活动。几乎无个人作业。有 project 与 research 两项小组任务。约 20% 开卷期中、10% research、30% project、40% 期末（可带 3 张 cheatsheet）。考试多为 case 简答。project 重流程应用，宜早点开始。",
       "extractedFrom": [
         "post_body"
       ],
@@ -67,7 +65,7 @@
     {
       "noteId": "68345b41000000002100ef66",
       "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
-      "excerpt": "1. CS5351 Software Engineering；Lecturer: Ricky Chan(Wing Kwong CHAN)；上课体验；上课形式丰富，提供部分助于理解课程内容的小游戏，并提供线上直播。老师很友善但英语口音较重，做好自学准备；项目体验；8人项目，建议在已有开源项目上做扩展或改进，这一过程应注重软工开发流程的应用，最好使用进度记录网站如jira（但并不好用）。总体来说比较麻烦和繁琐。无需pre，只需要录讲解视频；除此之外，还有一个论文阅读分享项目，需要线下pre；作业体验：无作业，只有期中考试；考试体验；期中考试和期末考试形式几乎一样，都是大篇幅的简答题，很考验英语写作能力和瞎掰能力。期中考试开卷（甚至可带不联网电子设备），期末可带3页双面cheat sheet。给分高",
+      "excerpt": "Ricky Chan 授课，有线上直播。上课形式丰富，口音较重，需自学。约 8 人项目，宜在开源上扩展并走软工流程（如 Jira），无需现场 presentation、需录视频。另有论文阅读需线下 presentation。无平时作业，有期中。期中期末都是大段简答。期中开卷甚至可带不联网设备，期末 3 页双面 cheatsheet。给分有人认为高。",
       "extractedFrom": [
         "post_body"
       ],
@@ -76,7 +74,7 @@
     {
       "noteId": "695c948d000000002102ad0b",
       "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
-      "excerpt": "CS5351 软件工程（必修）；两个quiz（个人感觉难），无作业，一个小组大项目，一个类似文章鉴赏的调研，无期中，三张A4的半开卷期末。；这学期上过最恶心的课，没有之一。本科学过软工，非常后悔没有免修这门课。老师的口音奇奇怪怪，完全听不懂，用了翻译软件也有时候翻译不明白。背的东西很多，虽然quiz和期末都是开卷，但是要是不太了解知识根本找不到地方。项目跟了个大佬，所以还算轻松，最后需要做线上pre和项目展示，可以一个人也可以全体讲，大佬一个人包揽了，轻松很多。建议能免修就免，去选别的课吧。",
+      "excerpt": "两次 quiz 偏难，无作业，一个小组大项目加调研，无单独期中（或 quiz 充当），期末三张 A4 半开卷。口音难懂的反馈较多。开卷也要先理解才能找到对应内容。项目有线上展示。有软工背景的人常后悔没免修。",
       "extractedFrom": [
         "post_body"
       ],
@@ -85,7 +83,7 @@
     {
       "noteId": "66bb33d10000000025030553",
       "url": "https://www.xiaohongshu.com/explore/66bb33d10000000025030553?xsec_token=ABfJn-_AQHhYCFy7k5eFXg3HsLCGF5UuR2zpDLQGII-Fs=",
-      "excerpt": "CS5351 Software Engineering（必修）；分数构成：project，midterm，final；教授人非常好，但香港口音对大陆人来说难听懂；TA很耐心可以普通话交流。project是5-8人项目，社恐可以考虑把课程置换掉，内容是开发一个工具/平台等等，可以基于现有github内容进行扩展。合理就不会挂，注重开发过程，不可以摆（本人被大佬带飞）；midterm开卷，final半开卷，开放式问题比较多，需要记住概念然后发挥想象力扩展。",
+      "excerpt": "成绩含 project、期中、期末。香港口音对大陆学生较难。TA 可用普通话。5–8 人开发工具/平台，可基于 GitHub 扩展，重过程。期中开卷，期末半开卷，开放题多。",
       "extractedFrom": [
         "post_body"
       ],
@@ -94,7 +92,7 @@
     {
       "noteId": "676793ee000000000b00d2b1",
       "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
-      "excerpt": "CS5351 Software Engineering(必修)；虽然没去，但也不妨碍这是最抽象的一门课，内容抽象，老师的口音也很抽象…分数由group project、research paper、期中和期末构成，group project跟着大佬带飞的，researchpaper 好水的，期中可以带手机，期末只能带三张cheatsheet，全是主观题，挺抽象的，但把字都写满了，不会的就抄cheatsheet上的概念，问题也不大。",
+      "excerpt": "分数由 group project、research paper、期中和期末构成。期中可带手机，期末三张 cheatsheet，全是主观题。research paper 有人觉得负担不重。",
       "extractedFrom": [
         "post_body"
       ],
@@ -103,7 +101,7 @@
     {
       "noteId": "6a0c17bd000000000702ea2c",
       "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
-      "excerpt": "CS5351 software engineering；课程内容主要涵盖软工开发的知识(code review，debug等)，平时包含两次quiz，大部分是场景题，加起来占比20％左右，期末考试题量大，很可能做不完; 题型大多在前两次quiz出现过。group project要求也挺多的，算是workload比较大的一节课了。",
+      "excerpt": "内容含 code review、debug 等。两次 quiz 多为场景题，合计约 20%。期末题量大，题型多在 quiz 出现过。group project 要求多，工作量偏大。",
       "extractedFrom": [
         "post_body"
       ],
@@ -112,7 +110,7 @@
     {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
-      "excerpt": "3.CS5351 software engineering 必修课；quiz20%+research paper10%+group project30%+final40%半开卷（三张正反面A4 cheat paper）；期中考试全开卷带电脑都行，得分情况见p2，这门课完全没学懂，Java更是一窍不通，折磨",
+      "excerpt": "约 quiz 20%、research 10%、group project 30%、期末 40%（三张正反 A4）。期中全开卷、可带电脑。Java 不熟会较吃力。",
       "extractedFrom": [
         "post_body"
       ],
@@ -121,7 +119,7 @@
     {
       "noteId": "68c2dbe2000000001d00a87b",
       "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
-      "excerpt": "CS5351 SE：内容很多很杂，期中期末像考软工场景+雅思阅读理解。；这俩小组作业是6～8人大组，选择大于努力！；选题最好靠一下就业方向或者复用以往经验。",
+      "excerpt": "内容杂。期中期末像软工场景加阅读理解。小组作业 6–8 人，组队质量影响大。选题宜靠近就业方向或复用已有经验。",
       "extractedFrom": [
         "post_body"
       ],
@@ -132,7 +130,7 @@
     {
       "noteId": "69f1a339000000003601cda6",
       "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
-      "excerpt": "一点没写错，如果是真想学东西，这课上上还行。但水硕大部分人都是想水，这课几乎要素拉满了：两次quiz，大型项目，给分低，考试难。我两个学期十门课这门课独一档的烦，强烈建议申请豁免。",
+      "excerpt": "想学开发流程可以上。两次 quiz、大型项目、给分偏低、考试难，是有人一学期最烦的课。本科有软工背景可考虑申请免修。",
       "extractedFrom": [
         "comment"
       ],
@@ -145,7 +143,7 @@
     {
       "noteId": "69f1a339000000003601cda6",
       "url": "https://www.xiaohongshu.com/explore/69f1a339000000003601cda6?xsec_token=AB9yHaZmI27uPG6f42XlPLU1X1MrCv8dm8Ck-v57RjvwQ=",
-      "excerpt": "比本科时候的软工轻松多了，那时候做一个项目每一步都在网上一通找",
+      "excerpt": "也有人认为比本科软工轻松，本科时每一步都要自己网上找资料。",
       "extractedFrom": [
         "comment"
       ],

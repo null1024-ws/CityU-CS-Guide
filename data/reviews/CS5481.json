@@ -43,31 +43,23 @@
     }
   },
   "tips": [
-    "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人"
+    "必修。作业与小组项目给分较松，闭卷期末常考 SQL、B+ 树、正则；只看 review PPT 不够。",
+    "老师语速偏慢、有录播的学期体验更好；可视化类选题容易扎堆，高分需额外投入。"
   ],
   "sources": [
     {
       "noteId": "67584bb70000000002016c6b",
       "url": "https://www.xiaohongshu.com/explore/67584bb70000000002016c6b?xsec_token=ABhZXb-pC1L8oCu156EiEoOJxK9dBvg9RkgF0cd482_cg=",
-      "excerpt": "CS5481算选课选的很满意的一次，老师语速适中，清华毕业的老师是内地的人。讲课内容涉及的地方挺多，前半部分是数据抓取，处理，可视化，中间聊了聊大模型，后半部分讲了讲数据索引(B树B+树)，数据存储sql，nosql，以及推荐系统等等，涉及到的内容不少，每节课的tutorial基本是教授这节课涉及到的编程，比较详细，然后有两次作业，难度不高，还有一个小组合作项目，可以在老师给的题目当中选，有简单的比如数据可视化可以划水。最后一节课还有复习课，会带着你把重点过一遍然后讲讲presentation以及期末注意事项，甚至还有答疑环节。不管是想水还是深挖感觉都可以选这门课，下学期老师应该还会带nlp。哦对了，有线上直播还有录播非常棒。；期末考试难度感觉还好，基本都上课提过。",
+      "excerpt": "内地老师，语速适中。内容含数据抓取、处理、可视化、一点大模型、B+/B 树、SQL/NoSQL、推荐系统等。tutorial 多为当堂编程。两次作业不难，小组项目可选老师题目，可视化类易划水。最后一节复习课过重点。有的学期有直播和录播。期末多为课上提过的内容。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "香港城市大学CS5481 Data Engineering"
     },
     {
-      "noteId": "6a7729bb0000000005020799",
-      "url": "https://www.xiaohongshu.com/explore/6a7729bb0000000005020799?xsec_token=ABRyAyBO3vKWbhccHEGpLfyPQ4IvRCfdfOW5jDK6Gmcsk=",
-      "excerpt": "1.CS5481 Software Engineering；不出意外的话这是港硕的第一门课。开幕雷击，所有课里要素最多的一门课：超大型的项目，八人左右一组，开发周期占了整个SemA的三分之二，如果组里有人划水会很困难，线上录制视频pre；两次quiz，虽然开卷，但难度不低；一次论文阅读写作，比较水。期末考试半开卷，能带三张小抄，但题量和难度都不小，整场考试像是英语阅读写作大挑战。老师人不错，但口音有点重，上课听起来有点吃力。另外老师喜欢整些互动小游戏，所以上课没发完全划水，整体给分一般。虽然是必修课，但可以考虑豁免。；优点：能在前期认识多个同学，方便后面抱团；缺点：超大型项目，两次quiz，考试难度较高",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU Msc CS选课指南SEMA（划水版）"
-    },
-    {
       "noteId": "68345b41000000002100ef66",
       "url": "https://www.xiaohongshu.com/explore/68345b41000000002100ef66?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjVAWDxzsSp-rHHeUsTmBsI8=",
-      "excerpt": "2. CS5481 Data Engineering；Lecturer: Linqi SONG；上课体验；老师的英文发音易懂，且语速慢，上课内容不难。tutorial提供的都是可运行的代码，对理解内容很有帮助。提供线上课；项目体验；老师会提供现成的选题，但选题之间难度差别较大，导致大多数小组都选择数据可视化项目，如选择该题目应做好分数一般或卷起来的准备。需要线下pre；作业体验；两个assignments包含简答计算和编程，难度不小但给分极慷慨；考试体验；完全闭卷。老师给出的复习PPT中覆盖大部分内容但非全覆盖，包含部分tutorial和assignment内容，甚至要默写代码。避免死记硬背复习PPT",
+      "excerpt": "Linqi Song 授课，发音易懂、语速慢。tutorial 提供可运行代码。有线上课。选题难度差大，多数组选数据可视化，该题分数往往一般。需线下 presentation。两次 assignment 含简答、计算和编程，给分很松。完全闭卷。复习 PPT 不能覆盖全部，可能含 tutorial/作业甚至默写代码。",
       "extractedFrom": [
         "post_body"
       ],
@@ -76,7 +68,7 @@
     {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
-      "excerpt": "4.CS5481 data engineering 必修课；2*assignment30%+group project30%+final40%闭卷；期末考了三个正则化表达式，一个sql大题，b+树，还有recommender system。建议把所有PPT都看一遍，只看那个reviewPPT拿到卷子容易傻眼。期末答得很差，出分前看了眼project才给了70分，以为这门课要挂了，老师你是我滴神！",
+      "excerpt": "两次作业 30%、小组项目 30%、闭卷期末 40%。期末出现过正则、SQL、B+ 树、推荐系统。只看 review PPT 不够，宜过全部课件。",
       "extractedFrom": [
         "post_body"
       ],
@@ -85,7 +77,7 @@
     {
       "noteId": "676793ee000000000b00d2b1",
       "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
-      "excerpt": "CS5481 Data Engineering(必修)；老师说的英语比较慢，也能听懂，无回放。平时分由三次assignment和一个group project 构成，作业给分很高，group project也很好水，花个一周就差不多搞定了。期末是闭卷，考前会划重点，但是不是特别完全，老师说只要别空着就会捞人。这门课速成了个B+树和简单的sql，最后也是轻轻松松。",
+      "excerpt": "语速慢、能听懂。该来源学期无回放。平时为作业加 group project，作业给分高，项目约一周也能做完。闭卷，考前划重点但不完全。老师称不要空着会捞。B+ 树和简单 SQL 是常见考点。",
       "extractedFrom": [
         "post_body"
       ],
@@ -94,7 +86,7 @@
     {
       "noteId": "695c948d000000002102ad0b",
       "url": "https://www.xiaohongshu.com/explore/695c948d000000002102ad0b?xsec_token=ABEu12Oqeav7P63iEcOwgFToKzt67ZG3sBpn2xBoLRDFs=",
-      "excerpt": "CS5481数据工程（必修）；无quiz，两个作业（给分很高），一个小组大项目，无期中，闭卷期末。；这学期老师中最喜欢的一个，口音很清晰，语速也缓慢，讲课内容听的很明白，基本不用靠翻译软件。项目跟了软工的大佬，属于又是被带飞了，最后需要全体做线下pre。期末全是大题，重点复习sql、b+树、正则表达式（这三个必考）。",
+      "excerpt": "无 quiz，两作业给分高，小组项目，无期中，闭卷期末。口音清晰、语速慢。项目需全体线下 presentation。期末大题，宜重点复习 SQL、B+ 树、正则。",
       "extractedFrom": [
         "post_body"
       ],
@@ -103,27 +95,13 @@
     {
       "noteId": "695cf7a800000000220313b8",
       "url": "https://www.xiaohongshu.com/explore/695cf7a800000000220313b8?xsec_token=ABEu12Oqeav7P63iEcOwgFTvZelRDgYB-E0uSTMPkyT8Y=",
-      "excerpt": "3. cs5481；30%两次作业，不难；30%小组项目（给了几个选题，也可以自己拟，不难，好水，最后验收可能是助教，问的问题也简单，水过去的话大概给个75-80的分，想高分可以看看别人的经验帖）；40%期末，闭卷，5道题，B树，SQL，正则必定出现，难度不超过平时作业题，必须会；总结：好课",
+      "excerpt": "30% 两次作业、30% 小组项目（可自拟或选给定题，验收问题通常不深）、40% 闭卷期末约五道题。B 树、SQL、正则几乎必现，难度不超过平时作业。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "CityU EC semA选课锐评（上）"
     }
   ],
-  "commentSources": [
-    {
-      "noteId": "69624cc7000000000d009084",
-      "url": "https://www.xiaohongshu.com/explore/69624cc7000000000d009084?xsec_token=ABoYrsCtPedtStKyDnNx02kh59LkBdfLrOPkx-POc12sc=",
-      "excerpt": "才发现ai去水印把CS5481 B+改成了CS5482 B",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "港城莞CS Semester A期末出分",
-      "commentId": "69624d1f000000000f029af9",
-      "author": "Moody",
-      "likes": 0,
-      "role": "supplement"
-    }
-  ],
-  "lastUpdated": "2026-08-25"
+  "commentSources": [],
+  "lastUpdated": "2026-08-26"
 }

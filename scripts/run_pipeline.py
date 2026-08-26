@@ -12,6 +12,7 @@ STEPS = [
     (["content_bundle.py"], True),
     (["review_extract.py"], True),
     (["credibility_score.py"], True),
+    (["review_editor.py"], True),
     (["build_site.py"], True),
     (["audit_reviews.py"], False),
 ]

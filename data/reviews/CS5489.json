@@ -49,13 +49,14 @@
     }
   },
   "tips": [
-    "cs5489偏实验，如果python掌握不太熟练的朋友比较推荐"
+    "相对 CS5487 更偏实验与应用（含 Kaggle 类作业），数学推导少、工作量不小。",
+    "期中期末都难，开卷/cheatsheet 限制因学期而异；Python 不熟需要预留作业时间。"
   ],
   "sources": [
     {
       "noteId": "66bf27a800000000250322f8",
       "url": "https://www.xiaohongshu.com/explore/66bf27a800000000250322f8?xsec_token=AB-xgSHmDbSXkGFlv0-KwRmPlRUO1Ep8Swb_ryhGds79E=",
-      "excerpt": "CS5489 Machine Learning: Algorithms and Applications；分数构成：toturial，assignment，midterm，final，project；SemA比较难的一门课，内容涵盖机器学习方法，神经网络等等。tutorial每节课后都有，每次耗费半小时到三小时不等；assignment共两个；project和assignment类似。assignment按照要求做就会有高分，几乎都是tutorial中做过的，不需要太多创新；midterm和final都难，需要对课里的概念和应用理解透彻，但考察原理和开放题很少（比如问GAN的结构和原理，课上会讲）。教授语速也比较快，内容多。学期最后几节课神经网络尤其难，好在final也就考一道题。（readingweek一共6天，这门课复习了4天，复习起来有点煎熬）；虽然这门课很难，但是我感觉是很有用的一门课，和semB的nlp，data mining一样可以扩展知识广度，学完我感觉大受裨益。",
+      "excerpt": "含 tutorial、assignment、期中、期末、project。覆盖机器学习方法与神经网络。每节后 tutorial 耗时半小时到三小时不等。两次 assignment 与 project 类似，按 tutorial 做即可，不必强创新。期中期末都难，概念和应用要熟，开放原理题不多。语速快、内容多。后期神经网络较难，期末往往只占一道。",
       "extractedFrom": [
         "post_body"
       ],
@@ -64,25 +65,16 @@
     {
       "noteId": "682dfcfd00000000120000d9",
       "url": "https://www.xiaohongshu.com/explore/682dfcfd00000000120000d9?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXJmN-5eCm9wsW5rxrkWekUY=",
-      "excerpt": "CS5489 Machine Learning:Algorit &Apns；属于是没上5487，但上了5489。antoni老师没讲几节课，基本都是马老师，课程有录播，tutorial没有。课程分为ML和DL两部分，ML讲的更多一些。课程不涉及太多数学方面的推导（老师课上反复强调），但考试有公式的书写，更偏应用和广度的涉猎。有期中、小组作业和个人作业（都是打kaggle） 。让带cheatsheet，但只能一张。感觉考试挺难，自己没学精，考的十分无力。（这门课竟然是DS分流的课，非常神奇，5487就不是）",
+      "excerpt": "相对 CS5487 更偏应用与广度，数学推导少，但考试仍可能要写公式。有录播，tutorial 无录播。含期中、小组作业和个人 Kaggle 类作业。cheatsheet 常限一张。考试难度不低。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "CityU CS SEMB"
     },
     {
-      "noteId": "682d40b8000000002301f2ef",
-      "url": "https://www.xiaohongshu.com/explore/682d40b8000000002301f2ef?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXFnQ0vj4ugSW0WFaaj1d_7U=",
-      "excerpt": "cs5489偏实验，如果python掌握不太熟练的朋友比较推荐。；苯人之所以会上这么多课，完全因为phd入学时不知道可以学分转换（实验室第一个phd的痛）等到入学认识了系里其他同学，才了解这个操作，可惜那时候学分转换已经结束（只有开学才可以）；在此提醒25fall入学的phd同学，开学时一定问sgs具体的学分转换流程，我记得需要填表格以及写自己对应上过的课程的课程大纲；课程大纲描述的时候记得搜索cityu这门课的大纲，对照写的像一些，容易transfer通过（我的血泪总结！！！",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "Cityu cs semb成绩+学分转换提醒"
-    },
-    {
       "noteId": "682d5b26000000000c039eaf",
       "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
-      "excerpt": "3.CS5489 Machine Learning: Algorithms and Application；10*tutorial10%+2*assignment20%+project30%+midterm10%+final30%；作业答案网上都有，期中试卷已上传。期末至少考了30%期中的内容，RBF核，朴素贝叶斯，GAN与梯度消失，RANSAC, transformer等，难度不大就是内容多，啥都想考一点，怀疑是不是换出题老师了，出卷都不按套路出了，还是5487简单些。",
+      "excerpt": "约 tutorial 10%、两次 assignment 20%、project 30%、期中 10%、期末 30%。期末覆盖面广（核方法、朴素贝叶斯、GAN、RANSAC、Transformer 等），深度不一定大。有人觉得比 CS5487 题型更杂。",
       "extractedFrom": [
         "post_body"
       ],
@@ -91,45 +83,18 @@
     {
       "noteId": "6878c023000000002400e000",
       "url": "https://www.xiaohongshu.com/explore/6878c023000000002400e000?xsec_token=ABGzEVEwXHY8jALIyJhiN2eicdLUslJ_paGqt-qxRtnDk=",
-      "excerpt": "CS5489 Machine Learning: algorithms and applications；很好的一门课，和5487相比偏应用，数学基础弱但想学机器学习可以冲。成绩构成是十次tutorial两次个人作业小组项目期中考试期末考试。workload比较大，但绝对值得学费，课程内容非常丰富，考试无法突击，建议一定要好好学的一门课",
+      "excerpt": "相对 5487 偏应用，数学弱但想学 ML 可以选。十次 tutorial、两次个人作业、小组项目、期中期末。工作量大，内容多，考试难以突击。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "🇭🇰CityU CS SemB选课"
-    },
-    {
-      "noteId": "6a68c369000000000401d020",
-      "url": "https://www.xiaohongshu.com/explore/6a68c369000000000401d020?xsec_token=ABuawtdgCfNg0LPb3huopF90LeInTU-kPgHb3VzJ-em_o=",
-      "excerpt": "CS5489（机器学习）：主包因为学分置换直接没上，但看同学反馈工作量大、强度高。不过评估下来效果应该不错（毕竟主包以前上机器学习的时候，老师都很难把slides讲得很清楚hhhh）。；选修课主推这几门",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "大龄学长聊对MSc AI的整体感受和选课建议"
-    },
-    {
-      "noteId": "669e38ab0000000027018fc3",
-      "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
-      "excerpt": "CS5489 Machine Learning: Algorithms and Applications",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU MSc CS选课攻略，港城计算机选课"
-    },
-    {
-      "noteId": "692ff3710000000019026fb6",
-      "url": "https://www.xiaohongshu.com/explore/692ff3710000000019026fb6?xsec_token=AB4QC_kJJpeZ5qqIqOOKdb14HmQTzj8NP8rKaeWClFJII=",
-      "excerpt": "CS5489 Machine Learning: Algorithms and Applications",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城市26fall新增网络安全专业"
     }
   ],
   "commentSources": [
     {
       "noteId": "681a0b60000000000f03b478",
       "url": "https://www.xiaohongshu.com/explore/681a0b60000000000f03b478?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXzV5LOWE_3LlNAJSfgeuw6w=",
-      "excerpt": "我以为我的cheatsheet够夸张了，没想到你的更厉害！不得不说这门课真的是又爱又恨，tutorial assignment project 工作量真的大，但沒有這些的話真的學不懂",
+      "excerpt": "tutorial、assignment、project 工作量都大。不做这些练习则很难学懂。",
       "extractedFrom": [
         "comment"
       ],
@@ -138,33 +103,7 @@
       "author": "Babe",
       "likes": 2,
       "role": "supplement"
-    },
-    {
-      "noteId": "66bf27a800000000250322f8",
-      "url": "https://www.xiaohongshu.com/explore/66bf27a800000000250322f8?xsec_token=AB-xgSHmDbSXkGFlv0-KwRmPlRUO1Ep8Swb_ryhGds79E=",
-      "excerpt": "CS5489 非考研党 高数三件套都差不多忘完了 学起来会不会很困难",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityU Msc Computer Science选课2",
-      "commentId": "66c2c36f000000000c01a576",
-      "author": "momo",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "681a0b60000000000f03b478",
-      "url": "https://www.xiaohongshu.com/explore/681a0b60000000000f03b478?xsec_token=ABSuhBlB8ZgzqMEfq0fdQpXzV5LOWE_3LlNAJSfgeuw6w=",
-      "excerpt": "ds的ml应该和cs的不一样，难度应该没这么大",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "香港城市大学 CS5489机器学习 继续吐槽",
-      "commentId": "681b054f000000000401c5be",
-      "author": "Richett_L",
-      "likes": 1,
-      "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

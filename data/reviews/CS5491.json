@@ -45,13 +45,14 @@
     }
   },
   "tips": [
-    "1. CS5491 Artificial Intelligence（推荐所有人选）"
+    "内容偏 CS188 风格入门 AI，作业与考试题型接近，开卷计算题为主，多源觉得好过。",
+    "有当堂/点名性质作业，project 建议早点做；无回放时可对照公开 CS188 材料。"
   ],
   "sources": [
     {
       "noteId": "683fdcb50000000021005724",
       "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
-      "excerpt": "CS5491 Artificial Intelligence；AI是陆智超老师上的一门新课，老师人很帅，偷偷说，觉得长得有点神似听泉，高配版听泉上课节奏适中，口音纯正，会照顾大家的进度。课程内容主要包含一些人工智能、强化学习的内容，涉及启发式算法、最大最小树、贝叶斯概率、马克洛夫MDP模型等，PPT课程内容和CS188基本一致，因为课程没有回放，可以参考YouTube上的CS188课程（复习的时候搜索才发现）。；记得要来课程线下，有课堂作业，会有点名性质的作业，老师人很好，会当堂讲解，不用担心不会做！；平时也会有习题练习，整体作业量不大，project会难些，可以组队(最多3人)，一定要提前规划project，我们组的project花了很多时间，是和funsearch相关的实验。；期中+期末考试，难度适中，期中quiz会有样题，和考试题目很类似，期末的题目也不难，是开卷考，可以带上ppt和习题，老师说不挂人，作业做了+考试考了=>大家都能过的。",
+      "excerpt": "Zhichao Lu 授课，口音清楚、节奏适中。内容接近公开课 CS188：启发式搜索、博弈树、贝叶斯、MDP 等。该学期无回放，可对照 CS188。有当堂/点名性质作业，会当堂讲。平时习题量不大。project 最多 3 人，宜早做。期中有样题，期末开卷可带 PPT 和习题。",
       "extractedFrom": [
         "post_body"
       ],
@@ -60,7 +61,7 @@
     {
       "noteId": "683476a700000000220270f9",
       "url": "https://www.xiaohongshu.com/explore/683476a700000000220270f9?xsec_token=ABD3MHiD_BCmA_DFiXj_aOjUtSareKfkE1024ASnax9kA=",
-      "excerpt": "1. CS5491 Artificial Intelligence（推荐所有人选）；Lecturer: Zhichao LU；上课体验；老师的口语清晰又地道，哪怕上课没学到东西也可以算是英文听力练习。上课内容深入浅出，把人工智能中非常复杂的知识提炼出简单的知识点和方法。像我这样的AI小白也能学有所得。；项目体验；1-3人项目。由于该项目我负责部分不多，所以无法做出太全面评价。但总体而言工作量不会像SE项目那么大（小组人数摆在那）。没有pre；作业体验；作业次数不少但都很重要，几乎所有作业涉及的计算题都会在期中或期末中考到。乍一看作业会觉得一头雾水，但在作业布置之前老师会手把手带着过几道题，减少作业量的同时教大伙怎么算，认真听的话就一定没问题；考试体验；期中考试和期末考试都是完全开卷。考试内容都是平时作业的变化版甚至简化版，建议把平时作业答案一起打印出来带到考场上，哪怕不记得怎么算了也能现学现算。",
+      "excerpt": "口语清晰。1–3 人项目，工作量一般低于软工大组，无 presentation。作业次数不少，计算题几乎都会在期中或期末出现。布置前老师会带做例题。期中期末完全开卷，多为作业变形或简化，可把作业答案打印带入。",
       "extractedFrom": [
         "post_body"
       ],
@@ -69,7 +70,7 @@
     {
       "noteId": "6a772a610000000028031cd2",
       "url": "https://www.xiaohongshu.com/explore/6a772a610000000028031cd2?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOyKZG4YlqYjRFXJCSZ_GI0=",
-      "excerpt": "7.CS5491 Artificial Intelligence；这应该是SEMB为数不多比较轻松的课。课程难度不高，有几次作业，题型与考试一致。期中和final全部为开卷考试并且全部为应用计算题，无概念题，且题型相对固定。只要把作业搞懂，融会贯通，打印带进考场就不可能不过。有一个小型project，无需pre。整体而言这门课给分很高，事情也不多，推荐所有人选。唯一可惜的是由于某些原因期末难度有点高。；优点：考试开卷且全部为应用计算题，题型与作业相似；缺点：期末考试难度较高",
+      "excerpt": "几次作业，题型与考试一致。期中期末开卷、以应用计算为主、无概念题，题型相对固定。有小型 project，无需 presentation。有学期期末明显变难。",
       "extractedFrom": [
         "post_body"
       ],
@@ -78,7 +79,7 @@
     {
       "noteId": "682e95a7000000002301c25e",
       "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
-      "excerpt": "CS5491 AI 20%平时作业 20%期中 30%Proj 30%期末；workload；授课及口音 一个月一次数学作业没有课程回放，考前无复习课但期中考前给了模拟题。老师来自Michigan State口音很纯正播音腔，很负责（看大家AlphaBeta剪枝掌握不好T课一步步手推）。教学内容很多Search、CSP、Opt、MDP、强化学习和BAYES Networks。小组Proj会给你GPT的API，会给3日宽限这期间交不扣分，放Colab。",
+      "excerpt": "约 20% 作业、20% 期中、30% project、30% 期末。约每月一次数学作业，无回放。期中前给模拟题。内容含 Search、CSP、优化、MDP、强化学习、贝叶斯网。小组 project 可能提供 GPT API，有宽限交。",
       "extractedFrom": [
         "post_body"
       ],
@@ -87,7 +88,7 @@
     {
       "noteId": "6a0c2c9d0000000006033f16",
       "url": "https://www.xiaohongshu.com/explore/6a0c2c9d0000000006033f16?xsec_token=AB5R6guwSBj6EA1pFvWy5NXBinrzLDeId54GC6Vu498Qc=",
-      "excerpt": "CS5491 Artificial Intelligence；lu老师完全大好人，老师的口音很好懂，课程主要是参考人工智能现代化第四版这本书，课程的日常作业量不大，项目可以1-3人，可选范围很广，老师说优秀的项目有投稿的可能，如果有想法的同学可以好好做项目或者提前和老师了解一下（个人没有尝试，未知可行度），期中考试和期末考试基本都是基于tutorial 的例题进行理解然后稍作变动，都是开卷，总体不是很困难",
+      "excerpt": "参考《人工智能：现代方法》。日常作业量不大，项目 1–3 人、选题广。期中期末基于 tutorial 例题稍作变动，开卷。",
       "extractedFrom": [
         "post_body"
       ],
@@ -96,7 +97,7 @@
     {
       "noteId": "6a0f2914000000003501f1b4",
       "url": "https://www.xiaohongshu.com/explore/6a0f2914000000003501f1b4?xsec_token=ABp3M15AaHTe7EJKyjHo9zD4bhAoAymljISCJ_zahf50Q=",
-      "excerpt": "cs5491 ai：曾经是一门好课据说，但今年出现了一些乌龙：有人举办说期中考试出的题和历年差不多，提前拿了答案balabala。可能因此老师黑化了，期末出的巨难，主播一个完整题都不会，只有全不会/会一点的区别，考场上算了算30%都很悬，感觉老师也是努力捞了。平时有作业，不过一直没打分不知道是不是都给满了；曾有过一次当堂作业，主播当然是没有在考试都是开卷，两次考试都考到了路径选择和ab剪枝",
+      "excerpt": "有学期因期中题与往年过近，期末明显加难。平时有作业。曾有当堂作业。考试开卷，路径搜索与 α-β 剪枝常考。",
       "extractedFrom": [
         "post_body"
       ],
@@ -105,7 +106,7 @@
     {
       "noteId": "6a0c1fc800000000080325e9",
       "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
-      "excerpt": "CS5491 Artificial intelligence；内容涵盖搜索，mdp，bayes等内容，有期中和期末考试，期中考试因为某些原因可能下一届会有变数，这里就不说了。期末考试考了搜索树，minmax剪枝和最后两个tutorial的内容，重点在于理解方法吧，题目在tutorial基础上会有一定的变化，但不难。项目是从几个选题里挑一个做，也很好水过去。",
+      "excerpt": "覆盖搜索、MDP、贝叶斯等。期末考过搜索树、minmax 剪枝及后段 tutorial。项目从给定选题里挑，负担可以控制。期中形式可能因学期而变。",
       "extractedFrom": [
         "post_body"
       ],
@@ -114,7 +115,7 @@
     {
       "noteId": "682d5b26000000000c039eaf",
       "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
-      "excerpt": "4.CS5491 Artificial Intelligence；assignment20%+midterm20%+project30%+final30%；新开的课，老师人十分不错，教学水平高，老师说让我们不用担心考试的事，期中期末全是tutorial里的内容，考试开卷，把tutorial打印带进考场，就算跟我一样计算全错，也能得B,闭眼选就完事了。",
+      "excerpt": "assignment 20%、期中 20%、project 30%、期末 30%。期中期末多为 tutorial 内容，开卷。有人计算全错仍拿到 B，属个例，请对照其他学期。",
       "extractedFrom": [
         "post_body"
       ],
@@ -123,22 +124,9 @@
   ],
   "commentSources": [
     {
-      "noteId": "69a6d64f000000001d0111a7",
-      "url": "https://www.xiaohongshu.com/explore/69a6d64f000000001d0111a7?xsec_token=ABWYZVUBNgzaXBeEYLQaCFBLF_wr1rJm0SHLZ-kiHjGx0=",
-      "excerpt": "开个玩笑，不是所有课都这么宽松的，期末还是要好好学另外英语要好好练，谁懂考场上看不懂专有词汇的无力感",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "果然，我们水硕是不会挂科的",
-      "commentId": "69a6d6ad000000000800fe4b",
-      "author": "晗光向阳🌻",
-      "likes": 2,
-      "role": "supplement"
-    },
-    {
       "noteId": "683fdcb50000000021005724",
       "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
-      "excerpt": "能。考试和课程内容没有编程相关，只有组队作业需要编程，可以用gpt..",
+      "excerpt": "考试和课堂内容不含编程。编程主要在组队项目里。",
       "extractedFrom": [
         "sub_comment"
       ],
@@ -147,33 +135,7 @@
       "author": "风压新枝",
       "likes": 1,
       "role": "supplement"
-    },
-    {
-      "noteId": "69a6d64f000000001d0111a7",
-      "url": "https://www.xiaohongshu.com/explore/69a6d64f000000001d0111a7?xsec_token=ABWYZVUBNgzaXBeEYLQaCFBLF_wr1rJm0SHLZ-kiHjGx0=",
-      "excerpt": "不是滴，有的开卷有的闭卷，来卷的程度也不一样，有的只让带一张a4",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "果然，我们水硕是不会挂科的",
-      "commentId": "69b244430000000015001561",
-      "author": "晗光向阳🌻",
-      "likes": 0,
-      "role": "supplement"
-    },
-    {
-      "noteId": "683fdcb50000000021005724",
-      "url": "https://www.xiaohongshu.com/explore/683fdcb50000000021005724?xsec_token=AB1AA6djiKkTBHVlWPU2uj0AmaZiQ1V-H5VieURjxkOaY=",
-      "excerpt": "想问一下期中quiz的样题是会在考试之前发的吗？能求一份嘛！",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "CityU CS5491 Artificial Intelligence经验",
-      "commentId": "68e28a15000000003702748d",
-      "author": "Aurora",
-      "likes": 1,
-      "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

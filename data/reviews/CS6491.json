@@ -40,12 +40,15 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "纯数学优化，tutorial/作业/期中期末基本全闭卷；考前刷 past paper、复习微积分更有用。",
+    "数学底子弱的人慎选；有人觉得比算法课更好上手。"
+  ],
   "sources": [
     {
       "noteId": "6a0be10c00000000350215c2",
       "url": "https://www.xiaohongshu.com/explore/6a0be10c00000000350215c2?xsec_token=ABdp_KDrgAPqmbwDq_kTmXJW9QYHIUl_l9pbCSeCxYBmk=",
-      "excerpt": "CS6491 Optimization；4个需要线下交的tutorials，4个assignments，1个mid，1个final，全闭卷；上学期学得太烂了，痛定思痛要好好学习，感觉上过的三门课里反而是这节课最好上手了，更单纯的数学，对这种课程的理解度比算法要好很多；可以学之前复习一下微积分&导数，考前多看看past paper，这节课基本做题就可以，感觉很适合中国学生（",
+      "excerpt": "四次需线下交的 tutorial、四次 assignment、期中、期末，基本全闭卷。纯数学优化，有人觉得比算法课更好上手。建议先复习微积分与导数，考前做 past paper。",
       "extractedFrom": [
         "post_body"
       ],
@@ -54,7 +57,7 @@
     {
       "noteId": "6a0be1210000000035024644",
       "url": "https://www.xiaohongshu.com/explore/6a0be1210000000035024644?xsec_token=ABhbQcz06VLSSPUzCUuOMVTBh5a1Z9Ph6bRU_dcPZPbpo=",
-      "excerpt": "CS6491 Topics in Optimization；绝世好课（至少现在是）。这课全是数学。张老师实力过硬，上课就是把课件重新推导一次和补充细节。中考和期末明显给活路了，来真的话人人都得寄。今年按Quinn老师的卷子做过一次的话基本上就十拿九稳了，但感觉未来可能会改题目，数学底子不好的同学慎选。",
+      "excerpt": "张老师上课把课件重新推导并补细节。期中期末有人觉得留了活路。数学底子弱须谨慎。题目是否沿用往年因学期而异。",
       "extractedFrom": [
         "post_body"
       ],
@@ -62,5 +65,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

@@ -42,12 +42,15 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "偏文科概念 + 后半段一点计网/网安/XML，有签到（前半学期更严）和小组 project，期末主观题为主。",
+    "整体好过，但两段老师内容要分开记，细节题靠蒙不稳。"
+  ],
   "sources": [
     {
       "noteId": "676793ee000000000b00d2b1",
       "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
-      "excerpt": "EC5001 Introduction to Ecommerce；这个课一看名字就水，也确实如此，纯文科，平时分由一个简单的课后作业，签到，group project构成，签到也就前8节课那个老师有要求，group project也是非常的好水，chatgtp轻轻松松。期末也全是主观题，建议多看看各种概念的对比，也是比较好过的。；另外说说其他几门；machine learing：我看选了的同学都叫苦不迭，作业一周一留，考试考的还特别难，建议没必要没苦硬吃，别选。；information security for Ecommerce：虽说没有group project，但是也是很难，看选了的同学也是各种后悔，叫苦不迭，还速成不了，没基础的期末简直是看天书，而且课还是在周五晚上就很阴间，建议是别选。",
+      "excerpt": "偏文科概念。平时含简单作业、签到、小组 project。签到主要是前半学期老师在管。期末多为主观题，宜看概念对比。整体相对好过。",
       "extractedFrom": [
         "post_body"
       ],
@@ -56,7 +59,7 @@
     {
       "noteId": "677bdd60000000001a034fd9",
       "url": "https://www.xiaohongshu.com/explore/677bdd60000000001a034fd9?xsec_token=AB9wdBcBIohhkYUX9WJBvzOUwGSCcSlKLl-OX_507fQXI=",
-      "excerpt": "EC5001 Introduction to Ecommerce；会有两部分组成，应该是IS老师先上，CS老师上学期后半部分的课。包括签到（仅IS老师的部分）、Assignment、Final、Group-Project。前半部分偏文科，需要死记硬背，然后在final的时候找对应的应用（可能是我漏了三条，导致分低。。）。后半部分和CS相关，会有计网、网安、XML类似这种的知识，知识覆盖面还挺广的，也是需要记概念和会写一些代码的，不是很难，但是考的有些比较细，属于是蒙也蒙不上那种。；欢迎评论，尽量回复解答，希望有帮助",
+      "excerpt": "前半 IS 老师、后半 CS 老师。含签到（仅前半）、assignment、期末、小组项目。前半偏记概念与应用。后半有计网、网安、XML 等，要记概念、也会写一点代码，细节题靠蒙不稳。",
       "extractedFrom": [
         "post_body"
       ],
@@ -65,7 +68,7 @@
     {
       "noteId": "677d3dbb000000000b016faf",
       "url": "https://www.xiaohongshu.com/explore/677d3dbb000000000b016faf?xsec_token=ABT5qmHeN9QLGYXhURieZtxRxYJ2Yx2Hwny9_8xmvOeMY=",
-      "excerpt": "EC5001,好课，一周一次简单小作业一次presentation一个小组report占50%+期末闭卷占50%，学的知识比较杂；IS5414,半好课，老师喜欢抽人回答问题，需要认真上课，每周一次小组作业+一次presentation占40%，期末闭卷占60%；IS5740,好中好课，一周一次简单quiz+简单assignment，assignment课堂上老师一步一步带着做,一次presentation和report,平时占60%，期末完全开卷40%；总结都是好课",
+      "excerpt": "有来源写一周一次小作业、一次 presentation、小组 report 约 50%，闭卷期末 50%。知识面较杂。具体构成请与其他来源对照。",
       "extractedFrom": [
         "post_body"
       ],
@@ -74,7 +77,7 @@
     {
       "noteId": "695ba7b0000000000e03fbfc",
       "url": "https://www.xiaohongshu.com/explore/695ba7b0000000000e03fbfc?xsec_token=ABwa4erALNUbl0wtp1mvQPTas__DiWR4HOr-1VLiaUnyk=",
-      "excerpt": "EC5001；只去了前半学期，感觉课堂几乎没什么内容点了两次名，期末就看了两三小时。；IS5414；就最后四节没去，同样课堂内容不多，老师疯狂点人回答问题疑似填充课程时间期末把笔记全看一遍就行了。；IS6335；没什么投入，画画图，最后project也没认真做，感觉还能接受。",
+      "excerpt": "有人只上前半学期，点名不多，期末短时复习。属低投入个例。",
       "extractedFrom": [
         "post_body"
       ],
@@ -83,7 +86,7 @@
     {
       "noteId": "6a0c17bd000000000702ea2c",
       "url": "https://www.xiaohongshu.com/explore/6a0c17bd000000000702ea2c?xsec_token=AB5R6guwSBj6EA1pFvWy5NXOhtamZoeiAb8GziJw-kOP8=",
-      "excerpt": "EC5001 introduction to EC；看名字就知道这门课和5481差不多也是背书课，分两个老师，第一个老师会查出勤。类似于大学里的通识课，不追求GPA的话，这门课可以很摆。期末前一天下PPT开始看都来得及；上述课程除ec外均无考勤",
+      "excerpt": "两段老师，第一位会查出勤。类似通识课。不追 GPA 可以投入很少。有人期末前一天看 PPT。CS 其他课多无考勤，这门例外。",
       "extractedFrom": [
         "post_body"
       ],
@@ -92,31 +95,13 @@
     {
       "noteId": "693da5fb000000001e023bc0",
       "url": "https://www.xiaohongshu.com/explore/693da5fb000000001e023bc0?xsec_token=ABZrWW4kZ9SPxaqq2OiRVyhOrtXxv4xbdf2HcL_YlRa50=",
-      "excerpt": "ec5001 前半学期是商科的课，有考勤，基本每周都有小组作业，不过工作量不大。需要完成一个商业计划，然后录一个pre视频。后半学期是讲商业技术（？无考勤，有一次简单的作业。期末闭卷，主观题比较多，多写点应该可以通过。",
+      "excerpt": "前半偏商科、有考勤，基本每周小组作业但量不大，需商业计划并录 presentation。后半讲商业技术、无考勤、一次简单作业。期末闭卷、主观题多。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "cityu ec选课分享（更新中"
-    },
-    {
-      "noteId": "67a33251000000001902fac3",
-      "url": "https://www.xiaohongshu.com/explore/67a33251000000001902fac3?xsec_token=ABf34ut9bzvFjrwIFh0jcFEUCUVr2ULA_Q8ZANYIskiNM=",
-      "excerpt": "EC5001电子商务简介；EC6001电子商务项目；‼以上hci方向的导师可以陶瓷咯（名额先到先得哈）",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "港城HCI全奖博士26fall开始招生啦"
-    },
-    {
-      "noteId": "693a7b0a000000001e00c686",
-      "url": "https://www.xiaohongshu.com/explore/693a7b0a000000001e00c686?xsec_token=ABdmTibFvEJ5MuhiShEi9OzwrXTlmgfcJSiGAnEhPZwP8=",
-      "excerpt": "ec5001 introduction to e-commerce",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "缓慢记录cityu cs sem A期末考试"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

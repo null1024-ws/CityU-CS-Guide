@@ -41,12 +41,15 @@
       "label": "暂无数据"
     }
   },
-  "tips": [],
+  "tips": [
+    "名字带 data warehouse，实际大部分是数据挖掘；作业在 Jupyter/Weka 上完成，引导较细。",
+    "期中期末线下机考，有 check 机制（查错会扣分、不查则错题零分）；工作量主要在后一个 project。"
+  ],
   "sources": [
     {
       "noteId": "68a5b6d5000000001d00171a",
       "url": "https://www.xiaohongshu.com/explore/68a5b6d5000000001d00171a?xsec_token=ABLbCQKSaUlLosgQZx1LBINEjZs2hLSND3wwOmdeOnIG8=",
-      "excerpt": "CS5483 Data Warehousing and Data Mining；这课虽然叫 Data Warehousing and Data Mining，但 90% 的内容都是围绕数据挖掘展开的；来自 MIT 的老师，讲课不是在引导学生思考，就是在引导学生思考的路上，比较喜欢跟大家在课堂上互动；上课讲的内容比较重要，因为 PPT 上会留空，课上边讲边填，还会做一些笔记；作业可以在老师部署的 JupiterLab 环境中完成和提交，非常方便，主要用到 Python + Weka，要你补全 Pyhton 代码或者提供 Weka 截图，并回答相关问题，Weka 没用过不要紧，作业会有非常详细的引导，完全不用担心上不了手；Problem Sets 和 Project 1 的工作量并不大，主要还是在 Project 2 上；期中和期末都是线下机考，不过会提供模拟考，可以提前摸清考试内容和题型，机考会有一个 check 机制，允许独立检查每道题目是否完全做对，每次 check 失败会扣分（不会超过那道题的分数），但如果不 check 就提交，错了的题就一分没有了，个人是觉得这个 check 机制挺好的；看得出来，老师在作业和考试的设计上用心良苦",
+      "excerpt": "课名含 data warehouse，实际大部分是数据挖掘。课上 PPT 常留空、边讲边填。作业在老师部署的 JupyterLab 完成，Python + Weka，引导细。Problem Sets 与 Project 1 工作量不大，主要在 Project 2。期中期末线下机考，有模拟考。机考可逐题 check：失败扣分，不 check 则错题零分。",
       "extractedFrom": [
         "post_body"
       ],
@@ -55,7 +58,7 @@
     {
       "noteId": "6a773731000000002500a5fa",
       "url": "https://www.xiaohongshu.com/explore/6a773731000000002500a5fa?xsec_token=ABRyAyBO3vKWbhccHEGpLfyOsS7XOb37bBAFXgSgK9B7I=",
-      "excerpt": "9. CS5483 Data Warehousing and Data Mining；印象非常深刻的一门课，老师是MIT毕业的，上课音色非常温柔，内容也比较简单易懂，而且可以看出来老师真的非常认真地在上这门课，甚至会在课前跟我们讨论master的就业问题。老师注重上课互动，经常请全体同学举手选择答案，但可惜的是由于在SEMB，所以同学们课程参与度不高，经常冷场，但老师也不生气。每周都有tutorial，量很大，但总共只有5分，如果没时间可以放弃。有一个个人project和小组project，个人的类似于实验，很快就能做完。小组的project工作量适中，但最后需要录制pre视频并且小组互相评比，稍微有点繁琐。这门课最独特的是考试，老师特制了一套上机考试系统，可以无限次check答案，每错一次就会扣分。期中期末都使用该系统，并且会在考前提供模拟考试以供练习。考试题型跟模拟考差不多，题型相对固定，熵计算几乎必考，弄懂计算原理就能拿分。概念题相对较难，但由于check系统，也可以拿到不错的分数。；优点：老师人非常好，独特的考试系统和相对固定的题型大大降低了考试难度；缺点：小组project流程繁琐，考试概念题困难",
+      "excerpt": "MIT 背景老师，注重互动。每周 tutorial 量大但总分很少，没时间可放弃。个人 project 类似实验。小组 project 需录 presentation 并互评。期中期末用特制上机系统，可多次 check、错一次扣分，考前有模拟。熵计算几乎必考。概念题相对难。",
       "extractedFrom": [
         "post_body"
       ],
@@ -64,7 +67,7 @@
     {
       "noteId": "682d5b26000000000c039eaf",
       "url": "https://www.xiaohongshu.com/explore/682d5b26000000000c039eaf?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXDBCztHqPWY9V-tjjcHk2BY=",
-      "excerpt": "2.CS5483 Data Warehousing and Data Mining；10*tutorial5%+个人project10%+group project15%+midterm 20%+final 50%；tutorial耗时耗力难度大，性价比太低，网上也找不到答案，直接放弃了。个人project答案和期中试卷已上传github。期中期末考试都挺简单，期末考了DBSCAN，BUC两个算法排序题,DBSCAN和Optics的异同填空题，Single linkage and k-means，Apriori and association rules, FOIL and Info Gain,没考第十二章数据仓库的内容。",
+      "excerpt": "约 10 次 tutorial 共 5%、个人 project 10%、小组 15%、期中 20%、期末 50%。tutorial 耗时、性价比低。期中期末有人觉得简单。某年期末考过 DBSCAN、BUC 排序、OPTICS、linkage/k-means、Apriori、FOIL/信息增益等，未考第十二章数据仓库。",
       "extractedFrom": [
         "post_body"
       ],
@@ -73,7 +76,7 @@
     {
       "noteId": "682e95a7000000002301c25e",
       "url": "https://www.xiaohongshu.com/explore/682e95a7000000002301c25e?xsec_token=AB1Um065PWuDvyhrZeeAtP6HqxQQGXq5npF_wkLKE1CMg=",
-      "excerpt": "CS5483 DM: 5%平日作业 10%个人Proj 15%小组Proj 20%期中 50%期末；workload；授课及口音 平时一周一次作业有课程回放，考前没复习课但提供模拟机考。老师是本硕博MIT给你美本的上课体验，教你批判思考小组作业要去评审其他小组然后挑刺。教学内容事无巨细，JupyterLab 有各种Material配置了自动评分系统、答疑AI和Ubuntu虚拟机跑Weka，平日作业和个人Proj都在这上面交。小组Proj跟Weka无关要自己选题选数据集，要录制Pre视频。期中期末都在机房机考，基本是期中考Classification和决策树期末考聚类和Apriori，信息熵计算贯穿始终。",
+      "excerpt": "约 5% 平时、10% 个人 project、15% 小组、20% 期中、50% 期末。有回放，无复习课但有模拟机考。JupyterLab 含自动评分、答疑和 Weka 虚拟机。小组 project 自选数据集、与 Weka 无关，需录视频。机考：期中偏分类与决策树，期末偏聚类与 Apriori，信息熵贯穿。",
       "extractedFrom": [
         "post_body"
       ],
@@ -82,7 +85,7 @@
     {
       "noteId": "66bf27a800000000250322f8",
       "url": "https://www.xiaohongshu.com/explore/66bf27a800000000250322f8?xsec_token=AB-xgSHmDbSXkGFlv0-KwRmPlRUO1Ep8Swb_ryhGds79E=",
-      "excerpt": "CS5483 Data Warehousing and Data Mining；分数构成：assignment, project, midterm, final,tutorial（附加分）；强度比ML稍低一点，教授水平非常非常高，讲课也是由浅入深，但是喜欢快节奏的人会觉得有点拖沓。难度比ML低，内容上有部分重合；midterm和final都是机答，听课或者看过课程回放，复习ppt后不难；project不需要做太难的，但是教授对于细节要求很高，针对上课讲过的，但project呈现模糊的地方，在pre的时候会提出质疑，并且要求学生在报告中研究清楚。",
+      "excerpt": "含 assignment、project、期中、期末，tutorial 为附加分。强度略低于 ML，由浅入深。期中期末机答，听课或回放后复习 PPT 不难。project 不必很难，但细节要求高，presentation 会被追问报告里写含糊的地方。",
       "extractedFrom": [
         "post_body"
       ],
@@ -91,7 +94,7 @@
     {
       "noteId": "682dfcfd00000000120000d9",
       "url": "https://www.xiaohongshu.com/explore/682dfcfd00000000120000d9?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXJmN-5eCm9wsW5rxrkWekUY=",
-      "excerpt": "CS5483 Data Warehousing & Data Mining；和CS5489 的很多也挂钩，设计到聚类、决策树、各种模型等等，内容总体不太，但老师讲课很详细，有Zoom和回放，非常友好的一门课。tutorial占比很少，但量很多，会用到weka。考试是半交互式的系统，需要提前熟悉，期中和期末都是这个形式，且在机房考。有个人project，也有小组作业。tutorial和个人project都是在jupyter上提交。",
+      "excerpt": "与 CS5489 在聚类、决策树等有挂钩。有 Zoom 和回放。tutorial 占比低但量大，用 Weka。期中期末均为机房机考、半交互系统，需提前熟悉。有个人 project 和小组作业，多在 Jupyter 提交。",
       "extractedFrom": [
         "post_body"
       ],
@@ -100,7 +103,7 @@
     {
       "noteId": "6a0c1fc800000000080325e9",
       "url": "https://www.xiaohongshu.com/explore/6a0c1fc800000000080325e9?xsec_token=AB5R6guwSBj6EA1pFvWy5NXFfKEmlmrALa0OMg_f1kQTI=",
-      "excerpt": "CS5483 Data mining；个人认为是我在cityu上过最有意思的课，老师讲课质量挺高，就是PPT有点抽象。期中和期末是机考，有check机制，所以考完就能知道自己大概的分数。平时有很多tutorial作业，但一共只占5分且对考试帮助不大。不做的话，这门课性价比很高。期中主要内容是evaluation和信息熵，期末大题考了DBSCAN，optics，buc排序和evaluation",
+      "excerpt": "讲课质量口碑好。机考有 check，考完能大致知道分数。大量 tutorial 合计仅 5 分，对考试帮助不大。期中偏 evaluation 与信息熵。期末大题含 DBSCAN、OPTICS、BUC 与 evaluation。",
       "extractedFrom": [
         "post_body"
       ],
@@ -109,7 +112,7 @@
     {
       "noteId": "669e38ab0000000027018fc3",
       "url": "https://www.xiaohongshu.com/explore/669e38ab0000000027018fc3?xsec_token=ABLUT2nZf-ZP2z0yxCoQ3rldcLK2IVoI7LkXjOMXoYNwo=",
-      "excerpt": "CS5483 Data Warehousing and Data Mining；CHAN, Chung；课程内容:数据挖掘的基本算法，决策树，分类聚类等基础内容，课程充实；课程作业多，考试难度略高，给分一般",
+      "excerpt": "Chung Chan。内容为数据挖掘基本算法：决策树、分类聚类等。作业多，考试略难，给分一般。",
       "extractedFrom": [
         "post_body"
       ],
@@ -117,5 +120,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

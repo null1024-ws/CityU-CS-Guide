@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _paths import (  # noqa: E402
     COURSES_JSON,
+    EDITORIAL_JSON,
     MSC_CURRICULUM_URL,
     PARTNER_REVIEW_NAME,
     PARTNER_REVIEW_SITE,
@@ -35,11 +36,12 @@ CONF_LABELS = {
 }
 
 
-def link(path: str) -> str:
-    """Build site path; empty BASE_PATH for local preview."""
-    if not path.startswith("/"):
-        path = f"/{path}"
-    return f"{BASE_PATH}{path}" if BASE_PATH else path
+def link(path: str, *, depth: int = 0) -> str:
+    """Site path. GitHub Pages uses /CityU-CS-Guide/...; --local uses relative links for file://."""
+    path = path.lstrip("/")
+    if not BASE_PATH:
+        return ("../" * depth) + path
+    return f"{BASE_PATH}/{path}"
 
 KAMI_CSS = """
 @font-face{font-family:"TsangerJinKai02";src:url("https://cdn.jsdelivr.net/gh/AlfredoSequeworthy/TsangerJinKai02@main/TsangerJinKai02-W04.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
@@ -81,7 +83,7 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .course-hero .updated{font-family:var(--latin-ui);font-size:13px;color:var(--stone);margin:8px 0 0}
 .source-summary{font-family:var(--latin-ui);font-size:14px;color:var(--olive);margin:0 0 20px;padding:12px 16px;background:var(--ivory);border:1px solid var(--border-soft)}
 .disclaimer{background:var(--brand-tint);border-left:3px solid var(--brand);padding:16px 20px;margin:24px 0;font-size:15px;color:var(--olive);line-height:1.55}
-.legend{display:flex;flex-wrap:wrap;gap:12px 18px;margin:0 0 20px;padding:14px 16px;background:var(--ivory);border:1px solid var(--border-soft);font-family:var(--latin-ui);font-size:12px;color:var(--stone)}
+.legend{display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;margin:0 0 20px;padding:14px 16px;background:var(--ivory);border:1px solid var(--border-soft);font-family:var(--latin-ui);font-size:12px;color:var(--stone)}
 .legend-item{display:flex;align-items:center;gap:6px}
 .filters{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 16px}
 .chip{font-family:var(--latin-ui);font-size:13px;padding:8px 16px;border-radius:999px;border:1px solid var(--border);background:var(--ivory);cursor:pointer;color:var(--olive);transition:background .15s,border-color .15s,color .15s}
@@ -94,7 +96,10 @@ th,td{padding:12px 14px;border-bottom:1px solid var(--border-soft);text-align:le
 th{font-family:var(--latin-ui);font-size:11px;text-transform:uppercase;letter-spacing:.7px;color:var(--stone);font-weight:500}
 tbody tr:last-child td{border-bottom:none}
 tr:hover td{background:rgba(250,249,245,.85)}
-#course-table th:nth-child(3),#course-table td:nth-child(3){min-width:96px;width:9%;white-space:nowrap}
+#course-table th:nth-child(1),#course-table td:nth-child(1),#course-table th:nth-child(3),#course-table td:nth-child(3){min-width:96px;white-space:nowrap}
+#course-table td:nth-child(1){vertical-align:middle}
+#course-table td:nth-child(1) .ext-link{margin-left:0}
+.code-cell{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
 #course-table th:nth-child(n+5),#course-table td:nth-child(n+5){white-space:nowrap}
 .badge{display:inline-block;font-family:var(--latin-ui);font-size:12px;padding:3px 10px;border-radius:999px;white-space:nowrap;line-height:1.4}
 .badge-confirmed{background:var(--brand);color:var(--ivory)}
@@ -135,14 +140,22 @@ tr:hover td{background:rgba(250,249,245,.85)}
 .source-head .post-title{font-family:var(--serif);font-size:17px;font-weight:500;color:var(--near-black);flex:1 1 100%;line-height:1.4;margin-bottom:2px}
 .excerpt{color:var(--near-black);font-size:15px;line-height:1.68}
 .excerpt p{margin:0 0 8px}.excerpt p:last-child{margin-bottom:0}
-.tips{list-style:none;padding:0;margin:0}
-.tips li{padding:12px 0;border-bottom:1px solid var(--border-soft);line-height:1.6}
-.tips li:last-child{border-bottom:none}
+.tips{list-style:none;margin:0;padding:0;padding-inline-start:0}
+.tips li{display:grid;grid-template-columns:1em minmax(0,1fr);align-items:start;margin:0 0 0.5em;padding:0;line-height:1.7;border:none;text-indent:0}
+.tips li:last-child{margin-bottom:0}
+.tips li::before{content:"·";color:var(--stone);line-height:inherit}
+.pick-slot{display:inline-flex;width:10px;height:1em;flex:0 0 10px;align-items:center;justify-content:center;vertical-align:middle}
+.pick-dot{display:inline-block;width:7px;height:7px;margin:0;border-radius:50%;background:var(--brand);flex-shrink:0;vertical-align:middle}
+.pick-dot-live{box-shadow:0 0 0 0 rgba(27,54,93,.4);animation:pick-pulse 2.4s ease-out infinite}
+@keyframes pick-pulse{0%{box-shadow:0 0 0 0 rgba(27,54,93,.45)}70%{box-shadow:0 0 0 7px rgba(27,54,93,0)}100%{box-shadow:0 0 0 0 rgba(27,54,93,0)}}
+.course-hero h1{display:flex;align-items:center;gap:10px}
+.course-hero .pick-dot{margin:0;flex-shrink:0}
+.legend .pick-dot{flex-shrink:0}
 .site-footer{margin-top:72px;padding-top:28px;border-top:1px solid var(--border-soft);font-size:14px;color:var(--stone)}
 .site-footer .visit-count{margin:0 0 10px;font-size:13px;color:var(--stone)}
 @media(max-width:880px){.page{padding:48px 22px 72px}.partner-toast-inner{padding:8px 22px;gap:10px}.partner-toast p{font-size:12px;line-height:1.4}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}}
 @media(max-width:480px){.page{padding:36px 16px 60px}.partner-toast-inner{padding:8px 16px}.hero h1{font-size:28px}.hero p{font-size:16px}.meta-grid{grid-template-columns:1fr 1fr}.chip{font-size:12px;padding:7px 12px}table{font-size:13px;min-width:680px}.legend{gap:8px 12px}}
-@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}.pick-dot-live{animation:none}}
 """
 
 
@@ -214,6 +227,26 @@ def load_review(code: str) -> dict | None:
     return None
 
 
+def load_picks() -> dict:
+    if not EDITORIAL_JSON.exists():
+        return {"title": "选修推荐", "note": "", "courses": []}
+    data = json.loads(EDITORIAL_JSON.read_text(encoding="utf-8"))
+    picks = data.get("_picks") or {}
+    return {
+        "title": picks.get("title") or "选修推荐",
+        "note": picks.get("note") or "",
+        "courses": picks.get("courses") or [],
+    }
+
+
+def pick_mark(*, live: bool = True) -> str:
+    cls = "pick-dot pick-dot-live" if live else "pick-dot"
+    return (
+        f'<span class="{cls}" title="选修推荐" '
+        f'aria-label="选修推荐"></span>'
+    )
+
+
 def head(title: str, desc: str) -> str:
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -273,13 +306,13 @@ def partner_toast_script() -> str:
 </script>"""
 
 
-def site_header(active: str = "") -> str:
+def site_header(active: str = "", *, depth: int = 0) -> str:
     links = [
         ("index.html", "课程列表"),
         ("about.html", "关于"),
     ]
     nav = "".join(
-        f'<a href="{link(href)}"{" aria-current=\"page\"" if name == active else ""}>{name}</a>'
+        f'<a href="{link(href, depth=depth)}"{" aria-current=\"page\"" if name == active else ""}>{name}</a>'
         for href, name in links
     )
     star = (
@@ -293,8 +326,8 @@ def site_header(active: str = "") -> str:
         f"</div>"
     )
 
-def site_back_link(href: str = "index.html") -> str:
-    return f'<p class="back-link"><a href="{link(href)}">← 返回课程列表</a></p>'
+def site_back_link(href: str = "index.html", *, depth: int = 0) -> str:
+    return f'<p class="back-link"><a href="{link(href, depth=depth)}">← 返回课程列表</a></p>'
 
 
 BUSUANZI_SCRIPT = '<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>'
@@ -312,7 +345,8 @@ def site_footer(*, today: str = "") -> str:
     )
 
 
-def render_index(courses: list[dict]) -> str:
+def render_index(courses: list[dict], picks: dict) -> str:
+    pick_codes = {item["code"] for item in picks.get("courses") or [] if item.get("code")}
     rows = []
     for c in courses:
         review = load_review(c["code"]) or {"fields": {}}
@@ -321,10 +355,12 @@ def render_index(courses: list[dict]) -> str:
         cat = "必修" if c["category"] == "core" else f"选修 {c.get('group') or ''}"
         src_n = len(review.get("sources", [])) + len(review.get("commentSources", []))
         cat_url = catalogue_url(c["code"])
+        mark = pick_mark() if c["code"] in pick_codes else ""
         rows.append(
             f'<tr data-category="{esc(c["category"])}" data-stream="{esc(c.get("stream") or "none")}" data-group="{esc(c.get("group") or "none")}">'
-            f'<td><a href="{link(f"course/{c["code"]}.html")}"><strong>{esc(c["code"])}</strong></a>'
-            f'<a class="ext-link" href="{esc(cat_url)}" target="_blank" rel="noopener" title="CityU 官方课程页">↗</a></td>'
+            f'<td><span class="code-cell"><span class="pick-slot">{mark}</span>'
+            f'<a href="{link(f"course/{c["code"]}.html")}"><strong>{esc(c["code"])}</strong></a>'
+            f'<a class="ext-link" href="{esc(cat_url)}" target="_blank" rel="noopener" title="CityU 官方课程页">↗</a></span></td>'
             f'<td>{esc(c["title"])}</td>'
             f'<td>{esc(cat)}</td>'
             f'<td>{esc(stream)}</td>'
@@ -353,6 +389,7 @@ def render_index(courses: list[dict]) -> str:
 <span class="legend-item"><span class="badge badge-confirmed">实色</span> 多源一致</span>
 <span class="legend-item"><span class="badge badge-reported">描边</span> 单源提及</span>
 <span class="legend-item"><span class="badge badge-disputed">灰描边</span> 存疑</span>
+<span class="legend-item"><span class="pick-dot pick-dot-live" aria-hidden="true"></span> 选修推荐</span>
 </div>
 <div class="filters">
 <button class="chip active" data-filter="all">全部</button>
@@ -394,12 +431,12 @@ document.querySelectorAll('.chip').forEach(btn=>{{
 </body></html>"""
 
 
-def render_course(course: dict, courses: list[dict]) -> str:
+def render_course(course: dict, courses: list[dict], pick: dict | None = None) -> str:
     code = course["code"]
     review = load_review(code) or {"fields": {}, "tips": [], "sources": [], "commentSources": []}
     f = review.get("fields", {})
     nav = "".join(
-        f'<a href="{link(f"course/{c["code"]}.html")}"{" aria-current=\"page\"" if c["code"]==code else ""}>{c["code"]}</a>'
+        f'<a href="{link(f"course/{c["code"]}.html", depth=1)}"{" aria-current=\"page\"" if c["code"]==code else ""}>{c["code"]}</a>'
         for c in courses
     )
 
@@ -438,7 +475,7 @@ def render_course(course: dict, courses: list[dict]) -> str:
                 f'{role}{author}</div>'
                 f'{excerpt_html}</li>'
             )
-        return f"<h2>{title}</h2><ul class='source-list'>{''.join(items)}</ul>"
+        return f"<h2>{title}</h2><p class='muted'>以下为整理摘要，原帖见链接。</p><ul class='source-list'>{''.join(items)}</ul>"
 
     cat = "必修 Core" if course["category"] == "core" else f"选修 Group {course.get('group', '')}"
     stream = course.get("stream") or "无"
@@ -459,18 +496,18 @@ def render_course(course: dict, courses: list[dict]) -> str:
     return f"""{head(f"{code} · {course['title']}", f"CityU {code} 课程评价与选课攻略")}
 <body>
 <div class="page">
-{site_header()}
-{site_back_link()}
+{site_header(depth=1)}
+{site_back_link(depth=1)}
 <div class="layout">
 <aside class="sidebar"><nav>{nav}</nav></aside>
 <article class="prose">
 <div class="course-hero">
-<h1>{esc(code)}</h1>
+<h1>{f'<span class="pick-slot">{pick_mark()}</span>' if pick else ""}{esc(code)}</h1>
 <p class="sub">{esc(course["title"])} · {esc(cat)} · {esc(stream)} Stream · {course["credits"]} 学分</p>
 <p class="links"><a href="{esc(cat_url)}" target="_blank" rel="noopener">CityU 官方课程页 ↗</a></p>
 {updated_line}
 </div>
-<div class="disclaimer">以下信息来自小红书社区，未经官方核实，仅供形成性参考。Programme 课纲见 <a href="{MSC_CURRICULUM_URL}" target="_blank" rel="noopener">MSc CS 官网</a>；请阅读原文自行判断。</div>
+<div class="disclaimer">以下信息来自小红书社区，经整理后供选课参考，未经官方核实。Programme 课纲见 <a href="{MSC_CURRICULUM_URL}" target="_blank" rel="noopener">MSc CS 官网</a>。摘要不是原文，请点链接自行判断。</div>
 {source_summary}
 <h2>课程概况</h2>
 <div class="meta-grid">{meta_cards}</div>
@@ -494,9 +531,9 @@ def render_about() -> str:
 <article class="prose">
 <h1>关于本站</h1>
 <h2>数据来源</h2>
-<p>课程基本信息来自 <a href="https://www.cs.cityu.edu.hk/en/academic-programmes/msc-computer-science/curriculum/structures">CityU CS 官网</a>。评价信息来自小红书帖子及评论区，通过 <a href="https://github.com/jackwener/xhs-cli" target="_blank" rel="noopener">xhs-cli</a> 采集，经 <code>review_extract</code> 与 <code>credibility_score</code> 整理。</p>
+<p>课程基本信息来自 <a href="https://www.cs.cityu.edu.hk/en/academic-programmes/msc-computer-science/curriculum/structures">CityU CS 官网</a>。评价信息来自小红书帖子及评论区，通过 <a href="https://github.com/jackwener/xhs-cli" target="_blank" rel="noopener">xhs-cli</a> 采集。正则负责召回字段与候选来源；选课建议和帖子摘要再按编辑规范整理（口语、跑题、串课会删掉）。每条来源仍保留原帖链接，便于核对。</p>
 <h2>形成性参考说明</h2>
-<p>本站标签描述的是<strong>来源之间的说法一致程度</strong>，不是对课程质量的最终评判。选课决策请结合官方课纲、个人背景与下方原文摘录。</p>
+<p>本站标签描述的是<strong>来源之间的说法一致程度</strong>，不是对课程质量的最终评判。选课请结合官方课纲、个人背景与整理后的来源摘要。</p>
 <h2>可信度说明</h2>
 <ul>
 <li><span class="badge badge-confirmed">多源一致</span> — 2 篇及以上独立帖子说法一致，或帖子与评论区相互印证</li>
@@ -528,15 +565,20 @@ def main() -> None:
 
     ensure_dirs()
     courses = load_courses()
+    picks = load_picks()
+    pick_codes = {item["code"] for item in picks.get("courses") or [] if item.get("code")}
     SITE_DIST.mkdir(parents=True, exist_ok=True)
     (SITE_DIST / ".nojekyll").write_text("", encoding="utf-8")
     course_dir = SITE_DIST / "course"
     course_dir.mkdir(exist_ok=True)
 
-    (SITE_DIST / "index.html").write_text(render_index(courses), encoding="utf-8")
+    (SITE_DIST / "index.html").write_text(render_index(courses, picks), encoding="utf-8")
     (SITE_DIST / "about.html").write_text(render_about(), encoding="utf-8")
     for course in courses:
-        (course_dir / f"{course['code']}.html").write_text(render_course(course, courses), encoding="utf-8")
+        (course_dir / f"{course['code']}.html").write_text(
+            render_course(course, courses, {"code": course["code"]} if course["code"] in pick_codes else None),
+            encoding="utf-8",
+        )
 
     print(f"Built site to {SITE_DIST}: {len(courses)} course pages + index + about")
 

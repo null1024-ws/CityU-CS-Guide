@@ -44,17 +44,14 @@
     }
   },
   "tips": [
-    "作业做的人真的想鼠，但是不得不说，确实是学得最多的一门课，希望老师手下留情吧",
-    "这门课会挂人，不推荐；老师捞人了",
-    "总结：cs5187必选，cs5487没想象的难，三门必修考前突击拿B还是没问题的",
-    "cs5487和cs6491偏理论，如果是做理论推导方向的朋友比较推荐",
-    "CS5487 ML理论：25级学期 A 变成了ML实践，但形式应该还是Atoni大佬+新老师，听着费劲的可以去开小灶 -> B站白板推导"
+    "偏理论、作业负担重，适合想系统学机器学习的同学；有人觉得挂科风险高，也有人觉得没想象中难。",
+    "相对 CS5489 更重推导；部分学期会往实践调整，听课吃力可另找推导材料。"
   ],
   "sources": [
     {
       "noteId": "6a0be10c00000000350215c2",
       "url": "https://www.xiaohongshu.com/explore/6a0be10c00000000350215c2?xsec_token=ABdp_KDrgAPqmbwDq_kTmXJW9QYHIUl_l9pbCSeCxYBmk=",
-      "excerpt": "CS5487 Machine Learning: Principles & Practice；10个problem sets，2个programming assignments，1个course project（2人组队，也可以自己一个人，如果想拿好分数需要做pre），1个mid（单面cheatsheet），1个final（双面cheatsheet）；需要有比较好的概率论&线代的基础，不然学起来会相当痛苦；这节课的workload真的超级无敌大，还好都是soft due，在4月下旬结算之前全部写完就行；但确实好好啃下来也会很有收获，某种意义上也属于收获和痛苦成正比的课；但老师的字写得实在有点难以辨认、、、；能做完problem set的全部题就肯定能拿很好的分数啦，不过真的特别多题，敬佩能写完的人（）；个人体感是学这节课之前可以先接触一下优化那节课，有一些和优化相关的内容，学过优化理解起来应该会轻松点；在小红书的Quinn老师有分享5487和6491里面的PS和tut solutions，老师们中间是不会发solutions的，所以推荐大家去参考Quinn老师的去做做题然后辅助理解",
+      "excerpt": "约 10 个 problem set、2 个编程作业、1 个课程项目（可 1–2 人，想拿高分需 presentation）、期中单面 cheatsheet、期末双面。需要概率与线代。工作量很大，多为 soft due。板书字迹有人觉得难认。先修一点优化会轻松些。课中不发作业解答。",
       "extractedFrom": [
         "post_body"
       ],
@@ -63,7 +60,7 @@
     {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
-      "excerpt": "5.CS5487 机器学习；9*theory assignment10%+2*programming assignment20%+midterm10%（一张单面手写）+project30%+final30%（一张手写双面a4cheatpaper）；作业都可以迟交，而且答案github上都有，project题目自拟，也可以自己一个人不用合作。midterm考的是MLE,MAP,Bayesian estimation三道大题，得分情况见p3，final考的是EM,BDR,Adaptive SVM,Kernel perceptron四道大题，看了往年题好像翻来覆去都是这几个考点，我就考前花了一天把这几个考点的problem set的解法流程全写在cheat paper上了，考试都用上了，这门课虽然没有完全学懂，但是拿分还是挺简单的。；总结：cs5187必选，cs5487没想象的难，三门必修考前突击拿B还是没问题的。多多利用github，coursehero，gpt，找个时间我会把我收集到的往年题等资料上传到github。github链接请移步下一个帖子。",
+      "excerpt": "约 9 次理论作业 10%、2 次编程 20%、期中 10%（单面手写）、project 30%、期末 30%（双面 A4）。作业可迟交。期中常考 MLE/MAP/贝叶斯。期末常考 EM、BDR、SVM、Kernel perceptron 一类，与往年题接近。project 可自拟、可单人。",
       "extractedFrom": [
         "post_body"
       ],
@@ -72,7 +69,7 @@
     {
       "noteId": "689598a60000000025015346",
       "url": "https://www.xiaohongshu.com/explore/689598a60000000025015346?xsec_token=ABkcLi8vFXQUNoL1pMRAmhyFcVNVbsAU6f2APCbglVopg=",
-      "excerpt": "CS5487 Machine Learning: Principles and Practice；这一年上过的最难的课，不过也是我觉得最值学费的课，除了难以外没有任何缺点，略有遗憾的是后半学期的老师不是 Antoni，上了一节课之后就再也没上过；Antoni 的英语应该是我上过课的所有老师中最标准的，语速会稍快，但是录课能完全听懂，所以完全不用担心；每节课会以一个引例开始，循序渐进地深入其背后的数学原理，手把手带着大家推导每一个公式，每一个细节都不会放过；听不懂会觉得他在讲天书，听懂了就会觉得 Antoni yyds，因为他真的想把你教会（本科阶段的课堂已经杀死了我对上课的向往，懂的都懂）；作业要花很多时间，具体难度可以参考 @Quinn 大大的帖子，在此借机给大佬磕一个 Orz；project 的 topic 可以自己定，范围很广，也可以选默认项目（难度尚可）；考试会出几道大题，每道大题下面有几道小题，纯数学，没有一点水分，好在考试占比不是很高，考差了也不会太影响最后得分，期末只考了后半学期的内容",
+      "excerpt": "理论难度高、收获也大。Antoni 英语标准、语速稍快，有录课。每节从引例推到公式细节。作业耗时。project 可自定或选默认题。考试纯数学大题。期末有时只考后半学期，考试占比相对不是最高。后半学期可能换老师。",
       "extractedFrom": [
         "post_body"
       ],
@@ -81,54 +78,27 @@
     {
       "noteId": "677a9b800000000013009ebc",
       "url": "https://www.xiaohongshu.com/explore/677a9b800000000013009ebc?xsec_token=ABfKeqv7r6AQ_N5jSKPpIJR8ImqvS-RKAIY4G4aTdfjac=",
-      "excerpt": "5.CS5487 机器学习，这门课真的很难，和博士一起上课，ds， cs，数学，ee多个院一起。是从底层数学推导不同机器学习算法。没有ppt，老师会在课上板书。每周都有作业，有时候感觉是一题都不会，这门课花的时间最多，需要有较好的数学基础，机器学习理论基础。可以B站上参考下机器学习白板推导。当然我也看有人评价，专注底层逻辑收获很大。；EE院也有一门机器学习，看大家反馈偏应用，好上手。更推荐这个。；最后建议大家选课时结合自己的基础，兴趣，职业方向：例如通信本科的同学，无线通信等会好上手一点。MIT的同学还要注意培养方案里有多媒体课。；于我而言，我选的这些课全部都是基于我的兴趣，方向的。会学得吃力点，最后的绩点不高。这些都是有预判的。；如果想拿distinction,除了努力学习，课程上就要多搭配一些自己有把握的科目呢。",
+      "excerpt": "与博士及多个学院一起上，从底层推导算法。常无 PPT、课上板书。每周作业，数学与 ML 理论基础要求高。也有人认为把底层逻辑啃下来收获大。EE 另有偏应用的机器学习课。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "cityu ee 课程测评续"
     },
     {
-      "noteId": "6a3cfb82000000001102fdc0",
-      "url": "https://www.xiaohongshu.com/explore/6a3cfb82000000001102fdc0?xsec_token=ABI-b2qMFHBWgAl07iaETtT8rAv8QcMPlroh96wR-SxlQ=",
-      "excerpt": "CS5487比往年QE出的稍微复杂一些；考了 Estimation for a Categorical Dis-tribution with a Dirichlet Prior，知识点大概集中在前面4章；和Problem set和midterm做过的模式基本相同，log-likelihood，MLE，posterior distribution，MAP，以及对结果的一些解释；经提醒隐藏了今年考过具体题目帖",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityUHK CS PhD QE 2026 个人分享"
-    },
-    {
       "noteId": "68c2dbe2000000001d00a87b",
       "url": "https://www.xiaohongshu.com/explore/68c2dbe2000000001d00a87b?xsec_token=AB1h-Jdb7HHcuMT00NiW-vktr9QUqovfmeHPyP16PKHyQ=",
-      "excerpt": "CS5487 ML理论：25级学期 A 变成了ML实践，但形式应该还是Atoni大佬+新老师，听着费劲的可以去开小灶 -> B站白板推导。",
+      "excerpt": "有学期 Sem A 往实践调整，仍可能是 Antoni 加新老师。听课吃力可另找白板推导材料。",
       "extractedFrom": [
         "post_body"
       ],
       "postTitle": "港城计算机 CityU CS 学期A & ST 选课"
-    },
-    {
-      "noteId": "677bba6d000000001a01c3d6",
-      "url": "https://www.xiaohongshu.com/explore/677bba6d000000001a01c3d6?xsec_token=ABrBs_Tyf5yyUss1RtIfuoAE-0m3ORV7fPYEUe0tozKmE=",
-      "excerpt": "CS5487还不错，可惜是我的选修课；开学让选两门核心课和一门选修课；因为怕5487学不会就选到了选修课里；现在就是后悔想把它变成核心课",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "CityU CS出分"
-    },
-    {
-      "noteId": "682d40b8000000002301f2ef",
-      "url": "https://www.xiaohongshu.com/explore/682d40b8000000002301f2ef?xsec_token=ABj8Mw-n4dJH8eywK3h7ZzXFnQ0vj4ugSW0WFaaj1d_7U=",
-      "excerpt": "cs5487和cs6491偏理论，如果是做理论推导方向的朋友比较推荐",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "Cityu cs semb成绩+学分转换提醒"
     }
   ],
   "commentSources": [
     {
       "noteId": "677ca41c000000001703a42a",
       "url": "https://www.xiaohongshu.com/explore/677ca41c000000001703a42a?xsec_token=AB4XEJFVrKtPGxZKcCRHwnXPuU33TUuP41QbYOEZOnKnQ=",
-      "excerpt": "cs5487虽然说作业都有答案，然后考试基本上从题库里出，但是还是需要花时间的。guided study 就是联系老师做个小课题，然后线上答辩，轻松应该还是guided study轻松一些",
+      "excerpt": "作业网上能找到参考、考试题型接近题库，但仍需投入时间。",
       "extractedFrom": [
         "sub_comment"
       ],
@@ -141,7 +111,7 @@
     {
       "noteId": "6758479a00000000020179ad",
       "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "赞同...期末和期中感觉不是一个难度的 期末题问题集上也都有但是根本没时间也不会把所有都做完 同时感恩xhs的学姐不然我真作业也写不出来 编程作业也难难的。。",
+      "excerpt": "期末明显难于期中。问题集很多，考场做不完全部。编程作业也难。",
       "extractedFrom": [
         "comment"
       ],
@@ -152,22 +122,9 @@
       "role": "supplement"
     },
     {
-      "noteId": "677bba6d000000001a01c3d6",
-      "url": "https://www.xiaohongshu.com/explore/677bba6d000000001a01c3d6?xsec_token=ABrBs_Tyf5yyUss1RtIfuoAE-0m3ORV7fPYEUe0tozKmE=",
-      "excerpt": "内容偏数学，平时任务挺繁重的每周有作业，定期做编程和project然后学习内容的话感觉也挺难的。",
-      "extractedFrom": [
-        "sub_comment"
-      ],
-      "postTitle": "CityU CS出分",
-      "commentId": "677bc1ef000000002102e7f2",
-      "author": "晴",
-      "likes": 2,
-      "role": "supplement"
-    },
-    {
       "noteId": "6758479a00000000020179ad",
       "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "这个课其实就是b站的白板推导 毕竟都是prml的体系数学也没很难主要是要熟悉那个套路",
+      "excerpt": "体系接近 PRML / B 站白板推导，关键是熟悉解题套路。",
       "extractedFrom": [
         "comment"
       ],
@@ -180,7 +137,7 @@
     {
       "noteId": "6758479a00000000020179ad",
       "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "录播下载不了，不过b站的白板机器学习难度我觉得和这门课差不多，但会讲的更多一些",
+      "excerpt": "录播有时下不了。有人用 B 站白板机器学习课作补充，覆盖面可能更广。",
       "extractedFrom": [
         "sub_comment"
       ],
@@ -191,22 +148,9 @@
       "role": "supplement"
     },
     {
-      "noteId": "6758479a00000000020179ad",
-      "url": "https://www.xiaohongshu.com/explore/6758479a00000000020179ad?xsec_token=ABhZXb-pC1L8oCu156EiEoOBoA3JlqhC_ExlFtmXq0MEs=",
-      "excerpt": "作业做的人真的想鼠，但是不得不说，确实是学得最多的一门课，希望老师手下留情吧",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "香港城市大学CS5487浅浅吐槽",
-      "commentId": "67587033000000001b002c58",
-      "author": "Mangooooo",
-      "likes": 1,
-      "role": "supplement"
-    },
-    {
       "noteId": "675bf7a000000000020245ee",
       "url": "https://www.xiaohongshu.com/explore/675bf7a000000000020245ee?xsec_token=ABaBQIAAwiPSWJd2WX2SEAedyDVazJt3LRKQ_1lu8Mrgw=",
-      "excerpt": "就算是考试的题都在我的cheat sheet上面最后都没有抄完感觉时间太紧了",
+      "excerpt": "即使题目在 cheatsheet 上，时间紧也可能抄不完。",
       "extractedFrom": [
         "comment"
       ],
@@ -215,20 +159,7 @@
       "author": "Raven_br",
       "likes": 0,
       "role": "supplement"
-    },
-    {
-      "noteId": "6a2a6ae20000000006021721",
-      "url": "https://www.xiaohongshu.com/explore/6a2a6ae20000000006021721?xsec_token=AB5lYYgdMCSzseNHFbM41yp2KhHJq3nG8dPO7bEWYfGpA=",
-      "excerpt": "还有个cs5487 凯哥的ml，和ds一起上的，考试前直接说原题夯爆了",
-      "extractedFrom": [
-        "comment"
-      ],
-      "postTitle": "从夯到拉锐评港城莞cs课程推荐度",
-      "commentId": "6a2a897c000000002902549b",
-      "author": "Brench",
-      "likes": 4,
-      "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-25"
+  "lastUpdated": "2026-08-26"
 }

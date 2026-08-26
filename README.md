@@ -26,6 +26,7 @@ xhs_collect.py  →  data/raw/xhs/          原始笔记 JSON
 content_bundle  →  data/raw/bundles/       正文 + 评论合并
 review_extract  →  data/reviews/          结构化字段与摘录
 credibility_score                      可信度打分
+review_editor   →  选课建议 1–2 句 + 整理帖子摘要 + 剔除无关来源
 build_site.py   →  site/dist/            静态站点
 audit_reviews.py                       一致性与广告过滤检查
 ```
@@ -82,7 +83,7 @@ xhs login --cookie "a1=...; web_session=..."
 | **存疑** | 不同来源说法冲突 |
 | **暂无数据** | 未找到有效评价摘录 |
 
-流水线会自动过滤：豁免攻略、课业辅导广告、仅列出课号无实质内容的帖子；评论区会剔除纯提问（如「有了解不」）、社交灌水（同问/插眼/+1）及无课评信号的评论。运行 `python scripts/audit_reviews.py` 可检查剩余来源与 bundle 是否一致。
+流水线会自动过滤：豁免攻略、课业辅导广告、仅列出课号无实质内容的帖子；评论区会剔除纯提问（如「有了解不」）、社交灌水（同问/插眼/+1）及无课评信号的评论。选课建议另有一层编辑整理（`data/editorial.json`，规范见 `scripts/prompts/review_editor.md`）：压成 1–2 句、去掉情绪/串课，重跑 extract 不会覆盖这份文案。运行 `python scripts/audit_reviews.py` 可检查剩余来源与 bundle 是否一致。
 
 ## 项目结构
 
@@ -92,11 +93,14 @@ xhs login --cookie "a1=...; web_session=..."
 | `data/raw/xhs/` | xhs-cli 原始抓取 |
 | `data/raw/bundles/` | 合并后的文本块 |
 | `data/reviews/` | 每课评价 JSON |
+| `data/editorial.json` | 选课建议与来源剔除（编辑层，pipeline 保留） |
 | `scripts/xhs_collect.py` | 采集器（多关键词 + 交叉验证 + 空课优先） |
 | `scripts/search_queries.py` | 全局/按课搜索词 |
 | `scripts/content_bundle.py` | 解析 xhs-cli JSON（含 camelCase 字段） |
 | `scripts/review_extract.py` | 正则抽取 + 摘录清洗 |
 | `scripts/credibility_score.py` | 多源一致性打分 |
+| `scripts/review_editor.py` | 套用编辑层；`--dump CS5222` 可导出给 agent 的材料 |
+| `scripts/prompts/review_editor.md` | 审核整理 prompt |
 | `scripts/build_site.py` | 生成静态页 |
 | `scripts/audit_reviews.py` | 审阅脚本 |
 
