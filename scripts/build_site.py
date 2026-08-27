@@ -49,6 +49,7 @@ KAMI_CSS = """
 @font-face{font-family:"TsangerJinKai02";src:url("https://cdn.jsdelivr.net/gh/AlfredoSequeworthy/TsangerJinKai02@main/TsangerJinKai02-W05.woff2") format("woff2");font-weight:500;font-style:normal;font-display:swap}
 :root{--parchment:#f5f4ed;--ivory:#faf9f5;--brand:#1B365D;--brand-light:#2D5A8A;--brand-tint:#EEF2F7;--near-black:#141413;--olive:#504e49;--stone:#6b6a64;--border:#e8e6dc;--border-soft:#e5e3d8;--serif:"TsangerJinKai02","Source Han Serif SC","Noto Serif CJK SC",Georgia,serif;--latin-ui:"PingFang SC",system-ui,sans-serif;--measure:760px}
 *{box-sizing:border-box}html,body{margin:0;padding:0}
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 body{background:var(--parchment);color:var(--near-black);font-family:var(--serif);font-size:17px;line-height:1.62;letter-spacing:.35px;-webkit-font-smoothing:antialiased}
 a{color:var(--brand);text-decoration:none}a:hover{color:var(--brand-light)}
 a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
@@ -90,10 +91,17 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .changelog li{display:grid;grid-template-columns:7.2em minmax(0,1fr);gap:8px 16px;align-items:baseline;margin:0;padding:11px 0;border-bottom:1px solid var(--border-soft);line-height:1.55}
 .changelog li:last-child{border-bottom:none;padding-bottom:0}
 .changelog time{font-family:var(--latin-ui);font-size:13px;color:var(--stone);white-space:nowrap}
-.filters{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 16px}
+.filters{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:0 0 16px}
 .chip{font-family:var(--latin-ui);font-size:13px;padding:8px 16px;border-radius:999px;border:1px solid var(--border);background:var(--ivory);cursor:pointer;color:var(--olive);transition:background .15s,border-color .15s,color .15s}
 .chip:hover{border-color:var(--brand-light);color:var(--brand)}
 .chip.active{background:var(--brand);color:var(--ivory);border-color:var(--brand)}
+.course-search{margin-left:auto;flex:1 1 200px;max-width:280px;min-width:180px}
+.course-search input{width:100%;font-family:var(--latin-ui);font-size:14px;padding:8px 14px;border:1px solid var(--border);border-radius:999px;background:var(--ivory);color:var(--near-black);appearance:none;-webkit-appearance:none}
+.course-search input:focus,.course-search input:focus-visible{outline:none;border-color:var(--brand);box-shadow:0 0 0 3px var(--brand-tint)}
+.course-search input:focus::placeholder{color:transparent}
+.course-search input::-webkit-search-decoration,.course-search input::-webkit-search-cancel-button{appearance:none;-webkit-appearance:none}
+.course-search input::placeholder{color:var(--stone)}
+.search-empty{margin:16px 0 0;color:var(--stone);font-size:15px}
 .table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--border-soft);background:var(--ivory)}
 table{width:100%;min-width:860px;border-collapse:collapse;font-size:15px}
 thead th{position:sticky;top:0;background:var(--ivory);z-index:1;box-shadow:0 1px 0 var(--border-soft)}
@@ -158,7 +166,7 @@ tr:hover td{background:rgba(250,249,245,.85)}
 .legend .pick-dot{flex-shrink:0}
 .site-footer{margin-top:72px;padding-top:28px;border-top:1px solid var(--border-soft);font-size:14px;color:var(--stone)}
 .site-footer .visit-count{margin:0 0 10px;font-size:13px;color:var(--stone)}
-@media(max-width:880px){.page{padding:48px 22px 72px}.partner-toast-inner{padding:8px 22px;gap:10px}.partner-toast p{font-size:12px;line-height:1.4}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}}
+@media(max-width:880px){.page{padding:48px 22px 72px}.partner-toast-inner{padding:8px 22px;gap:10px}.partner-toast p{font-size:12px;line-height:1.4}.layout{grid-template-columns:1fr;gap:28px}.sidebar{position:static;max-height:none;padding:0 0 8px;border-bottom:1px solid var(--border-soft)}.sidebar nav{display:flex;flex-wrap:wrap;gap:4px 2px}.sidebar nav a{border-left:none;border-bottom:2px solid transparent;padding:8px 10px;font-size:13px}.sidebar nav a[aria-current="page"]{border-bottom-color:var(--brand)}.hero h1{font-size:34px}.hero p{font-size:17px}.course-hero h1{font-size:28px}body{font-size:16px}.prose{font-size:16px}table{font-size:14px;min-width:760px}th,td{padding:10px 10px}.excerpt{font-size:14px}.site-top{align-items:flex-start}.course-search{margin-left:0;max-width:none;flex:1 1 100%}}
 @media(max-width:480px){.page{padding:36px 16px 60px}.partner-toast-inner{padding:8px 16px}.hero h1{font-size:28px}.hero p{font-size:16px}.meta-grid{grid-template-columns:1fr 1fr}.chip{font-size:12px;padding:7px 12px}table{font-size:13px;min-width:680px}.legend{gap:8px 12px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}.pick-dot-live{animation:none}}
 """
@@ -387,7 +395,7 @@ def render_index(courses: list[dict], picks: dict) -> str:
         cat_url = catalogue_url(c["code"])
         mark = pick_mark() if c["code"] in pick_codes else ""
         rows.append(
-            f'<tr data-category="{esc(c["category"])}" data-stream="{esc(c.get("stream") or "none")}" data-group="{esc(c.get("group") or "none")}">'
+            f'<tr data-category="{esc(c["category"])}" data-stream="{esc(c.get("stream") or "none")}" data-group="{esc(c.get("group") or "none")}" data-search="{esc((c["code"] + " " + c["title"]).lower())}">'
             f'<td><span class="code-cell"><span class="pick-slot">{mark}</span>'
             f'<a href="{link(f"course/{c["code"]}.html")}"><strong>{esc(c["code"])}</strong></a>'
             f'<a class="ext-link" href="{esc(cat_url)}" target="_blank" rel="noopener" title="CityU 官方课程页">↗</a></span></td>'
@@ -428,6 +436,10 @@ def render_index(courses: list[dict], picks: dict) -> str:
 <button class="chip" data-filter="AI">AI Stream</button>
 <button class="chip" data-filter="DS">DS Stream</button>
 <button class="chip" data-filter="IS">IS Stream</button>
+<label class="course-search">
+<span class="visually-hidden">搜索课程</span>
+<input type="search" id="course-search" placeholder="搜索课号或课程名" autocomplete="off" enterkeyhint="search">
+</label>
 </div>
 <div class="table-wrap">
 <table id="course-table">
@@ -440,23 +452,54 @@ def render_index(courses: list[dict], picks: dict) -> str:
 </tbody>
 </table>
 </div>
+<p id="search-empty" class="search-empty" hidden>没有匹配的课程。试试课号，如 CS5187。</p>
 {site_footer(today=today)}
 </div>
 {partner_toast_script()}
 <script>
-document.querySelectorAll('.chip').forEach(btn=>{{
-  btn.addEventListener('click',()=>{{
-    document.querySelectorAll('.chip').forEach(b=>b.classList.remove('active'));
-    btn.classList.add('active');
-    const f=btn.dataset.filter;
-    document.querySelectorAll('#course-table tbody tr').forEach(row=>{{
-      if(f==='all'){{row.style.display='';return}}
-      if(f==='core'){{row.style.display=row.dataset.category==='core'?'':'none';return}}
-      if(f==='elective'){{row.style.display=row.dataset.category==='elective'?'':'none';return}}
-      row.style.display=row.dataset.stream===f?'':'none';
+(function(){{
+  const rows=[...document.querySelectorAll('#course-table tbody tr')];
+  const input=document.getElementById('course-search');
+  const empty=document.getElementById('search-empty');
+  let filter='all';
+  function apply(){{
+    const q=(input&&input.value||'').trim().toLowerCase().replace(/\\s+/g,' ');
+    let n=0;
+    rows.forEach(row=>{{
+      let ok=true;
+      if(filter==='core') ok=row.dataset.category==='core';
+      else if(filter==='elective') ok=row.dataset.category==='elective';
+      else if(filter!=='all') ok=row.dataset.stream===filter;
+      if(ok&&q) ok=(row.dataset.search||'').includes(q);
+      row.style.display=ok?'':'none';
+      if(ok) n++;
+    }});
+    if(empty) empty.hidden=n>0;
+  }}
+  document.querySelectorAll('.chip').forEach(btn=>{{
+    btn.addEventListener('click',()=>{{
+      document.querySelectorAll('.chip').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      filter=btn.dataset.filter;
+      apply();
     }});
   }});
-}});
+  if(input){{
+    input.addEventListener('input',apply);
+    input.addEventListener('keydown',e=>{{
+      if(e.key!=='Enter') return;
+      const q=input.value.trim().toLowerCase().replace(/\\s+/g,'');
+      const visible=rows.filter(r=>r.style.display!=='none');
+      const exact=visible.find(r=>{{
+        const code=(r.querySelector('strong')||{{}}).textContent||'';
+        return code.toLowerCase()===q;
+      }});
+      const target=exact||(visible.length===1?visible[0]:null);
+      const a=target&&target.querySelector('a:not(.ext-link)');
+      if(a) location.href=a.getAttribute('href');
+    }});
+  }}
+}})();
 </script>
 </body></html>"""
 
