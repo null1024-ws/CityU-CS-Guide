@@ -24,6 +24,7 @@ SITE_DIST = ROOT / "site" / "dist"
 SITE_REPO = "https://github.com/null1024-ws/CityU-CS-Guide"
 PARTNER_REVIEW_SITE = "https://shanechen0722.github.io/cityu-CS-review/"
 PARTNER_REVIEW_NAME = "CityU 课程资料库"
+ORCA_ROUTER_URL = "https://www.orcarouter.ai/ref/ref_f97ea114d1bf7fd70092"
 XHS_TOKEN_CACHE = Path.home() / ".xhs-cli" / "token_cache.json"
 
 COURSE_CODE_RE = r"(?<![A-Za-z0-9])(CS\d{4}|EC5001)(?![A-Za-z0-9])"

@@ -15,6 +15,7 @@ from _paths import (  # noqa: E402
     EDITORIAL_JSON,
     CHANGELOG_JSON,
     MSC_CURRICULUM_URL,
+    ORCA_ROUTER_URL,
     PARTNER_REVIEW_NAME,
     PARTNER_REVIEW_SITE,
     REVIEWS_DIR,
@@ -59,10 +60,12 @@ a:focus-visible,.chip:focus-visible{outline:2px solid var(--brand);outline-offse
 .site-nav{font-family:var(--latin-ui);font-size:13px;color:var(--stone);display:flex;gap:14px;align-items:center}
 .site-nav a{color:var(--stone)}.site-nav a:hover,.site-nav a[aria-current="page"]{color:var(--brand)}
 .site-nav a[aria-current="page"]{font-weight:500}
-.github-star,.partner-link{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;border:1px solid var(--border);background:var(--ivory);font-family:var(--latin-ui);font-size:12px;font-weight:500;border-radius:999px;white-space:nowrap;line-height:1}
-.github-star{color:var(--brand)}.github-star:hover{border-color:var(--brand);background:var(--brand-tint);color:var(--brand)}
+.partner-link,.orca-link{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;border:1px solid var(--border);background:var(--ivory);font-family:var(--latin-ui);font-size:12px;font-weight:500;border-radius:999px;white-space:nowrap;line-height:1}
+.github-star{display:inline-flex;align-items:center;color:var(--brand);padding:2px}
+.github-star:hover{color:var(--brand-light)}
 .partner-link{color:var(--olive)}.partner-link:hover{border-color:var(--brand-light);background:var(--brand-tint);color:var(--brand)}
-.github-star svg{width:14px;height:14px;fill:currentColor;flex-shrink:0}
+.orca-link{color:var(--brand-light)}.orca-link:hover{border-color:var(--brand);background:var(--brand-tint);color:var(--brand)}
+.github-star svg{width:18px;height:18px;fill:currentColor;flex-shrink:0}
 .partner-toast{background:var(--brand-tint);border-bottom:1px solid var(--border-soft)}
 .partner-toast[hidden]{display:none!important}
 .partner-toast-inner{max-width:1140px;margin:0 auto;padding:9px 40px;display:flex;align-items:center;gap:14px}
@@ -299,9 +302,9 @@ def head(title: str, desc: str) -> str:
 </head>"""
 
 
-STAR_SVG = (
+GITHUB_MARK_SVG = (
     '<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">'
-    '<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.045 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.767 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>'
+    '<path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>'
     "</svg>"
 )
 
@@ -314,26 +317,33 @@ def partner_link(*, compact: bool = False) -> str:
     )
 
 
-PARTNER_TOAST_KEY = "cityu-cs-guide-partner-toast"
-
-
-def partner_toast() -> str:
+def orca_link() -> str:
     return (
-        f'<div id="partner-toast" class="partner-toast" hidden role="region" aria-label="友情站点提示">'
+        f'<a class="orca-link" href="{esc(ORCA_ROUTER_URL)}" target="_blank" rel="noopener" '
+        f'title="AI 模型 API 统一路由服务">OrcaRouter ↗</a>'
+    )
+
+
+ORCA_TOAST_KEY = "cityu-cs-guide-orca-toast"
+
+
+def orca_toast() -> str:
+    return (
+        f'<div id="orca-toast" class="partner-toast" hidden role="region" aria-label="OrcaRouter 推广">'
         f'<div class="partner-toast-inner">'
-        f"<p>选课后需要复习资料？友情站点 "
-        f'<a href="{esc(PARTNER_REVIEW_SITE)}" target="_blank" rel="noopener">{esc(PARTNER_REVIEW_NAME)}</a>'
-        f" 有 past paper、复习笔记等 · 关闭后请点右上角「复习资料」</p>"
+        f"<p>本站开发借助 "
+        f'<a href="{esc(ORCA_ROUTER_URL)}" target="_blank" rel="noopener">OrcaRouter</a>'
+        f" 统一路由的多家大模型 API 完成。同样在搭建 AI 应用的朋友，欢迎通过推荐链接接入体验 · 关闭后请点右上角「OrcaRouter」</p>"
         f'<button type="button" class="partner-toast-close" aria-label="关闭提示">×</button>'
         f"</div></div>"
     )
 
 
-def partner_toast_script() -> str:
+def orca_toast_script() -> str:
     return f"""<script>
 (function(){{
-  var key={json.dumps(PARTNER_TOAST_KEY)};
-  var el=document.getElementById('partner-toast');
+  var key={json.dumps(ORCA_TOAST_KEY)};
+  var el=document.getElementById('orca-toast');
   if(!el||localStorage.getItem(key))return;
   el.hidden=false;
   el.querySelector('.partner-toast-close').addEventListener('click',function(){{
@@ -355,12 +365,12 @@ def site_header(active: str = "", *, depth: int = 0) -> str:
     )
     star = (
         f'<a class="github-star" href="{esc(SITE_REPO)}" target="_blank" rel="noopener" '
-        f'aria-label="在 GitHub 上 Star 本项目">{STAR_SVG}Star</a>'
+        f'aria-label="在 GitHub 上 Star 本项目">{GITHUB_MARK_SVG}</a>'
     )
     return (
         f'<div class="site-top">'
         f'<div class="eyebrow">CityU MSc CS · 选课参考</div>'
-        f'<nav class="site-nav">{nav}{partner_link(compact=True)}{star}</nav>'
+        f'<nav class="site-nav">{nav}{partner_link(compact=True)}{orca_link()}{star}</nav>'
         f"</div>"
     )
 
@@ -414,7 +424,7 @@ def render_index(courses: list[dict], picks: dict) -> str:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return f"""{head("城大 MSc CS 选课参考", "香港城市大学计算机科学硕士课程评价与选课攻略，数据来自小红书")}
 <body>
-{partner_toast()}
+{orca_toast()}
 <div class="page">
 {site_header("课程列表")}
 <section class="hero">
@@ -455,7 +465,7 @@ def render_index(courses: list[dict], picks: dict) -> str:
 <p id="search-empty" class="search-empty" hidden>没有匹配的课程。试试课号，如 CS5187。</p>
 {site_footer(today=today)}
 </div>
-{partner_toast_script()}
+{orca_toast_script()}
 <script>
 (function(){{
   const rows=[...document.querySelectorAll('#course-table tbody tr')];
