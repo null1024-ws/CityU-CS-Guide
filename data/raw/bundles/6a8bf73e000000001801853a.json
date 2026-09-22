@@ -1,0 +1,106 @@
+{
+  "note_id": "6a8bf73e000000001801853a",
+  "url": "https://www.xiaohongshu.com/explore/6a8bf73e000000001801853a?xsec_token=ABxnSxgLeHlRMu1-Ttor4fO3J5_WgX8yjoy4GzIYPbzDQ=",
+  "fetched_at": 1790083380.4452913,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU 各专业的学习\\复习资料",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "新开个帖子，前帖有点儿偏向介绍CS专业的资源仓库了。\n临近开学，所以想分享一下以前发布的CityU 学习资源导航平台\n👉 https://shanechen0722.github.io/Cityu-Review/\n它更像是一个「入口」，以后不同学院、不同专业的资料网站，都可以在这里找到。\n1️⃣很多同学找复习资料基本都是：\n🌟在不同群里翻文件\n🌟找师兄师姐要资料\n🌟翻小红书、Telegram、Google Drive\n每个人都在重复整理类似的资料。\n所以我就在想：为什么不能每个专业共用一个资料仓库，由同专业的同学一起维护？有人整理 lecture notes，有人补充 past paper，有人上传复习资料，也有人整理课程经验……慢慢地，它就可以变成一个越来越完整的专业资料库。\n2️⃣那具体怎么做？\n如果你也想给自己的专业建立类似的资料网站，不需要从头开始写，只需要按照模板，一键创建一个属于自己专业的仓库。然后把你目前找到的课程资料、复习资料、past paper 等内容放进去。甚至暂时没有资料也没关系，可以先把仓库建立起来并添加到 CityU Review Hub。这样其他同学就可以通过主站找到对应专业的仓库，之后大家基于此仓库共同补充、整理和维护即可。或者你可以邀请同专业的同学或者发帖，让大家一起补充资料、整理内容，慢慢把它完善。\n整体逻辑就是：\n用模板一键创建专业资料库 → 添加到主站 → 同专业同学共同维护 → 良性循环，完善资料。\n具体操作也很简单：进入主站后，找到自己的专业。如果对应仓库还没有建立，会直接进入教程页，按照步骤创建；也可以直接在主站点击贡献资源跳转到 GitHub 模板仓库，里面有详细说明，属于傻瓜式操作，也配有视频讲解（怕不过审，这里就不放链接了）。\n3️⃣最后效果如何？\n例如CS专业复习资料库作为案例\n👉 https://shanechen0722.github.io/cityu-CS-review/\n里面整理了CS课程的复习资料。其他专业按照模板创建并部署后，最终效果类似此网站，可以作为参考。最后通过 CityU Review Hub把不同专业的资料库连接起来。\n一个专业，一个仓库,由这个专业的同学共同维护。CS只是一个开始，算是抛砖引玉,欢迎大家按照模板建立属于自己专业的资料库，然后加入 CityU Review Hub\n#cityu[话题]# #复习资料[话题]# #学习资料[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "老师有hku的吗[哭惹R]",
+      "sourceRef": "comment:6aabf7db000000000202bd3b",
+      "commentId": "6aabf7db000000000202bd3b",
+      "likes": 0,
+      "author": "早上好您吃了吗"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没了解哦，我cityu的，但是GitHub上肯定有hku的资料[doge]你可以考虑拿我的代码稍微改改弄一个hku的，然后联合一下各个专业的同学把它做起来[doge]",
+      "sourceRef": "comment:6aac73a8000000000200ed0f",
+      "commentId": "6aac73a8000000000200ed0f",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "我等这个帖子等了二十年",
+      "sourceRef": "comment:6a8dc92c000000001202a0b5",
+      "commentId": "6a8dc92c000000001202a0b5",
+      "likes": 6,
+      "author": "雷霆小豆"
+    },
+    {
+      "type": "comment",
+      "text": "找专业的时候注意选择本科生还是研究生哦[笑哭R]默认是本科生，master记得切换一下，因为本科和研究生有些专业名字啥的都一模一样[微笑R]你可能点到本科生的专业去了",
+      "sourceRef": "comment:6a8c26f700000000140386e7",
+      "commentId": "6a8c26f700000000140386e7",
+      "likes": 1,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "cs只有硕士的吗",
+      "sourceRef": "comment:6aa3edda000000001500efd0",
+      "commentId": "6aa3edda000000001500efd0",
+      "likes": 0,
+      "author": "！"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是master，所以我建的硕士的仓库，这得看其他人有没有搞的，其实GitHub上本科和博士cs专业的资料仓库挺多的，这得有人去整合，去搞一搞[笑哭R]",
+      "sourceRef": "comment:6aa43e8e0000000001009f3c",
+      "commentId": "6aa43e8e0000000001009f3c",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "太nb了老师",
+      "sourceRef": "comment:6a8de90b000000001202a908",
+      "commentId": "6a8de90b000000001202a908",
+      "likes": 0,
+      "author": "❤Taylor的Quella"
+    },
+    {
+      "type": "comment",
+      "text": "牛啊[派对R]",
+      "sourceRef": "comment:6a8d97570000000015008dc7",
+      "commentId": "6a8d97570000000015008dc7",
+      "likes": 0,
+      "author": "Flora"
+    },
+    {
+      "type": "comment",
+      "text": "牛[派对R]",
+      "sourceRef": "comment:6a8bf9de0000000014002d02",
+      "commentId": "6a8bf9de0000000014002d02",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "[合十R][合十R][色色R][色色R][色色R]感谢大佬[色色R]",
+      "sourceRef": "comment:6a946288000000000200fed1",
+      "commentId": "6a946288000000000200fed1",
+      "likes": 0,
+      "author": "，，"
+    },
+    {
+      "type": "comment",
+      "text": "大佬大佬大佬 [皱眉R][皱眉R][皱眉R]",
+      "sourceRef": "comment:6a8c34830000000015011d08",
+      "commentId": "6a8c34830000000015011d08",
+      "likes": 0,
+      "author": "迷你庄"
+    }
+  ]
+}

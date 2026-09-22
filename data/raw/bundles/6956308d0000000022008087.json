@@ -1,0 +1,138 @@
+{
+  "note_id": "6956308d0000000022008087",
+  "url": "https://www.xiaohongshu.com/explore/6956308d0000000022008087?xsec_token=ABzefGWqPbik7O_8d--onq9RxnxtLyGVI-WX-_CuPpNgo=",
+  "fetched_at": 1790083148.46089,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityUHK EIE Semester A 课程个人评价",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "主观锐评下课程难度，同时兼顾身边统计学\n\t\nEE5808 计算机图形学\n\t\nKelvin 的课比较枯燥，平时去的人大约为 35/70，偶遇节假日加课出勤率为 13/70，两次 Test 均分为 57 和 34，期末考试题型与 Test 有相似重合。第一节课 Kelvin 直说这门课大部分人只能拿 B/B-，A 和 F 都会很少；实际身边统计学显示学的很认真的同学拿的 B，我们几个平时 Test 在平均分附近或略高于平均分的同学在 C-/C/C+\n\t\n课程主要内容：C / OpenGL，图形学坐标系变换，投影，动画，阴影，材质，深度检测，辐射场，先进技术（光线追踪，高斯泼溅，NeRF 等）\n\t\n分数分布：4 次作业 （4x1.5 分），2 次 Test（2x15 分），1 个  mini Project（15 分），Final （50 分）\n\t\n---\n\t\nEE5438 深度学习\n\t\nPO 的神课，课上有签到，授课质量极高，PO 有自己写 Medium 文章，课件量巨大，Medium 阅读材料钜细，每次上课基本能到 70%~80% 的出席率，PO 上课有激情，口头禅是 OK。Quiz 和 Test 分数不会太低，Final 与 Test 内容形式相近，题量较大，每道题分值小，比较难写完，也不会出现完全不会的低分情况。作业为三部分：知识点概念，计算题，Colab 修改 / 微调模型；作业量适中\n\t\n课程主要内容：MLP，CNN，RNN，Transformer，LLM\n\t\n分数分布：Assignments: 15%，Quiz: 5%，Midterm: 10%，Group Project: 20%，Final Exam: 50%\n\t\n---\n\t\nEE6610 排队论\n\t\nMoshe 的课，Moshe 年纪比较大了据说是退休返聘来上课的。上课比较喜欢互动，有时候会讲中文比较幽默，上课内容和课件内容比考试难很多，课程核心作业为自由安排量的 Group Learning，意思是在 Canvas 讨论区水贴发自己的学习笔记和结果，每周都要发一次或者几次。学习强度由个人决定，想把课件都看懂非常难，想通过考试和课程比较容易\n\t\n课程主要内容：（概率论和数理统计，随机过程），排队理论和各种排队模型\n\t\n分数分布：15% Midterm，35% Group Learning，50% Final\n#选课[话题]# #深度学习[话题]# #CityU[话题]# #香港城市大学[话题]# #电子信息[话题]# #香港留学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下eee强度很大吗",
+      "sourceRef": "comment:69a267490000000018020437",
+      "commentId": "69a267490000000018020437",
+      "likes": 0,
+      "author": "CrisP"
+    },
+    {
+      "type": "sub_comment",
+      "text": "选课比较好的情况毕业难度不是太大，选课比较好的情况下拿荣誉学位 with Credit/Distinction 也很难，选课不好的情况下按时毕业会比较难",
+      "sourceRef": "comment:69a2865f000000001900026d",
+      "commentId": "69a2865f000000001900026d",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "请问港城的eie改为eee后增加了很多强电课程吗",
+      "sourceRef": "comment:69a4664f000000000c0161a2",
+      "commentId": "69a4664f000000000c0161a2",
+      "likes": 0,
+      "author": "新之助"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会，应该只是改个名称，不过这个专业选课可以认证成电气或者计算机或者电子信息",
+      "sourceRef": "comment:69a4e7c80000000018021cf7",
+      "commentId": "69a4e7c80000000018021cf7",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "学长您好，请问深度学习需要有些基础吗，本科没学过[哭惹R]会不会比较吃力呐",
+      "sourceRef": "comment:6a6d7088000000002902d098",
+      "commentId": "6a6d7088000000002902d098",
+      "likes": 0,
+      "author": "Suzie"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不会，从 MLP 开始讲的，只要学过一点点 Python 和一点点矩阵还有求导就可以",
+      "sourceRef": "comment:6a6d7277000000002a0313ce",
+      "commentId": "6a6d7277000000002a0313ce",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "请问一下课表的安排一般是什么样的啊 一周几天会有课 早九和晚课多吗[萌萌哒R][萌萌哒R]",
+      "sourceRef": "comment:6a58a496000000002b028c9b",
+      "commentId": "6a58a496000000002b028c9b",
+      "likes": 0,
+      "author": "超超超好吃的好吃"
+    },
+    {
+      "type": "sub_comment",
+      "text": "具体看你选的，你如果不想上早课的话可以不选，晚课无所谓的基本深圳也能回来，但是我还是建议选正常点的课，不要选比较困难的课",
+      "sourceRef": "comment:6a58a4c5000000002b0001bf",
+      "commentId": "6a58a4c5000000002b0001bf",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "上学期选七门课，学习压力会过载嘛[哭惹R]",
+      "sourceRef": "comment:69e74671000000001401d81e",
+      "commentId": "69e74671000000001401d81e",
+      "likes": 0,
+      "author": "。"
+    },
+    {
+      "type": "sub_comment",
+      "text": "无法选 7 门，一学期最大选 6 门，小于 4 门或者大于 6 门要说明原因，绝大部分同学学 5 门的压力也会非常大，欢迎会上系主任建议第一学期选 4 门",
+      "sourceRef": "comment:69e74a4f0000000014019c1e",
+      "commentId": "69e74a4f0000000014019c1e",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "方便实习吗",
+      "sourceRef": "comment:69ea06eb000000001401a02c",
+      "commentId": "69ea06eb000000001401a02c",
+      "likes": 0,
+      "author": "哈哈哈哈哈哈"
+    },
+    {
+      "type": "sub_comment",
+      "text": "暑假可以，其他时间基本不行",
+      "sourceRef": "comment:6a321744000000002901bdd1",
+      "commentId": "6a321744000000002901bdd1",
+      "likes": 0,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "请问6610的group learning意思是不用组队是嘛～",
+      "sourceRef": "comment:6a977bc90000000002011d8c",
+      "commentId": "6a977bc90000000002011d8c",
+      "likes": 0,
+      "author": "以可尔必思为支点翘起地球"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不需要ya",
+      "sourceRef": "comment:6a977c1c0000000014039d0d",
+      "commentId": "6a977c1c0000000014039d0d",
+      "likes": 1,
+      "author": "李琴生"
+    },
+    {
+      "type": "comment",
+      "text": "Moshe好人來的",
+      "sourceRef": "comment:69564277000000001600d431",
+      "commentId": "69564277000000001600d431",
+      "likes": 1,
+      "author": "🌟🌟"
+    }
+  ]
+}

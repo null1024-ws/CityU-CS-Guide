@@ -1,0 +1,114 @@
+{
+  "note_id": "6a56e926000000001101cd48",
+  "url": "https://www.xiaohongshu.com/explore/6a56e926000000001101cd48?xsec_token=ABy4JqhDvvF1YLd8nPJpySeS0peVICDrlY8s97PRiG7FQ=",
+  "fetched_at": 1790081484.8512747,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "在线等：cs作业被老师约meeting",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "第一次收到这种约谈邮件咋办啊 好紧张 我今晚不用睡觉了 为什么不告诉我约谈的原因啊 我承认在写代码的时候问了ai不少问题和帮忙检查 这种情况咋办\n\t\n二编：\n她看后台记录说我代码被复制粘贴太多次了而且写的速度不合理（其实是我复制粘粘发给ai检查bug）最后两个作业通通0分 不过她说只要期末看到我有进步就不把它们算到总成绩里",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "千万不要承认啊，不要以为承认了教授就会放你一马，不要承认用了任何ai相关的东西翻译也不可以，只要你承认一点教授就会把你上交！亲身经历！",
+      "sourceRef": "comment:6a57c7f000000000050162b0",
+      "commentId": "6a57c7f000000000050162b0",
+      "likes": 47,
+      "author": "Mi Manchi"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我就是一点也没承认 她说看了我代码的历史记录 说我写的速度很可疑 她说这个之前我完全不知道竟然还能看到写代码的历史记录[捂脸R] 最后两个作业通通0分 不过她说只要期末看到我有进步就不把它们算到总成绩里[笑哭R]",
+      "sourceRef": "comment:6a57d185000000000b0392a4",
+      "commentId": "6a57d185000000000b0392a4",
+      "likes": 12,
+      "author": "kiwi"
+    },
+    {
+      "type": "comment",
+      "text": "真无语啊学校，都这个年代了还在查ai率",
+      "sourceRef": "comment:6a56eed60000000015001be1",
+      "commentId": "6a56eed60000000015001be1",
+      "likes": 56,
+      "author": "阿T在Coding"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有些东西你不自己写 还真会忽略一些问题 或许是理解的偏差 被AI掩盖了",
+      "sourceRef": "comment:6a583470000000001501366c",
+      "commentId": "6a583470000000001501366c",
+      "likes": 10,
+      "author": "💙👽"
+    },
+    {
+      "type": "comment",
+      "text": "兄弟 下次发给AI不要复制粘贴，直接用截图功能，甚至手机拍照，这样他绝对查不出来",
+      "sourceRef": "comment:6a58c7020000000015000404",
+      "commentId": "6a58c7020000000015000404",
+      "likes": 11,
+      "author": "Edward"
+    },
+    {
+      "type": "comment",
+      "text": "前几天我也有过类似的问题 建议之前熟悉代码 闻起来有没有使用ai就死不承认 老师没办法的",
+      "sourceRef": "comment:6a575c2d0000000015004dc6",
+      "commentId": "6a575c2d0000000015004dc6",
+      "likes": 0,
+      "author": "布达佩斯大耗子"
+    },
+    {
+      "type": "comment",
+      "text": "按照我做TA的经验 不是好事 不告诉你原因是为了打个措手不及[捂脸R]但是最后具体怎么处理感觉看老师[捂脸R]",
+      "sourceRef": "comment:6a56eaa5000000002a02ee24",
+      "commentId": "6a56eaa5000000002a02ee24",
+      "likes": 31,
+      "author": "北堂之秋"
+    },
+    {
+      "type": "comment",
+      "text": "就说本地跑了测试复制粘贴 或者又是用vscode调整了代码格式 他没证据的",
+      "sourceRef": "comment:6a6875920000000005014f59",
+      "commentId": "6a6875920000000005014f59",
+      "likes": 1,
+      "author": "TAN"
+    },
+    {
+      "type": "comment",
+      "text": "推迟一下meeting赶紧抱佛脚吧[捂嘴笑R]",
+      "sourceRef": "comment:6a5770aa000000002a02c34d",
+      "commentId": "6a5770aa000000002a02c34d",
+      "likes": 3,
+      "author": "ele"
+    },
+    {
+      "type": "comment",
+      "text": "所以是你自己写的吗",
+      "sourceRef": "comment:6a56e9a2000000000802d0e6",
+      "commentId": "6a56e9a2000000000802d0e6",
+      "likes": 1,
+      "author": "junn"
+    },
+    {
+      "type": "comment",
+      "text": "先准时赴约，今晚吃透两份作业全部代码，如实说明AI仅用来辅助查错、核心逻辑自己构思，诚恳听老师整改意见即可",
+      "sourceRef": "comment:6a5739670000000015016dcd",
+      "commentId": "6a5739670000000015016dcd",
+      "likes": 5,
+      "author": "Viko草莓酱～"
+    },
+    {
+      "type": "comment",
+      "text": "推迟一下meeting，就说明天中午约了医生取药，提前准备一下说辞，代码的AI问题真的很少除非是非常大的项目",
+      "sourceRef": "comment:6a581d56000000001500049f",
+      "commentId": "6a581d56000000001500049f",
+      "likes": 1,
+      "author": "鬼天竺鼠"
+    }
+  ]
+}

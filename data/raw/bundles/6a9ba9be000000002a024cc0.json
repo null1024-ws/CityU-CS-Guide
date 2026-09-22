@@ -1,0 +1,50 @@
+{
+  "note_id": "6a9ba9be000000002a024cc0",
+  "url": "https://www.xiaohongshu.com/explore/6a9ba9be000000002a024cc0?xsec_token=ABvHaPPIi4U-lEM73Or8T_M5b9GfMqk039eL6_RwWH6cA=",
+  "fetched_at": 1790082995.6844685,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu ds DSC5001 5003 6016求组队",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本科cs 有没有同必修课表的同学 一起组队呗🙏\n#数据科学[话题]##港城[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5001早上的课上的怎么样？下午的感觉讲得有点快，不太好懂",
+      "sourceRef": "comment:6a9bee9b000000000f0315ba",
+      "commentId": "6a9bee9b000000000f0315ba",
+      "likes": 1,
+      "author": "望江流影"
+    },
+    {
+      "type": "sub_comment",
+      "text": "早上讲得不快 老师一直在问我们跟的上不 感觉挺好的",
+      "sourceRef": "comment:6a9c051f000000000100a241",
+      "commentId": "6a9c051f000000000100a241",
+      "likes": 2,
+      "author": "Drift"
+    },
+    {
+      "type": "comment",
+      "text": "蹲6016组队",
+      "sourceRef": "comment:6aa4f300000000000b014685",
+      "commentId": "6aa4f300000000000b014685",
+      "likes": 1,
+      "author": "Eutopia"
+    },
+    {
+      "type": "comment",
+      "text": "本科ds的，蹲蹲组队",
+      "sourceRef": "comment:6a9bae560000000014033bd3",
+      "commentId": "6a9bae560000000014033bd3",
+      "likes": 0,
+      "author": "ELDWOOD"
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "note_id": "688340c9000000002201f12c",
+  "url": "https://www.xiaohongshu.com/explore/688340c9000000002201f12c?xsec_token=ABJeBgLBVfxb9NIlhtx653eQiIupxej01QDrh2IT1fRmU=",
+  "fetched_at": 1790083962.277451,
+  "search_item": {
+    "id": "688340c9000000002201f12c",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "米理gis-cs track选课分享1",
+      "user": {
+        "nickname": "米老鼠珍妮",
+        "xsecToken": "ABp2NAgxvNxHSuhs7E6pUtY2dHoghQ_wPZlGFQECRcVB4=",
+        "nickName": "米老鼠珍妮",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/80/format/jpg",
+        "userId": "5a6a899de8ac2b70ecd557ab"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "60",
+        "commentCount": "34",
+        "sharedCount": "23",
+        "liked": false,
+        "likedCount": "74"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222132/41643f9c94a35333fdde78cc2c178b82/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nc_n_webp_prv_1",
+        "height": 4032,
+        "width": 3024,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222132/574ba494b160ccabae4eeafb6e630cc9/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 4032,
+          "width": 3024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222132/574ba494b160ccabae4eeafb6e630cc9/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222132/41643f9c94a35333fdde78cc2c178b82/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-07-25"
+        }
+      ]
+    },
+    "xsecToken": "ABJeBgLBVfxb9NIlhtx653eQiIupxej01QDrh2IT1fRmU=",
+    "index": 39,
+    "exposed": false,
+    "trackId": "688340c9000000002201f12c"
+  },
+  "note": {
+    "type": "normal",
+    "title": "米理gis-cs track选课分享1",
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222132/b295607cbe041aaadd54f356f1ec3f98/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g",
+        "height": 4032,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222132/3247e81daf523534e40cb195618c9a35/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222132/b295607cbe041aaadd54f356f1ec3f98/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "width": 3024,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222132/3247e81daf523534e40cb195618c9a35/notes_pre_post/1040g3k031kbq19of32104a13854pqltbhr37v0g!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1753432266000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "688340c9000000002201f12c",
+    "desc": "研一第一学期选了30学分 第二学期选了40学分\n目前65/70 还有一门5学分课打算9月考\n建议大家在能力允许的情况下研一每学期选35学分\n——————————————————————————————\n✨Geospatial Data Analysis - 10 (研一必修)\n2个笔试➕项目pre 选最简单的项目直接跟着助教的实验课1:1做就行\n✨Software Engineering2 - 5 (研二必修但我研一选了)\n4个繁琐的大报告➕项目实现➕额外2 bonus 也可以选择笔试 (提前组队)\n✨Data Mining - 5 (研二必修但我研一选了)\n纯笔试，上课的内容简单，但考试很难，尽量1/2月考过，6/7/9月理论多。\n✨Image Analysis and Computer Vision - 5 (选修)\n作业➕一个项目pre 拿分容易，课堂理论听不懂但不碍事，需要一定编程能力，录播课质量极差(提前组队)\n✨Foundations of Operations Research - 5 (选修)\n笔试➕2 bonus 个人认为实验课和习题课可以不去，网课质量很好，理论弄明白多做几套往年卷，笔试难度比国内简单 强推！\n✨Business Information System1 - 5 (选修)\n机试选择题 纯水课，感觉把往年卷子答案背住就能拿25左右，认真看网课加往年卷能拿30L，录播课质量好 强推！\n✨Computing Infrastructures - 5 (研一必修)\n笔试➕2 bonus 线下讲的挺好的，录播课质量一般，笔试提前把习题课和往年卷子做了，多顺几遍概念就能过，笔试难度比国内简单\n✨Hypermedia Applications(web and multimedia) - 5 (选修)\n作业➕网站项目 线下课质量挺好的，需要一定编程能力(提前组队) 推\n✨Geographic Information System - 10 (研一必修)\n口试➕2个实操➕lab 研讨会可以不去，全程跟课的话不难\n✨Earth Observation - 10(研一必修)\n口试➕实操➕lab➕项目pre 全程跟课的话不难\n✨Computer Graphic - 5(选修)\n作业➕游戏项目pre 可以不听课 需要编程能力(提前组队) 对我来说好难🤯",
+    "user": {
+      "userId": "5a6a899de8ac2b70ecd557ab",
+      "nickname": "米老鼠珍妮",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8",
+      "xsecToken": "ABuTYuinfSZOCc2KIp2d-bPDJd3cBgwTijyn5QznpGhc0="
+    },
+    "interactInfo": {
+      "relation": "none",
+      "likedCount": "74",
+      "commentCount": "34",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "60",
+      "shareCount": "23"
+    },
+    "tagList": [],
+    "time": 1753432265000,
+    "xsecToken": "ABJeBgLBVfxb9NIlhtx653eQiIupxej01QDrh2IT1fRmU="
+  },
+  "comments": [
+    {
+      "ipLocation": "意大利",
+      "subComments": [
+        {
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "688348fa000000001a02e8b6",
+            "userInfo": {
+              "userId": "5a6a899de8ac2b70ecd557ab",
+              "nickname": "米老鼠珍妮",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1753448710000,
+          "id": "688381060000000019024a79",
+          "content": "我的选课流程是先看教学大纲，再看webeep上往年课程的课件难度考核形式，最后查看任课教师的往年评分。"
+        }
+      ],
+      "subCommentCursor": "688381060000000019024a79",
+      "noteId": "688340c9000000002201f12c",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "id": "688348fa000000001a02e8b6",
+      "liked": false,
+      "subCommentHasMore": true,
+      "status": 4,
+      "content": "必修还有一门positioning and location based services，我第一学期来迟了一个月怕压力太大所以没选",
+      "userInfo": {
+        "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ=",
+        "userId": "5a6a899de8ac2b70ecd557ab",
+        "nickname": "米老鼠珍妮",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1753434363000,
+      "invalid": false,
+      "subCommentCount": "3",
+      "pictures": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1756457256000,
+      "subCommentCount": "4",
+      "noteId": "688340c9000000002201f12c",
+      "liked": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1756463743000,
+          "targetComment": {
+            "id": "68b1692700000000300315d1",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325dvvpa256105p7lhg9180ia1p795f0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABk-WyO6DAggv-Fk2_rgo4Mp9IUpFcaSR5fCXi2eW8Zr8=",
+              "userId": "64f58c12000000000500024a",
+              "nickname": "isalyssa_📷"
+            }
+          },
+          "pictures": [],
+          "content": "DSU的bonus指的是7月底(7.22)如果因为老师登分不及时等原因没有得到35学分，可以借15个bonus补齐。到8月初(8.10)会扣除bonus再看你有没有到35学分。 相当于给了你10来天催老师登分，7月份还是必须考到35学分",
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "意大利",
+          "invalid": false,
+          "id": "68b1827e000000000903808e",
+          "noteId": "688340c9000000002201f12c"
+        }
+      ],
+      "subCommentHasMore": true,
+      "ipLocation": "江苏",
+      "subCommentCursor": "68b1827e000000000903808e",
+      "id": "68b1692700000000300315d1",
+      "content": "请问bonus是什么意思啊",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABk-WyO6DAggv-Fk2_rgo4Mp9IUpFcaSR5fCXi2eW8Zr8=",
+        "userId": "64f58c12000000000500024a",
+        "nickname": "isalyssa_📷",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325dvvpa256105p7lhg9180ia1p795f0?imageView2/2/w/120/format/jpg"
+      },
+      "pictures": [],
+      "status": 0,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "2",
+      "ipLocation": "广东",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "status": 0,
+      "subCommentCount": "3",
+      "subCommentCursor": "68834c34000000001a02829a",
+      "invalid": false,
+      "id": "68834b6c000000001e019f72",
+      "content": "一年能选那么多课 好牛 听说米理工程类压力蛮大的",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1753434989000,
+      "subComments": [
+        {
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "content": "想着多选几门 过的概率大点",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "意大利",
+          "atUsers": [],
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ=",
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮"
+          },
+          "createTime": 1753435188000,
+          "targetComment": {
+            "id": "68834b6c000000001e019f72",
+            "userInfo": {
+              "userId": "5ca7fe00000000001201e94c",
+              "nickname": "阿嘟嘟嘟度",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/644ba8659329aa25ed961dab.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABu0KK-I1cmQjofvtu3EvTsjOZPOALe-t0G8DUs4OuFyk="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "68834c34000000001a02829a"
+        }
+      ],
+      "noteId": "688340c9000000002201f12c",
+      "userInfo": {
+        "nickname": "阿嘟嘟嘟度",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/644ba8659329aa25ed961dab.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABu0KK-I1cmQjofvtu3EvTsjOZPOALe-t0G8DUs4OuFyk=",
+        "userId": "5ca7fe00000000001201e94c"
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "学长好，刚被米理gis绿了，请问怎么判断自己是不是cs track，截图中完全看不出来",
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCount": "3",
+      "subCommentCursor": "6957e5e9000000000f02e029",
+      "subCommentHasMore": true,
+      "noteId": "688340c9000000002201f12c",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5f2f50810000000001008570",
+        "nickname": "阿巴巴",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324kh2mfan4005npfa20g91bg4aocup8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhSPPqkafYRaWQgzPPOKaOOix6mhzW2DQHqx1S-6wGv8="
+      },
+      "createTime": 1767367295000,
+      "pictures": [
+        {
+          "height": 2560,
+          "width": 1181,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222132/4803c772c42b418f6397c27a960ffe72/comment/1040g2h031qrgkijn6u005npfa20g91bgjso3j9g!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222132/a24868f2eea975d2b1aaadd1d57d9e78/comment/1040g2h031qrgkijn6u005npfa20g91bgjso3j9g!nd_whgt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222132/4803c772c42b418f6397c27a960ffe72/comment/1040g2h031qrgkijn6u005npfa20g91bgjso3j9g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222132/a24868f2eea975d2b1aaadd1d57d9e78/comment/1040g2h031qrgkijn6u005npfa20g91bgjso3j9g!nd_whgt34_webp_wm_1"
+            }
+          ]
+        }
+      ],
+      "invalid": false,
+      "id": "6957e27d0000000006018b5e",
+      "liked": false,
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1767368169000,
+          "invalid": false,
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "content": "选课的时候自己选track",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ=",
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "6957e27d0000000006018b5e",
+            "userInfo": {
+              "userId": "5f2f50810000000001008570",
+              "nickname": "阿巴巴",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324kh2mfan4005npfa20g91bg4aocup8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABhSPPqkafYRaWQgzPPOKaOOix6mhzW2DQHqx1S-6wGv8="
+            }
+          },
+          "pictures": [],
+          "id": "6957e5e9000000000f02e029"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "河北",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1753434245000,
+          "ipLocation": "意大利",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ=",
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg"
+          },
+          "targetComment": {
+            "id": "68834772000000001901d72c",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABpgVv0gio3ZVYJay_kRDfomQaaH6uUIauU3aNWE7T-sc=",
+              "userId": "638103df000000001f01c32d",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30p7qji6f3s6g5os10ffnrgpd0g565to?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "68834884000000001902672b",
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "content": "我尽量多选点cs的课，毕竟对gis一窍不通[完啦R][完啦R]"
+        }
+      ],
+      "subCommentHasMore": false,
+      "id": "68834772000000001901d72c",
+      "content": "感觉你这才是真正的cse[笑哭R]",
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30p7qji6f3s6g5os10ffnrgpd0g565to?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpgVv0gio3ZVYJay_kRDfomQaaH6uUIauU3aNWE7T-sc=",
+        "userId": "638103df000000001f01c32d",
+        "nickname": "momo"
+      },
+      "subCommentCount": "1",
+      "subCommentCursor": "68834884000000001902672b",
+      "pictures": [],
+      "invalid": false,
+      "noteId": "688340c9000000002201f12c",
+      "liked": false,
+      "likeCount": "2",
+      "createTime": 1753433970000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "68b2bd760000000030008bc8",
+      "noteId": "688340c9000000002201f12c",
+      "showTags": [],
+      "createTime": 1756544375000,
+      "ipLocation": "浙江",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "5b793ad4a3af9a0001e071be",
+        "nickname": "ivone",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/632ff379c03f54a1ec7aa1f3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB3h8griMY6GcPGYXc4J1LofMtZ3UiDjvaL5hvxybrqTc="
+      },
+      "subComments": [
+        {
+          "pictures": [],
+          "id": "68b2d33f000000000b02b0c2",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+          },
+          "createTime": 1756549951000,
+          "invalid": false,
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "content": "多研究研究 我没选的其他课也是有好课的[飞吻R]",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "68b2bd760000000030008bc8",
+            "userInfo": {
+              "xsecToken": "AB3h8griMY6GcPGYXc4J1LofMtZ3UiDjvaL5hvxybrqTc=",
+              "userId": "5b793ad4a3af9a0001e071be",
+              "nickname": "ivone",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/632ff379c03f54a1ec7aa1f3.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "68b2d33f000000000b02b0c2",
+      "invalid": false,
+      "content": "开始选课了 我反复拜读学姐的分享[猪头R]",
+      "status": 0,
+      "likeCount": "1",
+      "subCommentCount": "1",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "nickname": "不能堕落",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31166br9l6c605nuuv3tg8u17cvi2jto?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABn66Bew0TFPoAha3AnNZJjkEtC5cQXKIzKASQGJZXNbY=",
+        "userId": "5fdef8fb0000000001007827"
+      },
+      "showTags": [],
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "createTime": 1753434931000,
+          "invalid": false,
+          "id": "68834b330000000001022c80",
+          "noteId": "688340c9000000002201f12c",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "688347bd00000000090150c9",
+            "userInfo": {
+              "xsecToken": "ABn66Bew0TFPoAha3AnNZJjkEtC5cQXKIzKASQGJZXNbY=",
+              "userId": "5fdef8fb0000000001007827",
+              "nickname": "不能堕落",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31166br9l6c605nuuv3tg8u17cvi2jto?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": [],
+          "status": 0,
+          "content": "确实",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5947d6bb50c4b41d17f057a1",
+            "nickname": "InfoGeographer",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321dlovll7u0049kg8kbbmlt1qn6aiug?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB9qmE4Wkee2s2oWcJc07BpefDC-mSFqwJ4qG780guTvY="
+          }
+        }
+      ],
+      "id": "688347bd00000000090150c9",
+      "status": 0,
+      "invalid": false,
+      "noteId": "688340c9000000002201f12c",
+      "createTime": 1753434046000,
+      "content": "你这个课程才是真正的计算机，米理CSE是假计算机",
+      "likeCount": "1",
+      "ipLocation": "意大利",
+      "subCommentCursor": "68834b330000000001022c80",
+      "subCommentHasMore": true,
+      "pictures": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "ipLocation": "安徽",
+      "invalid": false,
+      "id": "68ab36e30000000030008c71",
+      "noteId": "688340c9000000002201f12c",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1756057359000,
+          "noteId": "688340c9000000002201f12c",
+          "atUsers": [],
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "68ab36e30000000030008c71",
+            "userInfo": {
+              "xsecToken": "AB0wT7UBYUZd_4YyFEQBQ5uym9XSf0NEflxq_NDz0UE8I=",
+              "userId": "67bea43a000000000e01035d",
+              "nickname": "小红薯67BFDAE9",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f257b3e7e60e53504de.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "68ab4f0f000000002700d7b6",
+          "status": 0,
+          "content": "研一必修的positioning记得选(我因为迟到一个月没选)，推荐第一学期选35学分，如果觉得吃力先不上课，网课质量好可以慢慢补网课，等679月再考试",
+          "liked": false,
+          "likeCount": "1"
+        }
+      ],
+      "status": 0,
+      "content": "感谢分享，开学后就按这个来选[赞R]",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "67bea43a000000000e01035d",
+        "nickname": "小红薯67BFDAE9",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f257b3e7e60e53504de.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0wT7UBYUZd_4YyFEQBQ5uym9XSf0NEflxq_NDz0UE8I="
+      },
+      "showTags": [],
+      "createTime": 1756051171000,
+      "subCommentCursor": "68ab4f0f000000002700d7b6",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "68a9e2a1000000002603b8f3",
+      "id": "68a9a8420000000027009cdc",
+      "noteId": "688340c9000000002201f12c",
+      "subComments": [
+        {
+          "noteId": "688340c9000000002201f12c",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5a6a899de8ac2b70ecd557ab",
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ="
+          },
+          "createTime": 1755964066000,
+          "ipLocation": "意大利",
+          "invalid": false,
+          "id": "68a9e2a1000000002603b8f3",
+          "content": "费劲脑汁选课 稀里糊涂上课[doge]",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "68a9a8420000000027009cdc",
+            "userInfo": {
+              "xsecToken": "AByE_ytqsugvkB0CrXpmSIOCuNP3ZEotZYRhFruAo0aZc=",
+              "userId": "5bb8cf3b157fa60001a6e26f",
+              "nickname": "旧橙汁王",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bcs0t1k7a004bb6nd7jnojffgtqpig?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "invalid": false,
+      "status": 0,
+      "content": "好强[doge]感觉我都是稀里糊涂地上课",
+      "pictures": [],
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1755949123000,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "liked": false,
+      "userInfo": {
+        "nickname": "旧橙汁王",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31bcs0t1k7a004bb6nd7jnojffgtqpig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByE_ytqsugvkB0CrXpmSIOCuNP3ZEotZYRhFruAo0aZc=",
+        "userId": "5bb8cf3b157fa60001a6e26f"
+      },
+      "showTags": [],
+      "ipLocation": "四川",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "ipLocation": "意大利",
+          "targetComment": {
+            "id": "68a49daf00000000300254fb",
+            "userInfo": {
+              "nickname": "isalyssa_📷",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325dvvpa256105p7lhg9180ia1p795f0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABk-WyO6DAggv-Fk2_rgo4Mp9IUpFcaSR5fCXi2eW8Zr8=",
+              "userId": "64f58c12000000000500024a"
+            }
+          },
+          "id": "68a4a1ad000000002603e309",
+          "noteId": "688340c9000000002201f12c",
+          "userInfo": {
+            "nickname": "米老鼠珍妮",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32195it76nk004a13854pqltb4o3ktg8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABx6JPK_WdvHcpOr8E-zhC0IZHY7mLOn7oMXDwBcrwKMQ=",
+            "userId": "5a6a899de8ac2b70ecd557ab"
+          },
+          "createTime": 1755619757000,
+          "pictures": [],
+          "invalid": false,
+          "status": 0,
+          "content": "可以吧 我研一的时候没选反正",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "68a4a1ad000000002603e309",
+      "pictures": [],
+      "noteId": "688340c9000000002201f12c",
+      "liked": false,
+      "ipLocation": "江苏",
+      "id": "68a49daf00000000300254fb",
+      "status": 0,
+      "content": "请问研一必修是可以放到研二来选吗？",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABk-WyO6DAggv-Fk2_rgo4Mp9IUpFcaSR5fCXi2eW8Zr8=",
+        "userId": "64f58c12000000000500024a",
+        "nickname": "isalyssa_📷",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325dvvpa256105p7lhg9180ia1p795f0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1755618736000,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 选课"
+}

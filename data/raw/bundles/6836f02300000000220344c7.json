@@ -1,0 +1,146 @@
+{
+  "note_id": "6836f02300000000220344c7",
+  "url": "https://www.xiaohongshu.com/explore/6836f02300000000220344c7?xsec_token=ABI78UoVov3w56MHO21SkpK5lyA8LB3OpgOvA-YxNTUCI=",
+  "fetched_at": 1790081535.5734835,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "Cityu Course",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "学生时代的考试（QE除外）已经结束，结果还算圆满。Cityu的课程设置多元化，允许跨系/校选课，非常人性化。\n\t\nMA8011为数学系必修课，包括实变函数和微分几何，也是QE考试的重要内容。老师是个“笑面虎”，常说科研对博士生来说是最重要的，只要态度够好，即使考试不会做，只要答案与数学相关，就能给过。事实上对于做得好的学生，也会打高分。\n\t\nMA8006老师是法国人，要求严格，作业扣分现象严重。可能由于我第一次学泛函分析，比较仔细，加上经常与同学讨论，总得来说扣分不算严重。\n\t\nMA8003性质为研讨课，要求汇报研究结果或参与系内讲座，第一学期我选择汇报科研，第二学期选择听讲座。出分前看其他系以为也是P级别，没想到是等级制，扣我绩点避免骄傲。\n\t\nMS8956为DAO系课程，原管理科学系（MS），其实就是高级计量经济学，但是竟然没有期中考，而是小组展示，期末允许带一张双面A4，整体难度不大。出分前会在Canvas上公布期末卷面分，不知道哪里扣我0.5分，但期末考试也确实没来得及检查完一遍。\n\t\nBIOS8003为生物统计系课程，老师极其严格，每次都会扣我10%分数。老师常说，作为在读博士，不能只写答案，要给出原因和解释。期末3h，其他人2h出头就都交了，我自己一个人做到还剩15分钟交卷，因为距离考试结束15分钟之内不能交卷，我也不好意思再拖到最后，也是没有来得及检查完一遍。好在是个“排位赛”，仔细一些总是有用，最后虽然有点“教学事故”，今天下午才出分，但结果很满意。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "想问下博主如果想申计量经济学方法论博士，有哪些数学课可能是必须上的呢",
+      "sourceRef": "comment:6a3407c0000000000d021800",
+      "commentId": "6a3407c0000000000d021800",
+      "likes": 0,
+      "author": "清禾"
+    },
+    {
+      "type": "sub_comment",
+      "text": "高等概率论和渐近统计很重要",
+      "sourceRef": "comment:6a34acc40000000005009f42",
+      "commentId": "6a34acc40000000005009f42",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "想请问博主是如何跨专业选课的？因为在系统上显示别的专业的课只有特定的那个专业的program才能选 所以我理解并不不能直接在系统上选？博主是联系了系里要系里同意吗？我发邮件为了系里但是也没说明白具体流程",
+      "sourceRef": "comment:6a8c0fab000000000b0121d4",
+      "commentId": "6a8c0fab000000000b0121d4",
+      "likes": 0,
+      "author": "MINRAN"
+    },
+    {
+      "type": "sub_comment",
+      "text": "需要给开课的系或者老师发邮件附上SGS16A征得同意，比如选商学院课联系任课老师，选生物统计系课联系系邮箱，像数据科学系基本上优先内部选课，系外很难选上。如果现在选不到也没事，等下学期开始前填SGS16B加课",
+      "sourceRef": "comment:6a8c28760000000015007265",
+      "commentId": "6a8c28760000000015007265",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "卷王[捂嘴笑R]",
+      "sourceRef": "comment:6836fec9000000001c036364",
+      "commentId": "6836fec9000000001c036364",
+      "likes": 1,
+      "author": "INFOREST🥕"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不像宇哥都用来科研了[笑哭R]",
+      "sourceRef": "comment:68370161000000000900c134",
+      "commentId": "68370161000000000900c134",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "请问SG8001助教课会挂人吗[皱眉R]",
+      "sourceRef": "comment:69b802560000000031031fa9",
+      "commentId": "69b802560000000031031fa9",
+      "likes": 0,
+      "author": "Cathy东东"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一般不会",
+      "sourceRef": "comment:69b803b6000000000d03573e",
+      "commentId": "69b803b6000000000d03573e",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "好强啊jack老师",
+      "sourceRef": "comment:683dc681000000000103f5dd",
+      "commentId": "683dc681000000000103f5dd",
+      "likes": 0,
+      "author": "不是很帅"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不是很帅，是非常帅[偷笑R]",
+      "sourceRef": "comment:683dcc29000000000d0167c8",
+      "commentId": "683dcc29000000000d0167c8",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "太强了[哭惹R]不愧是数学系大佬",
+      "sourceRef": "comment:6836ff4200000000090388b5",
+      "commentId": "6836ff4200000000090388b5",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "倒也不是[笑哭R]之前是统计学专业，数学基础课很多没学过",
+      "sourceRef": "comment:68370186000000000b017f01",
+      "commentId": "68370186000000000b017f01",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "有点太牛了",
+      "sourceRef": "comment:6836fd9f0000000007029c90",
+      "commentId": "6836fd9f0000000007029c90",
+      "likes": 0,
+      "author": "啦啦啦"
+    },
+    {
+      "type": "sub_comment",
+      "text": "算是牺牲了一些科研时间[笑哭R]",
+      "sourceRef": "comment:6836ff2c00000000090382ec",
+      "commentId": "6836ff2c00000000090382ec",
+      "likes": 0,
+      "author": "jack"
+    },
+    {
+      "type": "comment",
+      "text": "jack老师太强了[暗中观察R]",
+      "sourceRef": "comment:683712d40000000008024ecf",
+      "commentId": "683712d40000000008024ecf",
+      "likes": 1,
+      "author": "某大学数学系小🐮 🐴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那还不是经常与🐮🐴老师讨论实变和泛函[偷笑R]",
+      "sourceRef": "comment:68371727000000000b014a9f",
+      "commentId": "68371727000000000b014a9f",
+      "likes": 0,
+      "author": "jack"
+    }
+  ]
+}

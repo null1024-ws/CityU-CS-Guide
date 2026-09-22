@@ -36,14 +36,15 @@
       "label": "暂无数据"
     },
     "attendance": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     }
   },
   "tips": [
-    "必修。作业与小组项目给分较松，闭卷期末常考 SQL、B+ 树、正则；只看 review PPT 不够。",
+    "必修。作业与小组项目给分较松，闭卷期末常考 SQL、B+ 树、正则；只看 review PPT 不够。无考勤。",
     "老师语速偏慢、有录播的学期体验更好；可视化类选题容易扎堆，高分需额外投入。"
   ],
   "sources": [
@@ -103,5 +104,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

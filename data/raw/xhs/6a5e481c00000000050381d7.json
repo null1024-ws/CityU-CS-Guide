@@ -1,0 +1,193 @@
+{
+  "note_id": "6a5e481c00000000050381d7",
+  "url": "https://www.xiaohongshu.com/explore/6a5e481c00000000050381d7?xsec_token=AB519-qIe6w_XcojMWOpQaky5qDtP3s_vOXmxNkjhWR7o=",
+  "fetched_at": 1790081226.7840116,
+  "search_item": {
+    "id": "6a5e481c00000000050381d7",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "论文分享|LLM不再调参，而是开始造算法了？",
+      "user": {
+        "nickName": "爱读论文的乌撒奇",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322aud9qd746g5qid1pc30f04f7719vg?imageView2/2/w/80/format/jpg",
+        "userId": "6a4d0e58000000000c003c04",
+        "nickname": "爱读论文的乌撒奇",
+        "xsecToken": "ABF8MgmBt43qsi-yLkGEljuHfzSddgkYxRCWXBSNtULfA="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "8",
+        "commentCount": "0",
+        "sharedCount": "6",
+        "liked": false,
+        "likedCount": "12"
+      },
+      "cover": {
+        "height": 878,
+        "width": 1632,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222046/9edc584cbfc0abdaef44ef6e2f573f07/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222046/2139a18cdf0ab96d18e0cccd8e998780/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 878,
+          "width": 1632,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222046/9edc584cbfc0abdaef44ef6e2f573f07/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222046/2139a18cdf0ab96d18e0cccd8e998780/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1402,
+          "width": 1122,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222046/9f0158ce79ded8c16d13a8a6a8d74c0b/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222046/4f654a1585e87a06e24232e3916c9afa/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-21"
+        }
+      ]
+    },
+    "xsecToken": "AB519-qIe6w_XcojMWOpQaky5qDtP3s_vOXmxNkjhWR7o=",
+    "index": 14,
+    "exposed": false,
+    "trackId": "6a5e481c00000000050381d7"
+  },
+  "note": {
+    "interactInfo": {
+      "likedCount": "12",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "8",
+      "commentCount": "",
+      "shareCount": "6"
+    },
+    "imageList": [
+      {
+        "fileId": "spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8",
+        "height": 878,
+        "width": 1632,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222047/d8044e4a50082c8910d771b49dd5ff9c/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222047/cf0b8d9baea6234f3002c8c32ed0c33a/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222047/d8044e4a50082c8910d771b49dd5ff9c/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nd_prv_wgth_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222047/cf0b8d9baea6234f3002c8c32ed0c33a/spectrum/1040g0k0322rn0u32n2005qid1pc30f04dr6njv8!nd_dft_wgth_jpg_3",
+        "stream": {}
+      },
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222047/c0ad14585aed8a3016232e6e151fd454/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8",
+        "height": 1402,
+        "width": 1122,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222047/0a6911320b9caeb04739711995db4621/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222047/c0ad14585aed8a3016232e6e151fd454/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222047/0a6911320b9caeb04739711995db4621/spectrum/1040g34o322rnfhqa6s105qid1pc30f04nd7bbq8!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      }
+    ],
+    "atUserList": [],
+    "time": 1784592053000,
+    "lastUpdateTime": 1784563740000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "论文分享|LLM不再调参，而是开始造算法了？",
+    "desc": "🗝️传统的多目标贝叶斯优化（MOBO），通常是研究者先设计好算法，再让算法寻找 Pareto 最优解。\n\t\n✔️但这篇论文换了个思路：不让大模型直接寻找“最佳材料”或“最优配方”，而让大模型自动设计寻找最优解的算法。\n\t\n⚒️论文框架：\n⭕外层：自动设计MOBO算法\n作者把Gemini 2.5 Flash放入“生成—验证—评测—进化”的闭环：\n准备算法模板与接口 → 选择表现较好的父算法 → LLM通过变异/交叉生成完整Python优化器 → 代码检查与去重 → 小预算试跑并用SMAC调参 → 在多个benchmark上评测HV、稳定性和运行时间 → 保留优秀算法继续迭代\n整个过程中，LLM负责“造算法”，进化策略负责筛选，SMAC负责优化生成算法内部的超参数，累计生成并评测了约900个候选算法。\n🔴内层：用生成的算法解决具体问题\n外层得到MOBO算法后，再将其用于真实的多目标黑盒优化：\n输入问题 → 选择候选点 → 评估目标函数 → 更新Pareto解集 → 循环至预算耗尽\n最关键的区别是：外层优化“算法”，内层优化“具体问题”。⁠⁠​\n\t\n📊结果怎么样？\n大模型生成了多种风格的算法，包括：\n-Improved-Scalarized-EI：基于GP、Tchebycheff标量化和EI；\n-MOEAD-EI Hybrid：融合MOEA/D与EI；\n-RF-LCB-PBI：使用随机森林，计算成本较低；\n-RF-ParEGO-Batch：速度更快，适合低成本部署。\n在12个合成问题上，MOEAD-EI Hybrid的平均归一化超体积达到0.971，高于主要对照qParEGO的0.869；在3个未见工程问题上，Improved-Scalarized-EI达到0.985。部分生成算法的运行时间甚至比qParEGO低一到两个数量级。⁠⁠​\n\t\n这篇论文也暴露了几个问题：\n最强算法之一经过额外筛选，存在post-hoc selection风险；\n生成代码出现固定随机种子、种群越界等问题，仍需人工修正；\nbaseline缺少qNEHVI、qEHVI等现代强方法；\n尚未覆盖复杂约束、噪声和混合变量；\n“快60倍”主要指优化器开销，不代表真实实验周期也缩短60倍。\n\t\n🔗arXiv：https://arxiv.org/abs/2607.08791\n#论文分享[话题]##贝叶斯优化[话题]##多目标优化[话题]##AI4Science[话题]##材料科学[话题]##科研干货[话题]##LLM[话题]##自动算法设计[话题]#",
+    "user": {
+      "userId": "6a4d0e58000000000c003c04",
+      "nickname": "爱读论文的乌撒奇",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322aud9qd746g5qid1pc30f04f7719vg",
+      "xsecToken": "ABqv1ji_-kQzTmvjjvXVhRlIL6wTiK-X606gWcpvLaNw8="
+    },
+    "tagList": [
+      {
+        "name": "论文分享",
+        "type": "topic",
+        "id": "6388240800000000010058c5"
+      },
+      {
+        "id": "619cd0240000000001008840",
+        "name": "贝叶斯优化",
+        "type": "topic"
+      },
+      {
+        "id": "622c4fda000000000101f85a",
+        "name": "多目标优化",
+        "type": "topic"
+      },
+      {
+        "id": "63df177e000000000100b083",
+        "name": "AI4Science",
+        "type": "topic"
+      },
+      {
+        "id": "5c768d4f000000000d032df1",
+        "name": "材料科学",
+        "type": "topic"
+      },
+      {
+        "name": "科研干货",
+        "type": "topic",
+        "id": "613b22d6000000000101d4e0"
+      },
+      {
+        "id": "5e4b88d100000000010023d8",
+        "name": "LLM",
+        "type": "topic"
+      },
+      {
+        "id": "67ee9e480000000004019dd9",
+        "name": "自动算法设计",
+        "type": "topic"
+      }
+    ],
+    "noteStatement": "作者声明：含ai生成内容",
+    "noteId": "6a5e481c00000000050381d7",
+    "type": "normal",
+    "xsecToken": "AB519-qIe6w_XcojMWOpQaky5qDtP3s_vOXmxNkjhWR7o="
+  },
+  "comments": [],
+  "search_query": "CS5282 优化算法"
+}

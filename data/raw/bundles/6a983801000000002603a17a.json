@@ -1,0 +1,42 @@
+{
+  "note_id": "6a983801000000002603a17a",
+  "url": "https://www.xiaohongshu.com/explore/6a983801000000002603a17a?xsec_token=ABLFimG2EzKKP_5MBxVuPYv9Zyvm-_BEqMo1F08VCVEQ4=",
+  "fetched_at": 1790080580.384321,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "赶在研究生开学前刷完cs231n",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "很好的课程，完整开源了视频和作业资源，内容很前沿学完收获颇丰。就是坚持纯手搓代码太苦逼了 colab 还老是断线 [扶墙R]\n#cs231n[话题]# #stanford[话题]# #计算机视觉[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "佬为啥不看224呢，我现在还在看189但是感觉进度有些慢啊[哭惹R]",
+      "sourceRef": "comment:6aa27936000000000a02405d",
+      "commentId": "6aa27936000000000a02405d",
+      "likes": 0,
+      "author": "二线摸鱼"
+    },
+    {
+      "type": "sub_comment",
+      "text": "224感觉没啥必要哇 231刷完可以开336了",
+      "sourceRef": "comment:6aa27ac1000000000b01fb62",
+      "commentId": "6aa27ac1000000000b01fb62",
+      "likes": 1,
+      "author": "Rick992"
+    },
+    {
+      "type": "comment",
+      "text": "我也是看这门课入门的深度学习[派对R]看完才发现李飞飞就讲两节课[哭惹R]",
+      "sourceRef": "comment:6a98591300000000150237f5",
+      "commentId": "6a98591300000000150237f5",
+      "likes": 2,
+      "author": "Chris_"
+    }
+  ]
+}

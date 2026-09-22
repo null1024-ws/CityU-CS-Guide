@@ -1,0 +1,382 @@
+{
+  "note_id": "6a855e82000000002403e108",
+  "url": "https://www.xiaohongshu.com/explore/6a855e82000000002403e108?xsec_token=ABo2fBaMP1QpDqasKVgvVd837Ad_cHejsZLXYHA2MOO58=",
+  "fetched_at": 1790080912.361226,
+  "search_item": {
+    "noteCard": {
+      "type": "normal",
+      "user": {
+        "nickName": "momo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3242c531a7u005onscah3oor2tvhvoco?imageView2/2/w/80/format/jpg",
+        "userId": "62fc62a2000000000f006362",
+        "nickname": "momo",
+        "xsecToken": "ABeQ8UzmkambRKzYFW5CS9nGm3dKY9xNWYlTQrI0X18oc="
+      },
+      "interactInfo": {
+        "likedCount": "7",
+        "collected": false,
+        "collectedCount": "3",
+        "commentCount": "8",
+        "sharedCount": "0",
+        "liked": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222041/231a8e3f432846407f7e0b2fbcc30f68/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222041/bb69f04bc9890bf58ea5a667b371b3aa/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      },
+      "imageList": [
+        {
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222041/231a8e3f432846407f7e0b2fbcc30f68/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222041/bb69f04bc9890bf58ea5a667b371b3aa/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 1600
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "08-20",
+          "type": "publish_time"
+        }
+      ]
+    },
+    "xsecToken": "ABo2fBaMP1QpDqasKVgvVd837Ad_cHejsZLXYHA2MOO58=",
+    "id": "6a855e82000000002403e108",
+    "modelType": "note",
+    "index": 13,
+    "exposed": false,
+    "trackId": "6a855e82000000002403e108"
+  },
+  "note": {
+    "tagList": [
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "name": "港硕",
+        "type": "topic",
+        "id": "609a5fee00000000010020ea"
+      },
+      {
+        "id": "5bea5e2186535d0001bf235d",
+        "name": "留学",
+        "type": "topic"
+      }
+    ],
+    "time": 1787125378000,
+    "lastUpdateTime": 1787195353000,
+    "type": "normal",
+    "title": "",
+    "desc": "想申香港cs msC，上限能到哪里，已经港城的cs有很大把握吗.\n中下211\n加权82+\n计算机相关专业两段相关大厂实习相关技术比赛省奖有一篇在投paoer\n#cs[话题]# #港硕[话题]# #留学[话题]#",
+    "user": {
+      "userId": "62fc62a2000000000f006362",
+      "nickname": "momo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3242c531a7u005onscah3oor2tvhvoco",
+      "xsecToken": "ABouvSJmoUSMSRqRD9WPWPrFRsN6bHiX4kHbWtELpyrSY="
+    },
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a855e82000000002403e108",
+    "interactInfo": {
+      "shareCount": "",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "7",
+      "relation": "none",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "3",
+      "commentCount": "8"
+    },
+    "imageList": [
+      {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222042/943d825550b359bd1e991626d8921ee5/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222042/7a811aa312ba7de1d301aa52c6f39a9c/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222042/943d825550b359bd1e991626d8921ee5/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222042/7a811aa312ba7de1d301aa52c6f39a9c/notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k83241tuqfonue05onscah3oor25omf9k0"
+      }
+    ],
+    "xsecToken": "ABo2fBaMP1QpDqasKVgvVd837Ad_cHejsZLXYHA2MOO58="
+  },
+  "comments": [
+    {
+      "id": "6a867464000000000100a02d",
+      "content": "hku cs ecic idt",
+      "subComments": [],
+      "pictures": [],
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "5d39d2f50000000016032925",
+        "nickname": "Ezeral（复活版",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kbtndjkj01g5n9pqbqlma95jnl5g8o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVEPelVsomji2GlDSn5-osiUbimxByR4EFkWXUowxKEM="
+      },
+      "subCommentCount": "0",
+      "noteId": "6a855e82000000002403e108",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "浙江",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "liked": false,
+      "createTime": 1787196516000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "可以",
+      "userInfo": {
+        "nickname": "计算机国央企题库",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323h0oft7n26g5q4irg2a6gjc8cjj3eg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXRcOYyA8Tz3_Tcbv4ZtEHd_qHjGKm0Fs-A-0czfrQz8=",
+        "userId": "6892dc04000000002803426c"
+      },
+      "id": "6a87dfa8000000000b014867",
+      "noteId": "6a855e82000000002403e108",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1787289513000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "likeCount": "0",
+      "subComments": [],
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "invalid": false,
+      "id": "6a8688450000000015001453",
+      "noteId": "6a855e82000000002403e108",
+      "content": "bg有点卡住了，26的港城cs基本上只要九本[捂脸R]，建议考虑港大cs，就多个考试，硬bar低一点点",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB7WrwgXI_kIE8PpXC8FWijjJ8jKO2rTc-lpWKT-2yALQ=",
+        "userId": "5f5f5e73000000000101c41c",
+        "nickname": "puffycactus",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5f5f5e73000000000101c41c.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1787201605000,
+      "status": 0,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "pictures": [],
+      "liked": false,
+      "ipLocation": "河南",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "港理工 除了dsa 其他试试",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "subComments": [],
+      "pictures": [],
+      "subCommentCount": "0",
+      "id": "6a867bc3000000001500d778",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1787198403000,
+      "ipLocation": "广东",
+      "noteId": "6a855e82000000002403e108",
+      "userInfo": {
+        "xsecToken": "ABiJvg-H7RRm04q9GUyJIRO9PEyZNZtSZGGXoQnO7zqpE=",
+        "userId": "6520230d00000000240162c0",
+        "nickname": "🍃（offer显化中）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fvbnb4a0g005p904c6p2om0a3n0ip0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCursor": "",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a86a9be000000001500ad5a",
+      "noteId": "6a855e82000000002403e108",
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "content": "",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "673b247f000000001d02dcd5",
+        "nickname": "文依华航留学工作室",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322d1lki26s6g5ppr4hvndn6lcngv570?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIWsvirfyDRYrHO76OgkPIDaqEW0JCT_S3FH0c06poHw="
+      },
+      "subComments": [],
+      "pictures": [
+        {
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222042/c54ac6ca67334e8eb0714da6f21f2760/comment/1040g2h032436eeus6u505ppr4hvndn6lb7rpia8!nd_whlt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222042/352e5a0cbf4449145c2b91dc173ecc02/comment/1040g2h032436eeus6u505ppr4hvndn6lb7rpia8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222042/c54ac6ca67334e8eb0714da6f21f2760/comment/1040g2h032436eeus6u505ppr4hvndn6lb7rpia8!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "height": 618,
+          "width": 783,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222042/352e5a0cbf4449145c2b91dc173ecc02/comment/1040g2h032436eeus6u505ppr4hvndn6lb7rpia8!nc_n_webp_mw_1"
+        }
+      ],
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1787210175000,
+      "invalid": false,
+      "status": -2,
+      "ipLocation": "浙江",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a855e82000000002403e108",
+      "liked": false,
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222042/85cb12cc48b7427412b82c825dc6a497/comment/1040g2h032432n1venk505qcnsl2of3p8dt9u10g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222042/8f218e8f4bfd4118f14218ec7af20d4b/comment/1040g2h032432n1venk505qcnsl2of3p8dt9u10g!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 432,
+          "width": 431,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222042/85cb12cc48b7427412b82c825dc6a497/comment/1040g2h032432n1venk505qcnsl2of3p8dt9u10g!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222042/8f218e8f4bfd4118f14218ec7af20d4b/comment/1040g2h032432n1venk505qcnsl2of3p8dt9u10g!nd_whgt34_webp_wm_1"
+        }
+      ],
+      "invalid": false,
+      "content": "",
+      "userInfo": {
+        "userId": "6997e5450000000021038f28",
+        "nickname": "奥斯兰德硕博留学申请",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/69b0230b6927060001fba4e9.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwpC2cQl7-IKvJuXA01CSWLs-O_Wi2FfLzfvT-TQFWB8="
+      },
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6a868b5a000000000f0305ac",
+      "atUsers": [],
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "北京",
+      "subComments": [],
+      "status": -2,
+      "createTime": 1787202395000,
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a855e82000000002403e108",
+      "liked": false,
+      "subCommentCount": "0",
+      "pictures": [],
+      "id": "6a86716e0000000014031421",
+      "subCommentCursor": "",
+      "invalid": false,
+      "subComments": [],
+      "status": -2,
+      "content": "自己申吗",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "67343bc1000000001c01a8cd",
+        "nickname": "呆呆nini",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3249nrpsg7c6g5ppk7f0n3a6dogggs20?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpwvwHMERjI2trHpzEcqIpsMbigZ1R_Ffq-9ED8h60pY="
+      },
+      "ipLocation": "安徽",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1787195758000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "pictures": [],
+      "invalid": false,
+      "content": "宝你现在考虑自己申吗？",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "广东",
+      "id": "6a856a59000000001500d85d",
+      "noteId": "6a855e82000000002403e108",
+      "status": -2,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABHOjQQhzXz3BrnK7U5unHjHoj2dZtn3F0L2dJNHTBfuc=",
+        "userId": "61d8775f000000001000ffc1",
+        "nickname": "尚玉璞志留学咨询",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hlc2tg93u005oeoetfk1vu1v2eqt3g?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1787128409000,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "城大CS5185"
+}

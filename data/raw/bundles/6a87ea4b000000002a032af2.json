@@ -1,0 +1,29 @@
+{
+  "note_id": "6a87ea4b000000002a032af2",
+  "url": "https://www.xiaohongshu.com/explore/6a87ea4b000000002a032af2?xsec_token=ABJN40TTOabyPghy3EsvgQcjxeeqpRWQXZGy0RM9y6_Qs=",
+  "fetched_at": 1790081767.906588,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_body",
+      "text": "#香港城市大学东莞[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5487 王凯的话 夯；5485不清楚 反正我也得上[笑哭R]",
+      "sourceRef": "comment:6a87ef1d000000001403ae04",
+      "commentId": "6a87ef1d000000001403ae04",
+      "likes": 1,
+      "author": "Brench"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一心想实习的话，cs专业哪些课必选有推荐吗，学长",
+      "sourceRef": "comment:6a87f217000000001402cb35",
+      "commentId": "6a87f217000000001402cb35",
+      "likes": 0,
+      "author": "Odysseus"
+    }
+  ]
+}

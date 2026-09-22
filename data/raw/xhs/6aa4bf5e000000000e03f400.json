@@ -1,0 +1,213 @@
+{
+  "note_id": "6aa4bf5e000000000e03f400",
+  "url": "https://www.xiaohongshu.com/explore/6aa4bf5e000000000e03f400?xsec_token=ABwVR_LnmVzHeOrnLavafFxeOpwrx9ddiHZQY2FJEJBqw=",
+  "fetched_at": 1790080707.7793813,
+  "search_item": {
+    "id": "6aa4bf5e000000000e03f400",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 1940,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222038/560bb431805fd158bc6b115d26a49b1f/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222038/a738cc12c7f62c289e14aef8553b14fc/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1940,
+          "width": 2560,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222038/560bb431805fd158bc6b115d26a49b1f/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222038/a738cc12c7f62c289e14aef8553b14fc/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "GT omscs 课程推荐 CS6515",
+      "user": {
+        "nickName": "Friegg",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o?imageView2/2/w/80/format/jpg",
+        "userId": "6677a1000000000007004265",
+        "nickname": "Friegg",
+        "xsecToken": "ABApv0xJ_AR-Y8XVXxzgjVSsOIewNpOfdSFJg1pxSE_xs="
+      },
+      "interactInfo": {
+        "likedCount": "5",
+        "collected": false,
+        "collectedCount": "6",
+        "commentCount": "2",
+        "sharedCount": "1",
+        "liked": false
+      }
+    },
+    "xsecToken": "ABwVR_LnmVzHeOrnLavafFxeOpwrx9ddiHZQY2FJEJBqw=",
+    "index": 14,
+    "exposed": false,
+    "trackId": "6aa4bf5e000000000e03f400"
+  },
+  "note": {
+    "atUserList": [],
+    "time": 1789181790000,
+    "lastUpdateTime": 1789560023000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6aa4bf5e000000000e03f400",
+    "type": "normal",
+    "title": "GT omscs 课程推荐 CS6515",
+    "desc": "这篇写computer system每位同学都绕不过的这门Graduate Algorithm 算法课\n\t\n想要上课就要先选的上，大部分人只能在最后几门课的时候才能顺利通过waitlist，对我而言是倒数第二门课\n\t\n6311是门水课，6250是热门水课，那6515就是我上过最硬的课，需要你花费大量的时间准备考试才能通过\n\t\n26fall成绩占比\nQuiz 10%\nExam 90% 五次闭卷考试\nHomework 0%\n\t\n主要是学各种算法和算法设计\n比较重要的内容包括\nDynamic programming\nDivide & conquer\nGraph Algorithms\nMax flow Algorithms\nLinear Programming\nNP Complexity Theory\n\t\n这门课和你平时刷 LeetCode 的感觉不太一样。不是给你一道题，让你噼里啪啦写代码把它实现出来，而是给你一个算法，然后让你证明一下为啥是对的\n\t\n上课的自由程度非常大，你可以不看课件，不写homework，只要你在考前写完quiz，突击花费时间准备就可以了。但你要花多少时间呢，因人而异咯\n\t\n特别说说study group，这门课特别适合找人一起讨论作业，甚至老师会发帖子帮助大家寻找课友，只要你们不是一起讨论考试哈哈哈哈哈哈哈\n\t\n#omscs[话题]# #omscs选课[话题]# #omscs毕业[话题]# #georgiatech[话题]# #北美程序员[话题]# #转码[话题]# #算法[话题]#",
+    "tagList": [
+      {
+        "id": "5fe2511f0000000001005622",
+        "name": "omscs",
+        "type": "topic"
+      },
+      {
+        "id": "6167bf29000000000100133d",
+        "name": "omscs选课",
+        "type": "topic"
+      },
+      {
+        "id": "684f4fa6000000001201ae89",
+        "name": "omscs毕业",
+        "type": "topic"
+      },
+      {
+        "id": "5ff4c96c0000000001005e3f",
+        "name": "georgiatech",
+        "type": "topic"
+      },
+      {
+        "name": "北美程序员",
+        "type": "topic",
+        "id": "615df356000000000101c62f"
+      },
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "id": "5c1a11ad0000000003018202",
+        "name": "算法",
+        "type": "topic"
+      }
+    ],
+    "ipLocation": "美国",
+    "user": {
+      "userId": "6677a1000000000007004265",
+      "nickname": "Friegg",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o",
+      "xsecToken": "ABR7EWS-viqVL5gYenzKeO-Ywl8cpXW0WXPvDyNXpSri4="
+    },
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "shareCount": "1",
+      "followed": false,
+      "liked": false,
+      "likedCount": "5",
+      "collected": false,
+      "collectedCount": "6",
+      "commentCount": "2"
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222038/7f0ecadadf8bfc513c836904156f6cb6/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222038/9c689aafa94e12f03cf00528ca70da25/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222038/7f0ecadadf8bfc513c836904156f6cb6/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1940,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222038/9c689aafa94e12f03cf00528ca70da25/oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo!nd_dft_wgth_jpg_3",
+        "fileId": "oss-ae/notes_pre_post/1040g3v83250hqfk7j60g5pjnk401ogj5sk39meo",
+        "width": 2560
+      }
+    ],
+    "xsecToken": "ABwVR_LnmVzHeOrnLavafFxeOpwrx9ddiHZQY2FJEJBqw="
+  },
+  "comments": [
+    {
+      "id": "6aaa10e9000000000d023800",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/60d6b94b278947a5d9edcbdc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFrGzwVHsFYvAHMbM8HkbsGs7QEjet5fIBI1ldLLICGU=",
+        "userId": "5ab517a94eacab469f3f3185",
+        "nickname": "圆圆的龙猫子"
+      },
+      "subCommentCursor": "6aaa84e6000000000d023400",
+      "subCommentHasMore": false,
+      "content": "这学期是5次考试",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "Friegg",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3OV2Fnt2WopvyVrwSyxDJYZH7nguQUTjA2UxcJ7owYA=",
+            "userId": "6677a1000000000007004265"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6aaa10e9000000000d023800",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABFrGzwVHsFYvAHMbM8HkbsGs7QEjet5fIBI1ldLLICGU=",
+              "userId": "5ab517a94eacab469f3f3185",
+              "nickname": "圆圆的龙猫子",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/60d6b94b278947a5d9edcbdc.jpg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6aaa84e6000000000d023400",
+          "noteId": "6aa4bf5e000000000e03f400",
+          "content": "感谢纠正！",
+          "createTime": 1789560038000,
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "noteId": "6aa4bf5e000000000e03f400",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1789530346000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 选课"
+}

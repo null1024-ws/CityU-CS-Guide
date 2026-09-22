@@ -1,0 +1,86 @@
+{
+  "note_id": "6a8d7d14000000002003cb68",
+  "url": "https://www.xiaohongshu.com/explore/6a8d7d14000000002003cb68?xsec_token=AB7BlYFH7DwxUu5jLqfi1bKd-VS8YCCjHqy4DQ6MdgEzg=",
+  "fetched_at": 1790081335.7358124,
+  "course_codes": [
+    "CS5187",
+    "CS5222",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "城大CS硕课表",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "捞一下相同课的课友！#选课[话题]# #城大[话题]# #香港城市大学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "同选了ec5001和cs5187，不过5187我选的晚上的课",
+      "sourceRef": "comment:6a8d8143000000000b01648b",
+      "commentId": "6a8d8143000000000b01648b",
+      "likes": 0,
+      "author": "闲来无适"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ec5001要是有组队作业可以一起呀",
+      "sourceRef": "comment:6a8d86a5000000001500dad3",
+      "commentId": "6a8d86a5000000001500dad3",
+      "likes": 0,
+      "author": "whileloop"
+    },
+    {
+      "type": "comment",
+      "text": "宝子 请问必修课是不是不需要自己抢的呀？谢谢",
+      "sourceRef": "comment:6a8d7fa5000000000b01fde7",
+      "commentId": "6a8d7fa5000000000b01fde7",
+      "likes": 0,
+      "author": "DongMian"
+    },
+    {
+      "type": "sub_comment",
+      "text": "必须课是学校给注册",
+      "sourceRef": "comment:6a8d82ea000000000b011113",
+      "commentId": "6a8d82ea000000000b011113",
+      "likes": 0,
+      "author": "whileloop"
+    },
+    {
+      "type": "comment",
+      "text": "周二三五课一样[派对R]",
+      "sourceRef": "comment:6a8dbc10000000001402d7f9",
+      "commentId": "6a8dbc10000000001402d7f9",
+      "likes": 0,
+      "author": "🎄"
+    },
+    {
+      "type": "comment",
+      "text": "课差不多多了5285",
+      "sourceRef": "comment:6a92f9130000000015002a9d",
+      "commentId": "6a92f9130000000015002a9d",
+      "likes": 0,
+      "author": "听风 丶"
+    },
+    {
+      "type": "comment",
+      "text": "除了cs5222都一样",
+      "sourceRef": "comment:6a8db185000000000b011f1e",
+      "commentId": "6a8db185000000000b011f1e",
+      "likes": 0,
+      "author": "蘑菇"
+    },
+    {
+      "type": "comment",
+      "text": "差不多，软工申了免修，结果还没下来[呃R]",
+      "sourceRef": "comment:6a8e36fb000000000b01558b",
+      "commentId": "6a8e36fb000000000b01558b",
+      "likes": 1,
+      "author": "请设置2-24个字符"
+    }
+  ]
+}

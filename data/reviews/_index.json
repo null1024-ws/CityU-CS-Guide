@@ -6,12 +6,12 @@
   },
   {
     "code": "CS5351",
-    "coveredFields": 5,
+    "coveredFields": 6,
     "sourceCount": 10
   },
   {
     "code": "CS5481",
-    "coveredFields": 4,
+    "coveredFields": 5,
     "sourceCount": 6
   },
   {
@@ -117,7 +117,7 @@
   {
     "code": "CS5187",
     "coveredFields": 6,
-    "sourceCount": 6
+    "sourceCount": 5
   },
   {
     "code": "CS5486",
@@ -131,7 +131,7 @@
   },
   {
     "code": "CS5488",
-    "coveredFields": 2,
+    "coveredFields": 5,
     "sourceCount": 3
   },
   {

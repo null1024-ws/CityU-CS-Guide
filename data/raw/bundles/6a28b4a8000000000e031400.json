@@ -1,0 +1,74 @@
+{
+  "note_id": "6a28b4a8000000000e031400",
+  "url": "https://www.xiaohongshu.com/explore/6a28b4a8000000000e031400?xsec_token=ABI8RJTCDmFCWH6nf00BL--w7Ckq000GwOT3ZYADL9M3g=",
+  "fetched_at": 1790081286.9340909,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港科大DDM就读体验（上）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "本人申请时BG：9本无科研0实习，某传统工科专业，半自学数理统计转行，目前留港从事数据科学工作。\n\t\n5001 计算与建模工具导论（必修）\n课程内容很杂，理论方面主要涉及到硬件原理（类似计组），实操方面有教SQL、Bash命令、虚拟机等，对非CS同学是扫盲课。记得有两次quiz，都不是很难。\n\t\n5002 科学编程与可视化（必修）\n有意思的课，教授说上这门课只是因为爱好编程和可视化。会讲Python的编程和可视化，讲的很底层，比如教你python的底层是怎么储存数据和优化存取速度的，访问的是内存还是内存地址等等，超好拿分。\n5003 随机过程与应用（必修）\n\t\n两位教授分别讲前后半段。前半段是随机过程理论，从随机游走模型和统计物理开始讲，偏物理。后半段讲到随机过程在物理和金融领域的建模和应用。本人只学过大物，体感比较难，期末会有两人一组的project presentation，但没有考试。\n\t\n5051 数据结构与算法（选修）\n教师是港科的网红物理教授，同样也是教与本专业不相关的知识。常规的数据结构和算法课，可以靠上中文网课准备几次quiz，期末有个模拟算法面试，难度肯定比不上实习面试但要用英语。\n\t\n5054 统计机器学习（选修）\n秋季只有含金量的课，把这门课教过的知识点都学会你就入门机器学习了。知识体系是很典型的从线性回归模型讲起，讲到逻辑回归、聚类、PCA、SVD、决策树、随机森林等，最后到Transformer。这门课考试是最难的，有期中和期末，有两种计分方式，要么期中30期末40，要么all in期末70，取分高的方式作为最终分数。教授会故意把期中出的超难来打压心态，然后期末出的超简单。考试形态是前半段开卷笔试后半段编程，编程期中的时候只给查文档，期末允许用AI了。",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "您好，请问土木可以跨申这个专业吗[萌萌哒R]",
+      "sourceRef": "comment:6aa37d4c0000000015004f39",
+      "commentId": "6aa37d4c0000000015004f39",
+      "likes": 0,
+      "author": "小吻"
+    },
+    {
+      "type": "sub_comment",
+      "text": "目前没看到过",
+      "sourceRef": "comment:6aaabf72000000001202bfc0",
+      "commentId": "6aaabf72000000001202bfc0",
+      "likes": 0,
+      "author": "Sandox Flanders"
+    },
+    {
+      "type": "comment",
+      "text": "学姐/学长，有没有ddm的大群能拉一下啊，26fall新人找不到组织[害羞R]",
+      "sourceRef": "comment:6a66fdd30000000015009feb",
+      "commentId": "6a66fdd30000000015009feb",
+      "likes": 1,
+      "author": "hobby"
+    },
+    {
+      "type": "comment",
+      "text": "26fall ddmer 在此[doge]求问香港的DS是不是在薪资上和深圳差不多啊",
+      "sourceRef": "comment:6a28c5a5000000002701fb67",
+      "commentId": "6a28c5a5000000002701fb67",
+      "likes": 0,
+      "author": "南风cck"
+    },
+    {
+      "type": "sub_comment",
+      "text": "看行业和公司，在深圳互联网搞DS大概率能拿到比香港高的工资，传统一点的行业就不一定了；香港在保险和金融业搞DS也可能有比内地高的工资，比如去量化机构等",
+      "sourceRef": "comment:6a28c85e000000000d021c00",
+      "commentId": "6a28c85e000000000d021c00",
+      "likes": 2,
+      "author": "Sandox Flanders"
+    },
+    {
+      "type": "comment",
+      "text": "想问问必修课修起来的体感，学长推不推荐修edx？",
+      "sourceRef": "comment:6a44d2ea00000000150001c0",
+      "commentId": "6a44d2ea00000000150001c0",
+      "likes": 0,
+      "author": "Tracy崔西"
+    },
+    {
+      "type": "sub_comment",
+      "text": "本专业这届无edx，隔壁BDT和IT才有",
+      "sourceRef": "comment:6a4515f9000000000d022c00",
+      "commentId": "6a4515f9000000000d022c00",
+      "likes": 0,
+      "author": "Sandox Flanders"
+    }
+  ]
+}

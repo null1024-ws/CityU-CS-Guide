@@ -1,0 +1,239 @@
+{
+  "note_id": "6a81cf440000000024025a16",
+  "url": "https://www.xiaohongshu.com/explore/6a81cf440000000024025a16?xsec_token=ABQZCZ_iv7Bj9HC9CnQjzVNRG67NBLPXLI9xoDFz3yYGc=",
+  "fetched_at": 1790081864.8447132,
+  "search_item": {
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1402,
+          "width": 2614,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/c8eed1553e0fcb06c05b4b17abc0be09/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/8a9ba9584a51b912804da03212a27d94/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 2464,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/64e4da63d9e8c40eddf4f08ee51028d4/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/76b0d4cce17f747d98c86bfbaf431837/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1812
+        },
+        {
+          "height": 1666,
+          "width": 2392,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/71a2644fb292666f230f8e4bbe41e937/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222057/ebe182ce67e91d43632396d6fb90ddf5/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-16"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "UIUC26年还在教学生基础算法课",
+      "user": {
+        "nickName": "路加",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63328954ca73c7bd3c53cfbf.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "6332880e0000000015014eca",
+        "nickname": "路加",
+        "xsecToken": "AB301Qq-xhp8P-QgriyYxsTnJiCpUFFEuV0GjjsdjeWJk="
+      },
+      "interactInfo": {
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "34",
+        "collected": false,
+        "collectedCount": "35",
+        "commentCount": "1"
+      },
+      "cover": {
+        "height": 1402,
+        "width": 2614,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222057/c8eed1553e0fcb06c05b4b17abc0be09/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222057/8a9ba9584a51b912804da03212a27d94/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABQZCZ_iv7Bj9HC9CnQjzVNRG67NBLPXLI9xoDFz3yYGc=",
+    "id": "6a81cf440000000024025a16",
+    "modelType": "note",
+    "index": 12,
+    "exposed": false,
+    "trackId": "6a81cf440000000024025a16"
+  },
+  "note": {
+    "noteId": "6a81cf440000000024025a16",
+    "title": "UIUC26年还在教学生基础算法课",
+    "desc": "伊利诺伊大学香槟分校 Spring 2026 的 CS/ECE 374：Introduction to Algorithms & Models of Computation 已经结束，逐讲录像、课堂笔记、Lab handouts 和作业题仍然公开。\n\t\n它不是把排序、树和图再讲一遍，而是训练两件更难的事：面对新问题怎样设计算法，以及怎样证明这个算法真的正确。\n\t\n课程前半段先建立计算模型：\n－字符串、归纳法和正则表达式\n－DFA、NFA 与上下文无关文法\n－图灵机与不可判定问题\n\t\n然后进入算法设计：\n－递归、分治与回溯\n－动态规划与贪心\n－DFS、拓扑排序和强连通分量\n－最短路、最小生成树和图建模\n－多项式时间归约、NP-complete 与 NP-hardness\n\t\n最有价值的是 12 次书面作业。\n\t\n它们从“用归纳法证明字符串性质”开始，逐步做到自动机构造、分治、动态规划、图算法、归约和不可判定性。题目不是让你套模板写几行代码，而是要求提出方案、分析复杂度，再把正确性证明写清楚。\n\t\n所以 CS374 更适合学完数据结构之后再上。你需要熟悉 Big-O、递归、树、图、BFS/DFS，并掌握集合、逻辑和归纳证明。只刷过题但没系统学过离散数学，前几周就会遇到明显门槛。\n\t\n#UIUC[话题]# #算法[话题]# #数据结构[话题]# #计算机专业[话题]# #计算机[话题]#",
+    "interactInfo": {
+      "collectedCount": "35",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "34",
+      "collected": false,
+      "commentCount": "1",
+      "shareCount": "4",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222057/78172169a2b45be0a01a38bed84c7006/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nd_prv_wgth_jpg_3",
+        "fileId": "spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo",
+        "height": 1402,
+        "width": 2614,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/78172169a2b45be0a01a38bed84c7006/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/2db4126d66dcbf68d4bd73333d177684/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222057/2db4126d66dcbf68d4bd73333d177684/spectrum/1040g0k0323uendlsn0005opih075ajma5uvnimo!nd_dft_wgth_jpg_3",
+        "stream": {}
+      },
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222057/a8a36832f2e35a41eda2f89a558d2db5/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nd_dft_wgth_jpg_3",
+        "height": 1812,
+        "traceId": "",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g",
+        "width": 2464,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/394edde73e7a1ff2f41be4155a4584c5/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/a8a36832f2e35a41eda2f89a558d2db5/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222057/394edde73e7a1ff2f41be4155a4584c5/spectrum/1040g34o323ueneqo0m105opih075ajmajktl58g!nd_prv_wgth_jpg_3"
+      },
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/2527afce44a338dca4065e2b2f305946/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222057/1e24a9cd43eb1050a37dbb6071221f78/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222057/1e24a9cd43eb1050a37dbb6071221f78/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nd_dft_wgth_jpg_3",
+        "height": 1666,
+        "width": 2392,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222057/2527afce44a338dca4065e2b2f305946/spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "spectrum/1040g0k0323uene6qgm005opih075ajmaf5glpbg"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5dca8e0a000000000100880f",
+        "name": "UIUC",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5c1a11ad0000000003018202",
+        "name": "算法"
+      },
+      {
+        "id": "5ec09adf0000000001006d09",
+        "name": "数据结构",
+        "type": "topic"
+      },
+      {
+        "id": "5ccedc00000000000d016f9e",
+        "name": "计算机专业",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      }
+    ],
+    "time": 1786892101000,
+    "type": "normal",
+    "user": {
+      "userId": "6332880e0000000015014eca",
+      "nickname": "路加",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/63328954ca73c7bd3c53cfbf.jpg",
+      "xsecToken": "ABZMUbjmRKYUbQ0fm4KWIbepYvcOlq8OMX4lHHKKFZwvs="
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1786892101000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABQZCZ_iv7Bj9HC9CnQjzVNRG67NBLPXLI9xoDFz3yYGc="
+  },
+  "comments": [
+    {
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "676da2770000000018017d50",
+        "nickname": "小红薯676DFABC",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323hph6eenu005prdk9rm2vagdsbrac0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxgg7WJ2Y8v0IK6qJgh_OlbQfzG_7ThU3PK4M22JlDpA="
+      },
+      "ipLocation": "美国",
+      "noteId": "6a81cf440000000024025a16",
+      "status": 0,
+      "content": "听说这课TA小哥哥很帅",
+      "createTime": 1787180649000,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a863668000000000d023401",
+      "liked": false,
+      "showTags": [],
+      "subComments": [],
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 Algorithms & Techniques"
+}

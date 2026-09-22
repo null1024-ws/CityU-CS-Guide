@@ -1,0 +1,516 @@
+{
+  "note_id": "6a9828f2000000002a02442a",
+  "url": "https://www.xiaohongshu.com/explore/6a9828f2000000002a02442a?xsec_token=ABLFimG2EzKKP_5MBxVuPYv-xQbbRuL2CQq225bvDAsAs=",
+  "fetched_at": 1790083085.694008,
+  "search_item": {
+    "xsecToken": "ABLFimG2EzKKP_5MBxVuPYv-xQbbRuL2CQq225bvDAsAs=",
+    "id": "6a9828f2000000002a02442a",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "利物浦y2 cs选课求助",
+      "user": {
+        "nickName": "沉积岩cc",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/80/format/jpg",
+        "userId": "61b7f333000000001000898c",
+        "nickname": "沉积岩cc",
+        "xsecToken": "ABRmCf0fZ3ATiAwEb3zB2pxjtu-S5aAjh7Ie29YiVdCdA="
+      },
+      "interactInfo": {
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "6",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "17"
+      },
+      "cover": {
+        "height": 1920,
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222118/2204a79b81aa40ef59549266ed49abb1/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222118/c345393160486288794c1dcfdd1ea554/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1920,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222118/2204a79b81aa40ef59549266ed49abb1/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222118/c345393160486288794c1dcfdd1ea554/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-02"
+        }
+      ],
+      "type": "normal"
+    },
+    "index": 39,
+    "exposed": false,
+    "trackId": "6a9828f2000000002a02442a"
+  },
+  "note": {
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "6",
+      "collected": false,
+      "commentCount": "17",
+      "shareCount": "4",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "height": 1920,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222118/81917ed23c21df92ec66f79085d8dcb5/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222118/6df86e11149a07779d5f559deb811ef6/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222118/6df86e11149a07779d5f559deb811ef6/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222118/81917ed23c21df92ec66f79085d8dcb5/notes_pre_post/1040g3k8324k93ki57alg5odnucpk12cc1qegdug!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "677be2d0000000000401dbc3",
+        "name": "西交利物浦2➕2",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5b8664d4e39faf6352d26785",
+        "name": "利物浦"
+      },
+      {
+        "name": "利物浦大学cs",
+        "type": "topic",
+        "id": "652eaff1000000000b033090"
+      },
+      {
+        "id": "5cd30b11000000000f02eeb8",
+        "name": "cs",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "id": "5c5c2730000000000f016e63",
+        "name": "西交利物浦",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5d2f5530000000001803198a",
+        "name": "利物浦大学"
+      },
+      {
+        "type": "topic",
+        "id": "6021325a0000000001000a0b",
+        "name": "uol"
+      },
+      {
+        "id": "61db0cfd000000000100ba18",
+        "name": "xjtlu",
+        "type": "topic"
+      }
+    ],
+    "ipLocation": "北京",
+    "type": "normal",
+    "desc": "请问一下学长学姐们这样选课怎么样，拿分是否会轻松一点\n另外comp218和comp229更推荐哪一门呢，我了解到的是218好拿分，但是我比较想学229，不知道229的课程设置怎么样\n#选课[话题]# #西交利物浦2➕2[话题]# #利物浦[话题]# #利物浦大学cs[话题]# #cs[话题]# #计算机[话题]# #西交利物浦[话题]# #利物浦大学[话题]# #uol[话题]# #xjtlu[话题]#",
+    "atUserList": [],
+    "time": 1788356851000,
+    "lastUpdateTime": 1788356851000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a9828f2000000002a02442a",
+    "title": "利物浦y2 cs选课求助",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg",
+      "xsecToken": "AB55ToLaDpg8Bh763MRxI4PuYgBJfMCjGNk8vmAFCo_O8=",
+      "userId": "61b7f333000000001000898c",
+      "nickname": "沉积岩cc"
+    },
+    "xsecToken": "ABLFimG2EzKKP_5MBxVuPYv-xQbbRuL2CQq225bvDAsAs="
+  },
+  "comments": [
+    {
+      "subCommentHasMore": false,
+      "likeCount": "0",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1788359962000,
+          "invalid": false,
+          "status": 0,
+          "content": "学姐求带[皱眉R][皱眉R]",
+          "userInfo": {
+            "userId": "61b7f333000000001000898c",
+            "nickname": "沉积岩cc",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX_CFwj0RRLDeaR4F44NN3ocyGPDpyAIpdjazM-eSRvk="
+          },
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a9834290000000015004ce8",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABSJe5cKsEupmTN86Rl0R-xMB2KNynp5WZBOU12cP2ExY=",
+              "userId": "589696135e87e737db713248",
+              "nickname": "火鸡面大王",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kpqi5inj600493npab16ci8ila7d2o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6a98351a000000000b0124c4",
+          "noteId": "6a9828f2000000002a02442a",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "subCommentCursor": "6a98351a000000000b0124c4",
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "589696135e87e737db713248",
+        "nickname": "火鸡面大王",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kpqi5inj600493npab16ci8ila7d2o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSJe5cKsEupmTN86Rl0R-xMB2KNynp5WZBOU12cP2ExY="
+      },
+      "createTime": 1788359722000,
+      "showTags": [],
+      "invalid": false,
+      "id": "6a9834290000000015004ce8",
+      "noteId": "6a9828f2000000002a02442a",
+      "status": 0,
+      "content": "学姐来了[偷笑R]",
+      "ipLocation": "福建",
+      "subCommentCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a98448b0000000015015bee",
+      "noteId": "6a9828f2000000002a02442a",
+      "ipLocation": "英国",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "61b7f333000000001000898c",
+            "nickname": "沉积岩cc",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX_CFwj0RRLDeaR4F44NN3ocyGPDpyAIpdjazM-eSRvk="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "北京",
+          "id": "6a9844ec000000000f0335fb",
+          "noteId": "6a9828f2000000002a02442a",
+          "createTime": 1788364012000,
+          "targetComment": {
+            "id": "6a98448b0000000015015bee",
+            "userInfo": {
+              "nickname": "AK.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rinco67u605o3tr5rgbok323h9ja0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABuHgdm1gvNbkWrw-yYy5N7lWvB2V3K72ZQO3a1cIaMjA=",
+              "userId": "607dd977000000000101e283"
+            }
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "好的谢谢",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0"
+        }
+      ],
+      "subCommentHasMore": false,
+      "status": 0,
+      "content": "218比较简单 不难 还是选择题",
+      "subCommentCursor": "6a9844ec000000000f0335fb",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1788363915000,
+      "subCommentCount": "1",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "607dd977000000000101e283",
+        "nickname": "AK.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322rinco67u605o3tr5rgbok323h9ja0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuHgdm1gvNbkWrw-yYy5N7lWvB2V3K72ZQO3a1cIaMjA="
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1788357960000,
+      "id": "6a982d470000000001008fef",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABNOHnJIAh3Hh-NeBiB8J3l08OYNJpzGZFAyokXbuA78E=",
+        "userId": "60a891b1000000000101da3e",
+        "nickname": "WENDY",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315oj3ncngu605o58i6ogbmhusi1i850?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "ipLocation": "英国",
+      "subCommentCount": "2",
+      "subCommentCursor": "6a982f80000000001303fdf8",
+      "noteId": "6a9828f2000000002a02442a",
+      "status": 0,
+      "content": "218好学的，把题做完基本就没问题",
+      "subComments": [
+        {
+          "content": "好的感谢学姐",
+          "createTime": 1788358529000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a982d470000000001008fef",
+            "userInfo": {
+              "userId": "60a891b1000000000101da3e",
+              "nickname": "WENDY",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo315oj3ncngu605o58i6ogbmhusi1i850?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNOHnJIAh3Hh-NeBiB8J3l08OYNJpzGZFAyokXbuA78E="
+            }
+          },
+          "noteId": "6a9828f2000000002a02442a",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABX_CFwj0RRLDeaR4F44NN3ocyGPDpyAIpdjazM-eSRvk=",
+            "userId": "61b7f333000000001000898c",
+            "nickname": "沉积岩cc",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "id": "6a982f80000000001303fdf8"
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB5cCTK58RtiJzeUhnKfcK2vJCtSpRxoRT0BmYzNOEALo=",
+        "userId": "69aad5030000000033027054",
+        "nickname": "LZ isPUNK",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321suspb1ne005qdaqk1sss2ko7oo0u8?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "createTime": 1789490124000,
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6aa973cb000000000f02ecd5",
+            "userInfo": {
+              "userId": "69aad5030000000033027054",
+              "nickname": "LZ isPUNK",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321suspb1ne005qdaqk1sss2ko7oo0u8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5cCTK58RtiJzeUhnKfcK2vJCtSpRxoRT0BmYzNOEALo="
+            }
+          },
+          "id": "6aa97bca000000001403a3d4",
+          "noteId": "6a9828f2000000002a02442a",
+          "content": "我选了229 想学一下ds的",
+          "liked": false,
+          "userInfo": {
+            "nickname": "沉积岩cc",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABX_CFwj0RRLDeaR4F44NN3ocyGPDpyAIpdjazM-eSRvk=",
+            "userId": "61b7f333000000001000898c"
+          },
+          "createTime": 1789492171000,
+          "ipLocation": "英国",
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "subCommentCursor": "6aa97bca000000001403a3d4",
+      "noteId": "6a9828f2000000002a02442a",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "我也是，最后你怎么选的呀？",
+      "liked": false,
+      "ipLocation": "美国",
+      "subCommentCount": "1",
+      "id": "6aa973cb000000000f02ecd5",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "subCommentCursor": "",
+      "id": "6aa973d6000000000f02ee14",
+      "noteId": "6a9828f2000000002a02442a",
+      "content": "218还是229？",
+      "liked": false,
+      "subCommentHasMore": false,
+      "createTime": 1789490134000,
+      "ipLocation": "美国",
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "69aad5030000000033027054",
+        "nickname": "LZ isPUNK",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321suspb1ne005qdaqk1sss2ko7oo0u8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5cCTK58RtiJzeUhnKfcK2vJCtSpRxoRT0BmYzNOEALo="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "xsecToken": "AB8YsFc38ugi638mPylAMwzWiWvdEnyRTKTCYgfuKccIc=",
+        "userId": "648d391f000000000f006440",
+        "nickname": "您好🌙",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32361tg45ms005p4d74fjop20jhb7djo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "createTime": 1788395611000,
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "[回招呼]",
+      "atUsers": [],
+      "likeCount": "1",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "6a9828f2000000002a02442a",
+      "status": 0,
+      "liked": false,
+      "ipLocation": "北京",
+      "id": "6a98c05a00000000150044d6",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "我为什么觉得218不好拿分啊，不过它补考确实简单",
+      "ipLocation": "英国",
+      "subCommentCursor": "6aa0b9c0000000001403bdb2",
+      "showTags": [],
+      "subComments": [
+        {
+          "likeCount": "0",
+          "createTime": 1788918208000,
+          "ipLocation": "北京",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "ABX_CFwj0RRLDeaR4F44NN3ocyGPDpyAIpdjazM-eSRvk=",
+            "userId": "61b7f333000000001000898c",
+            "nickname": "沉积岩cc",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324rnrs2b2a005odnucpk12cc308s7gg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "userId": "63071f07000000000f004514",
+              "nickname": "黑白",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3156r2ksfgu005oo73s3joh8k6tec34g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABIQUEU4YmYfXkHWSnU88lteTEweqHLOp6HDnyuNMzrVg="
+            },
+            "id": "6aa0b6cf000000000a024ecd"
+          },
+          "invalid": false,
+          "id": "6aa0b9c0000000001403bdb2",
+          "noteId": "6a9828f2000000002a02442a",
+          "status": 0,
+          "content": "这样嘛 好滴谢谢！",
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6aa0b6cf000000000a024ecd",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "invalid": false,
+      "noteId": "6a9828f2000000002a02442a",
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "63071f07000000000f004514",
+        "nickname": "黑白",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3156r2ksfgu005oo73s3joh8k6tec34g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABIQUEU4YmYfXkHWSnU88lteTEweqHLOp6HDnyuNMzrVg="
+      },
+      "createTime": 1788917455000,
+      "subCommentCount": "5",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5288 选课"
+}

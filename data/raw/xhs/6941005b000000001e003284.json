@@ -1,0 +1,668 @@
+{
+  "note_id": "6941005b000000001e003284",
+  "url": "https://www.xiaohongshu.com/explore/6941005b000000001e003284?xsec_token=ABHe5eb7pyktY3RhioKMPzuF7pHqQxHJ20EiOZ-4F6B44=",
+  "fetched_at": 1790083817.2516463,
+  "search_item": {
+    "id": "6941005b000000001e003284",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "nus cs到底还有没有人类researcher？",
+      "user": {
+        "xsecToken": "ABKqiMDtfaMBa2kEapGo56BuW6YJ9FLx6jlp36IC9L-SE=",
+        "nickName": "Tenor Han",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/80/format/jpg",
+        "userId": "62a491f3000000001b02487e",
+        "nickname": "Tenor Han"
+      },
+      "interactInfo": {
+        "likedCount": "59",
+        "collected": false,
+        "collectedCount": "78",
+        "commentCount": "38",
+        "sharedCount": "55",
+        "liked": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/863c3c15793032a313bb964b4ab9ba3b/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/7eb680db0b895a94752cd9354a479c0e/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/863c3c15793032a313bb964b4ab9ba3b/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/7eb680db0b895a94752cd9354a479c0e/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-12-16"
+        }
+      ]
+    },
+    "xsecToken": "ABHe5eb7pyktY3RhioKMPzuF7pHqQxHJ20EiOZ-4F6B44=",
+    "index": 20,
+    "exposed": false,
+    "trackId": "6941005b000000001e003284"
+  },
+  "note": {
+    "noteId": "6941005b000000001e003284",
+    "type": "normal",
+    "imageList": [
+      {
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222130/cf207a27d90b8849dd29cd54f9cab082/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222130/596042c81cee8e57a51d180c192c734e/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222130/596042c81cee8e57a51d180c192c734e/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nd_dft_wlteh_jpg_3",
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222130/cf207a27d90b8849dd29cd54f9cab082/notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031q55frf0n4005ol4i7pmsi3uh0vvllg",
+        "height": 1600
+      }
+    ],
+    "atUserList": [],
+    "time": 1765867611000,
+    "lastUpdateTime": 1765868867000,
+    "title": "nus cs到底还有没有人类researcher？",
+    "desc": "NUS CS AI方向FYP最好的老师是谁？求大家推荐几个，只要是researcher track就行。也欢迎大家留下对于现在phd/ms capstone/ra/fyp/urop老板的点评！",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo",
+      "xsecToken": "ABrqkYrFoiI9GL3Q7mqFYKgXnWjaenTKvkgQwgyecqCLE=",
+      "userId": "62a491f3000000001b02487e",
+      "nickname": "Tenor Han"
+    },
+    "interactInfo": {
+      "commentCount": "38",
+      "relation": "none",
+      "liked": false,
+      "shareCount": "55",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "59",
+      "collected": false,
+      "collectedCount": "78"
+    },
+    "tagList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABHe5eb7pyktY3RhioKMPzuF7pHqQxHJ20EiOZ-4F6B44="
+  },
+  "comments": [
+    {
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "content": "kenji估计已经不想带我了，我大一和他混了一段，太摆烂了当时[哭惹R]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "62a491f3000000001b02487e",
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw="
+          },
+          "createTime": 1766137703000,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "69451f19000000001d01c20e",
+            "userInfo": {
+              "userId": "624b07ba000000001000a6d6",
+              "nickname": "Charlie",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/647dd35111835bace166285c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABhRJbgZP2wJS8gEeOFVxtSC3L2WySM0_-nVfaH2FfRYk="
+            }
+          },
+          "invalid": false,
+          "id": "69451f67000000000e037e43"
+        }
+      ],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "invalid": false,
+      "id": "69451f19000000001d01c20e",
+      "userInfo": {
+        "nickname": "Charlie",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/647dd35111835bace166285c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhRJbgZP2wJS8gEeOFVxtSC3L2WySM0_-nVfaH2FfRYk=",
+        "userId": "624b07ba000000001000a6d6"
+      },
+      "createTime": 1766137626000,
+      "noteId": "6941005b000000001e003284",
+      "content": "Kenji kawaguchi",
+      "atUsers": [],
+      "subCommentCursor": "69451f67000000000e037e43",
+      "subCommentHasMore": true,
+      "status": 0,
+      "ipLocation": "新加坡",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6941005b000000001e003284",
+      "status": 0,
+      "invalid": false,
+      "id": "694124100000000039008de8",
+      "liked": false,
+      "likeCount": "3",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32327th8unu105nek1410838pa594r1o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5FVYl6t69z618MJ94Zk7Ymf2SXgTAeD-sGAN5T18_7M=",
+        "userId": "5dd409020000000001000d19",
+        "nickname": "Mia"
+      },
+      "showTags": [],
+      "createTime": 1765876752000,
+      "ipLocation": "江苏",
+      "subCommentCount": "3",
+      "content": "fyp是啥啊 first year publication？",
+      "atUsers": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765876773000,
+          "targetComment": {
+            "id": "694124100000000039008de8",
+            "userInfo": {
+              "nickname": "Mia",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32327th8unu105nek1410838pa594r1o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5FVYl6t69z618MJ94Zk7Ymf2SXgTAeD-sGAN5T18_7M=",
+              "userId": "5dd409020000000001000d19"
+            }
+          },
+          "id": "69412425000000001403f9d9",
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "content": "final year project，毕业论文",
+          "userInfo": {
+            "userId": "62a491f3000000001b02487e",
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw="
+          },
+          "ipLocation": "浙江"
+        }
+      ],
+      "subCommentCursor": "69412425000000001403f9d9",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABqMFvpGo6kkJYCDtHIM_ksZ01Bovdz8_-lrT1bgyZoyw=",
+        "userId": "67b6119d000000000e01e496",
+        "nickname": "momomomo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m3mf8po58005ptm26ejjp4md1namlg?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1766676409000,
+      "subCommentHasMore": true,
+      "noteId": "6941005b000000001e003284",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "日本",
+      "content": "bian yatao？",
+      "atUsers": [],
+      "subCommentCursor": "694d580e000000000e034446",
+      "invalid": false,
+      "id": "694d57b90000000019000d5b",
+      "showTags": [],
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "id": "694d580e000000000e034446",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1766676494000,
+          "invalid": false,
+          "noteId": "6941005b000000001e003284",
+          "content": "他很奇怪，回了我几句之后突然消失了[捂脸R]",
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw=",
+            "userId": "62a491f3000000001b02487e",
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "694d57b90000000019000d5b",
+            "userInfo": {
+              "userId": "67b6119d000000000e01e496",
+              "nickname": "momomomo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31m3mf8po58005ptm26ejjp4md1namlg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABqMFvpGo6kkJYCDtHIM_ksZ01Bovdz8_-lrT1bgyZoyw="
+            }
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "liked": false,
+      "likeCount": "1",
+      "id": "6941129400000000390002fc",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "安徽",
+      "subComments": [
+        {
+          "createTime": 1765873832000,
+          "invalid": false,
+          "id": "694118a70000000038032e63",
+          "noteId": "6941005b000000001e003284",
+          "content": "咋去浙江了，实习嘛",
+          "atUsers": [],
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "安徽",
+          "targetComment": {
+            "id": "694112ac000000001d02621a",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw=",
+              "userId": "62a491f3000000001b02487e",
+              "nickname": "Tenor Han"
+            }
+          },
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABQ01zy6mbDPiQzzVXmXTU7zX5yM50s3saN5m-hah3H8M=",
+            "userId": "610fe6a0000000000100a8c6",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202v6kvp2g105o8fsqg09a66bvpnvtg?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "noteId": "6941005b000000001e003284",
+      "content": "不如jx",
+      "subCommentCount": "3",
+      "subCommentCursor": "694118a70000000038032e63",
+      "invalid": false,
+      "userInfo": {
+        "userId": "610fe6a0000000000100a8c6",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3202v6kvp2g105o8fsqg09a66bvpnvtg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQ01zy6mbDPiQzzVXmXTU7zX5yM50s3saN5m-hah3H8M="
+      },
+      "createTime": 1765872276000,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentCursor": "6a8ba3260000000002012adf",
+      "id": "69410326000000001d024bd6",
+      "noteId": "6941005b000000001e003284",
+      "showTags": [],
+      "createTime": 1765868326000,
+      "subCommentCount": "1",
+      "content": "yang you[偷笑R]",
+      "liked": false,
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "新加坡",
+          "targetComment": {
+            "id": "69410326000000001d024bd6",
+            "userInfo": {
+              "userId": "66f4e392000000001d023bb6",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321av8n067i005pnkse97cetmsnafhd8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUY2BiKXpqC8d5rmsoH9j9DZBw3rjCaOmj2I07Y_Y7zU="
+            }
+          },
+          "id": "6a8ba3260000000002012adf",
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "65725a67000000002003744e",
+            "nickname": "阿里斯库",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ledoobnli6g5pbib9jo6t2e9vfrti0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABUpHXoOjkZ-9myFKM8FjUgZghmIY2wYzvJXN0ZbuZoXg="
+          },
+          "createTime": 1787536166000,
+          "invalid": false,
+          "content": "uu可以私聊分享一下吗，对这个老师的方向比较感兴趣[萌萌哒R]",
+          "atUsers": []
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 3,
+      "atUsers": [],
+      "likeCount": "8",
+      "userInfo": {
+        "userId": "66f4e392000000001d023bb6",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321av8n067i005pnkse97cetmsnafhd8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUY2BiKXpqC8d5rmsoH9j9DZBw3rjCaOmj2I07Y_Y7zU="
+      },
+      "ipLocation": "浙江",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "nickname": "小卡拉米",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3134ir4396m005orrcgnnrdbdg4rtc90?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABSeBcST5hktLGId5C4vEaxRaQodw_M2pZ4gc955lsmVM=",
+        "userId": "637b642f000000001f01b56d"
+      },
+      "createTime": 1765870135000,
+      "id": "69410a37000000003803de56",
+      "atUsers": [],
+      "invalid": false,
+      "status": 3,
+      "content": "小迈克",
+      "showTags": [],
+      "subCommentCount": "2",
+      "subCommentCursor": "69410b25000000001502e68d",
+      "subCommentHasMore": true,
+      "noteId": "6941005b000000001e003284",
+      "liked": false,
+      "likeCount": "3",
+      "ipLocation": "上海",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "69410b25000000001502e68d",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765870373000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "69410a37000000003803de56",
+            "userInfo": {
+              "nickname": "小卡拉米",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3134ir4396m005orrcgnnrdbdg4rtc90?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABSeBcST5hktLGId5C4vEaxRaQodw_M2pZ4gc955lsmVM=",
+              "userId": "637b642f000000001f01b56d"
+            }
+          },
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "content": "老哥是跟他读博嘛，他带本科生fyp吗[害羞R]",
+          "userInfo": {
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw=",
+            "userId": "62a491f3000000001b02487e"
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subCommentHasMore": true,
+      "invalid": false,
+      "id": "69412864000000001502d1ee",
+      "noteId": "6941005b000000001e003284",
+      "subCommentCount": "4",
+      "subCommentCursor": "694128ec00000000060197fc",
+      "content": "Prof Ben",
+      "userInfo": {
+        "xsecToken": "AB7qSrQAqXxPH2o8-SEpw-YWErHcHgIY08-jQrYElIzYI=",
+        "userId": "67a6ba39000000000e010976",
+        "nickname": "Jerry Lan",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32361sds3ns005pt6n8sji2bm1mefi80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1765877861000,
+      "ipLocation": "新加坡",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1765877996000,
+          "ipLocation": "浙江",
+          "invalid": false,
+          "id": "694128ec00000000060197fc",
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "content": "Ben Leong吗？感觉他alumni出路都特别无敌[大笑R]",
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw=",
+            "userId": "62a491f3000000001b02487e",
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg"
+          },
+          "targetComment": {
+            "userInfo": {
+              "userId": "67a6ba39000000000e010976",
+              "nickname": "Jerry Lan",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32361sds3ns005pt6n8sji2bm1mefi80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB7qSrQAqXxPH2o8-SEpw-YWErHcHgIY08-jQrYElIzYI="
+            },
+            "id": "69412864000000001502d1ee"
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6941005b000000001e003284",
+      "content": "真的没有人类吗 这么可怕的",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "3",
+      "userInfo": {
+        "userId": "661e4bf60000000003030393",
+        "nickname": "moMology-",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324qt7in22m005pgu9fr0u0sjm005chg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABcAZKSe9MQoR-ojZeFMINTv5LsjuDQns93vn4KQvmlng="
+      },
+      "showTags": [],
+      "ipLocation": "德国",
+      "invalid": false,
+      "createTime": 1765873234000,
+      "subComments": [
+        {
+          "id": "694118a8000000003802df75",
+          "noteId": "6941005b000000001e003284",
+          "status": 0,
+          "content": "哈人 SoC，",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [],
+          "ipLocation": "德国",
+          "likeCount": "1",
+          "userInfo": {
+            "userId": "661e4bf60000000003030393",
+            "nickname": "moMology-",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324qt7in22m005pgu9fr0u0sjm005chg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABcAZKSe9MQoR-ojZeFMINTv5LsjuDQns93vn4KQvmlng="
+          },
+          "createTime": 1765873832000,
+          "targetComment": {
+            "id": "6941174c0000000014036df8",
+            "userInfo": {
+              "userId": "62a491f3000000001b02487e",
+              "nickname": "Tenor Han",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw="
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentCursor": "694118a8000000003802df75",
+      "subCommentHasMore": true,
+      "id": "69411651000000003801783f",
+      "liked": false,
+      "subCommentCount": "2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69436a540000000006019a6c",
+      "noteId": "6941005b000000001e003284",
+      "status": 0,
+      "invalid": false,
+      "content": "没发现",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "6944191a000000001403edd4",
+          "noteId": "6941005b000000001e003284",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "invalid": false,
+          "status": 0,
+          "content": "人类一败涂地[哭惹R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXuormxK6ivD5UzwbWoFrorw=",
+            "userId": "62a491f3000000001b02487e",
+            "nickname": "Tenor Han",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31n8rli4m4u005ol4i7pmsi3u07pihuo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1766070555000,
+          "targetComment": {
+            "id": "69436a540000000006019a6c",
+            "userInfo": {
+              "nickname": "默淰.（已有闺）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pee6t8v26005p708cog9o620q5p610?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABEc57HGWSVnbnsQYndGPqY8f0ydvYF2-8GtaasLwRpSs=",
+              "userId": "64e04331000000000100e0c2"
+            }
+          }
+        }
+      ],
+      "atUsers": [],
+      "likeCount": "2",
+      "showTags": [],
+      "ipLocation": "江西",
+      "subCommentCursor": "6944191a000000001403edd4",
+      "liked": false,
+      "userInfo": {
+        "userId": "64e04331000000000100e0c2",
+        "nickname": "默淰.（已有闺）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pee6t8v26005p708cog9o620q5p610?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEc57HGWSVnbnsQYndGPqY8f0ydvYF2-8GtaasLwRpSs="
+      },
+      "createTime": 1766025813000,
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "没有人类",
+      "showTags": [],
+      "createTime": 1765867945000,
+      "ipLocation": "新加坡",
+      "noteId": "6941005b000000001e003284",
+      "atUsers": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "id": "694101a900000000380122d1",
+      "status": 0,
+      "liked": false,
+      "subComments": [],
+      "invalid": false,
+      "likeCount": "9",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABstTHVd2aVmFc0w65f1aUAy-Z-iaNlh8O4PO7LOQJlxY=",
+        "userId": "5b29c9504eacab2b5668cfc1",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/646b6585a27749718ff8c233.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 怎么样"
+}

@@ -1,0 +1,446 @@
+{
+  "note_id": "6a56e926000000001101cd48",
+  "url": "https://www.xiaohongshu.com/explore/6a56e926000000001101cd48?xsec_token=ABy4JqhDvvF1YLd8nPJpySeS0peVICDrlY8s97PRiG7FQ=",
+  "fetched_at": 1790081484.8512747,
+  "search_item": {
+    "id": "6a56e926000000001101cd48",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "width": 828,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222051/005be1cd6cf110a4e1edfab4b024474a/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222051/ada527c75e5ebf1c8ebc3d2d3a275386/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nc_n_webp_prv_1",
+        "height": 660
+      },
+      "imageList": [
+        {
+          "height": 660,
+          "width": 828,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222051/005be1cd6cf110a4e1edfab4b024474a/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222051/ada527c75e5ebf1c8ebc3d2d3a275386/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-16"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "在线等：cs作业被老师约meeting",
+      "user": {
+        "nickName": "kiwi",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314hik1276e005nsc565gbnf2fkr3e98?imageView2/2/w/80/format/jpg",
+        "userId": "5f8c298b000000000101dde2",
+        "nickname": "kiwi",
+        "xsecToken": "ABOYXcAgKRtSE_WyYC9_npYLMLqssIgQwJRrAHbjglkPw="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "88",
+        "collected": false,
+        "collectedCount": "24",
+        "commentCount": "42",
+        "sharedCount": "23"
+      }
+    },
+    "xsecToken": "ABy4JqhDvvF1YLd8nPJpySeS0peVICDrlY8s97PRiG7FQ=",
+    "index": 37,
+    "exposed": false,
+    "trackId": "6a56e926000000001101cd48"
+  },
+  "note": {
+    "imageList": [
+      {
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg",
+        "height": 660,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222051/b649ec5e603f695ab82e40d668cce54b/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nd_dft_wgth_jpg_3",
+        "width": 828,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222051/c0a8a02380a49dfe7042ebdae61a62b4/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222051/b649ec5e603f695ab82e40d668cce54b/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222051/c0a8a02380a49dfe7042ebdae61a62b4/notes_pre_post/1040g3k8322khubven2705nsc565gbnf2qrtuedg!nd_prv_wgth_jpg_3"
+      }
+    ],
+    "tagList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "illegalInfo": {
+      "desc": "可能含AI生成内容",
+      "leftIcon": "https://fe-platform.xhscdn.com/platform/104101l03241scdup0o06ftel2030k000000000cs6egji",
+      "link": "xhsdiscover://rn/kuri/noteStickers?background_transparent_v2=true&needNewRootNavigation=true&noteId=6a56e926000000001101cd48"
+    },
+    "title": "在线等：cs作业被老师约meeting",
+    "desc": "第一次收到这种约谈邮件咋办啊 好紧张 我今晚不用睡觉了 为什么不告诉我约谈的原因啊 我承认在写代码的时候问了ai不少问题和帮忙检查 这种情况咋办\n\t\n二编：\n她看后台记录说我代码被复制粘贴太多次了而且写的速度不合理（其实是我复制粘粘发给ai检查bug）最后两个作业通通0分 不过她说只要期末看到我有进步就不把它们算到总成绩里",
+    "atUserList": [],
+    "time": 1784080678000,
+    "lastUpdateTime": 1784148998000,
+    "noteId": "6a56e926000000001101cd48",
+    "type": "normal",
+    "user": {
+      "userId": "5f8c298b000000000101dde2",
+      "nickname": "kiwi",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314hik1276e005nsc565gbnf2fkr3e98",
+      "xsecToken": "ABwiTatCrDMVZzUdlf6vp6dKoVVU7HlKM4fBAx25Pc3Cw="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "88",
+      "collected": false,
+      "shareCount": "23",
+      "followed": false,
+      "collectedCount": "24",
+      "commentCount": "42",
+      "relation": "none",
+      "niceCount": ""
+    },
+    "xsecToken": "ABy4JqhDvvF1YLd8nPJpySeS0peVICDrlY8s97PRiG7FQ="
+  },
+  "comments": [
+    {
+      "subCommentCursor": "6a57d185000000000b0392a4",
+      "subCommentHasMore": true,
+      "noteId": "6a56e926000000001101cd48",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "47",
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "12",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABvCypaSUdxAsyUFs-84FQ3yfJ-WL5PZZSszanwe9kJm8=",
+              "userId": "5eff3b29000000000101dc20",
+              "nickname": "Mi Manchi",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30obmv6t8i8005nnv7ckgbn10l2bc2ag?imageView2/2/w/120/format/jpg"
+            },
+            "id": "6a57c7f000000000050162b0"
+          },
+          "invalid": false,
+          "noteId": "6a56e926000000001101cd48",
+          "status": 0,
+          "content": "我就是一点也没承认 她说看了我代码的历史记录 说我写的速度很可疑 她说这个之前我完全不知道竟然还能看到写代码的历史记录[捂脸R] 最后两个作业通通0分 不过她说只要期末看到我有进步就不把它们算到总成绩里[笑哭R]",
+          "userInfo": {
+            "userId": "5f8c298b000000000101dde2",
+            "nickname": "kiwi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314hik1276e005nsc565gbnf2fkr3e98?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABUbTX9jmSmmCARuXxW5sKBQoVnWc_4lfIgTBHk94UlDE="
+          },
+          "createTime": 1784140165000,
+          "ipLocation": "加拿大",
+          "id": "6a57d185000000000b0392a4"
+        }
+      ],
+      "invalid": false,
+      "id": "6a57c7f000000000050162b0",
+      "content": "千万不要承认啊，不要以为承认了教授就会放你一马，不要承认用了任何ai相关的东西翻译也不可以，只要你承认一点教授就会把你上交！亲身经历！",
+      "showTags": [],
+      "createTime": 1784137713000,
+      "subCommentCount": "2",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABvCypaSUdxAsyUFs-84FQ3yfJ-WL5PZZSszanwe9kJm8=",
+        "userId": "5eff3b29000000000101dc20",
+        "nickname": "Mi Manchi",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30obmv6t8i8005nnv7ckgbn10l2bc2ag?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "美国",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a56eed60000000015001be1",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABh3pALK8UGkepnwcMPTEk1YpvgjW-4-tyATBRh4HR_Zw=",
+              "userId": "61e503a6000000001000974b",
+              "nickname": "阿T在Coding",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3240ijsq97a005of50ej415qb4nsmtr8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6a583470000000001501366c",
+          "noteId": "6a56e926000000001101cd48",
+          "status": 0,
+          "liked": false,
+          "likeCount": "10",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ugsfe7qii005onmuk97jlideljq040?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABpvVE4bIT3y-GZnmKichgLdpzenzdZQocKsb-pS9YfEg=",
+            "userId": "62f6f512000000001e01d64d",
+            "nickname": "💙👽"
+          },
+          "createTime": 1784165489000,
+          "content": "有些东西你不自己写 还真会忽略一些问题 或许是理解的偏差 被AI掩盖了",
+          "atUsers": [],
+          "showTags": [],
+          "ipLocation": "上海"
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a56e926000000001101cd48",
+      "content": "真无语啊学校，都这个年代了还在查ai率",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "美国",
+      "id": "6a56eed60000000015001be1",
+      "status": 0,
+      "userInfo": {
+        "userId": "61e503a6000000001000974b",
+        "nickname": "阿T在Coding",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3240ijsq97a005of50ej415qb4nsmtr8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABh3pALK8UGkepnwcMPTEk1YpvgjW-4-tyATBRh4HR_Zw="
+      },
+      "subCommentCount": "7",
+      "subCommentHasMore": true,
+      "createTime": 1784082135000,
+      "subCommentCursor": "6a583470000000001501366c",
+      "liked": false,
+      "likeCount": "56",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a58c7020000000015000404",
+      "status": 0,
+      "content": "兄弟 下次发给AI不要复制粘贴，直接用截图功能，甚至手机拍照，这样他绝对查不出来",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1784203011000,
+      "ipLocation": "江苏",
+      "subComments": [],
+      "noteId": "6a56e926000000001101cd48",
+      "likeCount": "11",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "atUsers": [],
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/640f008b1633662142fd7bf0.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABrZxX99nLaerKMI1RKf7GOq0Y-1qHhPIKk2VGHZikXcA=",
+        "userId": "5ce857f1000000001000c9d1",
+        "nickname": "Edward"
+      },
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "",
+      "invalid": false,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jhpprdc2o605ovfcuu3q52c04cnje0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABaJFiPeN4Ss7G5DZRWfIoTr93w2956vZ_e86EqXNa6hU=",
+        "userId": "63ef67bc000000000f01144c",
+        "nickname": "布达佩斯大耗子"
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "noteId": "6a56e926000000001101cd48",
+      "status": 0,
+      "atUsers": [],
+      "content": "前几天我也有过类似的问题 建议之前熟悉代码 闻起来有没有使用ai就死不承认 老师没办法的",
+      "showTags": [],
+      "createTime": 1784110126000,
+      "ipLocation": "山东",
+      "subCommentCount": "0",
+      "id": "6a575c2d0000000015004dc6",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "ipLocation": "美国",
+      "subComments": [],
+      "noteId": "6a56e926000000001101cd48",
+      "content": "按照我做TA的经验 不是好事 不告诉你原因是为了打个措手不及[捂脸R]但是最后具体怎么处理感觉看老师[捂脸R]",
+      "likeCount": "31",
+      "showTags": [],
+      "invalid": false,
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "subCommentCursor": "",
+      "id": "6a56eaa5000000002a02ee24",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "648f2d88000000001f006fb3",
+        "nickname": "北堂之秋",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31khsdo8v34005p4f5m47ortjjqvn41o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMO6tr93O_MuRWYExdMtAXYzWmAR00dRDrvfkiHYynus="
+      },
+      "createTime": 1784081061000,
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "就说本地跑了测试复制粘贴 或者又是用vscode调整了代码格式 他没证据的",
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "澳大利亚",
+      "subCommentHasMore": false,
+      "showTags": [],
+      "createTime": 1785230738000,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "6a6875920000000005014f59",
+      "liked": false,
+      "noteId": "6a56e926000000001101cd48",
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64476dad3efe33e0b0d8e213.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVY3mkNmt1n-q18v5y8BtNf1w3RQ6Mm6xeLspwZ36H6E=",
+        "userId": "5c00c3a244363b6890c67c80",
+        "nickname": "TAN"
+      },
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5e35079400000000010027ab",
+        "nickname": "ele",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/634f3c98d43e2ac894e8cce3.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWTVNrn3maT3k_rlYeDNdP6-NMyZ68nREXD8JABAFkIg="
+      },
+      "invalid": false,
+      "subCommentCursor": "",
+      "noteId": "6a56e926000000001101cd48",
+      "liked": false,
+      "likeCount": "3",
+      "ipLocation": "澳大利亚",
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "6a5770aa000000002a02c34d",
+      "status": 0,
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "content": "推迟一下meeting赶紧抱佛脚吧[捂嘴笑R]",
+      "createTime": 1784115370000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a56e9a2000000000802d0e6",
+      "noteId": "6a56e926000000001101cd48",
+      "status": 0,
+      "userInfo": {
+        "xsecToken": "ABGiY3BSaDRzGM3nVSpYAC7BGeiYUJop3P-PGb29MJfAE=",
+        "userId": "5f385c97000000000100aa34",
+        "nickname": "junn",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322lptv2t6s005npobibg9ahkr175og8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "invalid": false,
+      "subCommentCursor": "",
+      "content": "所以是你自己写的吗",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1784080802000,
+      "subCommentCount": "0",
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "likeCount": "1",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "ipLocation": "河南",
+      "invalid": false,
+      "id": "6a5739670000000015016dcd",
+      "noteId": "6a56e926000000001101cd48",
+      "atUsers": [],
+      "likeCount": "5",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB9GBK6EAuRei1VSwmsNxXCQ6w9nWprQKnZ0OzjbkAy2s=",
+        "userId": "681dc5a6000000000e01c279",
+        "nickname": "Viko草莓酱～",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324mirlssga6g5q0tomj3jgjpdvtcei0?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1784101224000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "content": "先准时赴约，今晚吃透两份作业全部代码，如实说明AI仅用来辅助查错、核心逻辑自己构思，诚恳听老师整改意见即可",
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "推迟一下meeting，就说明天中午约了医生取药，提前准备一下说辞，代码的AI问题真的很少除非是非常大的项目",
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "userInfo": {
+        "nickname": "鬼天竺鼠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bbpo34ga0g5or0jmsm5hpjb6s6m5g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABuK4-dC71TexfLbPdcjrb_ldIsfqAbkh0iR6R0tD8Ogs=",
+        "userId": "63609db9000000001802c733"
+      },
+      "ipLocation": "浙江",
+      "invalid": false,
+      "noteId": "6a56e926000000001101cd48",
+      "likeCount": "1",
+      "createTime": 1784159575000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "id": "6a581d56000000001500049f",
+      "liked": false,
+      "showTags": [],
+      "subCommentCursor": "",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 给分"
+}

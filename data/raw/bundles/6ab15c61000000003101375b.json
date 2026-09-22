@@ -1,0 +1,18 @@
+{
+  "note_id": "6ab15c61000000003101375b",
+  "url": "https://www.xiaohongshu.com/explore/6ab15c61000000003101375b?xsec_token=ABK8U--p2vubMZmfX8tSLdUdZFgyOyYGUe0FUjZxu8uMI=",
+  "fetched_at": 1790081983.6885822,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "给Freddie加了“选中分析”的功能",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "选中段落/词语后打包context交给llm分析解释含义with Response api的web_search支持hh\npaper之外也🉑clip网页啦（\n#提供思路和创新点[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

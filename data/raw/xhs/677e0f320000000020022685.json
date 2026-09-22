@@ -1,0 +1,574 @@
+{
+  "note_id": "677e0f320000000020022685",
+  "url": "https://www.xiaohongshu.com/explore/677e0f320000000020022685?xsec_token=ABrglwLr0GTf_RVdC1cnMWst2o0T5YAE1OFpurxjvVBW4=",
+  "fetched_at": 1790082050.072195,
+  "search_item": {
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-01"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "24fall cityu ds semA 学渣版分享",
+      "user": {
+        "nickname": "一只Gawin",
+        "xsecToken": "ABw0IrVcM23PC2mbrmJvmMi2Rhg86MfUTsLcSafyKJLDM=",
+        "nickName": "一只Gawin",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/80/format/jpg",
+        "userId": "66cc94ae000000001d0221d3"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "82",
+        "collected": false,
+        "collectedCount": "100",
+        "commentCount": "19",
+        "sharedCount": "38"
+      },
+      "cover": {
+        "height": 392,
+        "width": 1630,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222100/00b104de463798e6deb30cfb9c44675a/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222100/6eea8b4dbf336efe921d837026ee2c10/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222100/00b104de463798e6deb30cfb9c44675a/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222100/6eea8b4dbf336efe921d837026ee2c10/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 392,
+          "width": 1630
+        }
+      ]
+    },
+    "xsecToken": "ABrglwLr0GTf_RVdC1cnMWst2o0T5YAE1OFpurxjvVBW4=",
+    "id": "677e0f320000000020022685",
+    "modelType": "note",
+    "index": 18,
+    "exposed": false,
+    "trackId": "677e0f320000000020022685"
+  },
+  "note": {
+    "type": "normal",
+    "user": {
+      "userId": "66cc94ae000000001d0221d3",
+      "nickname": "一只Gawin",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0",
+      "xsecToken": "ABc785WzWkNTUSvLNQ2eOfeGHsWxxzK8GvgK3VPLe-cGc="
+    },
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "collectedCount": "100",
+      "shareCount": "38",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "82",
+      "commentCount": "19",
+      "niceCount": ""
+    },
+    "tagList": [],
+    "atUserList": [],
+    "time": 1736314674000,
+    "ipLocation": "中国香港",
+    "noteId": "677e0f320000000020022685",
+    "title": "24fall cityu ds semA 学渣版分享",
+    "desc": "看了一圈同学的分数，我最低hhh，甚至没达到distinction的3.5，个人bg是毕业多年的211本信安专业，没接触过ml\n\t\n5285：是本专业的课，期中前的东西还都有点记忆，加上开卷考，可以看电脑上的笔记，但是期中题干没看懂，所以只拿了平均分。期末只有一张A4的cheatsheet，题量很大，最后一题没时间看，细节题全凭记忆力和想象力，cheatsheet帮助不大，就是没学懂吧（不然为什么不做本专业的工作呢对吧）\n\t\n5001：again没接触过ml，有个作业迟交了，期中满分。期末考试不难，很简单的概念题，只是我菜，画图题也掉坑里了，树和svm的部分也没做对。项目很水，给分挺高。但会curve，好像挺多同学对5001给分不满意。\n\t\n5002：老师在变着法子给你送分：简单的作业，几个小quiz，跟其他课的内容有交叉，可视化的内容其实不多，不能指望这门课教你用好tableau，有项目，要pre，整体来说是门水课\n\t\n5003：跟本科学的数据库没差别，多了一点点MapReduce的内容，但不需要搭环境跑MapReduce的代码，期中期末都是开卷，本科学过数据库就不用担心这门课，感觉老师是严格按照原始分给分的，我跟同组的同学差两分，grade就不一样了\n\t\n6012：比b站王燕老师讲的时间序列分析要简单，统计专业肯定没问题，而我是pacf以后就没怎么搞明白了，预测也很迷糊。神经网络部分就讲了激活函数和rnn，lstm和gru，这部分难度不算大，作业和期中分数canvas上看不见，所以做的怎么样我也不知道，最后有个B+我寻思还挺好的，毕竟数学不咋地\n\t\n整体来说3.4在接受范围内，但还是羡慕一下全A大佬",
+    "imageList": [
+      {
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222101/bfd939c6841a5d4a81cb634fd2e8e2a4/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222101/a14a3b26e2ed868c6c98a67d65251a65/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222101/bfd939c6841a5d4a81cb634fd2e8e2a4/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222101/a14a3b26e2ed868c6c98a67d65251a65/1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg31ccpj6g30s705pmciin7c8ej5m00gp0",
+        "url": "",
+        "traceId": "",
+        "livePhoto": false,
+        "height": 392,
+        "width": 1630
+      }
+    ],
+    "lastUpdateTime": 1788243279000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABrglwLr0GTf_RVdC1cnMWst2o0T5YAE1OFpurxjvVBW4="
+  },
+  "comments": [
+    {
+      "status": 0,
+      "likeCount": "2",
+      "createTime": 1736328932000,
+      "ipLocation": "河南",
+      "subCommentCursor": "68220819000000000400beaa",
+      "content": "和我绩点一样 但我CS",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4oa894gu005pcg83e8h166bkrl8co?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABznXV837miyGUwxTQY1vn3uDNeUl7E3IdEXijRAAwczc=",
+        "userId": "659040dc00000000220084c6"
+      },
+      "subComments": [
+        {
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "showTags": [],
+          "createTime": 1747060762000,
+          "noteId": "677e0f320000000020022685",
+          "userInfo": {
+            "userId": "62f59b68000000001f0158c9",
+            "nickname": "decland",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c9aervd0k605onljdk7qm69graqobg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABMJLGXJLS54_jtjnoyc4emEH3VLI4gbrx88oKQk6RDis="
+          },
+          "ipLocation": "陕西",
+          "targetComment": {
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABznXV837miyGUwxTQY1vn3uDNeUl7E3IdEXijRAAwczc=",
+              "userId": "659040dc00000000220084c6",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31e4oa894gu005pcg83e8h166bkrl8co?imageView2/2/w/120/format/jpg"
+            },
+            "id": "677e46e3000000001a00ff0c"
+          },
+          "invalid": false,
+          "id": "68220819000000000400beaa",
+          "status": 0,
+          "content": "请问是不是cs的课程比ds更难或者事情更多一点呀"
+        }
+      ],
+      "id": "677e46e3000000001a00ff0c",
+      "noteId": "677e0f320000000020022685",
+      "subCommentCount": "2",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "atUsers": [],
+      "showTags": [],
+      "invalid": false,
+      "id": "6941808500000000160268b8",
+      "content": "可以问问5003的final大概是什么题型 有什么重点吗[哭惹R]快考试了很慌",
+      "liked": false,
+      "createTime": 1765900422000,
+      "subComments": [
+        {
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "userInfo": {
+              "userId": "61f5f249000000001000dd53",
+              "nickname": "Rocky",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5l2iru0a005oflu94k1naj90oeba8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABbz7kDm18vq5QUvpHNOK6dbx1m0ReecBxJGF9ED8B0hM="
+            },
+            "id": "6941808500000000160268b8"
+          },
+          "invalid": false,
+          "id": "69418c1d0000000039000333",
+          "noteId": "677e0f320000000020022685",
+          "status": 0,
+          "liked": false,
+          "userInfo": {
+            "userId": "66cc94ae000000001d0221d3",
+            "nickname": "一只Gawin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABB63AVR3NYGflkn4FDviDLtLK3Uy3hPFAMp59j3RhGwU="
+          },
+          "createTime": 1765903390000,
+          "content": "开卷慌啥 不能一学期啥都没学吧",
+          "atUsers": []
+        }
+      ],
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentCount": "3",
+      "subCommentCursor": "69418c1d0000000039000333",
+      "userInfo": {
+        "xsecToken": "ABbz7kDm18vq5QUvpHNOK6dbx1m0ReecBxJGF9ED8B0hM=",
+        "userId": "61f5f249000000001000dd53",
+        "nickname": "Rocky",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q5l2iru0a005oflu94k1naj90oeba8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentHasMore": true,
+      "noteId": "677e0f320000000020022685",
+      "status": 3,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "likeCount": "0",
+      "createTime": 1767175473000,
+      "ipLocation": "山东",
+      "id": "6954f531000000001d00fb85",
+      "noteId": "677e0f320000000020022685",
+      "invalid": false,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "1",
+      "subCommentCursor": "695507a4000000000f0287fd",
+      "subCommentHasMore": false,
+      "content": "请问那个points是啥呀[萌萌哒R]",
+      "userInfo": {
+        "userId": "5c4e77410000000010007404",
+        "nickname": "AAA海拉鲁在逃甜心莱尼尔",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/630b1e264e893263631c6353.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5U1exjOS9aPhbx-3XMvFxEeCaNwH7UlBXUN_JqpwymQ="
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "content": "Gpa * 这学期的学分",
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "id": "695507a4000000000f0287fd",
+          "noteId": "677e0f320000000020022685",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABB63AVR3NYGflkn4FDviDLtLK3Uy3hPFAMp59j3RhGwU=",
+            "userId": "66cc94ae000000001d0221d3",
+            "nickname": "一只Gawin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1767180196000,
+          "targetComment": {
+            "id": "6954f531000000001d00fb85",
+            "userInfo": {
+              "nickname": "AAA海拉鲁在逃甜心莱尼尔",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/630b1e264e893263631c6353.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB5U1exjOS9aPhbx-3XMvFxEeCaNwH7UlBXUN_JqpwymQ=",
+              "userId": "5c4e77410000000010007404"
+            }
+          }
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6888ee40000000002b0192fd",
+      "id": "6888e10f000000002a008027",
+      "status": 0,
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "5bfc1a9be0db840001e79384",
+        "nickname": "小哭哭",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pop9tg1506g4bu77cd9n4s4c9idec8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABlSBomrSGWR5A09iuORXtRfOa0HMMSas1x0jQHIGlqtI="
+      },
+      "subCommentCount": "1",
+      "showTags": [],
+      "createTime": 1753800975000,
+      "subComments": [
+        {
+          "targetComment": {
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pop9tg1506g4bu77cd9n4s4c9idec8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlSBomrSGWR5A09iuORXtRfOa0HMMSas1x0jQHIGlqtI=",
+              "userId": "5bfc1a9be0db840001e79384",
+              "nickname": "小哭哭"
+            },
+            "id": "6888e10f000000002a008027"
+          },
+          "invalid": false,
+          "id": "6888ee40000000002b0192fd",
+          "noteId": "677e0f320000000020022685",
+          "status": 0,
+          "content": "我记得没考",
+          "liked": false,
+          "likeCount": "0",
+          "createTime": 1753804352000,
+          "ipLocation": "中国香港",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "66cc94ae000000001d0221d3",
+            "nickname": "一只Gawin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABB63AVR3NYGflkn4FDviDLtLK3Uy3hPFAMp59j3RhGwU="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "请问6012的考试需要编程吗[哭惹R]",
+      "noteId": "677e0f320000000020022685",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "黑龙江",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "请问只学过高数1和高数2的同学建议在暑假把线代概率论学会吗，上课对他的要求有多少",
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABvQgrhyoN3z86GbA32Q7hVOU_Xsh6uLN845JYURZrxas=",
+        "userId": "62087c5c0000000021021549",
+        "nickname": "ichbinherrliu",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uua77af3q605og8fhe8c5a9cdgppig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "noteId": "677e0f320000000020022685",
+          "content": "老师都会大概过一遍数学的东西 学不学问题不大 ml和dl基础知识多学会有帮助",
+          "liked": false,
+          "userInfo": {
+            "xsecToken": "ABB63AVR3NYGflkn4FDviDLtLK3Uy3hPFAMp59j3RhGwU=",
+            "userId": "66cc94ae000000001d0221d3",
+            "nickname": "一只Gawin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1749640115000,
+          "targetComment": {
+            "id": "68494ce8000000001c0377bd",
+            "userInfo": {
+              "userId": "62087c5c0000000021021549",
+              "nickname": "ichbinherrliu",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31uua77af3q605og8fhe8c5a9cdgppig?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvQgrhyoN3z86GbA32Q7hVOU_Xsh6uLN845JYURZrxas="
+            }
+          },
+          "invalid": false,
+          "id": "684963b3000000000702a177",
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "3"
+        }
+      ],
+      "invalid": false,
+      "id": "68494ce8000000001c0377bd",
+      "noteId": "677e0f320000000020022685",
+      "liked": false,
+      "createTime": 1749634281000,
+      "ipLocation": "广东",
+      "subCommentCursor": "684963b3000000000702a177",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB9Kv2-ZPor7T8wOOlayiukKVj4YNlw0yMhNsrRq_dBnA=",
+        "userId": "60d5d9b5000000002002d2f8",
+        "nickname": "jin",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31npqvg0r52005o6lr6qo5knod9qc8io?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentHasMore": false,
+      "createTime": 1756263440000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "677e0f320000000020022685",
+          "status": 0,
+          "content": "没有的",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "invalid": false,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "66cc94ae000000001d0221d3",
+            "nickname": "一只Gawin",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31703l0nf44005pmciin7c8ejk3o7qi0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABB63AVR3NYGflkn4FDviDLtLK3Uy3hPFAMp59j3RhGwU="
+          },
+          "createTime": 1756264742000,
+          "targetComment": {
+            "id": "68ae7410000000003000e283",
+            "userInfo": {
+              "userId": "60d5d9b5000000002002d2f8",
+              "nickname": "jin",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31npqvg0r52005o6lr6qo5knod9qc8io?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB9Kv2-ZPor7T8wOOlayiukKVj4YNlw0yMhNsrRq_dBnA="
+            }
+          },
+          "id": "68ae7926000000000b02a943"
+        }
+      ],
+      "subCommentCursor": "68ae7926000000000b02a943",
+      "noteId": "677e0f320000000020022685",
+      "status": 0,
+      "likeCount": "0",
+      "invalid": false,
+      "showTags": [],
+      "ipLocation": "河南",
+      "id": "68ae7410000000003000e283",
+      "content": "想问问uu必修课考勤吗[皱眉R]",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "陕西",
+      "noteId": "677e0f320000000020022685",
+      "userInfo": {
+        "nickname": "decland",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c9aervd0k605onljdk7qm69graqobg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMJLGXJLS54_jtjnoyc4emEH3VLI4gbrx88oKQk6RDis=",
+        "userId": "62f59b68000000001f0158c9"
+      },
+      "createTime": 1747060755000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "liked": false,
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "682208130000000013012999",
+      "content": "请问是不是cs的课程比ds更难或者事情更多一点呀",
+      "atUsers": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [],
+      "status": 0,
+      "content": "之前3.65，又变3.5了吗.[偷笑R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "ipLocation": "四川",
+      "invalid": false,
+      "id": "677e193d0000000022001532",
+      "noteId": "677e0f320000000020022685",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "userInfo": {
+        "userId": "61376ebb000000000201d4b6",
+        "nickname": "晓筱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sfo0vm068605o9ndqtgjl5ms2gqa98?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABanBNqkCYA4LtLqFlQdYVrjqEAlvEFow6_f8NMZ9Pu60="
+      },
+      "createTime": 1736317245000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1753358083000,
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "atUsers": [],
+      "likeCount": "1",
+      "id": "68821f030000000019026b26",
+      "status": 0,
+      "content": "请问看课程大纲的时候有的会标注有pre-requisite 的条件 比如5487里面有数据结构和线代 请问它的这个意思是是建议修过这两门课的选还是必须修过这两门才能选呢 如果是后者有什么审查条件嘛[哭惹R]",
+      "liked": false,
+      "ipLocation": "北京",
+      "subCommentHasMore": false,
+      "noteId": "677e0f320000000020022685",
+      "invalid": false,
+      "userInfo": {
+        "userId": "648dce31000000002a036d30",
+        "nickname": "钽钽",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ihgvpq30e005p4dpooqmr9g9g51p90?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB8YsFc38ugi638mPylAMwzdNhb15l4O0_qme4d7fBMS4="
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "ipLocation": "中国香港",
+      "likeCount": "2",
+      "subComments": [],
+      "id": "677e953d000000001b039251",
+      "noteId": "677e0f320000000020022685",
+      "content": "3.4学渣[失望R]3.0算啥，学猹？[哭惹R]",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1736348989000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "AB9xgL1JA-Z5rXB3CTf_T5bKfLY9KmswXAZsrJn-qCglY=",
+        "userId": "5a65810e11be10457e5448e6",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3237outp7na5g4a10ls0gsi76fja4ino?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 体验"
+}

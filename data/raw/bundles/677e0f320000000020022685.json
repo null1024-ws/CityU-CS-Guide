@@ -1,0 +1,138 @@
+{
+  "note_id": "677e0f320000000020022685",
+  "url": "https://www.xiaohongshu.com/explore/677e0f320000000020022685?xsec_token=ABrglwLr0GTf_RVdC1cnMWst2o0T5YAE1OFpurxjvVBW4=",
+  "fetched_at": 1790082050.072195,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "24fall cityu ds semA 学渣版分享",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "看了一圈同学的分数，我最低hhh，甚至没达到distinction的3.5，个人bg是毕业多年的211本信安专业，没接触过ml\n\t\n5285：是本专业的课，期中前的东西还都有点记忆，加上开卷考，可以看电脑上的笔记，但是期中题干没看懂，所以只拿了平均分。期末只有一张A4的cheatsheet，题量很大，最后一题没时间看，细节题全凭记忆力和想象力，cheatsheet帮助不大，就是没学懂吧（不然为什么不做本专业的工作呢对吧）\n\t\n5001：again没接触过ml，有个作业迟交了，期中满分。期末考试不难，很简单的概念题，只是我菜，画图题也掉坑里了，树和svm的部分也没做对。项目很水，给分挺高。但会curve，好像挺多同学对5001给分不满意。\n\t\n5002：老师在变着法子给你送分：简单的作业，几个小quiz，跟其他课的内容有交叉，可视化的内容其实不多，不能指望这门课教你用好tableau，有项目，要pre，整体来说是门水课\n\t\n5003：跟本科学的数据库没差别，多了一点点MapReduce的内容，但不需要搭环境跑MapReduce的代码，期中期末都是开卷，本科学过数据库就不用担心这门课，感觉老师是严格按照原始分给分的，我跟同组的同学差两分，grade就不一样了\n\t\n6012：比b站王燕老师讲的时间序列分析要简单，统计专业肯定没问题，而我是pacf以后就没怎么搞明白了，预测也很迷糊。神经网络部分就讲了激活函数和rnn，lstm和gru，这部分难度不算大，作业和期中分数canvas上看不见，所以做的怎么样我也不知道，最后有个B+我寻思还挺好的，毕竟数学不咋地\n\t\n整体来说3.4在接受范围内，但还是羡慕一下全A大佬",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "和我绩点一样 但我CS",
+      "sourceRef": "comment:677e46e3000000001a00ff0c",
+      "commentId": "677e46e3000000001a00ff0c",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "请问是不是cs的课程比ds更难或者事情更多一点呀",
+      "sourceRef": "comment:68220819000000000400beaa",
+      "commentId": "68220819000000000400beaa",
+      "likes": 2,
+      "author": "decland"
+    },
+    {
+      "type": "comment",
+      "text": "可以问问5003的final大概是什么题型 有什么重点吗[哭惹R]快考试了很慌",
+      "sourceRef": "comment:6941808500000000160268b8",
+      "commentId": "6941808500000000160268b8",
+      "likes": 0,
+      "author": "Rocky"
+    },
+    {
+      "type": "sub_comment",
+      "text": "开卷慌啥 不能一学期啥都没学吧",
+      "sourceRef": "comment:69418c1d0000000039000333",
+      "commentId": "69418c1d0000000039000333",
+      "likes": 0,
+      "author": "一只Gawin"
+    },
+    {
+      "type": "comment",
+      "text": "请问那个points是啥呀[萌萌哒R]",
+      "sourceRef": "comment:6954f531000000001d00fb85",
+      "commentId": "6954f531000000001d00fb85",
+      "likes": 0,
+      "author": "AAA海拉鲁在逃甜心莱尼尔"
+    },
+    {
+      "type": "sub_comment",
+      "text": "Gpa * 这学期的学分",
+      "sourceRef": "comment:695507a4000000000f0287fd",
+      "commentId": "695507a4000000000f0287fd",
+      "likes": 0,
+      "author": "一只Gawin"
+    },
+    {
+      "type": "comment",
+      "text": "请问6012的考试需要编程吗[哭惹R]",
+      "sourceRef": "comment:6888e10f000000002a008027",
+      "commentId": "6888e10f000000002a008027",
+      "likes": 1,
+      "author": "小哭哭"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我记得没考",
+      "sourceRef": "comment:6888ee40000000002b0192fd",
+      "commentId": "6888ee40000000002b0192fd",
+      "likes": 0,
+      "author": "一只Gawin"
+    },
+    {
+      "type": "comment",
+      "text": "请问只学过高数1和高数2的同学建议在暑假把线代概率论学会吗，上课对他的要求有多少",
+      "sourceRef": "comment:68494ce8000000001c0377bd",
+      "commentId": "68494ce8000000001c0377bd",
+      "likes": 1,
+      "author": "ichbinherrliu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "老师都会大概过一遍数学的东西 学不学问题不大 ml和dl基础知识多学会有帮助",
+      "sourceRef": "comment:684963b3000000000702a177",
+      "commentId": "684963b3000000000702a177",
+      "likes": 3,
+      "author": "一只Gawin"
+    },
+    {
+      "type": "comment",
+      "text": "想问问uu必修课考勤吗[皱眉R]",
+      "sourceRef": "comment:68ae7410000000003000e283",
+      "commentId": "68ae7410000000003000e283",
+      "likes": 0,
+      "author": "jin"
+    },
+    {
+      "type": "comment",
+      "text": "请问是不是cs的课程比ds更难或者事情更多一点呀",
+      "sourceRef": "comment:682208130000000013012999",
+      "commentId": "682208130000000013012999",
+      "likes": 0,
+      "author": "decland"
+    },
+    {
+      "type": "comment",
+      "text": "之前3.65，又变3.5了吗.[偷笑R]",
+      "sourceRef": "comment:677e193d0000000022001532",
+      "commentId": "677e193d0000000022001532",
+      "likes": 0,
+      "author": "晓筱"
+    },
+    {
+      "type": "comment",
+      "text": "请问看课程大纲的时候有的会标注有pre-requisite 的条件 比如5487里面有数据结构和线代 请问它的这个意思是是建议修过这两门课的选还是必须修过这两门才能选呢 如果是后者有什么审查条件嘛[哭惹R]",
+      "sourceRef": "comment:68821f030000000019026b26",
+      "commentId": "68821f030000000019026b26",
+      "likes": 1,
+      "author": "钽钽"
+    },
+    {
+      "type": "comment",
+      "text": "3.4学渣[失望R]3.0算啥，学猹？[哭惹R]",
+      "sourceRef": "comment:677e953d000000001b039251",
+      "commentId": "677e953d000000001b039251",
+      "likes": 2,
+      "author": "momo"
+    }
+  ]
+}

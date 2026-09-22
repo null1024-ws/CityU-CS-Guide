@@ -1,0 +1,123 @@
+{
+  "note_id": "6ab15c61000000003101375b",
+  "url": "https://www.xiaohongshu.com/explore/6ab15c61000000003101375b?xsec_token=ABK8U--p2vubMZmfX8tSLdUdZFgyOyYGUe0FUjZxu8uMI=",
+  "fetched_at": 1790081983.6885822,
+  "search_item": {
+    "id": "6ab15c61000000003101375b",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1678,
+          "width": 2188,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/68c732318aeec43fd18c2b2a26c1028e/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/937828e3fb08e7c6f52287d7c120088c/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "20小时前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "给Freddie加了“选中分析”的功能",
+      "user": {
+        "userId": "6156b7b0000000000201eeb0",
+        "nickname": "三三",
+        "xsecToken": "ABZhlzwCTIrVv1RoLnSrZZx0UC9Aj1oMI6m3yssEvXFsk=",
+        "nickName": "三三",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ge5b34uji605oammuo0jrlg62qoarg?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "commentCount": "0",
+        "sharedCount": "1",
+        "liked": false,
+        "likedCount": "2",
+        "collected": false,
+        "collectedCount": "0"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/937828e3fb08e7c6f52287d7c120088c/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nc_n_webp_prv_1",
+        "height": 1678,
+        "width": 2188,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/68c732318aeec43fd18c2b2a26c1028e/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nc_n_webp_mw_1"
+      }
+    },
+    "xsecToken": "ABK8U--p2vubMZmfX8tSLdUdZFgyOyYGUe0FUjZxu8uMI=",
+    "index": 30,
+    "exposed": false,
+    "trackId": "6ab15c61000000003101375b"
+  },
+  "note": {
+    "type": "normal",
+    "title": "给Freddie加了“选中分析”的功能",
+    "desc": "选中段落/词语后打包context交给llm分析解释含义with Response api的web_search支持hh\npaper之外也🉑clip网页啦（\n#提供思路和创新点[话题]#",
+    "user": {
+      "userId": "6156b7b0000000000201eeb0",
+      "nickname": "三三",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ge5b34uji605oammuo0jrlg62qoarg",
+      "xsecToken": "ABNd6hKQLI3qMo_ViaZD7Kd8VandH0cy1Cre41DLRMcQ0="
+    },
+    "tagList": [
+      {
+        "name": "提供思路和创新点",
+        "type": "topic",
+        "id": "6561b1e00000000023023ce1"
+      }
+    ],
+    "atUserList": [],
+    "time": 1790008417000,
+    "lastUpdateTime": 1790008417000,
+    "noteId": "6ab15c61000000003101375b",
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "2",
+      "collected": false,
+      "commentCount": "",
+      "shareCount": "1",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "collectedCount": ""
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo",
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/a726f633936532f52efa20f797a1b7af/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/245939632c26cc254d00c5e2d417b0ce/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/a726f633936532f52efa20f797a1b7af/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1678,
+        "width": 2188,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/245939632c26cc254d00c5e2d417b0ce/notes_pre_post/1040g3k8325csl98k4e005oammuo0jrlg180kggo!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "ipLocation": "上海",
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABK8U--p2vubMZmfX8tSLdUdZFgyOyYGUe0FUjZxu8uMI="
+  },
+  "comments": [],
+  "search_query": "CS5286 web search"
+}

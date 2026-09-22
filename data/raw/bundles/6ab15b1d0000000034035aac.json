@@ -1,0 +1,18 @@
+{
+  "note_id": "6ab15b1d0000000034035aac",
+  "url": "https://www.xiaohongshu.com/explore/6ab15b1d0000000034035aac?xsec_token=ABK8U--p2vubMZmfX8tSLdUT8nnozo8_CA2RQZdqGFl04=",
+  "fetched_at": 1790081998.3054736,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "what i'm focusing on",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "In just days, our system went from 2 agents (voice, PPT) to 4 (voice, PPT, web search, browser-use) — five roles counting the human, collaborating asynchronously yet real-time. New agents register and join with ease, and latency stays low. The human speaks and listens to the voice agent, which is voice-connected to every other agent and knows when to speak up on its own.\nIt all runs on a consumer-grade laptop, under 16GB of VRAM: Qwen3-ASR-0.6B for recognition, lightweight IndexTTS-2.5 for synthesis, no fine-tuning — just the DeepSeek-V4.1-Flash API. In a room that is anything but quiet, the latest version filters out most of the noise.\nToday's AI, I believe, is about two things: understanding and interaction. Understanding pursues the upper bound of intelligence; interaction should center on humans. Its value: first, once models understand, interaction decides how efficiently humans understand what they produce — in essence, education. Second, in the coming era of embodied intelligence, voice remains the most natural modality between humans and robots, just as it is between people.\nThe demo: in minutes, with voice alone, I controlled all three agents — even a drive can become productive conversation.",
+      "sourceRef": "post"
+    }
+  ]
+}

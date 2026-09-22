@@ -1,0 +1,403 @@
+{
+  "note_id": "6aa24f5b000000002902f3e7",
+  "url": "https://www.xiaohongshu.com/explore/6aa24f5b000000002902f3e7?xsec_token=AB8YbUEZlm45tXSx5dmfaYgJFF49lSS9YWGGE7H5jWVRY=",
+  "fetched_at": 1790081036.6766121,
+  "search_item": {
+    "id": "6aa24f5b000000002902f3e7",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/d474879acd65c9eb7cb6e5bf1ba0ffc4/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/6f677776b053be9004d96ae4b0a01861/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 552,
+          "width": 927,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/83f30af7dcceb0eeb214b0ec1e075ecd/1040g2sg324u65oihisp05oh3hdagkha545q3820!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/d43fc8098c0baa937fad67951fad82af/1040g2sg324u65oihisp05oh3hdagkha545q3820!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-10"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Cityu cs5489 5494 5495组队",
+      "user": {
+        "nickName": "大雨",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnor5cb4s6g5oh3hdagkha51he10e8?imageView2/2/w/80/format/jpg",
+        "userId": "62238b550000000002024545",
+        "nickname": "大雨",
+        "xsecToken": "ABTJOAHJ5dqMeM4lTZlxAKupT1_Hwo1sfxdZnoUA5ZKuc="
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "9",
+        "sharedCount": "0",
+        "liked": false,
+        "likedCount": "6"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222043/d474879acd65c9eb7cb6e5bf1ba0ffc4/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222043/6f677776b053be9004d96ae4b0a01861/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nc_n_webp_prv_1",
+        "height": 1600,
+        "width": 1200
+      }
+    },
+    "xsecToken": "AB8YbUEZlm45tXSx5dmfaYgJFF49lSS9YWGGE7H5jWVRY=",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6aa24f5b000000002902f3e7"
+  },
+  "note": {
+    "noteId": "6aa24f5b000000002902f3e7",
+    "type": "normal",
+    "desc": "主包cityu msai找搭子组队\n本科某东北9本软件工程 一段算是算法的实习 成果如p2\n希望如果能是三门课都正好选的同学就更好了，如果没有的话一两门一块也是可以的[赞R]\n队友不摆烂不失联就行 我也知道大家都挺忙的也得准备找工作啥的我也一样，所以咱们把作业完成的还可以就行别交太难看的就行，工作量也都均匀一些，我也比较好说话，有啥可以都商量着来\n#cityu[话题]# #组队[话题]##计算机科学与技术[话题]# #港硕[话题]#",
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu"
+      },
+      {
+        "id": "5d7458c20000000002000c0b",
+        "name": "组队",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5ead6bd80000000001003217",
+        "name": "计算机科学与技术"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1789022043000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "Cityu cs5489 5494 5495组队",
+    "user": {
+      "userId": "62238b550000000002024545",
+      "nickname": "大雨",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnor5cb4s6g5oh3hdagkha51he10e8",
+      "xsecToken": "ABR9qxWYsZDAgrU85DozNA84V24-ttOV8maM8WW_-E2mw="
+    },
+    "interactInfo": {
+      "followed": false,
+      "niceCount": "",
+      "collected": false,
+      "collectedCount": "",
+      "commentCount": "9",
+      "shareCount": "",
+      "relation": "none",
+      "liked": false,
+      "likedCount": "6"
+    },
+    "imageList": [
+      {
+        "fileId": "1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8",
+        "width": 1200,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222044/72fe4768b9aa6bd5b431965d0a422daf/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222044/45e36ca9a10e20781030d8b449dae7f1/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222044/45e36ca9a10e20781030d8b449dae7f1/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nd_dft_wlteh_jpg_3",
+        "height": 1600,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222044/72fe4768b9aa6bd5b431965d0a422daf/1040g2sg324u65oihisqg5oh3hdagkha5s4ub8o8!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222044/2073b105b4257f2663ddcbbbfd821fed/1040g2sg324u65oihisp05oh3hdagkha545q3820!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222044/27b0ecd1e0940bc53f699086a2f95c3f/1040g2sg324u65oihisp05oh3hdagkha545q3820!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "fileId": "1040g2sg324u65oihisp05oh3hdagkha545q3820",
+        "width": 927,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222044/2073b105b4257f2663ddcbbbfd821fed/1040g2sg324u65oihisp05oh3hdagkha545q3820!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222044/27b0ecd1e0940bc53f699086a2f95c3f/1040g2sg324u65oihisp05oh3hdagkha545q3820!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 552
+      }
+    ],
+    "lastUpdateTime": 1789022044000,
+    "ipLocation": "广东",
+    "xsecToken": "AB8YbUEZlm45tXSx5dmfaYgJFF49lSS9YWGGE7H5jWVRY="
+  },
+  "comments": [
+    {
+      "noteId": "6aa24f5b000000002902f3e7",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "nickname": "Heng",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31me6kslal86g4a7k0i9hs6lhth59mvo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbwFEjrqaXhd6exCqPgI8SzFUL1Ect1r1c7HBT2mz_2E=",
+        "userId": "5b5c131e6b58b73648d01ab1"
+      },
+      "ipLocation": "中国香港",
+      "subCommentCursor": "6aa2aa63000000000a01e0cf",
+      "content": "5489[派对R]",
+      "createTime": 1789044984000,
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "showTags": [],
+      "invalid": false,
+      "id": "6aa2a8f700000000150029f3",
+      "status": 0,
+      "atUsers": [],
+      "subComments": [
+        {
+          "id": "6aa2aa63000000000a01e0cf",
+          "status": 0,
+          "content": "不好意思5489跟别的同学组好了[完啦R]要不在这个帖子你再蹲蹲别的同学或者群里面问问什么的",
+          "userInfo": {
+            "xsecToken": "ABgVoezU3hsJ1RAImXSagJaizaa8ghOPSt6wckiyGUaJo=",
+            "userId": "62238b550000000002024545",
+            "nickname": "大雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnor5cb4s6g5oh3hdagkha51he10e8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789045348000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5b5c131e6b58b73648d01ab1",
+              "nickname": "Heng",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31me6kslal86g4a7k0i9hs6lhth59mvo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABbwFEjrqaXhd6exCqPgI8SzFUL1Ect1r1c7HBT2mz_2E="
+            },
+            "id": "6aa2a8f700000000150029f3"
+          },
+          "noteId": "6aa24f5b000000002902f3e7",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6aa24f5b000000002902f3e7",
+      "userInfo": {
+        "nickname": "Marauder",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312n1jopt2e5g5n3ehmlka9c3e1227n8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABGZUsXjWasOewu8gpipWLnt8lq_NKSAeVtaVA347xyRg=",
+        "userId": "5c6e8dab0000000011012583"
+      },
+      "showTags": [],
+      "ipLocation": "北京",
+      "status": 0,
+      "content": "哥哥我能和你组队吗哥哥",
+      "atUsers": [],
+      "createTime": 1789023503000,
+      "subCommentCursor": "6aa2592d000000000b019cc3",
+      "subCommentHasMore": false,
+      "liked": false,
+      "subComments": [
+        {
+          "content": "6",
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6aa2550e0000000014032c74",
+            "userInfo": {
+              "userId": "5c6e8dab0000000011012583",
+              "nickname": "Marauder",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312n1jopt2e5g5n3ehmlka9c3e1227n8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABGZUsXjWasOewu8gpipWLnt8lq_NKSAeVtaVA347xyRg="
+            }
+          },
+          "invalid": false,
+          "id": "6aa2592d000000000b019cc3",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "ABgVoezU3hsJ1RAImXSagJaizaa8ghOPSt6wckiyGUaJo=",
+            "userId": "62238b550000000002024545",
+            "nickname": "大雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnor5cb4s6g5oh3hdagkha51he10e8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789024558000,
+          "noteId": "6aa24f5b000000002902f3e7"
+        }
+      ],
+      "id": "6aa2550e0000000014032c74",
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "content": "好好好你快来吧",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nnor5cb4s6g5oh3hdagkha51he10e8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABgVoezU3hsJ1RAImXSagJaizaa8ghOPSt6wckiyGUaJo=",
+            "userId": "62238b550000000002024545",
+            "nickname": "大雨"
+          },
+          "createTime": 1789054859000,
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6aa2cde2000000000b0197da",
+            "userInfo": {
+              "userId": "62e5df9a000000001f014962",
+              "nickname": "宋比特",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lvb457lku005on5rud7qib2uc67mvo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABXjRc_GeO_fDjf4VXf7lkGV38HUhmdywXmZSXd0pooVw="
+            }
+          },
+          "invalid": false,
+          "id": "6aa2cf8a000000001402dad4",
+          "noteId": "6aa24f5b000000002902f3e7",
+          "status": 0
+        }
+      ],
+      "subCommentCursor": "6aa2cf8a000000001402dad4",
+      "id": "6aa2cde2000000000b0197da",
+      "status": 0,
+      "content": "我🙋",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "noteId": "6aa24f5b000000002902f3e7",
+      "showTags": [],
+      "subCommentCount": "1",
+      "invalid": false,
+      "userInfo": {
+        "userId": "62e5df9a000000001f014962",
+        "nickname": "宋比特",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lvb457lku005on5rud7qib2uc67mvo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXjRc_GeO_fDjf4VXf7lkGV38HUhmdywXmZSXd0pooVw="
+      },
+      "createTime": 1789054434000,
+      "subCommentHasMore": false,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "5494dd",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABmPD1AugDy3xUUdt-n-81W3qyd-bZG0lZoyTaBg_EF-U=",
+        "userId": "62d0d559000000000e00d1a4",
+        "nickname": "apprl",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320hg6ht15k005omgqlcjhkd4jt2ld50?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "广东",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "id": "6aa34d62000000000b01b6f7",
+      "noteId": "6aa24f5b000000002902f3e7",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "invalid": false,
+      "status": 0,
+      "createTime": 1789087074000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "content": "单5495捞捞[皱眉R]",
+      "atUsers": [],
+      "ipLocation": "美国",
+      "id": "6aa26f9a0000000014039236",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "subCommentCursor": "",
+      "noteId": "6aa24f5b000000002902f3e7",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324b8ubec0a6g5pv8siv3jnh1ric611g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABwHEhqwr3EDW8s9CFaEiiMH3qE_VeNbMQllmfbMq9rHQ=",
+        "userId": "67e8e4be000000000e01de21",
+        "nickname": "SasakiMakoto"
+      },
+      "createTime": 1789030299000,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 CityU"
+}

@@ -1,0 +1,52 @@
+{
+  "note_id": "6a96d067000000002901967d",
+  "url": "https://www.xiaohongshu.com/explore/6a96d067000000002901967d?xsec_token=ABODIk6yy_-V48ME6PZdmEApT8kzUE4Jv5TklZewsZzVc=",
+  "fetched_at": 1790080595.0108778,
+  "course_codes": [
+    "CS5185"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城莞cs5185有小组项目组队的吗",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#港城莞[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "sub_comment",
+      "text": "你为啥在河北，不上班？",
+      "sourceRef": "comment:6a9a432c00000000140325e5",
+      "commentId": "6a9a432c00000000140325e5",
+      "likes": 0,
+      "author": "Mine Mine（见过jay版）"
+    },
+    {
+      "type": "comment",
+      "text": "5185需要组队吗，我看目前什么通知都没发啊[石化R]",
+      "sourceRef": "comment:6a9e9007000000000b01df3c",
+      "commentId": "6a9e9007000000000b01df3c",
+      "likes": 0,
+      "author": "marin"
+    },
+    {
+      "type": "sub_comment",
+      "text": "有个20分的course project",
+      "sourceRef": "comment:6a9ea20c000000000200dff6",
+      "commentId": "6a9ea20c000000000200dff6",
+      "likes": 0,
+      "author": "Mine Mine（见过jay版）"
+    },
+    {
+      "type": "comment",
+      "text": "同找5487，5187，5491小组项目组队",
+      "sourceRef": "comment:6a9957f3000000000b01fd5e",
+      "commentId": "6a9957f3000000000b01fd5e",
+      "likes": 0,
+      "author": "Zzzzz"
+    }
+  ]
+}

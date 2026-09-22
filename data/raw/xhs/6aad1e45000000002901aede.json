@@ -1,0 +1,247 @@
+{
+  "note_id": "6aad1e45000000002901aede",
+  "url": "https://www.xiaohongshu.com/explore/6aad1e45000000002901aede?xsec_token=ABkIX9KwS_9zuYqGCknT06hFrfM3W1xidE__bDfns-Fsc=",
+  "fetched_at": 1790080192.5409172,
+  "search_item": {
+    "xsecToken": "ABkIX9KwS_9zuYqGCknT06hFrfM3W1xidE__bDfns-Fsc=",
+    "id": "6aad1e45000000002901aede",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "该不该选iems5726",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p68ft0n2o005ovpha1jq4gfq2s87fo?imageView2/2/w/80/format/jpg",
+        "userId": "63f98a83000000000f01120f",
+        "nickname": "Chaq",
+        "xsecToken": "ABZYu0pqcMqa0Vg8pTBWzh5KEpnDgzDCmFtFvx0zc06nQ=",
+        "nickName": "Chaq"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "4",
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "1"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222029/c7b632b8a21b88a9228d8f844126bdbe/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222029/95f10be4aac5d49f51208a0797a2ec46/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222029/c7b632b8a21b88a9228d8f844126bdbe/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222029/95f10be4aac5d49f51208a0797a2ec46/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "4天前"
+        }
+      ]
+    },
+    "index": 36,
+    "exposed": false,
+    "trackId": "6aad1e45000000002901aede"
+  },
+  "note": {
+    "type": "normal",
+    "title": "该不该选iems5726",
+    "interactInfo": {
+      "niceCount": "",
+      "collectedCount": "",
+      "commentCount": "4",
+      "followed": false,
+      "liked": false,
+      "likedCount": "1",
+      "collected": false,
+      "shareCount": "2",
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio",
+        "height": 1600,
+        "width": 1200,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222030/38a6bf5674c30b58cf05a4145851a3c7/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222030/38a6bf5674c30b58cf05a4145851a3c7/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222030/1c341a94ce9ab89cb874368d00cd6c6d/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222030/1c341a94ce9ab89cb874368d00cd6c6d/notes_pre_post/1040g3k03258o1oodkee05ovpha1jq4gf1vdrdio!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c1b7b0f0000000008003a1d",
+        "name": "cuhk",
+        "type": "topic"
+      },
+      {
+        "id": "654252d30000000001011aed",
+        "name": "cuhkie",
+        "type": "topic"
+      }
+    ],
+    "time": 1789730373000,
+    "ipLocation": "中国香港",
+    "noteId": "6aad1e45000000002901aede",
+    "desc": "本人是cu robotics的，可以跨选一门系外课，但现在选课结果还在pending中，同时下周一就是add/drop的截止时间了，想看看选择这个课程的同学对这门课的评价怎么样啊，如果workload太大我就需要在下周一前交申请退掉这门课了，虽然也有选不上这门课的可能[笑哭R]感谢大家[合十R]#cuhk[话题]# #cuhkie[话题]#",
+    "user": {
+      "nickname": "Chaq",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p68ft0n2o005ovpha1jq4gfq2s87fo",
+      "xsecToken": "ABqTcqHVS1m39RYB8mGzZTLj_PW7yOSA3WPRd2MkQ_Yy8=",
+      "userId": "63f98a83000000000f01120f"
+    },
+    "atUserList": [],
+    "lastUpdateTime": 1789730463000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABkIX9KwS_9zuYqGCknT06hFrfM3W1xidE__bDfns-Fsc="
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "likeCount": "0",
+          "ipLocation": "中国香港",
+          "content": "还行吧，我们的课都不签到",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p68ft0n2o005ovpha1jq4gfq2s87fo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABef8KdZEM4jcyowHe56Q5NPClSv3D8zz6o5-c7vV2mUE=",
+            "userId": "63f98a83000000000f01120f",
+            "nickname": "Chaq"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789967364000,
+          "targetComment": {
+            "id": "6ab09a08000000000202b266",
+            "userInfo": {
+              "userId": "60a8e273000000000100bef7",
+              "nickname": "NANANANA",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3253r7ejk3c6g5o58s9pg9fnng6ipsn8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNOHnJIAh3Hh-NeBiB8J3lwFCwGVSTLb_yh1qyL0VLSQ="
+            }
+          },
+          "invalid": false,
+          "id": "6ab0bc03000000000b01d912",
+          "noteId": "6aad1e45000000002901aede",
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "id": "6ab09a08000000000202b266",
+      "noteId": "6aad1e45000000002901aede",
+      "status": 0,
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "createTime": 1789958665000,
+      "ipLocation": "黑龙江",
+      "subCommentCursor": "6ab0bc03000000000b01d912",
+      "content": "好实习不robotics",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "ABNOHnJIAh3Hh-NeBiB8J3lwFCwGVSTLb_yh1qyL0VLSQ=",
+        "userId": "60a8e273000000000100bef7",
+        "nickname": "NANANANA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3253r7ejk3c6g5o58s9pg9fnng6ipsn8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6aade704000000001500c783",
+      "subCommentHasMore": false,
+      "content": "我有个问题，跨选课程的状态有显示吗？我怎么只交了一个表，然后系统上啥也没有\n5726这学年是新老师，人应该是不错的，四次作业一个Course Project，期末开卷。但ie的课要考勤，缺勤50%挂科，缺勤30%-50%成绩降三个等级",
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "createTime": 1789781764000,
+          "targetComment": {
+            "id": "6aad7580000000001500b12b",
+            "userInfo": {
+              "nickname": "XXX1934",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKg92fZYmDjgHl676DRvu85Oo3pJJfXrTa2CvB0egcVE=",
+              "userId": "6450fd180000000029016b98"
+            }
+          },
+          "id": "6aade704000000001500c783",
+          "content": "感谢解答[哇R][哇R]关于e-form的话，选没选上是教务员发邮件告诉我们的，不是在系统查的，如果选上的话，应该系统上就有了",
+          "atUsers": [],
+          "liked": false,
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "noteId": "6aad1e45000000002901aede",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABef8KdZEM4jcyowHe56Q5NPClSv3D8zz6o5-c7vV2mUE=",
+            "userId": "63f98a83000000000f01120f",
+            "nickname": "Chaq",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p68ft0n2o005ovpha1jq4gfq2s87fo?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "6aad7580000000001500b12b",
+      "atUsers": [],
+      "createTime": 1789752705000,
+      "invalid": false,
+      "noteId": "6aad1e45000000002901aede",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "status": 0,
+      "liked": false,
+      "userInfo": {
+        "userId": "6450fd180000000029016b98",
+        "nickname": "XXX1934",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/166ad12ae9a7f6fbb4bbbf88d417895f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKg92fZYmDjgHl676DRvu85Oo3pJJfXrTa2CvB0egcVE="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 Multimedia Technologies and"
+}

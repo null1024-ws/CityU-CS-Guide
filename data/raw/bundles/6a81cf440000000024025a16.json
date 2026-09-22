@@ -1,0 +1,26 @@
+{
+  "note_id": "6a81cf440000000024025a16",
+  "url": "https://www.xiaohongshu.com/explore/6a81cf440000000024025a16?xsec_token=ABQZCZ_iv7Bj9HC9CnQjzVNRG67NBLPXLI9xoDFz3yYGc=",
+  "fetched_at": 1790081864.8447132,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UIUC26年还在教学生基础算法课",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "伊利诺伊大学香槟分校 Spring 2026 的 CS/ECE 374：Introduction to Algorithms & Models of Computation 已经结束，逐讲录像、课堂笔记、Lab handouts 和作业题仍然公开。\n\t\n它不是把排序、树和图再讲一遍，而是训练两件更难的事：面对新问题怎样设计算法，以及怎样证明这个算法真的正确。\n\t\n课程前半段先建立计算模型：\n－字符串、归纳法和正则表达式\n－DFA、NFA 与上下文无关文法\n－图灵机与不可判定问题\n\t\n然后进入算法设计：\n－递归、分治与回溯\n－动态规划与贪心\n－DFS、拓扑排序和强连通分量\n－最短路、最小生成树和图建模\n－多项式时间归约、NP-complete 与 NP-hardness\n\t\n最有价值的是 12 次书面作业。\n\t\n它们从“用归纳法证明字符串性质”开始，逐步做到自动机构造、分治、动态规划、图算法、归约和不可判定性。题目不是让你套模板写几行代码，而是要求提出方案、分析复杂度，再把正确性证明写清楚。\n\t\n所以 CS374 更适合学完数据结构之后再上。你需要熟悉 Big-O、递归、树、图、BFS/DFS，并掌握集合、逻辑和归纳证明。只刷过题但没系统学过离散数学，前几周就会遇到明显门槛。\n\t\n#UIUC[话题]# #算法[话题]# #数据结构[话题]# #计算机专业[话题]# #计算机[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "听说这课TA小哥哥很帅",
+      "sourceRef": "comment:6a863668000000000d023401",
+      "commentId": "6a863668000000000d023401",
+      "likes": 0,
+      "author": "小红薯676DFABC"
+    }
+  ]
+}

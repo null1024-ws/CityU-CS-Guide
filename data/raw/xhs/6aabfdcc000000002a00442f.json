@@ -1,0 +1,219 @@
+{
+  "note_id": "6aabfdcc000000002a00442f",
+  "url": "https://www.xiaohongshu.com/explore/6aabfdcc000000002a00442f?xsec_token=AB2RzKNYhnlwCRhCzmHgJyAmiQw6pLFSn4Bq1D1AiaaUI=",
+  "fetched_at": 1790083676.3079097,
+  "search_item": {
+    "id": "6aabfdcc000000002a00442f",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "繁",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323okg5397a005od2tpd41c4qbtugbdg?imageView2/2/w/80/format/jpg",
+        "userId": "61a2ee5a000000001000b09a",
+        "nickname": "繁",
+        "xsecToken": "ABU8EeTsia44XV76hK4cbyRtY0Yhb1enBtAh07t28Aus0="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "0",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "4",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222127/16b93c91120627261799305274aec735/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222127/3a1f55973cc1c53fb4df9598cddff31a/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222127/16b93c91120627261799305274aec735/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222127/3a1f55973cc1c53fb4df9598cddff31a/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "4天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "捞捞队友一起做assignment"
+    },
+    "xsecToken": "AB2RzKNYhnlwCRhCzmHgJyAmiQw6pLFSn4Bq1D1AiaaUI=",
+    "index": 2,
+    "exposed": true,
+    "trackId": "6aabfdcc000000002a00442f"
+  },
+  "note": {
+    "atUserList": [],
+    "lastUpdateTime": 1789656525000,
+    "ipLocation": "中国香港",
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "#香港城市大学[话题]# #计算机科学[话题]# #留学生作业[话题]#",
+    "user": {
+      "userId": "61a2ee5a000000001000b09a",
+      "nickname": "繁",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323okg5397a005od2tpd41c4qbtugbdg",
+      "xsecToken": "AB_MFCJrpT__nQJlQ5zLXZyP0_KHpDCdlz5DLdd_gYZiU="
+    },
+    "interactInfo": {
+      "liked": false,
+      "likedCount": "",
+      "collectedCount": "",
+      "commentCount": "4",
+      "shareCount": "",
+      "followed": false,
+      "collected": false,
+      "relation": "none",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222128/aa92b3d0eaba0276600bcc943f835ce1/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222128/8692ec00d8d9fc135fc5516859f8dec2/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222128/aa92b3d0eaba0276600bcc943f835ce1/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222128/8692ec00d8d9fc135fc5516859f8dec2/notes_pre_post/1040g3k83257kmsackq705od2tpd41c4qngvb650!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "name": "香港城市大学",
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433"
+      },
+      {
+        "id": "5e4e96a7000000000100451c",
+        "name": "计算机科学",
+        "type": "topic"
+      },
+      {
+        "id": "5e8974d70000000001000995",
+        "name": "留学生作业",
+        "type": "topic"
+      }
+    ],
+    "time": 1789656524000,
+    "noteId": "6aabfdcc000000002a00442f",
+    "title": "捞捞队友一起做assignment",
+    "xsecToken": "AB2RzKNYhnlwCRhCzmHgJyAmiQw6pLFSn4Bq1D1AiaaUI="
+  },
+  "comments": [
+    {
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j6pc8oq2o6g5piobc10u6m45oh1m30?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABVafE_PneYNnnD5TzGXAFOucO_w2k2WeT2OjQwC_5hR4=",
+        "userId": "66585b020000000003031ac4",
+        "nickname": "烨苛"
+      },
+      "content": "还需要吗",
+      "liked": false,
+      "createTime": 1789791467000,
+      "subCommentCount": "2",
+      "id": "6aae0ceb00000000150149c1",
+      "noteId": "6aabfdcc000000002a00442f",
+      "likeCount": "0",
+      "ipLocation": "广东",
+      "subCommentCursor": "6aae54f100000000150225d8",
+      "subCommentHasMore": true,
+      "invalid": false,
+      "atUsers": [],
+      "showTags": [],
+      "subComments": [
+        {
+          "content": "要一起做assignment吗[微笑R]",
+          "liked": false,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323okg5397a005od2tpd41c4qbtugbdg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDMTkhTLxyIItRBBIdrRx8EWNdkSH1ZVtr_rgA8e5LCw=",
+            "userId": "61a2ee5a000000001000b09a",
+            "nickname": "繁"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789809905000,
+          "targetComment": {
+            "id": "6aae0ceb00000000150149c1",
+            "userInfo": {
+              "xsecToken": "ABVafE_PneYNnnD5TzGXAFOucO_w2k2WeT2OjQwC_5hR4=",
+              "userId": "66585b020000000003031ac4",
+              "nickname": "烨苛",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j6pc8oq2o6g5piobc10u6m45oh1m30?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "id": "6aae54f100000000150225d8",
+          "noteId": "6aabfdcc000000002a00442f"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6aabfdcc000000002a00442f",
+      "showTags": [],
+      "invalid": false,
+      "id": "6ab247d9000000000d023c02",
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31sg643et623g5pt2sbq397tusbrtcb8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFP_wiceREJWivti9AMWCeh8iREfrapj2M11eSYFdf6Q=",
+        "userId": "67a2e2f4000000000d009fbe",
+        "nickname": "Tiaki"
+      },
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "status": 0,
+      "content": "1",
+      "atUsers": [],
+      "createTime": 1790068698000,
+      "ipLocation": "美国",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 城大CS"
+}

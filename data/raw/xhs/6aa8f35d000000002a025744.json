@@ -1,0 +1,381 @@
+{
+  "note_id": "6aa8f35d000000002a025744",
+  "url": "https://www.xiaohongshu.com/explore/6aa8f35d000000002a025744?xsec_token=ABgkxdUXKvPj_Ggs8Nw8y-IeMmfz2KqQ3btN_N8JVcPZg=",
+  "fetched_at": 1790081023.2554615,
+  "search_item": {
+    "id": "6aa8f35d000000002a025744",
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/532890b958052ed14677b72606d0e60d/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/ac9d70239a571d41380558ddd98fdfe2/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1014,
+          "width": 1336,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/cdcad4ba5608db60738e1c85bcf394b0/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222043/8b74218ea7b395e228e9c854c1184afd/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "6天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城大master 27fall开放申请了！",
+      "user": {
+        "userId": "5d99d4750000000001006ce6",
+        "nickname": "Enzo",
+        "xsecToken": "ABUVyEO1-KYv-532P3RQW8Rig_nAxslYG0v2nRnY9SnCQ=",
+        "nickName": "Enzo",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "5",
+        "commentCount": "6",
+        "sharedCount": "17",
+        "liked": false,
+        "likedCount": "8"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222043/532890b958052ed14677b72606d0e60d/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222043/ac9d70239a571d41380558ddd98fdfe2/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nc_n_webp_prv_1"
+      }
+    },
+    "xsecToken": "ABgkxdUXKvPj_Ggs8Nw8y-IeMmfz2KqQ3btN_N8JVcPZg=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6aa8f35d000000002a025744"
+  },
+  "note": {
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "6353a216000000000100b54d",
+        "name": "香港留学",
+        "type": "topic"
+      },
+      {
+        "id": "639a9193000000000101f209",
+        "name": "27fall",
+        "type": "topic"
+      },
+      {
+        "id": "60a65e500000000001001ded",
+        "name": "CityU",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "id": "5d78cfb7000000000101cad9",
+        "name": "留学申请季",
+        "type": "topic"
+      },
+      {
+        "id": "5d1d701100000000180250fe",
+        "name": "硕士留学",
+        "type": "topic"
+      },
+      {
+        "name": "留学规划",
+        "type": "topic",
+        "id": "5c8474a8000000000f00f5f6"
+      }
+    ],
+    "atUserList": [],
+    "time": 1789457245000,
+    "lastUpdateTime": 1789540268000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "desc": "作为CityU CS 25fall的学生，关心一下每年CS的学费。\n\t\nCS master 27fall学费为图[二R]：\n每学分10100HKD x 30学分 = 303000 HKD\n\t\n比26fall又涨了3w，比25fall涨了8w……[偷笑R][偷笑R][偷笑R]\n早读早赚😁\n\t\n#香港城市大学[话题]# #香港留学[话题]# #27fall[话题]# #CityU[话题]# #CS[话题]# #计算机[话题]# #港硕[话题]# #留学申请季[话题]# #硕士留学[话题]# #留学规划[话题]#",
+    "user": {
+      "userId": "5d99d4750000000001006ce6",
+      "nickname": "Enzo",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8",
+      "xsecToken": "ABOwo0enHyIzOFBWOvcxWoJI4XcAWheLtaXXNacZ2YTLM="
+    },
+    "imageList": [
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222043/164fd7b6746e5735d2967a85c4cf2ea2/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222043/1429a981ae0cc271940cd6f973a88ec0/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "height": 1600,
+        "url": "",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8",
+        "width": 1200,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222043/164fd7b6746e5735d2967a85c4cf2ea2/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222043/1429a981ae0cc271940cd6f973a88ec0/notes_pre_post/1040g3k03254llmds3o005ncpqhqg8r7662b1kf8!nd_dft_wlteh_jpg_3"
+          }
+        ]
+      },
+      {
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48",
+        "height": 1014,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222043/bcf83d7f8d3c898afcf8588190c1afe2/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222043/d6ed12b00ce464e0abf5a3e7123d0fef/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222043/bcf83d7f8d3c898afcf8588190c1afe2/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "width": 1336,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222043/d6ed12b00ce464e0abf5a3e7123d0fef/notes_pre_post/1040g3k03254llmds3o0g5ncpqhqg8r76m6cfu48!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "ipLocation": "广东",
+    "noteId": "6aa8f35d000000002a025744",
+    "title": "港城大master 27fall开放申请了！",
+    "interactInfo": {
+      "niceCount": "",
+      "collected": false,
+      "shareCount": "17",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "likedCount": "8",
+      "collectedCount": "5",
+      "commentCount": "6"
+    },
+    "xsecToken": "ABgkxdUXKvPj_Ggs8Nw8y-IeMmfz2KqQ3btN_N8JVcPZg="
+  },
+  "comments": [
+    {
+      "subComments": [
+        {
+          "createTime": 1789483239000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "noteId": "6aa8f35d000000002a025744",
+          "status": 0,
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "5d99d4750000000001006ce6",
+            "nickname": "Enzo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDnEBRB-9WZAtlqc_FccV8XCaxlxS_0AqMzHe6cEGpYc="
+          },
+          "targetComment": {
+            "id": "6aa9551e0000000015015fa9",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qjnf65300005q8ehg7dtnt8auqhneo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABlIzRHcQ0W78Q89sIsGVyORfaz0rdpw5bMk6CtTy7p_c=",
+              "userId": "690e8c0e000000003702dfa8",
+              "nickname": "想要的都得到"
+            }
+          },
+          "id": "6aa958e700000000150116b0",
+          "content": "👍",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "6aa9551e0000000015015fa9",
+      "noteId": "6aa8f35d000000002a025744",
+      "content": "没事上班牛马会赚回来的",
+      "likeCount": "1",
+      "userInfo": {
+        "userId": "690e8c0e000000003702dfa8",
+        "nickname": "想要的都得到",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qjnf65300005q8ehg7dtnt8auqhneo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABlIzRHcQ0W78Q89sIsGVyORfaz0rdpw5bMk6CtTy7p_c="
+      },
+      "showTags": [],
+      "subCommentCursor": "6aa958e700000000150116b0",
+      "subCommentHasMore": false,
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "1",
+      "invalid": false,
+      "createTime": 1789482271000,
+      "ipLocation": "广西",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5eae4dfb0000000001005b83",
+        "nickname": "Cassis儿儿",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/5eae4dfb0000000001005b83.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCfIarMwDN1iRydEITydy9xu_36APVM6AxcrupAuq-5s="
+      },
+      "createTime": 1789462909000,
+      "content": "这也太贵了..",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "1",
+      "noteId": "6aa8f35d000000002a025744",
+      "ipLocation": "广东",
+      "subCommentHasMore": false,
+      "subCommentCursor": "6aa90a8a000000000b012e8e",
+      "invalid": false,
+      "subComments": [
+        {
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789463179000,
+          "id": "6aa90a8a000000000b012e8e",
+          "content": "早读早珍惜[doge]",
+          "userInfo": {
+            "userId": "5d99d4750000000001006ce6",
+            "nickname": "Enzo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDnEBRB-9WZAtlqc_FccV8XCaxlxS_0AqMzHe6cEGpYc="
+          },
+          "ipLocation": "广东",
+          "targetComment": {
+            "userInfo": {
+              "userId": "5eae4dfb0000000001005b83",
+              "nickname": "Cassis儿儿",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/5eae4dfb0000000001005b83.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABCfIarMwDN1iRydEITydy9xu_36APVM6AxcrupAuq-5s="
+            },
+            "id": "6aa9097d000000000d023c00"
+          },
+          "invalid": false,
+          "noteId": "6aa8f35d000000002a025744"
+        }
+      ],
+      "id": "6aa9097d000000000d023c00",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6aa8fc26000000000200ce5e",
+      "status": 0,
+      "content": "越来越贵了[偷笑R]",
+      "showTags": [],
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "status": 0,
+          "content": "[偷笑R][偷笑R][偷笑R]早读早赚",
+          "liked": false,
+          "likeCount": "1",
+          "targetComment": {
+            "id": "6aa8fc26000000000200ce5e",
+            "userInfo": {
+              "userId": "63a5c5b600000000260108c3",
+              "nickname": "DongdongLee",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pllcv264k6g5ot5omr9i263f571cag?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABduPEBDO54glpKID1BmEjMW83viXgLgPavjZ06b4sIrE="
+            }
+          },
+          "noteId": "6aa8f35d000000002a025744",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5d99d4750000000001006ce6",
+            "nickname": "Enzo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mentvjk58105ncpqhqg8r76gtkcrb8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDnEBRB-9WZAtlqc_FccV8XCaxlxS_0AqMzHe6cEGpYc="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789460642000,
+          "ipLocation": "广东",
+          "invalid": false,
+          "id": "6aa900a2000000001500de8e"
+        }
+      ],
+      "invalid": false,
+      "noteId": "6aa8f35d000000002a025744",
+      "likeCount": "1",
+      "createTime": 1789459494000,
+      "subCommentCount": "1",
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "subCommentCursor": "6aa900a2000000001500de8e",
+      "liked": false,
+      "userInfo": {
+        "userId": "63a5c5b600000000260108c3",
+        "nickname": "DongdongLee",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pllcv264k6g5ot5omr9i263f571cag?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABduPEBDO54glpKID1BmEjMW83viXgLgPavjZ06b4sIrE="
+      },
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 CityU"
+}

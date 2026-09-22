@@ -1,0 +1,212 @@
+{
+  "note_id": "6aaab2d50000000028002d61",
+  "url": "https://www.xiaohongshu.com/explore/6aaab2d50000000028002d61?xsec_token=ABd99x_N3Ss-LPknXHg6bmgKK7vR-Fv-w9puBA8Nll4w0=",
+  "fetched_at": 1790082940.6134768,
+  "search_item": {
+    "id": "6aaab2d50000000028002d61",
+    "modelType": "note",
+    "noteCard": {
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "5天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "我好舒服呀",
+      "user": {
+        "xsecToken": "AB9Llwtl0N3tNGa3QMnMVe4vFlWP5MCphkIDdWazm2PM8=",
+        "nickName": "Ycaaty（cs🥣）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322bv9e0cmu005pfde2bh9uqlmlrjuj0?imageView2/2/w/80/format/jpg",
+        "userId": "65ed7097000000000500fb55",
+        "nickname": "Ycaaty（cs🥣）"
+      },
+      "interactInfo": {
+        "likedCount": "2",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "3",
+        "sharedCount": "0",
+        "liked": false
+      },
+      "cover": {
+        "height": 4284,
+        "width": 5712,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222115/a3b6a3c9abebf06bd2edd8caa15effac/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222115/b054dd1c75cbe6d5c0608c450632493c/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 4284,
+          "width": 5712,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222115/a3b6a3c9abebf06bd2edd8caa15effac/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222115/b054dd1c75cbe6d5c0608c450632493c/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ]
+    },
+    "xsecToken": "ABd99x_N3Ss-LPknXHg6bmgKK7vR-Fv-w9puBA8Nll4w0=",
+    "index": 23,
+    "exposed": false,
+    "trackId": "6aaab2d50000000028002d61"
+  },
+  "note": {
+    "user": {
+      "userId": "65ed7097000000000500fb55",
+      "nickname": "Ycaaty（cs🥣）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo322bv9e0cmu005pfde2bh9uqlmlrjuj0",
+      "xsecToken": "AB8_631H072mFqk4qkRUoac2KbwRKX3gCqmhIHWONLZmI="
+    },
+    "imageList": [
+      {
+        "width": 5712,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222115/a6b7cfd809882ce8321231ecbd12a163/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222115/e221084277628c217e372b953927ed1c/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222115/e221084277628c217e372b953927ed1c/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg",
+        "height": 4284,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222115/a6b7cfd809882ce8321231ecbd12a163/note_pre_post_uhdr/1040g3r03256ci2kc48005pfde2bh9uql3kua8kg!nd_prv_wgth_jpg_3"
+      }
+    ],
+    "time": 1789571797000,
+    "noteId": "6aaab2d50000000028002d61",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "3",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "2",
+      "collectedCount": "",
+      "shareCount": "",
+      "followed": false
+    },
+    "tagList": [
+      {
+        "id": "61e9895a00000000010012f6",
+        "name": "csgo女玩家",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5c3210260000000009033079",
+        "name": "csgo"
+      },
+      {
+        "id": "641b3672000000001803d665",
+        "name": "cs2",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1789571797000,
+    "ipLocation": "广东",
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "我好舒服呀",
+    "desc": "#csgo女玩家[话题]# #csgo[话题]# #cs2[话题]#",
+    "xsecToken": "ABd99x_N3Ss-LPknXHg6bmgKK7vR-Fv-w9puBA8Nll4w0="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "likeCount": "0",
+      "ipLocation": "江苏",
+      "subCommentCursor": "",
+      "id": "6aab5966000000000b01a418",
+      "status": 0,
+      "userInfo": {
+        "userId": "67149b71000000001d0208e5",
+        "nickname": "软体动物",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f3c86578b8c6ab3b068.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABBmdkvJr_6pxvnTbe2KreGiTCtZ8m0kp4s2RrzMhArgw="
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "subComments": [],
+      "noteId": "6aaab2d50000000028002d61",
+      "content": "还不错",
+      "createTime": 1789614439000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6aaab2d50000000028002d61",
+      "likeCount": "0",
+      "showTags": [],
+      "subComments": [],
+      "invalid": false,
+      "id": "6aabbb0d000000000b01a116",
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABfd_lml6bVuuV2v6c5JSkola_bKJi0BLCJgy6XhXosN4=",
+        "userId": "5c8cfcef0000000010027ef7",
+        "nickname": "Csgo豆干工作室",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323mnn1tomue05n4cvjnk4vnn7fcsb3g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "status": -2,
+      "content": "有需要陪🥣的板板可以滴滴我。包c[暗中观察R][暗中观察R]",
+      "atUsers": [],
+      "createTime": 1789639437000,
+      "ipLocation": "广西",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6aab6a17000000001402f26b",
+      "likeCount": "0",
+      "ipLocation": "贵州",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31udnm56u1m005o715h308rnt7qal14g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB6hLbnzky6zTL4jdRK_pDk5YSjj4YQtc-KzIEtRcLv50=",
+        "userId": "60e12c460000000001006efd",
+        "nickname": "搞你的欧尼酱"
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "invalid": false,
+      "noteId": "6aaab2d50000000028002d61",
+      "status": -2,
+      "content": "需要指导吗",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1789618711000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5288 怎么样"
+}

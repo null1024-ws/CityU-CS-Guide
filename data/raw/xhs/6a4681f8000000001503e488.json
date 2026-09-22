@@ -1,0 +1,307 @@
+{
+  "note_id": "6a4681f8000000001503e488",
+  "url": "https://www.xiaohongshu.com/explore/6a4681f8000000001503e488?xsec_token=AB0iw8vMCxvpraIKA1WGI4v9amY05_JvD0JXtirMmGp7c=",
+  "fetched_at": 1790081114.6656868,
+  "search_item": {
+    "id": "6a4681f8000000001503e488",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "OMSCS选课指南-Deterministic Optimization",
+      "user": {
+        "nickName": "Sofifi Rocks！",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/625cf84e45a7c17a43d42ab1.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5c47ec83000000001102a3de",
+        "nickname": "Sofifi Rocks！",
+        "xsecToken": "ABqjDQ-BOt5NJc69v4BvYYdUJmFRaPTMPbqOwU_gQMHI8="
+      },
+      "interactInfo": {
+        "likedCount": "17",
+        "collected": false,
+        "collectedCount": "11",
+        "commentCount": "2",
+        "sharedCount": "4",
+        "liked": false
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222044/644e11cd0124a872398776891d1aff4a/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nc_n_webp_prv_1",
+        "height": 1024,
+        "width": 1536,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222044/4eb6dc221ff7ce4cfac81737f8572902/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1024,
+          "width": 1536,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/4eb6dc221ff7ce4cfac81737f8572902/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/644e11cd0124a872398776891d1aff4a/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1679,
+          "width": 1320,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/510634ca7865bfa7945c28e05be205df/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/661ee20883ce66c7a3b15c14ac797344/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1688,
+          "width": 1320,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/d01f1a4376dd9f2c3e36a212e1d69169/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/69c5e44de926967480abd0477dd3e9ed/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 1320,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/10f2fa4c04a9c45d6bd0fb8f7909fcc4/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222044/2659822888b2b31806cf1a9de6116c9c/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 1654
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "07-02"
+        }
+      ]
+    },
+    "xsecToken": "AB0iw8vMCxvpraIKA1WGI4v9amY05_JvD0JXtirMmGp7c=",
+    "index": 17,
+    "exposed": false,
+    "trackId": "6a4681f8000000001503e488"
+  },
+  "note": {
+    "noteId": "6a4681f8000000001503e488",
+    "type": "normal",
+    "user": {
+      "nickname": "Sofifi Rocks！",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/625cf84e45a7c17a43d42ab1.jpg",
+      "xsecToken": "ABTgHgOnVH6qG6hZYp15fAzeAtti4wxRVlYmuPx7z_ap4=",
+      "userId": "5c47ec83000000001102a3de"
+    },
+    "interactInfo": {
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "collectedCount": "11",
+      "likedCount": "17",
+      "collected": false,
+      "commentCount": "2",
+      "shareCount": "4",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "fileId": "1040g0083224gvtpg7o005n27ti1kd8uu0hel388",
+        "height": 1024,
+        "width": 1536,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/ffb63f28819fb931d9b05295e1420d8e/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/56dc8d11927b497f948481204f614c65/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222045/ffb63f28819fb931d9b05295e1420d8e/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222045/56dc8d11927b497f948481204f614c65/1040g0083224gvtpg7o005n27ti1kd8uu0hel388!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "stream": {},
+        "livePhoto": false,
+        "height": 1679,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/12fb7feeeb3b666c064d15c7c5beb7a3/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/79f9dc21ffe5c7ca6a490e89833908ad/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "fileId": "1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng",
+        "width": 1320,
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222045/12fb7feeeb3b666c064d15c7c5beb7a3/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222045/79f9dc21ffe5c7ca6a490e89833908ad/1040g0083224gvtpg7o0g5n27ti1kd8uu1c4ktng!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222045/84a4e56c4ffb786d131e92277bead936/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222045/20cfabaf341037163dcf5dd42493fffc/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g0083224gvtpg7o105n27ti1kd8uu859hi80",
+        "height": 1688,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/84a4e56c4ffb786d131e92277bead936/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/20cfabaf341037163dcf5dd42493fffc/1040g0083224gvtpg7o105n27ti1kd8uu859hi80!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "width": 1320,
+        "url": ""
+      },
+      {
+        "fileId": "1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko",
+        "height": 1654,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/653d75c56e13f9d607380b16aae4012f/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222045/5445487ba183b5302ac5ca7407d4fabc/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222045/653d75c56e13f9d607380b16aae4012f/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nd_prv_wlteh_jpg_3",
+        "width": 1320,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222045/5445487ba183b5302ac5ca7407d4fabc/1040g0083224gvtpg7o1g5n27ti1kd8uu1hkgjko!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "name": "omscs",
+        "type": "topic",
+        "id": "5fe2511f0000000001005622"
+      },
+      {
+        "type": "topic",
+        "id": "6167bf29000000000100133d",
+        "name": "omscs选课"
+      },
+      {
+        "id": "65bfa029000000001301603c",
+        "name": "omscs2025",
+        "type": "topic"
+      },
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "id": "618357a4000000000101e623",
+        "name": "最优化",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "OMSCS选课指南-Deterministic Optimization",
+    "desc": "大家好，学习博主又回来了！[哇R]\n工作之后想学点东西，于是默默申请了georgia tech omscs，目前进度条约50%，觉得自己大概率可以坚持修完了，开一个channel写一下（求求xhs多给我点流量吧[汗颜R]）\n\t\n第一门课 ISYE 6669: Deterministic Optimization\n\t\n选这门课主要因为工作需要，系统学学Operations Research和优化理论知识。课程内容以 Linear Programming为核心，最后几周会简单介绍 Mixed Integer Linear Programming(MILP)\n课程节奏比较紧凑，每周都有作业，peer grading，基本都满分。这门课烦人的点在于考试占比太大，我最后只差一道选择题就能拿A了…但撇开成绩不谈，这门课确实能够学到东西，主要内容包括：\n* Convex Optimization: Covex Sets, Convex Functions\n* Optimization Algorithms: Gradient Descent, Newton-Raphson Method\n* Duality Theory: Lagrangian Relaxation; Primal and Dual Problem; Complementary Slackness; Weak and Strong Duality\n* Optimization Geometry; 从几何角度理解优化问题：Polyhedra、Cones、Lines、Half-Spaces\n* Degeneracy\n* Linear Programming Algorithms: 手工解Simplex Method,Basic Feasible Solutions (BFS), Reduced Costs\n* Large-Scale Optimization:Column Generation, Dantzig-Wolfe Decomposition\n* Integer Programming: If-Else 条件的整数规划表示\n\t\n总体来说，如果希望系统学习线性优化和对偶理论，这门课还是非常值得上的\n\t\n#omscs[话题]# #omscs选课[话题]# #omscs2025[话题]# #转码[话题]# #最优化[话题]#",
+    "time": 1783005688000,
+    "lastUpdateTime": 1783005688000,
+    "xsecToken": "AB0iw8vMCxvpraIKA1WGI4v9amY05_JvD0JXtirMmGp7c="
+  },
+  "comments": [
+    {
+      "id": "6a98ad83000000000d028801",
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCursor": "6a98fd760000000015001144",
+      "noteId": "6a4681f8000000001503e488",
+      "liked": false,
+      "createTime": 1788390788000,
+      "ipLocation": "美国",
+      "status": 0,
+      "content": "想问问，他的convex这些讲得好吗？真的能把原理讲明白，还是只是让人会软件操作啊？",
+      "userInfo": {
+        "xsecToken": "ABb8QL4mqHtEgoxGLQFh4ZL7CyaB50QqGohLwqSl5W4hU=",
+        "userId": "5f9a73a1000000000101eb02",
+        "nickname": "床奴超能睡",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62c0e6fc80f1bd35bdd10e64.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subCommentCount": "1",
+      "invalid": false,
+      "showTags": [],
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6a98fd760000000015001144",
+          "status": 0,
+          "content": "我觉得讲得挺偏理论啊，给你讲convex set的概念，考试练习题都是那种识别convex函数；之后我还手撕街simplex[笑哭R]",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1788411255000,
+          "ipLocation": "美国",
+          "noteId": "6a4681f8000000001503e488",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5c47ec83000000001102a3de",
+            "nickname": "Sofifi Rocks！",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/625cf84e45a7c17a43d42ab1.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABA_2LjIDzICTnA1AJ_ojuGibR4712cI42Sec8p-dsrZQ="
+          },
+          "targetComment": {
+            "id": "6a98ad83000000000d028801",
+            "userInfo": {
+              "userId": "5f9a73a1000000000101eb02",
+              "nickname": "床奴超能睡",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62c0e6fc80f1bd35bdd10e64.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABb8QL4mqHtEgoxGLQFh4ZL7CyaB50QqGohLwqSl5W4hU="
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 Practical Optimization Algorithms"
+}

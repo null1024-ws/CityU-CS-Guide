@@ -1,0 +1,304 @@
+{
+  "note_id": "6a8d95fa000000002a0387cd",
+  "url": "https://www.xiaohongshu.com/explore/6a8d95fa000000002a0387cd?xsec_token=AB7BlYFH7DwxUu5jLqfi1bKQk075NQWnXyaKNhuD4FK3g=",
+  "fetched_at": 1790081273.364379,
+  "search_item": {
+    "id": "6a8d95fa000000002a0387cd",
+    "modelType": "note",
+    "noteCard": {
+      "interactInfo": {
+        "likedCount": "12",
+        "collected": false,
+        "collectedCount": "16",
+        "commentCount": "29",
+        "sharedCount": "3",
+        "liked": false
+      },
+      "cover": {
+        "height": 546,
+        "width": 2079,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222047/d31fd218d9d69ddd198dba1c1926c673/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222047/253278a009489d3ddc8503027114301c/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 546,
+          "width": 2079,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222047/d31fd218d9d69ddd198dba1c1926c673/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222047/253278a009489d3ddc8503027114301c/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-25"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "港城CS选课",
+      "user": {
+        "nickName": "jivi",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qo4nskdgo6g5p667eb3kpoo3a2rif8?imageView2/2/w/80/format/jpg",
+        "userId": "64c63b96000000000e026718",
+        "nickname": "jivi",
+        "xsecToken": "ABlvVB_2vXqqTRtyCzBiynPoEnYmON2dMOCKiMFz6JMdU="
+      }
+    },
+    "xsecToken": "AB7BlYFH7DwxUu5jLqfi1bKQk075NQWnXyaKNhuD4FK3g=",
+    "index": 5,
+    "exposed": true,
+    "trackId": "6a8d95fa000000002a0387cd"
+  },
+  "note": {
+    "time": 1787663866000,
+    "noteId": "6a8d95fa000000002a0387cd",
+    "type": "normal",
+    "interactInfo": {
+      "liked": false,
+      "commentCount": "29",
+      "followed": false,
+      "niceCount": "",
+      "likedCount": "12",
+      "collected": false,
+      "collectedCount": "16",
+      "shareCount": "3",
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课"
+      },
+      {
+        "id": "5ccedc00000000000d016f9e",
+        "name": "计算机专业",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "lastUpdateTime": 1787663933000,
+    "ipLocation": "广东",
+    "shareInfo": {
+      "unShare": false
+    },
+    "title": "港城CS选课",
+    "desc": "6382算法分析和博弈论怎么没人选啊？感觉很多人都选5489机器学习?\n\t\n还有MSCS2和MSCS3有啥区别?到处都找不到关于这个的解释[捂脸R]\n#选课[话题]# #计算机专业[话题]#",
+    "user": {
+      "userId": "64c63b96000000000e026718",
+      "nickname": "jivi",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qo4nskdgo6g5p667eb3kpoo3a2rif8",
+      "xsecToken": "ABaLa630WnuEA08J7hoVfbGp1vkC0IGIEGr1jVN3nIVv0="
+    },
+    "imageList": [
+      {
+        "fileId": "1040g2sg3249umvsa746g5p667eb3kpooic9qe08",
+        "height": 546,
+        "width": 2079,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222048/44f66d4061062d42969cf7225927f67b/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222048/76b0bab8e92cf7149e3f6c4f160a57b1/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222048/44f66d4061062d42969cf7225927f67b/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222048/76b0bab8e92cf7149e3f6c4f160a57b1/1040g2sg3249umvsa746g5p667eb3kpooic9qe08!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "url": "",
+        "livePhoto": false
+      }
+    ],
+    "xsecToken": "AB7BlYFH7DwxUu5jLqfi1bKQk075NQWnXyaKNhuD4FK3g="
+  },
+  "comments": [
+    {
+      "likeCount": "4",
+      "status": 0,
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABV2IJ5AdUbcu2zc1fqSmZNI3_Sq4yOFPtIATCLWJNtb0=",
+        "userId": "615da55b000000000201d3de",
+        "nickname": "Quess",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg"
+      },
+      "createTime": 1787709606000,
+      "subComments": [
+        {
+          "userInfo": {
+            "nickname": "我不是大田",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3136vej9bjk6g5p3ek797okj4idqj5io?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB4ZEjWyJagW_zk8zwKS_i4ZU_iNM41brOWpKgMXojE9I=",
+            "userId": "646ea1d2000000001f005264"
+          },
+          "createTime": 1787713712000,
+          "targetComment": {
+            "id": "6a8e48a5000000001501396f",
+            "userInfo": {
+              "userId": "615da55b000000000201d3de",
+              "nickname": "Quess",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f6ll5pcmi005oatkldgjkuudsnqtu8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABV2IJ5AdUbcu2zc1fqSmZNI3_Sq4yOFPtIATCLWJNtb0="
+            }
+          },
+          "status": 0,
+          "content": "真的假的，很害怕[惊恐R]",
+          "likeCount": "0",
+          "showTags": [],
+          "ipLocation": "中国香港",
+          "invalid": false,
+          "id": "6a8e58af000000000a02292d",
+          "noteId": "6a8d95fa000000002a0387cd",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": true,
+      "id": "6a8e48a5000000001501396f",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "广东",
+      "subCommentCount": "20",
+      "subCommentCursor": "6a8e58af000000000a02292d",
+      "invalid": false,
+      "noteId": "6a8d95fa000000002a0387cd",
+      "content": "6382放心选，不可能挂科，而且还没有小组作业[doge]",
+      "showTags": [],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "showTags": [],
+      "subCommentCount": "1",
+      "content": "5489是偏应用多一点，可能体感比另一门数学占比更多的5487好一点吧，然后6开头的应该是比5开头的课难一点，看之前的课程评价好像是考试有难度",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "Midori",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pr8tkrh4g004amc876pi59ust2ntcg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABNDx_N3mizHVqJADB8qlpz316k_2P2cTn5mUcaO_oV2g=",
+        "userId": "5b878d99faff13000155153e"
+      },
+      "createTime": 1787669908000,
+      "subComments": [
+        {
+          "createTime": 1787671996000,
+          "invalid": false,
+          "id": "6a8db5bb0000000014002df3",
+          "content": "get",
+          "userInfo": {
+            "xsecToken": "ABmc-EriNmxGsis0jzGVUW3prf-OCKBU2jCdmt9hjQL-E=",
+            "userId": "64c63b96000000000e026718",
+            "nickname": "jivi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qo4nskdgo6g5p667eb3kpoo3a2rif8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a8dad9400000000150014e4",
+            "userInfo": {
+              "userId": "5b878d99faff13000155153e",
+              "nickname": "Midori",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pr8tkrh4g004amc876pi59ust2ntcg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABNDx_N3mizHVqJADB8qlpz316k_2P2cTn5mUcaO_oV2g="
+            }
+          },
+          "noteId": "6a8d95fa000000002a0387cd",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "subCommentCursor": "6a8db5bb0000000014002df3",
+      "ipLocation": "中国香港",
+      "noteId": "6a8d95fa000000002a0387cd",
+      "status": 0,
+      "likeCount": "3",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "id": "6a8dad9400000000150014e4",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a8d982b000000001402e3a6",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentCount": "5",
+      "subCommentCursor": "6a8d9a3400000000140037b2",
+      "subCommentHasMore": true,
+      "subComments": [
+        {
+          "noteId": "6a8d95fa000000002a0387cd",
+          "content": "感谢回答[害羞R] 想知道这个信息的源头是哪里呀（比如说官网有?）",
+          "liked": false,
+          "userInfo": {
+            "userId": "64c63b96000000000e026718",
+            "nickname": "jivi",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qo4nskdgo6g5p667eb3kpoo3a2rif8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABmc-EriNmxGsis0jzGVUW3prf-OCKBU2jCdmt9hjQL-E="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false,
+          "status": 0,
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1787664948000,
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6a8d982b000000001402e3a6",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32480h4nt72605odr0it8daaedtotcno?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABw-_C9cN5X2S4RkraWKMFQnXvcbFqGpL1ypc-9kOf9KM=",
+              "userId": "61bb04ba000000002102a94e",
+              "nickname": "一般路过宏伟水渠"
+            }
+          },
+          "id": "6a8d9a3400000000140037b2"
+        }
+      ],
+      "liked": false,
+      "likeCount": "2",
+      "ipLocation": "广东",
+      "invalid": false,
+      "noteId": "6a8d95fa000000002a0387cd",
+      "status": 0,
+      "content": "MSCS2是data science专业，MSCS3是computer science专业",
+      "userInfo": {
+        "userId": "61bb04ba000000002102a94e",
+        "nickname": "一般路过宏伟水渠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32480h4nt72605odr0it8daaedtotcno?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABw-_C9cN5X2S4RkraWKMFQnXvcbFqGpL1ypc-9kOf9KM="
+      },
+      "createTime": 1787664428000,
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5282 体验"
+}

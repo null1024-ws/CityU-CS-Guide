@@ -1,0 +1,36 @@
+{
+  "note_id": "6aa4bf5e000000000e03f400",
+  "url": "https://www.xiaohongshu.com/explore/6aa4bf5e000000000e03f400?xsec_token=ABwVR_LnmVzHeOrnLavafFxeOpwrx9ddiHZQY2FJEJBqw=",
+  "fetched_at": 1790080707.7793813,
+  "course_codes": [
+    "CS6515"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "GT omscs 课程推荐 CS6515",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这篇写computer system每位同学都绕不过的这门Graduate Algorithm 算法课\n\t\n想要上课就要先选的上，大部分人只能在最后几门课的时候才能顺利通过waitlist，对我而言是倒数第二门课\n\t\n6311是门水课，6250是热门水课，那6515就是我上过最硬的课，需要你花费大量的时间准备考试才能通过\n\t\n26fall成绩占比\nQuiz 10%\nExam 90% 五次闭卷考试\nHomework 0%\n\t\n主要是学各种算法和算法设计\n比较重要的内容包括\nDynamic programming\nDivide & conquer\nGraph Algorithms\nMax flow Algorithms\nLinear Programming\nNP Complexity Theory\n\t\n这门课和你平时刷 LeetCode 的感觉不太一样。不是给你一道题，让你噼里啪啦写代码把它实现出来，而是给你一个算法，然后让你证明一下为啥是对的\n\t\n上课的自由程度非常大，你可以不看课件，不写homework，只要你在考前写完quiz，突击花费时间准备就可以了。但你要花多少时间呢，因人而异咯\n\t\n特别说说study group，这门课特别适合找人一起讨论作业，甚至老师会发帖子帮助大家寻找课友，只要你们不是一起讨论考试哈哈哈哈哈哈哈\n\t\n#omscs[话题]# #omscs选课[话题]# #omscs毕业[话题]# #georgiatech[话题]# #北美程序员[话题]# #转码[话题]# #算法[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这学期是5次考试",
+      "sourceRef": "comment:6aaa10e9000000000d023800",
+      "commentId": "6aaa10e9000000000d023800",
+      "likes": 0,
+      "author": "圆圆的龙猫子"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢纠正！",
+      "sourceRef": "comment:6aaa84e6000000000d023400",
+      "commentId": "6aaa84e6000000000d023400",
+      "likes": 0,
+      "author": "Friegg"
+    }
+  ]
+}

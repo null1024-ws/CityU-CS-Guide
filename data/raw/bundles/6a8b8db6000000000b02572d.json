@@ -1,0 +1,138 @@
+{
+  "note_id": "6a8b8db6000000000b02572d",
+  "url": "https://www.xiaohongshu.com/explore/6a8b8db6000000000b02572d?xsec_token=ABxnSxgLeHlRMu1-Ttor4fOyyArIrNccUB8R_HwIc3LdI=",
+  "fetched_at": 1790080849.2450752,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CityU CS 复习资料",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "又到开学季，发一个帖子，分享一下之前做的一个香港城市大学 CS 专业的复习资料仓库，把目前整理到的课程资料都集中到了一起，希望能让大家复习的时候少花一点时间找资料。我希望它最后变成一个同专业同学共同维护的资料仓库，所以希望其他同学可以往里多多贡献新的资料。\n\t\n👉 CityU CS 复习资料库： https://shanechen0722.github.io/cityu-CS-review/\n\t\n「友情链接」\nCityU CS选课指南：汇总CityU计算机科学硕士课程的小红书评价与评论区补充，涵盖难度、给分、作业量、回放与考勤等信息。与本站互为补充，已添加至网站（作者@momo）\n👉 CityuHK Msc CS选课指南： https://null1024-ws.github.io/CityU-CS-Guide/\ncityu cs选课板：自由排课、查看课程评价(可跳转原帖)、本地写备注、注册登录后发表社区评价等与本站互为补充，已添加至网站（作者@Seconds ）\n👉 cityu cs选课板： https://shariqri.github.io/CtiyU-CS-Course-Board/\n\t\n另外，我还做了一个CityU 学习资源导航，把不同学院、专业的课程资源都放进去，希望以后可以慢慢扩展成一个完整的CityU学习资源入口：\n\t\n👉 CityU Review Hub：https://shanechen0722.github.io/Cityu-Review/\n\t\n我的想法很简单：\n一个专业，不需要每个人都重复整理一份资料。\n同专业的人共用一个资料仓库，一起维护，把它越做越全。\n所以这次先从 CS 开始，也算是抛砖引玉。\n如果你也是 CityU其他专业的同学，也欢迎直接使用模板，给自己的专业做一个类似的资料网站。资料真的不用等到“完美”再分享，先搭一个仓库，把已经有的东西放进去，后面再由大家一起慢慢补充。\n#香港城市大学[话题]# #cityu[话题]# #cs[话题]# #计算机[话题]# #计算机科学[话题]# #学习资料[话题]# #复习资料[话题]# #香港留学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "eee的传一下[绿色心形R]",
+      "sourceRef": "comment:6a8bb7a5000000001402c079",
+      "commentId": "6a8bb7a5000000001402c079",
+      "likes": 0,
+      "author": "capalot"
+    },
+    {
+      "type": "sub_comment",
+      "text": "居然不是新专业，之前我在官网爬的数据里居然没有爬到这个专业[笑哭R]怪哉，一会儿我去主站加上这个专业，或者你们可以在主站直接提交pr改或者发布issue我到时候手动改（如果还有漏的专业的话）[笑哭R]你可以先建立一个eee专业的资料仓库，然后提交到主站建立索引，到时候一个专业的都能找到同一个仓库然后共同维护一个仓库。",
+      "sourceRef": "comment:6a8bba88000000000b01c170",
+      "commentId": "6a8bba88000000000b01c170",
+      "likes": 2,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "我去谢谢大佬，之前就看到这个网站了，想去膜拜一下作者[微笑R]",
+      "sourceRef": "comment:6a8bbcb50000000014001967",
+      "commentId": "6a8bbcb50000000014001967",
+      "likes": 0,
+      "author": "花海"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈哈希望有帮助到你。前段时间我同学考试找我要资料的时候让我多宣传一下，但其实有发过视频但没流，没人去新建自己专业的仓库[笑哭R]所以我在想现在这个节点新同学可能会搜相关资料所以再发一遍，这个玩意就是要有流量才有意义，没流量的话可能要每届找个志愿者来维护仓库可能才有保障大家资料的有效性[笑哭R]",
+      "sourceRef": "comment:6a8bbf6000000000140399ad",
+      "commentId": "6a8bbf6000000000140399ad",
+      "likes": 1,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "学长请问有bis的吗[大笑R]",
+      "sourceRef": "comment:6a8be3b2000000001402fe8f",
+      "commentId": "6a8be3b2000000001402fe8f",
+      "likes": 0,
+      "author": "Bear"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是cs的，我以cs专业为例建立了我们专业的，虽然我是希望能建立各个专业，但都由我来完成不太现实，目前是新项目，所以其他专业的都还没人创建，所以我建议你可以按照我给的模板直接新建一个仓库，然后你去主站上去建好索引（shanechen0722.github.io/Cityu-Review/\n），这样说不定有更多人看见，然后你们一个专业的共同维护一个仓库[doge]此外你再发发帖子，让大家一起维护一下，几个人各自找找相关的资料，一起弄一个完善的，这样还能反过来吸引更多人发现，然后参与贡献，而且创建基本都傻瓜步骤，很方便，我readme也写的很清楚，实在不行，我的主站仓库里也有讲解视频[doge]",
+      "sourceRef": "comment:6a8be5c1000000000b01cd5a",
+      "commentId": "6a8be5c1000000000b01cd5a",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "学长牛逼👍👍",
+      "sourceRef": "comment:6a8c10fa000000001500cfe3",
+      "commentId": "6a8c10fa000000001500cfe3",
+      "likes": 0,
+      "author": "DongdongLee"
+    },
+    {
+      "type": "sub_comment",
+      "text": "仓库建了快一年了哈哈哈没咋宣传，没流，就身边几个朋友在用，希望有帮到你们吧[微笑R]",
+      "sourceRef": "comment:6a8c11bf000000001403a9d6",
+      "commentId": "6a8c11bf000000001403a9d6",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "觉得有用的话可以帮忙点点儿star，别人才能更加容易搜到[微笑R]",
+      "sourceRef": "comment:6a8ce77d000000000100b033",
+      "commentId": "6a8ce77d000000000100b033",
+      "likes": 2,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "厉害[点赞R]",
+      "sourceRef": "comment:6a8bfef4000000000a01ce79",
+      "commentId": "6a8bfef4000000000a01ce79",
+      "likes": 0,
+      "author": "阿草"
+    },
+    {
+      "type": "sub_comment",
+      "text": "柳哥！[笑哭R]去年考完试做的，发帖完全没流，现在开学前后再发帖小红书才推送了点儿流量[笑哭R]还是时间没选对啊",
+      "sourceRef": "comment:6a8c10f6000000001403814c",
+      "commentId": "6a8c10f6000000001403814c",
+      "likes": 0,
+      "author": ".."
+    },
+    {
+      "type": "comment",
+      "text": "感谢学长[赞R]",
+      "sourceRef": "comment:6a8c03ae000000000b011084",
+      "commentId": "6a8c03ae000000000b011084",
+      "likes": 1,
+      "author": "cccakkke"
+    },
+    {
+      "type": "comment",
+      "text": "大好人！感谢！祝您天天开心！",
+      "sourceRef": "comment:6a8c2dc5000000000a01c3da",
+      "commentId": "6a8c2dc5000000000a01c3da",
+      "likes": 0,
+      "author": "杨树叶🌿哗啦啦"
+    },
+    {
+      "type": "comment",
+      "text": "支持！！",
+      "sourceRef": "comment:6a8d9657000000001500da54",
+      "commentId": "6a8d9657000000001500da54",
+      "likes": 0,
+      "author": "陈酿"
+    },
+    {
+      "type": "comment",
+      "text": "行善积德大好人啊",
+      "sourceRef": "comment:6a8d97fc000000000b01d9e1",
+      "commentId": "6a8d97fc000000000b01d9e1",
+      "likes": 0,
+      "author": "Naomm"
+    }
+  ]
+}

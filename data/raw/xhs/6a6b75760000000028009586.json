@@ -1,0 +1,162 @@
+{
+  "note_id": "6a6b75760000000028009586",
+  "url": "https://www.xiaohongshu.com/explore/6a6b75760000000028009586?xsec_token=AB6yJlnndSKYeqnai8L-yzwn2nOG3grEnALemEBMj8sZg=",
+  "fetched_at": 1790083754.2856205,
+  "search_item": {
+    "id": "6a6b75760000000028009586",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222128/ddbeb8e56402af39db15e669843db8e9/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nc_n_webp_prv_1",
+        "height": 4096,
+        "width": 3072,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222128/1b927160e6170e526213cb1a4802ee94/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 4096,
+          "width": 3072,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222128/1b927160e6170e526213cb1a4802ee94/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222128/ddbeb8e56402af39db15e669843db8e9/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "07-31",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "26fall 城大 MSc Cybersecurity 选课+预习",
+      "user": {
+        "xsecToken": "ABL1eg4WK0jSoMsRZ1KLS11U6BZ5GuSCsN-BRqGnNnx34=",
+        "nickName": "橘子海～sally",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u8etb152gcg5qe7e0tsref1ijbciq8?imageView2/2/w/80/format/jpg",
+        "userId": "69c7703b000000003301b9e1",
+        "nickname": "橘子海～sally"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "7",
+        "collected": false,
+        "collectedCount": "8",
+        "commentCount": "0",
+        "sharedCount": "3"
+      }
+    },
+    "xsecToken": "AB6yJlnndSKYeqnai8L-yzwn2nOG3grEnALemEBMj8sZg=",
+    "index": 1,
+    "exposed": true,
+    "trackId": "6a6b75760000000028009586"
+  },
+  "note": {
+    "time": 1785427318000,
+    "noteId": "6a6b75760000000028009586",
+    "type": "normal",
+    "title": "26fall 城大 MSc Cybersecurity 选课+预习",
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "",
+      "shareCount": "3",
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "7",
+      "collectedCount": "8"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "fileId": "1040g2sg3238k70c87ukg5qe7e0tsref18gojh70",
+        "height": 4096,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/de149458de7272f91a1b839cd18035d0/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/f44218911a76cfa5d4688f7d6405a26a/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "width": 3072,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/de149458de7272f91a1b839cd18035d0/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/f44218911a76cfa5d4688f7d6405a26a/1040g2sg3238k70c87ukg5qe7e0tsref18gojh70!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "name": "香港城市大学",
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433"
+      },
+      {
+        "id": "67f4e6c7000000001900eafd",
+        "name": "港城26fall",
+        "type": "topic"
+      },
+      {
+        "id": "6a6b7575000000003103430d",
+        "name": "msc网络安全",
+        "type": "topic"
+      },
+      {
+        "id": "6a6b7575000000003103430b",
+        "name": "港城msc",
+        "type": "topic"
+      },
+      {
+        "id": "64d0af1f000000001a00a877",
+        "name": "港城选课",
+        "type": "topic"
+      },
+      {
+        "id": "695df4960000000025031eec",
+        "name": "港城预习",
+        "type": "topic"
+      },
+      {
+        "id": "6a6b7575000000003103430c",
+        "name": "msc选课",
+        "type": "topic"
+      },
+      {
+        "id": "627e0bb1000000000101d5ba",
+        "name": "港校新生",
+        "type": "topic"
+      },
+      {
+        "id": "5cb54796000000000f03a98f",
+        "name": "留学必备",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1785427319000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "desc": "26fall 拿到香港城市大学网络安全理学硕士 offer 的同学看过来📚\n整理官网原版学分、课程划分、选课规则，附带入学预习方向，提前理清毕业要求少走弯路\n一、整体学分毕业硬性要求\n项目总需修满31 学分，分为必修课 + 两大组别选修课，学制分全日制 1 年 / 兼读 2 年，最长修读时限全日制 2.5 年、混合模式 5 年。\n选课规则硬性规定：\n必修全部修读，合计 10 学分\n一组选修课至少修满 12 学分\n二组选修课最多只能选 9 学分\n实习课程与毕业设计二选一，不可同时修读；想一年顺利毕业优先选 6 学分毕业设计\n二、4 门核心必修课（必选，10 学分）\nCS5285 网络安全导论\nCS5293 信息安全与隐私专题\nCS5294 信息安全技术管理\nCS5612 当代网络安全研讨会（仅 1 学分）\n预习重点（对应必修）\n基础密码学、网络攻防基础概念\n企业信息安全管理、数据合规相关基础\n隐私保护基础理论，提前熟悉海外安全行业术语\n三、一组选修课（主攻网络安全核心方向，至少 12 学分）\n覆盖密码学、取证、云安全、AI 安全、区块链安全、移动物联网安全、软件安全等细分赛道，热门课：\n密码理论与实践、网络安全取证与应急响应、云与网络安全、AI 安全专题、Web3 区块链安全\n可选 6 学分毕业设计 / 实习，适合想实操、积累项目经历的同学\n四、二组选修课（泛计算机补充，上限 9 学分）\n偏通用计算机内容，仅作补充拓展：云计算、计算机网络、数据挖掘、软件工程、机器学习算法\n适合基础薄弱、想补编程 / 大数据底子的同学，不建议多选，避免占用核心安全课程学分\n五、选课小提醒\n课程多安排工作日晚间上课，混合模式本地生可灵活切换全 / 兼读学分，非本地生学分变动需学校审批\n申请采用滚动录取，26 年 5 月 15 日截止，拿到 offer 后可以提前对照课程清单预习\n找不到实习的同学直接选择毕业设计满足毕业要求，不用额外焦虑\n入学预习通用建议\n基础：计算机网络、操作系统、编程基础（Python/C++）\n专业：密码学基础、常见网络攻击防御原理、数据安全合规基础\n语言：专业英文词汇积累，课程阅读材料全英文，提前适应阅读节奏\n\t\n#香港城市大学[话题]# #港城26fall[话题]# #msc网络安全[话题]# #港城msc[话题]# #港城选课[话题]# #港城预习[话题]# #msc选课[话题]# #港校新生[话题]# #留学必备[话题]#",
+    "user": {
+      "nickname": "橘子海～sally",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u8etb152gcg5qe7e0tsref1ijbciq8",
+      "xsecToken": "ABsR8xCIaFkgfC9b8ttWPSlhgFdhV4xwaF0GRHaLSh12s=",
+      "userId": "69c7703b000000003301b9e1"
+    },
+    "atUserList": [],
+    "xsecToken": "AB6yJlnndSKYeqnai8L-yzwn2nOG3grEnALemEBMj8sZg="
+  },
+  "comments": [],
+  "search_query": "CS5294 安全管理"
+}

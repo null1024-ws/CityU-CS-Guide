@@ -1,0 +1,42 @@
+{
+  "note_id": "6aab3405000000002802fadd",
+  "url": "https://www.xiaohongshu.com/explore/6aab3405000000002802fadd?xsec_token=AB2RzKNYhnlwCRhCzmHgJyAn92g88rhSNKn6ZiMMLSn_M=",
+  "fetched_at": 1790080565.576797,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UBC工程大一课程经验帖（10)",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "因为获悉了一些apsc 160的补充信息所以再开一篇写一些上次没写的\n\t\n依旧是c语言，15% worksheet + 25% lab+ 两个各15% mt + 30%final\n还会有一些bonus points课上答题或者piazza回答问题就可以拿\n\t\nlabs今年因为原来ta觉得事太多，改革了不再随堂考试，改成cbtf自己录，每个lab都不难而且我没记错的话每年都一模一样[doge]至少前面几年是这样，会做给的practice就可以\n\t\nmt和final会有一道leetcode medium题目，但是会给你hint所以要强点（而且其实很大一部部分分会给代码规范，不知道今年是不是这样\n\t\n他们final就两套题[笑哭R]一个term一个，每年变化都不大，今年自己去cbtf不知道加没加题库\n\t\n考试大部分人应该做出来50%- 的题目吧，毕竟也不是所有人都想学ece，而且最后会scale（一般来说，再加上bp所以均分就很高\n\t\n这门课虽说是讲c语言但其实pointer都不会涉及，所有工程学生的通识课，也导致ee还需要cpsc259补c语言知识（或者想进ece直接自学就好了，老师都默认你会的\n\t\nInstructor：见上文\n今年应该还有Geoffrey Tien，ubc cs 低年级课程lecturer。上过他的cpsc221，讲课很清晰，但他的section一般题目难一些，avg低一些，不知道他160会不会也这样\n\t\n图是一些ubc被偷的只剩轮子的车（应该是被偷的吧\n\t\n#ubc[话题]# #ubc选课[话题]# #ubc工程[话题]# #温哥华[话题]# #留学[话题]# #留学生[话题]# #测评[话题]# #教授[话题]# #编程[话题]# #偷自行车[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "想去cpen也需要takecpsc259吗",
+      "sourceRef": "comment:6ab1a571000000000b01b49a",
+      "commentId": "6ab1a571000000000b01b49a",
+      "likes": 0,
+      "author": "我要吃烤鸭"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好消息是不用，坏消息是你得自学[doge]",
+      "sourceRef": "comment:6ab1d08d000000000a02589e",
+      "commentId": "6ab1d08d000000000a02589e",
+      "likes": 0,
+      "author": "为什么要起名字"
+    },
+    {
+      "type": "comment",
+      "text": "再补充一个点，必须 pass final 才是这门课挂人最狠的地方，图为模糊处理后的25w2",
+      "sourceRef": "comment:6aab5d8d000000001402e31a",
+      "commentId": "6aab5d8d000000001402e31a",
+      "likes": 1,
+      "author": "小红薯67136ADD"
+    }
+  ]
+}

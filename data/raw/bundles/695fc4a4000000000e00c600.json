@@ -1,0 +1,82 @@
+{
+  "note_id": "695fc4a4000000000e00c600",
+  "url": "https://www.xiaohongshu.com/explore/695fc4a4000000000e00c600?xsec_token=AB6HH13DToM-hJN5J0M8vMeBB6pL6KqwpOk6zHimkEzrY=",
+  "fetched_at": 1790081600.1394067,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CUHK CS Term1 CMSC 课程评价（&选课指南）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🔶课程内容：详见图片，包含CMSC 5728、5719、5713、5707\n\t\n5728真的强推，很有意思的课\n\t\n另外，有些课往年没网友发过考试内容导致复习时像无头苍蝇，正文部分我就补充一点吧\n\t\n🔶考试内容：\n\t\n🔹CMSC 5728：不难的简答题，比较有区分度并考验理解。包含简单的博弈论NEP；剩下的题围绕MAB算法，包括原理，Regret Bound分析及其physical meaning。成绩 A，内容最棒也是学的最认真的一节课，感谢John\n\t\n🔹CMSC 5707: 老师说了看懂作业和ppt例题就能拿高分。考试10选填+5大题。内容确实是作业变种，但题量巨大，考试没写完（或许你们可以去跟老师Argue一下）。但注意除了计算题，考试考了几个简答题，如“决策森林如何构建”，“softmax函数的bias有什么用以及如何设置”，请大家复习的时候还是背一下概念不要只看计算！！成绩 B+\n\t\n🔹CMSC 5719: 期末交 Report，虽然貌似要求的是带实验与数据分析的research report但亲测可以写综述！评分标准不清楚，尽量显得工作量大一些肯定没坏处。成绩A\n\t\n🔹CMSC 5713: 这门课我在考试那天之前一眼没看。PPT打印全，然后老师给的往年的题一定要看。那些出现频率高的大概率还会考（stakeholders，risks等等），但请注意时间分配，今年考了一个极其恶心的计算题，成功的没算完。喜提A-\n\t\n毕竟这篇文章是个选课指南，所以部分我没选的课也基于身边人的评价给大家一点信息吧（不一定准确）\n\t\n🔹CMSC 5724：今年Yufei教授去NTU交流一年，换了个老师风评不太好，所以不是Yufei上的话慎选\n\t\n🔹CMSC 5702：据说老师很友好而且是MSC出身，了解MSC学生的苦衷\n\t\n🔹CMSC 5727：去听了一节但是由于是周末就退了。第一年开，老师很有意思也是游戏迷，这门课需要手搓一个游戏并且汇报，据说工作量不小\n\t\n🔹ENGG 5105：WL不小，对MSC学生没那么友好\n\t\n#cuhk[话题]# #cuhkcs[话题]# #cmsc[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "刷到微信好友了 帮顶",
+      "sourceRef": "comment:69630b210000000030026971",
+      "commentId": "69630b210000000030026971",
+      "likes": 0,
+      "author": "用户奶龙"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哈哈哈谢谢[偷笑R] 这是怎么认出我的😯",
+      "sourceRef": "comment:6963468c00000000190029d9",
+      "commentId": "6963468c00000000190029d9",
+      "likes": 1,
+      "author": "花生红茶洛神花"
+    },
+    {
+      "type": "comment",
+      "text": "学长好，ENGG5105的wl具体有多大呀[笑哭R]",
+      "sourceRef": "comment:6a717d01000000002b0021a9",
+      "commentId": "6a717d01000000002b0021a9",
+      "likes": 0,
+      "author": "巧克力与香子兰"
+    },
+    {
+      "type": "sub_comment",
+      "text": "一次作业，读论文写report，一个小组project一个pre，期末闭卷",
+      "sourceRef": "comment:6a71859d000000002b026fc3",
+      "commentId": "6a71859d000000002b026fc3",
+      "likes": 0,
+      "author": "花生红茶洛神花"
+    },
+    {
+      "type": "comment",
+      "text": "你好，5728考勤嘛，楼主",
+      "sourceRef": "comment:6a58783d000000002203dda3",
+      "commentId": "6a58783d000000002203dda3",
+      "likes": 0,
+      "author": "mo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不考勤。我记得老师说大家都是成年人了 自己权衡负责就好",
+      "sourceRef": "comment:6a587976000000002a006260",
+      "commentId": "6a587976000000002a006260",
+      "likes": 0,
+      "author": "花生红茶洛神花"
+    },
+    {
+      "type": "comment",
+      "text": "楼主好，请问5719研讨会签到是扫码还是拍卡？",
+      "sourceRef": "comment:6a715d8a000000002a005a09",
+      "commentId": "6a715d8a000000002a005a09",
+      "likes": 0,
+      "author": "Harch"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我们这届是签名，后来代签的人太多就改成上课下课都要签，而且一个一个来，助教会数人数",
+      "sourceRef": "comment:6a7185da000000002a02e70c",
+      "commentId": "6a7185da000000002a02e70c",
+      "likes": 0,
+      "author": "花生红茶洛神花"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "note_id": "6aa1d7e4000000000e03f400",
+  "url": "https://www.xiaohongshu.com/explore/6aa1d7e4000000000e03f400?xsec_token=ABFgh_Xqu9-fL7Zd_Y_w-npqmPftfaqxbAMBIQnSGoi9s=",
+  "fetched_at": 1790084440.5012348,
+  "course_codes": [
+    "CS6250"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "GT omscs 课程推荐CS6250",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "上篇说的6311是小众水课，那么这篇讲的6250 Computer Network就是热门水课了\n热门程度到新生是无法在其选课时间选到的，因为GT会根据获得学分安排选课时间，已修学分越多 选课的时间就越靠前，这是我的第二门课\n\t\n26fall成绩组成\n55%project 共5个\n20%exam 期中和期末闭卷考试\n20%quiz 每堂课后有一个\n5%participation 随便拿\n\t\nPeojct 对比了一下 26 Fall 和 23 Fall 的课程内容，发现Project的主题基本没有变化，所以推测整体的作业内容和难度差别应该不会太大\n总共有5个Project，使用Python写，TA提供了比较全面的testcase，可以在提交前后知道自己多少分\n而且Project的难度是循序渐进的，前面的作业会带着你熟悉后面的内容，所以如果有一些Python基础，基本就可以直接上手，边学边写\n\t\nExam 小部分和quiz题一样，大部分是相似的概念题，考前几天提前看看课件问题不大\n\t\nQuiz 每周都会考，可以上网搜一搜，没准会有原题\n\t\n#omscs选课[话题]#  #georgiatech[话题]# #北美程序员[话题]##转码[话题]# #计算机网络[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "Ai写可以不[笑哭R]",
+      "sourceRef": "comment:6aa568fa00000000150061cf",
+      "commentId": "6aa568fa00000000150061cf",
+      "likes": 0,
+      "author": "这是一个名字"
+    },
+    {
+      "type": "sub_comment",
+      "text": "道高一尺 魔高一丈[doge]",
+      "sourceRef": "comment:6aa7f3a4000000000d028401",
+      "commentId": "6aa7f3a4000000000d028401",
+      "likes": 0,
+      "author": "Friegg"
+    },
+    {
+      "type": "comment",
+      "text": "quiz变成5%了[笑哭R]",
+      "sourceRef": "comment:6aa1e686000000000d028800",
+      "commentId": "6aa1e686000000000d028800",
+      "likes": 1,
+      "author": "卷不动的BK"
+    }
+  ]
+}

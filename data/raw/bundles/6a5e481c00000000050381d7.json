@@ -1,0 +1,18 @@
+{
+  "note_id": "6a5e481c00000000050381d7",
+  "url": "https://www.xiaohongshu.com/explore/6a5e481c00000000050381d7?xsec_token=AB519-qIe6w_XcojMWOpQaky5qDtP3s_vOXmxNkjhWR7o=",
+  "fetched_at": 1790081226.7840116,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "论文分享|LLM不再调参，而是开始造算法了？",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "🗝️传统的多目标贝叶斯优化（MOBO），通常是研究者先设计好算法，再让算法寻找 Pareto 最优解。\n\t\n✔️但这篇论文换了个思路：不让大模型直接寻找“最佳材料”或“最优配方”，而让大模型自动设计寻找最优解的算法。\n\t\n⚒️论文框架：\n⭕外层：自动设计MOBO算法\n作者把Gemini 2.5 Flash放入“生成—验证—评测—进化”的闭环：\n准备算法模板与接口 → 选择表现较好的父算法 → LLM通过变异/交叉生成完整Python优化器 → 代码检查与去重 → 小预算试跑并用SMAC调参 → 在多个benchmark上评测HV、稳定性和运行时间 → 保留优秀算法继续迭代\n整个过程中，LLM负责“造算法”，进化策略负责筛选，SMAC负责优化生成算法内部的超参数，累计生成并评测了约900个候选算法。\n🔴内层：用生成的算法解决具体问题\n外层得到MOBO算法后，再将其用于真实的多目标黑盒优化：\n输入问题 → 选择候选点 → 评估目标函数 → 更新Pareto解集 → 循环至预算耗尽\n最关键的区别是：外层优化“算法”，内层优化“具体问题”。⁠⁠​\n\t\n📊结果怎么样？\n大模型生成了多种风格的算法，包括：\n-Improved-Scalarized-EI：基于GP、Tchebycheff标量化和EI；\n-MOEAD-EI Hybrid：融合MOEA/D与EI；\n-RF-LCB-PBI：使用随机森林，计算成本较低；\n-RF-ParEGO-Batch：速度更快，适合低成本部署。\n在12个合成问题上，MOEAD-EI Hybrid的平均归一化超体积达到0.971，高于主要对照qParEGO的0.869；在3个未见工程问题上，Improved-Scalarized-EI达到0.985。部分生成算法的运行时间甚至比qParEGO低一到两个数量级。⁠⁠​\n\t\n这篇论文也暴露了几个问题：\n最强算法之一经过额外筛选，存在post-hoc selection风险；\n生成代码出现固定随机种子、种群越界等问题，仍需人工修正；\nbaseline缺少qNEHVI、qEHVI等现代强方法；\n尚未覆盖复杂约束、噪声和混合变量；\n“快60倍”主要指优化器开销，不代表真实实验周期也缩短60倍。\n\t\n🔗arXiv：https://arxiv.org/abs/2607.08791\n#论文分享[话题]##贝叶斯优化[话题]##多目标优化[话题]##AI4Science[话题]##材料科学[话题]##科研干货[话题]##LLM[话题]##自动算法设计[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

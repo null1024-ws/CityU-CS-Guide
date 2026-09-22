@@ -1,0 +1,183 @@
+{
+  "note_id": "6a6c05a70000000006007233",
+  "url": "https://www.xiaohongshu.com/explore/6a6c05a70000000006007233?xsec_token=AB2ImWyqvQlMJNR22QS1Q03KPrVnwf3b5sT5anEDw1CfY=",
+  "fetched_at": 1790080786.7431219,
+  "course_codes": [
+    "CS5234",
+    "CS5239",
+    "CS5344",
+    "CS5425"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS MCOMP 求退课建议",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "目前五中五[皱眉R]打算留四门\n\t\nCS5234  CHEN Yu\nCS5239  Cristina CARBUNARU\nCS5344  TUNG Kum Hoe Athony\nCS5425  Bryan HOOI & AI Xin\nIS5007  TEO Tat Khai\n\t\n主要还是想上wkld小一点给分能高一点的课，但是名字也别全都一眼太水[汗颜R]，打算退掉一门课，求哥姐指点退掉哪门\n\t\n-------------\nmark目前比较倾向退CS5344\n\t\n--------------\n看到有考试，已经把5425退了，这波急了退早了\n5234考试变成40分了[石化R][石化R]\n\t\n--------------\n把5234drop了，appeal回5425了[捂脸R]\n#nus[话题]# #新加坡国立大学[话题]# #新国立mcomp[话题]# #计算机留学[话题]# #留学选课[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5234非常抽象。。讲的是一些用limited time/space做approximation的算法，还有证明一些问题能不能在certain time/space complexity被解决。",
+      "sourceRef": "comment:6a7315ea000000002b000af2",
+      "commentId": "6a7315ea000000002b000af2",
+      "likes": 1,
+      "author": "阿政"
+    },
+    {
+      "type": "sub_comment",
+      "text": "问一下workload大吗[呃R]",
+      "sourceRef": "comment:6a731cf6000000002a02ec86",
+      "commentId": "6a731cf6000000002a02ec86",
+      "likes": 1,
+      "author": "Opsimath"
+    },
+    {
+      "type": "comment",
+      "text": "is5007到底怎么样？都说水，反正我也选了",
+      "sourceRef": "comment:6a6c6c0d000000002b003059",
+      "commentId": "6a6c6c0d000000002b003059",
+      "likes": 2,
+      "author": "Attack"
+    },
+    {
+      "type": "sub_comment",
+      "text": "5007就是上课讨论一些比较宏大的东西然后拿一个b+以上的分吧，没法认真学什么东西，认真学也不一定高分",
+      "sourceRef": "comment:6a6c8f640000000005017e86",
+      "commentId": "6a6c8f640000000005017e86",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "5344我上的有点坑，水是很水最后打分纯黑盒project的",
+      "sourceRef": "comment:6a6c07fe0000000015003402",
+      "commentId": "6a6c07fe0000000015003402",
+      "likes": 1,
+      "author": "南方"
+    },
+    {
+      "type": "sub_comment",
+      "text": "课水但打分不好评是吧[哭惹R]",
+      "sourceRef": "comment:6a6c1182000000001500508c",
+      "commentId": "6a6c1182000000001500508c",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "5239给分不错 但不算很水 比较中规中矩 5425真的很水 但final给分一般",
+      "sourceRef": "comment:6a6c729f0000000009016327",
+      "commentId": "6a6c729f0000000009016327",
+      "likes": 0,
+      "author": "Raaaay"
+    },
+    {
+      "type": "sub_comment",
+      "text": "在考虑5344和5425里退掉一门，之前看到有人说5344给分也一般🤔",
+      "sourceRef": "comment:6a6c94c1000000001403917a",
+      "commentId": "6a6c94c1000000001403917a",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "5425难度还好 题量太大实在做不完[捂脸R]给分也就那样，看你在不在意gpa吧",
+      "sourceRef": "comment:6a6cd9f3000000000500a0e7",
+      "commentId": "6a6cd9f3000000000500a0e7",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个课还挺褒贬不一的[捂脸R]能高一点还是希望gpa高一点不过",
+      "sourceRef": "comment:6a6cdd77000000001501488e",
+      "commentId": "6a6cdd77000000001501488e",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "想问一下Is5007是你们的必修课吗，r2我看vacancy只有1[失望R]",
+      "sourceRef": "comment:6a6c0d70000000002a0271d6",
+      "commentId": "6a6c0d70000000002a0271d6",
+      "likes": 0,
+      "author": "Ggusfe"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不是啊，我是cs的",
+      "sourceRef": "comment:6a6c1168000000001500094a",
+      "commentId": "6a6c1168000000001500094a",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "我也选了5234，蹲蹲评价",
+      "sourceRef": "comment:6a6c10ea00000000150065e0",
+      "commentId": "6a6c10ea00000000150065e0",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "sub_comment",
+      "text": "蹲[皱眉R]",
+      "sourceRef": "comment:6a6c11a90000000015001b0c",
+      "commentId": "6a6c11a90000000015001b0c",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "CS5239 和 CS5425 挺好的，容易拿A",
+      "sourceRef": "comment:6a6c95cd000000000d023c00",
+      "commentId": "6a6c95cd000000000d023c00",
+      "likes": 0,
+      "author": "程序dog"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好的！！谢谢哥",
+      "sourceRef": "comment:6a6ca97600000000140394a5",
+      "commentId": "6a6ca97600000000140394a5",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "同5234[派对R]",
+      "sourceRef": "comment:6a6cb8d0000000002b029054",
+      "commentId": "6a6cb8d0000000002b029054",
+      "likes": 1,
+      "author": "Opsimath"
+    },
+    {
+      "type": "sub_comment",
+      "text": "课友！[派对R]",
+      "sourceRef": "comment:6a6cbbcf000000001500531c",
+      "commentId": "6a6cbbcf000000001500531c",
+      "likes": 0,
+      "author": "zz"
+    },
+    {
+      "type": "comment",
+      "text": "同选cs5239和cs5425但是没选上，选上了一个巨水的is5128，再想要不要退了is5128，再努力冲一波cs5239，这种退了再选，成功率会高吗[哭惹R]",
+      "sourceRef": "comment:6a6df699000000002b0011b1",
+      "commentId": "6a6df699000000002b0011b1",
+      "likes": 0,
+      "author": "Naka"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我担心学的太水，回头啥也没学到[哭惹R]，主要是现在选上的5门3门都是水课",
+      "sourceRef": "comment:6a6e1087000000002a007c62",
+      "commentId": "6a6e1087000000002a007c62",
+      "likes": 0,
+      "author": "Naka"
+    }
+  ]
+}

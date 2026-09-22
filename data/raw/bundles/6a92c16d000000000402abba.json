@@ -1,0 +1,69 @@
+{
+  "note_id": "6a92c16d000000000402abba",
+  "url": "https://www.xiaohongshu.com/explore/6a92c16d000000000402abba?xsec_token=ABXa408EpWMTCUCyowFc8OD5_O_0f2oVNOyvcwcHEXKR8=",
+  "fetched_at": 1790082393.1203306,
+  "course_codes": [
+    "CS5481",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu msc cs最水课表结算",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "周一的软工申请豁免成功了，但不知道为啥系统里还有，其他课我根据网上的信息应该是按照最水的课来选了[笑哭R][笑哭R][笑哭R]",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "同样的课表，我也豁免了软工，请问cs5481和ec5001要组队吗[捂脸R]",
+      "sourceRef": "comment:6a964e4f000000000f031d2e",
+      "commentId": "6a964e4f000000000f031d2e",
+      "likes": 1,
+      "author": "小红薯635B2848"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那可以一起组队呀[doge]",
+      "sourceRef": "comment:6a96573e0000000002013f9c",
+      "commentId": "6a96573e0000000002013f9c",
+      "likes": 1,
+      "author": "小蛇"
+    },
+    {
+      "type": "comment",
+      "text": "master也能豁免吗，求教程，之前在群里问学长学姐说不能来着[哭惹R]",
+      "sourceRef": "comment:6a92cb2a0000000014003202",
+      "commentId": "6a92cb2a0000000014003202",
+      "likes": 0,
+      "author": "可我只想抱抱"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这个可以啊，学分豁免不行，但是课程可以豁免，你学分还是得上其他课补上",
+      "sourceRef": "comment:6a92cf0c000000000a0256e5",
+      "commentId": "6a92cf0c000000000a0256e5",
+      "likes": 1,
+      "author": "小蛇"
+    },
+    {
+      "type": "comment",
+      "text": "我两一样课，se豁免 就周五课时间反了",
+      "sourceRef": "comment:6a92e5eb0000000002028c50",
+      "commentId": "6a92e5eb0000000002028c50",
+      "likes": 0,
+      "author": "听风 丶"
+    },
+    {
+      "type": "comment",
+      "text": "可以的 这俩选修基本公认最水的 就是ec那个要签到",
+      "sourceRef": "comment:6a92f319000000000a0279ea",
+      "commentId": "6a92f319000000000a0279ea",
+      "likes": 1,
+      "author": "Serena"
+    }
+  ]
+}

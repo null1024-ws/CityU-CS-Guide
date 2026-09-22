@@ -1,0 +1,18 @@
+{
+  "note_id": "6a8684a10000000032031af8",
+  "url": "https://www.xiaohongshu.com/explore/6a8684a10000000032031af8?xsec_token=ABOEudcjrjo6089NJIMwC2HaqNGc2IFrGk8AIJAVpKQH0=",
+  "fetched_at": 1790083013.9546964,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "UIUC 2026数据结构课：C++做6个项目学基础",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "伊利诺伊大学香槟分校 Spring 2026 的 CS 225：Introduction to Data Structures and Algorithms with C++ 已经归档公开，课程录像、逐讲 Slides、讲义、作业规格和 Labs 仍然可以查看。\n\t\n这门课不满足于让你在纸上画一棵树。它要求用 C++ 处理指针、内存、模板和迭代器，再把数据结构变成真正能运行、能看到结果的程序。\n\t\n课程主线包括：\n－链表、栈、队列和迭代器\n－二叉搜索树、AVL、B-tree 和堆\n－k-d tree 与最近邻搜索\n－并查集、图遍历、最小生成树和最短路\n－哈希、Bloom Filter、MinHash 与基数估计\n\t\n最值得做的是 6 个 Machine Problems：\n－给图片实现颜色变换和多层贴纸\n－从指针开始补全双向链表\n－用 k-d tree 生成照片马赛克\n－用 BFS、DFS 完成图像遍历\n－实现并查集，生成并求解随机迷宫\n－把 15-puzzle 建模成图，再生成求解动画\n\t\nLabs 还会继续练 AVL、B-tree、heap、Huffman 编码、网络流和哈希。抽象结构几乎都会落到一段需要编译、测试和调试的 C++ 代码上。\n\t\n它适合已经学过基础编程、递归和 Big-O，并且不怕指针的人。如果 C++、引用、动态内存和离散数学还是空白，直接做这些 MP 会很痛苦，最好先补一门编程基础课。\n\t\n#UIUC[话题]# #数据结构[话题]# #Cplusplus[话题]# #算法[话题]# #计算机专业[话题]#",
+      "sourceRef": "post"
+    }
+  ]
+}

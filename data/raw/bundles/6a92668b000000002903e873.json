@@ -1,0 +1,154 @@
+{
+  "note_id": "6a92668b000000002903e873",
+  "url": "https://www.xiaohongshu.com/explore/6a92668b000000002903e873?xsec_token=ABXa408EpWMTCUCyowFc8OD0EqqhN3Uy74ZhtA8GbWDf4=",
+  "fetched_at": 1790083726.020408,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "终于集齐安全四大啦",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "【Milestone】随着 CCS 2026 的通知，在 2026 这个投稿 cycle 里，一次性集齐了 IEEE S&P、USENIX Security、NDSS 和 CCS 安全四大会。对于从小就喜欢集《水浒卡》的我来说，这种“集齐四张卡”的快乐，真的太开心了！\n除了继续深耕 IoT 和 ICS 固件安全这一老本行之外，今年在研究方向上也有了一些新的突破：\n🔹 IoT & ICS Firmware Security\n1.固件静态污点分析结果的自动化验证\n2.固件高阶污点漏洞检测\n3.面向用户层感知的高保真固件重托管技术\n🔹 Unmanned System Security\n4. 面向无人机、无人车的数值计算漏洞测试\n🔹 Agent System Security\n5. Agent 内存持久化劫持攻击\n6. MCP 安全的系统性分析（几个月前被TDSC录用）\n\t\n从熟悉的固件安全，到无人系统，再到 Agent 安全，感觉自己也在一点点解锁新的“地图”🗺️。\n#S[话题]#P #Security[话题]# #CCS[话题]# #NDSS[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "我想在安全领域成体系化研究[笑哭R]，比如深耕异常流量检测，但现在太难发了，您觉得我们是更应该去追求热点，比如现在agent特别火，就跟agent相关研究，还是成体系化研究呢[笑哭R]这困扰我很久了[捂脸R]我又不想放弃原来领域继续深耕",
+      "sourceRef": "comment:6a93f9170000000014031cdb",
+      "commentId": "6a93f9170000000014031cdb",
+      "likes": 3,
+      "author": "太想进步"
+    },
+    {
+      "type": "sub_comment",
+      "text": "这两个都OK。在传统领域比如异常流量检测、脆弱性分析等，每年还是会有论文出现的，但要做的是把你研究的问题定义明白，和已有工作有什么区别讲明白。而热门的Agent系统，很多论文生命周期很短，一次中不了可能就过时了，别看中的文章多，但投稿量也大，论录取率可能还不如传统领域。所以其实都可以研究，主要看研究的问题是否有价值，以及是否能阐述明白。",
+      "sourceRef": "comment:6a94022f000000000b017648",
+      "commentId": "6a94022f000000000b017648",
+      "likes": 1,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[赞R]",
+      "sourceRef": "comment:6a94023b000000001402e1dd",
+      "commentId": "6a94023b000000001402e1dd",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "[doge]师兄下一步就是解锁四大best paper了",
+      "sourceRef": "comment:6a928ff6000000000a01efc8",
+      "commentId": "6a928ff6000000000a01efc8",
+      "likes": 1,
+      "author": "苦逼科研狗"
+    },
+    {
+      "type": "sub_comment",
+      "text": "那太难了",
+      "sourceRef": "comment:6a92a8250000000015007947",
+      "commentId": "6a92a8250000000015007947",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "牛，梦想中两篇四大[哭惹R]",
+      "sourceRef": "comment:6a92dd40000000000b01e0c5",
+      "commentId": "6a92dd40000000000b01e0c5",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "会可以的",
+      "sourceRef": "comment:6a92e3af000000000b01558b",
+      "commentId": "6a92e3af000000000b01558b",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "学长哪个组的啊",
+      "sourceRef": "comment:6a92a868000000000f02f848",
+      "commentId": "6a92a868000000000f02f848",
+      "likes": 0,
+      "author": "轩冬ovo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我是博士后啦",
+      "sourceRef": "comment:6a92afa400000000150066f6",
+      "commentId": "6a92afa400000000150066f6",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "大佬，膜拜",
+      "sourceRef": "comment:6a9328e9000000000a01c13c",
+      "commentId": "6a9328e9000000000a01c13c",
+      "likes": 0,
+      "author": "🍅"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[派对R]",
+      "sourceRef": "comment:6a93ab98000000000b017085",
+      "commentId": "6a93ab98000000000b017085",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "带带我啊，我一篇四大都中不了",
+      "sourceRef": "comment:6a9269af00000000150114aa",
+      "commentId": "6a9269af00000000150114aa",
+      "likes": 0,
+      "author": "🍼"
+    },
+    {
+      "type": "comment",
+      "text": "太强了 膜拜师兄",
+      "sourceRef": "comment:6a93e21c000000000f02d6ed",
+      "commentId": "6a93e21c000000000f02d6ed",
+      "likes": 0,
+      "author": "biu"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[派对R]",
+      "sourceRef": "comment:6a940241000000001400095f",
+      "commentId": "6a940241000000001400095f",
+      "likes": 0,
+      "author": "Puzhuo"
+    },
+    {
+      "type": "comment",
+      "text": "太强了师兄",
+      "sourceRef": "comment:6aafa418000000000a027d26",
+      "commentId": "6aafa418000000000a027d26",
+      "likes": 0,
+      "author": "世人皆无恙"
+    },
+    {
+      "type": "comment",
+      "text": "好羡慕[哭惹R]",
+      "sourceRef": "comment:6a92dc35000000000b01a978",
+      "commentId": "6a92dc35000000000b01a978",
+      "likes": 0,
+      "author": "Lorraine1101🌸"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[赞R]",
+      "sourceRef": "comment:6a92e3b70000000014002211",
+      "commentId": "6a92e3b70000000014002211",
+      "likes": 0,
+      "author": "Puzhuo"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "note_id": "688340c9000000002201f12c",
+  "url": "https://www.xiaohongshu.com/explore/688340c9000000002201f12c?xsec_token=ABJeBgLBVfxb9NIlhtx653eQiIupxej01QDrh2IT1fRmU=",
+  "fetched_at": 1790083962.277451,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "米理gis-cs track选课分享1",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "研一第一学期选了30学分 第二学期选了40学分\n目前65/70 还有一门5学分课打算9月考\n建议大家在能力允许的情况下研一每学期选35学分\n——————————————————————————————\n✨Geospatial Data Analysis - 10 (研一必修)\n2个笔试➕项目pre 选最简单的项目直接跟着助教的实验课1:1做就行\n✨Software Engineering2 - 5 (研二必修但我研一选了)\n4个繁琐的大报告➕项目实现➕额外2 bonus 也可以选择笔试 (提前组队)\n✨Data Mining - 5 (研二必修但我研一选了)\n纯笔试，上课的内容简单，但考试很难，尽量1/2月考过，6/7/9月理论多。\n✨Image Analysis and Computer Vision - 5 (选修)\n作业➕一个项目pre 拿分容易，课堂理论听不懂但不碍事，需要一定编程能力，录播课质量极差(提前组队)\n✨Foundations of Operations Research - 5 (选修)\n笔试➕2 bonus 个人认为实验课和习题课可以不去，网课质量很好，理论弄明白多做几套往年卷，笔试难度比国内简单 强推！\n✨Business Information System1 - 5 (选修)\n机试选择题 纯水课，感觉把往年卷子答案背住就能拿25左右，认真看网课加往年卷能拿30L，录播课质量好 强推！\n✨Computing Infrastructures - 5 (研一必修)\n笔试➕2 bonus 线下讲的挺好的，录播课质量一般，笔试提前把习题课和往年卷子做了，多顺几遍概念就能过，笔试难度比国内简单\n✨Hypermedia Applications(web and multimedia) - 5 (选修)\n作业➕网站项目 线下课质量挺好的，需要一定编程能力(提前组队) 推\n✨Geographic Information System - 10 (研一必修)\n口试➕2个实操➕lab 研讨会可以不去，全程跟课的话不难\n✨Earth Observation - 10(研一必修)\n口试➕实操➕lab➕项目pre 全程跟课的话不难\n✨Computer Graphic - 5(选修)\n作业➕游戏项目pre 可以不听课 需要编程能力(提前组队) 对我来说好难🤯",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "必修还有一门positioning and location based services，我第一学期来迟了一个月怕压力太大所以没选",
+      "sourceRef": "comment:688348fa000000001a02e8b6",
+      "commentId": "688348fa000000001a02e8b6",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我的选课流程是先看教学大纲，再看webeep上往年课程的课件难度考核形式，最后查看任课教师的往年评分。",
+      "sourceRef": "comment:688381060000000019024a79",
+      "commentId": "688381060000000019024a79",
+      "likes": 2,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "请问bonus是什么意思啊",
+      "sourceRef": "comment:68b1692700000000300315d1",
+      "commentId": "68b1692700000000300315d1",
+      "likes": 0,
+      "author": "isalyssa_📷"
+    },
+    {
+      "type": "sub_comment",
+      "text": "DSU的bonus指的是7月底(7.22)如果因为老师登分不及时等原因没有得到35学分，可以借15个bonus补齐。到8月初(8.10)会扣除bonus再看你有没有到35学分。 相当于给了你10来天催老师登分，7月份还是必须考到35学分",
+      "sourceRef": "comment:68b1827e000000000903808e",
+      "commentId": "68b1827e000000000903808e",
+      "likes": 1,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "一年能选那么多课 好牛 听说米理工程类压力蛮大的",
+      "sourceRef": "comment:68834b6c000000001e019f72",
+      "commentId": "68834b6c000000001e019f72",
+      "likes": 2,
+      "author": "阿嘟嘟嘟度"
+    },
+    {
+      "type": "sub_comment",
+      "text": "想着多选几门 过的概率大点",
+      "sourceRef": "comment:68834c34000000001a02829a",
+      "commentId": "68834c34000000001a02829a",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "学长好，刚被米理gis绿了，请问怎么判断自己是不是cs track，截图中完全看不出来",
+      "sourceRef": "comment:6957e27d0000000006018b5e",
+      "commentId": "6957e27d0000000006018b5e",
+      "likes": 0,
+      "author": "阿巴巴"
+    },
+    {
+      "type": "sub_comment",
+      "text": "选课的时候自己选track",
+      "sourceRef": "comment:6957e5e9000000000f02e029",
+      "commentId": "6957e5e9000000000f02e029",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "感觉你这才是真正的cse[笑哭R]",
+      "sourceRef": "comment:68834772000000001901d72c",
+      "commentId": "68834772000000001901d72c",
+      "likes": 2,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我尽量多选点cs的课，毕竟对gis一窍不通[完啦R][完啦R]",
+      "sourceRef": "comment:68834884000000001902672b",
+      "commentId": "68834884000000001902672b",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "开始选课了 我反复拜读学姐的分享[猪头R]",
+      "sourceRef": "comment:68b2bd760000000030008bc8",
+      "commentId": "68b2bd760000000030008bc8",
+      "likes": 1,
+      "author": "ivone"
+    },
+    {
+      "type": "sub_comment",
+      "text": "多研究研究 我没选的其他课也是有好课的[飞吻R]",
+      "sourceRef": "comment:68b2d33f000000000b02b0c2",
+      "commentId": "68b2d33f000000000b02b0c2",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "你这个课程才是真正的计算机，米理CSE是假计算机",
+      "sourceRef": "comment:688347bd00000000090150c9",
+      "commentId": "688347bd00000000090150c9",
+      "likes": 1,
+      "author": "不能堕落"
+    },
+    {
+      "type": "comment",
+      "text": "感谢分享，开学后就按这个来选[赞R]",
+      "sourceRef": "comment:68ab36e30000000030008c71",
+      "commentId": "68ab36e30000000030008c71",
+      "likes": 0,
+      "author": "小红薯67BFDAE9"
+    },
+    {
+      "type": "sub_comment",
+      "text": "研一必修的positioning记得选(我因为迟到一个月没选)，推荐第一学期选35学分，如果觉得吃力先不上课，网课质量好可以慢慢补网课，等679月再考试",
+      "sourceRef": "comment:68ab4f0f000000002700d7b6",
+      "commentId": "68ab4f0f000000002700d7b6",
+      "likes": 1,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "好强[doge]感觉我都是稀里糊涂地上课",
+      "sourceRef": "comment:68a9a8420000000027009cdc",
+      "commentId": "68a9a8420000000027009cdc",
+      "likes": 0,
+      "author": "旧橙汁王"
+    },
+    {
+      "type": "sub_comment",
+      "text": "费劲脑汁选课 稀里糊涂上课[doge]",
+      "sourceRef": "comment:68a9e2a1000000002603b8f3",
+      "commentId": "68a9e2a1000000002603b8f3",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    },
+    {
+      "type": "comment",
+      "text": "请问研一必修是可以放到研二来选吗？",
+      "sourceRef": "comment:68a49daf00000000300254fb",
+      "commentId": "68a49daf00000000300254fb",
+      "likes": 0,
+      "author": "isalyssa_📷"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以吧 我研一的时候没选反正",
+      "sourceRef": "comment:68a4a1ad000000002603e309",
+      "commentId": "68a4a1ad000000002603e309",
+      "likes": 0,
+      "author": "米老鼠珍妮"
+    }
+  ]
+}

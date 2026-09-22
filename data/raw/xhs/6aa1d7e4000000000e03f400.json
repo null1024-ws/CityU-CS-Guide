@@ -1,0 +1,229 @@
+{
+  "note_id": "6aa1d7e4000000000e03f400",
+  "url": "https://www.xiaohongshu.com/explore/6aa1d7e4000000000e03f400?xsec_token=ABFgh_Xqu9-fL7Zd_Y_w-npqmPftfaqxbAMBIQnSGoi9s=",
+  "fetched_at": 1790084440.5012348,
+  "search_item": {
+    "id": "6aa1d7e4000000000e03f400",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "GT omscs 课程推荐CS6250",
+      "user": {
+        "nickName": "Friegg",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o?imageView2/2/w/80/format/jpg",
+        "userId": "6677a1000000000007004265",
+        "nickname": "Friegg",
+        "xsecToken": "ABApv0xJ_AR-Y8XVXxzgjVSsOIewNpOfdSFJg1pxSE_xs="
+      },
+      "interactInfo": {
+        "commentCount": "5",
+        "sharedCount": "1",
+        "liked": false,
+        "likedCount": "12",
+        "collected": false,
+        "collectedCount": "12"
+      },
+      "cover": {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222140/6247f7b2ad6b0b05ec63f2c61bfe3f00/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nc_n_webp_prv_1",
+        "height": 1891,
+        "width": 1206,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222140/610a9ef7e53eed942a65e099e8a3b94a/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nc_n_webp_mw_1"
+      },
+      "imageList": [
+        {
+          "height": 1891,
+          "width": 1206,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222140/610a9ef7e53eed942a65e099e8a3b94a/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222140/6247f7b2ad6b0b05ec63f2c61bfe3f00/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-10"
+        }
+      ]
+    },
+    "xsecToken": "ABFgh_Xqu9-fL7Zd_Y_w-npqmPftfaqxbAMBIQnSGoi9s=",
+    "index": 15,
+    "exposed": false,
+    "trackId": "6aa1d7e4000000000e03f400"
+  },
+  "note": {
+    "noteId": "6aa1d7e4000000000e03f400",
+    "desc": "上篇说的6311是小众水课，那么这篇讲的6250 Computer Network就是热门水课了\n热门程度到新生是无法在其选课时间选到的，因为GT会根据获得学分安排选课时间，已修学分越多 选课的时间就越靠前，这是我的第二门课\n\t\n26fall成绩组成\n55%project 共5个\n20%exam 期中和期末闭卷考试\n20%quiz 每堂课后有一个\n5%participation 随便拿\n\t\nPeojct 对比了一下 26 Fall 和 23 Fall 的课程内容，发现Project的主题基本没有变化，所以推测整体的作业内容和难度差别应该不会太大\n总共有5个Project，使用Python写，TA提供了比较全面的testcase，可以在提交前后知道自己多少分\n而且Project的难度是循序渐进的，前面的作业会带着你熟悉后面的内容，所以如果有一些Python基础，基本就可以直接上手，边学边写\n\t\nExam 小部分和quiz题一样，大部分是相似的概念题，考前几天提前看看课件问题不大\n\t\nQuiz 每周都会考，可以上网搜一搜，没准会有原题\n\t\n#omscs选课[话题]#  #georgiatech[话题]# #北美程序员[话题]##转码[话题]# #计算机网络[话题]#",
+    "imageList": [
+      {
+        "fileId": "oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag",
+        "width": 1206,
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222140/3904cd35a96d5ac9e42325f92eb8c58e/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222140/c13bb5624beca5d198f39820ab249f00/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222140/3904cd35a96d5ac9e42325f92eb8c58e/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nd_prv_wlteh_jpg_3",
+        "height": 1891,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222140/c13bb5624beca5d198f39820ab249f00/oss-ae/notes_pre_post/1040g3v8324tcu1hh3k3g5pjnk401ogj53jol0ag!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      }
+    ],
+    "lastUpdateTime": 1788991545000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "GT omscs 课程推荐CS6250",
+    "user": {
+      "userId": "6677a1000000000007004265",
+      "nickname": "Friegg",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o",
+      "xsecToken": "ABR7EWS-viqVL5gYenzKeO-Ywl8cpXW0WXPvDyNXpSri4="
+    },
+    "interactInfo": {
+      "collectedCount": "12",
+      "commentCount": "5",
+      "shareCount": "1",
+      "relation": "none",
+      "niceCount": "",
+      "followed": false,
+      "liked": false,
+      "likedCount": "12",
+      "collected": false
+    },
+    "tagList": [
+      {
+        "id": "6167bf29000000000100133d",
+        "name": "omscs选课",
+        "type": "topic"
+      },
+      {
+        "id": "5ff4c96c0000000001005e3f",
+        "name": "georgiatech",
+        "type": "topic"
+      },
+      {
+        "id": "615df356000000000101c62f",
+        "name": "北美程序员",
+        "type": "topic"
+      },
+      {
+        "id": "5f236f84000000000101e192",
+        "name": "转码",
+        "type": "topic"
+      },
+      {
+        "id": "5e661c2a00000000010099e7",
+        "name": "计算机网络",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1788991460000,
+    "ipLocation": "美国",
+    "xsecToken": "ABFgh_Xqu9-fL7Zd_Y_w-npqmPftfaqxbAMBIQnSGoi9s="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "3",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6aa7f3a4000000000d028401",
+          "noteId": "6aa1d7e4000000000e03f400",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789391781000,
+          "ipLocation": "美国",
+          "status": 0,
+          "content": "道高一尺 魔高一丈[doge]",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323bej44nns005pjnk401ogj54i86s5o?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB3OV2Fnt2WopvyVrwSyxDJYZH7nguQUTjA2UxcJ7owYA=",
+            "userId": "6677a1000000000007004265",
+            "nickname": "Friegg"
+          },
+          "targetComment": {
+            "id": "6aa568fa00000000150061cf",
+            "userInfo": {
+              "userId": "5d5be1200000000001007c53",
+              "nickname": "这是一个名字",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324u79k6j34605nars4g08v2j74inq00?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfp3N-onWoKMn6dGhf70jvn77oD481WIIwLqn7ecPjqU="
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "status": 0,
+      "content": "Ai写可以不[笑哭R]",
+      "userInfo": {
+        "userId": "5d5be1200000000001007c53",
+        "nickname": "这是一个名字",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324u79k6j34605nars4g08v2j74inq00?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfp3N-onWoKMn6dGhf70jvn77oD481WIIwLqn7ecPjqU="
+      },
+      "createTime": 1789225211000,
+      "ipLocation": "北京",
+      "subCommentCursor": "6aa7f3a4000000000d028401",
+      "id": "6aa568fa00000000150061cf",
+      "noteId": "6aa1d7e4000000000e03f400",
+      "atUsers": [],
+      "showTags": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "userInfo": {
+        "userId": "5afe8e98e8ac2b16b663db10",
+        "nickname": "卷不动的BK",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fa51i236i004a5edo79hmogjrh3p5o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDHPxwt43_Wioam-feMJ7Ao6FEgTxn48rAy2_0TmFuYU="
+      },
+      "ipLocation": "美国",
+      "subCommentCursor": "",
+      "noteId": "6aa1d7e4000000000e03f400",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "0",
+      "id": "6aa1e686000000000d028800",
+      "content": "quiz变成5%了[笑哭R]",
+      "showTags": [],
+      "createTime": 1788995206000,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "status": 0,
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5348 怎么样"
+}

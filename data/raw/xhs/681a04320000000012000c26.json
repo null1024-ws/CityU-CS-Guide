@@ -1,0 +1,201 @@
+{
+  "note_id": "681a04320000000012000c26",
+  "url": "https://www.xiaohongshu.com/explore/681a04320000000012000c26?xsec_token=AB56Mg6Tx7Ul_ihYWRz-rbPkRAzhdIMaFSqUDHTZwJ1Gc=",
+  "fetched_at": 1790081551.0461874,
+  "search_item": {
+    "xsecToken": "AB56Mg6Tx7Ul_ihYWRz-rbPkRAzhdIMaFSqUDHTZwJ1Gc=",
+    "id": "681a04320000000012000c26",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "xsecToken": "ABUVXZTc9bwUP4_r-jnIIRFq-lp9nA2iiT9mXQs6Dq87E=",
+        "nickName": "Richett_L",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg?imageView2/2/w/80/format/jpg",
+        "userId": "627e901c000000002102978e",
+        "nickname": "Richett_L"
+      },
+      "interactInfo": {
+        "commentCount": "3",
+        "sharedCount": "4",
+        "liked": false,
+        "likedCount": "46",
+        "collected": false,
+        "collectedCount": "28"
+      },
+      "cover": {
+        "height": 2296,
+        "width": 2560,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222052/c71bf1198daeb953da024a256052e5bf/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222052/735c86bc2ca2913fd78c2ae589c031a0/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 2296,
+          "width": 2560,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222052/c71bf1198daeb953da024a256052e5bf/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222052/735c86bc2ca2913fd78c2ae589c031a0/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "2025-05-06",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "香港城市大学 CS5281评测"
+    },
+    "index": 38,
+    "exposed": false,
+    "trackId": "681a04320000000012000c26"
+  },
+  "note": {
+    "noteId": "681a04320000000012000c26",
+    "title": "香港城市大学 CS5281评测",
+    "desc": "互联网应用开发这门课还算不错，特别对于以前没接触过这块的同学来说。对于学过的同学来说就是很快乐的水课。\n\t\n课程内容主要是html css js 和php，老师讲的比较细致，有线上直播和录播，大概有5次小作业，有一个小组project开发一个系统不可以使用别的技术栈，上传介绍视频和代码即可，有期中考试，期末前一节课还会再讲一下期中卷子，期中期末都开卷所以把老师讲了的都打印上基本都能找到对应考点。\n\t\n总体来说没接触过这块的同学可以当个入门听一听，学过的同学很适合把这课用来混学分。\n\t\n#香港城市大学[话题]#",
+    "user": {
+      "nickname": "Richett_L",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3114pba8t6a605ojui0e8d5se5d4smmg",
+      "xsecToken": "ABTyUzr63YBwZGkzQ_jtkzKMZIOY2dux5kdNpn9_i5gxc=",
+      "userId": "627e901c000000002102978e"
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "collectedCount": "28",
+      "shareCount": "4",
+      "liked": false,
+      "likedCount": "46",
+      "collected": false,
+      "commentCount": "3",
+      "followed": false,
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "width": 2560,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222052/a8184ef3bc0749ce9214b6df71418006/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222052/f85e19453b4513ea23182cfe8f158296/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "fileId": "notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50",
+        "height": 2296,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222052/a8184ef3bc0749ce9214b6df71418006/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222052/f85e19453b4513ea23182cfe8f158296/notes_pre_post/1040g3k031h52upe33i605ojui0e8d5se8gkrl50!nd_dft_wgth_jpg_3",
+        "stream": {}
+      }
+    ],
+    "atUserList": [],
+    "type": "normal",
+    "tagList": [
+      {
+        "name": "香港城市大学",
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433"
+      }
+    ],
+    "time": 1746535474000,
+    "lastUpdateTime": 1746535474000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "AB56Mg6Tx7Ul_ihYWRz-rbPkRAzhdIMaFSqUDHTZwJ1Gc="
+  },
+  "comments": [
+    {
+      "content": "建议25fall ec可以把博主帖子都看一遍哈哈哈哈",
+      "userInfo": {
+        "userId": "64f57e0f0000000005002d49",
+        "nickname": "好运来",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/64f5ba3ca986565a60c45f00.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABk-WyO6DAggv-Fk2_rgo4MpR8-yCY8G5MlErmiTVfT0w="
+      },
+      "createTime": 1746536096000,
+      "subCommentCursor": "",
+      "invalid": false,
+      "id": "681a06a000000000070370f1",
+      "liked": false,
+      "subComments": [],
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "noteId": "681a04320000000012000c26",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "5",
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABpHWry2xEvg_EOlifIyziYn_dnL3vBtvzxtI0IiozHus=",
+        "userId": "5b51ed794eacab27049b8092",
+        "nickname": "JHQY",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313qt07f22c005p7ele309kb4acbhp0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "广东",
+      "invalid": false,
+      "atUsers": [],
+      "subCommentCursor": "",
+      "noteId": "681a04320000000012000c26",
+      "status": 0,
+      "showTags": [],
+      "createTime": 1766997435000,
+      "id": "69523dba0000000016027d41",
+      "content": "想选这门课结果跟别的课的时间撞了…",
+      "likeCount": "0",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "681a087b0000000007035ae1",
+      "noteId": "681a04320000000012000c26",
+      "content": "cs想选都选不了[捂脸R]",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "60226a3200000000010090ca",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31u5p6rplhu005o12d8p0946ans4gf80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABdngb0Ao_lps15OsHNtFsljpke1ar6pd5CTrm1m6YJpg="
+      },
+      "ipLocation": "广东",
+      "liked": false,
+      "createTime": 1746536571000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 评价"
+}

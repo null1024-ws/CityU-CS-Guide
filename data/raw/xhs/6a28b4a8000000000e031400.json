@@ -1,0 +1,320 @@
+{
+  "note_id": "6a28b4a8000000000e031400",
+  "url": "https://www.xiaohongshu.com/explore/6a28b4a8000000000e031400?xsec_token=ABI8RJTCDmFCWH6nf00BL--w7Ckq000GwOT3ZYADL9M3g=",
+  "fetched_at": 1790081286.9340909,
+  "search_item": {
+    "id": "6a28b4a8000000000e031400",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "港科大DDM就读体验（上）",
+      "user": {
+        "userId": "68d8efb80000000021026fd2",
+        "nickname": "Sandox Flanders",
+        "xsecToken": "ABxh1E1s87GkUgBG9rpakSQNzbb4QsGvDZ7NI9c1wmHGU=",
+        "nickName": "Sandox Flanders",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tso924i16005q6otus8crui4aj8vfo?imageView2/2/w/80/format/jpg"
+      },
+      "interactInfo": {
+        "commentCount": "7",
+        "sharedCount": "18",
+        "liked": false,
+        "likedCount": "24",
+        "collected": false,
+        "collectedCount": "32"
+      },
+      "cover": {
+        "height": 1608,
+        "width": 1208,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222047/fc797c15d2b6d40f18610066344feed2/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222047/d925d93bfa9e90c7514e0a68b6955b3c/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1608,
+          "width": 1208,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222047/fc797c15d2b6d40f18610066344feed2/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222047/d925d93bfa9e90c7514e0a68b6955b3c/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-10"
+        }
+      ]
+    },
+    "xsecToken": "ABI8RJTCDmFCWH6nf00BL--w7Ckq000GwOT3ZYADL9M3g=",
+    "index": 17,
+    "exposed": false,
+    "trackId": "6a28b4a8000000000e031400"
+  },
+  "note": {
+    "type": "normal",
+    "title": "港科大DDM就读体验（上）",
+    "tagList": [],
+    "lastUpdateTime": 1781052584000,
+    "noteId": "6a28b4a8000000000e031400",
+    "desc": "本人申请时BG：9本无科研0实习，某传统工科专业，半自学数理统计转行，目前留港从事数据科学工作。\n\t\n5001 计算与建模工具导论（必修）\n课程内容很杂，理论方面主要涉及到硬件原理（类似计组），实操方面有教SQL、Bash命令、虚拟机等，对非CS同学是扫盲课。记得有两次quiz，都不是很难。\n\t\n5002 科学编程与可视化（必修）\n有意思的课，教授说上这门课只是因为爱好编程和可视化。会讲Python的编程和可视化，讲的很底层，比如教你python的底层是怎么储存数据和优化存取速度的，访问的是内存还是内存地址等等，超好拿分。\n5003 随机过程与应用（必修）\n\t\n两位教授分别讲前后半段。前半段是随机过程理论，从随机游走模型和统计物理开始讲，偏物理。后半段讲到随机过程在物理和金融领域的建模和应用。本人只学过大物，体感比较难，期末会有两人一组的project presentation，但没有考试。\n\t\n5051 数据结构与算法（选修）\n教师是港科的网红物理教授，同样也是教与本专业不相关的知识。常规的数据结构和算法课，可以靠上中文网课准备几次quiz，期末有个模拟算法面试，难度肯定比不上实习面试但要用英语。\n\t\n5054 统计机器学习（选修）\n秋季只有含金量的课，把这门课教过的知识点都学会你就入门机器学习了。知识体系是很典型的从线性回归模型讲起，讲到逻辑回归、聚类、PCA、SVD、决策树、随机森林等，最后到Transformer。这门课考试是最难的，有期中和期末，有两种计分方式，要么期中30期末40，要么all in期末70，取分高的方式作为最终分数。教授会故意把期中出的超难来打压心态，然后期末出的超简单。考试形态是前半段开卷笔试后半段编程，编程期中的时候只给查文档，期末允许用AI了。",
+    "user": {
+      "userId": "68d8efb80000000021026fd2",
+      "nickname": "Sandox Flanders",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tso924i16005q6otus8crui4aj8vfo",
+      "xsecToken": "ABdoXvSqFPFA9iE7U6P0TRcsXXQX62pvIi_tUD-mEYQEg="
+    },
+    "interactInfo": {
+      "collectedCount": "32",
+      "commentCount": "7",
+      "shareCount": "18",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "24",
+      "collected": false,
+      "niceCount": "",
+      "liked": false
+    },
+    "imageList": [
+      {
+        "livePhoto": false,
+        "height": 1608,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222048/49697e09062f11483cee562ca6b560f5/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222048/81bf905243039bfba0fb9d6c74b538c1/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222048/81bf905243039bfba0fb9d6c74b538c1/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o",
+        "width": 1208,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222048/49697e09062f11483cee562ca6b560f5/oss-sg/notes/1040g3l03217e8ih1ni005q6otus8cruijisie6o!nd_prv_wlteh_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "time": 1781052584000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABI8RJTCDmFCWH6nf00BL--w7Ckq000GwOT3ZYADL9M3g="
+  },
+  "comments": [
+    {
+      "noteId": "6a28b4a8000000000e031400",
+      "userInfo": {
+        "userId": "65fd37b9000000000600d7f2",
+        "nickname": "小吻",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323c4fg6i6u005pft6ushhlvivepev18?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABI57Apoo4PRkNC-Nd-MgNGfDflEKkNdRlobQ7yxfn7pw="
+      },
+      "subCommentCount": "1",
+      "invalid": false,
+      "id": "6aa37d4c0000000015004f39",
+      "ipLocation": "湖南",
+      "subCommentCursor": "6aaabf72000000001202bfc0",
+      "subCommentHasMore": false,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1789099341000,
+      "status": 0,
+      "content": "您好，请问土木可以跨申这个专业吗[萌萌哒R]",
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "68d8efb80000000021026fd2",
+            "nickname": "Sandox Flanders",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tso924i16005q6otus8crui4aj8vfo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABiLvdVptcBE1R7n0rRLiUwVi7gjF3Wfx3sLfedYvxEww="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1789575027000,
+          "noteId": "6a28b4a8000000000e031400",
+          "status": 0,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6aa37d4c0000000015004f39",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABI57Apoo4PRkNC-Nd-MgNGfDflEKkNdRlobQ7yxfn7pw=",
+              "userId": "65fd37b9000000000600d7f2",
+              "nickname": "小吻",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323c4fg6i6u005pft6ushhlvivepev18?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "id": "6aaabf72000000001202bfc0",
+          "content": "目前没看到过",
+          "atUsers": []
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a28b4a8000000000e031400",
+      "userInfo": {
+        "xsecToken": "ABhrMiv6m3CP-xRT2GitgL6szA57-ztqUzrwCjypT4wqc=",
+        "userId": "66bfcb2e000000001d020871",
+        "nickname": "hobby",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f83b46568f580649586.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1785134547000,
+      "ipLocation": "福建",
+      "subCommentCount": "0",
+      "id": "6a66fdd30000000015009feb",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "invalid": false,
+      "status": 0,
+      "content": "学姐/学长，有没有ddm的大群能拉一下啊，26fall新人找不到组织[害羞R]",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "showTags": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "6a28c85e000000000d021c00",
+      "id": "6a28c5a5000000002701fb67",
+      "userInfo": {
+        "userId": "602fd08d000000000100950c",
+        "nickname": "南风cck",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mshhot4ku005o1fq26g958c1n8tirg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABMiqFHLyRtLX73QLNDjN26OYizxVz6q8VAAcsBA0Agns="
+      },
+      "status": 0,
+      "content": "26fall ddmer 在此[doge]求问香港的DS是不是在薪资上和深圳差不多啊",
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "atUsers": [],
+          "likeCount": "2",
+          "userInfo": {
+            "userId": "68d8efb80000000021026fd2",
+            "nickname": "Sandox Flanders",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tso924i16005q6otus8crui4aj8vfo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABiLvdVptcBE1R7n0rRLiUwVi7gjF3Wfx3sLfedYvxEww="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a28c5a5000000002701fb67",
+            "userInfo": {
+              "xsecToken": "ABMiqFHLyRtLX73QLNDjN26OYizxVz6q8VAAcsBA0Agns=",
+              "userId": "602fd08d000000000100950c",
+              "nickname": "南风cck",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mshhot4ku005o1fq26g958c1n8tirg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "6a28c85e000000000d021c00",
+          "status": 0,
+          "liked": false,
+          "createTime": 1781057630000,
+          "invalid": false,
+          "noteId": "6a28b4a8000000000e031400",
+          "content": "看行业和公司，在深圳互联网搞DS大概率能拿到比香港高的工资，传统一点的行业就不一定了；香港在保险和金融业搞DS也可能有比内地高的工资，比如去量化机构等"
+        }
+      ],
+      "subCommentHasMore": false,
+      "createTime": 1781056933000,
+      "subCommentCount": "1",
+      "invalid": false,
+      "noteId": "6a28b4a8000000000e031400",
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "createTime": 1782895339000,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a44d2ea00000000150001c0",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABdGjkwdUD3wQ7fUMOQ0Jau4mJC3_70-cvHTNDDMR5pWI=",
+              "userId": "5d2c97d80000000012003ebf",
+              "nickname": "Tracy崔西",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cnfvh4fgs005n9civc4gflvmqcj4eg?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "id": "6a4515f9000000000d022c00",
+          "noteId": "6a28b4a8000000000e031400",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "68d8efb80000000021026fd2",
+            "nickname": "Sandox Flanders",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tso924i16005q6otus8crui4aj8vfo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABiLvdVptcBE1R7n0rRLiUwVi7gjF3Wfx3sLfedYvxEww="
+          },
+          "invalid": false,
+          "status": 0,
+          "content": "本专业这届无edx，隔壁BDT和IT才有",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782912505000,
+          "ipLocation": "中国香港"
+        }
+      ],
+      "subCommentCursor": "6a4515f9000000000d022c00",
+      "id": "6a44d2ea00000000150001c0",
+      "noteId": "6a28b4a8000000000e031400",
+      "status": 0,
+      "liked": false,
+      "atUsers": [],
+      "subCommentCount": "1",
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "content": "想问问必修课修起来的体感，学长推不推荐修edx？",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABdGjkwdUD3wQ7fUMOQ0Jau4mJC3_70-cvHTNDDMR5pWI=",
+        "userId": "5d2c97d80000000012003ebf",
+        "nickname": "Tracy崔西",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cnfvh4fgs005n9civc4gflvmqcj4eg?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5282 体验"
+}

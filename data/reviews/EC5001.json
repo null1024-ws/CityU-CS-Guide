@@ -5,8 +5,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 3,
-      "distinctSources": 2
+      "sourceCount": 4,
+      "distinctSources": 3
     },
     "attendance": {
       "value": "strict",
@@ -15,19 +15,19 @@
       "sourceCount": 8,
       "distinctSources": 5
     },
+    "workload": {
+      "value": "light",
+      "label": "轻松",
+      "confidence": "confirmed",
+      "sourceCount": 2,
+      "distinctSources": 2
+    },
     "examFormat": {
       "value": "closed_book",
       "label": "闭卷",
       "confidence": "confirmed",
       "sourceCount": 4,
       "distinctSources": 2
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
     },
     "grading": {
       "value": "unknown",
@@ -103,5 +103,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

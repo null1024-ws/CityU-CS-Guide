@@ -1,0 +1,386 @@
+{
+  "note_id": "6aa8dcf3000000002802c545",
+  "url": "https://www.xiaohongshu.com/explore/6aa8dcf3000000002802c545?xsec_token=ABgkxdUXKvPj_Ggs8Nw8y-IQh7BLyrvkDDhdmvIINDWK4=",
+  "fetched_at": 1790085039.5077302,
+  "search_item": {
+    "id": "6aa8dcf3000000002802c545",
+    "modelType": "note",
+    "noteCard": {
+      "type": "video",
+      "displayTitle": "CityU ac3怎么走 美食测评",
+      "user": {
+        "xsecToken": "ABWsXsK4AbeiDCbdlthYpXK10ARhkdvNbnfp4BSfaDjLY=",
+        "nickName": "小琪在港记",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323t50h1n0o005qjs7cq51h02jd8d36g?imageView2/2/w/80/format/jpg",
+        "userId": "6a7c3b34000000001400c402",
+        "nickname": "小琪在港记"
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "19",
+        "collected": false,
+        "collectedCount": "11",
+        "commentCount": "3",
+        "sharedCount": "7"
+      },
+      "cover": {
+        "height": 1726,
+        "width": 1294,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222150/834a4dbca82b398ca53ed0a8522e15cf/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222150/2223900d00f0f9f4f636f95e98bf91dd/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1726,
+          "width": 1294,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222150/834a4dbca82b398ca53ed0a8522e15cf/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222150/2223900d00f0f9f4f636f95e98bf91dd/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-15"
+        }
+      ]
+    },
+    "xsecToken": "ABgkxdUXKvPj_Ggs8Nw8y-IQh7BLyrvkDDhdmvIINDWK4=",
+    "index": 6,
+    "exposed": true,
+    "trackId": "6aa8dcf3000000002802c545"
+  },
+  "note": {
+    "noteId": "6aa8dcf3000000002802c545",
+    "type": "video",
+    "video": {
+      "mediaV2": "{\"video_id\":\"138108404495525350\",\"video\":{\"biz_name\":110,\"biz_id\":\"282223593597879621\",\"duration\":105,\"md5\":\"822c9709a0f77cd180bfc0c92b2483f0\",\"hdr_type\":1,\"drm_type\":0,\"stream_types\":[301,259,309],\"width\":1080,\"height\":1920,\"bound\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"bbox\":{\"ocr_v5\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v3\":[{\"x\":2,\"y\":1450,\"w\":1070,\"h\":88}],\"ocr_v4\":[{\"x\":0,\"y\":0,\"w\":0,\"h\":0}],\"ocr_v2\":[{\"x\":2,\"y\":701,\"w\":1070,\"h\":837}]},\"opaque1\":{\"bottomAvgLuma\":\"153\",\"loudnorm\":\"{\\\"lpf\\\":11000.0,\\\"thrs\\\":-25.15,\\\"htp\\\":0.47,\\\"hldns\\\":-13.06,\\\"lras\\\":8.7,\\\"version\\\":1.0,\\\"ldns\\\":-14.89,\\\"tps\\\":0.36,\\\"ldn\\\":-9.47,\\\"lra\\\":10.9,\\\"tp\\\":0.91,\\\"hldn\\\":-8.55,\\\"htps\\\":0.29,\\\"hpf\\\":500.0,\\\"thr\\\":-20.05}\",\"hasHumanVoice\":\"true\",\"topAvgLuma\":\"147\",\"domestic\":\"1\",\"isSupportSubtitle\":\"true\",\"rightAvgLuma\":\"159\",\"videoLanguage\":\"[\\\"zh-CN\\\"]\",\"audioLevInfo\":\"{\\\"audio_quality_level\\\":\\\"G+\\\",\\\"mos_overall\\\":3.5486,\\\"version\\\":\\\"3.0\\\"}\",\"weakNetUserFlag\":\"1\",\"insertSubtitleLanguages\":\"[\\\"zh-CN\\\"]\",\"audioClsInfo\":\"{\\\"music_ratio\\\":0.9882680931986914,\\\"freesound_ratio\\\":0.007981536609466905,\\\"speech_ratio\\\":0.7218001661525131}\"},\"subtitles\":{\"en-US\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01eaa8dcb673a5e601037003a0a39f401e_12.srt?sign=9450f74c7d9473e0fd9218355db9202a&t=6ab724fa\",\"language\":\"en-US\",\"format\":0,\"type\":0}],\"source\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01eaa8dcb673a5e601037003a0a39f3d96_110100.srt?sign=1f4de99271cd563e2dc04f89ce95eebd&t=6ab724fa\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}],\"zh-CN\":[{\"url\":\"https://sns-subtitle-s1.xhscdn.com/subtitle/1/110/1/01eaa8dcb673a5e601037003a0a39f3ee5_11.srt?sign=915240c0773f1151f7ed69100b5f45e6&t=6ab724fa\",\"language\":\"zh-CN\",\"format\":0,\"type\":0}]}},\"stream\":{\"EF4\":[{\"stream_type\":259,\"stream_desc\":\"WEB_259\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":104734,\"size\":21128756,\"volume\":0.0,\"avg_bitrate\":1613898,\"fps\":30,\"video_codec\":\"EF4\",\"video_bitrate\":1543435,\"video_duration\":104733,\"audio_codec\":\"aac\",\"audio_bitrate\":64000,\"audio_duration\":104720,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v2.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4?sign=8f850934190d930390f4fb58b90a967a&t=6ab724fa\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":0.0,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF6\":[],\"EF5\":[{\"stream_type\":301,\"stream_desc\":\"WEB_301\",\"default_stream\":0,\"format\":\"mp4\",\"width\":1080,\"height\":1920,\"duration\":104734,\"size\":15795100,\"volume\":0.0,\"avg_bitrate\":1206492,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":1103820,\"video_duration\":104733,\"audio_codec\":\"aac\",\"audio_bitrate\":96001,\"audio_duration\":104720,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v2.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4?sign=2e33d986dcbc6826fa3ec7213571f787&t=6ab724fa\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":49.97999954223633,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}},{\"stream_type\":309,\"stream_desc\":\"WEB_309\",\"default_stream\":0,\"format\":\"mp4\",\"width\":720,\"height\":1280,\"duration\":104734,\"size\":10937353,\"volume\":0.0,\"avg_bitrate\":835438,\"fps\":30,\"video_codec\":\"EF5\",\"video_bitrate\":732764,\"video_duration\":104733,\"audio_codec\":\"aac\",\"audio_bitrate\":96001,\"audio_duration\":104720,\"audio_channels\":2,\"rotate\":0,\"master_url\":\"http://sns-video-v2.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4?sign=79c1077b5108c83426ee6881238e8656&t=6ab724fa\",\"backup_urls\":[\"http://sns-bak-v1.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4\",\"http://sns-bak-v6.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4\"],\"hdr_type\":0,\"vmaf\":-1.0,\"psnr\":49.474998474121094,\"ssim\":0.0,\"weight\":62,\"quality_type\":\"HD\",\"sr\":0,\"opaque1\":{\"pcdn_302_flag\":\"false\",\"didLoudnorm\":\"false\",\"pcdn_supplier\":\"\",\"encode_stream\":\"0\"}}],\"EF7\":[]},\"user_level\":0}",
+      "media": {
+        "stream": {
+          "EF5": [
+            {
+              "width": 1080,
+              "avgBitrate": 1206492,
+              "fps": 30,
+              "videoDuration": 104733,
+              "audioDuration": 104720,
+              "masterUrl": "http://sns-video-v2.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4?sign=2e33d986dcbc6826fa3ec7213571f787&t=6ab724fa",
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/1/110/301/01eaa8dcb673a5e601037001a0a3a502a6_301.mp4"
+              ],
+              "streamDesc": "WEB_301",
+              "duration": 104734,
+              "vmaf": -1,
+              "psnr": 49.97999954223633,
+              "ssim": 0,
+              "qualityType": "HD",
+              "streamType": 301,
+              "defaultStream": 0,
+              "height": 1920,
+              "videoCodec": "EF5",
+              "videoBitrate": 1103820,
+              "audioCodec": "aac",
+              "audioChannels": 2,
+              "size": 15795100,
+              "volume": 0,
+              "audioBitrate": 96001,
+              "rotate": 0,
+              "hdrType": 0,
+              "weight": 62,
+              "format": "mp4"
+            },
+            {
+              "vmaf": -1,
+              "streamDesc": "WEB_309",
+              "volume": 0,
+              "fps": 30,
+              "hdrType": 0,
+              "psnr": 49.474998474121094,
+              "qualityType": "HD",
+              "streamType": 309,
+              "defaultStream": 0,
+              "avgBitrate": 835438,
+              "audioBitrate": 96001,
+              "audioDuration": 104720,
+              "masterUrl": "http://sns-video-v2.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4?sign=79c1077b5108c83426ee6881238e8656&t=6ab724fa",
+              "weight": 62,
+              "height": 1280,
+              "duration": 104734,
+              "size": 10937353,
+              "videoCodec": "EF5",
+              "videoDuration": 104733,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/309/01eaa8dcb673a5e64f037001a0a3a5368a_309.mp4"
+              ],
+              "ssim": 0,
+              "format": "mp4",
+              "width": 720,
+              "videoBitrate": 732764,
+              "audioCodec": "aac",
+              "audioChannels": 2,
+              "rotate": 0
+            }
+          ],
+          "EF7": [],
+          "EF4": [
+            {
+              "ssim": 0,
+              "defaultStream": 0,
+              "duration": 104734,
+              "size": 21128756,
+              "volume": 0,
+              "avgBitrate": 1613898,
+              "fps": 30,
+              "audioBitrate": 64000,
+              "backupUrls": [
+                "http://sns-bak-v1.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4",
+                "http://sns-bak-v6.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4"
+              ],
+              "streamDesc": "WEB_259",
+              "format": "mp4",
+              "height": 1280,
+              "audioChannels": 2,
+              "hdrType": 0,
+              "vmaf": -1,
+              "weight": 62,
+              "width": 720,
+              "videoBitrate": 1543435,
+              "videoDuration": 104733,
+              "audioCodec": "aac",
+              "rotate": 0,
+              "qualityType": "HD",
+              "streamType": 259,
+              "videoCodec": "EF4",
+              "audioDuration": 104720,
+              "masterUrl": "http://sns-video-v2.xhscdn.com/stream/79/110/259/01eaa8dcb673a5e601037003a0a3a1724f_259.mp4?sign=8f850934190d930390f4fb58b90a967a&t=6ab724fa",
+              "psnr": 0
+            }
+          ],
+          "EF6": []
+        },
+        "videoId": 138108404495525340,
+        "video": {
+          "bizId": "282223593597879621",
+          "duration": 105,
+          "md5": "822c9709a0f77cd180bfc0c92b2483f0",
+          "hdrType": 1,
+          "drmType": 0,
+          "streamTypes": [
+            301,
+            259,
+            309
+          ],
+          "bizName": 110
+        }
+      },
+      "image": {
+        "firstFrameFileid": "frame/110/0/01eaa8dcb673a5e6001000000001a0a39f1d36_0.jpg",
+        "thumbnailFileid": "frame/110/0/01eaa8dcb673a5e6001000000001a0a3a26db1_0.webp"
+      },
+      "capa": {
+        "duration": 104
+      }
+    },
+    "tagList": [
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "604ce96d00000000010095c1",
+        "name": "大学生吃饭",
+        "type": "topic"
+      },
+      {
+        "id": "60ed41010000000001008078",
+        "name": "双非留学",
+        "type": "topic"
+      },
+      {
+        "name": "CityU",
+        "type": "topic",
+        "id": "60a65e500000000001001ded"
+      },
+      {
+        "name": "女大学生干饭日常",
+        "type": "topic",
+        "id": "5fcb1eb80000000001005c3e"
+      },
+      {
+        "name": "大学食堂",
+        "type": "topic",
+        "id": "65716cc80000000023023297"
+      },
+      {
+        "id": "6540d470000000002a006c26",
+        "name": "年轻人饭堂",
+        "type": "topic"
+      },
+      {
+        "id": "69678452000000001b01c1d7",
+        "name": "REDDelicious美食研究生",
+        "type": "topic"
+      },
+      {
+        "id": "6a7b272f000000002200f1ea",
+        "name": "美食测评howto",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1789451507000,
+    "lastUpdateTime": 1789451508000,
+    "ipLocation": "广东",
+    "title": "CityU ac3怎么走 美食测评",
+    "desc": "ac3的面很好吃！城大ac3#港硕[话题]# #香港城市大学[话题]# #大学生吃饭[话题]# #双非留学[话题]# #CityU[话题]# #女大学生干饭日常[话题]# #大学食堂[话题]# #年轻人饭堂[话题]# #REDDelicious美食研究生[话题]# #美食测评howto[话题]#",
+    "user": {
+      "userId": "6a7c3b34000000001400c402",
+      "nickname": "小琪在港记",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323t50h1n0o005qjs7cq51h02jd8d36g",
+      "xsecToken": "ABzTLnUqiLCMue8lz-cCTqmh1tWZ1CbzeSk-6fDGHhX8k="
+    },
+    "interactInfo": {
+      "collectedCount": "11",
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "likedCount": "19",
+      "commentCount": "3",
+      "shareCount": "7",
+      "niceCount": "",
+      "collected": false
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "stream": {},
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222150/6f0fa7771af94ab4e1b1b64763954efd/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222150/39be061275bd1648e0c1e065cdf1d49d/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222150/6f0fa7771af94ab4e1b1b64763954efd/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222150/39be061275bd1648e0c1e065cdf1d49d/1040g0083254j5esa3c005qjs7cq51h02r0obrsg!nd_dft_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g0083254j5esa3c005qjs7cq51h02r0obrsg",
+        "height": 1726,
+        "width": 1294
+      }
+    ],
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABgkxdUXKvPj_Ggs8Nw8y-IQh7BLyrvkDDhdmvIINDWK4="
+  },
+  "comments": [
+    {
+      "id": "6aa8e3dc000000000f02f10c",
+      "atUsers": [],
+      "showTags": [
+        "is_author"
+      ],
+      "createTime": 1789453277000,
+      "subComments": [],
+      "noteId": "6aa8dcf3000000002802c545",
+      "subCommentHasMore": false,
+      "status": 0,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "content": "主包最喜欢ac3[doge]",
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "6a7c3b34000000001400c402",
+        "nickname": "小琪在港记",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323t50h1n0o005qjs7cq51h02jd8d36g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDrnpGDYbvm9z7mlcvTJTH_RmmKfaKXBeNvaA7oO9xyM="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "你拍的視頻太過晃動了",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "xsecToken": "ABCcEGkKJpOj8gY02WMl-W5yGzXoA7DzcaIyI7R8GWCdM=",
+        "userId": "5f54f02200000000010079a8",
+        "nickname": "T2C1",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ht1l0kr3i005nqku0h08ud8dqop21o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "中国香港",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "小琪在港记",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323t50h1n0o005qjs7cq51h02jd8d36g?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABDrnpGDYbvm9z7mlcvTJTH_RmmKfaKXBeNvaA7oO9xyM=",
+            "userId": "6a7c3b34000000001400c402"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "广东",
+          "targetComment": {
+            "id": "6aa8fbd90000000014032b3f",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ht1l0kr3i005nqku0h08ud8dqop21o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABCcEGkKJpOj8gY02WMl-W5yGzXoA7DzcaIyI7R8GWCdM=",
+              "userId": "5f54f02200000000010079a8",
+              "nickname": "T2C1"
+            }
+          },
+          "status": 0,
+          "content": "我改正",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1789459997000,
+          "invalid": false,
+          "id": "6aa8fe1c000000000201278e",
+          "noteId": "6aa8dcf3000000002802c545"
+        }
+      ],
+      "showTags": [],
+      "noteId": "6aa8dcf3000000002802c545",
+      "status": -2,
+      "subCommentCursor": "6aa8fe1c000000000201278e",
+      "subCommentHasMore": false,
+      "id": "6aa8fbd90000000014032b3f",
+      "createTime": 1789459417000,
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5367 城大"
+}

@@ -2,11 +2,11 @@
   "courseCode": "CS6491",
   "fields": {
     "examFormat": {
-      "value": "closed_book",
-      "label": "闭卷",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
+      "value": "open_book",
+      "label": "开卷",
+      "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 2
     },
     "difficulty": {
       "value": "hard",
@@ -65,5 +65,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

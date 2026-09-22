@@ -1,0 +1,296 @@
+{
+  "note_id": "6a99403e000000002601660d",
+  "url": "https://www.xiaohongshu.com/explore/6a99403e000000002601660d?xsec_token=ABS2_pxAsl7UNjg3kgJRiXVRusj6HN3L2AOV_k9NyylH0=",
+  "fetched_at": 1790080329.1589537,
+  "search_item": {
+    "id": "6a99403e000000002601660d",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "求问学长学姐ai专业cs5495 xai怎么样",
+      "user": {
+        "nickName": "满分西瓜大王",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j94f7p32o005p0dc8rk4gr5dudfrmo?imageView2/2/w/80/format/jpg",
+        "userId": "640d62370000000010024365",
+        "nickname": "满分西瓜大王",
+        "xsecToken": "ABD8Hm081PSHOQpp76LxdlDuNHmhMzKwnUIFfnqJpW8NE="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "0",
+        "collected": false,
+        "collectedCount": "0",
+        "commentCount": "4",
+        "sharedCount": "0"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222031/332cd044bd81fa3a084efa305afa3cad/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222031/5a6391853be50029040db16406ffe2a2/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222031/332cd044bd81fa3a084efa305afa3cad/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222031/5a6391853be50029040db16406ffe2a2/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-03"
+        }
+      ]
+    },
+    "xsecToken": "ABS2_pxAsl7UNjg3kgJRiXVRusj6HN3L2AOV_k9NyylH0=",
+    "index": 12,
+    "exposed": false,
+    "trackId": "6a99403e000000002601660d"
+  },
+  "note": {
+    "imageList": [
+      {
+        "height": 1600,
+        "width": 1200,
+        "url": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222032/97752cc3e93b463616271865aa672a6b/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8",
+        "traceId": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222032/db9f9791b90de3fd89bc7bff134647e3/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222032/97752cc3e93b463616271865aa672a6b/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nd_dft_wlteh_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222032/db9f9791b90de3fd89bc7bff134647e3/1040g2sg324lb6rpmnk705p0dc8rk4gr52m1f5v8!nd_prv_wlteh_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "id": "53c1197fb4c4d632efbc2f6c",
+        "name": "香港",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "5e7ffe040000000001004ef4",
+        "name": "cityu",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学"
+      },
+      {
+        "id": "5bfa12489c1d82000102c324",
+        "name": "计算机",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "620cd421000000000100130c",
+        "name": "人工智能"
+      },
+      {
+        "name": "ai",
+        "type": "topic",
+        "id": "5c1c3c9a000000000a030af3"
+      },
+      {
+        "id": "5399aa36b4c4d65e0d514942",
+        "name": "求助",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "user": {
+      "userId": "640d62370000000010024365",
+      "nickname": "满分西瓜大王",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j94f7p32o005p0dc8rk4gr5dudfrmo",
+      "xsecToken": "ABTOd8K2vNdVw-8DSMstLV6bz5UKCyeqBku6GBA0HiRQU="
+    },
+    "time": 1788428350000,
+    "lastUpdateTime": 1788428351000,
+    "ipLocation": "中国香港",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a99403e000000002601660d",
+    "type": "normal",
+    "title": "求问学长学姐ai专业cs5495 xai怎么样",
+    "desc": "以及cs6480 怎么样\n推荐选吗！\n主要是想问一下平常作业难度怎么样 最后考试怎么样\n还有最后给分高不高\n\t\n因为这学期一共选了六门课\ncs5187、cs5494genai、cs5495xai、cs6480\n还有cs5489、cs5486（这是必修）\n在考虑要不要退掉一节🥹\n谢谢大家解答！\n\t\n如果有关于其他的课程建议也欢迎大家分享 谢谢大家！！\n#香港[话题]# #选课[话题]# #cityu[话题]# #香港城市大学[话题]# #计算机[话题]# #人工智能[话题]# #ai[话题]# #求助[话题]# #港硕[话题]#",
+    "interactInfo": {
+      "followed": false,
+      "relation": "none",
+      "niceCount": "",
+      "commentCount": "4",
+      "shareCount": "",
+      "liked": false,
+      "likedCount": "",
+      "collected": false,
+      "collectedCount": ""
+    },
+    "xsecToken": "ABS2_pxAsl7UNjg3kgJRiXVRusj6HN3L2AOV_k9NyylH0="
+  },
+  "comments": [
+    {
+      "likeCount": "0",
+      "createTime": 1788433230000,
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5e189cc70000000001005a56",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i4q6au3n8005ngojj3g8mimtnhsm10?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABd9YrMo_rRd6BwXEhELcsFiAllxyDzwpmcQJiFFC01e0="
+      },
+      "invalid": false,
+      "noteId": "6a99403e000000002601660d",
+      "id": "6a99534d000000001500194a",
+      "status": 0,
+      "showTags": [],
+      "ipLocation": "甘肃",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6a99534d000000001500194a",
+            "userInfo": {
+              "userId": "5e189cc70000000001005a56",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31i4q6au3n8005ngojj3g8mimtnhsm10?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABd9YrMo_rRd6BwXEhELcsFiAllxyDzwpmcQJiFFC01e0="
+            }
+          },
+          "id": "6a99537b0000000015002356",
+          "noteId": "6a99403e000000002601660d",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "640d62370000000010024365",
+            "nickname": "满分西瓜大王",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j94f7p32o005p0dc8rk4gr5dudfrmo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJtlzk2urR53COfYqdDn11ZdTDDbd4H5_seLKdlHC9S8="
+          },
+          "createTime": 1788433277000,
+          "pictures": [
+            {
+              "infoList": [
+                {
+                  "imageScene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202609222032/d95d6d8e10781c13a4c8736a48cf7ca7/comment/1040g2h0324ldlubugo005p0dc8rk4gr58p0ocj0!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202609222032/3decb59ce8e66336024679fbcca48f7d/comment/1040g2h0324ldlubugo005p0dc8rk4gr58p0ocj0!nd_whlt34_webp_wm_1",
+                  "imageScene": "WB_DFT"
+                }
+              ],
+              "height": 1041,
+              "width": 1047,
+              "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222032/d95d6d8e10781c13a4c8736a48cf7ca7/comment/1040g2h0324ldlubugo005p0dc8rk4gr58p0ocj0!nc_n_webp_mw_1",
+              "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222032/3decb59ce8e66336024679fbcca48f7d/comment/1040g2h0324ldlubugo005p0dc8rk4gr58p0ocj0!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "invalid": false,
+          "status": 0,
+          "content": "过来替我上课",
+          "liked": false
+        }
+      ],
+      "subCommentCursor": "6a99537b0000000015002356",
+      "pictures": [],
+      "content": "推荐推荐",
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a9b0ab1000000000f02e4dc",
+      "status": 0,
+      "content": "六门的压力是不是太大了[呃R]我甚至只想上四门",
+      "atUsers": [],
+      "ipLocation": "广东",
+      "subCommentCursor": "",
+      "noteId": "6a99403e000000002601660d",
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "pictures": [],
+      "invalid": false,
+      "userInfo": {
+        "userId": "61cf0f7c000000001000c30f",
+        "nickname": "小邓",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323taiajqnk005oef1tu41gofokvuvvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABEYe8rGLN_cohklPlDHGenxPZ7dH--sL0cvi3YwhOre0="
+      },
+      "createTime": 1788545714000,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "liked": false,
+      "createTime": 1788491515000,
+      "subCommentHasMore": false,
+      "pictures": [],
+      "id": "6a9a36fa000000000f031b42",
+      "noteId": "6a99403e000000002601660d",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5ff5bfe20000000001002079",
+        "nickname": "xxxy",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ujrgdmo5g005nvlnvh0883puaomhfg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABxurSqIbOKe5dSPgI3sxWGunK3nFxlDwm7GmPA_Z_ht4="
+      },
+      "ipLocation": "陕西",
+      "content": "推荐推荐",
+      "likeCount": "0",
+      "invalid": false,
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 体验"
+}

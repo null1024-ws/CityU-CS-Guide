@@ -1,0 +1,713 @@
+{
+  "note_id": "6887ab9200000000240088a4",
+  "url": "https://www.xiaohongshu.com/explore/6887ab9200000000240088a4?xsec_token=ABpPnL2GNNR8H3TLXrunOSD9fLtj9osFbPBLnvkxY9MKc=",
+  "fetched_at": 1790082505.0475247,
+  "search_item": {
+    "xsecToken": "ABpPnL2GNNR8H3TLXrunOSD9fLtj9osFbPBLnvkxY9MKc=",
+    "id": "6887ab9200000000240088a4",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickname": "Jasper",
+        "xsecToken": "ABO2O1_qEKsy5pJ9uz67WFMsYYkdHcTfqHEejltU6bfkw=",
+        "nickName": "Jasper",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "5f2119aa000000000101ea00"
+      },
+      "interactInfo": {
+        "collectedCount": "150",
+        "commentCount": "135",
+        "sharedCount": "189",
+        "liked": false,
+        "likedCount": "286",
+        "collected": false
+      },
+      "cover": {
+        "height": 362,
+        "width": 311,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222108/c1aa4cc54963779c2102dd152976939d/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222108/0ec7b9719d764e8d095d11c6a708a8bb/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 362,
+          "width": 311,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222108/c1aa4cc54963779c2102dd152976939d/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222108/0ec7b9719d764e8d095d11c6a708a8bb/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 702,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222108/98e7514a92a980056fc11af7c57f0070/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222108/0bd70553031c5ea665d2b3983e047789/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ],
+          "height": 202
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-07-29"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "TUM学生避雷课程ANLP！"
+    },
+    "index": 35,
+    "exposed": false,
+    "trackId": "6887ab9200000000240088a4"
+  },
+  "note": {
+    "lastUpdateTime": 1753721746000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6887ab9200000000240088a4",
+    "type": "normal",
+    "title": "TUM学生避雷课程ANLP！",
+    "desc": "千万别选硕士课程Advanced Natural Language Processing\n博主经历了一学期的纠结，终于最后在考场上放弃了这门课的答卷，仅仅开考15分钟就走人了。\n我的纠结：这门课的教学质量是否真的能让人学到东西？它的课程能否让我们在它自己的考试中取得好的成绩？\n两个的答案都是不能。所以我极力劝退大家投入太多精力在这门课的学习与备考中。接下来我们来细数ANLP的三宗罪：\n1.讲座没有重点。这是本门课最大的问题！作为一门面向硕士生的Lecture，我期望它能够以一个科学的角度，将近5年自然语言处理领域的研究历程作一个梳理，给刚入行的学生一个指引。#选课[话题]# #学术[话题]# 它完全地失败了！\n组织结构上讲，这门课分为七个部分：涵盖了LLM概论、Seq2Seq、多模态、Knowledge Enhancement、Embedding多个部分。但是，七个模块是由七个不同的博士生独立负责的。该讲座教授(Georg Groh)只负责第一板块的概论，后面就完全看不到他人。课程和考试的实际总负责人是他的博士生Alexander Fichtl。所以，你能从一个比我们大个两三岁的博士生那边期待到多深的科学理解吗？更何况，不同板块的演讲者都不一样，导致每个板块像是独立的，互相之间没有联系。点名多模态板块和Knowledge Enhancement板块，和其他的板块完全没联系。\n课程的实际教授中，公式很少、文字太多。基本上就是这个演讲者介绍这个模块的Motivation, Objective，然后再讲几个常用的模型或者方法，然后说下每个模型的优劣，就完事了。每个模型的介绍不超过十分钟，基本上就是一张图里，他告诉你什么是什么，然后他们是干什么的，就完事了。就让人完全摸不着头脑。\n非常离谱的是，考试前的一周才刚刚讲完第七板块Causality，这个板块是纯线上的，但是recording出了问题，大家很久都没学第七板块。\n我一直觉得，理工科没有公式的的学科都非常的经验主义。哪有科学没有数学公式的？\n接下来的吐槽另开一帖",
+    "user": {
+      "nickname": "Jasper",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg",
+      "xsecToken": "ABQ8sIFOF3FR4cuGS3SOd5-2u5pfJGj29JrqYeHlQeg7U=",
+      "userId": "5f2119aa000000000101ea00"
+    },
+    "interactInfo": {
+      "followed": false,
+      "likedCount": "286",
+      "collected": false,
+      "collectedCount": "150",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "commentCount": "135",
+      "shareCount": "189"
+    },
+    "imageList": [
+      {
+        "width": 311,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222108/4a2a16e6517681c9acc3774aba2b9d49/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222108/83aed26a3c380898a7634c1628efa225/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g",
+        "height": 362,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222108/4a2a16e6517681c9acc3774aba2b9d49/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222108/83aed26a3c380898a7634c1628efa225/notes_pre_post/1040g3k031kg4t0vb2o0g5np136l0bqg0ute719g!nd_dft_wlteh_jpg_3"
+      },
+      {
+        "width": 702,
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222108/40bfeec6f225c70f1ad924d036178cfa/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nd_prv_wgth_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222108/50bebfef80883572c7d7b1221b14aa5a/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "stream": {},
+        "url": "",
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222108/40bfeec6f225c70f1ad924d036178cfa/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222108/50bebfef80883572c7d7b1221b14aa5a/notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g!nd_dft_wgth_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k031kg4t0vb2o105np136l0bqg04mire6g",
+        "height": 202
+      }
+    ],
+    "atUserList": [],
+    "tagList": [
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      },
+      {
+        "id": "5c3178f400000000090274bf",
+        "name": "学术",
+        "type": "topic"
+      }
+    ],
+    "time": 1753721746000,
+    "xsecToken": "ABpPnL2GNNR8H3TLXrunOSD9fLtj9osFbPBLnvkxY9MKc="
+  },
+  "comments": [
+    {
+      "ipLocation": "德国",
+      "noteId": "6887ab9200000000240088a4",
+      "atUsers": [],
+      "liked": false,
+      "subComments": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "likeCount": "9",
+      "showTags": [
+        "is_author",
+        "user_top"
+      ],
+      "createTime": 1753794168000,
+      "subCommentCount": "0",
+      "id": "6888c678000000002b00967d",
+      "status": 4,
+      "userInfo": {
+        "nickname": "Jasper",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABZC_t5NXxpEaImzSe_TmAtEyvwQfdhebDZsDpONfLI-U=",
+        "userId": "5f2119aa000000000101ea00"
+      },
+      "subCommentCursor": "",
+      "content": "注：Groh教授和博士生Alexander都是很nice的人，我发表的评论不是针对个人而是表达对这门课的不满以及自己浪费了一学期学习时间的不满。",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6887c403000000001b03ed32",
+      "liked": false,
+      "subComments": [
+        {
+          "noteId": "6887ab9200000000240088a4",
+          "liked": false,
+          "userInfo": {
+            "userId": "5f2119aa000000000101ea00",
+            "nickname": "Jasper",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZC_t5NXxpEaImzSe_TmAtEyvwQfdhebDZsDpONfLI-U="
+          },
+          "createTime": 1753728004000,
+          "ipLocation": "德国",
+          "invalid": false,
+          "id": "6887c403000000001b03ed32",
+          "status": 0,
+          "content": "就很离谱，明明博士生就比我们大个两三岁，title也不过就是M.sc却可以教200-300人的大课。课程质量能好到哪去。",
+          "atUsers": [],
+          "likeCount": "15",
+          "showTags": [
+            "is_author"
+          ],
+          "targetComment": {
+            "id": "6887b3a1000000000201991a",
+            "userInfo": {
+              "xsecToken": "ABnaHTU4OvUDgkATAIIxAwFdoGvlPhb_hI7ciLfylyU90=",
+              "userId": "54e6742fb4c4d65a6de49a79",
+              "nickname": "風吹花成雨",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323n65i0a7i00401ftoq2v6jprr99ln8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          }
+        }
+      ],
+      "invalid": false,
+      "noteId": "6887ab9200000000240088a4",
+      "content": "rwth的robotik也差不多是这样，几个模块的拼接怪，自诩是精英大学，切实好多课就是一些博士生弄的，这边的博士生被给予太大的权利，教授权力太大，这种体制无法像usa甚至国内那种给学生带来真正的成长。",
+      "showTags": [],
+      "createTime": 1753723809000,
+      "ipLocation": "德国",
+      "subCommentCount": "11",
+      "status": 0,
+      "userInfo": {
+        "userId": "54e6742fb4c4d65a6de49a79",
+        "nickname": "風吹花成雨",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323n65i0a7i00401ftoq2v6jprr99ln8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnaHTU4OvUDgkATAIIxAwFdoGvlPhb_hI7ciLfylyU90="
+      },
+      "subCommentHasMore": true,
+      "id": "6887b3a1000000000201991a",
+      "atUsers": [],
+      "likeCount": "41",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "createTime": 1753723826000,
+      "subComments": [
+        {
+          "liked": false,
+          "showTags": [],
+          "targetComment": {
+            "id": "6887b3b2000000001a02ba2d",
+            "userInfo": {
+              "userId": "6450d1bc000000001002b7df",
+              "nickname": "明天见",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABKg92fZYmDjgHl676DRvu87a-nxH6P6z_l44GppFJ7P0="
+            }
+          },
+          "status": 0,
+          "content": "上课就是读ppt 考试就是400页满字ppt随机抽[捂脸R]",
+          "likeCount": "73",
+          "userInfo": {
+            "userId": "6450d1bc000000001002b7df",
+            "nickname": "明天见",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABKg92fZYmDjgHl676DRvu87a-nxH6P6z_l44GppFJ7P0="
+          },
+          "createTime": 1753723980000,
+          "ipLocation": "德国",
+          "invalid": false,
+          "id": "6887b44c000000001800132f",
+          "noteId": "6887ab9200000000240088a4",
+          "atUsers": []
+        }
+      ],
+      "id": "6887b3b2000000001a02ba2d",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "6450d1bc000000001002b7df",
+        "nickname": "明天见",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/53ba1722242c3e9344db7b0fc2e1005f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABKg92fZYmDjgHl676DRvu87a-nxH6P6z_l44GppFJ7P0="
+      },
+      "showTags": [],
+      "content": "你这篇评论适用于tum90%的课（至少是我们专业",
+      "subCommentCursor": "6887b44c000000001800132f",
+      "subCommentHasMore": true,
+      "noteId": "6887ab9200000000240088a4",
+      "likeCount": "167",
+      "invalid": false,
+      "ipLocation": "德国",
+      "subCommentCount": "16",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6887ab9200000000240088a4",
+      "atUsers": [],
+      "subCommentCursor": "6887afbf0000000019024f68",
+      "liked": false,
+      "userInfo": {
+        "nickname": "L.",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314q410r0gud05nr2p36g9405fcunueo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUUgQAMx-pRBnxyvvshGc6CCnW3nlYhD6dZnaGAjLYT4=",
+        "userId": "5f62c8cd0000000001009005"
+      },
+      "showTags": [],
+      "createTime": 1753722615000,
+      "ipLocation": "德国",
+      "id": "6887aef60000000006006ab0",
+      "content": "看完才发现是你，这么夸张吗…我还以为考试就靠那些概念式的东西呢",
+      "likeCount": "0",
+      "invalid": false,
+      "status": 0,
+      "subCommentCount": "5",
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "6887afbf0000000019024f68",
+          "content": "出题人希望你把所有东西的实现过程都记下来，然后在考场复述一遍",
+          "likeCount": "7",
+          "userInfo": {
+            "userId": "5f2119aa000000000101ea00",
+            "nickname": "Jasper",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZC_t5NXxpEaImzSe_TmAtEyvwQfdhebDZsDpONfLI-U="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1753722815000,
+          "ipLocation": "德国",
+          "noteId": "6887ab9200000000240088a4",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "targetComment": {
+            "id": "6887aef60000000006006ab0",
+            "userInfo": {
+              "nickname": "L.",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo314q410r0gud05nr2p36g9405fcunueo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABUUgQAMx-pRBnxyvvshGc6CCnW3nlYhD6dZnaGAjLYT4=",
+              "userId": "5f62c8cd0000000001009005"
+            }
+          }
+        }
+      ],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "1",
+      "createTime": 1753728320000,
+      "subComments": [
+        {
+          "id": "6887d06800000000020182cd",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [],
+          "createTime": 1753731177000,
+          "targetComment": {
+            "id": "6887c53f0000000009015bb7",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "ABQYMsGfEzjI7zrVni-q6eNY86d3gJ69fcgrOkmr_eUJQ=",
+              "userId": "623f34d500000000100060a1",
+              "nickname": "爱写作业的Anthöny",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hmc38n6js005ohv6jak0o5175r853o?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "invalid": false,
+          "noteId": "6887ab9200000000240088a4",
+          "status": 0,
+          "content": "不用上，直接给助教发邮件，不给1.0就举报到他们停课[害羞R][笑哭R]",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABnaHTU4OvUDgkATAIIxAwFdoGvlPhb_hI7ciLfylyU90=",
+            "userId": "54e6742fb4c4d65a6de49a79",
+            "nickname": "風吹花成雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323n65i0a7i00401ftoq2v6jprr99ln8?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "德国"
+        }
+      ],
+      "id": "6887c53f0000000009015bb7",
+      "content": "明天我去看看Mathematical foundations of ML ，感觉助教说的和老师上课说的也挺迷糊的",
+      "subCommentCursor": "6887d06800000000020182cd",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hmc38n6js005ohv6jak0o5175r853o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQYMsGfEzjI7zrVni-q6eNY86d3gJ69fcgrOkmr_eUJQ=",
+        "userId": "623f34d500000000100060a1",
+        "nickname": "爱写作业的Anthöny"
+      },
+      "ipLocation": "德国",
+      "subCommentCount": "5",
+      "invalid": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "noteId": "6887ab9200000000240088a4",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "invalid": false,
+      "status": 0,
+      "content": "请问楼主有选practical course和seminar吗",
+      "atUsers": [],
+      "likeCount": "0",
+      "createTime": 1756290018000,
+      "subCommentCount": "5",
+      "id": "68aedbe20000000030019879",
+      "noteId": "6887ab9200000000240088a4",
+      "ipLocation": "瑞典",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB12qdMi9PpGVtHDZzTRK3bT7CLVHCecBl9W7ecDwIgLg=",
+        "userId": "66ace407000000000b032ebf",
+        "nickname": "小红薯66AD6858",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e17e29f7d0acadad89f.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "Jasper",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZC_t5NXxpEaImzSe_TmAtEyvwQfdhebDZsDpONfLI-U=",
+            "userId": "5f2119aa000000000101ea00"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1781778808000,
+          "status": 0,
+          "atUsers": [],
+          "ipLocation": "德国",
+          "targetComment": {
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e17e29f7d0acadad89f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB12qdMi9PpGVtHDZzTRK3bT7CLVHCecBl9W7ecDwIgLg=",
+              "userId": "66ace407000000000b032ebf",
+              "nickname": "小红薯66AD6858"
+            },
+            "id": "68aedbe20000000030019879"
+          },
+          "invalid": false,
+          "id": "6a33c978000000002b003226",
+          "noteId": "6887ab9200000000240088a4",
+          "content": "我选了Simulated Robotics Learning和modern CV methods。第二个是seminar，很水很水"
+        }
+      ],
+      "subCommentCursor": "6a33c978000000002b003226",
+      "liked": false,
+      "showTags": [],
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6887ab9200000000240088a4",
+      "content": "这哥们儿人很好的啊",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "德国",
+      "subComments": [
+        {
+          "likeCount": "2",
+          "ipLocation": "德国",
+          "targetComment": {
+            "id": "68887730000000001901c513",
+            "userInfo": {
+              "xsecToken": "ABpjug0lN7tCzPSv8jYK5W50cmo1E0gGFG1VzNanxwdhk=",
+              "userId": "61a7b951000000001000b132",
+              "nickname": "纠纠",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "id": "68887e3f0000000019024103",
+          "status": 0,
+          "content": "哥们人好，不影响课不行",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "5f2119aa000000000101ea00",
+            "nickname": "Jasper",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/6449fc2a062888d4057ed272.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABZC_t5NXxpEaImzSe_TmAtEyvwQfdhebDZsDpONfLI-U="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1753775679000,
+          "invalid": false,
+          "noteId": "6887ab9200000000240088a4",
+          "liked": false
+        }
+      ],
+      "likeCount": "0",
+      "createTime": 1753773873000,
+      "subCommentCount": "3",
+      "invalid": false,
+      "id": "68887730000000001901c513",
+      "liked": false,
+      "userInfo": {
+        "userId": "61a7b951000000001000b132",
+        "nickname": "纠纠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/ae351b5abc78ae2e8d79998354db8440.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpjug0lN7tCzPSv8jYK5W50cmo1E0gGFG1VzNanxwdhk="
+      },
+      "status": 0,
+      "subCommentCursor": "68887e3f0000000019024103",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6887ab9200000000240088a4",
+      "createTime": 1753728822000,
+      "ipLocation": "德国",
+      "subComments": [
+        {
+          "id": "6887d0be0000000009017dbb",
+          "status": 0,
+          "content": "什么叫一模一样",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323n65i0a7i00401ftoq2v6jprr99ln8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABnaHTU4OvUDgkATAIIxAwFdoGvlPhb_hI7ciLfylyU90=",
+            "userId": "54e6742fb4c4d65a6de49a79",
+            "nickname": "風吹花成雨"
+          },
+          "showTags": [],
+          "createTime": 1753731262000,
+          "ipLocation": "德国",
+          "targetComment": {
+            "id": "6887c736000000000f03caa5",
+            "userInfo": {
+              "userId": "60a6c0f4000000000101d16e",
+              "nickname": "灰灰",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320cbujmj60005o56o3q0bkbehq0b07g?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABH0TiiLYAIB4DBoO1-RCNeikoLDN5IaTqfZVm7qtQqKA="
+            }
+          },
+          "noteId": "6887ab9200000000240088a4",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "invalid": false
+        }
+      ],
+      "atUsers": [],
+      "invalid": false,
+      "id": "6887c736000000000f03caa5",
+      "liked": false,
+      "likeCount": "1",
+      "showTags": [],
+      "subCommentCount": "3",
+      "status": 0,
+      "content": "德国都这样，tub很多课一模一样",
+      "userInfo": {
+        "nickname": "灰灰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320cbujmj60005o56o3q0bkbehq0b07g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABH0TiiLYAIB4DBoO1-RCNeikoLDN5IaTqfZVm7qtQqKA=",
+        "userId": "60a6c0f4000000000101d16e"
+      },
+      "subCommentCursor": "6887d0be0000000009017dbb",
+      "subCommentHasMore": true,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6887b7e50000000002019ab9",
+      "ipLocation": "加拿大",
+      "subComments": [
+        {
+          "showTags": [],
+          "targetComment": {
+            "userInfo": {
+              "userId": "61474abf0000000002022b67",
+              "nickname": "フェアレディZ",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31skpc9v8624g5oa79avgkar7tmur3g0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "AB0twrjxlhDhB2BRwhuD4a4Kd7jZM51-RVG5ErQmm15Eo="
+            },
+            "id": "6887b7e50000000002019ab9"
+          },
+          "status": 0,
+          "liked": false,
+          "createTime": 1753730745000,
+          "ipLocation": "加拿大",
+          "invalid": false,
+          "id": "6887ceb900000000010215f1",
+          "noteId": "6887ab9200000000240088a4",
+          "content": "区别是uoft可能水一些[doge]",
+          "atUsers": [],
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "61474abf0000000002022b67",
+            "nickname": "フェアレディZ",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31skpc9v8624g5oa79avgkar7tmur3g0?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB0twrjxlhDhB2BRwhuD4a4Kd7jZM51-RVG5ErQmm15Eo="
+          }
+        }
+      ],
+      "subCommentCursor": "6887ceb900000000010215f1",
+      "noteId": "6887ab9200000000240088a4",
+      "status": 0,
+      "liked": false,
+      "showTags": [],
+      "createTime": 1753724902000,
+      "invalid": false,
+      "content": "其实uoft硕士课程很多也这样",
+      "likeCount": "1",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "フェアレディZ",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31skpc9v8624g5oa79avgkar7tmur3g0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB0twrjxlhDhB2BRwhuD4a4Kd7jZM51-RVG5ErQmm15Eo=",
+        "userId": "61474abf0000000002022b67"
+      },
+      "subCommentCount": "2",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6887cb02000000000400a269",
+      "content": "感觉phd讲课还挺正常",
+      "likeCount": "1",
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1753729795000,
+      "subCommentCount": "1",
+      "status": 0,
+      "showTags": [],
+      "subComments": [
+        {
+          "id": "6887d0a80000000015001d12",
+          "noteId": "6887ab9200000000240088a4",
+          "atUsers": [],
+          "userInfo": {
+            "nickname": "風吹花成雨",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323n65i0a7i00401ftoq2v6jprr99ln8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABnaHTU4OvUDgkATAIIxAwFdoGvlPhb_hI7ciLfylyU90=",
+            "userId": "54e6742fb4c4d65a6de49a79"
+          },
+          "showTags": [],
+          "ipLocation": "德国",
+          "status": 0,
+          "content": "有些phd就是pjd",
+          "liked": false,
+          "likeCount": "2",
+          "createTime": 1753731241000,
+          "targetComment": {
+            "id": "6887cb02000000000400a269",
+            "userInfo": {
+              "xsecToken": "AB1S2xWIHAKqe23FRsQ9JWOJF8gy5oXv3amjjrqkS0ygM=",
+              "userId": "62214e5c000000001000a8b6",
+              "nickname": "Rien",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62214e5c000000001000a8b6.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "6887ab9200000000240088a4",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB1S2xWIHAKqe23FRsQ9JWOJF8gy5oXv3amjjrqkS0ygM=",
+        "userId": "62214e5c000000001000a8b6",
+        "nickname": "Rien",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62214e5c000000001000a8b6.jpg?imageView2/2/w/120/format/jpg"
+      },
+      "ipLocation": "瑞士",
+      "subCommentCursor": "6887d0a80000000015001d12",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 避雷"
+}

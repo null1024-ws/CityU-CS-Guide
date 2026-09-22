@@ -5,8 +5,8 @@
       "value": "easy",
       "label": "简单",
       "confidence": "confirmed",
-      "sourceCount": 8,
-      "distinctSources": 5
+      "sourceCount": 9,
+      "distinctSources": 6
     },
     "examFormat": {
       "value": "open_book",
@@ -19,8 +19,20 @@
       "value": "generous",
       "label": "给分友好",
       "confidence": "confirmed",
+      "sourceCount": 3,
+      "distinctSources": 3
+    },
+    "workload": {
+      "value": "medium",
+      "label": "适中",
+      "confidence": "disputed",
       "sourceCount": 2,
-      "distinctSources": 2
+      "distinctSources": 2,
+      "note": "来源说法不一：适中×1、轻松×1",
+      "variants": {
+        "medium": 1,
+        "light": 1
+      }
     },
     "hasRecording": {
       "value": "false",
@@ -32,13 +44,6 @@
     "attendance": {
       "value": "not_strict",
       "label": "考勤松",
-      "confidence": "reported",
-      "sourceCount": 1,
-      "distinctSources": 1
-    },
-    "workload": {
-      "value": "light",
-      "label": "轻松",
       "confidence": "reported",
       "sourceCount": 1,
       "distinctSources": 1
@@ -93,17 +98,8 @@
         "post_body"
       ],
       "postTitle": "CityU CS Master SemA"
-    },
-    {
-      "noteId": "676793ee000000000b00d2b1",
-      "url": "https://www.xiaohongshu.com/explore/676793ee000000000b00d2b1?xsec_token=AB31yjXUEPGDkbmBuP1UCx10tD8c4A2YKtb5PWTQiH2J0=",
-      "excerpt": "平时分为两次 assignment 和一个单人 project。有人认为主观题偏送分，几乎不去上课、考前短时复习也能过。该说法偏速成个例，请对照其他来源。",
-      "extractedFrom": [
-        "post_body"
-      ],
-      "postTitle": "cityu cs semA选课攻略（期末速成版）"
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

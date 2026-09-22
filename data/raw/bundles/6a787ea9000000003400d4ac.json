@@ -1,0 +1,58 @@
+{
+  "note_id": "6a787ea9000000003400d4ac",
+  "url": "https://www.xiaohongshu.com/explore/6a787ea9000000003400d4ac?xsec_token=ABQzZNdk43aumgEQ7nsQQfXm_yoNUz0W-snYatvyDuxn0=",
+  "fetched_at": 1790081148.9174762,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "凸优化Convex Optimization理论部分（一）",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "主要参考是Boyd那本教材，一切证明和定理也参考了别的教材\n\t\n#convex[话题]# #convexoptimization[话题]# #最优化方法[话题]# #凸优化[话题]# #凸分析[话题]# #凸分析与最优化理论[话题]# #凸优化理论[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "网上b站有一位老师讲的凸优化讲的特别好，但是他用不是这本",
+      "sourceRef": "comment:6a78847500000000140168aa",
+      "commentId": "6a78847500000000140168aa",
+      "likes": 3,
+      "author": "走呀，少年！"
+    },
+    {
+      "type": "sub_comment",
+      "text": "哪位老师啊[黄金薯R]",
+      "sourceRef": "comment:6a788650000000002a02d66d",
+      "commentId": "6a788650000000002a02d66d",
+      "likes": 0,
+      "author": "喵（國內）"
+    },
+    {
+      "type": "comment",
+      "text": "是latex吗，求一个笔记模版[打招呼]",
+      "sourceRef": "comment:6a79c79d000000002a0066cf",
+      "commentId": "6a79c79d000000002a0066cf",
+      "likes": 0,
+      "author": "巨大的太阳耀斑"
+    },
+    {
+      "type": "comment",
+      "text": "[点赞R][点赞R][点赞R]",
+      "sourceRef": "comment:6a7889fc000000002902dc79",
+      "commentId": "6a7889fc000000002902dc79",
+      "likes": 0,
+      "author": "蛋糕小姐🍰."
+    },
+    {
+      "type": "comment",
+      "text": "@北极甜虾（剑心犹在！） 再次鸣谢🦐哥唯美的笔记模板",
+      "sourceRef": "comment:6a78800e0000000014004422",
+      "commentId": "6a78800e0000000014004422",
+      "likes": 1,
+      "author": "在线滑稽"
+    }
+  ]
+}

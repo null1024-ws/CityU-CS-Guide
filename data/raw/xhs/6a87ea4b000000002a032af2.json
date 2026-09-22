@@ -1,0 +1,179 @@
+{
+  "note_id": "6a87ea4b000000002a032af2",
+  "url": "https://www.xiaohongshu.com/explore/6a87ea4b000000002a032af2?xsec_token=ABJN40TTOabyPghy3EsvgQcjxeeqpRWQXZGy0RM9y6_Qs=",
+  "fetched_at": 1790081767.906588,
+  "search_item": {
+    "xsecToken": "ABJN40TTOabyPghy3EsvgQcjxeeqpRWQXZGy0RM9y6_Qs=",
+    "id": "6a87ea4b000000002a032af2",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "小红薯6A895B3C",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "6a87e2cb0000000013021801",
+        "nickname": "小红薯6A895B3C",
+        "xsecToken": "ABJN40TTOabyPghy3EsvgQchm1DXVH4Z4aVURLZJX4mbE="
+      },
+      "interactInfo": {
+        "commentCount": "17",
+        "sharedCount": "2",
+        "liked": false,
+        "likedCount": "11",
+        "collected": false,
+        "collectedCount": "14"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222056/4643f953f38fe16990f223ed3ff9fb6f/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222056/067aa0e4e6545457a87bb447dd85ca0a/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222056/4643f953f38fe16990f223ed3ff9fb6f/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222056/067aa0e4e6545457a87bb447dd85ca0a/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-21"
+        }
+      ],
+      "type": "normal"
+    },
+    "index": 9,
+    "exposed": true,
+    "trackId": "6a87ea4b000000002a032af2"
+  },
+  "note": {
+    "noteId": "6a87ea4b000000002a032af2",
+    "title": "",
+    "desc": "#香港城市大学东莞[话题]#",
+    "imageList": [
+      {
+        "stream": {},
+        "width": 1200,
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222056/49399c8ec2ef824117917ae53ca69926/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0",
+        "height": 1600,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222056/49399c8ec2ef824117917ae53ca69926/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222056/6360cc8bdb9c9c89e30bf3d83e035f89/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222056/6360cc8bdb9c9c89e30bf3d83e035f89/1040g2sg3244dgv5t7akg5qk7sb5ks601trrlfn0!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "time": 1787292235000,
+    "lastUpdateTime": 1787292235000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "user": {
+      "nickname": "小红薯6A895B3C",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/645b6a2cad8bfdf0d350826b.jpg",
+      "xsecToken": "ABEEn0sbWD0qLPwQLplHn535AUSUfKMWk_18f7aXQ6eUk=",
+      "userId": "6a87e2cb0000000013021801"
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "11",
+      "collected": false,
+      "collectedCount": "14",
+      "commentCount": "17",
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "627893440000000001000380",
+        "name": "香港城市大学东莞",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "xsecToken": "ABJN40TTOabyPghy3EsvgQcjxeeqpRWQXZGy0RM9y6_Qs="
+  },
+  "comments": [
+    {
+      "createTime": 1787293470000,
+      "invalid": false,
+      "id": "6a87ef1d000000001403ae04",
+      "atUsers": [],
+      "liked": false,
+      "subCommentCount": "16",
+      "subCommentCursor": "6a87f217000000001402cb35",
+      "subCommentHasMore": true,
+      "status": -2,
+      "content": "5487 王凯的话 夯；5485不清楚 反正我也得上[笑哭R]",
+      "likeCount": "1",
+      "showTags": [],
+      "ipLocation": "广东",
+      "noteId": "6a87ea4b000000002a032af2",
+      "userInfo": {
+        "userId": "64ccf1d6000000000b00a502",
+        "nickname": "Brench",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhbdge8ma005p6cu7b2p9822j65efg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYQxiBEc65q3bZ87vAwtqF0QJSxQ5QsQvoJ2XZ4vLWTk="
+      },
+      "subComments": [
+        {
+          "createTime": 1787294231000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "64ccf1d6000000000b00a502",
+              "nickname": "Brench",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fhbdge8ma005p6cu7b2p9822j65efg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABYQxiBEc65q3bZ87vAwtqF0QJSxQ5QsQvoJ2XZ4vLWTk="
+            },
+            "id": "6a87ef1d000000001403ae04"
+          },
+          "id": "6a87f217000000001402cb35",
+          "noteId": "6a87ea4b000000002a032af2",
+          "status": 0,
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324s2nve2hk004butan4ffrfevleaf18?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABr7_oY4KCdCtV7BY1wWRT_UchCfqEp9PLwUCsCZi_BTY=",
+            "userId": "5c0a88f7000000000601edee",
+            "nickname": "Odysseus"
+          },
+          "ipLocation": "黑龙江",
+          "invalid": false,
+          "content": "一心想实习的话，cs专业哪些课必选有推荐吗，学长",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": []
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "城大CS5282"
+}

@@ -1,0 +1,152 @@
+{
+  "note_id": "6a3a27ac000000000f015106",
+  "url": "https://www.xiaohongshu.com/explore/6a3a27ac000000000f015106?xsec_token=ABrBZv1-oEV4QTmk5ubm7y-uiiZk8MqqacOSwWnvnV9HI=",
+  "fetched_at": 1790081796.343494,
+  "search_item": {
+    "xsecToken": "ABrBZv1-oEV4QTmk5ubm7y-uiiZk8MqqacOSwWnvnV9HI=",
+    "id": "6a3a27ac000000000f015106",
+    "modelType": "note",
+    "noteCard": {
+      "type": "normal",
+      "displayTitle": "港城大SemA-CityU-CS5285-选课指南",
+      "user": {
+        "nickName": "山雀dp5",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg?imageView2/2/w/80/format/jpg",
+        "userId": "643f7ec5000000000f0049df",
+        "nickname": "山雀dp5",
+        "xsecToken": "AB9Qd_x_A3lEJ9GQ-ZGT0O6_1jr8XGFwpLx58bJVT9yso="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "10",
+        "collected": false,
+        "collectedCount": "10",
+        "commentCount": "0",
+        "sharedCount": "2"
+      },
+      "cover": {
+        "height": 2259,
+        "width": 1773,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222056/38b8a808f842c661cc094befe22abd83/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222056/c5e92c75512a2e6f61fd4480ac5860a2/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 2259,
+          "width": 1773,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222056/38b8a808f842c661cc094befe22abd83/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222056/c5e92c75512a2e6f61fd4480ac5860a2/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "06-23"
+        }
+      ]
+    },
+    "index": 3,
+    "exposed": true,
+    "trackId": "6a3a27ac000000000f015106"
+  },
+  "note": {
+    "noteId": "6a3a27ac000000000f015106",
+    "type": "normal",
+    "title": "港城大SemA-CityU-CS5285-选课指南",
+    "desc": "港城大SemA-CityU-CS5285-Information Security for eCommerce选课指南\n课程内容\nDr. Gerhard Hancke主讲\n涵盖密码学基础理论，加密算法底层原理和计算，通讯协议安全设计等内容，理论为主，和下学期的安全课程呼应，后者关键是应用和实操。\n半期前课程难度不大，半期后难度陡增。反正唯一一个花了很多时间但是成绩不理想的课程\n\t\n成绩构成\n平时作业 40%：2次作业和一次开卷期中考试\n期末考试 60% ：半开卷考试\n\t\n课程难度 & 选课实测\n比较难，本来英语就不是很好，听协议设计的部分很抽象，也是花了很多精力，是最不适合考前突击的课程。但是好处是没有小组项目,本科是密码学网络安全相关专业会简单不少。\n接付费咨询，包括怎么选课，怎么10月毕业秋招，以及作业考试细节回忆。\n#香港城市大学[话题]# #CityU[话题]# #港城大计算机[话题]# #港城大硕士[话题]# #港城大选课[话题]# #CS5285[话题]# #香港[话题]#",
+    "user": {
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ld6a59kl06g5p1vfr2joievv3ltpgg",
+      "xsecToken": "ABtE_-JX2HSWE30a_-UuFeeKTG23V7PMS9xxProAAG_mM=",
+      "userId": "643f7ec5000000000f0049df",
+      "nickname": "山雀dp5"
+    },
+    "tagList": [
+      {
+        "id": "5c46d9e9000000000f018433",
+        "name": "香港城市大学",
+        "type": "topic"
+      },
+      {
+        "id": "60a65e500000000001001ded",
+        "name": "CityU",
+        "type": "topic"
+      },
+      {
+        "id": "67009cf4000000000202d958",
+        "name": "港城大计算机",
+        "type": "topic"
+      },
+      {
+        "id": "64b7fabb00000000370174db",
+        "name": "港城大硕士",
+        "type": "topic"
+      },
+      {
+        "id": "66c9e2bb000000002403b1e1",
+        "name": "港城大选课",
+        "type": "topic"
+      },
+      {
+        "id": "6855164c0000000018012058",
+        "name": "CS5285",
+        "type": "topic"
+      },
+      {
+        "id": "53c1197fb4c4d632efbc2f6c",
+        "name": "香港",
+        "type": "topic"
+      }
+    ],
+    "interactInfo": {
+      "liked": false,
+      "collected": false,
+      "commentCount": "",
+      "shareCount": "2",
+      "followed": false,
+      "relation": "none",
+      "likedCount": "10",
+      "collectedCount": "10",
+      "niceCount": ""
+    },
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222056/3824c9c424bbeddcf5e5adf4537d9a2a/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222056/5d5cd8b10b7ec29d9e4f0028d395b99e/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222056/3824c9c424bbeddcf5e5adf4537d9a2a/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222056/5d5cd8b10b7ec29d9e4f0028d395b99e/1040g2sg321ofgl3274e05p1vfr2joievssigvc0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "fileId": "1040g2sg321ofgl3274e05p1vfr2joievssigvc0",
+        "height": 2259,
+        "width": 1773,
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1782196140000,
+    "lastUpdateTime": 1782196140000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABrBZv1-oEV4QTmk5ubm7y-uiiZk8MqqacOSwWnvnV9HI="
+  },
+  "comments": [],
+  "search_query": "城大CS5282"
+}

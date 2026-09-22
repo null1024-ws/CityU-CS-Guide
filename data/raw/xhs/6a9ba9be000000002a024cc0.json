@@ -1,0 +1,240 @@
+{
+  "note_id": "6a9ba9be000000002a024cc0",
+  "url": "https://www.xiaohongshu.com/explore/6a9ba9be000000002a024cc0?xsec_token=ABvHaPPIi4U-lEM73Or8T_M5b9GfMqk039eL6_RwWH6cA=",
+  "fetched_at": 1790082995.6844685,
+  "search_item": {
+    "xsecToken": "ABvHaPPIi4U-lEM73Or8T_M5b9GfMqk039eL6_RwWH6cA=",
+    "id": "6a9ba9be000000002a024cc0",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "Drift",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32386v0a7no005n9tnkdliff45uf69o0?imageView2/2/w/80/format/jpg",
+        "userId": "5d3dbd1b0000000016013de4",
+        "nickname": "Drift",
+        "xsecToken": "ABFLmjIOtq_m1oezQFCUsuUF9Cv8AogXjMp1rfPQsVn_Q="
+      },
+      "interactInfo": {
+        "likedCount": "5",
+        "collected": false,
+        "collectedCount": "1",
+        "commentCount": "4",
+        "sharedCount": "1",
+        "liked": false
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222116/b9ea0cddcea782e65e602729b000b42a/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222116/60683cce821591f4bc18dc0fac0f338a/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nc_n_webp_prv_1",
+        "height": 2796,
+        "width": 1290
+      },
+      "imageList": [
+        {
+          "height": 2796,
+          "width": 1290,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222116/b9ea0cddcea782e65e602729b000b42a/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222116/60683cce821591f4bc18dc0fac0f338a/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-07"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "Cityu ds DSC5001 5003 6016求组队"
+    },
+    "index": 37,
+    "exposed": false,
+    "trackId": "6a9ba9be000000002a024cc0"
+  },
+  "note": {
+    "ipLocation": "中国香港",
+    "noteId": "6a9ba9be000000002a024cc0",
+    "user": {
+      "userId": "5d3dbd1b0000000016013de4",
+      "nickname": "Drift",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32386v0a7no005n9tnkdliff45uf69o0",
+      "xsecToken": "ABoCDjddGXJPC7qhGz_AvfVdin4LgXoTXCgY4XX1U5CN8="
+    },
+    "imageList": [
+      {
+        "url": "",
+        "infoList": [
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222116/14556c91a47db1441b886d24be4f5de7/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nd_prv_wlteh_jpg_3",
+            "imageScene": "WB_PRV"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222116/946bb9e3758407907c95d73f6e4aec09/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222116/14556c91a47db1441b886d24be4f5de7/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8",
+        "height": 2796,
+        "width": 1290,
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222116/946bb9e3758407907c95d73f6e4aec09/notes_pre_post/1040g3k0324nmh74a7k1g5n9tnkdliff4ev461e8!nd_dft_wlteh_jpg_3",
+        "stream": {}
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5e2cba4d0000000001002f38",
+        "name": "数据科学",
+        "type": "topic"
+      },
+      {
+        "id": "5d1ea316000000000e026c68",
+        "name": "港城",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1788586430000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "Cityu ds DSC5001 5003 6016求组队",
+    "desc": "本科cs 有没有同必修课表的同学 一起组队呗🙏\n#数据科学[话题]##港城[话题]#",
+    "interactInfo": {
+      "followed": false,
+      "relation": "none",
+      "liked": false,
+      "collected": false,
+      "collectedCount": "1",
+      "commentCount": "4",
+      "niceCount": "",
+      "likedCount": "5",
+      "shareCount": "1"
+    },
+    "lastUpdateTime": 1788775392000,
+    "xsecToken": "ABvHaPPIi4U-lEM73Or8T_M5b9GfMqk039eL6_RwWH6cA="
+  },
+  "comments": [
+    {
+      "noteId": "6a9ba9be000000002a024cc0",
+      "content": "5001早上的课上的怎么样？下午的感觉讲得有点快，不太好懂",
+      "showTags": [],
+      "subCommentCursor": "6a9c051f000000000100a241",
+      "status": 0,
+      "userInfo": {
+        "nickname": "望江流影",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6205e2571ff07cd7cbbe424c.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABDh9g7-qbEOt0FfunRlXhPAWGOA8npR2AgiSRWVLJHWs=",
+        "userId": "61e664d200000000210271fc"
+      },
+      "invalid": false,
+      "id": "6a9bee9b000000000f0315ba",
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "广东",
+      "liked": false,
+      "createTime": 1788604059000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "id": "6a9c051f000000000100a241",
+          "noteId": "6a9ba9be000000002a024cc0",
+          "content": "早上讲得不快 老师一直在问我们跟的上不 感觉挺好的",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1788609823000,
+          "targetComment": {
+            "id": "6a9bee9b000000000f0315ba",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/6205e2571ff07cd7cbbe424c.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABDh9g7-qbEOt0FfunRlXhPAWGOA8npR2AgiSRWVLJHWs=",
+              "userId": "61e664d200000000210271fc",
+              "nickname": "望江流影"
+            }
+          },
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "2",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABmRDTHOEtKARWiJSUoak7r5YvLYZdO7jkrKpn7jsYwYM=",
+            "userId": "5d3dbd1b0000000016013de4",
+            "nickname": "Drift",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32386v0a7no005n9tnkdliff45uf69o0?imageView2/2/w/120/format/jpg"
+          },
+          "ipLocation": "中国香港",
+          "invalid": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "createTime": 1789195009000,
+      "invalid": false,
+      "id": "6aa4f300000000000b014685",
+      "noteId": "6a9ba9be000000002a024cc0",
+      "status": 0,
+      "atUsers": [],
+      "subCommentHasMore": false,
+      "content": "蹲6016组队",
+      "likeCount": "1",
+      "ipLocation": "中国香港",
+      "subComments": [],
+      "subCommentCursor": "",
+      "userInfo": {
+        "xsecToken": "AB2AIOKXVRft8hioQ-OEyKLp5fa4c4MwGqK99t8rNL5Wc=",
+        "userId": "63873691000000001f01dd0b",
+        "nickname": "Eutopia",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31q1jm4g5n2005os76q8nrn8boo2qtkg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "showTags": [],
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "6097f46300000000010049a6",
+        "nickname": "ELDWOOD",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/6097f46300000000010049a6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfzDoKcHS5Up_dqUnlF6wzh1pxdMr-S2GEd61jjIExJQ="
+      },
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": 0,
+      "subComments": [],
+      "invalid": false,
+      "noteId": "6a9ba9be000000002a024cc0",
+      "subCommentCount": "0",
+      "id": "6a9bae560000000014033bd3",
+      "content": "本科ds的，蹲蹲组队",
+      "likeCount": "0",
+      "showTags": [],
+      "createTime": 1788587607000,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5288 给分"
+}

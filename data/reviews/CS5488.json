@@ -22,26 +22,29 @@
       "label": "暂无数据"
     },
     "workload": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "heavy",
+      "label": "繁重",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "hasRecording": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "false",
+      "label": "无回放",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     },
     "attendance": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     }
   },
   "tips": [
-    "作业多但大多能拿满，贯穿并行（Spark 等）；小组项目可小做，但必须体现并行。",
+    "作业量较大，大多能拿满，贯穿并行（Spark 等）。小组项目可小做，但必须体现并行。无回放，无考勤。",
     "闭卷期末既有代码/实践也有概念默写，复习负担不轻。"
   ],
   "sources": [
@@ -74,5 +77,5 @@
     }
   ],
   "commentSources": [],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

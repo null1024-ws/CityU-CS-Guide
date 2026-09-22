@@ -42,14 +42,15 @@
       "distinctSources": 1
     },
     "attendance": {
-      "value": "unknown",
-      "confidence": "unknown",
-      "sourceCount": 0,
-      "label": "暂无数据"
+      "value": "not_strict",
+      "label": "考勤松",
+      "confidence": "reported",
+      "sourceCount": 1,
+      "distinctSources": 1
     }
   },
   "tips": [
-    "必修；本科有软件工程背景可尝试申请免修。",
+    "必修，无考勤。本科有软件工程背景可尝试申请免修。",
     "6–8 人大组 project 占比较高，组队比个人努力更影响体验；期中期末多为 case 简答题，期末一般可带 3 张 A4。"
   ],
   "sources": [
@@ -154,5 +155,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }

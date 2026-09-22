@@ -1,0 +1,250 @@
+{
+  "note_id": "6a4e65c700000000210086db",
+  "url": "https://www.xiaohongshu.com/explore/6a4e65c700000000210086db?xsec_token=ABZByMrWOh3Bg_p8_wTguLhNmaykngYHulBpK-pr9-10I=",
+  "fetched_at": 1790080800.5270958,
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "width": 1080,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222039/86413f97de52db369ff33783759cc8e5/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222039/0f5ed36566f74cb19edb1680f6bb7647/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nc_n_webp_prv_1",
+        "height": 1920
+      },
+      "imageList": [
+        {
+          "height": 1920,
+          "width": 1080,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222039/86413f97de52db369ff33783759cc8e5/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222039/0f5ed36566f74cb19edb1680f6bb7647/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "text": "07-08",
+          "type": "publish_time"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "nus dsml 课程评价 sem 1",
+      "user": {
+        "nickName": "计算M先生",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vbf6ln7ig005pm7u95nc45spub59ko?imageView2/2/w/80/format/jpg",
+        "userId": "66c7f24b000000001d0210bc",
+        "nickname": "计算M先生",
+        "xsecToken": "ABiaDE9ak5cLTA50SU6GiRwrXZ7mW6v2Tymyy5neXckJ4="
+      },
+      "interactInfo": {
+        "collectedCount": "59",
+        "commentCount": "6",
+        "sharedCount": "16",
+        "liked": false,
+        "likedCount": "60",
+        "collected": false
+      }
+    },
+    "xsecToken": "ABZByMrWOh3Bg_p8_wTguLhNmaykngYHulBpK-pr9-10I=",
+    "id": "6a4e65c700000000210086db",
+    "index": 35,
+    "exposed": false,
+    "trackId": "6a4e65c700000000210086db"
+  },
+  "note": {
+    "atUserList": [],
+    "noteId": "6a4e65c700000000210086db",
+    "desc": "马上要开始新学期选课了，发一条课程评价帮供学弟学妹参考。\n\t\nDSA5101:必修课，是关于大数据应用的，内容比较杂，有些是包浆内容。作业内容比较基础。由于知识量大，期末突击起来需要一些时间。但是考试是完全开卷的，题目也比较常规。\n\t\nDSA5104:数据库相关的，计算机的同学至少前半部分没啥压力。作业难度中等，基本是写sql或者其他数据库查询为主。但是由于各类数据库都有，考试之前需要背诵海量信息。考试cheatsheet的形式，题目量比较大，需要比较熟练。\n\t\nDSA5105:机器学习，讲的是基本的机器学习原理，有一些数学推导。前半部分是越南老师，后半部分是国内老师。如果是学习数学的同学，会觉得讲的推导没什么压力，然而对我这种cs专业的，第一遍学这些数学推导还是有些难度的。作业数学推导也有些难度，编码相对简单些。考试时cheatsheet的形式，越南老师的部分会出一道很有难度的题，其他题基本都比较正常。\n\t\nDSA5205:金融相关的课程，主要讲一些机器学习在金融领域的应用，有两个大作业和考试。金融相关的概念如果之前没接触过需要一段时间消化，机器学习模型都比较常见。考试开卷形式，考察机器学习相关的内容比较多。\n\t\nCS5224:云计算，其实就是全栈开发。之前接触过开发的同学项目做起来难度不大，没接触过可能需要花时间学习一下。有几个小型的项目、一个大项目和一次随堂的期末。期末颇有难度，另外项目助教的打分比较迷。接触过开发的可以选水学分，没接触过的建议谨慎一点。\n\t\n整体上课程内容难度适中，第一个学期的话主要是要花一些时间在适应英语教学上。祝大家都能选到满意的课程。\n#NUS[话题]# #dsml[话题]# #选课[话题]#",
+    "time": 1783522760000,
+    "lastUpdateTime": 1783522760000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "nus dsml 课程评价 sem 1",
+    "user": {
+      "nickname": "计算M先生",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vbf6ln7ig005pm7u95nc45spub59ko",
+      "xsecToken": "ABLxCXbZa1uB0TIFh8H8EdtdnSyL6h6bxDPi70tIKd1ds=",
+      "userId": "66c7f24b000000001d0210bc"
+    },
+    "interactInfo": {
+      "shareCount": "16",
+      "followed": false,
+      "collected": false,
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "60",
+      "collectedCount": "59",
+      "commentCount": "6"
+    },
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0",
+        "height": 1920,
+        "width": 1080,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222040/68cd69c2c4af913633bc153a73e6b6a4/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222040/e00723707739adddfa31aef33b4f2678/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222040/68cd69c2c4af913633bc153a73e6b6a4/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222040/e00723707739adddfa31aef33b4f2678/notes_pre_post/1040g3k8322c7pfh8no705pm7u95nc45s9gnn0l0!nd_prv_wlteh_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "tagList": [
+      {
+        "type": "topic",
+        "id": "5e3023310000000001003597",
+        "name": "NUS"
+      },
+      {
+        "id": "62458c2d0000000001005e29",
+        "name": "dsml",
+        "type": "topic"
+      },
+      {
+        "id": "5d1c9959000000000d017f43",
+        "name": "选课",
+        "type": "topic"
+      }
+    ],
+    "xsecToken": "ABZByMrWOh3Bg_p8_wTguLhNmaykngYHulBpK-pr9-10I="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [],
+      "ipLocation": "新加坡",
+      "id": "6a78803b0000000002034aaa",
+      "status": 0,
+      "createTime": 1786282043000,
+      "noteId": "6a4e65c700000000210086db",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "5ef078df00000000010068ed",
+        "nickname": "小王不想学数学",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jo4a5ur36005nngf3fg8q7dnqd1940?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABF5ZMVg5ENV2FfrF8ZMgOqhMdNUMXwY4ijnMcO-o5dig="
+      },
+      "subComments": [
+        {
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABhagQs6afxDEGTSSj7YK5bKrLEGhJ6prdZpeSBvTT6o4=",
+            "userId": "66c7f24b000000001d0210bc",
+            "nickname": "计算M先生",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vbf6ln7ig005pm7u95nc45spub59ko?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786318939000,
+          "ipLocation": "辽宁",
+          "content": "5105有",
+          "liked": false,
+          "likeCount": "0",
+          "targetComment": {
+            "id": "6a78803b0000000002034aaa",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jo4a5ur36005nngf3fg8q7dnqd1940?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABF5ZMVg5ENV2FfrF8ZMgOqhMdNUMXwY4ijnMcO-o5dig=",
+              "userId": "5ef078df00000000010068ed",
+              "nickname": "小王不想学数学"
+            }
+          },
+          "invalid": false,
+          "id": "6a79105a000000002a006b92",
+          "noteId": "6a4e65c700000000210086db",
+          "status": 0
+        }
+      ],
+      "subCommentHasMore": true,
+      "content": "想问下这些课有期中吗",
+      "subCommentCount": "3",
+      "subCommentCursor": "6a79105a000000002a006b92",
+      "invalid": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6a4e65c700000000210086db",
+      "status": 0,
+      "atUsers": [],
+      "createTime": 1784090335000,
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "content": "5224和5205这两门有",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "createTime": 1784100704000,
+          "ipLocation": "北京",
+          "targetComment": {
+            "id": "6a570ede000000002a02d388",
+            "userInfo": {
+              "userId": "653e4d20000000000d005e82",
+              "nickname": "河中轻舟逐明月",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jufa6fc300g5p9u9kg38nk2gc60788?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABWoWwnZgLuVvPoFPkjUoFzK72COsb3GCq4WzwIOtj04s="
+            }
+          },
+          "id": "6a573760000000002a031573",
+          "noteId": "6a4e65c700000000210086db",
+          "status": 0,
+          "userInfo": {
+            "userId": "66c7f24b000000001d0210bc",
+            "nickname": "计算M先生",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31vbf6ln7ig005pm7u95nc45spub59ko?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABhagQs6afxDEGTSSj7YK5bKrLEGhJ6prdZpeSBvTT6o4="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "invalid": false
+        }
+      ],
+      "showTags": [],
+      "subCommentCursor": "6a573760000000002a031573",
+      "subCommentHasMore": false,
+      "content": "请问哪些课有小组作业呀？",
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jufa6fc300g5p9u9kg38nk2gc60788?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABWoWwnZgLuVvPoFPkjUoFzK72COsb3GCq4WzwIOtj04s=",
+        "userId": "653e4d20000000000d005e82",
+        "nickname": "河中轻舟逐明月"
+      },
+      "invalid": false,
+      "id": "6a570ede000000002a02d388",
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5185 避雷"
+}

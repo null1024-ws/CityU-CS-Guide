@@ -1,0 +1,505 @@
+{
+  "note_id": "68afa2df000000001b03d432",
+  "url": "https://www.xiaohongshu.com/explore/68afa2df000000001b03d432?xsec_token=ABtbhPmVr5i7VR731TERQhYtG-gBF-d3AVieo_6ralZRg=",
+  "fetched_at": 1790083162.7535667,
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "刘思达",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/80/format/jpg",
+        "userId": "639cf6c30000000026004cd6",
+        "nickname": "刘思达",
+        "xsecToken": "ABZ-UJP16PgrD78nmWjNwDuRo2x9WtxPeNWThRWXbeqOs="
+      },
+      "interactInfo": {
+        "commentCount": "16",
+        "sharedCount": "26",
+        "liked": false,
+        "likedCount": "68",
+        "collected": false,
+        "collectedCount": "7"
+      },
+      "cover": {
+        "height": 1600,
+        "width": 1027,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222119/9ed1bb4b802848a76a4f3c95970f0a90/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222119/b98061d93821f6990ed675d7e51a4fca/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1027,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222119/9ed1bb4b802848a76a4f3c95970f0a90/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222119/b98061d93821f6990ed675d7e51a4fca/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "height": 1600,
+          "width": 862,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222119/f1566f9728e460884e1896b381cdb375/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222119/828424454a36301086a9a61069cdce34/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "2025-08-28"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABtbhPmVr5i7VR731TERQhYtG-gBF-d3AVieo_6ralZRg=",
+    "id": "68afa2df000000001b03d432",
+    "index": 19,
+    "exposed": false,
+    "trackId": "68afa2df000000001b03d432"
+  },
+  "note": {
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "68afa2df000000001b03d432",
+    "desc": "前两天有同学跟我联系，说我第二学期要开的LLAW/JDOC6308 Law and Society in China课程已经选不上了。我开始还觉得奇怪，这么小众的课怎么能选满，结果上HKU Portal一看，原来是学校系统自动把这门课的enrollment capacity设成了LLM25人、JD10人，一共只有35个名额……\n\t\n经过我跟学院行政老师的沟通，目前这门课的capacity已经增加到了LLM55人、JD20人，还额外增加了本科生的选课名额，希望能让对法律社会学有兴趣的同学们实现选课自由。",
+    "user": {
+      "userId": "639cf6c30000000026004cd6",
+      "nickname": "刘思达",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co",
+      "xsecToken": "ABo1uD9qiTYYZHTMNWz11xd4CCGSR7NoWVfU8YD83B8EA="
+    },
+    "interactInfo": {
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "commentCount": "16",
+      "followed": false,
+      "likedCount": "68",
+      "collectedCount": "7",
+      "shareCount": "26",
+      "relation": "none"
+    },
+    "tagList": [],
+    "lastUpdateTime": 1756341101000,
+    "type": "normal",
+    "title": "",
+    "imageList": [
+      {
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222119/ec2fedf50642a20cc53d19e70a9c6949/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222119/804f545febd6c71548d22f4b1fb874b1/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222119/ec2fedf50642a20cc53d19e70a9c6949/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nd_prv_wlteh_jpg_3",
+        "fileId": "notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco",
+        "height": 1600,
+        "width": 1027,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222119/804f545febd6c71548d22f4b1fb874b1/notes_pre_post/1040g3k031ln6s1f55m5g5ossur1pgj6mtm36sco!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222119/347c21e882c23be263d616c56e4c906c/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222119/ce9d2c32e625cc94f9b6cbe408a189c2/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222119/347c21e882c23be263d616c56e4c906c/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222119/ce9d2c32e625cc94f9b6cbe408a189c2/notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k831ln6s1g95i6g5ossur1pgj6m62k9ido",
+        "height": 1600,
+        "width": 862,
+        "url": "",
+        "traceId": ""
+      }
+    ],
+    "atUserList": [],
+    "time": 1756340959000,
+    "xsecToken": "ABtbhPmVr5i7VR731TERQhYtG-gBF-d3AVieo_6ralZRg="
+  },
+  "comments": [
+    {
+      "noteId": "68afa2df000000001b03d432",
+      "atUsers": [],
+      "userInfo": {
+        "userId": "62e55438000000001e01c469",
+        "nickname": "Eva是Entj呀（火药桶版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321i3nnv4nk6g5on5ags7jh39ple5h98?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABXjRc_GeO_fDjf4VXf7lkGSlfwKK2QEGjqrvQeDfKzd0="
+      },
+      "subCommentHasMore": true,
+      "invalid": false,
+      "content": "老师以后会考虑在coursera或者其他知识传播平台讲授嘛[皱眉R]",
+      "liked": false,
+      "showTags": [],
+      "createTime": 1756341714000,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "68afa8910000000001001b86",
+          "noteId": "68afa2df000000001b03d432",
+          "content": "目前没有这类计划，我不太喜欢视频[微笑R]",
+          "userInfo": {
+            "nickname": "刘思达",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o=",
+            "userId": "639cf6c30000000026004cd6"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "4",
+          "createTime": 1756342418000,
+          "ipLocation": "浙江",
+          "targetComment": {
+            "userInfo": {
+              "userId": "62e55438000000001e01c469",
+              "nickname": "Eva是Entj呀（火药桶版）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321i3nnv4nk6g5on5ags7jh39ple5h98?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABXjRc_GeO_fDjf4VXf7lkGSlfwKK2QEGjqrvQeDfKzd0="
+            },
+            "id": "68afa5d1000000000a00e549"
+          }
+        }
+      ],
+      "subCommentCursor": "68afa8910000000001001b86",
+      "id": "68afa5d1000000000a00e549",
+      "status": 0,
+      "likeCount": "0",
+      "ipLocation": "北京",
+      "subCommentCount": "3",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "status": 0,
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "id": "68afb4b5000000000902b0b8",
+          "noteId": "68afa2df000000001b03d432",
+          "status": 0,
+          "content": "学院网站上有的",
+          "liked": false,
+          "userInfo": {
+            "userId": "639cf6c30000000026004cd6",
+            "nickname": "刘思达",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "浙江",
+          "atUsers": [],
+          "likeCount": "0",
+          "createTime": 1756345525000,
+          "targetComment": {
+            "userInfo": {
+              "userId": "5e673ab8000000000100b1bb",
+              "nickname": "小红薯66715598",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fakl7jsmo005nj77as09cdrgrqstrg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABaGMVkQ-sMg_lhpJ_tr4EyJXN5mSZnNYT74ArXF2z3xg="
+            },
+            "id": "68afb0ab0000000030031823"
+          },
+          "invalid": false
+        }
+      ],
+      "noteId": "68afa2df000000001b03d432",
+      "content": "会有可能有syllabus分享一下吗？[哇R][哇R][哇R]",
+      "userInfo": {
+        "userId": "5e673ab8000000000100b1bb",
+        "nickname": "小红薯66715598",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fakl7jsmo005nj77as09cdrgrqstrg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABaGMVkQ-sMg_lhpJ_tr4EyJXN5mSZnNYT74ArXF2z3xg="
+      },
+      "showTags": [],
+      "createTime": 1756344492000,
+      "subCommentHasMore": true,
+      "id": "68afb0ab0000000030031823",
+      "invalid": false,
+      "subCommentCount": "2",
+      "subCommentCursor": "68afb4b5000000000902b0b8",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "content": "好多同学选课的唯一参照还是希望能拿高分。可能看到law and china就会觉得课程内容会比较熟悉好拿分，但实际上可能并非如此",
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "68afd88b00000000090394d6",
+          "noteId": "68afa2df000000001b03d432",
+          "status": 0,
+          "liked": false,
+          "likeCount": "2",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1756354699000,
+          "ipLocation": "浙江",
+          "content": "按学校规定，每门课80分以上都最多只能给30%，所以没什么区别的[偷笑R][偷笑R]",
+          "atUsers": [],
+          "userInfo": {
+            "userId": "639cf6c30000000026004cd6",
+            "nickname": "刘思达",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o="
+          },
+          "targetComment": {
+            "id": "68afcd42000000003000d9fd",
+            "userInfo": {
+              "userId": "63b90e72000000002702b62e",
+              "nickname": "小红薯63BA1B87",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/411309441983cdc4ce073ff8da73b5b6.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFSqQ-pBkYJtrbOfljbFbLjhsuA8I4LQL14Iz8XahEjc="
+            }
+          }
+        }
+      ],
+      "noteId": "68afa2df000000001b03d432",
+      "showTags": [],
+      "createTime": 1756351810000,
+      "subCommentCount": "1",
+      "ipLocation": "中国香港",
+      "subCommentCursor": "68afd88b00000000090394d6",
+      "subCommentHasMore": false,
+      "id": "68afcd42000000003000d9fd",
+      "status": 0,
+      "likeCount": "2",
+      "userInfo": {
+        "userId": "63b90e72000000002702b62e",
+        "nickname": "小红薯63BA1B87",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/411309441983cdc4ce073ff8da73b5b6.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFSqQ-pBkYJtrbOfljbFbLjhsuA8I4LQL14Iz8XahEjc="
+      },
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "subCommentHasMore": false,
+      "id": "6a788e79000000002203dbe6",
+      "noteId": "68afa2df000000001b03d432",
+      "createTime": 1786285690000,
+      "ipLocation": "贵州",
+      "status": 0,
+      "showTags": [],
+      "subCommentCount": "1",
+      "content": "老师，今年搜这个课程显示的是另一位老师，请问是换老师了吗",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "610cc1ba000000000101c011",
+        "nickname": "水月关ello",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30r77bala1i6g5o8co6t0bg0hho1fbqg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABLiMFDJj_q4040XgyulCx5YcAhgt4d2-8GQ94QOZDxPw="
+      },
+      "subComments": [
+        {
+          "targetComment": {
+            "id": "6a788e79000000002203dbe6",
+            "userInfo": {
+              "xsecToken": "ABLiMFDJj_q4040XgyulCx5YcAhgt4d2-8GQ94QOZDxPw=",
+              "userId": "610cc1ba000000000101c011",
+              "nickname": "水月关ello",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30r77bala1i6g5o8co6t0bg0hho1fbqg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false
+            }
+          },
+          "invalid": false,
+          "id": "6a7895780000000029037e81",
+          "noteId": "68afa2df000000001b03d432",
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o=",
+            "userId": "639cf6c30000000026004cd6",
+            "nickname": "刘思达"
+          },
+          "ipLocation": "中国香港",
+          "status": 0,
+          "content": "是的，我今年不教研究生课",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786287480000
+        }
+      ],
+      "subCommentCursor": "6a7895780000000029037e81",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "6130e7d800000000020199e4",
+        "nickname": "Sois toi-meme",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k4gnji8iu0g5o9gsvc0j6f4ni68fmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABFHAcTZgbFpWWsdm1xs41JQY96RtwBMdM_7nB6wOqlzc="
+      },
+      "invalid": false,
+      "noteId": "68afa2df000000001b03d432",
+      "createTime": 1756372182000,
+      "subComments": [
+        {
+          "ipLocation": "浙江",
+          "targetComment": {
+            "id": "68b01cd5000000003001dd52",
+            "userInfo": {
+              "userId": "6130e7d800000000020199e4",
+              "nickname": "Sois toi-meme",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k4gnji8iu0g5o9gsvc0j6f4ni68fmg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABFHAcTZgbFpWWsdm1xs41JQY96RtwBMdM_7nB6wOqlzc="
+            }
+          },
+          "invalid": false,
+          "id": "68b01ffd000000000b0160ce",
+          "noteId": "68afa2df000000001b03d432",
+          "content": "欢迎来听[握手R]",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "userInfo": {
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o=",
+            "userId": "639cf6c30000000026004cd6",
+            "nickname": "刘思达"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "status": 0,
+          "createTime": 1756372990000
+        }
+      ],
+      "likeCount": "0",
+      "ipLocation": "法国",
+      "subCommentCount": "1",
+      "atUsers": [],
+      "showTags": [],
+      "subCommentHasMore": false,
+      "subCommentCursor": "68b01ffd000000000b0160ce",
+      "id": "68b01cd5000000003001dd52",
+      "status": 0,
+      "content": "作为本科学社会学的学生，好期待有机会上刘教授的这门课👍👍",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subComments": [
+        {
+          "createTime": 1789158292000,
+          "targetComment": {
+            "id": "6aa43148000000001202aba7",
+            "userInfo": {
+              "userId": "66260b5a0000000007007e57",
+              "nickname": "🌺",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hm21707j80g5ph61dd1ovinora1g80?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABmz68Jna7TudS81L34G5UfdzOGI7ExvZvwsZLtp7JXdw="
+            }
+          },
+          "invalid": false,
+          "content": "我去年教的时候，期末是take home，但要当堂纸笔写三个reading responses",
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "中国香港",
+          "id": "6aa46394000000000b01fdd1",
+          "noteId": "68afa2df000000001b03d432",
+          "status": 0,
+          "atUsers": [],
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABJo95C-XBYjbm6yVJOkwgXQ55DEArg-Fub9GnZjCLS1o=",
+            "userId": "639cf6c30000000026004cd6",
+            "nickname": "刘思达",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30v04cqea56005ossur1pgj6m3mhp4co?imageView2/2/w/120/format/jpg"
+          }
+        }
+      ],
+      "noteId": "68afa2df000000001b03d432",
+      "content": "老师您好，想问一下之前6308的final是in hall手搓3千字嘛[哭惹R]今年Dr.Duan说之前是的 所以她在考虑take home还是in hall了哈哈哈哈哈哈哈",
+      "liked": false,
+      "createTime": 1789145417000,
+      "subCommentCursor": "6aa46394000000000b01fdd1",
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "userId": "66260b5a0000000007007e57",
+        "nickname": "🌺",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hm21707j80g5ph61dd1ovinora1g80?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABmz68Jna7TudS81L34G5UfdzOGI7ExvZvwsZLtp7JXdw="
+      },
+      "subCommentCount": "2",
+      "subCommentHasMore": true,
+      "id": "6aa43148000000001202aba7",
+      "atUsers": [],
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5288 避雷"
+}

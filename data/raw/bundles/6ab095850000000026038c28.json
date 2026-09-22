@@ -1,0 +1,18 @@
+{
+  "note_id": "6ab095850000000026038c28",
+  "url": "https://www.xiaohongshu.com/explore/6ab095850000000026038c28?xsec_token=ABu0-lI3WCrUVkHokYlLLEKBNhEJSuWjgz7CSfDCWIlJM=",
+  "fetched_at": 1790082012.307778,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "收藏！8个Jev项目，Agent立刻能用",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "Jev 大家用上没有啊，本人也在学习研究中。\n现在感觉他就是一个判断做题家的人设。\n\t\n整理了一批 Jev 项目，大家有需要可以参考啊。\n\t\n1. fast-jev-compaction\nClaude Code 插件。每次工具调用后，用 Jev 判断哪些内容该保留、压缩或丢弃，减少上下文膨胀。\n\t\n2. jev-browser\n让 LLM 负责规划，Jev 负责浏览器里的具体选择。支持 CLI、Library 和 MCP。\n\t\n3. jev-search\n把 Jev 用在搜索流程里，负责理解查询、选择信息源、筛选结果。\n\t\n4. Reticle\n给 Web 和桌面应用增加运行时感知能力，帮助 Agent 理解自己正在操作的界面。\n\t\n5. NanoJev\n一个 Jev 的轻量复现项目，包含并行决策、动态候选项和完整训练流程。\n\t\n6. open-alternative-jev\n尝试用开源模型复现 Jev 风格的 System One 决策层，并提供基准测试。\n\t\n7. pi-jev\n把 Jev 接入 Pi coding agent，用来控制工具调用，也支持类型化、带置信度的回答。\n\t\n8. hermes-jev-skills\n直接把 Jev 接进 Hermes、Claude Code 和 Codex，覆盖模型路由、记忆、上下文压缩、Skill 选择和浏览器操作。\n\t\n这个列表感觉收藏吧，早晚用的上。",
+      "sourceRef": "post"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "note_id": "6a8d95fa000000002a0387cd",
+  "url": "https://www.xiaohongshu.com/explore/6a8d95fa000000002a0387cd?xsec_token=AB7BlYFH7DwxUu5jLqfi1bKQk075NQWnXyaKNhuD4FK3g=",
+  "fetched_at": 1790081273.364379,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城CS选课",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "6382算法分析和博弈论怎么没人选啊？感觉很多人都选5489机器学习?\n\t\n还有MSCS2和MSCS3有啥区别?到处都找不到关于这个的解释[捂脸R]\n#选课[话题]# #计算机专业[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "6382放心选，不可能挂科，而且还没有小组作业[doge]",
+      "sourceRef": "comment:6a8e48a5000000001501396f",
+      "commentId": "6a8e48a5000000001501396f",
+      "likes": 4,
+      "author": "Quess"
+    },
+    {
+      "type": "sub_comment",
+      "text": "真的假的，很害怕[惊恐R]",
+      "sourceRef": "comment:6a8e58af000000000a02292d",
+      "commentId": "6a8e58af000000000a02292d",
+      "likes": 0,
+      "author": "我不是大田"
+    },
+    {
+      "type": "comment",
+      "text": "5489是偏应用多一点，可能体感比另一门数学占比更多的5487好一点吧，然后6开头的应该是比5开头的课难一点，看之前的课程评价好像是考试有难度",
+      "sourceRef": "comment:6a8dad9400000000150014e4",
+      "commentId": "6a8dad9400000000150014e4",
+      "likes": 3,
+      "author": "Midori"
+    },
+    {
+      "type": "comment",
+      "text": "MSCS2是data science专业，MSCS3是computer science专业",
+      "sourceRef": "comment:6a8d982b000000001402e3a6",
+      "commentId": "6a8d982b000000001402e3a6",
+      "likes": 2,
+      "author": "一般路过宏伟水渠"
+    },
+    {
+      "type": "sub_comment",
+      "text": "感谢回答[害羞R] 想知道这个信息的源头是哪里呀（比如说官网有?）",
+      "sourceRef": "comment:6a8d9a3400000000140037b2",
+      "commentId": "6a8d9a3400000000140037b2",
+      "likes": 0,
+      "author": "jivi"
+    }
+  ]
+}

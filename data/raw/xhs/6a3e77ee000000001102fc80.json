@@ -1,0 +1,661 @@
+{
+  "note_id": "6a3e77ee000000001102fc80",
+  "url": "https://www.xiaohongshu.com/explore/6a3e77ee000000001102fc80?xsec_token=ABOI81jT33vBO7T56spiGWNz306L7iSgIkQlOxKrjvXj0=",
+  "fetched_at": 1790083787.7886221,
+  "search_item": {
+    "modelType": "note",
+    "noteCard": {
+      "imageList": [
+        {
+          "height": 1512,
+          "width": 1674,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/1cbe695079b38cfb7f586dc238610877/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/860fd67497da7e7acbba228c8c4a5f5a/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/6af5820d9cbef5fdc9b08dd52c62a5d2/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222129/cffd36ad44a5cf77915f93fd4c14469a/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 956,
+          "width": 892
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-09"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "[本人招生] 计算机安全@新加坡南洋理工",
+      "user": {
+        "nickName": "Penghui",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/80/format/jpg",
+        "userId": "66ab17a2000000001d0233d8",
+        "nickname": "Penghui",
+        "xsecToken": "ABtJjiENsZSutIAsQ74A9zDCKTulagBSO1DWU8SNrCCMk="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "214",
+        "collected": false,
+        "collectedCount": "187",
+        "commentCount": "36",
+        "sharedCount": "149"
+      },
+      "cover": {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/1cbe695079b38cfb7f586dc238610877/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/860fd67497da7e7acbba228c8c4a5f5a/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nc_n_webp_prv_1",
+        "height": 1512,
+        "width": 1674
+      }
+    },
+    "xsecToken": "ABOI81jT33vBO7T56spiGWNz306L7iSgIkQlOxKrjvXj0=",
+    "id": "6a3e77ee000000001102fc80",
+    "index": 7,
+    "exposed": true,
+    "trackId": "6a3e77ee000000001102fc80"
+  },
+  "note": {
+    "atUserList": [],
+    "time": 1782478830000,
+    "lastUpdateTime": 1786249773000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a3e77ee000000001102fc80",
+    "desc": "大家好，我是 Penghui Li。我将于 2026 年秋季加入新加坡南洋理工大学计算与数据科学学院（NTU CCDS）担任 Tenure-track Assistant Professor，目前在招收博士生 (2027 春/秋季)、博士后及访问学生。我在中国科学大学和香港中文大学分别获得本科和博士学位，后在哥伦比亚大学从事博后工作。\n\t\n📌 研究方向\nAI 系统安全、软件与 Web 安全、程序分析、LLM for Security。我过去的工作曾获 ACM CCS 2024 杰出论文奖、CCS 2022 最佳论文提名、CCS 2025 杰出 Artifact 奖。\n\t\n👨‍🏫 导师 Style\n在过去的研究经历中，我有幸遇到了非常 supportive 的导师们，所以我也希望能 pass this on。我喜欢钻研技术，所以我会非常 hands-on 地和学生一起推项目，逐步帮助学生成为独立的研究者。\n\t\n💡 我期待这样的你\n- 研究热情：对安全研究有强烈兴趣，CS/Sec/AI基础扎实。\n- 工程能力：具备突出的 (vibe) coding 能力，有 CTF 或 System 相关经验。\n- 沟通能力：具备突出的英语表达能力（speaking & writing）。\n- 专业素养：工作上 professional & reliable。\n\t\n🔗 申请方式\n主页：https://peng-hui.github.io/openings.html\n欢迎感兴趣的同学直接通过主页的 Google Form 申请，期待你的加入！也欢迎对CSC联培感兴趣的同学联系！\n\t\n#博士申请[话题]# #PhD申请[话题]# #NTU[话题]# #南洋理工大学[话题]# #CS[话题]#  #软件安全[话题]# #程序分析[话题]# #AI安全[话题]# #AI[话题]# #港新留学[话题]#",
+    "interactInfo": {
+      "liked": false,
+      "collectedCount": "187",
+      "relation": "none",
+      "niceCount": "",
+      "likedCount": "214",
+      "collected": false,
+      "commentCount": "36",
+      "shareCount": "149",
+      "followed": false
+    },
+    "imageList": [
+      {
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/bffc279e21aed9ffc5c9ae8f88287161/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "fileId": "1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig",
+        "height": 1512,
+        "width": 1674,
+        "url": "",
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/d1ad24dbab3a1d3b3d5fd65acc2bd20e/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nd_prv_wgth_jpg_3"
+          },
+          {
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/bffc279e21aed9ffc5c9ae8f88287161/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nd_dft_wgth_jpg_3",
+            "imageScene": "WB_DFT"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/d1ad24dbab3a1d3b3d5fd65acc2bd20e/1040g008321sm6s94n0105plb2uh7ccuo3cjl1ig!nd_prv_wgth_jpg_3"
+      },
+      {
+        "stream": {},
+        "livePhoto": false,
+        "height": 956,
+        "width": 892,
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/709403672f3feec97cd82c1da1ccb116/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/b0c007c6336dd688166b03965c252558/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "fileId": "1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8",
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/709403672f3feec97cd82c1da1ccb116/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nd_prv_wlteh_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/b0c007c6336dd688166b03965c252558/1040g008321sm6s94n00g5plb2uh7ccuoo7ljgp8!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "tagList": [
+      {
+        "id": "5c2ca726000000000902152d",
+        "name": "博士申请",
+        "type": "topic"
+      },
+      {
+        "id": "5d735b6a000000000103bbfc",
+        "name": "PhD申请",
+        "type": "topic"
+      },
+      {
+        "name": "NTU",
+        "type": "topic",
+        "id": "5f4ea74b000000000100a473"
+      },
+      {
+        "id": "5cd317f7000000000f0390d9",
+        "name": "南洋理工大学",
+        "type": "topic"
+      },
+      {
+        "id": "5daaa91d000000000103c5a5",
+        "name": "CS",
+        "type": "topic"
+      },
+      {
+        "id": "62b5b5890000000001008c88",
+        "name": "软件安全",
+        "type": "topic"
+      },
+      {
+        "id": "638462f900000000010064e4",
+        "name": "程序分析",
+        "type": "topic"
+      },
+      {
+        "id": "63f625da00000000010087ab",
+        "name": "AI安全",
+        "type": "topic"
+      },
+      {
+        "id": "5d6b7cdb000000000103e136",
+        "name": "AI",
+        "type": "topic"
+      },
+      {
+        "id": "6111e5f2000000000101c7a2",
+        "name": "港新留学",
+        "type": "topic"
+      }
+    ],
+    "type": "normal",
+    "title": "[本人招生] 计算机安全@新加坡南洋理工",
+    "user": {
+      "xsecToken": "AB_W_P2d9JpBsAt6UDrX9RAXtQysbEaYGvG1tCKKvJTRI=",
+      "userId": "66ab17a2000000001d0233d8",
+      "nickname": "Penghui",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8"
+    },
+    "xsecToken": "ABOI81jT33vBO7T56spiGWNz306L7iSgIkQlOxKrjvXj0="
+  },
+  "comments": [
+    {
+      "id": "6a3f368800000000290261f1",
+      "noteId": "6a3e77ee000000001102fc80",
+      "showTags": [],
+      "ipLocation": "北京",
+      "subCommentHasMore": false,
+      "status": 0,
+      "userInfo": {
+        "userId": "58a478695e87e72a4895616f",
+        "nickname": "多啦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/58a478695e87e72a4895616f.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABID_8d64wMpbzaZLYB_tpKrZlordRu-GXwTCDQuFZZzQ="
+      },
+      "createTime": 1782527624000,
+      "subCommentCursor": "6a3f4030000000000500b7b6",
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "content": "鹏辉超级超级nice[赞R][赞R][赞R]",
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782530097000,
+          "ipLocation": "美国",
+          "noteId": "6a3e77ee000000001102fc80",
+          "status": 0,
+          "liked": false,
+          "targetComment": {
+            "id": "6a3f368800000000290261f1",
+            "userInfo": {
+              "userId": "58a478695e87e72a4895616f",
+              "nickname": "多啦",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/58a478695e87e72a4895616f.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABID_8d64wMpbzaZLYB_tpKrZlordRu-GXwTCDQuFZZzQ="
+            }
+          },
+          "invalid": false,
+          "id": "6a3f4030000000000500b7b6",
+          "content": "谢谢dora谢谢dora",
+          "atUsers": [],
+          "likeCount": "0"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "liked": false,
+      "subComments": [
+        {
+          "noteId": "6a3e77ee000000001102fc80",
+          "status": 0,
+          "userInfo": {
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE="
+          },
+          "invalid": false,
+          "content": "谢谢zc",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782517824000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a3ee5a4000000000b0380a2",
+            "userInfo": {
+              "userId": "5e50c4ef0000000001008963",
+              "nickname": "自然醒专家",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321qp4mqgn2005nigojng92b3k7ji76o?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABRLs2wNaFf9Ise6eqsSEbyWXLwikAIbGedDYHWZ-IFmM="
+            }
+          },
+          "id": "6a3f103f000000000b038df4"
+        }
+      ],
+      "subCommentCursor": "6a3f103f000000000b038df4",
+      "subCommentHasMore": false,
+      "id": "6a3ee5a4000000000b0380a2",
+      "likeCount": "1",
+      "createTime": 1782506917000,
+      "invalid": false,
+      "content": "penghui哥恭喜！！[大笑R]",
+      "ipLocation": "瑞士",
+      "status": 0,
+      "userInfo": {
+        "userId": "5e50c4ef0000000001008963",
+        "nickname": "自然醒专家",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321qp4mqgn2005nigojng92b3k7ji76o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABRLs2wNaFf9Ise6eqsSEbyWXLwikAIbGedDYHWZ-IFmM="
+      },
+      "showTags": [],
+      "subCommentCount": "1",
+      "noteId": "6a3e77ee000000001102fc80",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a3ea540000000002902cdc9",
+      "status": 0,
+      "content": "超好的老师大家快冲",
+      "likeCount": "2",
+      "subCommentHasMore": false,
+      "invalid": false,
+      "atUsers": [],
+      "liked": false,
+      "userInfo": {
+        "userId": "607fe74d0000000001002db4",
+        "nickname": "冰糖雪狸",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ammv0g77c005o3vst6g8bdkbeah0ug?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABfOH2kJRxRdfMdHdIrCZMXn8OOud33P0PMnD40rLYv08="
+      },
+      "createTime": 1782490433000,
+      "ipLocation": "广东",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "noteId": "6a3e77ee000000001102fc80",
+          "atUsers": [],
+          "liked": false,
+          "createTime": 1782517849000,
+          "targetComment": {
+            "id": "6a3ea540000000002902cdc9",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ammv0g77c005o3vst6g8bdkbeah0ug?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABfOH2kJRxRdfMdHdIrCZMXn8OOud33P0PMnD40rLYv08=",
+              "userId": "607fe74d0000000001002db4",
+              "nickname": "冰糖雪狸"
+            }
+          },
+          "invalid": false,
+          "id": "6a3f10580000000005014eab",
+          "status": 0,
+          "content": "谢谢狸子",
+          "likeCount": "0",
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE=",
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg"
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "美国"
+        }
+      ],
+      "subCommentCursor": "6a3f10580000000005014eab",
+      "noteId": "6a3e77ee000000001102fc80",
+      "showTags": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6a3e9ae5000000002b003a64",
+      "content": "给prof Li打call，靠谱 优秀导师[偷笑R][偷笑R] 强推",
+      "createTime": 1782487781000,
+      "subCommentCount": "1",
+      "noteId": "6a3e77ee000000001102fc80",
+      "status": 0,
+      "invalid": false,
+      "subCommentCursor": "6a3f107e000000000802df87",
+      "liked": false,
+      "likeCount": "1",
+      "userInfo": {
+        "nickname": "DMX",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABPtUcXf5QPa4qSq2IGvGwqw6AnAK9Qx4dgZyFhnmZLu8=",
+        "userId": "5ef49b14000000000100315f"
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1782517887000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a3e9ae5000000002b003a64",
+            "userInfo": {
+              "userId": "5ef49b14000000000100315f",
+              "nickname": "DMX",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/529594cd91bbf4c43608131bf9134bdc.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABPtUcXf5QPa4qSq2IGvGwqw6AnAK9Qx4dgZyFhnmZLu8="
+            }
+          },
+          "invalid": false,
+          "noteId": "6a3e77ee000000001102fc80",
+          "content": "谢谢prof[派对R]",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE=",
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg"
+          },
+          "id": "6a3f107e000000000802df87",
+          "status": 0,
+          "likeCount": "0"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCursor": "6a4a6a470000000009014f3f",
+      "subCommentHasMore": false,
+      "ipLocation": "福建",
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "id": "6a4a6a470000000009014f3f",
+          "likeCount": "0",
+          "createTime": 1783261767000,
+          "ipLocation": "美国",
+          "targetComment": {
+            "id": "6a4a69f4000000002a024a7d",
+            "userInfo": {
+              "userId": "5f2c8a66000000000101d851",
+              "nickname": "俩fish",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rraqcpkim005npch9j0bm2hp0ks9fo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABJ4jlGJLaYn9LOZXjd0Rte0A8Mn27pwTy2vs7cY9tUcM="
+            }
+          },
+          "invalid": false,
+          "noteId": "6a3e77ee000000001102fc80",
+          "status": 0,
+          "content": "欢迎联系！",
+          "atUsers": [],
+          "liked": false,
+          "userInfo": {
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE="
+          }
+        }
+      ],
+      "invalid": false,
+      "noteId": "6a3e77ee000000001102fc80",
+      "content": "本科生可以来么[哭惹R]",
+      "showTags": [],
+      "id": "6a4a69f4000000002a024a7d",
+      "status": 0,
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "ABJ4jlGJLaYn9LOZXjd0Rte0A8Mn27pwTy2vs7cY9tUcM=",
+        "userId": "5f2c8a66000000000101d851",
+        "nickname": "俩fish",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rraqcpkim005npch9j0bm2hp0ks9fo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1783261684000,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "status": 0,
+      "content": "无敌的李院士",
+      "atUsers": [],
+      "ipLocation": "浙江",
+      "subCommentCount": "0",
+      "noteId": "6a3e77ee000000001102fc80",
+      "id": "6a3f43d90000000015013150",
+      "likeCount": "1",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323i4mb49nk005pisjaohou7i69pesmg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABCxF1RnVEkaXm29-zSBdZN0GoJfs1LpdpW9FRrh_eMHE=",
+        "userId": "665c9ab100000000070078f2",
+        "nickname": "爱涵"
+      },
+      "createTime": 1782531033000,
+      "invalid": false,
+      "liked": false,
+      "showTags": [],
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "66288bb0000000000303356b",
+        "nickname": "小红薯6629444A",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABhRb7buNBV6Kcf3GzQDEOR1A6IyzO5XIDLJuQhqjLJU8="
+      },
+      "createTime": 1782481546000,
+      "content": "拿到了NAP吗[偷笑R]",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentHasMore": false,
+      "id": "6a3e8289000000000d023c06",
+      "ipLocation": "新加坡",
+      "subCommentCursor": "",
+      "invalid": false,
+      "noteId": "6a3e77ee000000001102fc80",
+      "status": 0,
+      "atUsers": [],
+      "likeCount": "1",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "liked": false,
+      "userInfo": {
+        "userId": "6431a485000000000d019539",
+        "nickname": "小狼崽想看极光🌠",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31okni16906005p1hki2jb59ph397bi0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AByPgHtaeDe2LtPxUbZtmdAcTWaKt_IuGpquyt_K-inDw="
+      },
+      "createTime": 1782488424000,
+      "subCommentHasMore": false,
+      "atUsers": [],
+      "likeCount": "1",
+      "ipLocation": "广东",
+      "invalid": false,
+      "noteId": "6a3e77ee000000001102fc80",
+      "subCommentCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "content": "老师，本科生可以来做科研吗",
+      "showTags": [],
+      "id": "6a3e9d68000000002903696e",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB3OV2Fnt2WopvyVrwSyxDJRZZtWczv6iEYSNtDLhJfI4=",
+        "userId": "6677886c0000000003033da5",
+        "nickname": "豆饭饱饱",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k36fc8134705pjnh1m0ufd5arrdcdo?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "createTime": 1782529612000,
+      "noteId": "6a3e77ee000000001102fc80",
+      "status": 0,
+      "ipLocation": "美国",
+      "subCommentHasMore": false,
+      "id": "6a3f3e4c000000000d021800",
+      "liked": false,
+      "subCommentCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "content": "是老师本人吗？[doge]",
+      "likeCount": "1",
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "liked": false,
+      "likeCount": "0",
+      "subCommentCount": "1",
+      "subCommentCursor": "6a7d5b6c000000000703b24e",
+      "subCommentHasMore": false,
+      "id": "6a7d2a1100000000140167da",
+      "atUsers": [],
+      "userInfo": {
+        "nickname": "有用心",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30u5hitsnl6005na28dlk79rib9788f8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABc61wzyt4Iguk6c8budBvj7E2jTffqaXc_SmCA99NTRE=",
+        "userId": "5d42436b000000001003a772"
+      },
+      "content": "老师好 我是今年ccds学院网络安全的新生您收ra嘛[飞吻R][飞吻R]",
+      "showTags": [],
+      "createTime": 1786587665000,
+      "ipLocation": "新加坡",
+      "noteId": "6a3e77ee000000001102fc80",
+      "status": 0,
+      "subComments": [
+        {
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "userId": "66ab17a2000000001d0233d8",
+            "nickname": "Penghui",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE="
+          },
+          "noteId": "6a3e77ee000000001102fc80",
+          "content": "欢迎申请！",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1786600300000,
+          "ipLocation": "湖南",
+          "targetComment": {
+            "id": "6a7d2a1100000000140167da",
+            "userInfo": {
+              "userId": "5d42436b000000001003a772",
+              "nickname": "有用心",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30u5hitsnl6005na28dlk79rib9788f8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABc61wzyt4Iguk6c8budBvj7E2jTffqaXc_SmCA99NTRE="
+            }
+          },
+          "invalid": false,
+          "id": "6a7d5b6c000000000703b24e",
+          "status": 0
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 怎么样"
+}

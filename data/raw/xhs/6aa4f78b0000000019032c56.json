@@ -1,0 +1,469 @@
+{
+  "note_id": "6aa4f78b0000000019032c56",
+  "url": "https://www.xiaohongshu.com/explore/6aa4f78b0000000019032c56?xsec_token=ABwVR_LnmVzHeOrnLavafFxS9SmfIF2-LaMpmEVnJnL1U=",
+  "fetched_at": 1790081945.216244,
+  "search_item": {
+    "id": "6aa4f78b0000000019032c56",
+    "modelType": "note",
+    "noteCard": {
+      "cover": {
+        "height": 3072,
+        "width": 4096,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222058/fedf643576f207db3f5c8dd0ed9a0913/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222058/f1dfe44a2801a3eebfa05b68d937c980/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 3072,
+          "width": 4096,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222058/fedf643576f207db3f5c8dd0ed9a0913/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222058/f1dfe44a2801a3eebfa05b68d937c980/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nc_n_webp_prv_1"
+            }
+          ]
+        },
+        {
+          "width": 4096,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222058/29d7b1cb843f733e30cd078e06c6c419/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222058/28e50a0c316e466616e8fdecda231e7a/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nc_n_webp_prv_1"
+            }
+          ],
+          "height": 3072
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "09-12"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "CityuHK PhD",
+      "user": {
+        "nickName": "猫喜欢吃辣～",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32383723t7o5g5pn72h57e6d2lshqfqg?imageView2/2/w/80/format/jpg",
+        "userId": "66e7144a000000001d0319a2",
+        "nickname": "猫喜欢吃辣～",
+        "xsecToken": "AB1o6aRaVyc1tjEwSMXyqIWuoHz6oKI-iUSXbUREYdV1Q="
+      },
+      "interactInfo": {
+        "collectedCount": "43",
+        "commentCount": "30",
+        "sharedCount": "35",
+        "liked": false,
+        "likedCount": "117",
+        "collected": false
+      }
+    },
+    "xsecToken": "ABwVR_LnmVzHeOrnLavafFxS9SmfIF2-LaMpmEVnJnL1U=",
+    "index": 17,
+    "exposed": false,
+    "trackId": "6aa4f78b0000000019032c56"
+  },
+  "note": {
+    "user": {
+      "userId": "66e7144a000000001d0319a2",
+      "nickname": "猫喜欢吃辣～",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo32383723t7o5g5pn72h57e6d2lshqfqg",
+      "xsecToken": "ABcCEyPPqAz2HRKQkMQbxFaSJWFCNY831pntH1lgwp3gY="
+    },
+    "interactInfo": {
+      "commentCount": "30",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "likedCount": "117",
+      "collectedCount": "43",
+      "shareCount": "35",
+      "relation": "none",
+      "collected": false
+    },
+    "imageList": [
+      {
+        "width": 4096,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/34678662b9f32dc3102804ca54283a16/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nd_dft_wgth_jpg_3",
+        "fileId": "notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g",
+        "height": 3072,
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/51dd943a13cd7f0a1e27a18d2d3a10cc/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/34678662b9f32dc3102804ca54283a16/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/51dd943a13cd7f0a1e27a18d2d3a10cc/notes_uhdr/1040g3qo3250pdm4g3gdg5pn72h57e6d24dcsl4g!nd_prv_wgth_jpg_3",
+        "stream": {},
+        "livePhoto": false
+      },
+      {
+        "stream": {},
+        "url": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/72aff6305f4e0a17d17c58943416e67f/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222059/e358f9de5d915f6585daa4884998bf20/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "livePhoto": false,
+        "fileId": "notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8",
+        "height": 3072,
+        "width": 4096,
+        "traceId": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/72aff6305f4e0a17d17c58943416e67f/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nd_prv_wgth_jpg_3",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/e358f9de5d915f6585daa4884998bf20/notes_uhdr/1040g3qo3250pdm4g3ga05pn72h57e6d233ktii8!nd_dft_wgth_jpg_3"
+      }
+    ],
+    "atUserList": [],
+    "tagList": [
+      {
+        "id": "5dfb889600000000010090be",
+        "name": "PhD",
+        "type": "topic"
+      }
+    ],
+    "time": 1789196171000,
+    "lastUpdateTime": 1789197102000,
+    "ipLocation": "中国香港",
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6aa4f78b0000000019032c56",
+    "type": "normal",
+    "title": "CityuHK PhD",
+    "desc": "城大的教育资源我觉得是真不错，还可以去剑桥/牛津/MIT访学，除了学费奖金外还额外给10000港币一个月的津贴进行支持在当地生活#PhD[话题]#",
+    "xsecToken": "ABwVR_LnmVzHeOrnLavafFxS9SmfIF2-LaMpmEVnJnL1U="
+  },
+  "comments": [
+    {
+      "status": 0,
+      "likeCount": "33",
+      "showTags": [],
+      "pictures": [],
+      "invalid": false,
+      "content": "10000港币一个月的津贴我怎么见都没见过",
+      "ipLocation": "广东",
+      "subComments": [
+        {
+          "pictures": [],
+          "invalid": false,
+          "status": 0,
+          "content": "点了 毕业了都没见到",
+          "liked": false,
+          "likeCount": "13",
+          "createTime": 1789204581000,
+          "ipLocation": "广东",
+          "id": "6aa518650000000014039e9e",
+          "noteId": "6aa4f78b0000000019032c56",
+          "atUsers": [],
+          "userInfo": {
+            "xsecToken": "AB0ZOKec9EkdCHFCEtMFdVpc7MSGOKZ1xdLV8-_mZlU28=",
+            "userId": "54e945a6d39ea222585032b6",
+            "nickname": "momo",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/63eb285f205a418832fd7dbb.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "showTags": [],
+          "targetComment": {
+            "id": "6aa5004800000000150210c8",
+            "userInfo": {
+              "userId": "5e49f14f00000000010053d7",
+              "nickname": "黄小白💭夫斯基",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3233c00m0g2005ni9u57g8kundflaqeo?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABbtqeyLpSG8el7hAc2VtXC6mO_HbMyTdUvEA8moZ4DOs="
+            }
+          }
+        }
+      ],
+      "subCommentCursor": "6aa518650000000014039e9e",
+      "subCommentHasMore": true,
+      "id": "6aa5004800000000150210c8",
+      "atUsers": [],
+      "createTime": 1789198409000,
+      "subCommentCount": "18",
+      "noteId": "6aa4f78b0000000019032c56",
+      "liked": false,
+      "userInfo": {
+        "userId": "5e49f14f00000000010053d7",
+        "nickname": "黄小白💭夫斯基",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3233c00m0g2005ni9u57g8kundflaqeo?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABbtqeyLpSG8el7hAc2VtXC6mO_HbMyTdUvEA8moZ4DOs="
+      },
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6aa52db2000000001501608a",
+      "subCommentCursor": "6aa541c20000000014039cbf",
+      "noteId": "6aa4f78b0000000019032c56",
+      "status": 0,
+      "createTime": 1789210039000,
+      "subCommentHasMore": true,
+      "content": "从来没见过哪个学校和别人合作把别人的logo印得比自己还大的，我City也是狠狠的蹭上了[哇R]（好吧可能本科确实有点东西",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "中国香港",
+      "invalid": false,
+      "atUsers": [],
+      "likeCount": "34",
+      "userInfo": {
+        "nickname": "Arturium",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vphjsme62005oq86n365j9vs3j4ij0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABE9sZLLldHbZphUeE3So6Nt1T70igTyoK57SDO-VW6Ck=",
+        "userId": "634835c6000000001802cd3f"
+      },
+      "subCommentCount": "4",
+      "subComments": [
+        {
+          "atUsers": [
+            {
+              "userId": "5b7d12ef6b58b7103ed1a974",
+              "nickname": "橘子猫猫",
+              "aiAgent": false,
+              "xsecToken": "AB3RJFnbcFiF65I8aVjzdL6TQ0I6RbF5QTBymjhXs5J-E="
+            }
+          ],
+          "liked": false,
+          "likeCount": "1",
+          "showTags": [],
+          "userInfo": {
+            "xsecToken": "ABNfXEu5FkwsfQRcNncmDYG9nwVIia-Tg1C48sVIkbEj4=",
+            "userId": "5f4a68940000000001000e0a",
+            "nickname": "橙子猫猫",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31iqn005d1g6g5nqad2a083gam5nqbgo?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "createTime": 1789215171000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6aa52db2000000001501608a",
+            "userInfo": {
+              "userId": "634835c6000000001802cd3f",
+              "nickname": "Arturium",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30vphjsme62005oq86n365j9vs3j4ij0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABE9sZLLldHbZphUeE3So6Nt1T70igTyoK57SDO-VW6Ck="
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "6aa541c20000000014039cbf",
+          "noteId": "6aa4f78b0000000019032c56",
+          "status": 0,
+          "content": "@橘子猫猫"
+        }
+      ],
+      "pictures": [
+        {
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/ac643f28b3644a47dc871e6f184a1b7b/comment/1040g2h0325102b6n3c0g5oq86n365j9v6ntdcs8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/d9e8c1cd3abb9b90d86aa195cab6cf54/comment/1040g2h0325102b6n3c0g5oq86n365j9v6ntdcs8!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "height": 1920,
+          "width": 2560,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/ac643f28b3644a47dc871e6f184a1b7b/comment/1040g2h0325102b6n3c0g5oq86n365j9v6ntdcs8!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/d9e8c1cd3abb9b90d86aa195cab6cf54/comment/1040g2h0325102b6n3c0g5oq86n365j9v6ntdcs8!nd_whlt34_webp_wm_1"
+        },
+        {
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/e0ae479e5c8f07d879ee4cf0022a3215/comment/1040g2h0325102b6n3c005oq86n365j9v9ssc1h8!nd_whlt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/36e1c937c4a30d92ac3e020e606b04db/comment/1040g2h0325102b6n3c005oq86n365j9v9ssc1h8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/e0ae479e5c8f07d879ee4cf0022a3215/comment/1040g2h0325102b6n3c005oq86n365j9v9ssc1h8!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "height": 1920,
+          "width": 2560,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/36e1c937c4a30d92ac3e020e606b04db/comment/1040g2h0325102b6n3c005oq86n365j9v9ssc1h8!nc_n_webp_mw_1"
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "noteId": "6aa4f78b0000000019032c56",
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB5CiNq4IMDSClrutDMOUqtQs6Wmgby6Uh9yh5n-_vbc8=",
+        "userId": "632194cc0000000023026a42",
+        "nickname": "小红薯6322C6C3"
+      },
+      "ipLocation": "天津",
+      "subCommentCount": "0",
+      "subComments": [],
+      "atUsers": [],
+      "liked": false,
+      "createTime": 1789273500000,
+      "subCommentCursor": "",
+      "invalid": false,
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "6aa6259c000000000f02f8cf",
+      "content": "这是什么，入学讲座还是夏令营?",
+      "likeCount": "0",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "userId": "5d86dba800000000010192fd",
+        "nickname": "杨树叶🌿哗啦啦",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo324kd7dvf725g5nc6rek0b4nt37l1vc0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABQFSn3ktQ9NVPh0bHCgKVP8sRNEDc-OQB1wxdeUOtBPI="
+      },
+      "subCommentHasMore": false,
+      "pictures": [],
+      "subCommentCursor": "",
+      "id": "6aa78c5e000000001402fceb",
+      "content": "请问除了本科phd有合作吗",
+      "atUsers": [],
+      "liked": false,
+      "invalid": false,
+      "status": 0,
+      "showTags": [],
+      "createTime": 1789365342000,
+      "subComments": [],
+      "noteId": "6aa4f78b0000000019032c56",
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subCommentCount": "0",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "6aa566e9000000000b015b87",
+      "noteId": "6aa4f78b0000000019032c56",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31r04fuh16u005o64k19g8piedd3g2ig?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABUuwPWwR_dNI-8t3654Co52k2Te9tm49hIJmSDWNjJMQ=",
+        "userId": "60c4a053000000000100664e",
+        "nickname": "正直的小熊猫"
+      },
+      "subCommentHasMore": false,
+      "pictures": [],
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "invalid": false,
+      "ipLocation": "广东",
+      "subCommentCount": "0",
+      "subComments": [],
+      "status": 0,
+      "content": "up to",
+      "atUsers": [],
+      "showTags": [],
+      "createTime": 1789224682000,
+      "liked": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "dvp的那个意思是人家教授过来合作而不是过去访学吧[doge]感觉就是个虚饼",
+      "atUsers": [],
+      "invalid": false,
+      "id": "6aa4ffbe000000001500f371",
+      "noteId": "6aa4f78b0000000019032c56",
+      "likeCount": "11",
+      "showTags": [],
+      "subComments": [],
+      "subCommentHasMore": false,
+      "liked": false,
+      "userInfo": {
+        "xsecToken": "ABSJnU7-RZcOpBytcxW9Uzadd6v6WvS4Ft1yYwMBd97ws=",
+        "userId": "65b28fc1000000001302b8cd",
+        "nickname": "Amamiya_Yo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo323g8fppcnk005pdihv0kte6dcds6klg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "pictures": [],
+      "createTime": 1789198271000,
+      "subCommentCount": "0",
+      "status": 0,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "都是饼，你敢相信这***的学校去韩国开一周会酒店就给1k预算住青旅都不够…[偷笑R]",
+      "atUsers": [],
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "AB6WzhynCHsm0mNSMzvE1f_eupRAibeieIfJ19xJtsdZE=",
+        "userId": "5b5af22b4eacab69068b50de",
+        "nickname": "太平洋鳗鱼",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j11kich1c004a7itmp2mk6u5a5fj58?imageView2/2/w/120/format/jpg"
+      },
+      "showTags": [],
+      "subCommentHasMore": false,
+      "id": "6aa53c63000000000d021c01",
+      "status": -2,
+      "noteId": "6aa4f78b0000000019032c56",
+      "likeCount": "23",
+      "createTime": 1789213797000,
+      "ipLocation": "广东",
+      "subComments": [],
+      "subCommentCursor": "",
+      "invalid": false,
+      "liked": false,
+      "subCommentCount": "0",
+      "pictures": [
+        {
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222059/dd3cacce14ee388d3c204a4b02b8d326/oss-sg/comment/1040g3no32511nftl2s0g4a7itmp2mk6urdtmkdg!nd_whlt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/4257160c4a6a20b68b68b9ba06ad8f11/oss-sg/comment/1040g3no32511nftl2s0g4a7itmp2mk6urdtmkdg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222059/dd3cacce14ee388d3c204a4b02b8d326/oss-sg/comment/1040g3no32511nftl2s0g4a7itmp2mk6urdtmkdg!nd_whlt34_webp_wm_1"
+            }
+          ],
+          "height": 496,
+          "width": 1173,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222059/4257160c4a6a20b68b68b9ba06ad8f11/oss-sg/comment/1040g3no32511nftl2s0g4a7itmp2mk6urdtmkdg!nc_n_webp_mw_1"
+        }
+      ],
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5286 CityU"
+}

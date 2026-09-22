@@ -1,0 +1,82 @@
+{
+  "note_id": "6954d41d000000001f00b361",
+  "url": "https://www.xiaohongshu.com/explore/6954d41d000000001f00b361?xsec_token=ABd22BJDeS9kS41ur14rm1_kvkMh3yu35ao-pUa9PVaaw=",
+  "fetched_at": 1790084284.1930752,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "HKUST MSc IT Sem 1 测评",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "CSIT5100 Engineering Reliable Software Systems\n课程主要学习软件测试（Prime Path，覆盖率这些），也有一些UML相关的内容。作业占15%。前两个月写编程作业，先给TA写的程序生成随机测试，后手写测试提高覆盖率；最后一个月的内容就是写一个论文的阅读报告，相互提问题并打分，总体来说workload偏小。没有期中考，期末开卷不限纸张数，占65%，多选题几乎跟平时课程关系不大，要选的话建议额外了解一下JUnit框架。\n\t\nCSIT5210 Data Mining and Knowledge Discovery\n我的课程中workload第一大，绝大部分workload都由小组Project（占比30%）构成。老师给了三个选项：Survey, Implementation跟Research，分别只能拿80%，90%和100%的分数。我们选择的是implementation，需要手写代码重头实现一个前沿论文，workload极大。作业一共3次，拢共占比30%，难度适中，建议上完课就做。上课回答问题可以拿coupon抵整道大题的分。期末考开卷限一张A4纸，比想象中困难。Workload极大，慎选。\n\t\nCSIT5500 Advanced Algorithms\n在本科学习的算法基础上再拓展了很多前沿领域的算法。平时作业一共四个，占比48%，难度较高，需要预留一周时间完成，可以去leetcode上找类似的题目来辅助一下。考试有期中（22%）跟期末（40%）两个，均完全闭卷，期中比较难，需要在两个小时内在学过的基础上根据需求改良一些算法。期末比较简单，重在概念理解与动态规划， 平时听了课的话用两天复习一下即可。\n\t\nCSIT5610 Computer Networks\n本科学过硕士来复习一下。课程有两个作业，一共占比40%多，答题都必须要用打字的以方便查重，有时会涉及wireshark部分，只要认真做了给分就会很高。老师讲课比较慢，到学期末会赶进度，不要忽略没来得及上课后补的部分。试有期中（20%多）跟期末（30%多），开卷仅限PPT且不允许有笔记。期中比较难，需要对TCP协议有充分的理解，还涉及一些数学推导。期末比较简单，主要考察IP层跟数据链路层的原理跟算法，只要复习通读一遍ppt就不会差。\n\t\nCSIT5910 Machine Learning\nworkload较大，平时每周都会有一个编程作业来实现一个模型或算法，每两周会有一个手写作业。手写作业必须用打字的以方便查重，我个人推荐可以趁这个机会练习一下LaTeX。课程覆盖面很广，有很多原理推导，比较硬核，课下认真琢磨的话能学到很多。 没有期中考，没有Project，期末占64%，但是考的很简单，开卷允许带4面cheatsheet，期末考好了拿高分基本没问题。\n#hkust[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "话说5210这课小组可以solo吗 需要pre不",
+      "sourceRef": "comment:6954dfe1000000000f01d9fd",
+      "commentId": "6954dfe1000000000f01d9fd",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "可以solo，但是5个人的workload就会集中在一个人身上。需要pre的",
+      "sourceRef": "comment:6954e01c000000000f02b15e",
+      "commentId": "6954e01c000000000f02b15e",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "请问科大msc的成绩会卡正态或者优秀率吗",
+      "sourceRef": "comment:6954e714000000001702c042",
+      "commentId": "6954e714000000001702c042",
+      "likes": 0,
+      "author": "gmlab"
+    },
+    {
+      "type": "sub_comment",
+      "text": "没听说过呢",
+      "sourceRef": "comment:6954e9440000000018021077",
+      "commentId": "6954e9440000000018021077",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "勇士 三门workload最大的一起",
+      "sourceRef": "comment:6954fb06000000001600fba8",
+      "commentId": "6954fb06000000001600fba8",
+      "likes": 1,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[哭惹R]再也不了",
+      "sourceRef": "comment:69571432000000001d0098fe",
+      "commentId": "69571432000000001d0098fe",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "comment",
+      "text": "那uu5100多选题考什么[捂脸R][捂脸R]和课程关系不大",
+      "sourceRef": "comment:6a9ea3050000000015010fb7",
+      "commentId": "6a9ea3050000000015010fb7",
+      "likes": 0,
+      "author": "一只魔法小揪"
+    },
+    {
+      "type": "comment",
+      "text": "woc好高的gpa[吧唧R][吧唧R][吧唧R]",
+      "sourceRef": "comment:69577b45000000001403fda1",
+      "commentId": "69577b45000000001403fda1",
+      "likes": 0,
+      "author": "就先这样"
+    }
+  ]
+}

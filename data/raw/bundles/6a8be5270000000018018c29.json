@@ -1,0 +1,34 @@
+{
+  "note_id": "6a8be5270000000018018c29",
+  "url": "https://www.xiaohongshu.com/explore/6a8be5270000000018018c29?xsec_token=ABxnSxgLeHlRMu1-Ttor4fO3L0mls60YtBjEjG-XlavY4=",
+  "fetched_at": 1790084454.9241972,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "CS50P Libraries太有趣了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "这一节的 problem sets 真的很有趣，每道题都有具体情境。不会做的时候会纳闷、卡住，也会觉得枯燥，但跑通的那一刻又特别有成就感。不得不佩服 CS50P 团队：难度没有特别大，却能让人一步步感受到 Python 库的强大。\n\t\n这次碰到了 sys、random、pyfiglet、inflect、requests……以前总觉得写程序什么都要自己造，学到 libraries 才发现，很多成熟能力已经有人封装好了，关键是学会找到并正确使用它们。\n\t\n最痛苦、但也最有提升的部分，是查官方文档。每个 hint 都会挂链接，可刚开始查的时候，参数、返回值和示例总有点不好找。慢慢才意识到，真正要练的不是背 API，而是遇到问题时能从文档里把答案挖出来。\n\t\nHTTP 和 requests 的部分也很有意思。课程里演示访问 API、发出 request，再读取返回的 JSON。自己写 iTunes 搜索和 Bitcoin Price Index，看着程序真的从网络拿回数据，Python 一下子从“本地做题”变成了“和真实世界的服务对话”。\n\t\n继续学下去📚🐍\n\t\n#CS50P[话题]# #Python学习[话题]# #Python库[话题]# #编程学习[话题]# #自学编程[话题]# #HarvardCS50[话题]# #学习记录[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "这期是 codex 发的",
+      "sourceRef": "comment:6a8be5f10000000014001ec6",
+      "commentId": "6a8be5f10000000014001ec6",
+      "likes": 0,
+      "author": "航博sir"
+    },
+    {
+      "type": "sub_comment",
+      "text": "ai 味太浓了[笑哭R]",
+      "sourceRef": "comment:6a8be71600000000150080bb",
+      "commentId": "6a8be71600000000150080bb",
+      "likes": 0,
+      "author": "航博sir"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "note_id": "6a7a83d80000000005031a8a",
+  "url": "https://www.xiaohongshu.com/explore/6a7a83d80000000005031a8a?xsec_token=ABA6TrE4Z_IgonrRXUJS_1DoLnbksn21jBtWvavyFeyRM=",
+  "fetched_at": 1790081878.3125527,
+  "course_codes": [
+    "CS4248",
+    "CS5234",
+    "CS5242",
+    "CS5340",
+    "CS5446"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "NUS MCOMP选课求助",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "第一学期选中了五门课\nCS4248 Introduction to Large Language Model - NG Hwee Tou\nCS5234 Algorithms at Scale - Chen Yu\nCS5242 Neural Networks and Deep Learning - Yang YOU, Kenji KAWAGUCHI\nCS5340 Uncertainty Modelling in AI - LEE Gim Hee\nCS5446 Reinforcement Learning and Sequential Decision Making - LEONG Tze Yun\n感觉有点多，纠结是否退一门，以及退哪门比较好，求建议\n#选课[话题]# #NUS[话题]# #计算机科学[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "5234课友[派对R]",
+      "sourceRef": "comment:6a7c77ae000000002a02cf27",
+      "commentId": "6a7c77ae000000002a02cf27",
+      "likes": 1,
+      "author": "Opsimath"
+    },
+    {
+      "type": "comment",
+      "text": "4248 可以留到 chris 老师教的时候再学[偷笑R] （ex TA在此）",
+      "sourceRef": "comment:6a7bdbcb00000000140236df",
+      "commentId": "6a7bdbcb00000000140236df",
+      "likes": 0,
+      "author": "长太高会腰疼"
+    },
+    {
+      "type": "sub_comment",
+      "text": "怎么说？课程内容和给分会好一些么？[暗中观察R]",
+      "sourceRef": "comment:6a7c0d9a0000000014009ec8",
+      "commentId": "6a7c0d9a0000000014009ec8",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "comment",
+      "text": "4248是门硬课",
+      "sourceRef": "comment:6a7bd924000000002901b69c",
+      "commentId": "6a7bd924000000002901b69c",
+      "likes": 0,
+      "author": "momo"
+    },
+    {
+      "type": "sub_comment",
+      "text": "是作业多吗？还是内容硬核呢？",
+      "sourceRef": "comment:6a7bdf1c0000000014021e55",
+      "commentId": "6a7bdf1c0000000014021e55",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "comment",
+      "text": "5242好课可以留",
+      "sourceRef": "comment:6a7b109a0000000014015c23",
+      "commentId": "6a7b109a0000000014015c23",
+      "likes": 0,
+      "author": "团胖胖团"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好滴，感谢🙏",
+      "sourceRef": "comment:6a7b169a0000000010012b2e",
+      "commentId": "6a7b169a0000000010012b2e",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "comment",
+      "text": "感觉可退",
+      "sourceRef": "comment:6a7a8d810000000029026b3d",
+      "commentId": "6a7a8d810000000029026b3d",
+      "likes": 1,
+      "author": "草莓蛋挞🍓"
+    },
+    {
+      "type": "sub_comment",
+      "text": "退哪门有推荐么[皱眉R]",
+      "sourceRef": "comment:6a7a94ab00000000140235d0",
+      "commentId": "6a7a94ab00000000140235d0",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "comment",
+      "text": "5234&5340课友诶[派对R][派对R]",
+      "sourceRef": "comment:6a8542b6000000000a01ea9b",
+      "commentId": "6a8542b6000000000a01ea9b",
+      "likes": 0,
+      "author": "Apocalypse"
+    },
+    {
+      "type": "sub_comment",
+      "text": "好诶[派对R]",
+      "sourceRef": "comment:6a854b0d0000000002011d15",
+      "commentId": "6a854b0d0000000002011d15",
+      "likes": 0,
+      "author": "lyanna"
+    },
+    {
+      "type": "comment",
+      "text": "太狠了，感觉wkld大大的有",
+      "sourceRef": "comment:6a7a95180000000010010f1b",
+      "commentId": "6a7a95180000000010010f1b",
+      "likes": 0,
+      "author": "今天早睡了吗"
+    },
+    {
+      "type": "sub_comment",
+      "text": "[呃R]那还是退一门好了",
+      "sourceRef": "comment:6a7a955400000000140144e6",
+      "commentId": "6a7a955400000000140144e6",
+      "likes": 0,
+      "author": "lyanna"
+    }
+  ]
+}

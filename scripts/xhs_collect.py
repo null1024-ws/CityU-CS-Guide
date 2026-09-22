@@ -64,6 +64,35 @@ def run_xhs(args: list[str], timeout: int = 240) -> dict | list | None:
         return {"_error": "fetch_failed", "message": "timeout"}
 
 
+def note_publish_ts(note_id: str) -> int:
+    """Xiaohongshu note ids begin with an 8-digit hex unix timestamp."""
+    head = note_id.split("#", 1)[0]
+    if len(head) < 24 or not all(c in "0123456789abcdefABCDEF" for c in head[:8]):
+        return 0
+    try:
+        return int(head[:8], 16)
+    except ValueError:
+        return 0
+
+
+def is_note_item(item: dict) -> bool:
+    """Search feeds also include hot-query cards, which are not notes."""
+    model = str(item.get("model_type") or item.get("modelType") or "").lower()
+    if model and model != "note":
+        return False
+    note_id = note_id_from_item(item) or ""
+    return len(note_id) == 24 and all(c in "0123456789abcdef" for c in note_id)
+
+
+def sort_items_by_recency(items: list[dict]) -> list[dict]:
+    """Prefer newer posts. Course details change during a term, so recent notes are more useful."""
+    return sorted(
+        items,
+        key=lambda item: note_publish_ts(note_id_from_item(item) or ""),
+        reverse=True,
+    )
+
+
 def note_id_from_item(item: dict) -> str | None:
     for key in ("id", "note_id", "noteId"):
         if item.get(key):
@@ -206,11 +235,16 @@ def collect_search(query: str, index: dict, max_notes: int, max_pages: int = 1) 
     seen_ids: set[str] = set()
     deduped: list[dict] = []
     for item in items:
+        if not is_note_item(item):
+            continue
         nid = note_id_from_item(item)
         if nid and nid not in seen_ids:
             seen_ids.add(nid)
             deduped.append(item)
-    items = deduped
+    items = sort_items_by_recency(deduped)
+    if items:
+        newest = note_id_from_item(items[0]) or ""
+        print(f"  ranked {len(items)} results by publish time (newest {newest[:8]})")
     new_count = 0
     cross_refs = 0
 

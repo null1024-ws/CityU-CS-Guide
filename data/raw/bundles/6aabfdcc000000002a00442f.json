@@ -1,0 +1,34 @@
+{
+  "note_id": "6aabfdcc000000002a00442f",
+  "url": "https://www.xiaohongshu.com/explore/6aabfdcc000000002a00442f?xsec_token=AB2RzKNYhnlwCRhCzmHgJyAmiQw6pLFSn4Bq1D1AiaaUI=",
+  "fetched_at": 1790083676.3079097,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "捞捞队友一起做assignment",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "#香港城市大学[话题]# #计算机科学[话题]# #留学生作业[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "还需要吗",
+      "sourceRef": "comment:6aae0ceb00000000150149c1",
+      "commentId": "6aae0ceb00000000150149c1",
+      "likes": 0,
+      "author": "烨苛"
+    },
+    {
+      "type": "sub_comment",
+      "text": "要一起做assignment吗[微笑R]",
+      "sourceRef": "comment:6aae54f100000000150225d8",
+      "commentId": "6aae54f100000000150225d8",
+      "likes": 0,
+      "author": "繁"
+    }
+  ]
+}

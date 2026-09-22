@@ -1,0 +1,37 @@
+{
+  "note_id": "6a99843b0000000026039ac8",
+  "url": "https://www.xiaohongshu.com/explore/6a99843b0000000026039ac8?xsec_token=ABS2_pxAsl7UNjg3kgJRiXVUlg8ONJRakuiYMqBKsgh1g=",
+  "fetched_at": 1790080974.300986,
+  "course_codes": [
+    "CS5187",
+    "EC5001"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "cityu cs這個課表還可以優化嗎現在",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "感覺5486有點難 EC5001和cs5187都滿了",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "6480课程要求咋样",
+      "sourceRef": "comment:6a9bc37c000000000b016a05",
+      "commentId": "6a9bc37c000000000b016a05",
+      "likes": 1,
+      "author": "织雪藏星"
+    },
+    {
+      "type": "comment",
+      "text": "最好是三天",
+      "sourceRef": "comment:6a99890d000000001501747f",
+      "commentId": "6a99890d000000001501747f",
+      "likes": 1,
+      "author": "临时抱佛脚"
+    }
+  ]
+}

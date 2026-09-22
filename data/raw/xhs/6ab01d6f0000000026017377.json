@@ -1,0 +1,256 @@
+{
+  "note_id": "6ab01d6f0000000026017377",
+  "url": "https://www.xiaohongshu.com/explore/6ab01d6f0000000026017377?xsec_token=ABu0-lI3WCrUVkHokYlLLEKFAlUEZZSGw4OdxvAxA_l8U=",
+  "fetched_at": 1790083591.3545403,
+  "search_item": {
+    "noteCard": {
+      "cover": {
+        "height": 1600,
+        "width": 1200,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222126/ba6144cb07d2c4fafd8fb44571f288d4/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222126/89855a76a9d5e71c42037d4863b90113/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1600,
+          "width": 1200,
+          "infoList": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222126/ba6144cb07d2c4fafd8fb44571f288d4/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nc_n_webp_mw_1",
+              "imageScene": "WB_DFT"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222126/89855a76a9d5e71c42037d4863b90113/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "1天前"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "捞人！帮我顶顶！",
+      "user": {
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/80/format/jpg",
+        "userId": "62a427be00000000190292fa",
+        "nickname": "一只小猫想你",
+        "xsecToken": "ABKqiMDtfaMBa2kEapGo56BuBoyeQc4wQppmSsFncOmYs=",
+        "nickName": "一只小猫想你"
+      },
+      "interactInfo": {
+        "collected": false,
+        "collectedCount": "2",
+        "commentCount": "4",
+        "sharedCount": "9",
+        "liked": false,
+        "likedCount": "3"
+      }
+    },
+    "xsecToken": "ABu0-lI3WCrUVkHokYlLLEKFAlUEZZSGw4OdxvAxA_l8U=",
+    "id": "6ab01d6f0000000026017377",
+    "modelType": "note",
+    "index": 36,
+    "exposed": false,
+    "trackId": "6ab01d6f0000000026017377"
+  },
+  "note": {
+    "type": "normal",
+    "title": "捞人！帮我顶顶！",
+    "interactInfo": {
+      "likedCount": "3",
+      "collectedCount": "2",
+      "commentCount": "4",
+      "shareCount": "9",
+      "followed": false,
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "relation": "none"
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222126/cb3feb4c26b22cf56112d8dcd6760226/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222126/833b9380ad369ef3e2f9e8d44ceda66c/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222126/cb3feb4c26b22cf56112d8dcd6760226/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nd_prv_wlteh_jpg_3",
+        "livePhoto": false,
+        "fileId": "notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo",
+        "height": 1600,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222126/833b9380ad369ef3e2f9e8d44ceda66c/notes_pre_post/1040g3k0325blmi774k005ol44uv6d4nq54engeo!nd_dft_wlteh_jpg_3",
+        "stream": {},
+        "width": 1200,
+        "url": ""
+      }
+    ],
+    "tagList": [
+      {
+        "id": "53f867e6b4c4d66e263343a6",
+        "name": "中秋节",
+        "type": "topic"
+      },
+      {
+        "id": "5d7389d80000000002000acd",
+        "name": "中秋活动",
+        "type": "topic"
+      },
+      {
+        "id": "68ff8d380000000025038a6d",
+        "name": "城大CSSAUG",
+        "type": "topic"
+      },
+      {
+        "id": "6ab01d53000000002302b68a",
+        "name": "城大CSAA",
+        "type": "topic"
+      }
+    ],
+    "lastUpdateTime": 1789926767000,
+    "noteId": "6ab01d6f0000000026017377",
+    "desc": "今天参加了活动感觉真是太有意思啦！谢谢CSSA，真的很用心！在参加活动的过程中，我看到了一个浅金色头发在收拾东西的女生，迷彩裤黑短袖（应该是工作人员吧～#中秋节[话题]# #中秋活动[话题]# [萌萌哒R]大概在那个海报的正下方！一个小讲台上面！盯着看了好久！感觉身材好好啊！可不可以交个朋友[害羞R][害羞R][害羞R]我也是女生[色色R][色色R][色色R]#城大CSSAUG[话题]# #城大CSAA[话题]#",
+    "user": {
+      "userId": "62a427be00000000190292fa",
+      "nickname": "一只小猫想你",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8",
+      "xsecToken": "ABrqkYrFoiI9GL3Q7mqFYKgbd4x6IBwq9l5CmZTAD56kM="
+    },
+    "atUserList": [],
+    "time": 1789926767000,
+    "ipLocation": "中国香港",
+    "shareInfo": {
+      "unShare": false
+    },
+    "xsecToken": "ABu0-lI3WCrUVkHokYlLLEKFAlUEZZSGw4OdxvAxA_l8U="
+  },
+  "comments": [
+    {
+      "subCommentCount": "1",
+      "invalid": false,
+      "createTime": 1789971579000,
+      "subCommentCursor": "6ab0cca00000000015014536",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "showTags": [
+        "is_author"
+      ],
+      "subCommentHasMore": false,
+      "noteId": "6ab01d6f0000000026017377",
+      "ipLocation": "中国香港",
+      "subComments": [
+        {
+          "createTime": 1789971616000,
+          "ipLocation": "中国香港",
+          "targetComment": {
+            "id": "6ab0cc7b000000000202baee",
+            "userInfo": {
+              "userId": "62a427be00000000190292fa",
+              "nickname": "一只小猫想你",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABysqBPzxBi5yFy6jltGmHXmL8pv5dKFYCZHEktvj9oLY="
+            }
+          },
+          "id": "6ab0cca00000000015014536",
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "invalid": false,
+          "noteId": "6ab01d6f0000000026017377",
+          "status": 0,
+          "content": "光是背影就好想摸摸[害羞R]很瘦但是有曲线肌肉的那种[偷笑R]",
+          "userInfo": {
+            "userId": "62a427be00000000190292fa",
+            "nickname": "一只小猫想你",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "ABysqBPzxBi5yFy6jltGmHXmL8pv5dKFYCZHEktvj9oLY="
+          },
+          "showTags": [
+            "is_author"
+          ]
+        }
+      ],
+      "id": "6ab0cc7b000000000202baee",
+      "status": 0,
+      "content": "好消息！今天在又一城又遇到那个姐姐啦！！！但有三个人[哭惹R]没有勇气上去要微信 小猫下次要更勇敢（^_^ 大家给我勇气吧！！",
+      "userInfo": {
+        "xsecToken": "ABysqBPzxBi5yFy6jltGmHXmL8pv5dKFYCZHEktvj9oLY=",
+        "userId": "62a427be00000000190292fa",
+        "nickname": "一只小猫想你",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "subComments": [],
+      "invalid": false,
+      "noteId": "6ab01d6f0000000026017377",
+      "status": 0,
+      "content": "还在想念[哭惹R]是不是见不到了 小猫幸运一点吧！！",
+      "id": "6ab1575e00000000150148f5",
+      "showTags": [
+        "is_author"
+      ],
+      "atUsers": [],
+      "likeCount": "0",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "liked": false,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABysqBPzxBi5yFy6jltGmHXmL8pv5dKFYCZHEktvj9oLY=",
+        "userId": "62a427be00000000190292fa",
+        "nickname": "一只小猫想你"
+      },
+      "createTime": 1790007134000,
+      "ipLocation": "中国香港",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "content": "好想好想 为什么见不到了[哭惹R]我在学校学习一天也没看到！！！为什么要惩罚小猫！！！",
+      "likeCount": "0",
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "liked": false,
+      "createTime": 1789985038000,
+      "subCommentCount": "0",
+      "invalid": false,
+      "id": "6ab1010e0000000015016b49",
+      "noteId": "6ab01d6f0000000026017377",
+      "showTags": [
+        "is_author"
+      ],
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "62a427be00000000190292fa",
+        "nickname": "一只小猫想你",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo325blrdq64e0g5ol44uv6d4nqd4baer8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABysqBPzxBi5yFy6jltGmHXmL8pv5dKFYCZHEktvj9oLY="
+      },
+      "subComments": [],
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 城大"
+}

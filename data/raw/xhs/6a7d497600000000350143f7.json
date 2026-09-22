@@ -1,0 +1,246 @@
+{
+  "note_id": "6a7d497600000000350143f7",
+  "url": "https://www.xiaohongshu.com/explore/6a7d497600000000350143f7?xsec_token=ABYSsTE07sA0XBVVHCzR0rMkovyJG1VtmmEJYRb9f79ek=",
+  "fetched_at": 1790083739.9318807,
+  "search_item": {
+    "id": "6a7d497600000000350143f7",
+    "modelType": "note",
+    "noteCard": {
+      "displayTitle": "推荐招生｜计算机安全 @ 新加坡南洋理工",
+      "user": {
+        "nickName": "CM",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/628437d00000000021024084.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "628437d00000000021024084",
+        "nickname": "CM",
+        "xsecToken": "AB5RXPtGKmA-AL4LjCCanaC9zG_D2nVGRpmqquv4pxT54="
+      },
+      "interactInfo": {
+        "liked": false,
+        "likedCount": "64",
+        "collected": false,
+        "collectedCount": "53",
+        "commentCount": "3",
+        "sharedCount": "28"
+      },
+      "cover": {
+        "height": 1024,
+        "width": 1024,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222128/ada7002be3877522f9459e86dd16f388/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222128/c7270745789f7954d80056ff1525fa18/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 1024,
+          "width": 1024,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222128/ada7002be3877522f9459e86dd16f388/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nc_n_webp_mw_1"
+            },
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222128/c7270745789f7954d80056ff1525fa18/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nc_n_webp_prv_1",
+              "imageScene": "WB_PRV"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "08-13"
+        }
+      ],
+      "type": "normal"
+    },
+    "xsecToken": "ABYSsTE07sA0XBVVHCzR0rMkovyJG1VtmmEJYRb9f79ek=",
+    "index": 16,
+    "exposed": false,
+    "trackId": "6a7d497600000000350143f7"
+  },
+  "note": {
+    "imageList": [
+      {
+        "fileId": "notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/ca03fe49d2cd9c8516c4eab5dfab5f4a/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nd_prv_wlteh_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222129/2ee5afe33445d931d7cedc5199dcc474/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nd_dft_wlteh_jpg_3"
+          }
+        ],
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222129/ca03fe49d2cd9c8516c4eab5dfab5f4a/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nd_prv_wlteh_jpg_3",
+        "stream": {},
+        "livePhoto": false,
+        "height": 1024,
+        "width": 1024,
+        "url": "",
+        "traceId": "",
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222129/2ee5afe33445d931d7cedc5199dcc474/notes_pre_post/1040g3k0323q17jg27k005ok46v88cg4453hinjg!nd_dft_wlteh_jpg_3"
+      }
+    ],
+    "lastUpdateTime": 1786595702000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "noteId": "6a7d497600000000350143f7",
+    "type": "normal",
+    "title": "推荐招生｜计算机安全 @ 新加坡南洋理工",
+    "desc": "给大家推荐一位做计算机安全和AI 交叉的老师——Penghui Li。Penghui 曾经和我一起在哥大做博后，他做科研非常严谨认真，并且负责靠谱，我曾有幸受到他指点，将我的usenix 被拒的paper 修改成S&P distinguished paper，此前我从没投中过安全四大，penghui老师的学术品位由此可见。他将于 2026 年秋季加入新加坡南洋理工大学计算与数据科学学院（NTU CCDS），担任 Tenure-track Assistant Professor，目前正在招收 2027 春/秋季博士生、博士后及访问学生。\n\t\n他的研究方向主要包括：\n\t\n🔐 AI 系统安全\n💻 软件与 Web 安全\n🔍 程序分析\n🤖 LLM for Security\n\t\n鹏辉老师过去的研究工作曾获得 ACM CCS 2024 Distinguished Paper Award、CCS 2022 Best Paper Honorable Mention、CCS 2025 Distinguished Artifact Award 等荣誉。\n\t\n💡 比较期待这样的学生\n\t\n• 对计算机安全有强烈兴趣，CS / Security / AI 基础扎实\n• 工程能力强，喜欢动手做，有 CTF / Systems 相关经验会比较加分\n• 英语 speaking & writing 能力较好\n• 做事 professional、reliable，能够认真推进研究\n\t\n📌 申请方式\n\t\n感兴趣的同学可以直接通过主页的 Google Form 申请：\n\t\n🔗 https://peng-hui.github.io/openings.html\n\t\n目前主要招收 2027 春/秋季博士生、博士后及访问学生，也欢迎对 CSC 联培感兴趣的同学联系。\n\t\n如果你对计算机安全、AI Security、Program Analysis 等方向感兴趣，或者正在考虑新加坡的 PhD / Postdoc，个人还是比较推荐关注一下！欢迎大家转发给身边合适的同学～\n\t\n#大模型[话题]# #CS科研[话题]# #留学科研[话题]# #phd申请[话题]# #NTU[话题]# #计算机安全[话题]# #最佳论文奖[话题]# #博士申请[话题]# #新加坡[话题]# #AI安全[话题]#",
+    "interactInfo": {
+      "likedCount": "64",
+      "collectedCount": "53",
+      "commentCount": "3",
+      "shareCount": "28",
+      "niceCount": "",
+      "liked": false,
+      "collected": false,
+      "followed": false,
+      "relation": "none"
+    },
+    "tagList": [
+      {
+        "id": "624d11eb000000000101e223",
+        "name": "大模型",
+        "type": "topic"
+      },
+      {
+        "id": "64f058cd000000001a00b74e",
+        "name": "CS科研",
+        "type": "topic"
+      },
+      {
+        "id": "6176965d00000000010041ce",
+        "name": "留学科研",
+        "type": "topic"
+      },
+      {
+        "id": "6135c87a0000000001004c33",
+        "name": "phd申请",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "5f4ea74b000000000100a473",
+        "name": "NTU"
+      },
+      {
+        "id": "618405c5000000000101c4ec",
+        "name": "计算机安全",
+        "type": "topic"
+      },
+      {
+        "id": "6518fbd5000000000e007c6c",
+        "name": "最佳论文奖",
+        "type": "topic"
+      },
+      {
+        "name": "博士申请",
+        "type": "topic",
+        "id": "5c2ca726000000000902152d"
+      },
+      {
+        "id": "534dbacdb4c4d6682871cfd6",
+        "name": "新加坡",
+        "type": "topic"
+      },
+      {
+        "id": "63f625da00000000010087ab",
+        "name": "AI安全",
+        "type": "topic"
+      }
+    ],
+    "atUserList": [],
+    "time": 1786615240000,
+    "user": {
+      "userId": "628437d00000000021024084",
+      "nickname": "CM",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/628437d00000000021024084.jpg",
+      "xsecToken": "ABI74Tw7SNtuqPZuPzNfd2SIyeqqRjirMh4oOQmArgj6Y="
+    },
+    "xsecToken": "ABYSsTE07sA0XBVVHCzR0rMkovyJG1VtmmEJYRb9f79ek="
+  },
+  "comments": [
+    {
+      "status": 0,
+      "content": "太强了[完啦R]",
+      "showTags": [],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "ipLocation": "新加坡",
+      "subCommentCursor": "",
+      "noteId": "6a7d497600000000350143f7",
+      "liked": false,
+      "subCommentCount": "0",
+      "id": "6a7e8e0d000000000d022000",
+      "atUsers": [],
+      "likeCount": "0",
+      "userInfo": {
+        "xsecToken": "AB7NZFJBq1KDeArr5QujAJOs4aVRfbIvLGddvQJRHMqD4=",
+        "userId": "6222ebbe0000000010004cbf",
+        "nickname": "萝卜墩",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ua1bj4v2gm05oh2tev40j5v9r86n0g?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "createTime": 1786678798000,
+      "subComments": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "6a7d497600000000350143f7",
+      "status": 0,
+      "atUsers": [],
+      "userInfo": {
+        "userId": "66ab17a2000000001d0233d8",
+        "nickname": "Penghui",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo321bgjs19n0005plb2uh7ccuo3d4ikl8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABjM7C9__BRx_TTRbMqib3eCmiy6C09cvh_dxI6ZlMWuE="
+      },
+      "subCommentHasMore": false,
+      "invalid": false,
+      "createTime": 1786718577000,
+      "subComments": [],
+      "subCommentCursor": "",
+      "content": "谢谢simin！欢迎大家联系！",
+      "liked": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "id": "6a7f297100000000070174e7",
+      "likeCount": "0",
+      "ipLocation": "湖南",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "invalid": false,
+      "noteId": "6a7d497600000000350143f7",
+      "content": "这也是真大佬[偷笑R][哭惹R]",
+      "liked": false,
+      "userInfo": {
+        "userId": "5c3a9a8e0000000007007473",
+        "nickname": "汪汪羊🥕",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ngd3hpp4s6g5n1qja71ot3j10agmvg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABm-Mms1nz0Gib5-cYGu0l9afaTHUWJGMITgZCK-u5dxE="
+      },
+      "showTags": [],
+      "atUsers": [],
+      "subComments": [],
+      "likeCount": "1",
+      "ipLocation": "浙江",
+      "subCommentCount": "0",
+      "subCommentHasMore": false,
+      "id": "6a7deb9700000000030141d5",
+      "status": 0,
+      "createTime": 1786637208000,
+      "subCommentCursor": "",
+      "expended": false,
+      "hasMore": false
+    }
+  ],
+  "search_query": "CS5294 安全管理"
+}

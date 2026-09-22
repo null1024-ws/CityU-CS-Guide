@@ -1,0 +1,617 @@
+{
+  "note_id": "69aa9018000000000d00b943",
+  "url": "https://www.xiaohongshu.com/explore/69aa9018000000000d00b943?xsec_token=ABQLD7K5JHASAId5b2LtNyuc4qQJzbgcqTAMuT0fmGKLw=",
+  "fetched_at": 1790085210.777274,
+  "search_item": {
+    "id": "69aa9018000000000d00b943",
+    "modelType": "note",
+    "noteCard": {
+      "user": {
+        "nickName": "绿间滴小狗（建筑转行版）",
+        "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/80/format/jpg",
+        "userId": "63aaa1ce0000000028018301",
+        "nickname": "绿间滴小狗（建筑转行版）",
+        "xsecToken": "ABy_ZVk6rBPa4LP-YL1798OW9ona4d59KhKxjLjRPzx-c="
+      },
+      "interactInfo": {
+        "likedCount": "50",
+        "collected": false,
+        "collectedCount": "22",
+        "commentCount": "21",
+        "sharedCount": "9",
+        "liked": false
+      },
+      "cover": {
+        "height": 651,
+        "width": 1161,
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222152/cc8cf6f4155f311188fcbaf7ad2fd98d/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nc_n_webp_mw_1",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222152/c3f4fd61b4af439c9a65a6ab060fbf22/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nc_n_webp_prv_1"
+      },
+      "imageList": [
+        {
+          "height": 651,
+          "width": 1161,
+          "infoList": [
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222152/cc8cf6f4155f311188fcbaf7ad2fd98d/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222152/c3f4fd61b4af439c9a65a6ab060fbf22/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nc_n_webp_prv_1"
+            }
+          ]
+        }
+      ],
+      "cornerTagInfo": [
+        {
+          "type": "publish_time",
+          "text": "03-06"
+        }
+      ],
+      "type": "normal",
+      "displayTitle": "建筑跑路 | 港城mfacm游戏方向offer"
+    },
+    "xsecToken": "ABQLD7K5JHASAId5b2LtNyuc4qQJzbgcqTAMuT0fmGKLw=",
+    "index": 18,
+    "exposed": false,
+    "trackId": "69aa9018000000000d00b943"
+  },
+  "note": {
+    "tagList": [
+      {
+        "id": "5c9cbc37000000000e025b60",
+        "name": "建筑留学",
+        "type": "topic"
+      },
+      {
+        "id": "5d1ea316000000000e026c68",
+        "name": "港城",
+        "type": "topic"
+      },
+      {
+        "id": "6382d4d20000000001003350",
+        "name": "建筑转游戏",
+        "type": "topic"
+      },
+      {
+        "id": "609a5fee00000000010020ea",
+        "name": "港硕",
+        "type": "topic"
+      },
+      {
+        "type": "topic",
+        "id": "67492f35000000002101037e",
+        "name": "港城mfacm"
+      },
+      {
+        "id": "5c64fec7000000000f00d9f5",
+        "name": "留学offer",
+        "type": "topic"
+      },
+      {
+        "name": "香港城市大学",
+        "type": "topic",
+        "id": "5c46d9e9000000000f018433"
+      }
+    ],
+    "lastUpdateTime": 1772789965000,
+    "shareInfo": {
+      "unShare": false
+    },
+    "type": "normal",
+    "title": "建筑跑路 | 港城mfacm游戏方向offer",
+    "desc": "Tl：12.21投递——2.23面试——3.6offer\n\t\n作品集配置：1个游戏项目＋1个服务设计项目＋1个本科建筑作业（一共10页A4）\n游戏项目：一个治愈类型的游戏项目，核心是实现人和游戏角色的同步互动，有用unity和c++做一些互动啥的（虽然大部分都是g老师做的），后面租了个VR拍了一些展示。由于申请是游戏方向，所以这个项目放了5页，包括游戏界面，代码，使用场景等等。这个项目主要展示的是空间建模能力和一些代码能力\n服务设计项目：给老漂族做的一个项目，流程比较完整所以也放上去了，放了4页。主要展示的是对于用户的理解。\n本科建筑作业：主要展示本科的学习成果和建模渲染能力，一共就放了一页，放最终渲染图。\n\t\n面经：\n1.自我介绍\n2.关于游戏的问题（包括你为什么想做游戏，你对游戏设计的理解是什么，你为什么选择我们专业，你本科和游戏有什么联系，你未来想做什么项目）\n没有问和作品集有关的问题，问的都比较常规比较泛\n3.反问\n\t\n总体来说，我感觉就是要展示你多方面的能力，让对方看到你是全面发展的，有潜力的（例如我的作品集也不是只有游戏，而是展示了用研，测试，代码，建模等，即使并不是所有能力都应用在那个游戏项目上，这些对于游戏设计还是很重要的。）\n面试方面不用太紧张，面试官很和善，按照网上面经好好准备一般没有很大问题~#建筑留学[话题]# #港城[话题]# #建筑转游戏[话题]# #港硕[话题]# #港城mfacm[话题]# #留学offer[话题]# #香港城市大学[话题]#",
+    "interactInfo": {
+      "likedCount": "50",
+      "collected": false,
+      "collectedCount": "22",
+      "commentCount": "21",
+      "shareCount": "9",
+      "relation": "none",
+      "niceCount": "",
+      "liked": false,
+      "followed": false
+    },
+    "imageList": [
+      {
+        "traceId": "",
+        "infoList": [
+          {
+            "imageScene": "WB_PRV",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222153/7ad5b385a61fc8e16affe7e37fdfdb3f/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nd_prv_wgth_jpg_3"
+          },
+          {
+            "imageScene": "WB_DFT",
+            "url": "http://sns-webpic-qc.xhscdn.com/202609222153/e1982e6e2bc7182eb6d985b9d508251a/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nd_dft_wgth_jpg_3"
+          }
+        ],
+        "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222153/e1982e6e2bc7182eb6d985b9d508251a/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nd_dft_wgth_jpg_3",
+        "stream": {},
+        "fileId": "notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8",
+        "height": 651,
+        "width": 1161,
+        "url": "",
+        "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222153/7ad5b385a61fc8e16affe7e37fdfdb3f/notes_pre_post/1040g3k831tc89po3m2d05otak77a30o1adnm9e8!nd_prv_wgth_jpg_3",
+        "livePhoto": false
+      }
+    ],
+    "atUserList": [],
+    "time": 1772785688000,
+    "noteId": "69aa9018000000000d00b943",
+    "user": {
+      "userId": "63aaa1ce0000000028018301",
+      "nickname": "绿间滴小狗（建筑转行版）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg",
+      "xsecToken": "ABh22tju8H5PU1Ks-4aVK7svk5l1i4_1PA81S0iHp4plw="
+    },
+    "xsecToken": "ABQLD7K5JHASAId5b2LtNyuc4qQJzbgcqTAMuT0fmGKLw="
+  },
+  "comments": [
+    {
+      "liked": false,
+      "id": "69aaa6e30000000014030737",
+      "userInfo": {
+        "userId": "5f8b0bdf000000000100abee",
+        "nickname": "小困",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ugq5s66ia005nsb1ffg9ave292bjco?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABb5KyOfKB31KjLfrEX4VpAPhP2Fez5gEWaVSDdsO5v2s="
+      },
+      "createTime": 1772791524000,
+      "ipLocation": "山东",
+      "subCommentCursor": "69aaa7d7000000000f02c0a7",
+      "content": "太全面了学姐[萌萌哒R]",
+      "likeCount": "0",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "userInfo": {
+            "aiAgent": false,
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE=",
+            "userId": "63aaa1ce0000000028018301",
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg"
+          },
+          "createTime": 1772791768000,
+          "targetComment": {
+            "id": "69aaa6e30000000014030737",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ugq5s66ia005nsb1ffg9ave292bjco?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABb5KyOfKB31KjLfrEX4VpAPhP2Fez5gEWaVSDdsO5v2s=",
+              "userId": "5f8b0bdf000000000100abee",
+              "nickname": "小困"
+            }
+          },
+          "invalid": false,
+          "noteId": "69aa9018000000000d00b943",
+          "status": 0,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "ipLocation": "湖北",
+          "pictures": [],
+          "id": "69aaa7d7000000000f02c0a7",
+          "content": "嘿嘿[飞吻R]",
+          "atUsers": [],
+          "liked": false
+        }
+      ],
+      "subCommentHasMore": false,
+      "noteId": "69aa9018000000000d00b943",
+      "status": 0,
+      "atUsers": [],
+      "pictures": [],
+      "invalid": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "id": "69aa9a33000000000f01b954",
+      "noteId": "69aa9018000000000d00b943",
+      "status": 0,
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o4hr29f5m6g5nuatqbg8803sdbdss0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABvC8ZUp2uy2B2HfzAcAxcjNXwKJUgQlOGElSV0WFWyh4=",
+        "userId": "5fcaee970000000001002003",
+        "nickname": "KIKI"
+      },
+      "ipLocation": "湖北",
+      "subCommentCount": "2",
+      "subCommentCursor": "69aaa02a0000000003012448",
+      "subCommentHasMore": true,
+      "atUsers": [],
+      "likeCount": "0",
+      "subComments": [
+        {
+          "showTags": [
+            "is_author"
+          ],
+          "atUsers": [],
+          "createTime": 1772789803000,
+          "ipLocation": "湖北",
+          "targetComment": {
+            "id": "69aa9a33000000000f01b954",
+            "userInfo": {
+              "nickname": "KIKI",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o4hr29f5m6g5nuatqbg8803sdbdss0?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABvC8ZUp2uy2B2HfzAcAxcjNXwKJUgQlOGElSV0WFWyh4=",
+              "userId": "5fcaee970000000001002003"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "id": "69aaa02a0000000003012448",
+          "noteId": "69aa9018000000000d00b943",
+          "status": 0,
+          "content": "你直接问他就行，下载一个unity和一个visual studio，然后就可以在unity里面写代码，你想实现什么效果就问g老师就好了，例如你想要人物动起来，你就和g老师描述我现在有一个场景，我想要这个人物从A走到B咋搞，然后你再下一个模型绑好骨，g老师就会告诉你怎么弄（因为我不是专业的，所以其实我这样搞可能会有点复杂，但反正能动就行），当然想要实现的效果最好也不要太难，其实我应该补一点unity的基础再去做的，但我当时实在没时间只能全部求助g老师了",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE=",
+            "userId": "63aaa1ce0000000028018301"
+          }
+        }
+      ],
+      "pictures": [],
+      "content": "求g老师辅助unity和c语言搭建交互项目的教程[哇R]",
+      "showTags": [],
+      "createTime": 1772788276000,
+      "invalid": false,
+      "liked": false,
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "69aaf10c000000000600b8b4",
+      "createTime": 1772810509000,
+      "subComments": [
+        {
+          "invalid": false,
+          "id": "69ab70320000000015016584",
+          "liked": false,
+          "likeCount": "0",
+          "userInfo": {
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE=",
+            "userId": "63aaa1ce0000000028018301"
+          },
+          "ipLocation": "湖北",
+          "targetComment": {
+            "id": "69aaf10c000000000600b8b4",
+            "userInfo": {
+              "userId": "6006e9ec0000000001008377",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbjjgsp2a005o06t7m090rnrd085ro?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABaAuLSWVVWjBOXD3HsJ_zbzYLOqaqv11DPu3CHHn1tJc="
+            }
+          },
+          "noteId": "69aa9018000000000d00b943",
+          "status": 0,
+          "content": "yes",
+          "atUsers": [],
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772843058000,
+          "pictures": []
+        }
+      ],
+      "subCommentHasMore": false,
+      "invalid": false,
+      "noteId": "69aa9018000000000d00b943",
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "aiAgent": false,
+        "xsecToken": "ABaAuLSWVVWjBOXD3HsJ_zbzYLOqaqv11DPu3CHHn1tJc=",
+        "userId": "6006e9ec0000000001008377",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pbjjgsp2a005o06t7m090rnrd085ro?imageView2/2/w/120/format/jpg"
+      },
+      "subCommentCursor": "69ab70320000000015016584",
+      "content": "g老师是gpt吗[暗中观察R]",
+      "atUsers": [],
+      "liked": false,
+      "ipLocation": "甘肃",
+      "showTags": [],
+      "subCommentCount": "1",
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "noteId": "69aa9018000000000d00b943",
+      "status": 0,
+      "likeCount": "0",
+      "subCommentHasMore": false,
+      "id": "69aa9406000000000d010489",
+      "showTags": [],
+      "subCommentCount": "1",
+      "subComments": [
+        {
+          "invalid": false,
+          "content": "很快就下啦！",
+          "atUsers": [],
+          "liked": false,
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772789634000,
+          "ipLocation": "湖北",
+          "id": "69aa9f81000000000f027afd",
+          "noteId": "69aa9018000000000d00b943",
+          "status": 0,
+          "likeCount": "0",
+          "userInfo": {
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE=",
+            "userId": "63aaa1ce0000000028018301",
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "69aa9406000000000d010489",
+            "userInfo": {
+              "userId": "5cfc8de20000000005020675",
+              "nickname": "星河万里.（见过铃兰版）",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/62a1df846a977c98694bf09b.jpg?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABpTXlWj59y1PxpTN_WgR3gLOZozuKtHEDCW0OIBLv9DU="
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "subCommentCursor": "69aa9f81000000000f027afd",
+      "invalid": false,
+      "content": "我跟你不是一个分支 2.25面试的 还没下[皱眉R]",
+      "atUsers": [],
+      "createTime": 1772786694000,
+      "ipLocation": "陕西",
+      "liked": false,
+      "userInfo": {
+        "nickname": "星河万里.（见过铃兰版）",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/62a1df846a977c98694bf09b.jpg?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABpTXlWj59y1PxpTN_WgR3gLOZozuKtHEDCW0OIBLv9DU=",
+        "userId": "5cfc8de20000000005020675"
+      },
+      "pictures": [],
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "userInfo": {
+        "xsecToken": "ABdGjkwdUD3wQ7fUMOQ0Jau40tgAdZRoGRCpFaz7fEe-0=",
+        "userId": "5d2c5dee000000001001acf1",
+        "nickname": "陈迹.清欢",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31upav6rp3qs05n9cbnn43b7h8ncu6b8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "ipLocation": "陕西",
+      "invalid": false,
+      "showTags": [],
+      "subCommentCount": "0",
+      "pictures": [],
+      "noteId": "69aa9018000000000d00b943",
+      "content": "你好～我想问一下会要求共享屏幕展示作品集吗",
+      "atUsers": [],
+      "liked": false,
+      "likeCount": "0",
+      "subComments": [],
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "status": 0,
+      "createTime": 1774332084000,
+      "id": "69c228b30000000014032c90",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentCount": "0",
+      "id": "69abec13000000000d034baf",
+      "content": "恭喜收到offer，欢迎加入港城大家庭一起交流讨论啦[拔草R]",
+      "liked": false,
+      "likeCount": "0",
+      "createTime": 1772874774000,
+      "invalid": false,
+      "status": 0,
+      "subComments": [],
+      "pictures": [
+        {
+          "width": 988,
+          "urlPre": "http://sns-webpic-qc.xhscdn.com/202609222153/d4c3004266affc0ca849c22123078716/comment/1040g2h031tdiq0k758005oa98qbnv84buplcjpg!nc_n_webp_mw_1",
+          "urlDefault": "http://sns-webpic-qc.xhscdn.com/202609222153/1dc01f63992f70726c06bde64086f1d0/comment/1040g2h031tdiq0k758005oa98qbnv84buplcjpg!nd_whgt34_webp_wm_1",
+          "infoList": [
+            {
+              "imageScene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222153/d4c3004266affc0ca849c22123078716/comment/1040g2h031tdiq0k758005oa98qbnv84buplcjpg!nc_n_webp_mw_1"
+            },
+            {
+              "imageScene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202609222153/1dc01f63992f70726c06bde64086f1d0/comment/1040g2h031tdiq0k758005oa98qbnv84buplcjpg!nd_whgt34_webp_wm_1"
+            }
+          ],
+          "height": 1080
+        }
+      ],
+      "noteId": "69aa9018000000000d00b943",
+      "atUsers": [],
+      "showTags": [],
+      "userInfo": {
+        "userId": "61494697000000001f03a08b",
+        "nickname": "香港城市大学CSSA",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31rdjchgm700g5oa98qbnv84b4djjfo0?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABnvnBr6XiNhbz7vuY1jWeimsmAdYzhEAYF04kQVJpfWE="
+      },
+      "ipLocation": "中国香港",
+      "subCommentCursor": "",
+      "subCommentHasMore": false,
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": false,
+      "pictures": [],
+      "noteId": "69aa9018000000000d00b943",
+      "subComments": [],
+      "invalid": false,
+      "status": 0,
+      "likeCount": "0",
+      "userInfo": {
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320qkq9e5lc605nqvmhqg8vg9ho55t6o?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "AB7WrwgXI_kIE8PpXC8FWijmQ6k6j3meHXYVKOFn-Bi9g=",
+        "userId": "5f5fb4750000000001007e09",
+        "nickname": "不过如此"
+      },
+      "subCommentCursor": "",
+      "content": "请问会问到关于作品集里面代码或者建模这种很详细的问题嘛？",
+      "atUsers": [],
+      "liked": false,
+      "showTags": [],
+      "createTime": 1773660018000,
+      "subCommentCount": "0",
+      "id": "69b7e7720000000001007835",
+      "ipLocation": "山西",
+      "expended": false,
+      "hasMore": false
+    },
+    {
+      "subCommentHasMore": true,
+      "pictures": [],
+      "id": "69aab0ce0000000006030685",
+      "status": 0,
+      "userInfo": {
+        "userId": "6382cfcc000000001f01fccf",
+        "nickname": "哈吉杰",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jr1ehfk3q005os2pv67rv6f4v8dmto?imageView2/2/w/120/format/jpg",
+        "aiAgent": false,
+        "xsecToken": "ABYz4kwF4ZnIKF8UAUqU3FMz1B0pE6JvNnuP10r-akMN4="
+      },
+      "createTime": 1772794062000,
+      "subCommentCount": "2",
+      "noteId": "69aa9018000000000d00b943",
+      "content": "恭喜恭喜[偷笑R]同建筑跑路，有兴趣投递下我们游戏公司暑期实习吗[偷笑R]可以帮内推嗷！",
+      "atUsers": [],
+      "ipLocation": "上海",
+      "invalid": false,
+      "liked": false,
+      "likeCount": "1",
+      "subCommentCursor": "69aab1c0000000000d010ae5",
+      "showTags": [],
+      "subComments": [
+        {
+          "liked": false,
+          "userInfo": {
+            "userId": "63aaa1ce0000000028018301",
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false,
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE="
+          },
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1772794305000,
+          "ipLocation": "湖北",
+          "id": "69aab1c0000000000d010ae5",
+          "noteId": "69aa9018000000000d00b943",
+          "content": "是什么公司呀",
+          "likeCount": "0",
+          "targetComment": {
+            "id": "69aab0ce0000000006030685",
+            "userInfo": {
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jr1ehfk3q005os2pv67rv6f4v8dmto?imageView2/2/w/120/format/jpg",
+              "aiAgent": false,
+              "xsecToken": "ABYz4kwF4ZnIKF8UAUqU3FMz1B0pE6JvNnuP10r-akMN4=",
+              "userId": "6382cfcc000000001f01fccf",
+              "nickname": "哈吉杰"
+            }
+          },
+          "pictures": [],
+          "invalid": false,
+          "status": 0,
+          "atUsers": []
+        }
+      ],
+      "expended": false,
+      "hasMore": true
+    },
+    {
+      "id": "6a01a4620000000027020fca",
+      "status": -2,
+      "likeCount": "0",
+      "subCommentCursor": "6a01a9c5000000002a02eb35",
+      "content": "那你直接说是g老师做的吗",
+      "liked": false,
+      "showTags": [],
+      "ipLocation": "广东",
+      "noteId": "69aa9018000000000d00b943",
+      "atUsers": [],
+      "userInfo": {
+        "xsecToken": "AB1l5_sGRosmamg9iB6oHN4Vg75koEY0f_sBF5T2IAdNI=",
+        "userId": "5b389ef211be10076faaeb97",
+        "nickname": "vovoxoxo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hc43vl242004a6o39ff5qsn5nocaj8?imageView2/2/w/120/format/jpg",
+        "aiAgent": false
+      },
+      "subComments": [
+        {
+          "invalid": false,
+          "noteId": "69aa9018000000000d00b943",
+          "status": 0,
+          "atUsers": [],
+          "liked": false,
+          "likeCount": "0",
+          "showTags": [
+            "is_author"
+          ],
+          "createTime": 1778493893000,
+          "ipLocation": "湖北",
+          "id": "6a01a9c5000000002a02eb35",
+          "content": "他好像没问我代码的问题，我就没说",
+          "userInfo": {
+            "xsecToken": "AB7QmEGkrAH-E5HEo2sDowiKERYIDDJYvlkQIc-UxxOsE=",
+            "userId": "63aaa1ce0000000028018301",
+            "nickname": "绿间滴小狗（建筑转行版）",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/644f21307cf83cd837e37c34.jpg?imageView2/2/w/120/format/jpg",
+            "aiAgent": false
+          },
+          "targetComment": {
+            "id": "6a01a4620000000027020fca",
+            "userInfo": {
+              "aiAgent": false,
+              "xsecToken": "AB1l5_sGRosmamg9iB6oHN4Vg75koEY0f_sBF5T2IAdNI=",
+              "userId": "5b389ef211be10076faaeb97",
+              "nickname": "vovoxoxo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hc43vl242004a6o39ff5qsn5nocaj8?imageView2/2/w/120/format/jpg"
+            }
+          },
+          "pictures": []
+        }
+      ],
+      "subCommentHasMore": true,
+      "invalid": false,
+      "createTime": 1778492515000,
+      "subCommentCount": "5",
+      "pictures": [],
+      "expended": false,
+      "hasMore": true
+    }
+  ],
+  "search_query": "CS5367 游戏设计"
+}

@@ -1,0 +1,46 @@
+{
+  "note_id": "6a96b1610000000011037db3",
+  "url": "https://www.xiaohongshu.com/explore/6a96b1610000000011037db3?xsec_token=ABODIk6yy_-V48ME6PZdmEAmEQkVWf8wlg_Nhnm5YrSeI=",
+  "fetched_at": 1790080143.7164495,
+  "course_codes": [
+    "CS5285",
+    "CS5481",
+    "CS5487"
+  ],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "港城莞CS课程组队",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "博主选了CS 5351, CS5487, CS5481, CS5285, CS 5185这五门课，想要找同是港城莞CS研一同学组队\n#留学[话题]# #港城大[话题]#  #香港城市大学东莞[话题]# #港城莞[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "科研大佬都来了吗这届[doge]",
+      "sourceRef": "comment:6a96b5790000000014038358",
+      "commentId": "6a96b5790000000014038358",
+      "likes": 0,
+      "author": "Brench"
+    },
+    {
+      "type": "sub_comment",
+      "text": "不是佬[doge]",
+      "sourceRef": "comment:6a96b6980000000002013722",
+      "commentId": "6a96b6980000000002013722",
+      "likes": 0,
+      "author": "小红薯69143A56"
+    },
+    {
+      "type": "comment",
+      "text": "研二可以么，5185[偷笑R]",
+      "sourceRef": "comment:6a96c347000000000200cf0c",
+      "commentId": "6a96c347000000000200cf0c",
+      "likes": 0,
+      "author": "Mine Mine（见过jay版）"
+    }
+  ]
+}

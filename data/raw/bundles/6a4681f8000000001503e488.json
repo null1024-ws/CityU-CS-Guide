@@ -1,0 +1,34 @@
+{
+  "note_id": "6a4681f8000000001503e488",
+  "url": "https://www.xiaohongshu.com/explore/6a4681f8000000001503e488?xsec_token=AB0iw8vMCxvpraIKA1WGI4v9amY05_JvD0JXtirMmGp7c=",
+  "fetched_at": 1790081114.6656868,
+  "course_codes": [],
+  "chunks": [
+    {
+      "type": "post_title",
+      "text": "OMSCS选课指南-Deterministic Optimization",
+      "sourceRef": "post"
+    },
+    {
+      "type": "post_body",
+      "text": "大家好，学习博主又回来了！[哇R]\n工作之后想学点东西，于是默默申请了georgia tech omscs，目前进度条约50%，觉得自己大概率可以坚持修完了，开一个channel写一下（求求xhs多给我点流量吧[汗颜R]）\n\t\n第一门课 ISYE 6669: Deterministic Optimization\n\t\n选这门课主要因为工作需要，系统学学Operations Research和优化理论知识。课程内容以 Linear Programming为核心，最后几周会简单介绍 Mixed Integer Linear Programming(MILP)\n课程节奏比较紧凑，每周都有作业，peer grading，基本都满分。这门课烦人的点在于考试占比太大，我最后只差一道选择题就能拿A了…但撇开成绩不谈，这门课确实能够学到东西，主要内容包括：\n* Convex Optimization: Covex Sets, Convex Functions\n* Optimization Algorithms: Gradient Descent, Newton-Raphson Method\n* Duality Theory: Lagrangian Relaxation; Primal and Dual Problem; Complementary Slackness; Weak and Strong Duality\n* Optimization Geometry; 从几何角度理解优化问题：Polyhedra、Cones、Lines、Half-Spaces\n* Degeneracy\n* Linear Programming Algorithms: 手工解Simplex Method,Basic Feasible Solutions (BFS), Reduced Costs\n* Large-Scale Optimization:Column Generation, Dantzig-Wolfe Decomposition\n* Integer Programming: If-Else 条件的整数规划表示\n\t\n总体来说，如果希望系统学习线性优化和对偶理论，这门课还是非常值得上的\n\t\n#omscs[话题]# #omscs选课[话题]# #omscs2025[话题]# #转码[话题]# #最优化[话题]#",
+      "sourceRef": "post"
+    },
+    {
+      "type": "comment",
+      "text": "想问问，他的convex这些讲得好吗？真的能把原理讲明白，还是只是让人会软件操作啊？",
+      "sourceRef": "comment:6a98ad83000000000d028801",
+      "commentId": "6a98ad83000000000d028801",
+      "likes": 0,
+      "author": "床奴超能睡"
+    },
+    {
+      "type": "sub_comment",
+      "text": "我觉得讲得挺偏理论啊，给你讲convex set的概念，考试练习题都是那种识别convex函数；之后我还手撕街simplex[笑哭R]",
+      "sourceRef": "comment:6a98fd760000000015001144",
+      "commentId": "6a98fd760000000015001144",
+      "likes": 0,
+      "author": "Sofifi Rocks！"
+    }
+  ]
+}

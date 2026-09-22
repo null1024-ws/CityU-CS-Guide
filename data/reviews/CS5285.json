@@ -5,18 +5,19 @@
       "value": "hard",
       "label": "较难",
       "confidence": "confirmed",
-      "sourceCount": 13,
-      "distinctSources": 8
+      "sourceCount": 14,
+      "distinctSources": 9
     },
     "workload": {
       "value": "light",
       "label": "轻松",
       "confidence": "disputed",
-      "sourceCount": 2,
-      "distinctSources": 2,
-      "note": "来源说法不一：轻松×1、繁重×1",
+      "sourceCount": 3,
+      "distinctSources": 3,
+      "note": "来源说法不一：轻松×1、适中×1、繁重×1",
       "variants": {
         "light": 1,
+        "medium": 1,
         "heavy": 1
       }
     },
@@ -146,5 +147,5 @@
       "role": "supplement"
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-22"
 }
