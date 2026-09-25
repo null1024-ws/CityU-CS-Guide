@@ -6,9 +6,11 @@
 
 在线访问：[https://null1024-ws.github.io/CityU-CS-Guide/](https://null1024-ws.github.io/CityU-CS-Guide/)
 
-![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)
+![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb) [![CityU Hub](https://cityu-hub.bond/badge/null1024-ws-cityu-cs-guide.svg)](https://cityu-hub.bond/project/null1024-ws-cityu-cs-guide)
 
 > 本项目通过 [OrcaRouter](https://www.orcarouter.ai/ref/ref_f97ea114d1bf7fd70092) 统一路由多家大模型 API，开箱即用、稳定省心；同样在折腾 AI 应用的朋友，欢迎用这条推荐链接免费试用。
+
+
 
 ## 内容
 
